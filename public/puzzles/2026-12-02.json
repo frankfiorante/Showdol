@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-02",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,8ff14b804501bc4efaa1f61bb049d6387fbf2de04e69c23fa89753e8068b358b",
+    "ai": "sodium,8f63c626c7133b80b229d92da8916316cc2dfd3cdebcb866f5988b1a9286192b"
+  },
+  "playerSpecies": [
+    "Mamoswine",
+    "Wigglytuff",
+    "Pachirisu",
+    "Toxicroak",
+    "Kingambit",
+    "Persian"
+  ],
+  "player": "Mamoswine||ChoiceBand|ThickFat|knockoff,iciclecrash,iceshard,earthquake||85,85,85,85,85,85|F|||81|,,,,,Ground]Wigglytuff||Leftovers|Competitive|wish,protect,knockoff,dazzlinggleam||85,85,85,85,85,85|M|||96|,,,,,Steel]Pachirisu||AssaultVest|VoltAbsorb|nuzzle,uturn,superfang,thunderbolt||85,85,85,85,85,85|F|||96|,,,,,Flying]Toxicroak||ChoiceBand|DrySkin|gunkshot,closecombat,suckerpunch,knockoff||85,85,85,85,85,85|M|||84|,,,,,Dark]Kingambit||Leftovers|SupremeOverlord|swordsdance,suckerpunch,ironhead,kowtowcleave||85,85,85,85,85,85|M|||74|,,,,,Dark]Persian||SilkScarf|Technician|knockoff,doubleedge,uturn,fakeout||85,85,85,85,85,85|M|||92|,,,,,Normal",
+  "ai": "Quaquaval||Leftovers|Moxie|closecombat,roost,aquastep,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Steel]Zacian||ChoiceBand|IntrepidSword|wildcharge,playrough,psychicfangs,closecombat||85,85,85,85,85,85|N|||69|,,,,,Fighting]Zapdos||HeavyDutyBoots|Static|roost,thunderbolt,hurricane,heatwave||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Volbeat||HeavyDutyBoots|Prankster|uturn,roost,thunderwave,encore||85,85,85,85,85,85|M|||90|,,,,,Steel]Blissey||Leftovers|NaturalCure|healbell,softboiled,thunderwave,seismictoss||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Iron Leaves||ChoiceBand|QuarkDrive|closecombat,psyblade,leafblade,megahorn||85,85,85,85,85,85|N|||80|,,,,,Fighting"
+}

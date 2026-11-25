@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-12",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,df61991bc228e6bb01b0526315dd81567727158fb675dd40d871adf94720c7e4",
+    "ai": "sodium,fec1cab3629f8375b3344e1b1eeff3b9802b6d542711681d141a8fd133cfb94a"
+  },
+  "playerSpecies": [
+    "Krookodile",
+    "Zekrom",
+    "Zamazenta",
+    "Iron Crown",
+    "Kingdra",
+    "Milotic"
+  ],
+  "player": "Krookodile||Leftovers|Intimidate|knockoff,gunkshot,bulkup,earthquake||85,85,85,85,85,85|M|||79|,,,,,Poison]Zekrom||Leftovers|Teravolt|dragondance,outrage,boltstrike,substitute||85,85,85,85,85,85|N|||71|,,,,,Steel]Zamazenta||RustedShield|DauntlessShield|heavyslam,stoneedge,bodypress,irondefense||85,85,85,85,85,85|N|||68|,,,,,Fighting]Iron Crown||ChoiceSpecs|QuarkDrive|tachyoncutter,voltswitch,focusblast,psyshock||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Kingdra||LifeOrb|SwiftSwim|wavecrash,raindance,hurricane,dracometeor||85,85,85,85,85,85|F|||84|,,,,,Water]Milotic||Leftovers|Competitive|recover,icebeam,scald,dragontail||85,85,85,85,85,85|M|||83|,,,,,Dragon",
+  "ai": "Vigoroth||Eviolite|VitalSpirit|bulkup,bodyslam,knockoff,slackoff||85,85,85,85,85,85|F|||85|,,,,,Ghost]Lucario||LifeOrb|InnerFocus|focusblast,flashcannon,nastyplot,vacuumwave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fighting]Hoopa|HoopaUnbound|AssaultVest|Magician|focusblast,gunkshot,psychic,hyperspacefury||85,85,85,85,85,85|N|||80|,,,,,Poison]Oranguru||Leftovers|InnerFocus|nastyplot,focusblast,thunderbolt,psychic||85,,85,85,85,85|M|,0,,,,||92|,,,,,Psychic]Donphan||Leftovers|Sturdy|rapidspin,earthquake,knockoff,stealthrock||85,85,85,85,85,85|M|||84|,,,,,Water]Koraidon||LoadedDice|OrichalcumPulse|collisioncourse,flareblitz,scaleshot,swordsdance||85,85,85,85,85,85|N|||64|,,,,,Fire"
+}

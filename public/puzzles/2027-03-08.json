@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-08",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,e8c35bddd121430dba0c8a366b8dce4fe9c97c96583158debe0417eaf1392c5e",
+    "ai": "sodium,f679373475b41a8ded96b141dc7a7e5e6c6cc1420512bfd2a9a8facfdb4e2fd2"
+  },
+  "playerSpecies": [
+    "Alomomola",
+    "Urshifu",
+    "Skeledirge",
+    "Moltres",
+    "Venusaur",
+    "Veluza"
+  ],
+  "player": "Alomomola||RockyHelmet|Regenerator|scald,flipturn,wish,protect||85,85,85,85,85,85|F|||87|,,,,,Poison]Urshifu||ChoiceBand|UnseenFist|wickedblow,poisonjab,closecombat,uturn||85,85,85,85,85,85|F|||74|,,,,,Fighting]Skeledirge||HeavyDutyBoots|Unaware|shadowball,slackoff,torchsong,flamecharge||85,85,85,85,85,85|M|||79|,,,,,Fairy]Moltres||HeavyDutyBoots|FlameBody|fireblast,roost,bravebird,scorchingsands||85,85,85,85,85,85|N|||81|,,,,,Ground]Venusaur||Leftovers|Chlorophyll|leechseed,sludgebomb,substitute,sleeppowder||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Veluza||ChoiceBand|Sharpness|nightslash,psychocut,aquacutter,aquajet||85,85,85,85,85,85|M|||85|,,,,,Dark",
+  "ai": "Krookodile||Leftovers|Intimidate|bulkup,earthquake,gunkshot,knockoff||85,85,85,85,85,85|M|||79|,,,,,Poison]Jirachi||Leftovers|SereneGrace|bodyslam,wish,ironhead,protect||85,85,85,85,85,85|N|||80|,,,,,Water]Pikachu|PikachuHoenn|LightBall|LightningRod|playrough,volttackle,knockoff,surf||85,85,85,85,85,85|M|||93|,,,,,Water]Ampharos||LifeOrb|Static|focusblast,agility,thunderbolt,dazzlinggleam||85,,85,85,85,85|M|,0,,,,||88|,,,,,Electric]Breloom||LifeOrb|Technician|rocktomb,spore,bulletseed,machpunch||85,85,85,85,85,85|M|||83|,,,,,Rock]Inteleon||ChoiceSpecs|Torrent|uturn,scald,icebeam,hydropump||85,85,85,85,85,85|F|||81|,,,,,Water"
+}

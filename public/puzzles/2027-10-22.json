@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-22",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5c152e18884f3eb9543fbd11629d4380a381468e68c9b0aebf28c3d28caba75d",
+    "ai": "sodium,61e62436c335cde5593e2143a853136177bddab7f12eead9d024a056cd97a8e0"
+  },
+  "playerSpecies": [
+    "Ninetales-Alola",
+    "Blastoise",
+    "Meowscarada",
+    "Excadrill",
+    "Snorlax",
+    "Thundurus-Therian"
+  ],
+  "player": "Ninetales|NinetalesAlola|LightClay|SnowWarning|freezedry,auroraveil,blizzard,moonblast||85,,85,85,85,85|F|,0,,,,||78|,,,,,Steel]Blastoise||WhiteHerb|Torrent|hydropump,icebeam,shellsmash,terablast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Meowscarada||LifeOrb|Protean|flowertrick,knockoff,tripleaxel,toxicspikes||85,85,85,85,85,85|F|||78|,,,,,Grass]Excadrill||Leftovers|MoldBreaker|earthquake,rapidspin,ironhead,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Grass]Snorlax||Leftovers|ThickFat|curse,sleeptalk,bodyslam,rest||85,85,85,85,85,85|F|||82|,,,,,Fairy]Thundurus|ThundurusTherian|ChoiceSpecs|VoltAbsorb|thunderbolt,psychic,sludgewave,voltswitch||85,,85,85,85,85|M|,0,,,,||80|,,,,,Poison",
+  "ai": "Urshifu||ChoiceBand|UnseenFist|closecombat,suckerpunch,poisonjab,wickedblow||85,85,85,85,85,85|F|||74|,,,,,Fighting]Lurantis||Leftovers|Contrary|superpower,synthesis,leafstorm,defog||85,85,85,85,85,85|F|||87|,,,,,Fighting]Forretress||Leftovers|Sturdy|stealthrock,ironhead,spikes,bodypress||85,85,85,85,85,85|F|||84|,,,,,Fighting]Hitmontop||ChoiceBand|Intimidate|stoneedge,suckerpunch,closecombat,earthquake||85,85,85,85,85,85|M|||88|,,,,,Steel]Polteageist||WhiteHerb|CursedBody|shadowball,strengthsap,shellsmash,terablast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Veluza||SitrusBerry|Sharpness|filletaway,psychocut,nightslash,aquacutter||85,85,85,85,85,85|M|||85|,,,,,Psychic"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-17",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,796438a49f31fb2b7198885f91329f2c09ece6f9a29e063dff5c7161cd77904e",
+    "ai": "sodium,f08882c7ba66f4c4b85746c10d43d2c8173b5b0b489c648a5f7ece1fd5f3329a"
+  },
+  "playerSpecies": [
+    "Squawkabilly",
+    "Smeargle",
+    "Ampharos",
+    "Lycanroc-Midnight",
+    "Toxicroak",
+    "Persian-Alola"
+  ],
+  "player": "Squawkabilly||FlameOrb|Guts|bravebird,quickattack,protect,facade||85,85,85,85,85,85|M|||85|,,,,,Normal]Smeargle||WideLens|Technician|spore,populationbomb,shellsmash,powertrip||85,85,85,85,85,85|M|||95|,,,,,Ghost]Ampharos||ChoiceSpecs|Static|thunderbolt,voltswitch,dazzlinggleam,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Electric]Lycanroc|LycanrocMidnight|ChoiceBand|NoGuard|suckerpunch,playrough,closecombat,stoneedge||85,85,85,85,85,85|F|||88|,,,,,Fighting]Toxicroak||ChoiceBand|DrySkin|closecombat,gunkshot,suckerpunch,knockoff||85,85,85,85,85,85|F|||84|,,,,,Dark]Persian|PersianAlola|Leftovers|FurCoat|nastyplot,darkpulse,hypnosis,thunderbolt||85,,85,85,85,85|F|,0,,,,||86|,,,,,Electric",
+  "ai": "Vivillon|VivillonRiver|HeavyDutyBoots|CompoundEyes|sleeppowder,bugbuzz,quiverdance,hurricane||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel]Plusle||LifeOrb|LightningRod|thunderbolt,grassknot,alluringvoice,nastyplot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Fairy]Hariyama||FlameOrb|Guts|facade,headlongrush,closecombat,knockoff||85,85,85,85,85,85|M|||87|,,,,,Normal]Kricketune||HeavyDutyBoots|Technician|stickyweb,pounce,taunt,knockoff||85,85,85,85,85,85|M|||99|,,,,,Ghost]Reuniclus||LifeOrb|MagicGuard|recover,calmmind,focusblast,psychic||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fighting]Revavroom||LifeOrb|Filter|highhorsepower,shiftgear,gunkshot,ironhead||85,85,85,85,85,85|F|||79|,,,,,Ground"
+}

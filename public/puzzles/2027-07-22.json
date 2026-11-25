@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-22",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,ced775b6aea0796962054fe1ed806f7b9bef7a7638100b19c678b2fa19a421a6",
+    "ai": "sodium,bd602713016bea337cb799eff07fee15434c55e57464da8d27f716cab2b6c523"
+  },
+  "playerSpecies": [
+    "Brute Bonnet",
+    "Flapple",
+    "Sylveon",
+    "Bastiodon",
+    "Deoxys-Attack",
+    "Gallade"
+  ],
+  "player": "Brute Bonnet||Leftovers|Protosynthesis|closecombat,spore,crunch,suckerpunch||85,85,85,85,85,85|N|||79|,,,,,Poison]Flapple||ChoiceBand|Hustle|uturn,suckerpunch,outrage,gravapple||85,85,85,85,85,85|M|||88|,,,,,Steel]Sylveon||Leftovers|Pixilate|wish,protect,calmmind,hypervoice||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Bastiodon||ChestoBerry|Soundproof|irondefense,foulplay,bodypress,rest||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Deoxys|DeoxysAttack|LifeOrb|Pressure|extremespeed,knockoff,superpower,psychoboost||85,85,85,85,85,85|N|||72|,,,,,Fighting]Gallade||LifeOrb|Sharpness|psychocut,sacredsword,nightslash,agility||85,85,85,85,85,85|M|||80|,,,,,Fighting",
+  "ai": "Malamar||ChestoBerry|Contrary|psychocut,rest,knockoff,superpower||85,85,85,85,85,85|F|||82|,,,,,Poison]Glalie||HeavyDutyBoots|InnerFocus|earthquake,spikes,taunt,freezedry||85,85,85,85,85,85|F|||96|,,,,,Ground]Hydreigon||ChoiceSpecs|Levitate|darkpulse,dracometeor,uturn,fireblast||85,85,85,85,85,85|M|||79|,,,,,Dragon]Dodrio||HeavyDutyBoots|EarlyBird|bravebird,drillrun,swordsdance,knockoff||85,85,85,85,85,85|F|||85|,,,,,Ground]Regigigas||Leftovers|SlowStart|bodyslam,rest,sleeptalk,knockoff||85,85,85,85,85,85|N|||84|,,,,,Ghost]Ribombee||HeavyDutyBoots|ShieldDust|terablast,moonblast,quiverdance,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground"
+}

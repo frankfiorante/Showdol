@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-19",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,b6c7ddfd3e48c2d84258a1727041012e43f18339e7326a662845e5e76c9fbdc3",
+    "ai": "sodium,8d74793cf75cc320ae3d5beb50a1f1af75581180ec6e31789643afd6382a9e8c"
+  },
+  "playerSpecies": [
+    "Rillaboom",
+    "Lapras",
+    "Salazzle",
+    "Pawmot",
+    "Hariyama",
+    "Deoxys-Speed"
+  ],
+  "player": "Rillaboom||ChoiceBand|GrassySurge|uturn,knockoff,grassyglide,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Lapras||ChoiceSpecs|WaterAbsorb|icebeam,freezedry,hydropump,sparklingaria||81,,85,85,85,85|F|,0,,,,||87|,,,,,Ice]Salazzle||Leftovers|Corrosion|toxic,protect,flamethrower,substitute||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Pawmot||LifeOrb|VoltAbsorb|revivalblessing,closecombat,doubleshock,knockoff||85,85,85,85,85,85|M|||80|,,,,,Electric]Hariyama||AssaultVest|ThickFat|knockoff,heavyslam,headlongrush,closecombat||85,85,85,85,85,85|F|||87|,,,,,Steel]Deoxys|DeoxysSpeed|Leftovers|Pressure|taunt,psychoboost,knockoff,stealthrock||85,85,85,85,85,85|N|||82|,,,,,Dark",
+  "ai": "Galvantula||FocusSash|CompoundEyes|stickyweb,energyball,thunder,bugbuzz||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Illumise||HeavyDutyBoots|Prankster|thunderwave,roost,bugbuzz,encore||85,,85,85,85,85|F|,0,,,,||91|,,,,,Water]Gengar||LifeOrb|CursedBody|shadowball,sludgewave,encore,toxicspikes||85,,85,85,85,85|F|,0,,,,||81|,,,,,Ghost]Mewtwo||LifeOrb|Unnerve|aurasphere,nastyplot,recover,psystrike||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic]Slowking||HeavyDutyBoots|Regenerator|slackoff,psychicnoise,chillyreception,scald||85,,85,85,85,85|F|,0,,,,||88|,,,,,Dragon]Salamence||HeavyDutyBoots|Intimidate|roost,dualwingbeat,outrage,dragondance||85,85,85,85,85,85|M|||77|,,,,,Steel"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-04",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,2c6962166896078f039ec317b21b5457140a509a7879ec11e00915f9af785c1a",
+    "ai": "sodium,2c82807c8d38b795f5935fed16c2bc53037b8ced04dd036d213c55c1d4af75ff"
+  },
+  "playerSpecies": [
+    "Chi-Yu",
+    "Oricorio-Pom-Pom",
+    "Ting-Lu",
+    "Venomoth",
+    "Iron Treads",
+    "Falinks"
+  ],
+  "player": "Chi-Yu||ChoiceScarf|BeadsofRuin|darkpulse,flamethrower,overheat,psychic||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Oricorio|OricorioPomPom|HeavyDutyBoots|Dancer|quiverdance,roost,hurricane,revelationdance||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Ting-Lu||Leftovers|VesselofRuin|earthquake,whirlwind,stealthrock,throatchop||85,85,85,85,85,85|N|||78|,,,,,Poison]Venomoth||HeavyDutyBoots|TintedLens|sleeppowder,quiverdance,sludgewave,bugbuzz||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Iron Treads||AssaultVest|QuarkDrive|earthquake,knockoff,ironhead,rapidspin||85,85,85,85,85,85|N|||77|,,,,,Dragon]Falinks||LifeOrb|Defiant|noretreat,closecombat,ironhead,knockoff||85,85,85,85,85,85|N|||84|,,,,,Dark",
+  "ai": "Ribombee||FocusSash|ShieldDust|stunspore,stickyweb,bugbuzz,moonblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Haxorus||LumBerry|MoldBreaker|ironhead,closecombat,dragondance,outrage||85,85,85,85,85,85|F|||78|,,,,,Steel]Primarina||Leftovers|LiquidVoice|moonblast,calmmind,drainingkiss,psychicnoise||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel]Abomasnow||LightClay|SnowWarning|earthquake,blizzard,woodhammer,auroraveil||77,85,85,85,85,85|F|||84|,,,,,Water]Salamence||HeavyDutyBoots|Intimidate|earthquake,dragondance,outrage,dualwingbeat||85,85,85,85,85,85|M|||77|,,,,,Ground]Girafarig||Eviolite|SapSipper|thunderbolt,psyshock,hypervoice,nastyplot||85,,85,85,85,85|M|,0,,,,||89|,,,,,Normal"
+}

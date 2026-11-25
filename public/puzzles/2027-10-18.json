@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-18",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,7a18526d91fb88de7c18b8655e480e8154cb075fafff279f806699eea7c11cd6",
+    "ai": "sodium,85eccb826446527294a798c929cc039e41285420bd0175329888237f49a99d0f"
+  },
+  "playerSpecies": [
+    "Excadrill",
+    "Gumshoos",
+    "Gliscor",
+    "Regice",
+    "Tinkaton",
+    "Tornadus-Therian"
+  ],
+  "player": "Excadrill||Leftovers|MoldBreaker|rapidspin,earthquake,swordsdance,ironhead||85,85,85,85,85,85|M|||79|,,,,,Grass]Gumshoos||ChoiceBand|Adaptability|doubleedge,earthquake,knockoff,uturn||85,85,85,85,85,85|F|||95|,,,,,Ground]Gliscor||ToxicOrb|PoisonHeal|knockoff,earthquake,toxic,protect||85,85,85,85,85,85|F|||76|,,,,,Water]Regice||HeavyDutyBoots|ClearBody|bodypress,icebeam,thunderbolt,thunderwave||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Tinkaton||Leftovers|MoldBreaker|protect,swordsdance,gigatonhammer,playrough||85,85,85,85,85,85|F|||82|,,,,,Steel]Tornadus|TornadusTherian|ChoiceSpecs|Regenerator|heatwave,bleakwindstorm,uturn,grassknot||85,85,85,85,85,85|M|||79|,,,,,Fire",
+  "ai": "Arcanine|ArcanineHisui|ChoiceBand|RockHead|flareblitz,extremespeed,closecombat,headsmash||81,85,85,85,85,85|F|||79|,,,,,Rock]Weavile||HeavyDutyBoots|Pickpocket|tripleaxel,knockoff,swordsdance,lowkick||85,85,85,85,85,85|F|||79|,,,,,Ice]Chi-Yu||ChoiceSpecs|BeadsofRuin|flamethrower,overheat,darkpulse,psychic||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Lunala||Leftovers|ShadowShield|moonlight,calmmind,psyshock,moongeistbeam||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fairy]Electrode|ElectrodeHisui|Leftovers|Soundproof|substitute,gigadrain,leechseed,thunderbolt||85,,85,85,85,85|N|,0,,,,||87|,,,,,Poison]Pawmot||LeppaBerry|VoltAbsorb|closecombat,doubleshock,nuzzle,revivalblessing||85,85,85,85,85,85|F|||80|,,,,,Electric"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-15",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5cb8cac87262eef324e2020e50df3cec5d4e7ac8dd63014ff7c216c2195f8eb7",
+    "ai": "sodium,50db1d7f5848d3685e231ab583163dfdeeeef3d9fe4d7ea3628cfe61d41e0013"
+  },
+  "playerSpecies": [
+    "Glaceon",
+    "Hitmontop",
+    "Okidogi",
+    "Bruxish",
+    "Exeggutor",
+    "Eiscue"
+  ],
+  "player": "Glaceon||HeavyDutyBoots|IceBody|wish,protect,freezedry,mudshot||85,,85,85,85,85|M|,0,,,,||94|,,,,,Ground]Hitmontop||Leftovers|Technician|bulkup,closecombat,tripleaxel,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Ice]Okidogi||AssaultVest|ToxicChain|drainpunch,gunkshot,knockoff,psychicfangs||85,85,85,85,85,85|M|||77|,,,,,Dark]Bruxish||LifeOrb|StrongJaw|wavecrash,psychicfangs,swordsdance,crunch||85,85,85,85,85,85|M|||85|,,,,,Psychic]Exeggutor||SitrusBerry|Harvest|sleeppowder,psychic,leechseed,substitute||77,,85,85,85,85|M|,0,,,,||89|,,,,,Steel]Eiscue||SitrusBerry|IceFace|icespinner,bellydrum,liquidation,terablast||81,85,85,85,85,85|M|||88|,,,,,Ground",
+  "ai": "Farigiraf||Leftovers|SapSipper|psychicnoise,wish,bodyslam,protect||85,85,85,85,85,85|F|||89|,,,,,Water]Virizion||LifeOrb|Justified|stoneedge,closecombat,leafblade,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock]Meganium||Leftovers|Overgrow|swordsdance,knockoff,earthquake,petalblizzard||85,85,85,85,85,85|F|||90|,,,,,Steel]Noctowl||HeavyDutyBoots|TintedLens|defog,hurricane,roost,hypervoice||85,,85,85,85,85|F|,0,,,,||95|,,,,,Normal]Sneasler||ChoiceBand|PoisonTouch|uturn,direclaw,closecombat,throatchop||85,85,85,85,85,85|M|||74|,,,,,Fighting]Chien-Pao||HeavyDutyBoots|SwordofRuin|swordsdance,iciclecrash,throatchop,suckerpunch||85,85,85,85,85,85|N|||72|,,,,,Dark"
+}

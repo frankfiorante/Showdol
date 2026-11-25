@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-14",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,0a4f6f1e7fd8112ae2662afae03b481646f28d2c65ba317a8ca5805088327c83",
+    "ai": "sodium,fc750958dfad86746572a8a7b339b03d8a0030c564442973c3a7f7930bca696c"
+  },
+  "playerSpecies": [
+    "Arcanine",
+    "Calyrex-Ice",
+    "Rhydon",
+    "Mandibuzz",
+    "Slowking-Galar",
+    "Rillaboom"
+  ],
+  "player": "Arcanine||HeavyDutyBoots|Intimidate|morningsun,extremespeed,flareblitz,closecombat||85,85,85,85,85,85|M|||84|,,,,,Normal]Calyrex|CalyrexIce|WeaknessPolicy|AsOneGlastrier|agility,highhorsepower,closecombat,glaciallance||85,85,85,85,85,85|N|||72|,,,,,Ground]Rhydon||Eviolite|LightningRod|stealthrock,stoneedge,megahorn,earthquake||85,85,85,85,85,85|M|||85|,,,,,Dragon]Mandibuzz||HeavyDutyBoots|Overcoat|roost,foulplay,bravebird,toxic||85,85,85,85,85,85|F|||85|,,,,,Steel]Slowking|SlowkingGalar|Leftovers|Regenerator|slackoff,sludgebomb,toxicspikes,psyshock||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Rillaboom||ChoiceBand|GrassySurge|woodhammer,uturn,grassyglide,highhorsepower||85,85,85,85,85,85|F|||79|,,,,,Grass",
+  "ai": "Pachirisu||HeavyDutyBoots|VoltAbsorb|superfang,discharge,encore,uturn||85,85,85,85,85,85|M|||96|,,,,,Flying]Shaymin|ShayminSky|ChoiceSpecs|SereneGrace|seedflare,airslash,dazzlinggleam,earthpower||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Sandy Shocks||HeavyDutyBoots|Protosynthesis|voltswitch,stealthrock,earthpower,thunderbolt||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass]Sandaconda||LoadedDice|ShedSkin|scaleshot,rockblast,earthquake,coil||85,85,85,85,85,85|M|||84|,,,,,Dragon]Samurott|SamurottHisui|LifeOrb|Sharpness|swordsdance,ceaselessedge,sacredsword,razorshell||85,85,85,85,85,85|F|||77|,,,,,Poison]Pyroar||HeavyDutyBoots|Unnerve|hypervoice,darkpulse,willowisp,fireblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fire"
+}

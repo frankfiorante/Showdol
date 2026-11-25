@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-20",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,15e95c29d4b81df4778e7843d9ee72fce48d5d3acdfd76dec372cc3bb63dae04",
+    "ai": "sodium,9d01dfc79bd21612bf624d03b08bd5caa265c8cc6df3c320a4faf3da381729c0"
+  },
+  "playerSpecies": [
+    "Vaporeon",
+    "Abomasnow",
+    "Terrakion",
+    "Baxcalibur",
+    "Virizion",
+    "Wyrdeer"
+  ],
+  "player": "Vaporeon||Leftovers|WaterAbsorb|roar,scald,wish,protect||85,,85,85,85,85|F|,0,,,,||86|,,,,,Poison]Abomasnow||LightClay|SnowWarning|earthquake,woodhammer,blizzard,auroraveil||77,85,85,85,85,85|F|||84|,,,,,Ghost]Terrakion||ChoiceBand|Justified|stoneedge,quickattack,closecombat,earthquake||85,85,85,85,85,85|N|||79|,,,,,Ground]Baxcalibur||LoadedDice|ThermalExchange|iciclespear,earthquake,swordsdance,scaleshot||81,85,85,85,85,85|M|||75|,,,,,Dragon]Virizion||LifeOrb|Justified|stoneedge,closecombat,swordsdance,leafblade||85,85,85,85,85,85|N|||82|,,,,,Rock]Wyrdeer||Leftovers|Intimidate|psychicnoise,bodyslam,thunderwave,earthquake||85,85,85,85,85,85|M|||87|,,,,,Ground",
+  "ai": "Ambipom||ChoiceBand|Technician|lowkick,knockoff,tripleaxel,doubleedge||85,85,85,85,85,85|F|||84|,,,,,Ice]Coalossal||HeavyDutyBoots|FlameBody|flamethrower,rapidspin,spikes,stoneedge||85,85,85,85,85,85|F|||89|,,,,,Ghost]Dipplin||Eviolite|StickyHold|suckerpunch,dragonpulse,gigadrain,recover||85,85,85,85,85,85|M|||88|,,,,,Steel]Scovillain||ChoiceSpecs|Chlorophyll|energyball,overheat,leafstorm,flamethrower||85,,85,85,85,85|M|,0,,,,||91|,,,,,Fire]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,bravebird,protect,facade||85,85,85,85,85,85|M|||85|,,,,,Normal]Gholdengo||Leftovers|GoodasGold|shadowball,nastyplot,makeitrain,recover||85,,85,85,85,85|N|,0,,,,||77|,,,,,Steel"
+}

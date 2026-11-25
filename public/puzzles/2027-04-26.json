@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-26",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,28bcb941a895d23d8549b0e5c4a467e8d80f83bbbd5d952daf4e1f023708272c",
+    "ai": "sodium,d781053b9d2b887e632a22ed4720f65d6b3b47d8e8daaa5b399e50f743122b2c"
+  },
+  "playerSpecies": [
+    "Arceus-Fire",
+    "Tsareena",
+    "Kyurem",
+    "Zarude",
+    "Oinkologne-F",
+    "Deoxys-Speed"
+  ],
+  "player": "Arceus|ArceusFire|FlamePlate|Multitype|swordsdance,extremespeed,earthquake,flareblitz||81,85,85,85,85,85|N|||72|,,,,,Ground]Tsareena||HeavyDutyBoots|QueenlyMajesty|synthesis,rapidspin,knockoff,powerwhip||85,85,85,85,85,85|F|||87|,,,,,Steel]Kyurem||ChoiceSpecs|Pressure|earthpower,icebeam,freezedry,dracometeor||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Zarude||LifeOrb|LeafGuard|swordsdance,powerwhip,closecombat,knockoff||85,85,85,85,85,85|N|||77|,,,,,Grass]Oinkologne|OinkologneF|Leftovers|ThickFat|doubleedge,highhorsepower,lashout,curse||85,85,85,85,85,85|F|||91|,,,,,Ground]Deoxys|DeoxysSpeed|LifeOrb|Pressure|nastyplot,psychoboost,focusblast,darkpulse||85,,85,85,85,85|N|,0,,,,||82|,,,,,Fighting",
+  "ai": "Crabominable||ChoiceBand|IronFist|drainpunch,knockoff,icehammer,earthquake||85,85,85,85,85,85|F|||90|,,,,,Ground]Zoroark|ZoroarkHisui|ChoiceSpecs|Illusion|bittermalice,hypervoice,uturn,focusblast||85,85,85,85,85,85|M|||80|,,,,,Normal]Arbok||LifeOrb|Intimidate|toxicspikes,gunkshot,knockoff,earthquake||85,85,85,85,85,85|F|||87|,,,,,Dark]Rhydon||Eviolite|LightningRod|stoneedge,megahorn,earthquake,stealthrock||85,85,85,85,85,85|F|||85|,,,,,Grass]Jolteon||Leftovers|VoltAbsorb|terablast,substitute,thunderbolt,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice]Poliwrath||AssaultVest|WaterAbsorb|liquidation,circlethrow,closecombat,knockoff||85,85,85,85,85,85|M|||88|,,,,,Fighting"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-24",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,6a5f46b559af89d086649cfe13d18a420c6d36d9d95c9e6293193c5d16fc219f",
+    "ai": "sodium,ad07d54c8453c919b7578d5be56a5e2a6c212ba70a9c5a5d3a77dfe38de3c38d"
+  },
+  "playerSpecies": [
+    "Dachsbun",
+    "Lugia",
+    "Oinkologne-F",
+    "Terapagos",
+    "Iron Treads",
+    "Arceus-Dragon"
+  ],
+  "player": "Dachsbun||Leftovers|WellBakedBody|protect,wish,playrough,bodypress||85,85,85,85,85,85|F|||92|,,,,,Steel]Lugia||HeavyDutyBoots|Multiscale|recover,psychicnoise,aeroblast,calmmind||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Oinkologne|OinkologneF|Leftovers|ThickFat|curse,sleeptalk,rest,bodyslam||85,85,85,85,85,85|F|||91|,,,,,Fairy]Terapagos||ChestoBerry|TeraShift|terastarstorm,rest,calmmind,earthpower||85,,85,85,85,85|M|,0,,,,||77|,,,,,Stellar]Iron Treads||Leftovers|QuarkDrive|stealthrock,ironhead,rapidspin,earthquake||85,85,85,85,85,85|N|||77|,,,,,Dragon]Arceus|ArceusDragon|DracoPlate|Multitype|calmmind,fireblast,judgment,recover||85,,85,85,85,85|N|,0,,,,||71|,,,,,Fire",
+  "ai": "Feraligatr||LifeOrb|SheerForce|dragondance,liquidation,trailblaze,icepunch||85,85,85,85,85,85|F|||79|,,,,,Water]Snorlax||ChestoBerry|ThickFat|rest,curse,bodyslam,earthquake||85,85,85,85,85,85|M|||82|,,,,,Ground]Cetitan||LifeOrb|SheerForce|iciclecrash,iceshard,liquidation,superpower||85,85,85,85,85,85|F|||82|,,,,,Water]Wugtrio||ChoiceBand|Gooey|stompingtantrum,aquajet,liquidation,throatchop||85,85,85,85,85,85|F|||91|,,,,,Ground]Grumpig||Leftovers|ThickFat|nastyplot,dazzlinggleam,psychic,earthpower||85,,85,85,85,85|M|,0,,,,||92|,,,,,Fairy]Ursaluna|UrsalunaBloodmoon|Leftovers|MindsEye|earthpower,bloodmoon,calmmind,moonlight||85,,85,85,85,85|M|,0,,,,||79|,,,,,Ghost"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-01",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,0aeeca3f1c19f8453ef860f969490f6f6299bfae937c683dd0d2bd87ca2aa209",
+    "ai": "sodium,d2b49c60d02feaf6601d373efbf010f9ab067f921f3c097a0c9d48f65f4dc138"
+  },
+  "playerSpecies": [
+    "Minior-Green",
+    "Drifblim",
+    "Scream Tail",
+    "Pikachu-Sinnoh",
+    "Pawmot",
+    "Azelf"
+  ],
+  "player": "Minior|MiniorGreen|WhiteHerb|ShieldsDown|shellsmash,earthquake,acrobatics,powergem||85,85,85,85,85,85|N|||79|,,,,,Water]Drifblim||HeavyDutyBoots|Aftermath|defog,strengthsap,shadowball,airslash||85,,85,85,85,85|F|,0,,,,||86|,,,,,Steel]Scream Tail||Leftovers|Protosynthesis|wish,encore,protect,playrough||85,85,85,85,85,85|N|||84|,,,,,Poison]Pikachu|PikachuSinnoh|LightBall|LightningRod|volttackle,fakeout,knockoff,surf||85,85,85,85,85,85|F|||93|,,,,,Water]Pawmot||LifeOrb|IronFist|doubleshock,revivalblessing,closecombat,icepunch||85,85,85,85,85,85|F|||80|,,,,,Electric]Azelf||LifeOrb|Levitate|knockoff,fireblast,stealthrock,psychic||85,85,85,85,85,85|N|||82|,,,,,Dark",
+  "ai": "Electivire||LifeOrb|MotorDrive|icepunch,earthquake,bulkup,supercellslam||85,85,85,85,85,85|M|||84|,,,,,Ground]Bronzong||Leftovers|Levitate|bodypress,irondefense,ironhead,psychicnoise||85,85,85,85,85,85|N|||88|,,,,,Fighting]Glimmora||AirBalloon|ToxicDebris|powergem,earthpower,sludgewave,stealthrock||85,,85,85,85,85|F|,0,,,,||75|,,,,,Ground]Latios||ChoiceSpecs|Levitate|dracometeor,flipturn,lusterpurge,aurasphere||85,85,85,85,85,85|M|||78|,,,,,Psychic]Swanna||HeavyDutyBoots|Hydration|bravebird,hydropump,defog,roost||85,85,85,85,85,85|F|||89|,,,,,Ground]Alcremie|AlcremieRubySwirl|Leftovers|AromaVeil|terablast,alluringvoice,recover,calmmind||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground"
+}

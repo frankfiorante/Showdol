@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-12",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,4596739acdd587dca7c1b235c7bfadba5f768b43ff28a1d2ef647ad81b81e483",
+    "ai": "sodium,d01f46d8fdd7c91bee009529a5e5c0928decee78f9f18add65e2fdacd991b3dd"
+  },
+  "playerSpecies": [
+    "Araquanid",
+    "Piloswine",
+    "Regirock",
+    "Chesnaught",
+    "Altaria",
+    "Gurdurr"
+  ],
+  "player": "Araquanid||HeavyDutyBoots|WaterBubble|leechlife,stickyweb,hydropump,liquidation||85,85,85,85,85,85|M|||82|,,,,,Water]Piloswine||Eviolite|ThickFat|stealthrock,iceshard,iciclecrash,earthquake||85,85,85,85,85,85|M|||85|,,,,,Dragon]Regirock||Leftovers|ClearBody|stoneedge,thunderwave,irondefense,bodypress||85,85,85,85,85,85|N|||83|,,,,,Fighting]Chesnaught||RockyHelmet|Bulletproof|knockoff,synthesis,woodhammer,bodypress||85,85,85,85,85,85|M|||84|,,,,,Steel]Altaria||HeavyDutyBoots|NaturalCure|dragondance,earthquake,roost,bravebird||85,85,85,85,85,85|M|||89|,,,,,Steel]Gurdurr||Eviolite|Guts|machpunch,bulkup,drainpunch,knockoff||85,85,85,85,85,85|M|||85|,,,,,Steel",
+  "ai": "Wugtrio||ChoiceBand|Gooey|aquajet,liquidation,throatchop,stompingtantrum||85,85,85,85,85,85|F|||91|,,,,,Water]Dipplin||Eviolite|StickyHold|dragonpulse,gigadrain,dragontail,recover||85,85,85,85,85,85|F|||88|,,,,,Steel]Basculin||ChoiceBand|Adaptability|flipturn,wavecrash,aquajet,doubleedge||85,85,85,85,85,85|M|||86|,,,,,Water]Sneasler||ChoiceBand|PoisonTouch|closecombat,direclaw,throatchop,uturn||85,85,85,85,85,85|M|||74|,,,,,Fighting]Darkrai||LifeOrb|BadDreams|nastyplot,sludgebomb,focusblast,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison]Zangoose||ToxicOrb|ToxicBoost|knockoff,closecombat,facade,swordsdance||85,85,85,85,85,85|F|||85|,,,,,Normal"
+}

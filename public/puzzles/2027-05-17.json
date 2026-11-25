@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-17",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,0bd7fe258fa3276b6a4966d4841016a6bc624f045706cf53e68b2c0960139b07",
+    "ai": "sodium,f0bf6235e055529546def3ad503d4fb905aeb6410e9cc8a0666fc82b7214cd24"
+  },
+  "playerSpecies": [
+    "Abomasnow",
+    "Reshiram",
+    "Cinderace",
+    "Raichu-Alola",
+    "Sylveon",
+    "Dipplin"
+  ],
+  "player": "Abomasnow||LightClay|SnowWarning|earthquake,iceshard,auroraveil,blizzard||77,85,85,85,85,85|M|||84|,,,,,Water]Reshiram||HeavyDutyBoots|Turboblaze|outrage,flareblitz,stoneedge,dragondance||85,85,85,85,85,85|N|||76|,,,,,Fire]Cinderace||HeavyDutyBoots|Libero|uturn,willowisp,pyroball,courtchange||85,85,85,85,85,85|M|||77|,,,,,Grass]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|alluringvoice,focusblast,psyshock,thunderbolt||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Sylveon||Leftovers|Pixilate|hypervoice,calmmind,wish,protect||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Dipplin||Eviolite|StickyHold|dragontail,dragonpulse,recover,gigadrain||85,85,85,85,85,85|M|||88|,,,,,Steel",
+  "ai": "Klefki||Leftovers|Prankster|spikes,thunderwave,dazzlinggleam,foulplay||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Crabominable||AssaultVest|IronFist|earthquake,knockoff,icehammer,drainpunch||85,85,85,85,85,85|M|||90|,,,,,Water]Honchkrow||HeavyDutyBoots|Moxie|bravebird,lashout,heatwave,suckerpunch||85,85,85,85,85,85|F|||86|,,,,,Dark]Gyarados||HeavyDutyBoots|Moxie|dragondance,earthquake,stoneedge,waterfall||85,85,85,85,85,85|M|||79|,,,,,Ground]Victreebel||LifeOrb|Chlorophyll|sunnyday,powerwhip,sludgewave,weatherball||85,85,85,85,85,85|M|||90|,,,,,Fire]Manaphy||Leftovers|Hydration|icebeam,energyball,hydropump,tailglow||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water"
+}

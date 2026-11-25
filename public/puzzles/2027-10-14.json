@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-14",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,da0649468d5dc37479c577a66702fc4d7746ba15e6a21241f27774c5ef96997e",
+    "ai": "sodium,43418940b5c85b1fe4288a2e276c0e7445942c749325b870cf4d5efedbe6e553"
+  },
+  "playerSpecies": [
+    "Terrakion",
+    "Arceus",
+    "Komala",
+    "Alomomola",
+    "Chandelure",
+    "Hippowdon"
+  ],
+  "player": "Terrakion||LifeOrb|Justified|earthquake,stoneedge,swordsdance,closecombat||85,85,85,85,85,85|N|||79|,,,,,Ground]Arceus||Leftovers|Multitype|extremespeed,swordsdance,shadowclaw,recover||85,85,85,85,85,85|N|||68|,,,,,Ghost]Komala||AssaultVest|Comatose|bodyslam,knockoff,uturn,rapidspin||85,85,85,85,85,85|F|||87|,,,,,Ghost]Alomomola||HeavyDutyBoots|Regenerator|flipturn,scald,protect,wish||85,85,85,85,85,85|M|||87|,,,,,Steel]Chandelure||Leftovers|FlashFire|calmmind,shadowball,substitute,fireblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Hippowdon||Leftovers|SandStream|slackoff,earthquake,curse,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Rock",
+  "ai": "Cacturne||LifeOrb|WaterAbsorb|knockoff,leafstorm,toxicspikes,suckerpunch||85,85,85,85,85,85|F|||92|,,,,,Poison]Wigglytuff||Leftovers|Competitive|protect,fireblast,dazzlinggleam,wish||85,,85,85,85,85|F|,0,,,,||96|,,,,,Poison]Scizor||Leftovers|Technician|defog,knockoff,bulletpunch,closecombat||85,85,85,85,85,85|M|||79|,,,,,Dragon]Gliscor||ToxicOrb|PoisonHeal|toxic,earthquake,knockoff,protect||85,85,85,85,85,85|M|||76|,,,,,Water]Staraptor||ChoiceBand|Reckless|closecombat,bravebird,uturn,quickattack||81,85,85,85,85,85|F|||79|,,,,,Fighting]Volcarona||HeavyDutyBoots|Swarm|bugbuzz,gigadrain,fireblast,quiverdance||85,,85,85,85,85|M|,0,,,,||77|,,,,,Fire"
+}

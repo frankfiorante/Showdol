@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-16",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,e00347662961a9a45aedd760949911ce03b1d687ab3214fe6d5bbfb50e0d76c9",
+    "ai": "sodium,3da4a0162c8c85214875e5561f56e33281c6330858a321b0b1eb5a73662a7017"
+  },
+  "playerSpecies": [
+    "Lunala",
+    "Diancie",
+    "Maushold-Four",
+    "Golem",
+    "Regieleki",
+    "Groudon"
+  ],
+  "player": "Lunala||Leftovers|ShadowShield|psyshock,calmmind,moongeistbeam,moonlight||85,,85,85,85,85|N|,0,,,,||70|,,,,,Dark]Diancie||Leftovers|ClearBody|earthpower,calmmind,diamondstorm,drainingkiss||85,85,85,85,85,85|N|||82|,,,,,Fairy]Maushold|MausholdFour|WideLens|Technician|tidyup,populationbomb,bite,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Golem||CustapBerry|Sturdy|earthquake,explosion,stealthrock,stoneedge||85,85,85,85,85,85|F|||87|,,,,,Grass]Regieleki||Magnet|Transistor|rapidspin,voltswitch,explosion,thunderbolt||85,85,85,85,85,85|N|||79|,,,,,Electric]Groudon||Leftovers|Drought|stoneedge,heatcrash,thunderwave,precipiceblades||85,85,85,85,85,85|N|||72|,,,,,Fire",
+  "ai": "Tropius||SitrusBerry|Harvest|substitute,protect,leechseed,airslash||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Noctowl||HeavyDutyBoots|TintedLens|roost,hypervoice,calmmind,hurricane||85,,85,85,85,85|F|,0,,,,||95|,,,,,Normal]Magearna||Leftovers|SoulHeart|fleurcannon,voltswitch,spikes,flashcannon||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Lapras||LoadedDice|WaterAbsorb|waterfall,iciclespear,earthquake,dragondance||81,85,85,85,85,85|F|||87|,,,,,Ground]Glimmora||HeavyDutyBoots|ToxicDebris|mortalspin,sludgewave,spikes,earthpower||85,85,85,85,85,85|M|||75|,,,,,Ground]Qwilfish||Leftovers|Intimidate|gunkshot,waterfall,destinybond,thunderwave||85,85,85,85,85,85|M|||86|,,,,,Grass"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-24",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,18b526b26dc6915ece633e22f85f642b23337e73d3a78658b92d92bb0b00a211",
+    "ai": "sodium,ef99a41291e05906aed86530a92d935f18e53778b8b353e184a3b059c976ef74"
+  },
+  "playerSpecies": [
+    "Roaring Moon",
+    "Leavanny",
+    "Flamigo",
+    "Deoxys-Defense",
+    "Coalossal",
+    "Wugtrio"
+  ],
+  "player": "Roaring Moon||ChoiceBand|Protosynthesis|outrage,uturn,ironhead,knockoff||85,85,85,85,85,85|N|||72|,,,,,Dark]Leavanny||HeavyDutyBoots|Swarm|lunge,stickyweb,knockoff,leafblade||85,85,85,85,85,85|F|||86|,,,,,Rock]Flamigo||LifeOrb|Scrappy|closecombat,bravebird,swordsdance,roost||85,85,85,85,85,85|M|||82|,,,,,Fighting]Deoxys|DeoxysDefense|Leftovers|Pressure|recover,knockoff,psychicnoise,teleport||85,85,85,85,85,85|N|||84|,,,,,Steel]Coalossal||HeavyDutyBoots|FlameBody|rapidspin,spikes,flamethrower,stoneedge||85,85,85,85,85,85|F|||89|,,,,,Water]Wugtrio||ChoiceBand|Gooey|liquidation,aquajet,stompingtantrum,throatchop||85,85,85,85,85,85|M|||91|,,,,,Water",
+  "ai": "Roaring Moon||ChoiceBand|Protosynthesis|knockoff,ironhead,uturn,outrage||85,85,85,85,85,85|N|||72|,,,,,Dragon]Metagross||Leftovers|ClearBody|psychicfangs,stealthrock,knockoff,heavyslam||85,85,85,85,85,85|N|||79|,,,,,Water]Staraptor||ChoiceBand|Reckless|closecombat,quickattack,bravebird,doubleedge||81,85,85,85,85,85|M|||79|,,,,,Fighting]Hitmonlee||WhiteHerb|Unburden|knockoff,closecombat,stoneedge,swordsdance||85,85,85,85,85,85|M|||85|,,,,,Dark]Comfey||Leftovers|Triage|drainingkiss,calmmind,terablast,synthesis||85,,85,85,85,85|M|,0,,,,||85|,,,,,Ground]Mudsdale||Leftovers|Stamina|stoneedge,heavyslam,earthquake,roar||85,85,85,85,85,85|F|||83|,,,,,Steel"
+}

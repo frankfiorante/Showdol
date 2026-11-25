@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-26",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,cac2d15fa0008165e37324e3bf4944e7b1ce32d979e0cdfa892b7359ecc43ef2",
+    "ai": "sodium,23e8da2e5fa9a82d822b199b3acde913dcaa6dbced7172a9e5f3de8201ff3ce8"
+  },
+  "playerSpecies": [
+    "Coalossal",
+    "Fezandipiti",
+    "Perrserker",
+    "Koraidon",
+    "Dipplin",
+    "Dachsbun"
+  ],
+  "player": "Coalossal||HeavyDutyBoots|FlameBody|stoneedge,spikes,rapidspin,flamethrower||85,85,85,85,85,85|F|||89|,,,,,Grass]Fezandipiti||Leftovers|ToxicChain|moonblast,beatup,roost,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Dark]Perrserker||LifeOrb|ToughClaws|knockoff,ironhead,closecombat,stealthrock||85,85,85,85,85,85|M|||89|,,,,,Fighting]Koraidon||ChoiceBand|OrichalcumPulse|uturn,flareblitz,outrage,closecombat||85,85,85,85,85,85|N|||64|,,,,,Fire]Dipplin||Eviolite|StickyHold|dragonpulse,gigadrain,suckerpunch,recover||85,85,85,85,85,85|F|||88|,,,,,Steel]Dachsbun||Leftovers|WellBakedBody|playrough,bodypress,wish,protect||85,85,85,85,85,85|F|||92|,,,,,Steel",
+  "ai": "Meganium||Leftovers|Overgrow|earthquake,petalblizzard,swordsdance,knockoff||85,85,85,85,85,85|M|||90|,,,,,Water]Sunflora||ChoiceSpecs|Chlorophyll|dazzlinggleam,sludgebomb,earthpower,leafstorm||85,,85,85,85,85|F|,0,,,,|||,,,,,Poison]Zebstrika||LifeOrb|SapSipper|overheat,highhorsepower,voltswitch,supercellslam||85,85,85,85,85,85|M|||87|,,,,,Ground]Dragalge||AssaultVest|Adaptability|dracometeor,sludgewave,dragontail,focusblast||85,85,85,85,85,85|M|||88|,,,,,Fighting]Kingdra||LumBerry|Sniper|wavecrash,waterfall,outrage,dragondance||85,85,85,85,85,85|M|||84|,,,,,Water]Jolteon||Leftovers|VoltAbsorb|terablast,substitute,calmmind,thunderbolt||85,,85,85,85,85|F|,0,,,,||84|,,,,,Ice"
+}

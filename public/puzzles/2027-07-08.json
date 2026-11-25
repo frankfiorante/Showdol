@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-08",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,8810447e1a9486d165c2ca9c5ef5713b39d3293b2d88d116f5ec9471e5e45af6",
+    "ai": "sodium,60be246549508262dc1dd212666bfced806dfc4853816140be5ee120bf0af7bc"
+  },
+  "playerSpecies": [
+    "Pelipper",
+    "Carbink",
+    "Basculegion-F",
+    "Minior-Blue",
+    "Galvantula",
+    "Leafeon"
+  ],
+  "player": "Pelipper||HeavyDutyBoots|Drizzle|roost,surf,hurricane,knockoff||85,85,85,85,85,85|M|||86|,,,,,Water]Carbink||Leftovers|ClearBody|bodypress,rockpolish,moonblast,irondefense||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Basculegion|BasculegionF|AssaultVest|Adaptability|wavecrash,flipturn,shadowball,hydropump||85,85,85,85,85,85|F|||83|,,,,,Water]Minior|MiniorBlue|WhiteHerb|ShieldsDown|acrobatics,earthquake,shellsmash,powergem||85,85,85,85,85,85|N|||79|,,,,,Ground]Galvantula||HeavyDutyBoots|CompoundEyes|thunder,stickyweb,energyball,bugbuzz||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Leafeon||LifeOrb|Chlorophyll|doubleedge,synthesis,swordsdance,leafblade||85,85,85,85,85,85|F|||88|,,,,,Normal",
+  "ai": "Palafin||ChoiceBand|ZerotoHero|flipturn,closecombat,jetpunch,wavecrash||85,85,85,85,85,85|F|||77|,,,,,Water]Blastoise||WhiteHerb|Torrent|hydropump,shellsmash,terablast,icebeam||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Toxicroak||LifeOrb|DrySkin|earthquake,gunkshot,closecombat,swordsdance||85,85,85,85,85,85|M|||84|,,,,,Fighting]Regigigas||Leftovers|SlowStart|bodyslam,knockoff,sleeptalk,rest||85,85,85,85,85,85|N|||84|,,,,,Ghost]Dragapult||HeavyDutyBoots|CursedBody|dragondarts,uturn,willowisp,hex||85,85,85,85,85,85|F|||77|,,,,,Fairy]Granbull||Leftovers|Intimidate|thunderwave,earthquake,encore,playrough||85,85,85,85,85,85|F|||88|,,,,,Ground"
+}

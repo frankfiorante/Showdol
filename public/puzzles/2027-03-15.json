@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-15",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,b2fdf5fca7b8012f0ce63d75cdf56c268c5f3639a9467ef78ddf3346e08671f3",
+    "ai": "sodium,6240c6eb815f494f34a84864bd24b5a26f40ea8fcc47148f03906c1ce39eb0dd"
+  },
+  "playerSpecies": [
+    "Chimecho",
+    "Slaking",
+    "Darkrai",
+    "Rotom-Frost",
+    "Vespiquen",
+    "Sunflora"
+  ],
+  "player": "Chimecho||Leftovers|Levitate|dazzlinggleam,recover,psychicnoise,calmmind||85,,85,85,85,85|M|,0,,,,||93|,,,,,Fairy]Slaking||ChoiceBand|Truant|gigaimpact,earthquake,knockoff,doubleedge||85,85,85,85,85,85|F|||84|,,,,,Ground]Darkrai||LifeOrb|BadDreams|darkpulse,focusblast,sludgebomb,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison]Rotom|RotomFrost|HeavyDutyBoots|Levitate|blizzard,willowisp,thunderbolt,voltswitch||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric]Vespiquen||HeavyDutyBoots|Pressure|hurricane,spikes,roost,toxic||85,,85,85,85,85|F|,0,,,,||99|,,,,,Steel]Sunflora||ChoiceSpecs|Chlorophyll|leafstorm,earthpower,sludgebomb,dazzlinggleam||85,,85,85,85,85|M|,0,,,,|||,,,,,Ground",
+  "ai": "Spidops||HeavyDutyBoots|Stakeout|toxicspikes,spikes,stickyweb,knockoff||85,85,85,85,85,85|F|||96|,,,,,Ghost]Camerupt||Leftovers|SolidRock|willowisp,earthquake,stealthrock,overheat||85,85,85,85,85,85|F|||91|,,,,,Water]Rotom||ChoiceScarf|Levitate|trick,thunderbolt,shadowball,voltswitch||85,,85,85,85,85|N|,0,,,,||88|,,,,,Ghost]Leafeon||LifeOrb|Chlorophyll|doubleedge,swordsdance,leafblade,knockoff||85,85,85,85,85,85|F|||88|,,,,,Normal]Probopass||Leftovers|MagnetPull|irondefense,flashcannon,powergem,bodypress||85,,85,85,85,85|M|,0,,,,||91|,,,,,Fighting]Spectrier||Leftovers|GrimNeigh|shadowball,terablast,substitute,nastyplot||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting"
+}

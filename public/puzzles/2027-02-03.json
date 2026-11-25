@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-03",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5f21ba1a3fcf4a470ed9f1d854e03b59ab2169970790528cfa8ed77aeffa2cd5",
+    "ai": "sodium,de8ed79d412d057480418be1a4071205226a1cf18fcaaa668db3955c4c3e4e77"
+  },
+  "playerSpecies": [
+    "Shiftry",
+    "Coalossal",
+    "Trevenant",
+    "Hypno",
+    "Araquanid",
+    "Scizor"
+  ],
+  "player": "Shiftry||LifeOrb|WindRider|lowkick,tailwind,leafblade,knockoff||85,85,85,85,85,85|F|||89|,,,,,Fighting]Coalossal||HeavyDutyBoots|FlameBody|willowisp,stoneedge,flamethrower,rapidspin||85,85,85,85,85,85|F|||89|,,,,,Ghost]Trevenant||ChoiceBand|NaturalCure|poltergeist,hornleech,drainpunch,woodhammer||85,85,85,85,85,85|M|||89|,,,,,Fighting]Hypno||Leftovers|Insomnia|psychicnoise,toxic,encore,knockoff||85,85,85,85,85,85|M|||95|,,,,,Fairy]Araquanid||HeavyDutyBoots|WaterBubble|liquidation,leechlife,stickyweb,hydropump||85,85,85,85,85,85|F|||82|,,,,,Steel]Scizor||ChoiceBand|Technician|bulletpunch,uturn,closecombat,knockoff||85,85,85,85,85,85|F|||79|,,,,,Dragon",
+  "ai": "Tinkaton||Leftovers|MoldBreaker|playrough,swordsdance,knockoff,gigatonhammer||85,85,85,85,85,85|F|||82|,,,,,Steel]Dodrio||HeavyDutyBoots|EarlyBird|doubleedge,bravebird,swordsdance,drillrun||85,85,85,85,85,85|F|||85|,,,,,Normal]Gallade||ChoiceBand|Sharpness|sacredsword,nightslash,psychocut,leafblade||85,85,85,85,85,85|M|||80|,,,,,Fighting]Gastrodon|GastrodonEast|Leftovers|StormDrain|recover,earthquake,stealthrock,surf||85,85,85,85,85,85|F|||86|,,,,,Poison]Frosmoth||HeavyDutyBoots|IceScales|terablast,quiverdance,icebeam,bugbuzz||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|throatchop,ironhead,earthquake,closecombat||85,85,85,85,85,85|M|||82|,,,,,Fighting"
+}

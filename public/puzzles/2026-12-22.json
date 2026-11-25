@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-22",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,fe1c6fa1d8e3bb5621bff7840f8377fb94e5ed34388bfd0a4677eb0d140c0a99",
+    "ai": "sodium,3484ff83d91a58bb3ce7887c3ba2be73d4b7136dee3b447fe88fdfc7eb474fdc"
+  },
+  "playerSpecies": [
+    "Dragapult",
+    "Drednaw",
+    "Wigglytuff",
+    "Walking Wake",
+    "Venusaur",
+    "Hitmontop"
+  ],
+  "player": "Dragapult||LifeOrb|ClearBody|dragondance,dragondarts,terablast,fireblast||85,85,85,85,85,85|F|||77|,,,,,Ghost]Drednaw||WhiteHerb|StrongJaw|shellsmash,liquidation,crunch,stoneedge||85,85,85,85,85,85|F|||81|,,,,,Dark]Wigglytuff||Leftovers|Competitive|protect,wish,alluringvoice,thunderwave||85,,85,85,85,85|F|,0,,,,||96|,,,,,Steel]Walking Wake||LifeOrb|Protosynthesis|hydrosteam,sunnyday,flamethrower,dracometeor||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Venusaur||Leftovers|Chlorophyll|sludgebomb,sleeppowder,leechseed,substitute||85,,85,85,85,85|M|,0,,,,||84|,,,,,Water]Hitmontop||Leftovers|Technician|tripleaxel,closecombat,rapidspin,bulkup||85,85,85,85,85,85|M|||88|,,,,,Ice",
+  "ai": "Dragalge||Leftovers|Adaptability|toxicspikes,sludgewave,focusblast,dracometeor||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting]Chi-Yu||HeavyDutyBoots|BeadsofRuin|nastyplot,fireblast,darkpulse,willowisp||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Skuntank||LifeOrb|Aftermath|taunt,knockoff,gunkshot,suckerpunch||85,85,85,85,85,85|F|||84|,,,,,Poison]Jumpluff|||Infiltrator|sleeppowder,acrobatics,encore,strengthsap||81,85,85,85,85,85|F|||87|,,,,,Steel]Tatsugiri||HeavyDutyBoots|StormDrain|nastyplot,dracometeor,rapidspin,surf||85,85,85,85,85,85|M|||87|,,,,,Water]Poliwrath||Leftovers|WaterAbsorb|knockoff,bulkup,liquidation,drainpunch||85,85,85,85,85,85|M|||88|,,,,,Steel"
+}

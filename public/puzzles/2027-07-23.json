@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-23",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,297a52ef6cd72199383e1fa843c129e1f2d045fc496d4f9f97bce58d67620444",
+    "ai": "sodium,5971e57b30976eb184c23e471b278bcf974d3b2bbaaac8b2eebdf35c1b9197a3"
+  },
+  "playerSpecies": [
+    "Pincurchin",
+    "Roaring Moon",
+    "Weezing",
+    "Masquerain",
+    "Crawdaunt",
+    "Ogerpon"
+  ],
+  "player": "Pincurchin||Leftovers|ElectricSurge|scald,recover,toxicspikes,thunderbolt||85,,85,85,85,85|F|,0,,,,|||,,,,,Water]Roaring Moon||LumBerry|Protosynthesis|outrage,ironhead,knockoff,dragondance||85,85,85,85,85,85|N|||72|,,,,,Fairy]Weezing||Leftovers|Levitate|gunkshot,fireblast,willowisp,painsplit||85,85,85,85,85,85|M|||88|,,,,,Steel]Masquerain||HeavyDutyBoots|Intimidate|bugbuzz,hurricane,quiverdance,hydropump||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Crawdaunt||LifeOrb|Adaptability|closecombat,crabhammer,knockoff,dragondance||85,85,85,85,85,85|F|||84|,,,,,Fighting]Ogerpon||Leftovers|Defiant|ivycudgel,superpower,encore,spikes||85,85,85,85,85,85|F|||80|,,,,,Grass",
+  "ai": "Camerupt||Leftovers|SolidRock|willowisp,earthquake,stealthrock,overheat||85,85,85,85,85,85|F|||91|,,,,,Water]Salamence||HeavyDutyBoots|Intimidate|outrage,dualwingbeat,dragondance,roost||85,85,85,85,85,85|F|||77|,,,,,Steel]Meloetta||Leftovers|SereneGrace|calmmind,hypervoice,focusblast,psyshock||85,,85,85,85,85|N|,0,,,,||82|,,,,,Psychic]Hatterene||AssaultVest|MagicBounce|psychic,nuzzle,mysticalfire,drainingkiss||85,85,85,85,85,85|F|||85|,,,,,Steel]Dedenne||SitrusBerry|CheekPouch|nuzzle,thunderbolt,dazzlinggleam,uturn||85,85,85,85,85,85|M|||88|,,,,,Flying]Barraskewda||ChoiceBand|SwiftSwim|waterfall,closecombat,flipturn,throatchop||85,85,85,85,85,85|M|||81|,,,,,Fighting"
+}

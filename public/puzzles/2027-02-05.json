@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-05",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,c094afecf9321e3d58d8650a4efe99f2e4fe2032c74f2ac750f6e92f7b6c537d",
+    "ai": "sodium,fa6a27b984375a1d895778f7356b8cae7d3a166d44803ead39c72dbe40a05fe8"
+  },
+  "playerSpecies": [
+    "Mimikyu",
+    "Malamar",
+    "Falinks",
+    "Grimmsnarl",
+    "Shaymin",
+    "Mamoswine"
+  ],
+  "player": "Mimikyu||LifeOrb|Disguise|swordsdance,shadowsneak,playrough,shadowclaw||85,85,85,85,85,85|M|||79|,,,,,Fairy]Malamar||ChestoBerry|Contrary|knockoff,superpower,psychocut,rest||85,85,85,85,85,85|M|||82|,,,,,Fighting]Falinks||LifeOrb|Defiant|knockoff,noretreat,closecombat,ironhead||85,85,85,85,85,85|N|||84|,,,,,Steel]Grimmsnarl||Leftovers|Prankster|spiritbreak,thunderwave,suckerpunch,taunt||85,85,85,85,85,85|M|||83|,,,,,Steel]Shaymin||Leftovers|NaturalCure|airslash,synthesis,seedflare,earthpower||85,,85,85,85,85|N|,0,,,,||82|,,,,,Ground]Mamoswine||ChoiceBand|ThickFat|iciclecrash,earthquake,knockoff,iceshard||85,85,85,85,85,85|M|||81|,,,,,Ice",
+  "ai": "Vigoroth||Eviolite|VitalSpirit|bodyslam,slackoff,earthquake,bulkup||85,85,85,85,85,85|M|||85|,,,,,Ground]Crawdaunt||LifeOrb|Adaptability|aquajet,dragondance,knockoff,crabhammer||85,85,85,85,85,85|F|||84|,,,,,Water]Regidrago||LifeOrb|DragonsMaw|earthquake,dragonclaw,dragondance,terablast||85,85,85,85,85,85|N|||77|,,,,,Steel]Bellossom||Leftovers|Chlorophyll|strengthsap,quiverdance,sludgebomb,gigadrain||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Gliscor||ToxicOrb|PoisonHeal|protect,knockoff,earthquake,toxicspikes||85,85,85,85,85,85|F|||76|,,,,,Water]Alcremie|AlcremieMintCream|Leftovers|AromaVeil|calmmind,recover,psyshock,alluringvoice||85,,85,85,85,85|F|,0,,,,||90|,,,,,Poison"
+}

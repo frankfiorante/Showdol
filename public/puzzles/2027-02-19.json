@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-19",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,1a22c1fa7b91378552db50a7d15bea559430181a5270f16c07a15c314f89e435",
+    "ai": "sodium,9e9cad53b687c858162fae0a7c35df204bee0df2e97e6139af5fddafb848f2d2"
+  },
+  "playerSpecies": [
+    "Zarude-Dada",
+    "Arcanine-Hisui",
+    "Swalot",
+    "Suicune",
+    "Urshifu",
+    "Florges-White"
+  ],
+  "player": "Zarude|ZarudeDada|Leftovers|LeafGuard|synthesis,swordsdance,powerwhip,knockoff||85,85,85,85,85,85|N|||77|,,,,,Grass]Arcanine|ArcanineHisui|HeavyDutyBoots|RockHead|headsmash,morningsun,extremespeed,flareblitz||85,85,85,85,85,85|M|||79|,,,,,Rock]Swalot||Leftovers|LiquidOoze|knockoff,swordsdance,earthquake,gunkshot||85,85,85,85,85,85|F|||90|,,,,,Ground]Suicune||Leftovers|Pressure|scald,substitute,calmmind,protect||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Urshifu||ChoiceBand|UnseenFist|wickedblow,closecombat,uturn,suckerpunch||85,85,85,85,85,85|M|||74|,,,,,Dark]Florges|FlorgesWhite|Leftovers|FlowerVeil|calmmind,moonblast,protect,wish||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
+  "ai": "Muk|MukAlola|AssaultVest|PoisonTouch|shadowsneak,poisonjab,drainpunch,knockoff||85,85,85,85,85,85|M|||82|,,,,,Fighting]Basculegion|BasculegionF|AssaultVest|Adaptability|hydropump,shadowball,flipturn,wavecrash||85,85,85,85,85,85|F|||83|,,,,,Water]Klawf||ChoiceBand|Regenerator|stoneedge,knockoff,crabhammer,highhorsepower||85,85,85,85,85,85|F|||90|,,,,,Water]Beartic||HeavyDutyBoots|SlushRush|closecombat,swordsdance,iciclecrash,snowscape||85,85,85,85,85,85|M|||91|,,,,,Fighting]Sneasler||ChoiceBand|PoisonTouch|uturn,closecombat,direclaw,throatchop||85,85,85,85,85,85|F|||74|,,,,,Fighting]Delibird||HeavyDutyBoots|VitalSpirit|rapidspin,freezedry,spikes,bravebird||85,85,85,85,85,85|F||||,,,,,Ghost"
+}

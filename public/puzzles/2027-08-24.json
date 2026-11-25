@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-24",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,892fee8f904fe9e67349ee688eddb54cfbb37a976b6e82d93f94078ce11fcb9d",
+    "ai": "sodium,6a17da84ae3cc88b199b670f753a17f6005eb97a270a4f56741e58ded45b2468"
+  },
+  "playerSpecies": [
+    "Mew",
+    "Inteleon",
+    "Suicune",
+    "Farigiraf",
+    "Registeel",
+    "Weezing-Galar"
+  ],
+  "player": "Mew||Leftovers|Synchronize|psychicnoise,knockoff,toxicspikes,stealthrock||85,85,85,85,85,85|N|||82|,,,,,Steel]Inteleon||ChoiceSpecs|Torrent|scald,hydropump,uturn,icebeam||85,85,85,85,85,85|F|||81|,,,,,Water]Suicune||Leftovers|Pressure|scald,substitute,calmmind,protect||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Farigiraf||Leftovers|SapSipper|psychicnoise,protect,bodyslam,wish||85,85,85,85,85,85|F|||89|,,,,,Ground]Registeel||ChestoBerry|ClearBody|irondefense,ironhead,bodypress,rest||85,85,85,85,85,85|N|||81|,,,,,Fighting]Weezing|WeezingGalar|Leftovers|Levitate|defog,gunkshot,fireblast,strangesteam||85,85,85,85,85,85|F|||86|,,,,,Steel",
+  "ai": "Meowscarada||FocusSash|Protean|toxicspikes,flowertrick,tripleaxel,knockoff||85,85,85,85,85,85|M|||78|,,,,,Dark]Ludicolo||LifeOrb|SwiftSwim|gigadrain,raindance,hydropump,icebeam||85,,85,85,85,85|F|,0,,,,||90|,,,,,Water]Espathra||Leftovers|SpeedBoost|substitute,storedpower,calmmind,dazzlinggleam||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fairy]Cinccino||LoadedDice|Technician|tripleaxel,tailslap,bulletseed,tidyup||85,85,85,85,85,85|F|||83|,,,,,Ice]Sandy Shocks||Leftovers|Protosynthesis|spikes,thunderwave,earthpower,thunderbolt||85,,85,85,85,85|N|,0,,,,||80|,,,,,Electric]Klawf||SitrusBerry|AngerShell|crabhammer,stoneedge,knockoff,swordsdance||85,85,85,85,85,85|F|||90|,,,,,Rock"
+}

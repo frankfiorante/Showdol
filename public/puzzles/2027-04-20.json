@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-20",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,866bf2c3f73df6de3635d6797c30c2d500d3cb82e71aedfa841e90a39bb127be",
+    "ai": "sodium,3cd0bfa1943f37c5c0b449c4dba97bfcde8fbed45f2bba2e13e91c000629c599"
+  },
+  "playerSpecies": [
+    "Mesprit",
+    "Flapple",
+    "Banette",
+    "Sceptile",
+    "Rhyperior",
+    "Copperajah"
+  ],
+  "player": "Mesprit||Leftovers|Levitate|psychicnoise,thunderwave,knockoff,uturn||85,85,85,85,85,85|N|||85|,,,,,Steel]Flapple||ChoiceBand|Hustle|gravapple,uturn,suckerpunch,outrage||85,85,85,85,85,85|F|||88|,,,,,Steel]Banette||LifeOrb|CursedBody|thunderwave,gunkshot,poltergeist,shadowsneak||85,85,85,85,85,85|M|||93|,,,,,Poison]Sceptile||LifeOrb|Overgrow|leafstorm,focusblast,earthquake,shedtail||85,85,85,85,85,85|M|||87|,,,,,Steel]Rhyperior||ChoiceBand|SolidRock|icepunch,megahorn,earthquake,stoneedge||85,85,85,85,85,85|F|||82|,,,,,Steel]Copperajah||LifeOrb|SheerForce|superpower,playrough,ironhead,stealthrock||85,85,85,85,85,85|F|||86|,,,,,Fairy",
+  "ai": "Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|quiverdance,roost,revelationdance,hurricane||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fighting]Vileplume||Leftovers|EffectSpore|strengthsap,sludgebomb,gigadrain,sleeppowder||85,,85,85,85,85|F|,0,,,,||85|,,,,,Water]Arceus||LifeOrb|Multitype|shadowclaw,swordsdance,extremespeed,earthquake||85,85,85,85,85,85|N|||68|,,,,,Ghost]Vespiquen||HeavyDutyBoots|Pressure|uturn,hurricane,toxicspikes,roost||85,85,85,85,85,85|F|||99|,,,,,Steel]Sylveon||Leftovers|Pixilate|calmmind,hypervoice,wish,protect||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Cinderace||HeavyDutyBoots|Libero|pyroball,uturn,willowisp,courtchange||85,85,85,85,85,85|M|||77|,,,,,Grass"
+}

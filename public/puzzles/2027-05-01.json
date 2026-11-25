@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-01",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,51c7a9a19521efd0b56b357adf2c69b254a4f84feec96f519c3068bc9c0282bd",
+    "ai": "sodium,9b5a605edfcb3351c5cc32c2c34e1bddfaf7a20e296df7ef9aa9ef5340f28b5e"
+  },
+  "playerSpecies": [
+    "Clefable",
+    "Azelf",
+    "Glastrier",
+    "Piloswine",
+    "Hariyama",
+    "Polteageist"
+  ],
+  "player": "Clefable||LifeOrb|MagicGuard|knockoff,moonblast,stealthrock,moonlight||85,85,85,85,85,85|M|||83|,,,,,Steel]Azelf||LifeOrb|Levitate|fireblast,taunt,psychic,uturn||85,85,85,85,85,85|N|||82|,,,,,Fire]Glastrier||HeavyDutyBoots|ChillingNeigh|highhorsepower,iciclecrash,closecombat,swordsdance||85,85,85,85,85,85|N|||86|,,,,,Fighting]Piloswine||Eviolite|ThickFat|roar,iceshard,earthquake,iciclecrash||85,85,85,85,85,85|F|||85|,,,,,Poison]Hariyama||FlameOrb|Guts|headlongrush,closecombat,facade,knockoff||85,85,85,85,85,85|F|||87|,,,,,Normal]Polteageist||WhiteHerb|CursedBody|shadowball,storedpower,strengthsap,shellsmash||85,,85,85,85,85|N|,0,,,,||78|,,,,,Dark",
+  "ai": "Smeargle||FocusSash|OwnTempo|spore,whirlwind,ceaselessedge,stickyweb||85,85,85,85,85,85|M|||95|,,,,,Ghost]Conkeldurr||FlameOrb|Guts|facade,machpunch,closecombat,knockoff||85,85,85,85,85,85|M|||80|,,,,,Normal]Dragapult||LifeOrb|ClearBody|fireblast,terablast,dragondarts,dragondance||85,85,85,85,85,85|F|||77|,,,,,Ghost]Jolteon||HeavyDutyBoots|VoltAbsorb|calmmind,thunderbolt,voltswitch,alluringvoice||85,,85,85,85,85|M|,0,,,,||84|,,,,,Electric]Iron Jugulis||PowerHerb|QuarkDrive|darkpulse,hurricane,meteorbeam,earthpower||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Donphan||AssaultVest|Sturdy|earthquake,icespinner,iceshard,rapidspin||85,85,85,85,85,85|F|||84|,,,,,Water"
+}

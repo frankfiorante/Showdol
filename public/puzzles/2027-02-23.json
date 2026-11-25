@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-23",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,83b05e3e3f37629bc0e75b9107aa31fcfb073df41cdd328d9d0a3f90cf70db72",
+    "ai": "sodium,fae60d3a0ad96ae4816f19051fe21ec18900b95cb15850243fe73ef8f419f34a"
+  },
+  "playerSpecies": [
+    "Lilligant-Hisui",
+    "Lapras",
+    "Landorus-Therian",
+    "Honchkrow",
+    "Probopass",
+    "Chi-Yu"
+  ],
+  "player": "Lilligant|LilligantHisui|LifeOrb|Hustle|closecombat,leafblade,victorydance,icespinner||85,85,85,85,85,85|F|||79|,,,,,Fighting]Lapras||HeavyDutyBoots|WaterAbsorb|sleeptalk,freezedry,sparklingaria,rest||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ghost]Landorus|LandorusTherian|Leftovers|Intimidate|taunt,stoneedge,earthquake,stealthrock||85,85,85,85,85,85|M|||76|,,,,,Water]Honchkrow||HeavyDutyBoots|Moxie|suckerpunch,bravebird,uturn,heatwave||85,85,85,85,85,85|M|||86|,,,,,Flying]Probopass||Leftovers|MagnetPull|bodypress,thunderwave,irondefense,powergem||85,,85,85,85,85|M|,0,,,,||91|,,,,,Fighting]Chi-Yu||HeavyDutyBoots|BeadsofRuin|willowisp,darkpulse,nastyplot,fireblast||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark",
+  "ai": "Polteageist||WhiteHerb|CursedBody|strengthsap,terablast,shellsmash,shadowball||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Lilligant|LilligantHisui|WideLens|Hustle|victorydance,icespinner,closecombat,leafblade||85,85,85,85,85,85|F|||79|,,,,,Steel]Abomasnow||LightClay|SnowWarning|iceshard,auroraveil,blizzard,earthquake||77,85,85,85,85,85|F|||84|,,,,,Water]Masquerain||HeavyDutyBoots|Intimidate|stickyweb,hurricane,uturn,hydropump||85,85,85,85,85,85|F|||87|,,,,,Water]Palkia|PalkiaOrigin|LustrousGlobe|Pressure|thunderwave,hydropump,dracometeor,fireblast||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire]Noivern||HeavyDutyBoots|Infiltrator|roost,dracometeor,hurricane,flamethrower||85,,85,85,85,85|F|,0,,,,||82|,,,,,Fire"
+}

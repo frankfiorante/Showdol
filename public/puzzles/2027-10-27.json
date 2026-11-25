@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-27",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,e2350e3241a5a122756a102f7ed4a4088080575905a2b6fbf4961e7740e6cdce",
+    "ai": "sodium,9bdd30bf34bedd7bdb4f11b7c35b6a77d361144e2d1475a1d87cf16f9890e25c"
+  },
+  "playerSpecies": [
+    "Magnezone",
+    "Pikachu-World",
+    "Shiftry",
+    "Jirachi",
+    "Terapagos",
+    "Latios"
+  ],
+  "player": "Magnezone||Leftovers|Analytic|irondefense,bodypress,discharge,flashcannon||85,,85,85,85,85|N|,0,,,,||84|,,,,,Fighting]Pikachu|PikachuWorld|LightBall|LightningRod|volttackle,fakeout,surf,voltswitch||85,85,85,85,85,85|M|||93|,,,,,Water]Shiftry||LifeOrb|WindRider|swordsdance,knockoff,suckerpunch,leafblade||85,85,85,85,85,85|M|||89|,,,,,Dark]Jirachi||AssaultVest|SereneGrace|ironhead,bodyslam,uturn,drainpunch||85,85,85,85,85,85|N|||80|,,,,,Fighting]Terapagos||HeavyDutyBoots|TeraShift|darkpulse,terastarstorm,rapidspin,calmmind||85,85,85,85,85,85|F|||77|,,,,,Stellar]Latios||SoulDew|Levitate|dracometeor,lusterpurge,recover,aurasphere||85,,85,85,85,85|M|,0,,,,||78|,,,,,Fighting",
+  "ai": "Virizion||LifeOrb|Justified|stoneedge,leafblade,swordsdance,closecombat||85,85,85,85,85,85|N|||82|,,,,,Rock]Iron Thorns||BoosterEnergy|QuarkDrive|wildcharge,dragondance,earthquake,stoneedge||85,85,85,85,85,85|N|||81|,,,,,Ground]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,nastyplot,recover,shadowball||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Houndstone||AssaultVest|Fluffy|shadowsneak,playrough,bodypress,poltergeist||85,85,85,85,85,85|F|||86|,,,,,Fairy]Vikavolt||HeavyDutyBoots|Levitate|bugbuzz,stickyweb,discharge,energyball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Meowstic||LightClay|Prankster|thunderwave,reflect,psychicnoise,lightscreen||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy"
+}

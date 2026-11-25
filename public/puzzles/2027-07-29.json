@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-29",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,93c64ccd2baf16adc82284327895c0efbf1e09719c91581ca9fdac9b8b839d43",
+    "ai": "sodium,2f47d8eaec8a224d2eed25b3697cb8d6b41e854ef2cf6cc57ce058d7ea4245ca"
+  },
+  "playerSpecies": [
+    "Exeggutor-Alola",
+    "Bellossom",
+    "Golurk",
+    "Porygon2",
+    "Bisharp",
+    "Perrserker"
+  ],
+  "player": "Exeggutor|ExeggutorAlola|ChoiceSpecs|Frisk|gigadrain,leafstorm,flamethrower,dracometeor||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fire]Bellossom||Leftovers|Chlorophyll|quiverdance,terablast,gigadrain,strengthsap||85,,85,85,85,85|M|,0,,,,||84|,,,,,Rock]Golurk||LifeOrb|NoGuard|stealthrock,poltergeist,earthquake,dynamicpunch||85,85,85,85,85,85|N|||87|,,,,,Fighting]Porygon2||Eviolite|Download|triattack,icebeam,discharge,recover||85,,85,85,85,85|N|,0,,,,||81|,,,,,Electric]Bisharp||Eviolite|Defiant|suckerpunch,throatchop,ironhead,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Flying]Perrserker||ChoiceBand|ToughClaws|knockoff,uturn,ironhead,closecombat||85,85,85,85,85,85|F|||89|,,,,,Fighting",
+  "ai": "Flapple||ChoiceBand|Hustle|gravapple,suckerpunch,outrage,uturn||85,85,85,85,85,85|M|||88|,,,,,Steel]Haxorus||LoadedDice|MoldBreaker|ironhead,earthquake,scaleshot,swordsdance||85,85,85,85,85,85|M|||78|,,,,,Steel]Delphox||ChoiceSpecs|Blaze|focusblast,psyshock,fireblast,grassknot||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fighting]Donphan||AssaultVest|Sturdy|rapidspin,earthquake,icespinner,knockoff||85,85,85,85,85,85|F|||84|,,,,,Water]Grafaiai||LifeOrb|PoisonTouch|gunkshot,swordsdance,knockoff,lowkick||85,85,85,85,85,85|M|||86|,,,,,Dark]Meloetta||Leftovers|SereneGrace|focusblast,calmmind,psyshock,hypervoice||85,,85,85,85,85|N|,0,,,,||82|,,,,,Psychic"
+}

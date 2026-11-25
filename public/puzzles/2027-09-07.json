@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-07",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,6b936789b393edb442edd790bed1fba12dcf4a07049f437a2f6bf1b9851ff339",
+    "ai": "sodium,7278bf9fecbbee5f3a090c75e95758af5727eedd416dbc11758ad7bfc3ea4efd"
+  },
+  "playerSpecies": [
+    "Umbreon",
+    "Mudsdale",
+    "Beartic",
+    "Pawmot",
+    "Perrserker",
+    "Camerupt"
+  ],
+  "player": "Umbreon||Leftovers|Synchronize|toxic,wish,foulplay,protect||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Mudsdale||Leftovers|Stamina|earthquake,heavyslam,stoneedge,stealthrock||85,85,85,85,85,85|M|||83|,,,,,Steel]Beartic||ChoiceBand|SlushRush|earthquake,aquajet,closecombat,iciclecrash||85,85,85,85,85,85|M|||91|,,,,,Ground]Pawmot||LifeOrb|IronFist|icepunch,closecombat,doubleshock,revivalblessing||85,85,85,85,85,85|F|||80|,,,,,Electric]Perrserker||ChoiceBand|ToughClaws|ironhead,knockoff,closecombat,uturn||85,85,85,85,85,85|M|||89|,,,,,Fighting]Camerupt||Leftovers|SolidRock|willowisp,earthquake,overheat,roar||85,85,85,85,85,85|M|||91|,,,,,Grass",
+  "ai": "Spectrier||LifeOrb|GrimNeigh|terablast,nastyplot,willowisp,shadowball||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Keldeo|KeldeoResolute|Leftovers|Justified|surf,substitute,secretsword,calmmind||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel]Gurdurr||Eviolite|Guts|knockoff,bulkup,drainpunch,machpunch||85,85,85,85,85,85|F|||85|,,,,,Steel]Rillaboom||LifeOrb|GrassySurge|grassyglide,swordsdance,knockoff,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Oranguru||Leftovers|InnerFocus|thunderbolt,focusblast,psychic,nastyplot||85,,85,85,85,85|F|,0,,,,||92|,,,,,Fighting]Ting-Lu||Leftovers|VesselofRuin|heavyslam,payback,earthquake,stealthrock||85,85,85,85,85,85|N|||78|,,,,,Poison"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-17",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,0e44f82ec18b80c1e4a230c00e311b83a34402e1da40e3bffb710b980e3162f1",
+    "ai": "sodium,377a29519164121c9d9ad400b9d0dfe68255035d20a82ed9d476eb014fc52631"
+  },
+  "playerSpecies": [
+    "Scyther",
+    "Hitmonlee",
+    "Darkrai",
+    "Quaquaval",
+    "Florges-White",
+    "Raichu-Alola"
+  ],
+  "player": "Scyther||HeavyDutyBoots|Technician|defog,dualwingbeat,closecombat,uturn||85,85,85,85,85,85|F|||82|,,,,,Fighting]Hitmonlee||ChoiceBand|Reckless|stoneedge,machpunch,knockoff,highjumpkick||81,85,85,85,85,85|M|||85|,,,,,Fighting]Darkrai||LifeOrb|BadDreams|sludgebomb,focusblast,nastyplot,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison]Quaquaval||LifeOrb|Moxie|closecombat,knockoff,aquastep,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Fighting]Florges|FlorgesWhite|Leftovers|FlowerVeil|terablast,synthesis,moonblast,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|psyshock,thunderbolt,grassknot,focusblast||85,,85,85,85,85|M|,0,,,,||87|,,,,,Grass",
+  "ai": "Revavroom||LifeOrb|Filter|gunkshot,shiftgear,ironhead,highhorsepower||85,85,85,85,85,85|F|||79|,,,,,Ground]Kricketune||HeavyDutyBoots|Technician|taunt,pounce,stickyweb,knockoff||85,85,85,85,85,85|F|||99|,,,,,Ghost]Blissey||Leftovers|NaturalCure|softboiled,thunderwave,seismictoss,stealthrock||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ghost]Quagsire||Leftovers|Unaware|spikes,recover,earthquake,toxic||85,85,85,85,85,85|F|||84|,,,,,Poison]Arceus|ArceusGrass|MeadowPlate|Multitype|calmmind,icebeam,judgment,earthpower||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Ceruledge||HeavyDutyBoots|WeakArmor|shadowsneak,swordsdance,bitterblade,poltergeist||85,85,85,85,85,85|F|||78|,,,,,Fire"
+}

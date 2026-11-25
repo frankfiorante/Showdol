@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-13",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,f97b392b39215c5faf894a275a7e204c60f2afbbec8f20e56da1f56b4ebf6996",
+    "ai": "sodium,0477704cd152d7adeb8086985b1ded90ec211ac6328733f1e608f3149090726f"
+  },
+  "playerSpecies": [
+    "Stonjourner",
+    "Dunsparce",
+    "Raikou",
+    "Lokix",
+    "Wugtrio",
+    "Azumarill"
+  ],
+  "player": "Stonjourner||LifeOrb|PowerSpot|heatcrash,stealthrock,earthquake,stoneedge||85,85,85,85,85,85|F|||91|,,,,,Ground]Dunsparce||Eviolite|SereneGrace|coil,earthquake,bodyslam,roost||85,85,85,85,85,85|M|||86|,,,,,Ground]Raikou||HeavyDutyBoots|Pressure|voltswitch,scald,calmmind,thunderbolt||85,,85,85,85,85|N|,0,,,,||82|,,,,,Electric]Lokix||LifeOrb|TintedLens|leechlife,suckerpunch,knockoff,swordsdance||85,85,85,85,85,85|M|||82|,,,,,Dark]Wugtrio||ChoiceBand|Gooey|aquajet,throatchop,liquidation,stompingtantrum||85,85,85,85,85,85|F|||91|,,,,,Ground]Azumarill||ChoiceBand|HugePower|liquidation,playrough,knockoff,aquajet||85,85,85,85,85,85|M|||82|,,,,,Water",
+  "ai": "Medicham||ChoiceScarf|PurePower|closecombat,poisonjab,trick,zenheadbutt||85,85,85,85,85,85|F|||86|,,,,,Fighting]Seviper||ChoiceScarf|Infiltrator|gunkshot,flamethrower,earthquake,switcheroo||85,85,85,85,85,85|M|||93|,,,,,Fire]Fezandipiti||Leftovers|ToxicChain|terablast,swordsdance,playrough,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Ground]Girafarig||Eviolite|SapSipper|nastyplot,psyshock,dazzlinggleam,thunderbolt||85,,85,85,85,85|F|,0,,,,||89|,,,,,Electric]Ursaring||ToxicOrb|QuickFeet|closecombat,crunch,swordsdance,facade||85,85,85,85,85,85|F|||84|,,,,,Normal]Dusknoir||Leftovers|Frisk|shadowsneak,painsplit,willowisp,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Fairy"
+}

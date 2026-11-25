@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-04",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,844ada8d1a59cdf9bd0c189f1e9a913e075a2625fcaa32fd12a98dd518ea20ae",
+    "ai": "sodium,baec7fbc95da8cebc049f66b7ddbc7c975853f231882fa683bdbf22144d0b3d6"
+  },
+  "playerSpecies": [
+    "Iron Crown",
+    "Azumarill",
+    "Orthworm",
+    "Calyrex-Shadow",
+    "Ting-Lu",
+    "Exeggutor-Alola"
+  ],
+  "player": "Iron Crown||ChoiceSpecs|QuarkDrive|tachyoncutter,focusblast,voltswitch,psyshock||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Azumarill||ChoiceBand|HugePower|playrough,aquajet,liquidation,knockoff||85,85,85,85,85,85|F|||82|,,,,,Water]Orthworm||ChestoBerry|EarthEater|irontail,bodypress,rest,coil||85,85,85,85,85,85|F|||88|,,,,,Fighting]Calyrex|CalyrexShadow|LifeOrb|AsOneSpectrier|psyshock,astralbarrage,pollenpuff,nastyplot||85,,85,85,85,85|N|,0,,,,||64|,,,,,Dark]Ting-Lu||Leftovers|VesselofRuin|throatchop,earthquake,whirlwind,stealthrock||85,85,85,85,85,85|N|||78|,,,,,Poison]Exeggutor|ExeggutorAlola|ChoiceSpecs|Frisk|gigadrain,flamethrower,dracometeor,leafstorm||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fire",
+  "ai": "Skeledirge||HeavyDutyBoots|Unaware|torchsong,willowisp,hex,slackoff||85,,85,85,85,85|F|,0,,,,||79|,,,,,Water]Greninja||LifeOrb|Protean|darkpulse,grassknot,toxicspikes,hydropump||85,,85,85,85,85|M|,0,,,,||80|,,,,,Water]Toxapex||RockyHelmet|Regenerator|haze,liquidation,recover,toxic||85,85,85,85,85,85|M|||82|,,,,,Steel]Zapdos||HeavyDutyBoots|Static|hurricane,roost,discharge,uturn||85,85,85,85,85,85|N|||78|,,,,,Steel]Vespiquen||HeavyDutyBoots|Pressure|spikes,roost,hurricane,toxic||85,,85,85,85,85|F|,0,,,,||99|,,,,,Steel]Lunala||Leftovers|ShadowShield|moongeistbeam,moonlight,calmmind,psyshock||85,,85,85,85,85|N|,0,,,,||70|,,,,,Dark"
+}

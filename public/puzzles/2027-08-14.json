@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-14",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,4c206ba99d532f3f6677235181ee388a7ce7e75cce94d669a409ec3d95333cf6",
+    "ai": "sodium,d3cfcc28859766c876328af7feb62609bf48e533357bc9dc9519e5e8b0f053da"
+  },
+  "playerSpecies": [
+    "Coalossal",
+    "Wugtrio",
+    "Carbink",
+    "Chien-Pao",
+    "Mesprit",
+    "Suicune"
+  ],
+  "player": "Coalossal||HeavyDutyBoots|FlameBody|flamethrower,stoneedge,willowisp,rapidspin||85,85,85,85,85,85|M|||89|,,,,,Grass]Wugtrio||ChoiceBand|Gooey|stompingtantrum,aquajet,liquidation,throatchop||85,85,85,85,85,85|F|||91|,,,,,Dark]Carbink||Leftovers|Sturdy|moonblast,irondefense,rockpolish,bodypress||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Chien-Pao||ChoiceBand|SwordofRuin|iciclecrash,sacredsword,throatchop,iceshard||85,85,85,85,85,85|N|||72|,,,,,Dark]Mesprit||ChoiceScarf|Levitate|shadowball,thunderbolt,psychic,trick||85,,85,85,85,85|N|,0,,,,||85|,,,,,Electric]Suicune||Leftovers|Pressure|substitute,protect,scald,calmmind||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel",
+  "ai": "Venusaur||Leftovers|Chlorophyll|earthpower,sludgebomb,toxic,synthesis||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Darkrai||LifeOrb|BadDreams|darkpulse,hypnosis,nastyplot,sludgebomb||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison]Grimmsnarl||Leftovers|Prankster|thunderwave,suckerpunch,partingshot,spiritbreak||85,85,85,85,85,85|M|||83|,,,,,Poison]Eternatus||PowerHerb|Pressure|fireblast,dynamaxcannon,meteorbeam,sludgebomb||85,,85,85,85,85|N|,0,,,,||69|,,,,,Poison]Stonjourner||LifeOrb|PowerSpot|earthquake,heatcrash,stoneedge,rockpolish||85,85,85,85,85,85|M|||91|,,,,,Ground]Basculin|BasculinBlueStriped|ChoiceBand|Adaptability|wavecrash,doubleedge,aquajet,flipturn||85,85,85,85,85,85|F|||86|,,,,,Water"
+}

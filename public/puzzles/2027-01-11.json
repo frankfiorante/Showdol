@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-11",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,27546639fb5588b1ec31b32737ab8b75493615af964eaa7b8e0190dda8a4ec28",
+    "ai": "sodium,4f7063fc129ff6fee253388c3600f2c21afb97f4b487aa0e6c85c8bbeef07f01"
+  },
+  "playerSpecies": [
+    "Dusknoir",
+    "Scream Tail",
+    "Forretress",
+    "Phione",
+    "Walking Wake",
+    "Dodrio"
+  ],
+  "player": "Dusknoir||Leftovers|Frisk|focuspunch,substitute,poltergeist,painsplit||85,85,85,85,85,85|M|||89|,,,,,Fighting]Scream Tail||Leftovers|Protosynthesis|protect,encore,dazzlinggleam,wish||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison]Forretress||Leftovers|Sturdy|ironhead,rapidspin,stealthrock,thunderwave||85,85,85,85,85,85|M|||84|,,,,,Water]Phione||Leftovers|Hydration|icebeam,scald,takeheart,grassknot||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Walking Wake||LifeOrb|Protosynthesis|hydrosteam,dracometeor,flamethrower,sunnyday||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Dodrio||ChoiceBand|EarlyBird|quickattack,drillrun,bravebird,doubleedge||85,85,85,85,85,85|F|||85|,,,,,Ground",
+  "ai": "Iron Jugulis||ChoiceSpecs|QuarkDrive|darkpulse,hurricane,hydropump,earthpower||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Great Tusk||Leftovers|Protosynthesis|headlongrush,closecombat,stealthrock,rapidspin||85,85,85,85,85,85|N|||77|,,,,,Ground]Luvdisc||HeavyDutyBoots|SwiftSwim|endeavor,substitute,surf,flipturn||81,85,85,85,85,85|F||||,,,,,Ground]Lilligant||LifeOrb|OwnTempo|alluringvoice,quiverdance,sleeppowder,petaldance||85,,85,85,85,85|F|,0,,,,||86|,,,,,Grass]Iron Hands||Leftovers|QuarkDrive|swordsdance,thunderpunch,icepunch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Flying]Florges|FlorgesBlue|Leftovers|FlowerVeil|synthesis,calmmind,moonblast,terablast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground"
+}

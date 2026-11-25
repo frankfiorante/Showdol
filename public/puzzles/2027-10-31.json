@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-31",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,4c62f778d208f4155bb2093e76ee8d4e043327d397a76ae2b171852a91946b6d",
+    "ai": "sodium,1173e51aac8e88017c1f5d4eed2538bfbe4597a71aa7c6870afd4e47cb820801"
+  },
+  "playerSpecies": [
+    "Dodrio",
+    "Golem",
+    "Scream Tail",
+    "Pachirisu",
+    "Clodsire",
+    "Florges-White"
+  ],
+  "player": "Dodrio||ChoiceBand|EarlyBird|quickattack,doubleedge,bravebird,drillrun||85,85,85,85,85,85|M|||85|,,,,,Ground]Golem||WeaknessPolicy|Sturdy|earthquake,stoneedge,rockpolish,explosion||85,85,85,85,85,85|M|||87|,,,,,Steel]Scream Tail||Leftovers|Protosynthesis|wish,playrough,thunderwave,protect||85,85,85,85,85,85|N|||84|,,,,,Steel]Pachirisu||HeavyDutyBoots|VoltAbsorb|superfang,uturn,encore,discharge||85,85,85,85,85,85|F|||96|,,,,,Flying]Clodsire||Leftovers|Unaware|toxic,poisonjab,earthquake,recover||85,85,85,85,85,85|F|||81|,,,,,Flying]Florges|FlorgesWhite|Leftovers|FlowerVeil|wish,moonblast,protect,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
+  "ai": "Latios||ChoiceSpecs|Levitate|aurasphere,flipturn,dracometeor,lusterpurge||85,85,85,85,85,85|M|||78|,,,,,Dragon]Morpeko||HeavyDutyBoots|HungerSwitch|aurawheel,rapidspin,partingshot,protect||85,85,85,85,85,85|M|||88|,,,,,Electric]Golem|GolemAlola|LifeOrb|Galvanize|stoneedge,doubleedge,rockpolish,earthquake||85,85,85,85,85,85|M|||93|,,,,,Flying]Torkoal||HeavyDutyBoots|Drought|lavaplume,stealthrock,solarbeam,yawn||85,,85,85,85,85|F|,0,,,,||88|,,,,,Grass]Clawitzer||ChoiceSpecs|MegaLauncher|uturn,aurasphere,waterpulse,icebeam||85,85,85,85,85,85|F|||87|,,,,,Fighting]Ogerpon|OgerponHearthflame|HearthflameMask|MoldBreaker|swordsdance,knockoff,ivycudgel,powerwhip||77,85,85,85,85,85|F|||74|,,,,,Fire"
+}

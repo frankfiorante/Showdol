@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-18",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,dc1c5715a4871ce00df8ceed685e894b563d7482eb83730684fc9374f021e539",
+    "ai": "sodium,beb21616689cc3cc37359a0b6eea29e2785e3ce7fb4c48fa2c0934a58e664931"
+  },
+  "playerSpecies": [
+    "Floatzel",
+    "Chien-Pao",
+    "Vigoroth",
+    "Archaludon",
+    "Miraidon",
+    "Glimmora"
+  ],
+  "player": "Floatzel||ChoiceBand|WaterVeil|icespinner,wavecrash,flipturn,crunch||85,85,85,85,85,85|F|||86|,,,,,Water]Chien-Pao||HeavyDutyBoots|SwordofRuin|iciclecrash,swordsdance,throatchop,sacredsword||85,85,85,85,85,85|N|||72|,,,,,Dark]Vigoroth||Eviolite|VitalSpirit|knockoff,slackoff,bodyslam,bulkup||85,85,85,85,85,85|F|||85|,,,,,Ghost]Archaludon||LumBerry|Stamina|ironhead,swordsdance,outrage,earthquake||85,85,85,85,85,85|F|||77|,,,,,Ground]Miraidon||LifeOrb|HadronEngine|calmmind,electrodrift,dracometeor,dragonpulse||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Glimmora||HeavyDutyBoots|ToxicDebris|mortalspin,spikes,sludgewave,earthpower||85,85,85,85,85,85|F|||75|,,,,,Ground",
+  "ai": "Zoroark||LifeOrb|Illusion|focusblast,nastyplot,darkpulse,sludgebomb||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Comfey||Leftovers|Triage|drainingkiss,synthesis,terablast,calmmind||85,,85,85,85,85|M|,0,,,,||85|,,,,,Ground]Hitmontop||Leftovers|Technician|closecombat,rapidspin,bulkup,tripleaxel||85,85,85,85,85,85|M|||88|,,,,,Ice]Toedscruel||Leftovers|MyceliumMight|knockoff,toxic,gigadrain,earthpower||85,85,85,85,85,85|M|||87|,,,,,Water]Empoleon||Leftovers|Competitive|roost,surf,icebeam,stealthrock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Flying]Excadrill||AssaultVest|MoldBreaker|rapidspin,rockslide,ironhead,earthquake||85,85,85,85,85,85|F|||79|,,,,,Water"
+}

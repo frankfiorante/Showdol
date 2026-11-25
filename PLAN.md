@@ -213,10 +213,21 @@ The build runs in six phases. Each ends with something playable, and the risky p
 
 ### Phase 2: Daily mechanics
 
-- [ ] Daily puzzle JSON files for a year ahead
-- [ ] Puzzle numbering and local date key
-- [ ] Daily lock states and the midnight countdown
-- [ ] Battle seed, input log, and resume on reload
+- [x] Daily puzzle JSON files for a year ahead
+- [x] Puzzle numbering and local date key
+- [x] Daily lock states and the midnight countdown
+- [x] Battle seed, input log, and resume on reload
+
+**Phase 2 notes:**
+
+- **Yesterday's unfinished game comes first.** The rules allowed both yesterday's game and today's puzzle to be open at once. Now yesterday's game must be finished or forfeited before today unlocks, which matches "the new day unlocks right after." Anything unfinished from earlier is recorded as a loss (`abandoned: true`).
+- **Resume replays the saved AI choices.** The AI is never asked again for a decision it already made. Each AI decision gets its own seed, derived from `aiSeed` and the decision number, so a resumed game continues exactly as an uninterrupted one would. `session:check` resumes every test battle from a random save point to verify this.
+- **The client sees only the battle log.** It no longer gets the sim's per-turn request data: merging that in mid-battle corrupted its HP tracking, and the player's own side already comes from the sim.
+- **Record fields added to the plan's data model:** `aiTeam`, saved at the end for the result screen; `abandoned`; and `turns`, which holds the current turn while a game is in progress.
+- **Published days can't change.** `gen:puzzle` refuses to rewrite an existing day's file with different content unless given `--force`.
+- **Saves that no longer replay** (for example, after an engine change) show an error with a "Record as a loss" button.
+- **Illusion and hidden traps:** testing all 365 days turned up two Showdown edge cases. When Zoroark's Illusion breaks, the client keeps a stale entry for the disguise, which the view now drops. A switch into a not-yet-revealed trapping ability is refused with a message, and the screen then marks you as trapped.
+- **Launch date** is a placeholder (`LAUNCH_DATE` in `src/game/daily.ts`, currently 2026-11-24) until the open question is settled.
 
 ### Phase 3: AI
 

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-18",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,f7208c952069f71c6547b89745d308aedf719e7f0f6d1d887d61ef69526bc9f2",
+    "ai": "sodium,b4329548f7b0ec70b8e3ab590003602f50f98bcb5c1083eac42a8c3abbad09b5"
+  },
+  "playerSpecies": [
+    "Necrozma-Dusk-Mane",
+    "Morpeko",
+    "Sunflora",
+    "Sylveon",
+    "Raikou",
+    "Kricketune"
+  ],
+  "player": "Necrozma|NecrozmaDuskMane|WeaknessPolicy|PrismArmor|sunsteelstrike,earthquake,morningsun,dragondance||85,85,85,85,85,85|N|||69|,,,,,Steel]Morpeko||Leftovers|HungerSwitch|aurawheel,rapidspin,protect,knockoff||85,85,85,85,85,85|M|||88|,,,,,Electric]Sunflora||ChoiceSpecs|Chlorophyll|earthpower,sludgebomb,dazzlinggleam,leafstorm||85,,85,85,85,85|M|,0,,,,|||,,,,,Fairy]Sylveon||Leftovers|Pixilate|protect,calmmind,hypervoice,wish||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Raikou||Leftovers|Pressure|scald,thunderbolt,substitute,calmmind||85,,85,85,85,85|N|,0,,,,||82|,,,,,Grass]Kricketune||HeavyDutyBoots|Technician|stickyweb,knockoff,taunt,pounce||85,85,85,85,85,85|F|||99|,,,,,Ghost",
+  "ai": "Cobalion||Leftovers|Justified|calmmind,vacuumwave,aurasphere,flashcannon||85,,85,85,85,85|N|,0,,,,||80|,,,,,Water]Kleavor||HeavyDutyBoots|Sharpness|xscissor,uturn,stoneaxe,defog||85,85,85,85,85,85|M|||78|,,,,,Bug]Appletun||Leftovers|ThickFat|dragonpulse,leechseed,recover,appleacid||85,,85,85,85,85|M|,0,,,,||92|,,,,,Steel]Typhlosion||ChoiceSpecs|Blaze|eruption,focusblast,fireblast,scorchingsands||81,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Farigiraf||Leftovers|SapSipper|protect,psychicnoise,wish,bodyslam||85,85,85,85,85,85|M|||89|,,,,,Fairy]Shiftry||LifeOrb|WindRider|tailwind,leafblade,lowkick,knockoff||85,85,85,85,85,85|F|||89|,,,,,Dark"
+}

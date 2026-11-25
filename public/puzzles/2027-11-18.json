@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-18",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,0162f9b648551c63c7a7a5663c3735f9025d09cf8c85bd519dc41b5e82e25ea6",
+    "ai": "sodium,43624e2f8004929563a30443d7543fd8fc87a8d632a3b0fe01509fa9819b704b"
+  },
+  "playerSpecies": [
+    "Primarina",
+    "Wigglytuff",
+    "Meloetta",
+    "Amoonguss",
+    "Zebstrika",
+    "Armarouge"
+  ],
+  "player": "Primarina||Leftovers|Torrent|sparklingaria,calmmind,psychic,drainingkiss||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Wigglytuff||Leftovers|Competitive|dazzlinggleam,protect,wish,fireblast||85,,85,85,85,85|M|,0,,,,||96|,,,,,Poison]Meloetta||LifeOrb|SereneGrace|tripleaxel,closecombat,knockoff,relicsong||85,85,85,85,85,85|N|||82|,,,,,Fighting]Amoonguss||RockyHelmet|Regenerator|gigadrain,sludgebomb,clearsmog,spore||85,,85,85,85,85|F|,0,,,,||82|,,,,,Water]Zebstrika||LifeOrb|SapSipper|voltswitch,supercellslam,highhorsepower,overheat||85,85,85,85,85,85|F|||87|,,,,,Ground]Armarouge||PowerHerb|WeakArmor|psyshock,armorcannon,meteorbeam,energyball||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass",
+  "ai": "Brute Bonnet||Leftovers|Protosynthesis|suckerpunch,closecombat,spore,crunch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Furret||ChoiceBand|Frisk|knockoff,uturn,doubleedge,trick||85,85,85,85,85,85|M|||94|,,,,,Normal]Infernape||LifeOrb|Blaze|flareblitz,stoneedge,swordsdance,closecombat||85,85,85,85,85,85|M|||82|,,,,,Fighting]Chesnaught||Leftovers|Bulletproof|woodhammer,bodypress,spikes,synthesis||85,85,85,85,85,85|F|||84|,,,,,Steel]Blissey||Leftovers|NaturalCure|softboiled,seismictoss,thunderwave,healbell||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Lunala||Leftovers|ShadowShield|moonlight,focusblast,moongeistbeam,calmmind||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fighting"
+}

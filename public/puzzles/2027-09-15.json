@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-15",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,cf23b4f613340a6ab41d024a40d40837f292a2d8c3bbdaa79cf1533fab850494",
+    "ai": "sodium,bab2541631ac48718ab12f431020709c62c8ce2c08026562ea8d9f5336fdf1d3"
+  },
+  "playerSpecies": [
+    "Mimikyu",
+    "Cacturne",
+    "Regidrago",
+    "Spidops",
+    "Medicham",
+    "Orthworm"
+  ],
+  "player": "Mimikyu||LifeOrb|Disguise|shadowsneak,drainpunch,swordsdance,playrough||85,85,85,85,85,85|F|||79|,,,,,Fairy]Cacturne||LifeOrb|WaterAbsorb|knockoff,leafstorm,spikes,suckerpunch||85,85,85,85,85,85|M|||92|,,,,,Poison]Regidrago||LumBerry|DragonsMaw|outrage,dracometeor,dragondance,earthquake||85,85,85,85,85,85|N|||77|,,,,,Dragon]Spidops||HeavyDutyBoots|Stakeout|uturn,circlethrow,knockoff,stickyweb||85,85,85,85,85,85|F|||96|,,,,,Ghost]Medicham||ChoiceBand|PurePower|bulletpunch,zenheadbutt,trick,closecombat||85,85,85,85,85,85|F|||86|,,,,,Fighting]Orthworm||Leftovers|EarthEater|heavyslam,bodypress,stealthrock,shedtail||85,85,85,85,85,85|F|||88|,,,,,Electric",
+  "ai": "Clefable||LifeOrb|MagicGuard|calmmind,fireblast,moonblast,moonlight||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire]Araquanid||HeavyDutyBoots|WaterBubble|stickyweb,hydropump,leechlife,liquidation||85,85,85,85,85,85|M|||82|,,,,,Ground]Corviknight||RockyHelmet|Pressure|roost,bodypress,bravebird,defog||85,85,85,85,85,85|F|||80|,,,,,Dragon]Camerupt||Leftovers|SolidRock|stealthrock,willowisp,earthquake,overheat||85,85,85,85,85,85|F|||91|,,,,,Grass]Jolteon||Leftovers|VoltAbsorb|thunderbolt,substitute,terablast,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice]Kyurem|KyuremWhite|ChoiceSpecs|Turboblaze|freezedry,icebeam,dracometeor,earthpower||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ice"
+}

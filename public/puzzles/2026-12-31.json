@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-31",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,6c92a905fba568b85d5b11cf0b582ff7b0ef5e6e5fb9d9aa3e1e7737ce1d98f6",
+    "ai": "sodium,925b71890f561d0b3ad7ddd1b6b3e2cd562a263de53a946d6a9b6ec4e9e4a227"
+  },
+  "playerSpecies": [
+    "Copperajah",
+    "Houndstone",
+    "Muk",
+    "Dachsbun",
+    "Sandaconda",
+    "Zebstrika"
+  ],
+  "player": "Copperajah||LifeOrb|SheerForce|rockslide,earthquake,ironhead,playrough||85,85,85,85,85,85|F|||86|,,,,,Fairy]Houndstone||AssaultVest|Fluffy|shadowsneak,playrough,poltergeist,bodypress||85,85,85,85,85,85|M|||86|,,,,,Fairy]Muk||AssaultVest|PoisonTouch|shadowsneak,poisonjab,icepunch,knockoff||85,85,85,85,85,85|M|||86|,,,,,Dark]Dachsbun||Leftovers|WellBakedBody|protect,playrough,yawn,wish||85,85,85,85,85,85|F|||92|,,,,,Steel]Sandaconda||Leftovers|ShedSkin|coil,earthquake,rest,stoneedge||85,85,85,85,85,85|M|||84|,,,,,Steel]Zebstrika||LifeOrb|SapSipper|highhorsepower,overheat,voltswitch,supercellslam||85,85,85,85,85,85|M|||87|,,,,,Ground",
+  "ai": "Reuniclus||LifeOrb|MagicGuard|recover,focusblast,psyshock,calmmind||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Eiscue||SitrusBerry|IceFace|liquidation,bellydrum,ironhead,icespinner||81,85,85,85,85,85|F|||88|,,,,,Water]Regidrago||ChoiceScarf|DragonsMaw|dracometeor,dragonenergy,outrage,earthquake||85,85,85,85,85,85|N|||77|,,,,,Dragon]Krookodile||Leftovers|Intimidate|gunkshot,knockoff,earthquake,bulkup||85,85,85,85,85,85|F|||79|,,,,,Poison]Iron Boulder||BoosterEnergy|QuarkDrive|zenheadbutt,closecombat,mightycleave,swordsdance||85,85,85,85,85,85|N|||77|,,,,,Fighting]Weezing||Leftovers|Levitate|fireblast,painsplit,toxicspikes,sludgebomb||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel"
+}

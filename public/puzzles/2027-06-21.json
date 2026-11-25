@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-21",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,897da43f2c7eebd270bcf4e08b6fe7d14884de1dd5f308c31a3e57abfd49200d",
+    "ai": "sodium,8b93a0536bff7f101535757c98dd5f78073b0002ec8b4279c2139c293bca18b8"
+  },
+  "playerSpecies": [
+    "Fezandipiti",
+    "Quagsire",
+    "Krookodile",
+    "Braviary-Hisui",
+    "Chandelure",
+    "Leavanny"
+  ],
+  "player": "Fezandipiti||Leftovers|ToxicChain|terablast,playrough,gunkshot,swordsdance||85,85,85,85,85,85|M|||82|,,,,,Ground]Quagsire||Leftovers|Unaware|spikes,toxic,recover,earthquake||85,85,85,85,85,85|M|||84|,,,,,Poison]Krookodile||ChoiceScarf|Intimidate|knockoff,stoneedge,earthquake,gunkshot||85,85,85,85,85,85|F|||79|,,,,,Poison]Braviary|BraviaryHisui|LifeOrb|SheerForce|heatwave,agility,psychic,hurricane||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fairy]Chandelure||HeavyDutyBoots|FlashFire|shadowball,energyball,calmmind,fireblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Grass]Leavanny||LoadedDice|Chlorophyll|tripleaxel,bulletseed,stickyweb,knockoff||85,85,85,85,85,85|F|||86|,,,,,Rock",
+  "ai": "Perrserker||LifeOrb|ToughClaws|knockoff,ironhead,closecombat,stealthrock||85,85,85,85,85,85|M|||89|,,,,,Fighting]Latios||SoulDew|Levitate|aurasphere,recover,dracometeor,lusterpurge||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Walking Wake||LifeOrb|Protosynthesis|dracometeor,sunnyday,hydrosteam,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Samurott||LifeOrb|Torrent|knockoff,liquidation,swordsdance,aquajet||85,85,85,85,85,85|F|||88|,,,,,Dark]Farigiraf||Leftovers|SapSipper|protect,wish,bodyslam,psychicnoise||85,85,85,85,85,85|M|||89|,,,,,Fairy]Zebstrika||LifeOrb|SapSipper|voltswitch,overheat,highhorsepower,supercellslam||85,85,85,85,85,85|M|||87|,,,,,Ground"
+}

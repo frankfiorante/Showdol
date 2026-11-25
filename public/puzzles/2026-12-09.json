@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-09",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,ac97c8028439676fbfde06db299b594fdd36dd4ae54b635aa56de3c5d01a8837",
+    "ai": "sodium,8cb2773079c2b650c29805e82842656f23048aad0c0ece339d32129d78f34437"
+  },
+  "playerSpecies": [
+    "Enamorus-Therian",
+    "Toucannon",
+    "Sneasler",
+    "Hydrapple",
+    "Typhlosion",
+    "Solgaleo"
+  ],
+  "player": "Enamorus|EnamorusTherian|WeaknessPolicy|Overcoat|superpower,moonblast,agility,earthpower||85,85,85,85,85,85|F|||83|,,,,,Ground]Toucannon||HeavyDutyBoots|SkillLink|beakblast,roost,bulletseed,boomburst||85,85,85,85,85,85|F|||88|,,,,,Steel]Sneasler||WhiteHerb|Unburden|closecombat,swordsdance,direclaw,acrobatics||85,85,85,85,85,85|M|||74|,,,,,Flying]Hydrapple||ChoiceSpecs|Regenerator|earthpower,ficklebeam,leafstorm,dracometeor||85,,85,85,85,85|M|,0,,,,||83|,,,,,Dragon]Typhlosion||ChoiceSpecs|Blaze|scorchingsands,eruption,focusblast,fireblast||81,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Solgaleo||Leftovers|FullMetalBody|morningsun,earthquake,sunsteelstrike,roar||85,85,85,85,85,85|N|||74|,,,,,Water",
+  "ai": "Flygon||ChoiceScarf|Levitate|outrage,uturn,stoneedge,earthquake||85,85,85,85,85,85|F|||82|,,,,,Rock]Chien-Pao||HeavyDutyBoots|SwordofRuin|iceshard,swordsdance,iciclecrash,throatchop||85,85,85,85,85,85|N|||72|,,,,,Dark]Glastrier||HeavyDutyBoots|ChillingNeigh|highhorsepower,iciclecrash,swordsdance,heavyslam||85,85,85,85,85,85|N|||86|,,,,,Ground]Regigigas||Leftovers|SlowStart|rest,knockoff,sleeptalk,bodyslam||85,85,85,85,85,85|N|||84|,,,,,Ghost]Florges|FlorgesOrange|Leftovers|FlowerVeil|calmmind,protect,moonblast,wish||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Klefki||Leftovers|Prankster|spikes,dazzlinggleam,foulplay,thunderwave||85,,85,85,85,85|M|,0,,,,||84|,,,,,Flying"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-05",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,e18c238df6bcbb3bf9d4bfdeee10d30a37c1420ac47c8936f97f9a497be2ae57",
+    "ai": "sodium,abbdc1bcc146ebfa935f63c65cb4c6b25fca36a08a85d14490b3afa0b2fcdf76"
+  },
+  "playerSpecies": [
+    "Slither Wing",
+    "Bellossom",
+    "Crabominable",
+    "Eternatus",
+    "Dewgong",
+    "Pincurchin"
+  ],
+  "player": "Slither Wing||LifeOrb|Protosynthesis|wildcharge,firstimpression,flareblitz,closecombat||85,85,85,85,85,85|N|||81|,,,,,Fire]Bellossom||Leftovers|Chlorophyll|strengthsap,gigadrain,sludgebomb,quiverdance||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Crabominable||ChoiceBand|IronFist|icehammer,earthquake,closecombat,gunkshot||85,85,85,85,85,85|M|||90|,,,,,Ground]Eternatus||RockyHelmet|Pressure|dynamaxcannon,recover,fireblast,sludgebomb||85,,85,85,85,85|N|,0,,,,||69|,,,,,Fire]Dewgong||HeavyDutyBoots|ThickFat|surf,encore,tripleaxel,knockoff||85,85,85,85,85,85|M|||94|,,,,,Ground]Pincurchin||Leftovers|ElectricSurge|liquidation,recover,zingzap,curse||85,85,85,85,85,85|M||||,,,,,Water",
+  "ai": "Rotom|RotomHeat|HeavyDutyBoots|Levitate|painsplit,overheat,discharge,willowisp||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Raging Bolt||Leftovers|Protosynthesis|thunderclap,thunderbolt,dracometeor,calmmind||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Kingdra||LumBerry|Sniper|ironhead,outrage,wavecrash,dragondance||85,85,85,85,85,85|M|||84|,,,,,Steel]Infernape||ChoiceScarf|Blaze|closecombat,flareblitz,uturn,knockoff||85,85,85,85,85,85|M|||82|,,,,,Fire]Tropius||SitrusBerry|Harvest|airslash,protect,leechseed,substitute||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Spiritomb||Leftovers|Infiltrator|foulplay,suckerpunch,poltergeist,toxic||85,85,85,85,85,85|M|||89|,,,,,Ghost"
+}

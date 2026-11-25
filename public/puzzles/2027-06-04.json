@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-04",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,7b6f38d4d0610772603ad8dab0deee1a7d450a80a819bfcdf64c58213ffffcf4",
+    "ai": "sodium,02d18c5347471794f71de661bf8e1f56d67571ea6a3d838afab2985f8e76527d"
+  },
+  "playerSpecies": [
+    "Chi-Yu",
+    "Lapras",
+    "Iron Moth",
+    "Reuniclus",
+    "Bisharp",
+    "Blastoise"
+  ],
+  "player": "Chi-Yu||ChoiceScarf|BeadsofRuin|psychic,flamethrower,overheat,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Lapras||ChoiceSpecs|WaterAbsorb|sparklingaria,freezedry,hydropump,icebeam||81,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Iron Moth||HeavyDutyBoots|QuarkDrive|fierydance,morningsun,sludgewave,energyball||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Reuniclus||LifeOrb|MagicGuard|recover,calmmind,focusblast,psychic||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting]Bisharp||Eviolite|Defiant|stealthrock,suckerpunch,ironhead,throatchop||85,85,85,85,85,85|F|||79|,,,,,Ghost]Blastoise||WhiteHerb|Torrent|earthquake,hydropump,icebeam,shellsmash||85,85,85,85,85,85|M|||80|,,,,,Water",
+  "ai": "Rotom|RotomHeat|HeavyDutyBoots|Levitate|thunderbolt,willowisp,overheat,voltswitch||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fire]Arbok||Leftovers|Intimidate|suckerpunch,gunkshot,earthquake,coil||85,85,85,85,85,85|M|||87|,,,,,Dark]Zoroark|ZoroarkHisui|ChoiceSpecs|Illusion|hypervoice,trick,bittermalice,focusblast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fighting]Dipplin||Eviolite|StickyHold|suckerpunch,gigadrain,dragonpulse,recover||85,85,85,85,85,85|M|||88|,,,,,Steel]Flutter Mane||ChoiceSpecs|Protosynthesis|shadowball,thunderbolt,moonblast,psyshock||85,,85,85,85,85|N|,0,,,,||74|,,,,,Fairy]Dachsbun||Leftovers|WellBakedBody|wish,playrough,protect,yawn||85,85,85,85,85,85|M|||92|,,,,,Steel"
+}

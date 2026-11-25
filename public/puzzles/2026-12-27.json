@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-27",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,e7e16a206214a02faf2181376887c1331e1ac1328a565927c1dddb9470d4c980",
+    "ai": "sodium,7a6e0f54422f75c2d17694e436ce6b5094eedca5b667654c332aaf61283ddf69"
+  },
+  "playerSpecies": [
+    "Gyarados",
+    "Skeledirge",
+    "Zarude-Dada",
+    "Dialga",
+    "Hydreigon",
+    "Blastoise"
+  ],
+  "player": "Gyarados||HeavyDutyBoots|Intimidate|earthquake,dragondance,waterfall,stoneedge||85,85,85,85,85,85|M|||79|,,,,,Ground]Skeledirge||HeavyDutyBoots|Unaware|slackoff,willowisp,torchsong,hex||85,,85,85,85,85|M|,0,,,,||79|,,,,,Fairy]Zarude|ZarudeDada|ChoiceBand|LeafGuard|knockoff,uturn,powerwhip,closecombat||85,85,85,85,85,85|N|||77|,,,,,Grass]Dialga||AssaultVest|Pressure|dracometeor,heavyslam,fireblast,dragontail||85,85,85,85,85,85|N|||73|,,,,,Flying]Hydreigon||ChoiceSpecs|Levitate|dracometeor,uturn,fireblast,darkpulse||85,85,85,85,85,85|M|||79|,,,,,Dragon]Blastoise||WhiteHerb|Torrent|shellsmash,icebeam,earthquake,hydropump||85,85,85,85,85,85|F|||80|,,,,,Ground",
+  "ai": "Regieleki||Magnet|Transistor|thunderbolt,explosion,voltswitch,rapidspin||85,85,85,85,85,85|N|||79|,,,,,Electric]Moltres|MoltresGalar|ChestoBerry|Berserk|nastyplot,rest,fierywrath,hurricane||81,,85,85,85,85|N|,0,,,,||79|,,,,,Steel]Dedenne||SitrusBerry|CheekPouch|dazzlinggleam,nuzzle,thunderbolt,uturn||85,85,85,85,85,85|M|||88|,,,,,Flying]Abomasnow||LightClay|SnowWarning|auroraveil,blizzard,iceshard,earthquake||77,85,85,85,85,85|M|||84|,,,,,Ghost]Entei||ChoiceBand|InnerFocus|sacredfire,stompingtantrum,flareblitz,extremespeed||85,85,85,85,85,85|N|||78|,,,,,Normal]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost"
+}

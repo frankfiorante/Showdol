@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-12",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,84474357a7103dc76aab8cc6e2c4e83410fe40d26ca6b838f52e99168d085ebf",
+    "ai": "sodium,e274d0e5c28e2b72676b67142e7e08a6ca5b7db4d68c1354b8196c0dabe8579f"
+  },
+  "playerSpecies": [
+    "Mimikyu",
+    "Phione",
+    "Zangoose",
+    "Emboar",
+    "Palafin",
+    "Frosmoth"
+  ],
+  "player": "Mimikyu||LifeOrb|Disguise|playrough,swordsdance,drainpunch,shadowsneak||85,85,85,85,85,85|F|||79|,,,,,Fairy]Phione||Leftovers|Hydration|scald,takeheart,rest,sleeptalk||85,,85,85,85,85|N|,0,,,,||91|,,,,,Steel]Zangoose||ToxicOrb|ToxicBoost|facade,closecombat,quickattack,knockoff||85,85,85,85,85,85|F|||85|,,,,,Normal]Emboar||ChoiceBand|Reckless|wildcharge,flareblitz,headsmash,closecombat||85,85,85,85,85,85|M|||84|,,,,,Fire]Palafin||ChoiceBand|ZerotoHero|closecombat,wavecrash,jetpunch,flipturn||85,85,85,85,85,85|M|||77|,,,,,Water]Frosmoth||HeavyDutyBoots|IceScales|gigadrain,bugbuzz,icebeam,quiverdance||85,,85,85,85,85|F|,0,,,,||82|,,,,,Water",
+  "ai": "Milotic||Leftovers|Competitive|recover,scald,dragontail,icebeam||85,85,85,85,85,85|M|||83|,,,,,Dragon]Urshifu|UrshifuRapidStrike|LifeOrb|UnseenFist|icespinner,swordsdance,surgingstrikes,closecombat||85,85,85,85,85,85|M|||75|,,,,,Water]Cobalion||Leftovers|Justified|stealthrock,thunderwave,ironhead,bodypress||85,85,85,85,85,85|N|||80|,,,,,Ghost]Jolteon||Leftovers|VoltAbsorb|thunderbolt,substitute,calmmind,terablast||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice]Mightyena||ChoiceBand|Intimidate|throatchop,suckerpunch,poisonfang,playrough||85,85,85,85,85,85|M|||96|,,,,,Fairy]Bombirdier||HeavyDutyBoots|BigPecks|suckerpunch,roost,bravebird,knockoff||85,85,85,85,85,85|M|||85|,,,,,Steel"
+}

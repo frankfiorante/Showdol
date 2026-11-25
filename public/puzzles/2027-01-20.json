@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-20",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,522d4f20295b09edb5aededbba50d4e78543763e8895f5316bb7f7eacbe79567",
+    "ai": "sodium,d707f83ebc12eb39f373bf1b491401cfbd74ca9ab06765c8ad557a00d371acc4"
+  },
+  "playerSpecies": [
+    "Koraidon",
+    "Milotic",
+    "Excadrill",
+    "Lucario",
+    "Toucannon",
+    "Oricorio"
+  ],
+  "player": "Koraidon||LoadedDice|OrichalcumPulse|collisioncourse,flareblitz,scaleshot,swordsdance||85,85,85,85,85,85|N|||64|,,,,,Fire]Milotic||Leftovers|Competitive|scald,haze,recover,icebeam||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Excadrill||Leftovers|MoldBreaker|rapidspin,earthquake,ironhead,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Grass]Lucario||LifeOrb|InnerFocus|nastyplot,vacuumwave,focusblast,flashcannon||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fighting]Toucannon||HeavyDutyBoots|KeenEye|boomburst,knockoff,roost,beakblast||85,85,85,85,85,85|M|||88|,,,,,Steel]Oricorio||HeavyDutyBoots|Dancer|hurricane,roost,revelationdance,quiverdance||85,,85,85,85,85|F|,0,,,,||84|,,,,,Ground",
+  "ai": "Ludicolo||ChoiceSpecs|SwiftSwim|leafstorm,gigadrain,hydropump,icebeam||85,,85,85,85,85|F|,0,,,,||90|,,,,,Water]Sudowoodo||ChoiceBand|RockHead|woodhammer,earthquake,headsmash,suckerpunch||85,85,85,85,85,85|M|||94|,,,,,Rock]Gothitelle||ChoiceScarf|ShadowTag|psychic,trick,darkpulse,focusblast||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fighting]Braviary|BraviaryHisui|HeavyDutyBoots|TintedLens|defog,hurricane,esperwing,roost||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fairy]Whiscash||LifeOrb|Oblivious|liquidation,stoneedge,earthquake,dragondance||85,85,85,85,85,85|F|||88|,,,,,Ground]Magnezone||AssaultVest|MagnetPull|thunderbolt,flashcannon,bodypress,voltswitch||85,,85,85,85,85|N|,0,,,,||84|,,,,,Flying"
+}

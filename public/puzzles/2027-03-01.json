@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-01",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,f51cfe12c5cbb6eeecac70dadb9b720797e959d9427cadc22838025d0e139980",
+    "ai": "sodium,33a34aee49a0d732224725238422538feb1028ba850a6e4a5f7d52d2ad6214f5"
+  },
+  "playerSpecies": [
+    "Gholdengo",
+    "Wo-Chien",
+    "Hydreigon",
+    "Dedenne",
+    "Sandaconda",
+    "Mesprit"
+  ],
+  "player": "Gholdengo||Leftovers|GoodasGold|shadowball,makeitrain,focusblast,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fighting]Wo-Chien||Leftovers|TabletsofRuin|knockoff,ruination,protect,leechseed||85,85,85,85,85,85|N|||83|,,,,,Poison]Hydreigon||ChoiceSpecs|Levitate|flashcannon,fireblast,darkpulse,dracometeor||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Dedenne||SitrusBerry|CheekPouch|thunderbolt,dazzlinggleam,nuzzle,uturn||85,85,85,85,85,85|F|||88|,,,,,Flying]Sandaconda||Leftovers|ShedSkin|earthquake,coil,rest,stoneedge||85,85,85,85,85,85|M|||84|,,,,,Dragon]Mesprit||ChoiceScarf|Levitate|dazzlinggleam,psychic,thunderbolt,icebeam||85,,85,85,85,85|N|,0,,,,||85|,,,,,Fairy",
+  "ai": "Sandy Shocks||HeavyDutyBoots|Protosynthesis|earthpower,voltswitch,stealthrock,thunderbolt||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|ironhead,closecombat,throatchop,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Dark]Serperior||LifeOrb|Contrary|glare,leafstorm,synthesis,dragonpulse||85,,85,85,85,85|M|,0,,,,||79|,,,,,Dragon]Bombirdier||HeavyDutyBoots|BigPecks|roost,bravebird,suckerpunch,knockoff||85,85,85,85,85,85|M|||85|,,,,,Steel]Iron Hands||AssaultVest|QuarkDrive|heavyslam,voltswitch,closecombat,wildcharge||85,85,85,85,85,85|N|||79|,,,,,Electric]Abomasnow||LightClay|SnowWarning|earthquake,blizzard,auroraveil,iceshard||77,85,85,85,85,85|M|||84|,,,,,Water"
+}

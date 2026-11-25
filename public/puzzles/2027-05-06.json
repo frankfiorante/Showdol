@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-06",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,1a3dbe3b7d4d311f80a59f9b50272742cf0c6b44bbd3a68adb8e8cf96e776d13",
+    "ai": "sodium,53d0cef2e85428d636e63388eb5d191e50c5e30ba4cb38eaf42277983f36863c"
+  },
+  "playerSpecies": [
+    "Houndoom",
+    "Sylveon",
+    "Armarouge",
+    "Sinistcha-Masterpiece",
+    "Flygon",
+    "Keldeo-Resolute"
+  ],
+  "player": "Houndoom||HeavyDutyBoots|FlashFire|darkpulse,suckerpunch,fireblast,nastyplot||85,85,85,85,85,85|M|||87|,,,,,Dark]Sylveon||Leftovers|Pixilate|wish,protect,hypervoice,calmmind||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Armarouge||ChoiceSpecs|WeakArmor|psyshock,aurasphere,energyball,armorcannon||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Sinistcha|SinistchaMasterpiece|Leftovers|Heatproof|strengthsap,matchagotcha,calmmind,shadowball||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Flygon||LumBerry|Levitate|outrage,earthquake,dragondance,stoneedge||85,85,85,85,85,85|F|||82|,,,,,Rock]Keldeo|KeldeoResolute|Leftovers|Justified|surf,substitute,calmmind,secretsword||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel",
+  "ai": "Heatran||AirBalloon|FlashFire|lavaplume,earthpower,stealthrock,heavyslam||85,85,85,85,85,85|M|||79|,,,,,Flying]Cetitan||SitrusBerry|ThickFat|bellydrum,iceshard,earthquake,icespinner||81,85,85,85,85,85|F|||82|,,,,,Ice]Talonflame||HeavyDutyBoots|GaleWings|terablast,swordsdance,flareblitz,bravebird||85,85,85,85,85,85|M|||83|,,,,,Ground]Toucannon||HeavyDutyBoots|SkillLink|boomburst,roost,bulletseed,beakblast||85,85,85,85,85,85|M|||88|,,,,,Steel]Goodra||AssaultVest|SapSipper|powerwhip,dracometeor,sludgebomb,fireblast||85,85,85,85,85,85|M|||85|,,,,,Poison]Munkidori||AssaultVest|ToxicChain|uturn,sludgewave,fakeout,psychicnoise||85,85,85,85,85,85|M|||79|,,,,,Dark"
+}

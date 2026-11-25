@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-16",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,c3c4dc6c970bda710d1e5a93d769d0811c5aa235435315ed4f463ebe1f31058a",
+    "ai": "sodium,eba40c89d5a065ba2e063212902c4ef013de5420dc57931a08a0a7b81a0bb830"
+  },
+  "playerSpecies": [
+    "Deoxys",
+    "Haxorus",
+    "Amoonguss",
+    "Toedscruel",
+    "Diancie",
+    "Regirock"
+  ],
+  "player": "Deoxys||LifeOrb|Pressure|psychoboost,superpower,icebeam,knockoff||85,85,85,85,85,85|N|||74|,,,,,Fighting]Haxorus||LumBerry|MoldBreaker|outrage,closecombat,dragondance,ironhead||85,85,85,85,85,85|M|||78|,,,,,Steel]Amoonguss||RockyHelmet|Regenerator|stompingtantrum,sludgebomb,spore,gigadrain||85,85,85,85,85,85|F|||82|,,,,,Water]Toedscruel||Leftovers|MyceliumMight|leafstorm,spore,earthpower,rapidspin||85,85,85,85,85,85|M|||87|,,,,,Water]Diancie||Leftovers|ClearBody|drainingkiss,diamondstorm,calmmind,earthpower||85,85,85,85,85,85|N|||82|,,,,,Water]Regirock||ChestoBerry|ClearBody|curse,bodypress,stoneedge,rest||85,85,85,85,85,85|N|||83|,,,,,Fighting",
+  "ai": "Electrode|ElectrodeHisui|LifeOrb|Soundproof|gigadrain,taunt,voltswitch,thunderbolt||85,,85,85,85,85|N|,0,,,,||87|,,,,,Grass]Volcanion||AssaultVest|WaterAbsorb|sludgebomb,flamecharge,steameruption,flamethrower||81,85,85,85,85,85|N|||79|,,,,,Fire]Dipplin||Eviolite|StickyHold|recover,dragonpulse,gigadrain,dragontail||85,85,85,85,85,85|M|||88|,,,,,Steel]Zacian||LifeOrb|IntrepidSword|playrough,swordsdance,closecombat,wildcharge||85,85,85,85,85,85|N|||69|,,,,,Fighting]Darkrai||LifeOrb|BadDreams|hypnosis,darkpulse,nastyplot,sludgebomb||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison]Dugtrio||LifeOrb|ArenaTrap|earthquake,swordsdance,stoneedge,suckerpunch||85,85,85,85,85,85|M|||84|,,,,,Dark"
+}

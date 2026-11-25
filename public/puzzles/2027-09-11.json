@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-11",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,132d66c2e8ae59e17bf1a3238dfd0e0fa2bf0115a2ee1f5b0734919c1b895f34",
+    "ai": "sodium,5467cfd87b4d65eb2dab1398fefb3db5bd22bf3e4a1448ce35fc6dbe1a2a8ab3"
+  },
+  "playerSpecies": [
+    "Iron Crown",
+    "Oricorio-Pom-Pom",
+    "Ludicolo",
+    "Yanmega",
+    "Reshiram",
+    "Urshifu-Rapid-Strike"
+  ],
+  "player": "Iron Crown||ChoiceSpecs|QuarkDrive|psyshock,tachyoncutter,voltswitch,focusblast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Oricorio|OricorioPomPom|HeavyDutyBoots|Dancer|revelationdance,quiverdance,roost,hurricane||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Ludicolo||ChoiceSpecs|SwiftSwim|leafstorm,gigadrain,icebeam,hydropump||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water]Yanmega||ChoiceSpecs|TintedLens|bugbuzz,uturn,gigadrain,airslash||85,85,85,85,85,85|F|||82|,,,,,Bug]Reshiram||HeavyDutyBoots|Turboblaze|dracometeor,willowisp,earthpower,blueflare||85,,85,85,85,85|N|,0,,,,||76|,,,,,Fire]Urshifu|UrshifuRapidStrike|ChoiceScarf|UnseenFist|surgingstrikes,icespinner,uturn,closecombat||85,85,85,85,85,85|F|||75|,,,,,Water",
+  "ai": "Dondozo||Leftovers|Unaware|sleeptalk,rest,wavecrash,curse||85,85,85,85,85,85|M|||78|,,,,,Dragon]Copperajah||ChoiceBand|HeavyMetal|heavyslam,knockoff,supercellslam,heatcrash||81,85,85,85,85,85|F|||86|,,,,,Fire]Frosmoth||HeavyDutyBoots|IceScales|quiverdance,bugbuzz,terablast,icebeam||85,,85,85,85,85|M|,0,,,,||82|,,,,,Ground]Toxtricity||ChoiceScarf|PunkRock|sludgewave,overdrive,boomburst,voltswitch||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Umbreon||Leftovers|Synchronize|foulplay,protect,toxic,wish||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Thundurus|ThundurusTherian|HeavyDutyBoots|VoltAbsorb|nastyplot,sludgewave,focusblast,thunderbolt||85,,85,85,85,85|M|,0,,,,||80|,,,,,Poison"
+}

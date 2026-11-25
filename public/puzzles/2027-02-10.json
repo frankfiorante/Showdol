@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-10",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5e847971d9dc193290a25ee4305f8d1febc43997fe01cbeff3057119e6197908",
+    "ai": "sodium,4e4798e3bcaf2bdeffacf7b59d6140f446bfe2d160a1970f04a8411e24ed65b0"
+  },
+  "playerSpecies": [
+    "Cryogonal",
+    "Scrafty",
+    "Mewtwo",
+    "Bellossom",
+    "Swanna",
+    "Klefki"
+  ],
+  "player": "Cryogonal||HeavyDutyBoots|Levitate|recover,terablast,rapidspin,icebeam||85,85,85,85,85,85|N|||89|,,,,,Electric]Scrafty||Leftovers|Intimidate|dragondance,drainpunch,poisonjab,knockoff||85,85,85,85,85,85|M|||83|,,,,,Poison]Mewtwo||LifeOrb|Unnerve|aurasphere,psystrike,darkpulse,nastyplot||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fighting]Bellossom||Leftovers|Chlorophyll|strengthsap,quiverdance,gigadrain,moonblast||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fairy]Swanna||HeavyDutyBoots|Hydration|bravebird,knockoff,hydropump,roost||85,85,85,85,85,85|M|||89|,,,,,Ground]Klefki||Leftovers|Prankster|playrough,magnetrise,thunderwave,spikes||85,85,85,85,85,85|F|||84|,,,,,Water",
+  "ai": "Volbeat||HeavyDutyBoots|Prankster|encore,thunderwave,roost,lunge||85,85,85,85,85,85|M|||90|,,,,,Steel]Tauros|TaurosPaldeaAqua|SitrusBerry|CudChew|closecombat,bulkup,liquidation,substitute||73,85,85,85,85,85|M|||81|,,,,,Water]Garchomp||LoadedDice|RoughSkin|ironhead,swordsdance,earthquake,scaleshot||85,85,85,85,85,85|F|||74|,,,,,Ground]Gardevoir||ChoiceScarf|Trace|mysticalfire,healingwish,moonblast,psyshock||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fairy]Latios||SoulDew|Levitate|dracometeor,lusterpurge,recover,aurasphere||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Jolteon||Leftovers|VoltAbsorb|substitute,terablast,thunderbolt,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice"
+}

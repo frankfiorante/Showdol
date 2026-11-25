@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-16",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,7c984232f16c888ef4470c3b1e3ea1b5cf224886e52eab34eeb716c32285ca32",
+    "ai": "sodium,b3a8854026989b496773c055865a75b343b601350146ea644a5f38b636a37105"
+  },
+  "playerSpecies": [
+    "Luvdisc",
+    "Magnezone",
+    "Iron Treads",
+    "Slaking",
+    "Quagsire",
+    "Leafeon"
+  ],
+  "player": "Luvdisc||HeavyDutyBoots|SwiftSwim|whirlpool,substitute,surf,endeavor||81,,85,85,85,85|F|,0,,,,|||,,,,,Ground]Magnezone||AssaultVest|MagnetPull|voltswitch,flashcannon,bodypress,thunderbolt||85,,85,85,85,85|N|,0,,,,||84|,,,,,Flying]Iron Treads||AssaultVest|QuarkDrive|rapidspin,earthquake,ironhead,voltswitch||85,85,85,85,85,85|N|||77|,,,,,Dragon]Slaking||ChoiceScarf|Truant|earthquake,gigaimpact,knockoff,doubleedge||85,85,85,85,85,85|M|||84|,,,,,Normal]Quagsire||Leftovers|Unaware|toxic,spikes,earthquake,recover||85,85,85,85,85,85|F|||84|,,,,,Fairy]Leafeon||LifeOrb|Chlorophyll|doubleedge,swordsdance,leafblade,synthesis||85,85,85,85,85,85|M|||88|,,,,,Normal",
+  "ai": "Gengar||LifeOrb|CursedBody|toxicspikes,shadowball,sludgewave,focusblast||85,,85,85,85,85|M|,0,,,,||81|,,,,,Ghost]Flamigo||ChoiceBand|Scrappy|closecombat,bravebird,throatchop,uturn||85,85,85,85,85,85|F|||82|,,,,,Fighting]Torkoal||HeavyDutyBoots|Drought|stealthrock,rapidspin,lavaplume,solarbeam||85,85,85,85,85,85|M|||88|,,,,,Dragon]Scizor||LifeOrb|Technician|swordsdance,bulletpunch,bugbite,knockoff||85,85,85,85,85,85|F|||79|,,,,,Steel]Exeggutor|ExeggutorAlola|SitrusBerry|Harvest|dragonpulse,gigadrain,flamethrower,calmmind||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fire]Iron Thorns||BoosterEnergy|QuarkDrive|earthquake,stoneedge,dragondance,wildcharge||85,85,85,85,85,85|N|||81|,,,,,Flying"
+}

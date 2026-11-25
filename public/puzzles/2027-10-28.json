@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-28",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,f72e5ea5656f2e5336479e32036314f20dd9504a9610c6d77292d6bcd3584fdc",
+    "ai": "sodium,d962bc2a41285a4885c5bd2dcfbc90a1571a0aad6d7135f85158f87c182b5f84"
+  },
+  "playerSpecies": [
+    "Tornadus",
+    "Exeggutor-Alola",
+    "Glalie",
+    "Gumshoos",
+    "Garganacl",
+    "Salazzle"
+  ],
+  "player": "Tornadus||HeavyDutyBoots|Prankster|nastyplot,focusblast,bleakwindstorm,heatwave||85,,85,85,85,85|M|,0,,,,||82|,,,,,Flying]Exeggutor|ExeggutorAlola|SitrusBerry|Harvest|flamethrower,calmmind,dragonpulse,gigadrain||85,,85,85,85,85|F|,0,,,,||89|,,,,,Steel]Glalie||HeavyDutyBoots|InnerFocus|earthquake,freezedry,spikes,taunt||85,85,85,85,85,85|M|||96|,,,,,Ground]Gumshoos||ChoiceBand|Stakeout|earthquake,uturn,doubleedge,knockoff||85,85,85,85,85,85|F|||95|,,,,,Normal]Garganacl||Leftovers|PurifyingSalt|bodypress,saltcure,irondefense,recover||85,85,85,85,85,85|M|||80|,,,,,Dragon]Salazzle||Leftovers|Corrosion|substitute,protect,flamethrower,toxic||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying",
+  "ai": "Porygon-Z||LifeOrb|Adaptability|shadowball,terablast,nastyplot,agility||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fighting]Dusknoir||Leftovers|Frisk|poltergeist,substitute,painsplit,focuspunch||85,85,85,85,85,85|F|||89|,,,,,Fighting]Tinkaton||Leftovers|MoldBreaker|playrough,swordsdance,protect,gigatonhammer||85,85,85,85,85,85|F|||82|,,,,,Steel]Arboliva||SitrusBerry|Harvest|protect,hypervoice,leechseed,substitute||77,,85,85,85,85|M|,0,,,,||91|,,,,,Poison]Tropius||SitrusBerry|Harvest|protect,leechseed,substitute,airslash||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Dewgong||HeavyDutyBoots|ThickFat|encore,surf,flipturn,tripleaxel||85,85,85,85,85,85|F|||94|,,,,,Poison"
+}

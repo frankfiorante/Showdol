@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-21",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,705cb69549b90ac08f3970358ca2796e5e90a0be29d4121375186a408fee2437",
+    "ai": "sodium,61cfd120b6fd60a8df46fc95ccdbd56f441c8ad0a1d585fdfcf0bc81f42ac979"
+  },
+  "playerSpecies": [
+    "Dewgong",
+    "Staraptor",
+    "Whimsicott",
+    "Gardevoir",
+    "Salazzle",
+    "Dialga"
+  ],
+  "player": "Dewgong||HeavyDutyBoots|ThickFat|encore,tripleaxel,knockoff,surf||85,85,85,85,85,85|F|||94|,,,,,Steel]Staraptor||ChoiceBand|Reckless|closecombat,quickattack,bravebird,uturn||81,85,85,85,85,85|M|||79|,,,,,Flying]Whimsicott||HeavyDutyBoots|Prankster|gigadrain,moonblast,stunspore,uturn||85,85,85,85,85,85|M|||84|,,,,,Steel]Gardevoir||ChoiceScarf|Trace|psychic,moonblast,focusblast,trick||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy]Salazzle||HeavyDutyBoots|Corrosion|fireblast,nastyplot,sludgewave,terablast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Dialga||Leftovers|Pressure|heavyslam,fireblast,thunderwave,dracometeor||85,85,85,85,85,85|N|||73|,,,,,Steel",
+  "ai": "Noivern||HeavyDutyBoots|Infiltrator|dracometeor,defog,hurricane,flamethrower||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fire]Gardevoir||ChoiceScarf|Trace|moonblast,psyshock,mysticalfire,trick||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fire]Carbink||Leftovers|Sturdy|bodypress,moonblast,irondefense,rockpolish||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Grafaiai||AssaultVest|PoisonTouch|superfang,knockoff,gunkshot,uturn||85,85,85,85,85,85|M|||86|,,,,,Dark]Leafeon||LifeOrb|Chlorophyll|doubleedge,leafblade,knockoff,swordsdance||85,85,85,85,85,85|M|||88|,,,,,Normal]Arbok||Leftovers|Intimidate|trailblaze,earthquake,gunkshot,coil||85,85,85,85,85,85|M|||87|,,,,,Ground"
+}

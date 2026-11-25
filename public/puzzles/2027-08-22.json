@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-22",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,94e0c545be3eebaf5968949ff222115e3ff8a6107c197d56fcb5e63ba3f7f909",
+    "ai": "sodium,3b95fa9de3f371df217afd9d599e85e949e1a37679e6cb30d5105558793a0791"
+  },
+  "playerSpecies": [
+    "Calyrex-Ice",
+    "Grimmsnarl",
+    "Serperior",
+    "Umbreon",
+    "Articuno-Galar",
+    "Pecharunt"
+  ],
+  "player": "Calyrex|CalyrexIce|WeaknessPolicy|AsOneGlastrier|glaciallance,closecombat,highhorsepower,agility||85,85,85,85,85,85|N|||72|,,,,,Fighting]Grimmsnarl||LightClay|Prankster|partingshot,spiritbreak,reflect,lightscreen||85,85,85,85,85,85|M|||83|,,,,,Steel]Serperior||LifeOrb|Contrary|synthesis,leafstorm,glare,dragonpulse||85,,85,85,85,85|M|,0,,,,||79|,,,,,Dragon]Umbreon||Leftovers|Synchronize|protect,foulplay,wish,toxic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|hurricane,calmmind,psyshock,recover||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,shadowball,recover,partingshot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark",
+  "ai": "Sandslash||Leftovers|SandRush|earthquake,spikes,knockoff,rapidspin||85,85,85,85,85,85|F|||89|,,,,,Dragon]Phione||Leftovers|Hydration|grassknot,scald,icebeam,takeheart||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Milotic||Leftovers|Competitive|scald,icebeam,dragontail,recover||85,85,85,85,85,85|M|||83|,,,,,Dragon]Zacian||LifeOrb|IntrepidSword|playrough,swordsdance,closecombat,crunch||85,85,85,85,85,85|N|||69|,,,,,Fighting]Mismagius||ChoiceSpecs|Levitate|mysticalfire,dazzlinggleam,shadowball,energyball||85,,85,85,85,85|M|,0,,,,||86|,,,,,Ghost]Spectrier||LifeOrb|GrimNeigh|shadowball,nastyplot,darkpulse,drainingkiss||85,,85,85,85,85|N|,0,,,,||75|,,,,,Dark"
+}

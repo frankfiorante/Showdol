@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-05",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,013e8c54e592943e7df6558cc21569a112cc3d72f4240e73817336a2c55de031",
+    "ai": "sodium,e2d7fb98193337ea16005afeaa9b8cacec2fd339681376fceecc055b54034f0b"
+  },
+  "playerSpecies": [
+    "Sinistcha",
+    "Regigigas",
+    "Flamigo",
+    "Roaring Moon",
+    "Politoed",
+    "Hypno"
+  ],
+  "player": "Sinistcha||Leftovers|Heatproof|matchagotcha,strengthsap,shadowball,calmmind||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Regigigas||Leftovers|SlowStart|rest,sleeptalk,knockoff,bodyslam||85,85,85,85,85,85|N|||84|,,,,,Ghost]Flamigo||ChoiceBand|Scrappy|closecombat,bravebird,throatchop,uturn||85,85,85,85,85,85|F|||82|,,,,,Fighting]Roaring Moon||LumBerry|Protosynthesis|dragondance,roost,outrage,knockoff||85,85,85,85,85,85|N|||72|,,,,,Dragon]Politoed||Leftovers|Drizzle|surf,haze,hypnosis,icebeam||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Hypno||Leftovers|Insomnia|psychicnoise,protect,toxic,focusblast||85,,85,85,85,85|M|,0,,,,||95|,,,,,Steel",
+  "ai": "Dewgong||HeavyDutyBoots|ThickFat|icebeam,encore,hydropump,knockoff||85,85,85,85,85,85|F|||94|,,,,,Dragon]Zangoose||ToxicOrb|ToxicBoost|facade,closecombat,knockoff,swordsdance||85,85,85,85,85,85|F|||85|,,,,,Normal]Diancie||Leftovers|ClearBody|calmmind,earthpower,diamondstorm,drainingkiss||85,85,85,85,85,85|N|||82|,,,,,Fairy]Sneasler||ChoiceBand|PoisonTouch|closecombat,throatchop,uturn,direclaw||85,85,85,85,85,85|F|||74|,,,,,Dark]Moltres|MoltresGalar|ChestoBerry|Berserk|nastyplot,hurricane,fierywrath,rest||81,,85,85,85,85|N|,0,,,,||79|,,,,,Dark]Ludicolo||ChoiceSpecs|SwiftSwim|hydropump,leafstorm,gigadrain,icebeam||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water"
+}

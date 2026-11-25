@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-13",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,8af0904c45d2f1fba3799c3b8a17078b8bfad1a9c337adf0f12d7515d530fc64",
+    "ai": "sodium,04b5fe10c03fbab189431856ebcbd810fc8329abf8c34945d3785facfcdc3efb"
+  },
+  "playerSpecies": [
+    "Klefki",
+    "Donphan",
+    "Delphox",
+    "Skeledirge",
+    "Scyther",
+    "Manaphy"
+  ],
+  "player": "Klefki||Leftovers|Prankster|thunderwave,magnetrise,playrough,spikes||85,85,85,85,85,85|M|||84|,,,,,Water]Donphan||AssaultVest|Sturdy|knockoff,rapidspin,earthquake,icespinner||85,85,85,85,85,85|M|||84|,,,,,Steel]Delphox||HeavyDutyBoots|Blaze|nastyplot,grassknot,fireblast,psyshock||85,,85,85,85,85|M|,0,,,,||84|,,,,,Grass]Skeledirge||HeavyDutyBoots|Unaware|flamecharge,shadowball,slackoff,torchsong||85,85,85,85,85,85|F|||79|,,,,,Water]Scyther||HeavyDutyBoots|Technician|closecombat,defog,uturn,dualwingbeat||85,85,85,85,85,85|F|||82|,,,,,Fighting]Manaphy||Leftovers|Hydration|hydropump,energyball,icebeam,tailglow||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water",
+  "ai": "Lumineon||HeavyDutyBoots|StormDrain|hydropump,icebeam,uturn,encore||85,85,85,85,85,85|F|||93|,,,,,Dragon]Crawdaunt||ChoiceBand|Adaptability|knockoff,closecombat,crabhammer,aquajet||85,85,85,85,85,85|M|||84|,,,,,Fighting]Archaludon||AssaultVest|Stamina|flashcannon,bodypress,thunderbolt,dracometeor||85,,85,85,85,85|M|,0,,,,||77|,,,,,Fighting]Honchkrow||HeavyDutyBoots|Moxie|bravebird,suckerpunch,uturn,heatwave||85,85,85,85,85,85|M|||86|,,,,,Dark]Torkoal||HeavyDutyBoots|Drought|solarbeam,rapidspin,stealthrock,lavaplume||85,85,85,85,85,85|F|||88|,,,,,Grass]Glimmora||AirBalloon|ToxicDebris|spikes,powergem,earthpower,sludgewave||85,,85,85,85,85|F|,0,,,,||75|,,,,,Ground"
+}

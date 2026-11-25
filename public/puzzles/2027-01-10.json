@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-10",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,aa189faa55177ba976f1a669252ba37d126a6667bf122b55920febf49f7a0454",
+    "ai": "sodium,c90e48da69fb595fab59a33473ffade0857f1c07b8bcd7ba1d76109b8a50bed0"
+  },
+  "playerSpecies": [
+    "Hippowdon",
+    "Jumpluff",
+    "Wigglytuff",
+    "Rampardos",
+    "Meowscarada",
+    "Slaking"
+  ],
+  "player": "Hippowdon||Leftovers|SandStream|stoneedge,slackoff,curse,earthquake||85,85,85,85,85,85|M|||82|,,,,,Steel]Jumpluff|||Infiltrator|strengthsap,substitute,leechseed,acrobatics||81,85,85,85,85,85|M|||87|,,,,,Steel]Wigglytuff||Leftovers|Competitive|dazzlinggleam,wish,protect,fireblast||85,,85,85,85,85|F|,0,,,,||96|,,,,,Poison]Rampardos||LifeOrb|SheerForce|rockslide,zenheadbutt,firepunch,earthquake||85,85,85,85,85,85|F|||90|,,,,,Psychic]Meowscarada||HeavyDutyBoots|Protean|toxicspikes,knockoff,uturn,flowertrick||85,85,85,85,85,85|M|||78|,,,,,Grass]Slaking||ChoiceBand|Truant|doubleedge,earthquake,knockoff,gigaimpact||85,85,85,85,85,85|M|||84|,,,,,Ghost",
+  "ai": "Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost]Hitmontop||AssaultVest|Intimidate|rapidspin,stoneedge,closecombat,suckerpunch||85,85,85,85,85,85|M|||88|,,,,,Steel]Gallade||LifeOrb|Sharpness|nightslash,sacredsword,psychocut,agility||85,85,85,85,85,85|M|||80|,,,,,Dark]Lapras||LoadedDice|WaterAbsorb|dragondance,iciclespear,waterfall,earthquake||81,85,85,85,85,85|F|||87|,,,,,Ground]Greedent||SitrusBerry|CheekPouch|knockoff,earthquake,bodyslam,swordsdance||85,85,85,85,85,85|M|||86|,,,,,Ghost]Alomomola||HeavyDutyBoots|Regenerator|wish,flipturn,scald,protect||85,85,85,85,85,85|M|||87|,,,,,Steel"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-24",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,c61395cb74ca9ac05761752896f2ad03f4a8189338f9ca32018fce4a0ab8f45a",
+    "ai": "sodium,ff297fb75b1b16f671aed31f8f00baf5a359e05cfa66546fa8dd6f76f80fa91e"
+  },
+  "playerSpecies": [
+    "Groudon",
+    "Vigoroth",
+    "Persian",
+    "Coalossal",
+    "Politoed",
+    "Ceruledge"
+  ],
+  "player": "Groudon||Leftovers|Drought|swordsdance,precipiceblades,stoneedge,heatcrash||85,85,85,85,85,85|N|||72|,,,,,Fire]Vigoroth||Eviolite|VitalSpirit|slackoff,bodyslam,bulkup,earthquake||85,85,85,85,85,85|F|||85|,,,,,Ground]Persian||SilkScarf|Technician|fakeout,uturn,knockoff,doubleedge||85,85,85,85,85,85|M|||92|,,,,,Normal]Coalossal||HeavyDutyBoots|FlameBody|stealthrock,stoneedge,rapidspin,flamethrower||85,85,85,85,85,85|M|||89|,,,,,Water]Politoed||ChestoBerry|Drizzle|haze,icebeam,rest,hydropump||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Ceruledge||HeavyDutyBoots|WeakArmor|poltergeist,closecombat,swordsdance,bitterblade||85,85,85,85,85,85|F|||78|,,,,,Fire",
+  "ai": "Polteageist||WhiteHerb|CursedBody|shadowball,storedpower,shellsmash,terablast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Orthworm||Leftovers|EarthEater|stealthrock,shedtail,bodypress,heavyslam||85,85,85,85,85,85|M|||88|,,,,,Electric]Tauros||LifeOrb|SheerForce|closecombat,throatchop,earthquake,bodyslam||85,85,85,85,85,85|M|||82|,,,,,Normal]Iron Treads||AssaultVest|QuarkDrive|ironhead,knockoff,rapidspin,earthquake||85,85,85,85,85,85|N|||77|,,,,,Water]Heracross||FlameOrb|Guts|closecombat,trailblaze,knockoff,facade||85,85,85,85,85,85|M|||80|,,,,,Normal]Latias||SoulDew|Levitate|psyshock,dracometeor,calmmind,recover||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel"
+}

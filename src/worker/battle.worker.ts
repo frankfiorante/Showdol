@@ -1,5 +1,5 @@
 /// <reference lib="webworker" />
-import {BattleSession, ChoiceError, type StepResult} from '@/engine/session';
+import {BattleSession, ChoiceError, ReplayError, type StepResult} from '@/engine/session';
 import type {FromWorker, ToWorker} from './protocol';
 
 let session: BattleSession | null = null;
@@ -25,7 +25,8 @@ self.onmessage = (e: MessageEvent<ToWorker>) => {
         break;
     }
   } catch (err) {
-    if (err instanceof ChoiceError) post({type: 'invalid', message: err.message});
+    if (err instanceof ChoiceError) post({type: 'invalid', message: err.message, view: session?.view() ?? null});
+    else if (err instanceof ReplayError) post({type: 'error', message: err.message, replayFailed: true});
     else post({type: 'error', message: String((err as Error)?.stack ?? err)});
   }
 };

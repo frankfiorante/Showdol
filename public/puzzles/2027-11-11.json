@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-11",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,73e485180270afa977cf63a57e06e6eea98cd4752a443678ebed16c1080ab4c3",
+    "ai": "sodium,98788a77cf14ff1ba73189af6a83f611cbe1be1cb8e93c4c1c1a2a24dd32ef04"
+  },
+  "playerSpecies": [
+    "Miraidon",
+    "Amoonguss",
+    "Smeargle",
+    "Camerupt",
+    "Ogerpon-Hearthflame",
+    "Okidogi"
+  ],
+  "player": "Miraidon||LifeOrb|HadronEngine|calmmind,dragonpulse,dracometeor,electrodrift||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Amoonguss||Leftovers|Regenerator|spore,sludgebomb,gigadrain,toxic||85,,85,85,85,85|F|,0,,,,||82|,,,,,Steel]Smeargle||WideLens|Technician|powertrip,populationbomb,shellsmash,spore||85,85,85,85,85,85|F|||95|,,,,,Ghost]Camerupt||Leftovers|SolidRock|willowisp,overheat,stealthrock,earthquake||85,85,85,85,85,85|F|||91|,,,,,Water]Ogerpon|OgerponHearthflame|HearthflameMask|MoldBreaker|swordsdance,hornleech,ivycudgel,trailblaze||77,85,85,85,85,85|F|||74|,,,,,Fire]Okidogi||AssaultVest|ToxicChain|knockoff,gunkshot,psychicfangs,drainpunch||85,85,85,85,85,85|M|||77|,,,,,Dark",
+  "ai": "Oinkologne||Leftovers|ThickFat|highhorsepower,lashout,curse,bodyslam||85,85,85,85,85,85|M|||92|,,,,,Ground]Carbink||Leftovers|ClearBody|rockpolish,irondefense,moonblast,bodypress||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Chansey||Eviolite|NaturalCure|softboiled,stealthrock,thunderwave,seismictoss||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ghost]Excadrill||AssaultVest|MoldBreaker|rapidspin,ironhead,rockslide,earthquake||85,85,85,85,85,85|F|||79|,,,,,Water]Tinkaton||Leftovers|MoldBreaker|knockoff,gigatonhammer,thunderwave,playrough||85,85,85,85,85,85|F|||82|,,,,,Water]Malamar||ChestoBerry|Contrary|knockoff,superpower,psychocut,rest||85,85,85,85,85,85|M|||82|,,,,,Steel"
+}

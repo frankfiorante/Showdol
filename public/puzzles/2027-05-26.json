@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-26",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,9a12faff79aa6b169245610ceddd13489f6fd1a6bc46ee262266230b398bea51",
+    "ai": "sodium,3f0bd5a38afe3eb8cdf7a1a79ff06f3e3af18c2196ceb7f74360532252d7bbc7"
+  },
+  "playerSpecies": [
+    "Ambipom",
+    "Hawlucha",
+    "Tentacruel",
+    "Sandslash-Alola",
+    "Salazzle",
+    "Vivillon-Sun"
+  ],
+  "player": "Ambipom||SilkScarf|Technician|fakeout,doubleedge,knockoff,lowkick||85,85,85,85,85,85|M|||84|,,,,,Normal]Hawlucha||WhiteHerb|Unburden|encore,closecombat,bravebird,swordsdance||85,85,85,85,85,85|F|||80|,,,,,Fighting]Tentacruel||AssaultVest|LiquidOoze|rapidspin,surf,sludgebomb,flipturn||85,85,85,85,85,85|F|||84|,,,,,Grass]Sandslash|SandslashAlola|Leftovers|SlushRush|spikes,ironhead,earthquake,tripleaxel||85,85,85,85,85,85|F|||88|,,,,,Water]Salazzle||Leftovers|Corrosion|flamethrower,toxic,substitute,protect||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Vivillon|VivillonSun|HeavyDutyBoots|CompoundEyes|terablast,sleeppowder,quiverdance,hurricane||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground",
+  "ai": "Terrakion||LifeOrb|Justified|closecombat,stoneedge,earthquake,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Ground]Basculegion|BasculegionF|AssaultVest|Adaptability|wavecrash,shadowball,hydropump,flipturn||85,85,85,85,85,85|F|||83|,,,,,Water]Emboar||ChoiceScarf|Reckless|headsmash,wildcharge,closecombat,flareblitz||85,85,85,85,85,85|M|||84|,,,,,Fire]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,partingshot,shadowball,recover||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Flygon||LumBerry|Levitate|stoneedge,earthquake,dragondance,outrage||85,85,85,85,85,85|M|||82|,,,,,Ground]Iron Bundle||HeavyDutyBoots|QuarkDrive|hydropump,freezedry,flipturn,encore||85,85,85,85,85,85|N|||78|,,,,,Water"
+}

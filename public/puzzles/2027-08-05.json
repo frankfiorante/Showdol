@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-05",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,4c4ff19654d9a0b7c19a8992d7e847a901ad928866acb933a4d7deb73aca8663",
+    "ai": "sodium,5c34dfa4e5afd15566b23be55d9db1b918da86fdbe786dc23025ce5df0684ed2"
+  },
+  "playerSpecies": [
+    "Iron Hands",
+    "Ampharos",
+    "Slaking",
+    "Mismagius",
+    "Rhyperior",
+    "Honchkrow"
+  ],
+  "player": "Iron Hands||AssaultVest|QuarkDrive|wildcharge,fakeout,voltswitch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Electric]Ampharos||AssaultVest|Static|voltswitch,dazzlinggleam,dragontail,discharge||85,85,85,85,85,85|M|||88|,,,,,Fairy]Slaking||ChoiceBand|Truant|knockoff,earthquake,gigaimpact,doubleedge||85,85,85,85,85,85|M|||84|,,,,,Ground]Mismagius||ChoiceSpecs|Levitate|dazzlinggleam,shadowball,mysticalfire,thunderbolt||85,,85,85,85,85|F|,0,,,,||86|,,,,,Electric]Rhyperior||WeaknessPolicy|SolidRock|stoneedge,megahorn,earthquake,rockpolish||85,85,85,85,85,85|M|||82|,,,,,Bug]Honchkrow||HeavyDutyBoots|Moxie|suckerpunch,heatwave,uturn,bravebird||85,85,85,85,85,85|F|||86|,,,,,Dark",
+  "ai": "Vivillon|VivillonJungle|HeavyDutyBoots|CompoundEyes|sleeppowder,hurricane,quiverdance,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Wugtrio||ChoiceBand|Gooey|aquajet,stompingtantrum,liquidation,throatchop||85,85,85,85,85,85|F|||91|,,,,,Water]Sunflora||LifeOrb|Chlorophyll|weatherball,sunnyday,solarbeam,earthpower||85,,85,85,85,85|M|,0,,,,|||,,,,,Fire]Lapras||ChoiceSpecs|WaterAbsorb|freezedry,hydropump,icebeam,sparklingaria||81,,85,85,85,85|F|,0,,,,||87|,,,,,Ice]Granbull||Leftovers|Intimidate|thunderwave,playrough,earthquake,roar||85,85,85,85,85,85|F|||88|,,,,,Ground]Regieleki||Magnet|Transistor|rapidspin,thunderbolt,voltswitch,explosion||85,85,85,85,85,85|N|||79|,,,,,Electric"
+}

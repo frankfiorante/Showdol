@@ -66,6 +66,8 @@ export interface BattleResult {
   myFainted: boolean[];
   aiRemaining: number;
   forfeited: boolean;
+  /** The AI's full team, revealed at the end. */
+  aiTeam: string[];
 }
 
 export interface SideView {

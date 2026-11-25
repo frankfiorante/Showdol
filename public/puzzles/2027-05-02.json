@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-02",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,67a5081b122f3ca03416e14ca402a9470472863bd69a754125490f673c5d2c6d",
+    "ai": "sodium,124aa7a7aaec76200524fc9cfeea3d0f40f7dd0fd2bb0de9bd0e314d4e0fdbfb"
+  },
+  "playerSpecies": [
+    "Necrozma-Dawn-Wings",
+    "Slowbro",
+    "Rillaboom",
+    "Spectrier",
+    "Tatsugiri",
+    "Excadrill"
+  ],
+  "player": "Necrozma|NecrozmaDawnWings|LifeOrb|PrismArmor|photongeyser,dragondance,moongeistbeam,brickbreak||85,85,85,85,85,85|N|||76|,,,,,Fighting]Slowbro||Leftovers|Regenerator|psychicnoise,calmmind,scald,slackoff||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fairy]Rillaboom||LifeOrb|GrassySurge|highhorsepower,grassyglide,swordsdance,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Spectrier||LifeOrb|GrimNeigh|nastyplot,shadowball,drainingkiss,darkpulse||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fairy]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,rapidspin,surf,nastyplot||85,85,85,85,85,85|M|||87|,,,,,Steel]Excadrill||Leftovers|MoldBreaker|ironhead,earthquake,swordsdance,rapidspin||85,85,85,85,85,85|M|||79|,,,,,Grass",
+  "ai": "Yanmega||ChoiceSpecs|TintedLens|bugbuzz,uturn,airslash,gigadrain||85,85,85,85,85,85|M|||82|,,,,,Bug]Ceruledge||HeavyDutyBoots|WeakArmor|closecombat,bitterblade,swordsdance,poltergeist||85,85,85,85,85,85|F|||78|,,,,,Ghost]Wugtrio||ChoiceBand|Gooey|stompingtantrum,throatchop,liquidation,aquajet||85,85,85,85,85,85|F|||91|,,,,,Ground]Porygon2||Eviolite|Download|discharge,triattack,recover,icebeam||85,,85,85,85,85|N|,0,,,,||81|,,,,,Ghost]Glaceon||HeavyDutyBoots|IceBody|freezedry,protect,wish,calmmind||85,,85,85,85,85|F|,0,,,,||94|,,,,,Water]Appletun||Leftovers|ThickFat|recover,appleacid,dracometeor,leechseed||85,,85,85,85,85|M|,0,,,,||92|,,,,,Steel"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-09",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,12d097ca297c1133de279f05d7853cc46175d9c2d6f6bbd70a5ea07862fd7b40",
+    "ai": "sodium,56b87d1defcc6ed4c850a698ae905af60de358d4888468f6174fc314ff81ccd6"
+  },
+  "playerSpecies": [
+    "Moltres-Galar",
+    "Ceruledge",
+    "Probopass",
+    "Frosmoth",
+    "Vaporeon",
+    "Tentacruel"
+  ],
+  "player": "Moltres|MoltresGalar|WeaknessPolicy|Berserk|fierywrath,nastyplot,agility,hurricane||81,,85,85,85,85|N|,0,,,,||79|,,,,,Steel]Ceruledge||HeavyDutyBoots|WeakArmor|shadowsneak,swordsdance,poltergeist,bitterblade||85,85,85,85,85,85|M|||78|,,,,,Fire]Probopass||Leftovers|MagnetPull|thunderwave,bodypress,powergem,irondefense||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fighting]Frosmoth||HeavyDutyBoots|IceScales|bugbuzz,icebeam,quiverdance,terablast||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Vaporeon||Leftovers|WaterAbsorb|calmmind,scald,wish,protect||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Tentacruel||AssaultVest|LiquidOoze|sludgebomb,flipturn,surf,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Flying",
+  "ai": "Crabominable||ChoiceBand|IronFist|icehammer,knockoff,gunkshot,closecombat||85,85,85,85,85,85|F|||90|,,,,,Fighting]Sandaconda||LoadedDice|ShedSkin|earthquake,rockblast,coil,scaleshot||85,85,85,85,85,85|M|||84|,,,,,Dragon]Luvdisc||HeavyDutyBoots|SwiftSwim|flipturn,surf,substitute,endeavor||81,85,85,85,85,85|F||||,,,,,Ghost]Venusaur||Leftovers|Overgrow|energyball,synthesis,earthpower,sludgebomb||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Regice||HeavyDutyBoots|ClearBody|thunderwave,thunderbolt,bodypress,icebeam||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Deoxys|DeoxysDefense|Leftovers|Pressure|spikes,psychicnoise,stealthrock,recover||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel"
+}

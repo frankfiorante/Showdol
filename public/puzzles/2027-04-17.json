@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-17",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,1433a325af88ea3f31baf79273241b6a40cb1d48980e6f6854b9b5f46a508850",
+    "ai": "sodium,b87894f89e48c3a9659563db0af882c86caf6d6f4035cc06556a0d60df963c95"
+  },
+  "playerSpecies": [
+    "Scrafty",
+    "Clawitzer",
+    "Banette",
+    "Mismagius",
+    "Florges-Orange",
+    "Suicune"
+  ],
+  "player": "Scrafty||Leftovers|Intimidate|drainpunch,knockoff,poisonjab,dragondance||85,85,85,85,85,85|M|||83|,,,,,Poison]Clawitzer||ChoiceSpecs|MegaLauncher|aurasphere,uturn,dragonpulse,waterpulse||85,85,85,85,85,85|F|||87|,,,,,Dragon]Banette||LifeOrb|Insomnia|thunderwave,poltergeist,gunkshot,shadowsneak||85,85,85,85,85,85|F|||93|,,,,,Ghost]Mismagius||Leftovers|Levitate|terablast,shadowball,nastyplot,substitute||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fighting]Florges|FlorgesOrange|Leftovers|FlowerVeil|calmmind,moonblast,wish,protect||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Suicune||Leftovers|Pressure|calmmind,scald,rest,sleeptalk||85,,85,85,85,85|N|,0,,,,||82|,,,,,Dragon",
+  "ai": "Sudowoodo||Leftovers|RockHead|woodhammer,headsmash,suckerpunch,stealthrock||85,85,85,85,85,85|M|||94|,,,,,Grass]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|ironhead,earthquake,throatchop,closecombat||85,85,85,85,85,85|M|||82|,,,,,Steel]Avalugg||HeavyDutyBoots|Sturdy|rapidspin,avalanche,bodypress,recover||85,85,85,85,85,85|F|||88|,,,,,Fighting]Vikavolt||HeavyDutyBoots|Levitate|stickyweb,energyball,bugbuzz,thunderbolt||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Bastiodon||ChestoBerry|Soundproof|foulplay,bodypress,rest,irondefense||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fighting]Mismagius||ChoiceSpecs|Levitate|thunderbolt,shadowball,trick,mysticalfire||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fire"
+}

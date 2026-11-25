@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-28",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,8b0ecd281ca5447f0b19f9bae0cc1fca9d672b2385b0510668fe4133f7f968ef",
+    "ai": "sodium,6d8b60cb27b8b23e8bc4294e0c25b6dfa7222e39ab880134cd0693db31211d2b"
+  },
+  "playerSpecies": [
+    "Tyranitar",
+    "Dudunsparce-Three-Segment",
+    "Vigoroth",
+    "Cramorant",
+    "Flareon",
+    "Articuno-Galar"
+  ],
+  "player": "Tyranitar||AssaultVest|SandStream|dragontail,knockoff,stoneedge,icebeam||85,85,85,85,85,85|F|||78|,,,,,Ghost]Dudunsparce|DudunsparceThreeSegment|Leftovers|Rattled|shadowball,boomburst,calmmind,roost||85,,85,85,85,85|F|,0,,,,||83|,,,,,Poison]Vigoroth||Eviolite|VitalSpirit|slackoff,knockoff,bodyslam,bulkup||85,85,85,85,85,85|F|||85|,,,,,Ghost]Cramorant||HeavyDutyBoots|GulpMissile|roost,bravebird,defog,surf||85,85,85,85,85,85|F|||86|,,,,,Ground]Flareon||ToxicOrb|Guts|trailblaze,flareblitz,quickattack,facade||85,85,85,85,85,85|F|||90|,,,,,Normal]Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|recover,hurricane,psyshock,calmmind||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel",
+  "ai": "Illumise||HeavyDutyBoots|Prankster|encore,bugbuzz,thunderwave,roost||85,,85,85,85,85|F|,0,,,,||91|,,,,,Water]Girafarig||Eviolite|SapSipper|nastyplot,psychic,shadowball,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fairy]Azumarill||ChoiceBand|HugePower|playrough,knockoff,liquidation,aquajet||85,85,85,85,85,85|M|||82|,,,,,Water]Dodrio||ChoiceBand|EarlyBird|bravebird,knockoff,quickattack,drillrun||85,85,85,85,85,85|M|||85|,,,,,Ground]Golurk||ChoiceBand|NoGuard|earthquake,stoneedge,poltergeist,dynamicpunch||85,85,85,85,85,85|N|||87|,,,,,Ghost]Landorus||LifeOrb|SheerForce|focusblast,psychic,sludgewave,earthpower||85,,85,85,85,85|M|,0,,,,||75|,,,,,Ground"
+}

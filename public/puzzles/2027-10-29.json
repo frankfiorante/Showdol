@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-29",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,3676c1361d3bd2fd022058414c8ce5aafe08598f2885d4edb98255e4a2ce2747",
+    "ai": "sodium,5c19378a83b12533d3257bc73ebf4da39626edbe81bb6024c4d42a96f72d56e6"
+  },
+  "playerSpecies": [
+    "Kricketune",
+    "Lokix",
+    "Wo-Chien",
+    "Drifblim",
+    "Pecharunt",
+    "Dunsparce"
+  ],
+  "player": "Kricketune||FocusSash|Technician|stickyweb,taunt,pounce,knockoff||81,85,85,85,85,85|F|||99|,,,,,Ghost]Lokix||SilverPowder|TintedLens|firstimpression,knockoff,uturn,suckerpunch||85,85,85,85,85,85|M|||82|,,,,,Bug]Wo-Chien||Leftovers|TabletsofRuin|protect,ruination,knockoff,leechseed||85,85,85,85,85,85|N|||83|,,,,,Poison]Drifblim||SitrusBerry|Unburden|airslash,strengthsap,calmmind,shadowball||73,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy]Pecharunt||Leftovers|PoisonPuppeteer|recover,malignantchain,shadowball,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Dunsparce||Eviolite|SereneGrace|bodyslam,earthquake,roost,coil||85,85,85,85,85,85|M|||86|,,,,,Ghost",
+  "ai": "Lilligant|LilligantHisui|WideLens|Hustle|victorydance,closecombat,icespinner,leafblade||85,85,85,85,85,85|F|||79|,,,,,Fighting]Weezing||Leftovers|Levitate|sludgebomb,toxicspikes,fireblast,painsplit||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Tentacruel||AssaultVest|LiquidOoze|flipturn,sludgebomb,surf,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Flying]Calyrex||Leftovers|Unnerve|psychic,bodypress,encore,gigadrain||85,,85,85,85,85|N|,0,,,,||93|,,,,,Fighting]Komala||ChoiceBand|Comatose|bodyslam,knockoff,uturn,earthquake||85,85,85,85,85,85|M|||87|,,,,,Ghost]Noctowl||HeavyDutyBoots|TintedLens|hurricane,roost,calmmind,hypervoice||85,,85,85,85,85|F|,0,,,,||95|,,,,,Normal"
+}

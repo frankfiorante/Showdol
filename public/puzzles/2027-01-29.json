@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-29",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,584e76cd1a1cca83420d4bfc85fa67f5d77454223e58a96cae47f62a3b09b8e4",
+    "ai": "sodium,cad500de97b5f3f6e14a75d90dec7e15a95740fe139416837bd7820efbd6d54e"
+  },
+  "playerSpecies": [
+    "Fezandipiti",
+    "Lucario",
+    "Clodsire",
+    "Slaking",
+    "Lapras",
+    "Goodra"
+  ],
+  "player": "Fezandipiti||Leftovers|ToxicChain|swordsdance,gunkshot,playrough,terablast||85,85,85,85,85,85|M|||82|,,,,,Ground]Lucario||LifeOrb|Justified|meteormash,extremespeed,swordsdance,closecombat||85,85,85,85,85,85|F|||84|,,,,,Normal]Clodsire||Leftovers|Unaware|recover,spikes,earthquake,toxic||85,85,85,85,85,85|F|||81|,,,,,Flying]Slaking||ChoiceBand|Truant|earthquake,gigaimpact,doubleedge,knockoff||85,85,85,85,85,85|M|||84|,,,,,Normal]Lapras||HeavyDutyBoots|WaterAbsorb|sparklingaria,sleeptalk,rest,freezedry||85,,85,85,85,85|F|,0,,,,||87|,,,,,Ghost]Goodra||AssaultVest|SapSipper|dracometeor,sludgebomb,fireblast,scald||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel",
+  "ai": "Articuno||HeavyDutyBoots|Pressure|uturn,roost,bravebird,freezedry||85,85,85,85,85,85|N|||86|,,,,,Ground]Azumarill||ChoiceBand|HugePower|aquajet,playrough,knockoff,liquidation||85,85,85,85,85,85|F|||82|,,,,,Water]Salazzle||HeavyDutyBoots|Corrosion|terablast,sludgewave,nastyplot,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Volcanion||HeavyDutyBoots|WaterAbsorb|earthpower,steameruption,haze,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Girafarig||Eviolite|SapSipper|psyshock,hypervoice,nastyplot,thunderbolt||85,,85,85,85,85|M|,0,,,,||89|,,,,,Normal]Blissey||Leftovers|NaturalCure|healbell,softboiled,thunderwave,seismictoss||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy"
+}

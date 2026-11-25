@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-14",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,ca441dc558ac3a083ac6a46469990ae1bd9857c6f361ff254307d1329893eca6",
+    "ai": "sodium,9313f72eb6d49255b022b001a6da20eaed67c4c35954b32f9ad8ca190ba54812"
+  },
+  "playerSpecies": [
+    "Donphan",
+    "Vikavolt",
+    "Volcanion",
+    "Cloyster",
+    "Metagross",
+    "Persian-Alola"
+  ],
+  "player": "Donphan||Leftovers|Sturdy|earthquake,stealthrock,rapidspin,iceshard||85,85,85,85,85,85|M|||84|,,,,,Dragon]Vikavolt||HeavyDutyBoots|Levitate|energyball,stickyweb,discharge,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Volcanion||HeavyDutyBoots|WaterAbsorb|earthpower,steameruption,haze,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Ground]Cloyster||WhiteHerb|SkillLink|rockblast,iciclespear,hydropump,shellsmash||85,85,85,85,85,85|M|||80|,,,,,Rock]Metagross||WeaknessPolicy|ClearBody|heavyslam,psychicfangs,earthquake,agility||85,85,85,85,85,85|N|||79|,,,,,Ground]Persian|PersianAlola|LifeOrb|FurCoat|thunderbolt,darkpulse,terablast,nastyplot||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy",
+  "ai": "Klefki||Leftovers|Prankster|spikes,thunderwave,foulplay,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Registeel||ChestoBerry|ClearBody|ironhead,bodypress,irondefense,rest||85,85,85,85,85,85|N|||81|,,,,,Fighting]Alcremie|AlcremieRubySwirl|Leftovers|AromaVeil|recover,alluringvoice,psyshock,calmmind||85,,85,85,85,85|F|,0,,,,||90|,,,,,Poison]Iron Bundle||ChoiceSpecs|QuarkDrive|freezedry,hydropump,icebeam,flipturn||85,85,85,85,85,85|N|||78|,,,,,Ice]Tsareena||LifeOrb|QueenlyMajesty|knockoff,highjumpkick,synthesis,powerwhip||85,85,85,85,85,85|F|||87|,,,,,Fighting]Meowstic||LightClay|Prankster|lightscreen,psychicnoise,alluringvoice,reflect||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy"
+}

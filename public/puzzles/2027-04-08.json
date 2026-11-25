@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-08",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,54bcf9f9e491c3db1ed677223a5d315bcd2e93c837d99e9e203c41baae8d7498",
+    "ai": "sodium,d0532f3a7b11306902dacdf129d0cf066d56be6d5ef87e35036a4918fcad5116"
+  },
+  "playerSpecies": [
+    "Alomomola",
+    "Zoroark",
+    "Ursaring",
+    "Grimmsnarl",
+    "Medicham",
+    "Klefki"
+  ],
+  "player": "Alomomola||RockyHelmet|Regenerator|flipturn,wish,protect,scald||85,85,85,85,85,85|M|||87|,,,,,Steel]Zoroark||LifeOrb|Illusion|psychic,nastyplot,darkpulse,sludgebomb||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Ursaring||ToxicOrb|QuickFeet|crunch,swordsdance,facade,closecombat||85,85,85,85,85,85|M|||84|,,,,,Normal]Grimmsnarl||LightClay|Prankster|reflect,lightscreen,thunderwave,spiritbreak||85,85,85,85,85,85|M|||83|,,,,,Steel]Medicham||ChoiceScarf|PurePower|zenheadbutt,trick,icepunch,closecombat||85,85,85,85,85,85|F|||86|,,,,,Fighting]Klefki||Leftovers|Prankster|magnetrise,spikes,thunderwave,playrough||85,85,85,85,85,85|F|||84|,,,,,Water",
+  "ai": "Overqwil||LoadedDice|Intimidate|scaleshot,crunch,gunkshot,swordsdance||85,85,85,85,85,85|M|||82|,,,,,Dragon]Mimikyu||LifeOrb|Disguise|drainpunch,playrough,shadowsneak,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Fairy]Lycanroc|LycanrocDusk|ChoiceBand|ToughClaws|accelerock,closecombat,throatchop,stoneedge||85,85,85,85,85,85|F|||81|,,,,,Fighting]Granbull||Leftovers|Intimidate|playrough,encore,earthquake,thunderwave||85,85,85,85,85,85|M|||88|,,,,,Ground]Wyrdeer||Leftovers|Intimidate|psychicnoise,earthquake,bodyslam,thunderwave||85,85,85,85,85,85|M|||87|,,,,,Ground]Banette||LifeOrb|Insomnia|thunderwave,shadowsneak,gunkshot,poltergeist||85,85,85,85,85,85|F|||93|,,,,,Poison"
+}

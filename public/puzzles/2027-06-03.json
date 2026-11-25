@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-03",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,0a2c807e4e2ab4eb88a4c613512a77cb31d24d90b6e4c87655426e3c32e2b8f0",
+    "ai": "sodium,2cf53b51df14caa3a88f1b155d9931b70d7172fed054f7ce40bb1549ec771cfa"
+  },
+  "playerSpecies": [
+    "Salamence",
+    "Flamigo",
+    "Mismagius",
+    "Granbull",
+    "Rotom-Wash",
+    "Sudowoodo"
+  ],
+  "player": "Salamence||HeavyDutyBoots|Intimidate|dragondance,outrage,roost,dualwingbeat||85,85,85,85,85,85|F|||77|,,,,,Steel]Flamigo||ChoiceBand|Scrappy|throatchop,closecombat,bravebird,uturn||85,85,85,85,85,85|M|||82|,,,,,Fighting]Mismagius||ChoiceSpecs|Levitate|thunderbolt,shadowball,dazzlinggleam,mysticalfire||85,,85,85,85,85|M|,0,,,,||86|,,,,,Electric]Granbull||Leftovers|Intimidate|thunderwave,earthquake,encore,playrough||85,85,85,85,85,85|M|||88|,,,,,Ground]Rotom|RotomWash|ChoiceScarf|Levitate|thunderbolt,voltswitch,trick,hydropump||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Sudowoodo||ChoiceBand|RockHead|headsmash,earthquake,suckerpunch,woodhammer||85,85,85,85,85,85|M|||94|,,,,,Rock",
+  "ai": "Klawf||LumBerry|AngerShell|stoneedge,swordsdance,highhorsepower,crabhammer||85,85,85,85,85,85|M|||90|,,,,,Ground]Regigigas||Leftovers|SlowStart|knockoff,bodyslam,substitute,protect||85,85,85,85,85,85|N|||84|,,,,,Ghost]Mimikyu||LifeOrb|Disguise|shadowclaw,playrough,shadowsneak,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Fairy]Arboliva||Leftovers|SeedSower|earthpower,hypervoice,energyball,strengthsap||85,,85,85,85,85|F|,0,,,,||91|,,,,,Ground]Misdreavus||Eviolite|Levitate|willowisp,calmmind,shadowball,drainingkiss||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Donphan||Leftovers|Sturdy|iceshard,stealthrock,earthquake,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Steel"
+}

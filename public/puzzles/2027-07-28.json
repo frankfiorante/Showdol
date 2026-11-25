@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-28",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,3626cdc48b0f458cfcbbd9ce9c7a42c4abaa07b14eff0f61e29c762c4e9f4715",
+    "ai": "sodium,79ef0aea8e6b9af5c14420accf45c2818d983540ab2554e4be3ceb8432b2af85"
+  },
+  "playerSpecies": [
+    "Hitmonchan",
+    "Palkia",
+    "Okidogi",
+    "Bisharp",
+    "Calyrex-Ice",
+    "Tinkaton"
+  ],
+  "player": "Hitmonchan||LifeOrb|IronFist|swordsdance,machpunch,knockoff,drainpunch||85,85,85,85,85,85|M|||87|,,,,,Dark]Palkia||ChoiceScarf|Pressure|hydropump,fireblast,spacialrend,dracometeor||85,,85,85,85,85|N|,0,,,,||75|,,,,,Dragon]Okidogi||Leftovers|ToxicChain|gunkshot,drainpunch,knockoff,bulkup||85,85,85,85,85,85|M|||77|,,,,,Dark]Bisharp||Eviolite|Defiant|suckerpunch,swordsdance,throatchop,ironhead||85,85,85,85,85,85|F|||79|,,,,,Flying]Calyrex|CalyrexIce|HeavyDutyBoots|AsOneGlastrier|trickroom,glaciallance,closecombat,highhorsepower||85,85,85,85,85,|N|,,,,,0||72|,,,,,Fighting]Tinkaton||Leftovers|MoldBreaker|playrough,thunderwave,knockoff,gigatonhammer||85,85,85,85,85,85|F|||82|,,,,,Water",
+  "ai": "Forretress||Leftovers|Sturdy|bodypress,spikes,rapidspin,ironhead||85,85,85,85,85,85|F|||84|,,,,,Water]Charizard||HeavyDutyBoots|Blaze|flareblitz,earthquake,outrage,dragondance||85,85,85,85,85,85|M|||85|,,,,,Dragon]Trevenant||SitrusBerry|Harvest|drainpunch,toxic,protect,poltergeist||85,85,85,85,85,85|M|||89|,,,,,Fairy]Smeargle||FocusSash|OwnTempo|ceaselessedge,stealthrock,spore,stickyweb||85,85,85,85,85,85|F|||95|,,,,,Ghost]Politoed||ChoiceSpecs|Drizzle|weatherball,icebeam,focusblast,hydropump||85,,85,85,85,85|M|,0,,,,||88|,,,,,Water]Incineroar||AssaultVest|Intimidate|overheat,uturn,fakeout,knockoff||85,85,85,85,85,85|F|||82|,,,,,Water"
+}

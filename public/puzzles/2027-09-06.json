@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-06",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,c9bfc447c62ad530ccf802a0ad1b0017d7e5856e6a99a2af5ad860e8eaf6161e",
+    "ai": "sodium,c25b87e711fa0be6193a2d72b5bd1f3f33fdc3d4a797103d6cccd1760d5890ae"
+  },
+  "playerSpecies": [
+    "Necrozma",
+    "Noivern",
+    "Regigigas",
+    "Shiftry",
+    "Gyarados",
+    "Scream Tail"
+  ],
+  "player": "Necrozma||WeaknessPolicy|PrismArmor|photongeyser,earthquake,dragondance,knockoff||85,85,85,85,85,85|N|||80|,,,,,Steel]Noivern||HeavyDutyBoots|Infiltrator|hurricane,flamethrower,dracometeor,roost||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fire]Regigigas||Leftovers|SlowStart|sleeptalk,bodyslam,rest,knockoff||85,85,85,85,85,85|N|||84|,,,,,Ghost]Shiftry||HeavyDutyBoots|WindRider|suckerpunch,defog,knockoff,leafstorm||85,85,85,85,85,85|M|||89|,,,,,Poison]Gyarados||HeavyDutyBoots|Intimidate|waterfall,dragondance,stoneedge,earthquake||85,85,85,85,85,85|F|||79|,,,,,Ground]Scream Tail||Leftovers|Protosynthesis|protect,dazzlinggleam,thunderwave,wish||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison",
+  "ai": "Pecharunt||Leftovers|PoisonPuppeteer|nastyplot,malignantchain,shadowball,recover||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Miraidon||LifeOrb|HadronEngine|electrodrift,calmmind,dracometeor,dragonpulse||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Arboliva||Leftovers|SeedSower|energyball,hypervoice,strengthsap,earthpower||85,,85,85,85,85|M|,0,,,,||91|,,,,,Grass]Heracross||ChoiceBand|Moxie|knockoff,closecombat,stoneedge,megahorn||85,85,85,85,85,85|F|||80|,,,,,Fighting]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,nastyplot,surf,rapidspin||85,85,85,85,85,85|M|||87|,,,,,Steel]Excadrill||AssaultVest|MoldBreaker|rapidspin,rockslide,ironhead,earthquake||85,85,85,85,85,85|F|||79|,,,,,Grass"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-05",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,8fa9f73a3ee7d803e4aa2b45bb859d749a8b8b3cb53a4b8ef13d509ab0bf997d",
+    "ai": "sodium,4eb718a8f768b3b565d5c679b0185e634c6d473cf9eb8ebf2f437c4d84e0b0ab"
+  },
+  "playerSpecies": [
+    "Minun",
+    "Rotom-Wash",
+    "Walking Wake",
+    "Coalossal",
+    "Jumpluff",
+    "Zapdos-Galar"
+  ],
+  "player": "Minun||LifeOrb|VoltAbsorb|encore,nastyplot,grassknot,thunderbolt||85,,85,85,85,85|F|,0,,,,||95|,,,,,Electric]Rotom|RotomWash|Leftovers|Levitate|hydropump,painsplit,willowisp,discharge||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Walking Wake||ChoiceSpecs|Protosynthesis|flamethrower,dracometeor,flipturn,hydropump||85,85,85,85,85,85|N|||79|,,,,,Fire]Coalossal||HeavyDutyBoots|FlameBody|willowisp,overheat,rapidspin,stoneedge||85,85,85,85,85,85|M|||89|,,,,,Grass]Jumpluff|||Infiltrator|uturn,acrobatics,sleeppowder,strengthsap||81,85,85,85,85,85|M|||87|,,,,,Steel]Zapdos|ZapdosGalar|ChoiceBand|Defiant|knockoff,closecombat,uturn,bravebird||85,85,85,85,85,85|N|||77|,,,,,Steel",
+  "ai": "Quagsire||Leftovers|Unaware|recover,toxic,earthquake,icebeam||85,85,85,85,85,85|F|||84|,,,,,Poison]Frosmoth||HeavyDutyBoots|IceScales|icebeam,hurricane,bugbuzz,quiverdance||85,,85,85,85,85|M|,0,,,,||82|,,,,,Water]Staraptor||ChoiceBand|Reckless|uturn,doubleedge,bravebird,closecombat||81,85,85,85,85,85|M|||79|,,,,,Flying]Poliwrath||AssaultVest|WaterAbsorb|circlethrow,liquidation,closecombat,knockoff||85,85,85,85,85,85|M|||88|,,,,,Dark]Sudowoodo||ChoiceBand|RockHead|woodhammer,headsmash,earthquake,suckerpunch||85,85,85,85,85,85|M|||94|,,,,,Rock]Dialga|DialgaOrigin|AdamantCrystal|Pressure|fireblast,dragontail,flashcannon,dracometeor||85,85,85,85,85,85|N|||73|,,,,,Dragon"
+}

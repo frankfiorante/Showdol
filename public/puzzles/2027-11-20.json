@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-20",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,7bc1533a2011ca9daf2d875920757d0de01261aab0c1fc10fdbf0a28a46560ed",
+    "ai": "sodium,d74b22e13ffd4da4d1e86ffc7c2868daefa48cf4badd08d6390ca4a29e73942d"
+  },
+  "playerSpecies": [
+    "Lilligant-Hisui",
+    "Excadrill",
+    "Galvantula",
+    "Heatran",
+    "Rayquaza",
+    "Cyclizar"
+  ],
+  "player": "Lilligant|LilligantHisui|LifeOrb|Hustle|leafblade,icespinner,victorydance,closecombat||85,85,85,85,85,85|F|||79|,,,,,Steel]Excadrill||Leftovers|MoldBreaker|ironhead,swordsdance,rapidspin,earthquake||85,85,85,85,85,85|F|||79|,,,,,Ground]Galvantula||HeavyDutyBoots|CompoundEyes|bugbuzz,stickyweb,thunder,energyball||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric]Heatran||AirBalloon|FlashFire|lavaplume,heavyslam,earthpower,stealthrock||85,85,85,85,85,85|M|||79|,,,,,Flying]Rayquaza||HeavyDutyBoots|AirLock|earthquake,dragondance,outrage,dragonascent||85,85,85,85,85,85|N|||72|,,,,,Flying]Cyclizar||HeavyDutyBoots|Regenerator|shedtail,knockoff,dracometeor,taunt||85,85,85,85,85,85|M|||84|,,,,,Fairy",
+  "ai": "Ting-Lu||Leftovers|VesselofRuin|throatchop,spikes,stealthrock,earthquake||85,85,85,85,85,85|N|||78|,,,,,Ghost]Shiftry||HeavyDutyBoots|WindRider|defog,suckerpunch,knockoff,leafstorm||85,85,85,85,85,85|M|||89|,,,,,Dark]Registeel||Leftovers|ClearBody|thunderwave,bodypress,ironhead,irondefense||85,85,85,85,85,85|N|||81|,,,,,Fighting]Kingdra||LumBerry|Sniper|wavecrash,dragondance,waterfall,outrage||85,85,85,85,85,85|F|||84|,,,,,Water]Diancie||Leftovers|ClearBody|bodypress,moonblast,diamondstorm,rockpolish||85,85,85,85,85,85|N|||82|,,,,,Fighting]Dusknoir||ChoiceBand|Frisk|earthquake,trick,shadowsneak,poltergeist||85,85,85,85,85,85|M|||89|,,,,,Ground"
+}

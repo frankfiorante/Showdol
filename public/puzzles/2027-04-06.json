@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-06",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,9cf1e1911f1629b8947d8aa3f993b9cf2f3ef217ca337adfdb7597829475b18a",
+    "ai": "sodium,37d270632571f1755694e0593ff5e1cc2ad0d1338f9da965d5cd2e41c5ca1338"
+  },
+  "playerSpecies": [
+    "Manaphy",
+    "Magmortar",
+    "Gothitelle",
+    "Swalot",
+    "Volcanion",
+    "Darkrai"
+  ],
+  "player": "Manaphy||Leftovers|Hydration|energyball,hydropump,tailglow,icebeam||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water]Magmortar||HeavyDutyBoots|FlameBody|focusblast,thunderbolt,fireblast,taunt||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting]Gothitelle||ChoiceScarf|ShadowTag|focusblast,darkpulse,trick,psychic||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fighting]Swalot||Leftovers|LiquidOoze|earthquake,gunkshot,knockoff,swordsdance||85,85,85,85,85,85|M|||90|,,,,,Dark]Volcanion||HeavyDutyBoots|WaterAbsorb|steameruption,flamethrower,earthpower,haze||85,,85,85,85,85|N|,0,,,,||79|,,,,,Ground]Darkrai||LifeOrb|BadDreams|sludgebomb,darkpulse,nastyplot,focusblast||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison",
+  "ai": "Snorlax||Leftovers|ThickFat|bodyslam,curse,rest,sleeptalk||85,85,85,85,85,85|F|||82|,,,,,Fairy]Garganacl||Leftovers|PurifyingSalt|saltcure,recover,earthquake,protect||85,85,85,85,85,85|F|||80|,,,,,Dragon]Empoleon||Leftovers|Competitive|surf,roost,yawn,icebeam||85,,85,85,85,85|M|,0,,,,||84|,,,,,Flying]Zamazenta||ChoiceBand|DauntlessShield|psychicfangs,ironhead,closecombat,stoneedge||85,85,85,85,85,85|N|||71|,,,,,Fighting]Gliscor||ToxicOrb|PoisonHeal|knockoff,earthquake,toxic,protect||85,85,85,85,85,85|M|||76|,,,,,Water]Hawlucha||WhiteHerb|Unburden|closecombat,swordsdance,acrobatics,stoneedge||85,85,85,85,85,85|M|||80|,,,,,Flying"
+}

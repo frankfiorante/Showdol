@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-11",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,27443eb670d792faf6073e9517077b3fe8cbab9b1007968b30692df02584ee1a",
+    "ai": "sodium,f5b0d6a2d37375964722ff310298841d59ac490a9608eafcf3986097ddadc971"
+  },
+  "playerSpecies": [
+    "Orthworm",
+    "Archaludon",
+    "Grafaiai",
+    "Flygon",
+    "Sceptile",
+    "Drifblim"
+  ],
+  "player": "Orthworm||ChestoBerry|EarthEater|bodypress,irontail,rest,coil||85,85,85,85,85,85|M|||88|,,,,,Electric]Archaludon||LumBerry|Stamina|earthquake,swordsdance,outrage,ironhead||85,85,85,85,85,85|F|||77|,,,,,Ground]Grafaiai||HeavyDutyBoots|Prankster|encore,knockoff,gunkshot,partingshot||85,85,85,85,85,85|F|||86|,,,,,Dark]Flygon||ChoiceBand|Levitate|earthquake,stoneedge,uturn,outrage||85,85,85,85,85,85|M|||82|,,,,,Steel]Sceptile||Leftovers|Overgrow|gigadrain,leechseed,focusblast,substitute||85,,85,85,85,85|M|,0,,,,||87|,,,,,Steel]Drifblim||SitrusBerry|Unburden|shadowball,strengthsap,airslash,calmmind||73,,85,85,85,85|M|,0,,,,||86|,,,,,Steel",
+  "ai": "Dedenne||SitrusBerry|CheekPouch|thunderbolt,superfang,uturn,dazzlinggleam||85,85,85,85,85,85|M|||88|,,,,,Flying]Krookodile||Leftovers|Intimidate|gunkshot,knockoff,bulkup,earthquake||85,85,85,85,85,85|F|||79|,,,,,Poison]Chesnaught||Leftovers|Bulletproof|bodypress,trailblaze,synthesis,irondefense||85,85,85,85,85,85|M|||84|,,,,,Steel]Gyarados||HeavyDutyBoots|Intimidate|dragondance,earthquake,terablast,waterfall||85,85,85,85,85,85|M|||79|,,,,,Flying]Hitmonlee||ChoiceBand|Reckless|machpunch,poisonjab,knockoff,highjumpkick||81,85,85,85,85,85|M|||85|,,,,,Fighting]Vivillon|VivillonModern|HeavyDutyBoots|CompoundEyes|hurricane,bugbuzz,sleeppowder,quiverdance||85,,85,85,85,85|M|,0,,,,||83|,,,,,Flying"
+}

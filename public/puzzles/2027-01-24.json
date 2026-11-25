@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-24",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,17e75b68a1a0853c2250090c482958da80cd77234e970dcf836251bed9391cc2",
+    "ai": "sodium,8620e31ce2a4e3ca54b894e81c5260e327e06689aac22638a7eb1de91abb65eb"
+  },
+  "playerSpecies": [
+    "Emboar",
+    "Ribombee",
+    "Ceruledge",
+    "Gliscor",
+    "Quagsire",
+    "Cobalion"
+  ],
+  "player": "Emboar||Leftovers|Reckless|trailblaze,bulkup,drainpunch,flareblitz||85,85,85,85,85,85|F|||84|,,,,,Grass]Ribombee||HeavyDutyBoots|ShieldDust|moonblast,bugbuzz,terablast,quiverdance||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground]Ceruledge||HeavyDutyBoots|WeakArmor|swordsdance,closecombat,bitterblade,poltergeist||85,85,85,85,85,85|F|||78|,,,,,Fire]Gliscor||ToxicOrb|PoisonHeal|substitute,toxic,earthquake,protect||85,85,85,85,85,85|M|||76|,,,,,Water]Quagsire||Leftovers|Unaware|earthquake,icebeam,toxic,recover||85,85,85,85,85,85|F|||84|,,,,,Steel]Cobalion||Leftovers|Justified|stealthrock,voltswitch,ironhead,bodypress||85,85,85,85,85,85|N|||80|,,,,,Water",
+  "ai": "Serperior||LifeOrb|Contrary|dragonpulse,synthesis,leafstorm,glare||85,,85,85,85,85|M|,0,,,,||79|,,,,,Dragon]Emboar||Leftovers|Reckless|drainpunch,trailblaze,flareblitz,bulkup||85,85,85,85,85,85|M|||84|,,,,,Grass]Eternatus||PowerHerb|Pressure|dynamaxcannon,meteorbeam,fireblast,sludgebomb||85,,85,85,85,85|N|,0,,,,||69|,,,,,Poison]Espeon||LifeOrb|MagicBounce|shadowball,calmmind,alluringvoice,psyshock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Armarouge||ChoiceSpecs|WeakArmor|psyshock,energyball,aurasphere,armorcannon||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Wo-Chien||Leftovers|TabletsofRuin|leechseed,knockoff,ruination,protect||85,85,85,85,85,85|N|||83|,,,,,Poison"
+}

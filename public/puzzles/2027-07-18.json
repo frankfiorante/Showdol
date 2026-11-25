@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-18",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,a8da47307813bff404cd4b060bb14f937d4d38f1d16b43c5837ab13aa5df6f73",
+    "ai": "sodium,1fa71151b3584d574bb894f4a7db06bac4dffe2bb5666151041ee6df4b91b94b"
+  },
+  "playerSpecies": [
+    "Vaporeon",
+    "Sudowoodo",
+    "Tinkaton",
+    "Araquanid",
+    "Blissey",
+    "Hitmonlee"
+  ],
+  "player": "Vaporeon||Leftovers|WaterAbsorb|flipturn,scald,wish,protect||85,85,85,85,85,85|M|||86|,,,,,Poison]Sudowoodo||Leftovers|RockHead|stealthrock,woodhammer,headsmash,suckerpunch||85,85,85,85,85,85|F|||94|,,,,,Grass]Tinkaton||Leftovers|MoldBreaker|knockoff,playrough,gigatonhammer,swordsdance||85,85,85,85,85,85|F|||82|,,,,,Steel]Araquanid||HeavyDutyBoots|WaterBubble|leechlife,stickyweb,liquidation,mirrorcoat||85,85,85,85,85,85|F|||82|,,,,,Steel]Blissey||Leftovers|NaturalCure|thunderwave,seismictoss,healbell,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Hitmonlee||WhiteHerb|Unburden|closecombat,swordsdance,knockoff,poisonjab||85,85,85,85,85,85|M|||85|,,,,,Fighting",
+  "ai": "Landorus|LandorusTherian|Leftovers|Intimidate|uturn,earthquake,taunt,stoneedge||85,85,85,85,85,85|M|||76|,,,,,Ground]Hoopa|HoopaUnbound|AssaultVest|Magician|gunkshot,focusblast,hyperspacefury,psychic||85,85,85,85,85,85|N|||80|,,,,,Poison]Lugia||HeavyDutyBoots|Multiscale|calmmind,recover,psychicnoise,aeroblast||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Venusaur||Leftovers|Chlorophyll|synthesis,sludgebomb,toxic,knockoff||85,85,85,85,85,85|F|||84|,,,,,Dark]Hitmontop||AssaultVest|Intimidate|rapidspin,suckerpunch,closecombat,stoneedge||85,85,85,85,85,85|M|||88|,,,,,Steel]Pachirisu||AssaultVest|VoltAbsorb|nuzzle,uturn,superfang,thunderbolt||85,85,85,85,85,85|F|||96|,,,,,Flying"
+}

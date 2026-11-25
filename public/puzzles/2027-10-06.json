@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-06",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5f88b5c3e2ebe6597d50f8844c58d59d61857226b2af3d3e3b2a12141c171fe1",
+    "ai": "sodium,f9ac121ce0d8c609c6112825c79cef607ad7865a3dc3df1d4339d87b16782a96"
+  },
+  "playerSpecies": [
+    "Ambipom",
+    "Zamazenta",
+    "Coalossal",
+    "Seviper",
+    "Uxie",
+    "Malamar"
+  ],
+  "player": "Ambipom||ChoiceBand|Technician|tripleaxel,doubleedge,uturn,knockoff||85,85,85,85,85,85|F|||84|,,,,,Ice]Zamazenta||RustedShield|DauntlessShield|irondefense,stoneedge,bodypress,heavyslam||85,85,85,85,85,85|N|||68|,,,,,Fighting]Coalossal||HeavyDutyBoots|FlameBody|stoneedge,flamethrower,rapidspin,willowisp||85,85,85,85,85,85|M|||89|,,,,,Water]Seviper||Leftovers|Infiltrator|earthquake,trailblaze,swordsdance,gunkshot||85,85,85,85,85,85|M|||93|,,,,,Grass]Uxie||Leftovers|Levitate|substitute,psychicnoise,nastyplot,drainingkiss||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy]Malamar||Leftovers|Contrary|rest,superpower,sleeptalk,knockoff||85,85,85,85,85,85|F|||82|,,,,,Poison",
+  "ai": "Dragonite||HeavyDutyBoots|Multiscale|roost,earthquake,outrage,dragondance||85,85,85,85,85,85|M|||74|,,,,,Ground]Milotic||Leftovers|Competitive|scald,recover,dragontail,icebeam||85,85,85,85,85,85|M|||83|,,,,,Dragon]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,defog,hydropump||85,85,85,85,85,85|F|||89|,,,,,Ground]Jolteon||Leftovers|VoltAbsorb|substitute,terablast,calmmind,thunderbolt||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice]Cresselia||Leftovers|Levitate|calmmind,moonblast,moonlight,psyshock||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fairy]Ninetales||HeavyDutyBoots|Drought|nastyplot,fireblast,solarbeam,scorchingsands||85,,85,85,85,85|M|,0,,,,||85|,,,,,Grass"
+}

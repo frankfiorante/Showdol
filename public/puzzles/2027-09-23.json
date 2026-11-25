@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-23",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,ec5009c05cc1a9982584a205883a3289cdb0092dce2852e4b20cc9a6aabe674f",
+    "ai": "sodium,7a37ef9c19c83a38c63ce3dbfc08a822defaeffe729b40c2ea273efe72858686"
+  },
+  "playerSpecies": [
+    "Alcremie-Mint-Cream",
+    "Zekrom",
+    "Houndstone",
+    "Lilligant-Hisui",
+    "Azumarill",
+    "Delibird"
+  ],
+  "player": "Alcremie|AlcremieMintCream|Leftovers|AromaVeil|calmmind,recover,psyshock,alluringvoice||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Zekrom||Leftovers|Teravolt|outrage,substitute,dragondance,boltstrike||85,85,85,85,85,85|N|||71|,,,,,Steel]Houndstone||Leftovers|Fluffy|bodypress,rest,sleeptalk,poltergeist||85,85,85,85,85,85|F|||86|,,,,,Fighting]Lilligant|LilligantHisui|WideLens|Hustle|victorydance,leafblade,icespinner,closecombat||85,85,85,85,85,85|F|||79|,,,,,Fighting]Azumarill||ChoiceBand|HugePower|aquajet,knockoff,liquidation,playrough||85,85,85,85,85,85|F|||82|,,,,,Water]Delibird||HeavyDutyBoots|Hustle|iceshard,icespinner,drillrun,bravebird||85,85,85,85,85,85|F||||,,,,,Ground",
+  "ai": "Hatterene||AssaultVest|MagicBounce|nuzzle,mysticalfire,psychic,drainingkiss||85,85,85,85,85,85|F|||85|,,,,,Steel]Cryogonal||HeavyDutyBoots|Levitate|recover,haze,rapidspin,freezedry||85,85,85,85,85,85|N|||89|,,,,,Poison]Thundurus||HeavyDutyBoots|Defiant|thunderbolt,focusblast,nastyplot,terablast||85,85,85,85,85,85|M|||80|,,,,,Flying]Regidrago||ChoiceScarf|DragonsMaw|dracometeor,earthquake,outrage,dragonenergy||85,85,85,85,85,85|N|||77|,,,,,Dragon]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|revelationdance,roost,quiverdance,hurricane||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fighting]Flutter Mane||ChoiceSpecs|Protosynthesis|shadowball,moonblast,thunderbolt,psyshock||85,,85,85,85,85|N|,0,,,,||74|,,,,,Fairy"
+}

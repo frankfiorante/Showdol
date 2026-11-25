@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-02",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,1d9b1f290f895589492d697633d1657a02f1dd25eb7e04b5f0bca6a9659968ff",
+    "ai": "sodium,64b03dfa808413459c0630729485b323e9ecc77bc5edffc186812b986f3dc94f"
+  },
+  "playerSpecies": [
+    "Krookodile",
+    "Palafin",
+    "Galvantula",
+    "Jirachi",
+    "Palkia-Origin",
+    "Latias"
+  ],
+  "player": "Krookodile||LifeOrb|Intimidate|knockoff,gunkshot,stealthrock,earthquake||85,85,85,85,85,85|M|||79|,,,,,Ground]Palafin||ChoiceBand|ZerotoHero|wavecrash,closecombat,jetpunch,flipturn||85,85,85,85,85,85|M|||77|,,,,,Fighting]Galvantula||HeavyDutyBoots|CompoundEyes|bugbuzz,stickyweb,thunder,voltswitch||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Jirachi||Leftovers|SereneGrace|wish,protect,bodyslam,ironhead||85,85,85,85,85,85|N|||80|,,,,,Water]Palkia|PalkiaOrigin|LustrousGlobe|Pressure|thunderwave,spacialrend,hydropump,fireblast||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire]Latias||SoulDew|Levitate|calmmind,recover,psyshock,dracometeor||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel",
+  "ai": "Raikou||ChoiceSpecs|Pressure|scald,shadowball,thunderbolt,voltswitch||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water]Ursaring||Eviolite|Guts|earthquake,rest,bodyslam,sleeptalk||85,85,85,85,85,85|M|||84|,,,,,Ground]Chansey||Eviolite|NaturalCure|softboiled,seismictoss,stealthrock,thunderwave||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Minior|MiniorYellow|WhiteHerb|ShieldsDown|powergem,shellsmash,earthquake,acrobatics||85,85,85,85,85,85|N|||79|,,,,,Steel]Lumineon||HeavyDutyBoots|StormDrain|hydropump,icebeam,uturn,encore||85,85,85,85,85,85|F|||93|,,,,,Ground]Rhyperior||WeaknessPolicy|SolidRock|icepunch,earthquake,stoneedge,rockpolish||85,85,85,85,85,85|F|||82|,,,,,Rock"
+}

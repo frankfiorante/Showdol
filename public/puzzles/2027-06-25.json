@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-25",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,0a7272bc9c4909f5a86dbbd69a79fbdd1299f704d84d490b3e16f9500731455a",
+    "ai": "sodium,380a445556814b56f1d975bc086ba5b193dc49c5351ba279e641c8a11040fea4"
+  },
+  "playerSpecies": [
+    "Persian",
+    "Delphox",
+    "Swanna",
+    "Raging Bolt",
+    "Tauros",
+    "Solgaleo"
+  ],
+  "player": "Persian||ChoiceBand|Limber|uturn,doubleedge,switcheroo,knockoff||85,85,85,85,85,85|F|||92|,,,,,Normal]Delphox||HeavyDutyBoots|Blaze|nastyplot,focusblast,fireblast,psyshock||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|bravebird,roost,defog,hydropump||85,85,85,85,85,85|M|||89|,,,,,Ground]Raging Bolt||BoosterEnergy|Protosynthesis|calmmind,thunderclap,dragonpulse,thunderbolt||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fairy]Tauros||LifeOrb|SheerForce|bodyslam,closecombat,zenheadbutt,throatchop||85,85,85,85,85,85|M|||82|,,,,,Normal]Solgaleo||RockyHelmet|FullMetalBody|morningsun,sunsteelstrike,roar,closecombat||85,85,85,85,85,85|N|||74|,,,,,Water",
+  "ai": "Swanna||HeavyDutyBoots|Hydration|roost,bravebird,hydropump,defog||85,85,85,85,85,85|M|||89|,,,,,Ground]Pyroar||HeavyDutyBoots|Unnerve|hypervoice,willowisp,fireblast,taunt||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fire]Vespiquen||HeavyDutyBoots|Pressure|roost,spikes,toxicspikes,hurricane||85,,85,85,85,85|F|,0,,,,||99|,,,,,Steel]Oranguru||ChoiceSpecs|InnerFocus|hypervoice,focusblast,psyshock,trick||85,,85,85,85,85|F|,0,,,,||92|,,,,,Normal]Lucario||LifeOrb|InnerFocus|nastyplot,flashcannon,focusblast,vacuumwave||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fighting]Zebstrika||LifeOrb|SapSipper|overheat,voltswitch,highhorsepower,supercellslam||85,85,85,85,85,85|M|||87|,,,,,Ground"
+}

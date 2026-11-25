@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-09",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,7c2bbeb679b550e93b65ad86d26990b1dbeb9796c686a8a374cfb317c11646fa",
+    "ai": "sodium,c29ae4552140ff415829cf603adab73ddb81258479c905481e7c0ac0e5b71ac2"
+  },
+  "playerSpecies": [
+    "Keldeo-Resolute",
+    "Entei",
+    "Amoonguss",
+    "Fezandipiti",
+    "Quagsire",
+    "Comfey"
+  ],
+  "player": "Keldeo|KeldeoResolute|Leftovers|Justified|surf,substitute,calmmind,secretsword||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel]Entei||ChoiceBand|InnerFocus|flareblitz,sacredfire,stoneedge,extremespeed||85,85,85,85,85,85|N|||78|,,,,,Normal]Amoonguss||RockyHelmet|Regenerator|stompingtantrum,gigadrain,spore,sludgebomb||85,85,85,85,85,85|M|||82|,,,,,Water]Fezandipiti||Leftovers|ToxicChain|terablast,gunkshot,swordsdance,playrough||85,85,85,85,85,85|M|||82|,,,,,Ground]Quagsire||Leftovers|Unaware|recover,earthquake,spikes,toxic||85,85,85,85,85,85|M|||84|,,,,,Fairy]Comfey||Leftovers|Triage|calmmind,gigadrain,storedpower,drainingkiss||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison",
+  "ai": "Basculegion||AssaultVest|Adaptability|shadowball,flipturn,aquajet,wavecrash||85,85,85,85,85,85|M|||80|,,,,,Water]Hitmonchan||LifeOrb|IronFist|machpunch,knockoff,swordsdance,drainpunch||85,85,85,85,85,85|M|||87|,,,,,Fighting]Torterra||LoadedDice|Overgrow|headlongrush,bulletseed,shellsmash,rockblast||85,85,85,85,85,85|M|||78|,,,,,Ground]Rotom|RotomFrost|HeavyDutyBoots|Levitate|willowisp,nastyplot,thunderbolt,blizzard||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric]Squawkabilly|SquawkabillyWhite|ChoiceBand|Hustle|bravebird,foulplay,quickattack,doubleedge||85,85,85,85,85,85|M|||89|,,,,,Flying]Ambipom||SilkScarf|Technician|uturn,fakeout,doubleedge,knockoff||85,85,85,85,85,85|F|||84|,,,,,Normal"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-26",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,b29d37c324a817593c121a0dad01aa9cdfa78725e1a225079a5df8c317831a0f",
+    "ai": "sodium,23b1da16ea48db42de7c876c3d74db1d99f29bd9a013126c4f2a7a2a35e16059"
+  },
+  "playerSpecies": [
+    "Chi-Yu",
+    "Overqwil",
+    "Pawmot",
+    "Abomasnow",
+    "Gogoat",
+    "Ribombee"
+  ],
+  "player": "Chi-Yu||HeavyDutyBoots|BeadsofRuin|willowisp,fireblast,nastyplot,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Overqwil||LifeOrb|Intimidate|swordsdance,crunch,gunkshot,liquidation||85,85,85,85,85,85|M|||82|,,,,,Water]Pawmot||LifeOrb|IronFist|doubleshock,closecombat,icepunch,revivalblessing||85,85,85,85,85,85|M|||80|,,,,,Electric]Abomasnow||LightClay|SnowWarning|woodhammer,blizzard,auroraveil,earthquake||77,85,85,85,85,85|F|||84|,,,,,Ghost]Gogoat||Leftovers|SapSipper|milkdrink,earthquake,bulkup,hornleech||85,85,85,85,85,85|F|||88|,,,,,Ground]Ribombee||HeavyDutyBoots|ShieldDust|bugbuzz,moonblast,stickyweb,stunspore||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost",
+  "ai": "Brute Bonnet||Leftovers|Protosynthesis|crunch,suckerpunch,closecombat,spore||85,85,85,85,85,85|N|||79|,,,,,Fighting]Vileplume||Leftovers|EffectSpore|sludgebomb,strengthsap,gigadrain,sleeppowder||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Luxray||FlameOrb|Guts|supercellslam,playrough,facade,trailblaze||81,85,85,85,85,85|F|||88|,,,,,Normal]Zangoose||ToxicOrb|ToxicBoost|swordsdance,facade,quickattack,knockoff||85,85,85,85,85,85|F|||85|,,,,,Normal]Furret||ChoiceBand|Frisk|doubleedge,knockoff,uturn,trick||85,85,85,85,85,85|M|||94|,,,,,Normal]Pachirisu||AssaultVest|VoltAbsorb|superfang,thunderbolt,uturn,nuzzle||85,85,85,85,85,85|M|||96|,,,,,Flying"
+}

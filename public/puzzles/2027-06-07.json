@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-07",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,637aa6896ec07b308710e263cb44ea1b828f1eaa2359b0923bb13d3fe442b260",
+    "ai": "sodium,af657c19231312448ae082a869adeb8c0c66ce8bf531b0abc7d447f692c0eb29"
+  },
+  "playerSpecies": [
+    "Shaymin",
+    "Mudsdale",
+    "Regieleki",
+    "Scream Tail",
+    "Coalossal",
+    "Hydrapple"
+  ],
+  "player": "Shaymin||Leftovers|NaturalCure|seedflare,earthpower,synthesis,airslash||85,,85,85,85,85|N|,0,,,,||82|,,,,,Ground]Mudsdale||Leftovers|Stamina|earthquake,stealthrock,heavyslam,roar||85,85,85,85,85,85|M|||83|,,,,,Steel]Regieleki||Magnet|Transistor|rapidspin,voltswitch,terablast,thunderbolt||85,85,85,85,85,85|N|||79|,,,,,Ice]Scream Tail||Leftovers|Protosynthesis|protect,wish,dazzlinggleam,encore||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Coalossal||HeavyDutyBoots|FlameBody|flamethrower,spikes,stoneedge,willowisp||85,85,85,85,85,85|M|||89|,,,,,Water]Hydrapple||ChoiceSpecs|Regenerator|earthpower,dracometeor,ficklebeam,leafstorm||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel",
+  "ai": "Greedent||SitrusBerry|CheekPouch|swordsdance,earthquake,knockoff,bodyslam||85,85,85,85,85,85|F|||86|,,,,,Ghost]Zamazenta||RustedShield|DauntlessShield|bodypress,heavyslam,irondefense,stoneedge||85,85,85,85,85,85|N|||68|,,,,,Ghost]Torterra||LoadedDice|Overgrow|rockblast,shellsmash,headlongrush,bulletseed||85,85,85,85,85,85|M|||78|,,,,,Water]Rotom|RotomMow|Leftovers|Levitate|willowisp,voltswitch,thunderbolt,leafstorm||85,,85,85,85,85|N|,0,,,,||87|,,,,,Grass]Seviper||ChoiceScarf|Infiltrator|flamethrower,gunkshot,gigadrain,switcheroo||85,85,85,85,85,85|F|||93|,,,,,Fire]Mightyena||ChoiceBand|Intimidate|suckerpunch,poisonfang,crunch,playrough||85,85,85,85,85,85|F|||96|,,,,,Fairy"
+}

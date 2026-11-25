@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-03",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,361c51f8f08832669a046bd46e4e222b3acd58a467f18e24f504a74756a7ea67",
+    "ai": "sodium,bfb3a73704c46f54ffb6546799b4bbb16a931222d9c585f8719d9d58b65493a3"
+  },
+  "playerSpecies": [
+    "Plusle",
+    "Pelipper",
+    "Rillaboom",
+    "Great Tusk",
+    "Zapdos",
+    "Malamar"
+  ],
+  "player": "Plusle||LifeOrb|LightningRod|thunderbolt,nastyplot,grassknot,encore||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass]Pelipper||HeavyDutyBoots|Drizzle|surf,knockoff,roost,hurricane||85,85,85,85,85,85|F|||86|,,,,,Water]Rillaboom||LifeOrb|GrassySurge|highhorsepower,woodhammer,swordsdance,grassyglide||85,85,85,85,85,85|F|||79|,,,,,Grass]Great Tusk||Leftovers|Protosynthesis|bulkup,closecombat,earthquake,stoneedge||85,85,85,85,85,85|N|||77|,,,,,Steel]Zapdos||HeavyDutyBoots|Static|hurricane,roost,discharge,heatwave||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Malamar||Leftovers|Contrary|superpower,knockoff,sleeptalk,rest||85,85,85,85,85,85|F|||82|,,,,,Poison",
+  "ai": "Salamence||HeavyDutyBoots|Moxie|earthquake,dualwingbeat,dragondance,outrage||85,85,85,85,85,85|M|||77|,,,,,Ground]Yanmega||HeavyDutyBoots|SpeedBoost|terablast,protect,airslash,bugbuzz||85,,85,85,85,85|M|,0,,,,||82|,,,,,Ground]Ninetales||HeavyDutyBoots|Drought|nastyplot,scorchingsands,solarbeam,fireblast||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fire]Jolteon||LifeOrb|VoltAbsorb|thunderbolt,alluringvoice,shadowball,calmmind||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fairy]Gallade||LifeOrb|Sharpness|psychocut,agility,sacredsword,nightslash||85,85,85,85,85,85|M|||80|,,,,,Fighting]Stonjourner||LifeOrb|PowerSpot|stoneedge,stealthrock,earthquake,heatcrash||85,85,85,85,85,85|M|||91|,,,,,Ground"
+}

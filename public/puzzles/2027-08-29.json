@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-29",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,a1691e51ca59faa656941930c354ffaf7e7fbccf6fdb394dd95f76fa61364fa6",
+    "ai": "sodium,e7fe4bb8195027f85d95d8b20b1554979f169b26bb66c1b4cbbc11711ebd8f32"
+  },
+  "playerSpecies": [
+    "Alomomola",
+    "Iron Boulder",
+    "Ceruledge",
+    "Amoonguss",
+    "Qwilfish-Hisui",
+    "Quaquaval"
+  ],
+  "player": "Alomomola||RockyHelmet|Regenerator|flipturn,protect,scald,wish||85,85,85,85,85,85|M|||87|,,,,,Poison]Iron Boulder||LifeOrb|QuarkDrive|swordsdance,zenheadbutt,closecombat,mightycleave||85,85,85,85,85,85|N|||77|,,,,,Fighting]Ceruledge||HeavyDutyBoots|WeakArmor|swordsdance,bitterblade,poltergeist,shadowsneak||85,85,85,85,85,85|M|||78|,,,,,Ghost]Amoonguss||Leftovers|Regenerator|gigadrain,sludgebomb,spore,stompingtantrum||85,85,85,85,85,85|M|||82|,,,,,Steel]Qwilfish|QwilfishHisui|Eviolite|Intimidate|crunch,toxicspikes,gunkshot,spikes||85,85,85,85,85,85|F|||83|,,,,,Poison]Quaquaval||ChoiceBand|Moxie|aquastep,uturn,closecombat,knockoff||85,85,85,85,85,85|F|||79|,,,,,Water",
+  "ai": "Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|quiverdance,revelationdance,roost,hurricane||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fighting]Vileplume||Leftovers|EffectSpore|sludgebomb,gigadrain,sleeppowder,strengthsap||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Greedent||SitrusBerry|CheekPouch|doubleedge,earthquake,knockoff,swordsdance||85,85,85,85,85,85|M|||86|,,,,,Ground]Snorlax||Leftovers|ThickFat|earthquake,crunch,bodyslam,curse||85,85,85,85,85,85|F|||82|,,,,,Poison]Flapple||LumBerry|Hustle|outrage,dragondance,gravapple,terablast||85,85,85,85,85,85|F|||88|,,,,,Fire]Greninja|GreninjaBond|LifeOrb|BattleBond|hydropump,icebeam,gunkshot,darkpulse||85,85,85,85,85,85|M|||80|,,,,,Water"
+}

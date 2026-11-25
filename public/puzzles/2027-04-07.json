@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-07",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,795588351ff03a5981bc692f0b35841429a7bdd3921291c015719a08375e3c7c",
+    "ai": "sodium,3b7b89fde3288633fbebb0c67fa79b35f1a79aa254ee7cae4621115662ae63e0"
+  },
+  "playerSpecies": [
+    "Zebstrika",
+    "Bellibolt",
+    "Hoopa",
+    "Lumineon",
+    "Iron Bundle",
+    "Rhyperior"
+  ],
+  "player": "Zebstrika||LifeOrb|SapSipper|highhorsepower,overheat,voltswitch,supercellslam||85,85,85,85,85,85|F|||87|,,,,,Ground]Bellibolt||Leftovers|Electromorphosis|slackoff,toxic,muddywater,thunderbolt||85,,85,85,85,85|F|,0,,,,||84|,,,,,Electric]Hoopa||ChoiceScarf|Magician|focusblast,shadowball,trick,psychic||85,,85,85,85,85|N|,0,,,,||85|,,,,,Fighting]Lumineon||HeavyDutyBoots|StormDrain|uturn,encore,hydropump,icebeam||85,85,85,85,85,85|M|||93|,,,,,Ground]Iron Bundle||HeavyDutyBoots|QuarkDrive|freezedry,encore,hydropump,icebeam||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water]Rhyperior||WeaknessPolicy|SolidRock|earthquake,stoneedge,megahorn,rockpolish||85,85,85,85,85,85|M|||82|,,,,,Bug",
+  "ai": "Flamigo||LifeOrb|Scrappy|swordsdance,bravebird,closecombat,throatchop||85,85,85,85,85,85|F|||82|,,,,,Fighting]Mew||LifeOrb|Synchronize|swordsdance,closecombat,leechlife,psychicfangs||85,85,85,85,85,85|N|||82|,,,,,Fighting]Hawlucha||WhiteHerb|Unburden|acrobatics,encore,swordsdance,closecombat||85,85,85,85,85,85|F|||80|,,,,,Flying]Sandaconda||Leftovers|ShedSkin|coil,stoneedge,rest,earthquake||85,85,85,85,85,85|M|||84|,,,,,Dragon]Milotic||Leftovers|Competitive|recover,scald,dragontail,icebeam||85,85,85,85,85,85|M|||83|,,,,,Steel]Indeedee||LifeOrb|PsychicSurge|dazzlinggleam,calmmind,expandingforce,hypervoice||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic"
+}

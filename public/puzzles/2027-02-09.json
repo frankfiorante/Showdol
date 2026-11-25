@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-09",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,adbfcf29e46988514ac60ff42043d0dd92f3ff9437290b133094de48fd32a4ba",
+    "ai": "sodium,ac4fcb7a3bc0c97d56807af42a1726df411e60e85374be791f927fc27d4b72f7"
+  },
+  "playerSpecies": [
+    "Suicune",
+    "Stonjourner",
+    "Noivern",
+    "Slowking-Galar",
+    "Haxorus",
+    "Girafarig"
+  ],
+  "player": "Suicune||Leftovers|Pressure|calmmind,substitute,icebeam,scald||85,,85,85,85,85|N|,0,,,,||82|,,,,,Dragon]Stonjourner||LifeOrb|PowerSpot|earthquake,stoneedge,stealthrock,heatcrash||85,85,85,85,85,85|M|||91|,,,,,Fire]Noivern||HeavyDutyBoots|Infiltrator|dracometeor,hurricane,flamethrower,roost||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fire]Slowking|SlowkingGalar|AssaultVest|Regenerator|surf,psychicnoise,futuresight,sludgebomb||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fairy]Haxorus||LumBerry|MoldBreaker|earthquake,outrage,dragondance,ironhead||85,85,85,85,85,85|M|||78|,,,,,Steel]Girafarig||Eviolite|SapSipper|psyshock,hypervoice,thunderbolt,nastyplot||85,,85,85,85,85|M|,0,,,,||89|,,,,,Electric",
+  "ai": "Magearna||ChoiceScarf|SoulHeart|fleurcannon,flashcannon,voltswitch,aurasphere||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Ambipom||ChoiceBand|Technician|lowkick,doubleedge,knockoff,tripleaxel||85,85,85,85,85,85|M|||84|,,,,,Ice]Shaymin|ShayminSky|HeavyDutyBoots|SereneGrace|airslash,seedflare,earthpower,synthesis||85,,85,85,85,85|N|,0,,,,||73|,,,,,Water]Seviper||Leftovers|ShedSkin|gunkshot,trailblaze,swordsdance,earthquake||85,85,85,85,85,85|F|||93|,,,,,Grass]Fezandipiti||Leftovers|ToxicChain|gunkshot,playrough,swordsdance,terablast||85,85,85,85,85,85|M|||82|,,,,,Ground]Falinks||LifeOrb|Defiant|knockoff,ironhead,closecombat,noretreat||85,85,85,85,85,85|N|||84|,,,,,Steel"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-12",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,86f87947fb856a2b8a2baccbe3c60514e7daed4be4452db9534f73a0527f203b",
+    "ai": "sodium,9554623d3b80753b23b69d5cbd54e751fedac68ec551a70c8dc9c694d95e5a72"
+  },
+  "playerSpecies": [
+    "Swanna",
+    "Ogerpon-Hearthflame",
+    "Brute Bonnet",
+    "Magcargo",
+    "Skuntank",
+    "Annihilape"
+  ],
+  "player": "Swanna||HeavyDutyBoots|Hydration|bravebird,defog,hydropump,roost||85,85,85,85,85,85|M|||89|,,,,,Ground]Ogerpon|OgerponHearthflame|HearthflameMask|MoldBreaker|swordsdance,hornleech,knockoff,ivycudgel||77,85,85,85,85,85|F|||74|,,,,,Fire]Brute Bonnet||Leftovers|Protosynthesis|crunch,suckerpunch,spore,seedbomb||85,85,85,85,85,85|N|||79|,,,,,Poison]Magcargo||HeavyDutyBoots|WeakArmor|powergem,shellsmash,fireblast,earthpower||85,,85,85,85,85|F|,0,,,,||95|,,,,,Dragon]Skuntank||LifeOrb|Aftermath|gunkshot,knockoff,toxicspikes,fireblast||85,85,85,85,85,85|F|||84|,,,,,Poison]Annihilape||Leftovers|Defiant|drainpunch,taunt,ragefist,bulkup||85,85,85,85,85,85|F|||76|,,,,,Steel",
+  "ai": "Trevenant||SitrusBerry|Harvest|drainpunch,poltergeist,protect,toxic||85,85,85,85,85,85|M|||89|,,,,,Dark]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|grassknot,focusblast,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Florges|FlorgesWhite|Leftovers|FlowerVeil|calmmind,moonblast,wish,protect||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Espeon||LifeOrb|MagicBounce|alluringvoice,psychic,shadowball,calmmind||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Sceptile||LifeOrb|Overgrow|rockslide,gigadrain,earthquake,focusblast||85,85,85,85,85,85|F|||87|,,,,,Grass]Ariados||HeavyDutyBoots|Swarm|megahorn,poisonjab,stickyweb,toxicspikes||85,85,85,85,85,85|M|||95|,,,,,Ghost"
+}

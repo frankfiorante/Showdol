@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-30",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,0efb02c2dacd2785cd91fc59bebe73fb7329619aa1802fd89b52fcb4c3195a5b",
+    "ai": "sodium,d7901a61c61bb739320ad1720c6185db2997365125a2947fec0df92fd29a14fc"
+  },
+  "playerSpecies": [
+    "Grafaiai",
+    "Volbeat",
+    "Cinccino",
+    "Frosmoth",
+    "Regidrago",
+    "Torterra"
+  ],
+  "player": "Grafaiai||LifeOrb|PoisonTouch|lowkick,knockoff,gunkshot,swordsdance||85,85,85,85,85,85|M|||86|,,,,,Dark]Volbeat||HeavyDutyBoots|Prankster|encore,roost,lunge,thunderwave||85,85,85,85,85,85|M|||90|,,,,,Water]Cinccino||LoadedDice|Technician|tailslap,bulletseed,tripleaxel,uturn||85,85,85,85,85,85|F|||83|,,,,,Ice]Frosmoth||HeavyDutyBoots|IceScales|icebeam,quiverdance,gigadrain,bugbuzz||85,,85,85,85,85|F|,0,,,,||82|,,,,,Water]Regidrago||ChoiceScarf|DragonsMaw|earthquake,dragonenergy,dracometeor,outrage||85,85,85,85,85,85|N|||77|,,,,,Dragon]Torterra||LoadedDice|Overgrow|headlongrush,shellsmash,rockblast,bulletseed||85,85,85,85,85,85|F|||78|,,,,,Ground",
+  "ai": "Dachsbun||Leftovers|WellBakedBody|wish,protect,bodypress,playrough||85,85,85,85,85,85|F|||92|,,,,,Steel]Tatsugiri||HeavyDutyBoots|StormDrain|nastyplot,rapidspin,hydropump,dracometeor||85,85,85,85,85,85|F|||87|,,,,,Steel]Lanturn||HeavyDutyBoots|VoltAbsorb|scald,thunderwave,thunderbolt,voltswitch||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Sudowoodo||Leftovers|RockHead|headsmash,stealthrock,woodhammer,earthquake||85,85,85,85,85,85|M|||94|,,,,,Rock]Cyclizar||HeavyDutyBoots|Regenerator|shedtail,knockoff,dracometeor,taunt||85,85,85,85,85,85|M|||84|,,,,,Ghost]Skarmory||Leftovers|Sturdy|whirlwind,spikes,bravebird,roost||85,85,85,85,85,85|F|||80|,,,,,Dragon"
+}

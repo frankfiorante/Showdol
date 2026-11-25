@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-05",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,230a067249934597f8cc34af81aa553fc6b3c9b9543df45d24544fcee8f801cd",
+    "ai": "sodium,fcdebf7359ac2e915f4ea5d658fd91f1c921089066903d817d4e3aa18a44b5b6"
+  },
+  "playerSpecies": [
+    "Dudunsparce-Three-Segment",
+    "Phione",
+    "Diancie",
+    "Arceus-Rock",
+    "Perrserker",
+    "Chesnaught"
+  ],
+  "player": "Dudunsparce|DudunsparceThreeSegment|Leftovers|Rattled|earthquake,roost,toxic,boomburst||85,85,85,85,85,85|M|||83|,,,,,Ghost]Phione||Leftovers|Hydration|grassknot,takeheart,icebeam,scald||85,,85,85,85,85|N|,0,,,,||91|,,,,,Steel]Diancie||Leftovers|ClearBody|calmmind,diamondstorm,earthpower,drainingkiss||85,85,85,85,85,85|N|||82|,,,,,Water]Arceus|ArceusRock|StonePlate|Multitype|swordsdance,stoneedge,recover,earthquake||85,85,85,85,85,85|N|||74|,,,,,Ground]Perrserker||LifeOrb|ToughClaws|closecombat,uturn,ironhead,stealthrock||85,85,85,85,85,85|F|||89|,,,,,Fighting]Chesnaught||Leftovers|Bulletproof|trailblaze,bodypress,irondefense,synthesis||85,85,85,85,85,85|F|||84|,,,,,Steel",
+  "ai": "Forretress||Leftovers|Sturdy|stealthrock,ironhead,rapidspin,voltswitch||85,85,85,85,85,85|F|||84|,,,,,Water]Talonflame||HeavyDutyBoots|GaleWings|swordsdance,bravebird,terablast,flareblitz||85,85,85,85,85,85|M|||83|,,,,,Ground]Falinks||LifeOrb|Defiant|ironhead,noretreat,knockoff,closecombat||85,85,85,85,85,85|N|||84|,,,,,Steel]Torkoal||HeavyDutyBoots|Drought|yawn,earthquake,lavaplume,solarbeam||85,85,85,85,85,85|F|||88|,,,,,Grass]Pecharunt||Leftovers|PoisonPuppeteer|shadowball,malignantchain,recover,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Gogoat||Leftovers|SapSipper|bulkup,milkdrink,earthquake,hornleech||85,85,85,85,85,85|F|||88|,,,,,Water"
+}

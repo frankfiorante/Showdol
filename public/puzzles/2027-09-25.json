@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-25",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,ac4e9766fba6d961ee07b0557a69bdb872ca272b3f6f099371173e099eaba40d",
+    "ai": "sodium,93401529364e8a4d16b5e9d76b67f1a47d289011d1b76a95a49e6bc2ebba6f5c"
+  },
+  "playerSpecies": [
+    "Manaphy",
+    "Bastiodon",
+    "Tsareena",
+    "Zoroark-Hisui",
+    "Urshifu",
+    "Iron Valiant"
+  ],
+  "player": "Manaphy||Leftovers|Hydration|surf,energyball,icebeam,tailglow||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Bastiodon||ChestoBerry|Soundproof|irondefense,bodypress,foulplay,rest||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Tsareena||AssaultVest|QueenlyMajesty|highjumpkick,tripleaxel,rapidspin,powerwhip||85,85,85,85,85,85|F|||87|,,,,,Fighting]Zoroark|ZoroarkHisui|ChoiceSpecs|Illusion|hypervoice,trick,bittermalice,focusblast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Normal]Urshifu||LifeOrb|UnseenFist|swordsdance,poisonjab,closecombat,wickedblow||85,85,85,85,85,85|F|||74|,,,,,Poison]Iron Valiant||LifeOrb|QuarkDrive|closecombat,moonblast,knockoff,encore||85,85,85,85,85,85|N|||78|,,,,,Steel",
+  "ai": "Jumpluff|||Infiltrator|leechseed,acrobatics,substitute,strengthsap||81,85,85,85,85,85|F|||87|,,,,,Steel]Cetitan||SitrusBerry|ThickFat|icespinner,earthquake,iceshard,bellydrum||81,85,85,85,85,85|F|||82|,,,,,Ice]Girafarig||Eviolite|SapSipper|hypervoice,thunderbolt,nastyplot,psyshock||85,,85,85,85,85|M|,0,,,,||89|,,,,,Electric]Spidops||HeavyDutyBoots|Stakeout|stickyweb,uturn,knockoff,spikes||85,85,85,85,85,85|F|||96|,,,,,Ghost]Banette||LifeOrb|Insomnia|gunkshot,shadowsneak,poltergeist,swordsdance||85,85,85,85,85,85|M|||93|,,,,,Poison]Mew||LifeOrb|Synchronize|knockoff,swordsdance,psychicfangs,closecombat||85,85,85,85,85,85|N|||82|,,,,,Fighting"
+}

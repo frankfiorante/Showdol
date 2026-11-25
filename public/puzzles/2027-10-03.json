@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-03",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,cd8bd7852fdae912ccd7bb29b9af8705f882b1d812b349a139fa925ddb31bb52",
+    "ai": "sodium,2e2d73ef5f9d917130d4d01d6314df23f894aadbc5ba6add0fc1643d65507553"
+  },
+  "playerSpecies": [
+    "Hoopa-Unbound",
+    "Espeon",
+    "Arceus-Fairy",
+    "Toxtricity",
+    "Klefki",
+    "Floatzel"
+  ],
+  "player": "Hoopa|HoopaUnbound|ChoiceScarf|Magician|focusblast,hyperspacefury,psychic,trick||85,85,85,85,85,85|N|||80|,,,,,Fighting]Espeon||LifeOrb|MagicBounce|psychic,alluringvoice,morningsun,calmmind||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Arceus|ArceusFairy|PixiePlate|Multitype|calmmind,judgment,earthpower,recover||85,,85,85,85,85|N|,0,,,,||69|,,,,,Ground]Toxtricity||ChoiceSpecs|PunkRock|overdrive,boomburst,voltswitch,sludgewave||85,,85,85,85,85|M|,0,,,,||82|,,,,,Normal]Klefki||Leftovers|Prankster|thunderwave,magnetrise,playrough,spikes||85,85,85,85,85,85|M|||84|,,,,,Water]Floatzel||Leftovers|WaterVeil|icespinner,wavecrash,bulkup,taunt||85,85,85,85,85,85|M|||86|,,,,,Steel",
+  "ai": "Chimecho||Leftovers|Levitate|thunderwave,recover,knockoff,psychicnoise||85,85,85,85,85,85|M|||93|,,,,,Electric]Hariyama||AssaultVest|ThickFat|heavyslam,headlongrush,knockoff,closecombat||85,85,85,85,85,85|F|||87|,,,,,Steel]Hatterene||AssaultVest|MagicBounce|psychicnoise,mysticalfire,drainingkiss,nuzzle||85,85,85,85,85,85|F|||85|,,,,,Steel]Azumarill||SitrusBerry|HugePower|playrough,bellydrum,liquidation,aquajet||85,85,85,85,85,85|M|||82|,,,,,Water]Rhydon||Eviolite|LightningRod|earthquake,swordsdance,stoneedge,megahorn||85,85,85,85,85,85|F|||85|,,,,,Grass]Flapple||WideLens|Hustle|suckerpunch,gravapple,outrage,dragondance||85,85,85,85,85,85|M|||88|,,,,,Steel"
+}

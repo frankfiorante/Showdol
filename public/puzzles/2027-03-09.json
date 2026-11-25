@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-09",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,fdabbe37abf41d633bf90a9161181017a506dfe6d385e2a28d03e888a70c6402",
+    "ai": "sodium,478fe163af4669623aaa3b8267c5cd1dbbeff13a6148753f9cfd4d9ed366f920"
+  },
+  "playerSpecies": [
+    "Abomasnow",
+    "Mamoswine",
+    "Venomoth",
+    "Crawdaunt",
+    "Hitmonlee",
+    "Dragalge"
+  ],
+  "player": "Abomasnow||LightClay|SnowWarning|earthquake,blizzard,iceshard,auroraveil||77,85,85,85,85,85|F|||84|,,,,,Water]Mamoswine||ChoiceBand|ThickFat|iciclecrash,knockoff,iceshard,earthquake||85,85,85,85,85,85|F|||81|,,,,,Ice]Venomoth||HeavyDutyBoots|TintedLens|quiverdance,sludgewave,sleeppowder,bugbuzz||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Crawdaunt||LifeOrb|Adaptability|crabhammer,dragondance,knockoff,closecombat||85,85,85,85,85,85|F|||84|,,,,,Fighting]Hitmonlee||ChoiceBand|Reckless|knockoff,highjumpkick,machpunch,poisonjab||81,85,85,85,85,85|M|||85|,,,,,Fighting]Dragalge||ChoiceSpecs|Adaptability|flipturn,dracometeor,sludgewave,focusblast||85,85,85,85,85,85|M|||88|,,,,,Fighting",
+  "ai": "Dodrio||HeavyDutyBoots|EarlyBird|drillrun,swordsdance,knockoff,bravebird||85,85,85,85,85,85|F|||85|,,,,,Ground]Dondozo||Leftovers|Unaware|curse,sleeptalk,rest,wavecrash||85,85,85,85,85,85|M|||78|,,,,,Dragon]Sneasler||ChoiceBand|PoisonTouch|closecombat,throatchop,uturn,direclaw||85,85,85,85,85,85|F|||74|,,,,,Dark]Glastrier||HeavyDutyBoots|ChillingNeigh|iciclecrash,closecombat,swordsdance,heavyslam||85,85,85,85,85,85|N|||86|,,,,,Fighting]Enamorus||Leftovers|CuteCharm|moonblast,calmmind,earthpower,substitute||85,,85,85,85,85|F|,0,,,,||79|,,,,,Ground]Carbink||ChestoBerry|Sturdy|moonblast,bodypress,irondefense,rest||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting"
+}

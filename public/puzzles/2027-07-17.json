@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-17",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,27927e99350c49644549cff665dba8d1dd313f61d50aac4a8d448526ae7e0b6e",
+    "ai": "sodium,4e4dbf6c9b8f6c9a4bd272e7579c8583e1a729e33edec601c89071dbf2c24851"
+  },
+  "playerSpecies": [
+    "Lycanroc",
+    "Flamigo",
+    "Hippowdon",
+    "Wigglytuff",
+    "Sudowoodo",
+    "Klefki"
+  ],
+  "player": "Lycanroc||ChoiceBand|SandRush|psychicfangs,stoneedge,closecombat,accelerock||85,85,85,85,85,85|F|||86|,,,,,Fighting]Flamigo||LifeOrb|Scrappy|closecombat,swordsdance,bravebird,throatchop||85,85,85,85,85,85|F|||82|,,,,,Fighting]Hippowdon||Leftovers|SandStream|slackoff,stoneedge,curse,earthquake||85,85,85,85,85,85|F|||82|,,,,,Steel]Wigglytuff||Leftovers|Competitive|alluringvoice,thunderwave,fireblast,knockoff||85,85,85,85,85,85|M|||96|,,,,,Steel]Sudowoodo||Leftovers|RockHead|stealthrock,headsmash,suckerpunch,earthquake||85,85,85,85,85,85|M|||94|,,,,,Rock]Klefki||Leftovers|Prankster|dazzlinggleam,foulplay,spikes,thunderwave||85,,85,85,85,85|M|,0,,,,||84|,,,,,Flying",
+  "ai": "Orthworm||Leftovers|EarthEater|bodypress,heavyslam,shedtail,stealthrock||85,85,85,85,85,85|F|||88|,,,,,Electric]Darkrai||LifeOrb|BadDreams|nastyplot,darkpulse,sludgebomb,hypnosis||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison]Glimmora||AirBalloon|ToxicDebris|sludgewave,powergem,spikes,earthpower||85,,85,85,85,85|M|,0,,,,||75|,,,,,Ground]Venomoth||HeavyDutyBoots|TintedLens|sleeppowder,quiverdance,bugbuzz,sludgewave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Bug]Houndoom||HeavyDutyBoots|FlashFire|darkpulse,sludgebomb,fireblast,suckerpunch||85,85,85,85,85,85|M|||87|,,,,,Poison]Basculegion||AssaultVest|Adaptability|flipturn,wavecrash,aquajet,shadowball||85,85,85,85,85,85|M|||80|,,,,,Water"
+}

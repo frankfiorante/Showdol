@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-03",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,352f6e1c13a3b66d377d3ae895c4ab605a92ffe119d048e641653a5824529f5b",
+    "ai": "sodium,7b483118bde087bb41535fbd4a5f7c0459cfa4f1e5036f97cfb8ef00c156a189"
+  },
+  "playerSpecies": [
+    "Squawkabilly-Yellow",
+    "Torterra",
+    "Toxapex",
+    "Raging Bolt",
+    "Crabominable",
+    "Chimecho"
+  ],
+  "player": "Squawkabilly|SquawkabillyYellow|HeavyDutyBoots|Hustle|partingshot,quickattack,doubleedge,bravebird||85,85,85,85,85,85|F|||89|,,,,,Flying]Torterra||LoadedDice|Overgrow|rockblast,shellsmash,bulletseed,headlongrush||85,85,85,85,85,85|M|||78|,,,,,Rock]Toxapex||RockyHelmet|Regenerator|toxicspikes,recover,liquidation,haze||85,85,85,85,85,85|M|||82|,,,,,Grass]Raging Bolt||BoosterEnergy|Protosynthesis|dragonpulse,thunderclap,calmmind,thunderbolt||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Crabominable||AssaultVest|IronFist|icehammer,drainpunch,knockoff,earthquake||85,85,85,85,85,85|F|||90|,,,,,Fighting]Chimecho||Leftovers|Levitate|psychicnoise,recover,calmmind,dazzlinggleam||85,,85,85,85,85|M|,0,,,,||93|,,,,,Electric",
+  "ai": "Sinistcha||Leftovers|Heatproof|strengthsap,calmmind,matchagotcha,shadowball||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Bronzong||Leftovers|Levitate|psychicnoise,irondefense,bodypress,ironhead||85,85,85,85,85,85|N|||88|,,,,,Fighting]Dragonite||HeavyDutyBoots|Multiscale|dragondance,earthquake,outrage,terablast||85,85,85,85,85,85|M|||74|,,,,,Flying]Regieleki||Magnet|Transistor|explosion,thunderbolt,rapidspin,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Electric]Dondozo||Leftovers|Unaware|rest,curse,wavecrash,sleeptalk||85,85,85,85,85,85|F|||78|,,,,,Fairy]Iron Valiant||LifeOrb|QuarkDrive|moonblast,closecombat,calmmind,psychic||85,85,85,85,85,85|N|||78|,,,,,Fairy"
+}

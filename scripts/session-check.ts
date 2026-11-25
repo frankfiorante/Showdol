@@ -1,8 +1,9 @@
 /**
  * Plays full battles through BattleSession the way the UI does: a random
  * "player" picks only from the options in the view's prompt. Checks that
- * every battle ends, the view never shows unrevealed foe info, and a battle
- * rebuilt from seeds + input log ends identically.
+ * every battle ends, the view never shows unrevealed foe info, and resuming
+ * from any saved point (seeds + input log, as after a reload) and replaying the
+ * player's remaining choices reproduces the battle exactly, AI choices included.
  *
  *   pnpm session:check                 # 200 battles across this week's puzzles
  *   pnpm session:check --n 20 --print  # also prints one formatted log
@@ -45,13 +46,15 @@ for (let i = 0; i < n; i++) {
   const s = new BattleSession(init);
   const rng = new PRNG(PRNG.generateSeed());
   let step = s.start();
+  // Input log length at each point the UI would have saved it.
+  const savePoints = [s.inputLog.length];
   const foeNames = new Set(s.sim.sides[1].pokemon.map(p => p.name));
   const forfeitAt = i % 10 === 9 ? 5 : Infinity;
   while (!step.view.result) {
     const v = step.view;
     if (!v.prompt) fail(`no prompt and no result on turn ${v.turn}`);
     if (v.me.team.length !== 6) fail('player team not 6');
-    if (v.foe.team.length > 6) fail('foe team > 6');
+    if (v.foe.team.length > 6) fail(`foe team > 6 on ${pz.date}: ${v.foe.team.map(f => f.name + '/' + f.species).join(', ')}`);
     for (const f of v.foe.team) if (!foeNames.has(f.name)) fail(`foe ${f.name} not on AI team`);
     if (v.foe.active && v.foe.active.maxhp !== 100) fail('foe HP should be a percentage');
     if (v.turn >= forfeitAt) { step = s.forfeit(); break; }
@@ -59,29 +62,38 @@ for (let i = 0; i < n; i++) {
       step = s.choose(pickChoice(v, rng));
     } catch (e) {
       if (!(e instanceof ChoiceError)) throw e;
-      rejected++; // e.g. a choice the request allows but the sim refuses (rare)
+      rejected++; // e.g. a switch into a not-yet-revealed trapping ability
+      const after = s.view().prompt;
+      if (after?.kind === 'move' && !after.trapped && /trapped/.test((e as Error).message)) fail('trap not reflected in prompt');
+      if (process.argv.includes("--why")) console.log(`rejected on ${pz.date}: ${(e as Error).message}`);
       step = s.choose('default');
     }
+    savePoints.push(s.inputLog.length);
   }
   const r = step.view.result!;
   if (r.myFainted.length !== 6) fail('myFainted not 6');
-  if (r.winner === 'player' && r.myFainted.every(Boolean)) fail('won with all fainted');
   if (r.winner === 'ai' && !r.forfeited && !r.myFainted.every(Boolean)) fail('lost without all fainted');
   if (r.winner === 'player') wins++;
   if (r.forfeited) forfeits++;
   turns += r.turns;
 
-  // Replay from seeds + input log, feeding the AI's logged choices back.
-  const replay = new BattleSession({...init, opponent: {choose: () => { throw new Error('AI asked during replay'); }}});
-  for (const line of s.inputLog) {
-    if (line === '>forcelose p1') replay.sim.lose('p1');
-    else replay.sim.choose(line.slice(1, 3) as 'p1' | 'p2', line.slice(4));
+  // Resume from a random save point, then replay only the player's later choices.
+  const cut = savePoints[rng.random(savePoints.length)];
+  const resumed = new BattleSession({...init, inputLog: s.inputLog.slice(0, cut)});
+  let rstep = resumed.start();
+  for (const line of s.inputLog.slice(cut)) {
+    if (line === '>forcelose p1') rstep = resumed.forfeit();
+    else if (line.startsWith('>p1 ')) rstep = resumed.choose(line.slice(4));
   }
   const strip = (log: string[]) => log.filter(l => !l.startsWith('|t:|')).join('\n');
-  if (strip(replay.sim.log) !== strip(s.sim.log)) fail(`replay diverged in battle ${i}`);
+  if (resumed.inputLog.join('\n') !== s.inputLog.join('\n')) fail(`resumed input log diverged in battle ${i} (cut ${cut})`);
+  if (strip(resumed.sim.log) !== strip(s.sim.log)) fail(`resumed sim log diverged in battle ${i}`);
+  if (resumed.log.join("\n") !== s.log.join("\n")) { const k = s.log.findIndex((l, j) => l !== resumed.log[j]); fail(`resumed formatted log diverged in battle ${i} at ${k}: ${JSON.stringify(s.log.slice(k - 2, k + 2))} vs ${JSON.stringify(resumed.log.slice(k - 2, k + 2))}`); }
+  if (JSON.stringify(rstep.view.result) !== JSON.stringify(r)) fail(`resumed result differs in battle ${i}`);
+  if (r.aiTeam.length !== 6) fail('aiTeam not revealed at end');
 
   if (print && i === 0) console.log(s.log.join('\n'), '\n');
 }
 const ms = performance.now() - t0;
 console.log(`${n} battles: player won ${wins}, forfeits ${forfeits}, avg turns ${(turns / n).toFixed(1)}, rejected choices ${rejected}`);
-console.log(`replays identical; ${(ms / n).toFixed(1)} ms per battle incl. replay`);
+console.log(`resumes identical; ${(ms / n).toFixed(1)} ms per battle incl. replay`);

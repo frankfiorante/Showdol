@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-17",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,60f45e9d819df725f8454cce551f96cd1b5620afc9805ff98273e08e9d4db11f",
+    "ai": "sodium,69f4ae7619a682ca003ebda87465f2578ed5616e38f10bc391ee637863c34efa"
+  },
+  "playerSpecies": [
+    "Mudsdale",
+    "Slither Wing",
+    "Mamoswine",
+    "Vigoroth",
+    "Cinderace",
+    "Falinks"
+  ],
+  "player": "Mudsdale||Leftovers|Stamina|stealthrock,stoneedge,earthquake,heavyslam||85,85,85,85,85,85|M|||83|,,,,,Steel]Slither Wing||ChoiceScarf|Protosynthesis|closecombat,uturn,flareblitz,earthquake||85,85,85,85,85,85|N|||81|,,,,,Fire]Mamoswine||ChoiceBand|ThickFat|earthquake,knockoff,iceshard,iciclecrash||85,85,85,85,85,85|F|||81|,,,,,Ground]Vigoroth||Eviolite|VitalSpirit|bodyslam,earthquake,slackoff,bulkup||85,85,85,85,85,85|M|||85|,,,,,Ground]Cinderace||HeavyDutyBoots|Libero|pyroball,courtchange,willowisp,uturn||85,85,85,85,85,85|F|||77|,,,,,Grass]Falinks||LifeOrb|Defiant|ironhead,closecombat,knockoff,noretreat||85,85,85,85,85,85|N|||84|,,,,,Steel",
+  "ai": "Alomomola||RockyHelmet|Regenerator|wish,protect,flipturn,scald||85,85,85,85,85,85|M|||87|,,,,,Poison]Jirachi||ChoiceScarf|SereneGrace|ironhead,healingwish,uturn,psychic||85,85,85,85,85,85|N|||80|,,,,,Water]Maushold||WideLens|Technician|bite,encore,populationbomb,tidyup||85,85,85,85,85,85|N|||76|,,,,,Normal]Oricorio||HeavyDutyBoots|Dancer|roost,revelationdance,hurricane,quiverdance||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ground]Enamorus||HeavyDutyBoots|Contrary|zenheadbutt,playrough,taunt,superpower||85,85,85,85,85,85|F|||79|,,,,,Fighting]Clefable||LifeOrb|MagicGuard|moonblast,fireblast,moonlight,calmmind||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire"
+}

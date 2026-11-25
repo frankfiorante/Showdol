@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-27",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,adaa8cfed1a5391bb3a5b58c21ac99f851cca16877d16ee0f59bf41598b57066",
+    "ai": "sodium,309e2b84ff8b2481b24f2351a12c6ef5b6dcb7bdca385802006bc92529f84950"
+  },
+  "playerSpecies": [
+    "Crabominable",
+    "Giratina",
+    "Venomoth",
+    "Grafaiai",
+    "Gholdengo",
+    "Sandaconda"
+  ],
+  "player": "Crabominable||ChoiceBand|IronFist|closecombat,knockoff,earthquake,icehammer||85,85,85,85,85,85|F|||90|,,,,,Fighting]Giratina||Leftovers|Pressure|sleeptalk,dragonpulse,calmmind,rest||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fairy]Venomoth||HeavyDutyBoots|TintedLens|quiverdance,sleeppowder,bugbuzz,sludgewave||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Grafaiai||HeavyDutyBoots|Prankster|partingshot,knockoff,gunkshot,encore||85,85,85,85,85,85|M|||86|,,,,,Dark]Gholdengo||Leftovers|GoodasGold|makeitrain,shadowball,thunderwave,recover||85,,85,85,85,85|N|,0,,,,||77|,,,,,Steel]Sandaconda||Leftovers|ShedSkin|stoneedge,rest,glare,earthquake||85,85,85,85,85,85|F|||84|,,,,,Dragon",
+  "ai": "Shiftry||HeavyDutyBoots|WindRider|knockoff,leafstorm,defog,suckerpunch||85,85,85,85,85,85|F|||89|,,,,,Poison]Hitmonchan||LifeOrb|IronFist|icepunch,drainpunch,knockoff,swordsdance||85,85,85,85,85,85|M|||87|,,,,,Dark]Illumise||HeavyDutyBoots|Prankster|roost,encore,bugbuzz,thunderwave||85,,85,85,85,85|F|,0,,,,||91|,,,,,Water]Piloswine||Eviolite|ThickFat|stealthrock,earthquake,iciclecrash,roar||85,85,85,85,85,85|F|||85|,,,,,Dragon]Fezandipiti||Leftovers|ToxicChain|gunkshot,terablast,playrough,swordsdance||85,85,85,85,85,85|M|||82|,,,,,Ground]Magcargo||HeavyDutyBoots|FlameBody|yawn,powergem,lavaplume,recover||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-11",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,b0f2b58e8a723ceedbcc826d699623825ecc5ac38173d37fefa6520a56ad7860",
+    "ai": "sodium,3ee502e7290bc697381623b54ce73e04f24d44c2c200024fb0ae3ba3e8b803a0"
+  },
+  "playerSpecies": [
+    "Exeggutor",
+    "Ting-Lu",
+    "Cinderace",
+    "Glimmora",
+    "Eiscue",
+    "Alcremie-Mint-Cream"
+  ],
+  "player": "Exeggutor||SitrusBerry|Harvest|substitute,calmmind,psychic,gigadrain||77,,85,85,85,85|F|,0,,,,||89|,,,,,Steel]Ting-Lu||Leftovers|VesselofRuin|spikes,earthquake,throatchop,stealthrock||85,85,85,85,85,85|N|||78|,,,,,Ghost]Cinderace||ChoiceBand|Libero|highjumpkick,pyroball,gunkshot,uturn||81,85,85,85,85,85|F|||77|,,,,,Fighting]Glimmora||PowerHerb|ToxicDebris|meteorbeam,sludgewave,earthpower,energyball||85,,85,85,85,85|M|,0,,,,||75|,,,,,Grass]Eiscue||SitrusBerry|IceFace|bellydrum,terablast,icespinner,liquidation||81,85,85,85,85,85|F|||88|,,,,,Ground]Alcremie|AlcremieMintCream|Leftovers|AromaVeil|alluringvoice,psyshock,calmmind,recover||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel",
+  "ai": "Squawkabilly|SquawkabillyYellow|ChoiceBand|Hustle|foulplay,doubleedge,quickattack,bravebird||85,85,85,85,85,85|M|||89|,,,,,Normal]Vivillon|VivillonRiver|HeavyDutyBoots|CompoundEyes|hurricane,terablast,sleeppowder,quiverdance||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground]Iron Valiant||LifeOrb|QuarkDrive|knockoff,closecombat,spiritbreak,swordsdance||85,85,85,85,85,85|N|||78|,,,,,Fighting]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Steel]Crawdaunt||LifeOrb|Adaptability|knockoff,crabhammer,dragondance,aquajet||85,85,85,85,85,85|M|||84|,,,,,Water]Sandaconda||Leftovers|ShedSkin|earthquake,rest,coil,stoneedge||85,85,85,85,85,85|M|||84|,,,,,Dragon"
+}

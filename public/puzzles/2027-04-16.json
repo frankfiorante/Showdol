@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-16",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,539a67dddfda4cee1a78c523b5a2e850703f40bfaeceaf388e72daa3095b7a9c",
+    "ai": "sodium,f22e9e68ac193634c8d3d0ec6f619cfa24be48905458a2564df2dcc57a0a4082"
+  },
+  "playerSpecies": [
+    "Indeedee",
+    "Tatsugiri",
+    "Jumpluff",
+    "Hoopa",
+    "Zekrom",
+    "Lycanroc"
+  ],
+  "player": "Indeedee||LifeOrb|PsychicSurge|expandingforce,calmmind,hypervoice,shadowball||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,hydropump,rapidspin,nastyplot||85,85,85,85,85,85|F|||87|,,,,,Steel]Jumpluff|||Infiltrator|sleeppowder,uturn,strengthsap,acrobatics||81,85,85,85,85,85|F|||87|,,,,,Steel]Hoopa||LifeOrb|Magician|nastyplot,psychic,focusblast,shadowball||85,,85,85,85,85|N|,0,,,,||85|,,,,,Ghost]Zekrom||Leftovers|Teravolt|outrage,boltstrike,dragondance,substitute||85,85,85,85,85,85|N|||71|,,,,,Fairy]Lycanroc||LifeOrb|SandRush|swordsdance,accelerock,closecombat,stoneedge||85,85,85,85,85,85|F|||86|,,,,,Fighting",
+  "ai": "Bombirdier||ChoiceBand|RockyPayload|bravebird,knockoff,stoneedge,suckerpunch||85,85,85,85,85,85|M|||85|,,,,,Rock]Sandy Shocks||Leftovers|Protosynthesis|spikes,thunderbolt,thunderwave,earthpower||85,,85,85,85,85|N|,0,,,,||80|,,,,,Electric]Great Tusk||AssaultVest|Protosynthesis|rapidspin,headlongrush,stoneedge,closecombat||85,85,85,85,85,85|N|||77|,,,,,Ground]Politoed||ChoiceSpecs|Drizzle|weatherball,focusblast,icebeam,hydropump||85,,85,85,85,85|M|,0,,,,||88|,,,,,Water]Plusle||LifeOrb|LightningRod|alluringvoice,thunderbolt,grassknot,nastyplot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Fairy]Reshiram||HeavyDutyBoots|Turboblaze|dracometeor,willowisp,earthpower,blueflare||85,,85,85,85,85|N|,0,,,,||76|,,,,,Fire"
+}

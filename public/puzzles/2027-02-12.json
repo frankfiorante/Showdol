@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-12",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,8d0c1317b6b9b528c8540afc3a05840af1a49078047ed3eb6c23b8a4d31f0f42",
+    "ai": "sodium,d1042917341d0cd34e70db51d3fc6a5b71d82e1523f2ce88e7fbabe3400ae2c0"
+  },
+  "playerSpecies": [
+    "Gholdengo",
+    "Leavanny",
+    "Dragapult",
+    "Carbink",
+    "Passimian",
+    "Crabominable"
+  ],
+  "player": "Gholdengo||Leftovers|GoodasGold|shadowball,focusblast,makeitrain,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fighting]Leavanny||HeavyDutyBoots|Swarm|knockoff,stickyweb,lunge,leafblade||85,85,85,85,85,85|F|||86|,,,,,Rock]Dragapult||LifeOrb|ClearBody|fireblast,dragondance,dragondarts,terablast||85,85,85,85,85,85|M|||77|,,,,,Ghost]Carbink||ChestoBerry|Sturdy|irondefense,bodypress,moonblast,rest||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Passimian||ChoiceScarf|Defiant|closecombat,earthquake,uturn,knockoff||85,85,85,85,85,85|M|||83|,,,,,Fighting]Crabominable||ChoiceBand|IronFist|knockoff,closecombat,icehammer,earthquake||85,85,85,85,85,85|M|||90|,,,,,Ground",
+  "ai": "Frosmoth||HeavyDutyBoots|IceScales|quiverdance,icebeam,gigadrain,terablast||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Reuniclus||LifeOrb|MagicGuard|calmmind,recover,psyshock,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Iron Hands||AssaultVest|QuarkDrive|icepunch,voltswitch,closecombat,thunderpunch||85,85,85,85,85,85|N|||79|,,,,,Electric]Poliwrath||Leftovers|WaterAbsorb|liquidation,drainpunch,bulkup,poisonjab||85,85,85,85,85,85|F|||88|,,,,,Fighting]Revavroom||LifeOrb|Filter|ironhead,highhorsepower,shiftgear,gunkshot||85,85,85,85,85,85|M|||79|,,,,,Ground]Ampharos||LifeOrb|Static|focusblast,dazzlinggleam,agility,thunderbolt||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fairy"
+}

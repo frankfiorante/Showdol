@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-20",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,c012469bbf192702c933a58ebbc1fc07b7417a7dffa8746f57fb004abc9c2d1a",
+    "ai": "sodium,d90e484b7a8d7a750d6f63d51e82c26e7b0d14eead55d0f53af526e49534685e"
+  },
+  "playerSpecies": [
+    "Hatterene",
+    "Abomasnow",
+    "Munkidori",
+    "Talonflame",
+    "Ogerpon-Cornerstone",
+    "Sandaconda"
+  ],
+  "player": "Hatterene||AssaultVest|MagicBounce|mysticalfire,psychicnoise,drainingkiss,nuzzle||85,85,85,85,85,85|F|||85|,,,,,Steel]Abomasnow||LightClay|SnowWarning|earthquake,woodhammer,blizzard,auroraveil||77,85,85,85,85,85|F|||84|,,,,,Ghost]Munkidori||AssaultVest|ToxicChain|focusblast,psychicnoise,uturn,sludgewave||85,85,85,85,85,85|M|||79|,,,,,Dark]Talonflame||HeavyDutyBoots|FlameBody|overheat,roost,defog,bravebird||85,85,85,85,85,85|F|||83|,,,,,Ground]Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|superpower,ivycudgel,swordsdance,hornleech||85,85,85,85,85,85|F|||76|,,,,,Rock]Sandaconda||Leftovers|ShedSkin|earthquake,glare,rest,stoneedge||85,85,85,85,85,85|F|||84|,,,,,Dragon",
+  "ai": "Glastrier||HeavyDutyBoots|ChillingNeigh|iciclecrash,heavyslam,closecombat,swordsdance||85,85,85,85,85,85|N|||86|,,,,,Fighting]Talonflame||HeavyDutyBoots|GaleWings|swordsdance,flareblitz,bravebird,terablast||85,85,85,85,85,85|M|||83|,,,,,Ground]Tinkaton||Leftovers|MoldBreaker|stealthrock,gigatonhammer,playrough,encore||85,85,85,85,85,85|F|||82|,,,,,Water]Samurott|SamurottHisui|ChoiceBand|Sharpness|razorshell,suckerpunch,flipturn,ceaselessedge||85,85,85,85,85,85|F|||77|,,,,,Water]Grafaiai||HeavyDutyBoots|Prankster|knockoff,encore,gunkshot,partingshot||85,85,85,85,85,85|F|||86|,,,,,Dark]Gyarados||HeavyDutyBoots|Intimidate|earthquake,stoneedge,waterfall,dragondance||85,85,85,85,85,85|M|||79|,,,,,Ground"
+}

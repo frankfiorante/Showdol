@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-14",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,823dc09f6868065fed3f4b8686c84119e97da8152e644dc3cbae8f6153e054e7",
+    "ai": "sodium,31340d436cb9474bf8a1696e5120cd3d3e35ebe35b5a22d474c0fd69c98d3f50"
+  },
+  "playerSpecies": [
+    "Basculegion-F",
+    "Glastrier",
+    "Lurantis",
+    "Frosmoth",
+    "Ogerpon-Wellspring",
+    "Pecharunt"
+  ],
+  "player": "Basculegion|BasculegionF|ChoiceSpecs|Adaptability|flipturn,icebeam,shadowball,hydropump||85,85,85,85,85,85|F|||83|,,,,,Water]Glastrier||HeavyDutyBoots|ChillingNeigh|iciclecrash,highhorsepower,closecombat,swordsdance||85,85,85,85,85,85|N|||86|,,,,,Fighting]Lurantis||AssaultVest|Contrary|knockoff,superpower,leafstorm,leechlife||85,85,85,85,85,85|M|||87|,,,,,Water]Frosmoth||HeavyDutyBoots|IceScales|quiverdance,terablast,icebeam,bugbuzz||85,,85,85,85,85|M|,0,,,,||82|,,,,,Ground]Ogerpon|OgerponWellspring|WellspringMask|WaterAbsorb|encore,ivycudgel,synthesis,woodhammer||85,85,85,85,85,85|F|||76|,,,,,Water]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,nastyplot,recover,shadowball||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark",
+  "ai": "Glastrier||HeavyDutyBoots|ChillingNeigh|closecombat,iciclecrash,swordsdance,heavyslam||85,85,85,85,85,85|N|||86|,,,,,Steel]Latios||SoulDew|Levitate|psyshock,dracometeor,calmmind,recover||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Trevenant||SitrusBerry|Harvest|drainpunch,poltergeist,toxic,protect||85,85,85,85,85,85|F|||89|,,,,,Fairy]Sunflora||ChoiceSpecs|Chlorophyll|sludgebomb,leafstorm,earthpower,dazzlinggleam||85,,85,85,85,85|M|,0,,,,|||,,,,,Ground]Charizard||HeavyDutyBoots|Blaze|outrage,earthquake,flareblitz,swordsdance||85,85,85,85,85,85|M|||85|,,,,,Ground]Annihilape||ChestoBerry|Defiant|ragefist,bulkup,rest,drainpunch||85,85,85,85,85,85|F|||76|,,,,,Water"
+}

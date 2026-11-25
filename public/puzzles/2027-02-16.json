@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-16",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,9d2d80b966633c00f05c2a00e0f03d6bbc81d7d71535cd0da41bb7911549009b",
+    "ai": "sodium,70553400881d1647f3b946e6d8b41f75936c9c995c6ffe6ac138ae35ef0b537a"
+  },
+  "playerSpecies": [
+    "Malamar",
+    "Haxorus",
+    "Quagsire",
+    "Shaymin",
+    "Seviper",
+    "Ting-Lu"
+  ],
+  "player": "Malamar||Leftovers|Contrary|superpower,sleeptalk,knockoff,rest||85,85,85,85,85,85|M|||82|,,,,,Steel]Haxorus||LumBerry|MoldBreaker|earthquake,outrage,ironhead,dragondance||85,85,85,85,85,85|M|||78|,,,,,Steel]Quagsire||Leftovers|Unaware|earthquake,icebeam,toxic,recover||85,85,85,85,85,85|F|||84|,,,,,Steel]Shaymin||Leftovers|NaturalCure|synthesis,earthpower,seedflare,airslash||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Seviper||Leftovers|ShedSkin|gunkshot,trailblaze,swordsdance,earthquake||85,85,85,85,85,85|F|||93|,,,,,Grass]Ting-Lu||Leftovers|VesselofRuin|ruination,spikes,payback,earthquake||85,85,85,85,85,85|N|||78|,,,,,Poison",
+  "ai": "Dewgong||HeavyDutyBoots|ThickFat|flipturn,hydropump,encore,icebeam||85,85,85,85,85,85|F|||94|,,,,,Grass]Altaria||HeavyDutyBoots|NaturalCure|bravebird,dragondance,roost,earthquake||85,85,85,85,85,85|M|||89|,,,,,Ground]Lycanroc|LycanrocMidnight|LifeOrb|NoGuard|playrough,stoneedge,closecombat,swordsdance||85,85,85,85,85,85|M|||88|,,,,,Fighting]Klefki||Leftovers|Prankster|magnetrise,thunderwave,playrough,spikes||85,85,85,85,85,85|M|||84|,,,,,Water]Swanna||HeavyDutyBoots|Hydration|hydropump,roost,defog,bravebird||85,85,85,85,85,85|F|||89|,,,,,Ground]Vileplume||Leftovers|EffectSpore|strengthsap,sleeppowder,sludgebomb,gigadrain||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-29",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,af3fa7d95898129368bd96928c31f21a2aef9a0c9fce7fad1699c2d620ecb734",
+    "ai": "sodium,c46de8e3e1461922fa59bb51e16e118b8eeca09d9cb846df47f3cc99fc992c4e"
+  },
+  "playerSpecies": [
+    "Mightyena",
+    "Grumpig",
+    "Porygon2",
+    "Tauros",
+    "Quagsire",
+    "Iron Valiant"
+  ],
+  "player": "Mightyena||Leftovers|Intimidate|suckerpunch,throatchop,taunt,playrough||85,85,85,85,85,85|M|||96|,,,,,Fairy]Grumpig||ChoiceSpecs|ThickFat|psychic,shadowball,focusblast,earthpower||85,,85,85,85,85|M|,0,,,,||92|,,,,,Psychic]Porygon2||Eviolite|Download|icebeam,recover,triattack,discharge||85,,85,85,85,85|N|,0,,,,||81|,,,,,Ghost]Tauros||LifeOrb|SheerForce|closecombat,bodyslam,earthquake,throatchop||85,85,85,85,85,85|M|||82|,,,,,Normal]Quagsire||Leftovers|Unaware|recover,toxic,earthquake,icebeam||85,85,85,85,85,85|F|||84|,,,,,Steel]Iron Valiant||LifeOrb|QuarkDrive|moonblast,encore,knockoff,closecombat||85,85,85,85,85,85|N|||78|,,,,,Fighting",
+  "ai": "Charizard||HeavyDutyBoots|Blaze|willowisp,hurricane,focusblast,flamethrower||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fire]Mienshao||AssaultVest|Regenerator|knockoff,uturn,fakeout,closecombat||85,85,85,85,85,85|F|||83|,,,,,Steel]Arceus|ArceusFlying|SkyPlate|Multitype|earthpower,calmmind,recover,judgment||81,,85,85,85,85|N|,0,,,,||69|,,,,,Ground]Armarouge||PowerHerb|WeakArmor|psyshock,meteorbeam,armorcannon,energyball||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fire]Basculegion|BasculegionF|ChoiceSpecs|Adaptability|hydropump,icebeam,shadowball,flipturn||85,85,85,85,85,85|F|||83|,,,,,Water]Giratina||Leftovers|Pressure|shadowball,rest,dragontail,sleeptalk||85,85,85,85,85,85|N|||75|,,,,,Fairy"
+}

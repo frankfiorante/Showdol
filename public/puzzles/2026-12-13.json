@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-13",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,d2ab500bd5e241a00bc856021b47eeffc18d3897b85fcad8c5bc0f56b1828986",
+    "ai": "sodium,657de460d645162cbe3c7826d52f1b8326b271f12842203b9507d76605469b09"
+  },
+  "playerSpecies": [
+    "Mesprit",
+    "Regidrago",
+    "Bruxish",
+    "Zacian",
+    "Minun",
+    "Lilligant"
+  ],
+  "player": "Mesprit||Leftovers|Levitate|thunderwave,psychicnoise,knockoff,drainpunch||85,85,85,85,85,85|N|||85|,,,,,Dark]Regidrago||ChoiceScarf|DragonsMaw|dragonenergy,dracometeor,outrage,earthquake||85,85,85,85,85,85|N|||77|,,,,,Dragon]Bruxish||LifeOrb|StrongJaw|swordsdance,crunch,psychicfangs,wavecrash||85,85,85,85,85,85|F|||85|,,,,,Dark]Zacian||RustedSword|IntrepidSword|playrough,swordsdance,closecombat,behemothblade||85,85,85,85,85,85|N|||64|,,,,,Fighting]Minun||LifeOrb|VoltAbsorb|thunderbolt,nastyplot,alluringvoice,grassknot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Electric]Lilligant||LifeOrb|OwnTempo|petaldance,sleeppowder,quiverdance,alluringvoice||85,,85,85,85,85|F|,0,,,,||86|,,,,,Grass",
+  "ai": "Alcremie|AlcremieCaramelSwirl|Leftovers|AromaVeil|alluringvoice,calmmind,terablast,recover||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground]Ribombee||HeavyDutyBoots|ShieldDust|uturn,stickyweb,moonblast,stunspore||85,85,85,85,85,85|M|||83|,,,,,Ghost]Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|powerwhip,synthesis,superpower,ivycudgel||85,85,85,85,85,85|F|||76|,,,,,Rock]Cinccino||LoadedDice|Technician|tailslap,tripleaxel,uturn,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Grass]Hitmonchan||Leftovers|IronFist|drainpunch,encore,knockoff,rapidspin||85,85,85,85,85,85|M|||87|,,,,,Steel]Slither Wing||HeavyDutyBoots|Protosynthesis|willowisp,uturn,morningsun,closecombat||85,85,85,85,85,85|N|||81|,,,,,Steel"
+}

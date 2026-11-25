@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-01",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,9c6423f53b87371e9c9b9633ca7901e7b59f5dab48fab991aed25436525531a6",
+    "ai": "sodium,253f6f524861db3bfc93175524b7f4f497aa3ace099f609077ff658c88fa0d45"
+  },
+  "playerSpecies": [
+    "Primarina",
+    "Ariados",
+    "Lugia",
+    "Phione",
+    "Flareon",
+    "Copperajah"
+  ],
+  "player": "Primarina||ChoiceSpecs|Torrent|psychic,moonblast,flipturn,hydropump||85,85,85,85,85,85|M|||83|,,,,,Water]Ariados||HeavyDutyBoots|Swarm|poisonjab,stickyweb,suckerpunch,megahorn||85,85,85,85,85,85|F|||95|,,,,,Ghost]Lugia||HeavyDutyBoots|Multiscale|psychicnoise,aeroblast,recover,calmmind||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Phione||Leftovers|Hydration|grassknot,scald,icebeam,takeheart||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Flareon||ToxicOrb|Guts|trailblaze,facade,flareblitz,quickattack||85,85,85,85,85,85|M|||90|,,,,,Normal]Copperajah||LifeOrb|SheerForce|ironhead,playrough,superpower,rockslide||85,85,85,85,85,85|F|||86|,,,,,Fairy",
+  "ai": "Infernape||LifeOrb|Blaze|overheat,closecombat,gunkshot,grassknot||85,85,85,85,85,85|M|||82|,,,,,Fire]Kingambit||Leftovers|SupremeOverlord|kowtowcleave,swordsdance,ironhead,suckerpunch||85,85,85,85,85,85|F|||74|,,,,,Flying]Dragalge||Leftovers|Adaptability|dracometeor,focusblast,toxicspikes,sludgewave||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|revelationdance,hurricane,quiverdance,roost||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fighting]Sableye||Leftovers|Prankster|encore,thunderwave,knockoff,recover||85,85,85,85,85,85|F|||87|,,,,,Poison]Meloetta||ChoiceSpecs|SereneGrace|psyshock,hypervoice,uturn,focusblast||85,85,85,85,85,85|N|||82|,,,,,Psychic"
+}

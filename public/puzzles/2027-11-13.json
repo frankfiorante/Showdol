@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-13",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,76e197bce65c6f0248cf672577025dde16117ce3908a5d3ddc625863398b9f9d",
+    "ai": "sodium,ab6d87b62e15ec7688f4f43e04a2e1b151ace10792165d733e688b79875e2ec9"
+  },
+  "playerSpecies": [
+    "Deoxys",
+    "Trevenant",
+    "Hoopa",
+    "Walking Wake",
+    "Clefable",
+    "Salamence"
+  ],
+  "player": "Deoxys||LifeOrb|Pressure|knockoff,superpower,psychoboost,icebeam||85,85,85,85,85,85|N|||74|,,,,,Psychic]Trevenant||SitrusBerry|Harvest|drainpunch,protect,toxic,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Fighting]Hoopa||LifeOrb|Magician|focusblast,psychic,nastyplot,shadowball||85,,85,85,85,85|N|,0,,,,||85|,,,,,Ghost]Walking Wake||ChoiceSpecs|Protosynthesis|dracometeor,flipturn,hydropump,flamethrower||85,85,85,85,85,85|N|||79|,,,,,Fire]Clefable||LifeOrb|MagicGuard|moonblast,moonlight,stealthrock,thunderwave||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel]Salamence||HeavyDutyBoots|Intimidate|outrage,earthquake,dualwingbeat,dragondance||85,85,85,85,85,85|F|||77|,,,,,Steel",
+  "ai": "Zebstrika||LifeOrb|SapSipper|supercellslam,highhorsepower,voltswitch,overheat||85,85,85,85,85,85|F|||87|,,,,,Ground]Pachirisu||AssaultVest|VoltAbsorb|superfang,uturn,thunderbolt,nuzzle||85,85,85,85,85,85|M|||96|,,,,,Flying]Goodra||AssaultVest|SapSipper|knockoff,scald,fireblast,dracometeor||85,85,85,85,85,85|F|||85|,,,,,Water]Deoxys|DeoxysAttack|LifeOrb|Pressure|icebeam,knockoff,psychoboost,superpower||85,85,85,85,85,85|N|||72|,,,,,Psychic]Wyrdeer||Leftovers|Intimidate|psychicnoise,megahorn,earthquake,thunderwave||85,85,85,85,85,85|F|||87|,,,,,Ground]Persian||SilkScarf|Technician|uturn,knockoff,doubleedge,fakeout||85,85,85,85,85,85|M|||92|,,,,,Normal"
+}

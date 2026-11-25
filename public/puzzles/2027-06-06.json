@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-06",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,cf866c44274efdada591883e683ad4f176c3998d861a9c99c98690ea2cd81300",
+    "ai": "sodium,3d01430baf38496cc93adb36c51ec89ef8f9c63bc74131c68f7ba8f174795f83"
+  },
+  "playerSpecies": [
+    "Tyranitar",
+    "Scrafty",
+    "Lapras",
+    "Zacian",
+    "Veluza",
+    "Reshiram"
+  ],
+  "player": "Tyranitar||WeaknessPolicy|SandStream|knockoff,icepunch,dragondance,stoneedge||85,85,85,85,85,85|M|||78|,,,,,Ghost]Scrafty||Leftovers|ShedSkin|drainpunch,bulkup,knockoff,rest||85,85,85,85,85,85|F|||83|,,,,,Poison]Lapras||LoadedDice|WaterAbsorb|dragondance,earthquake,waterfall,iciclespear||81,85,85,85,85,85|M|||87|,,,,,Ground]Zacian||RustedSword|IntrepidSword|behemothblade,playrough,swordsdance,closecombat||85,85,85,85,85,85|N|||64|,,,,,Fighting]Veluza||SitrusBerry|Sharpness|filletaway,psychocut,nightslash,aquacutter||85,85,85,85,85,85|M|||85|,,,,,Dark]Reshiram||HeavyDutyBoots|Turboblaze|outrage,dragondance,stoneedge,flareblitz||85,85,85,85,85,85|N|||76|,,,,,Fire",
+  "ai": "Chi-Yu||HeavyDutyBoots|BeadsofRuin|fireblast,psychic,darkpulse,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Lycanroc||LifeOrb|SandRush|stoneedge,closecombat,taunt,swordsdance||85,85,85,85,85,85|M|||86|,,,,,Fighting]Tropius||SitrusBerry|Harvest|dragondance,earthquake,dualwingbeat,leafblade||85,85,85,85,85,85|F|||91|,,,,,Ground]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderbolt,thunderwave,voltswitch,scald||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Maushold||WideLens|Technician|encore,populationbomb,bite,tidyup||85,85,85,85,85,85|N|||76|,,,,,Ghost]Hippowdon||Leftovers|SandStream|slackoff,earthquake,curse,stoneedge||85,85,85,85,85,85|F|||82|,,,,,Rock"
+}

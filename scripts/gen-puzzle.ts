@@ -5,11 +5,15 @@
  *   pnpm gen:puzzle --from 2026-12-01 --days 7
  *   pnpm gen:puzzle --check               # verify determinism, write nothing
  *
+ * Existing files are never changed: a day's teams are fixed once generated.
+ * If regenerating would produce different content (e.g. after upgrading the
+ * sim), the script stops unless --force is given.
+ *
  * Seeds are derived from the date, so rerunning with the same pinned package
  * versions reproduces the same files byte for byte.
  */
 import {createHash} from 'node:crypto';
-import {mkdirSync, readFileSync, writeFileSync} from 'node:fs';
+import {existsSync, mkdirSync, readFileSync, writeFileSync} from 'node:fs';
 import {dirname, join} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {Teams, type PRNGSeed} from '@pkmn/sim';
@@ -74,10 +78,25 @@ if (process.argv.includes('--check')) {
   if (mismatched.length) process.exit(1);
 } else {
   mkdirSync(outDir, {recursive: true});
+  const force = process.argv.includes('--force');
+  let kept = 0;
   for (const date of dates) {
     const puzzle = generatePuzzle(date);
-    writeFileSync(join(outDir, `${date}.json`), JSON.stringify(puzzle, null, 2) + '\n');
+    const file = join(outDir, `${date}.json`);
+    const content = JSON.stringify(puzzle, null, 2) + '\n';
+    if (existsSync(file)) {
+      if (readFileSync(file, 'utf8') === content) {
+        kept++;
+        continue;
+      }
+      if (!force) {
+        console.error(`${date}.json exists with different content; refusing to change a published day (use --force).`);
+        process.exit(1);
+      }
+    }
+    writeFileSync(file, content);
     const names = (packed: string) => Teams.unpack(packed)!.map(s => s.species).join(', ');
     console.log(`${date}\n  player: ${names(puzzle.player)}\n  ai:     ${names(puzzle.ai)}`);
   }
+  if (kept) console.log(`${kept} existing file(s) unchanged.`);
 }

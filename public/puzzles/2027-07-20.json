@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-20",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5cb8cb5749c66d0882c772974b91985694480acb04fd5eb4b29b6e342152aadd",
+    "ai": "sodium,b314981dbfea6ede44226403b4b1361c021df5e54cd50365a8bb9e109c98caff"
+  },
+  "playerSpecies": [
+    "Pawmot",
+    "Maushold-Four",
+    "Eternatus",
+    "Okidogi",
+    "Dunsparce",
+    "Spiritomb"
+  ],
+  "player": "Pawmot||LifeOrb|IronFist|doubleshock,closecombat,icepunch,revivalblessing||85,85,85,85,85,85|M|||80|,,,,,Electric]Maushold|MausholdFour|WideLens|Technician|bite,tidyup,populationbomb,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Eternatus||Leftovers|Pressure|sludgebomb,fireblast,recover,dynamaxcannon||85,,85,85,85,85|N|,0,,,,||69|,,,,,Fire]Okidogi||AssaultVest|ToxicChain|gunkshot,psychicfangs,drainpunch,knockoff||85,85,85,85,85,85|M|||77|,,,,,Dark]Dunsparce||Eviolite|SereneGrace|bodyslam,earthquake,roost,coil||85,85,85,85,85,85|M|||86|,,,,,Ghost]Spiritomb||Leftovers|Infiltrator|toxic,foulplay,suckerpunch,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Steel",
+  "ai": "Espathra||Leftovers|SpeedBoost|roost,dazzlinggleam,calmmind,storedpower||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fairy]Raikou||HeavyDutyBoots|Pressure|calmmind,thunderbolt,voltswitch,scald||85,,85,85,85,85|N|,0,,,,||82|,,,,,Flying]Zoroark|ZoroarkHisui|ChoiceSpecs|Illusion|flamethrower,hypervoice,bittermalice,focusblast||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fighting]Clawitzer||AssaultVest|MegaLauncher|uturn,waterpulse,darkpulse,dragonpulse||85,85,85,85,85,85|F|||87|,,,,,Dragon]Mesprit||ChoiceScarf|Levitate|psychic,dazzlinggleam,trick,shadowball||85,,85,85,85,85|N|,0,,,,||85|,,,,,Fairy]Snorlax||ChestoBerry|ThickFat|earthquake,curse,bodyslam,rest||85,85,85,85,85,85|M|||82|,,,,,Poison"
+}

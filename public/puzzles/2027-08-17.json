@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-17",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,e22a4606d3631ddb9e9fc2b73e110f0af1a683c1fce218a12255bc32a50c77b8",
+    "ai": "sodium,1427c898881db729858ea85839b0b691c758359d6a119f26c4775af8aa54ca5b"
+  },
+  "playerSpecies": [
+    "Garchomp",
+    "Oranguru",
+    "Annihilape",
+    "Metagross",
+    "Ampharos",
+    "Dondozo"
+  ],
+  "player": "Garchomp||RockyHelmet|RoughSkin|stealthrock,spikes,earthquake,outrage||85,85,85,85,85,85|M|||74|,,,,,Ground]Oranguru||Leftovers|InnerFocus|nastyplot,psyshock,focusblast,thunderbolt||85,,85,85,85,85|M|,0,,,,||92|,,,,,Electric]Annihilape||ChestoBerry|Defiant|drainpunch,rest,bulkup,ragefist||85,85,85,85,85,85|M|||76|,,,,,Ghost]Metagross||ChoiceBand|ClearBody|psychicfangs,heavyslam,knockoff,bulletpunch||85,85,85,85,85,85|N|||79|,,,,,Water]Ampharos||AssaultVest|Static|focusblast,thunderbolt,voltswitch,dazzlinggleam||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fairy]Dondozo||Leftovers|Unaware|wavecrash,rest,curse,sleeptalk||85,85,85,85,85,85|M|||78|,,,,,Dragon",
+  "ai": "Dachsbun||Leftovers|WellBakedBody|bodypress,protect,wish,playrough||85,85,85,85,85,85|F|||92|,,,,,Steel]Gyarados||HeavyDutyBoots|Intimidate|terablast,waterfall,earthquake,dragondance||85,85,85,85,85,85|M|||79|,,,,,Flying]Iron Boulder||BoosterEnergy|QuarkDrive|mightycleave,swordsdance,zenheadbutt,closecombat||85,85,85,85,85,85|N|||77|,,,,,Fighting]Spidops||HeavyDutyBoots|Stakeout|stickyweb,toxicspikes,knockoff,uturn||85,85,85,85,85,85|F|||96|,,,,,Ghost]Flamigo||ChoiceScarf|Scrappy|closecombat,uturn,throatchop,bravebird||85,85,85,85,85,85|M|||82|,,,,,Fighting]Zangoose||ToxicOrb|ToxicBoost|knockoff,facade,swordsdance,closecombat||85,85,85,85,85,85|F|||85|,,,,,Normal"
+}

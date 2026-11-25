@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-28",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,2ae0011dcf2d2c7f9cfc3457745df9f9527bc43774082609fd9330450003adc7",
+    "ai": "sodium,787cafe77161461a141f7af1d99c219b21f41416e9d841108f0c56f73c5de9d3"
+  },
+  "playerSpecies": [
+    "Probopass",
+    "Spectrier",
+    "Ambipom",
+    "Iron Boulder",
+    "Vaporeon",
+    "Lapras"
+  ],
+  "player": "Probopass||Leftovers|MagnetPull|bodypress,flashcannon,irondefense,powergem||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fighting]Spectrier||LifeOrb|GrimNeigh|willowisp,nastyplot,shadowball,terablast||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Ambipom||SilkScarf|Technician|fakeout,lowkick,knockoff,doubleedge||85,85,85,85,85,85|F|||84|,,,,,Normal]Iron Boulder||LifeOrb|QuarkDrive|swordsdance,zenheadbutt,mightycleave,closecombat||85,85,85,85,85,85|N|||77|,,,,,Fighting]Vaporeon||Leftovers|WaterAbsorb|scald,icebeam,wish,protect||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Lapras||LoadedDice|WaterAbsorb|waterfall,dragondance,iciclespear,earthquake||81,85,85,85,85,85|M|||87|,,,,,Ground",
+  "ai": "Barraskewda||ChoiceBand|SwiftSwim|flipturn,psychicfangs,waterfall,closecombat||85,85,85,85,85,85|M|||81|,,,,,Fighting]Tornadus|TornadusTherian|ChoiceSpecs|Regenerator|bleakwindstorm,uturn,focusblast,heatwave||85,85,85,85,85,85|M|||79|,,,,,Flying]Tauros||LifeOrb|SheerForce|closecombat,zenheadbutt,throatchop,bodyslam||85,85,85,85,85,85|M|||82|,,,,,Fighting]Pelipper||HeavyDutyBoots|Drizzle|hurricane,surf,knockoff,roost||85,85,85,85,85,85|F|||86|,,,,,Water]Arcanine||HeavyDutyBoots|Intimidate|extremespeed,flareblitz,roar,morningsun||85,85,85,85,85,85|M|||84|,,,,,Normal]Bisharp||Eviolite|Defiant|suckerpunch,stealthrock,throatchop,ironhead||85,85,85,85,85,85|F|||79|,,,,,Flying"
+}

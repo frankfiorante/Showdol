@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-01",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,040f7dae0111e2ed17e6ae63fe8aaec7a2feddbf1e936a94850fb687026e84da",
+    "ai": "sodium,d7f4367ee9fc1a18211de5a958a329e77339c08296b69274374e501ab9466f59"
+  },
+  "playerSpecies": [
+    "Thundurus-Therian",
+    "Brute Bonnet",
+    "Virizion",
+    "Meloetta",
+    "Mamoswine",
+    "Reuniclus"
+  ],
+  "player": "Thundurus|ThundurusTherian|HeavyDutyBoots|VoltAbsorb|terablast,focusblast,thunderbolt,nastyplot||85,,85,85,85,85|M|,0,,,,||80|,,,,,Flying]Brute Bonnet||Leftovers|Protosynthesis|spore,crunch,suckerpunch,closecombat||85,85,85,85,85,85|N|||79|,,,,,Fighting]Virizion||LifeOrb|Justified|stoneedge,leafblade,closecombat,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock]Meloetta||LifeOrb|SereneGrace|closecombat,relicsong,tripleaxel,knockoff||85,85,85,85,85,85|N|||82|,,,,,Dark]Mamoswine||ChoiceBand|ThickFat|iceshard,iciclecrash,knockoff,earthquake||85,85,85,85,85,85|M|||81|,,,,,Ground]Reuniclus||LifeOrb|MagicGuard|recover,calmmind,focusblast,psyshock||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting",
+  "ai": "Solgaleo||WeaknessPolicy|FullMetalBody|sunsteelstrike,psychic,knockoff,flamecharge||85,85,85,85,85,85|N|||74|,,,,,Dark]Dachsbun||Leftovers|WellBakedBody|playrough,wish,protect,bodypress||85,85,85,85,85,85|M|||92|,,,,,Steel]Palkia|PalkiaOrigin|LustrousGlobe|Pressure|hydropump,thunderwave,spacialrend,fireblast||85,,85,85,85,85|N|,0,,,,||72|,,,,,Dragon]Lunala||Leftovers|ShadowShield|moonlight,calmmind,moongeistbeam,focusblast||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fighting]Sceptile||LifeOrb|Overgrow|earthquake,leafblade,rockslide,swordsdance||85,85,85,85,85,85|M|||87|,,,,,Rock]Scizor||ChoiceBand|Technician|closecombat,knockoff,bulletpunch,uturn||85,85,85,85,85,85|M|||79|,,,,,Steel"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-21",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,c808665c5251ea761f8b9836bc82485f3c77d948c32a1945517e077633f2b623",
+    "ai": "sodium,82c600f9af377b40b0e239c3ce34803918b0d630dfb0643930f7d03d67a80079"
+  },
+  "playerSpecies": [
+    "Iron Moth",
+    "Gallade",
+    "Lugia",
+    "Inteleon",
+    "Cobalion",
+    "Zarude"
+  ],
+  "player": "Iron Moth||HeavyDutyBoots|QuarkDrive|morningsun,sludgewave,fireblast,uturn||85,85,85,85,85,85|N|||78|,,,,,Fire]Gallade||ChoiceBand|Sharpness|sacredsword,nightslash,psychocut,leafblade||85,85,85,85,85,85|M|||80|,,,,,Grass]Lugia||HeavyDutyBoots|Multiscale|earthpower,aeroblast,recover,calmmind||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Inteleon||ChoiceSpecs|Torrent|hydropump,scald,icebeam,uturn||85,85,85,85,85,85|F|||81|,,,,,Water]Cobalion||LifeOrb|Justified|closecombat,ironhead,swordsdance,stoneedge||85,85,85,85,85,85|N|||80|,,,,,Fighting]Zarude||LifeOrb|LeafGuard|powerwhip,knockoff,closecombat,swordsdance||85,85,85,85,85,85|N|||77|,,,,,Fighting",
+  "ai": "Moltres||HeavyDutyBoots|FlameBody|fireblast,roost,bravebird,scorchingsands||85,85,85,85,85,85|N|||81|,,,,,Steel]Chien-Pao||ChoiceBand|SwordofRuin|sacredsword,iceshard,crunch,iciclecrash||85,85,85,85,85,85|N|||72|,,,,,Ice]Zangoose||ToxicOrb|ToxicBoost|facade,knockoff,quickattack,swordsdance||85,85,85,85,85,85|F|||85|,,,,,Normal]Farigiraf||Leftovers|SapSipper|wish,bodyslam,psychicnoise,protect||85,85,85,85,85,85|M|||89|,,,,,Ground]Misdreavus||Eviolite|Levitate|calmmind,shadowball,drainingkiss,willowisp||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Mudsdale||Leftovers|Stamina|stoneedge,heavyslam,stealthrock,earthquake||85,85,85,85,85,85|F|||83|,,,,,Steel"
+}

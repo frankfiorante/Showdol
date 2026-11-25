@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-29",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5e9f3f84fecb3a3ccc1bef234f8263c05e42fd91ff54fbdc145c299c6799cf30",
+    "ai": "sodium,681a8e50ff75d2fbc0cf24218b19dc9ca567b10827ed3131ce94666a564246f7"
+  },
+  "playerSpecies": [
+    "Medicham",
+    "Kilowattrel",
+    "Raikou",
+    "Ditto",
+    "Bruxish",
+    "Virizion"
+  ],
+  "player": "Medicham||ChoiceBand|PurePower|poisonjab,icepunch,closecombat,zenheadbutt||85,85,85,85,85,85|M|||86|,,,,,Fighting]Kilowattrel||HeavyDutyBoots|VoltAbsorb|thunderbolt,uturn,roost,hurricane||85,85,85,85,85,85|F|||83|,,,,,Water]Raikou||Leftovers|Pressure|calmmind,thunderbolt,substitute,scald||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost]Bruxish||LifeOrb|StrongJaw|crunch,psychicfangs,swordsdance,wavecrash||85,85,85,85,85,85|M|||85|,,,,,Dark]Virizion||LifeOrb|Justified|stoneedge,closecombat,leafblade,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock",
+  "ai": "Umbreon||Leftovers|Synchronize|foulplay,wish,toxic,protect||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Quaquaval||LifeOrb|Moxie|aquastep,closecombat,swordsdance,encore||85,85,85,85,85,85|F|||79|,,,,,Fighting]Minun||LifeOrb|VoltAbsorb|grassknot,thunderbolt,nastyplot,alluringvoice||85,,85,85,85,85|M|,0,,,,||95|,,,,,Fairy]Minior|MiniorBlue|WhiteHerb|ShieldsDown|earthquake,shellsmash,powergem,acrobatics||85,85,85,85,85,85|N|||79|,,,,,Water]Meloetta||LifeOrb|SereneGrace|closecombat,tripleaxel,relicsong,knockoff||85,85,85,85,85,85|N|||82|,,,,,Dark]Iron Moth||HeavyDutyBoots|QuarkDrive|sludgewave,uturn,toxicspikes,fierydance||85,85,85,85,85,85|N|||78|,,,,,Fire"
+}

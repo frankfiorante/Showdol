@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-23",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,4fb4d258a9260c3c408f573794d92cabd880eb9b6d17082e539faa9551fefee7",
+    "ai": "sodium,a10030ddbc2c98a7988ba513ab46c8d03947595ecfd1099811d199a18ad0f75a"
+  },
+  "playerSpecies": [
+    "Grumpig",
+    "Regieleki",
+    "Noivern",
+    "Virizion",
+    "Misdreavus",
+    "Yanmega"
+  ],
+  "player": "Grumpig||Leftovers|ThickFat|shadowball,nastyplot,psychic,focusblast||85,,85,85,85,85|M|,0,,,,||92|,,,,,Fighting]Regieleki||Magnet|Transistor|thunderbolt,rapidspin,explosion,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Electric]Noivern||ChoiceSpecs|Infiltrator|flamethrower,hurricane,dracometeor,boomburst||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Virizion||LifeOrb|Justified|swordsdance,leafblade,closecombat,stoneedge||85,85,85,85,85,85|N|||82|,,,,,Rock]Misdreavus||Eviolite|Levitate|willowisp,calmmind,shadowball,drainingkiss||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Yanmega||ChoiceSpecs|TintedLens|airslash,gigadrain,bugbuzz,uturn||85,85,85,85,85,85|F|||82|,,,,,Bug",
+  "ai": "Armarouge||PowerHerb|WeakArmor|armorcannon,psyshock,meteorbeam,energyball||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Moltres||HeavyDutyBoots|FlameBody|scorchingsands,fireblast,roost,bravebird||85,85,85,85,85,85|N|||81|,,,,,Ground]Salamence||HeavyDutyBoots|Intimidate|earthquake,outrage,dragondance,dualwingbeat||85,85,85,85,85,85|F|||77|,,,,,Ground]Solgaleo||Leftovers|FullMetalBody|earthquake,roar,sunsteelstrike,morningsun||85,85,85,85,85,85|N|||74|,,,,,Water]Inteleon||ChoiceSpecs|Torrent|uturn,hydropump,icebeam,scald||85,85,85,85,85,85|F|||81|,,,,,Water]Clefable||Leftovers|Unaware|calmmind,fireblast,moonlight,moonblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel"
+}

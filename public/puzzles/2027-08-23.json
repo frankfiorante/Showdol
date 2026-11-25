@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-23",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,6560535edc14da279959ea9f13fcd44f9c66c764d1d58ec792ae8e6aeb883aff",
+    "ai": "sodium,9d63a4ac2c670c746092954ae16efb0edc216f572b040e0fdbf54edef58d839e"
+  },
+  "playerSpecies": [
+    "Ho-Oh",
+    "Meowscarada",
+    "Arbok",
+    "Groudon",
+    "Gyarados",
+    "Mienshao"
+  ],
+  "player": "Ho-Oh||HeavyDutyBoots|Regenerator|earthquake,bravebird,sacredfire,recover||85,85,85,85,85,85|N|||71|,,,,,Steel]Meowscarada||ChoiceBand|Protean|flowertrick,uturn,knockoff,tripleaxel||85,85,85,85,85,85|F|||78|,,,,,Dark]Arbok||Leftovers|Intimidate|suckerpunch,coil,earthquake,gunkshot||85,85,85,85,85,85|M|||87|,,,,,Ground]Groudon||Leftovers|Drought|swordsdance,precipiceblades,stoneedge,heatcrash||85,85,85,85,85,85|N|||72|,,,,,Fire]Gyarados||HeavyDutyBoots|Moxie|stoneedge,earthquake,waterfall,dragondance||85,85,85,85,85,85|F|||79|,,,,,Ground]Mienshao||AssaultVest|Regenerator|knockoff,closecombat,uturn,fakeout||85,85,85,85,85,85|F|||83|,,,,,Dark",
+  "ai": "Bruxish||ChoiceBand|StrongJaw|psychicfangs,crunch,aquajet,wavecrash||85,85,85,85,85,85|F|||85|,,,,,Dark]Sceptile||Leftovers|Overgrow|leechseed,gigadrain,focusblast,substitute||85,,85,85,85,85|F|,0,,,,||87|,,,,,Steel]Chi-Yu||ChoiceSpecs|BeadsofRuin|psychic,flamethrower,darkpulse,overheat||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Rabsca||HeavyDutyBoots|Synchronize|bugbuzz,trickroom,psychic,revivalblessing||85,,85,85,85,|M|,0,,,,0||91|,,,,,Steel]Dragalge||Leftovers|Adaptability|focusblast,toxic,sludgewave,dracometeor||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting]Arbok||Leftovers|Intimidate|gunkshot,earthquake,coil,trailblaze||85,85,85,85,85,85|F|||87|,,,,,Ground"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-16",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,ed8b8b6071c9aa349b2004997edf50704d394d297854a3430f8e532b84ccdec3",
+    "ai": "sodium,236e140cd7f525ae4148e0b63a06f2c396c7916b1b3a283630524b5fe0116f2e"
+  },
+  "playerSpecies": [
+    "Ogerpon",
+    "Comfey",
+    "Spidops",
+    "Meowstic-F",
+    "Lumineon",
+    "Metagross"
+  ],
+  "player": "Ogerpon||Leftovers|Defiant|ivycudgel,synthesis,encore,knockoff||85,85,85,85,85,85|F|||80|,,,,,Grass]Comfey||Leftovers|Triage|storedpower,drainingkiss,calmmind,gigadrain||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Spidops||HeavyDutyBoots|Stakeout|circlethrow,uturn,stickyweb,knockoff||85,85,85,85,85,85|F|||96|,,,,,Ghost]Meowstic|MeowsticF|LifeOrb|Competitive|darkpulse,alluringvoice,psyshock,nastyplot||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fairy]Lumineon||LifeOrb|StormDrain|encore,icebeam,hydropump,alluringvoice||85,,85,85,85,85|M|,0,,,,||93|,,,,,Fairy]Metagross||ChoiceBand|ClearBody|earthquake,bulletpunch,heavyslam,psychicfangs||85,85,85,85,85,85|N|||79|,,,,,Water",
+  "ai": "Minun||LifeOrb|VoltAbsorb|alluringvoice,encore,nastyplot,thunderbolt||85,,85,85,85,85|F|,0,,,,||95|,,,,,Fairy]Garchomp||RockyHelmet|RoughSkin|dragontail,stealthrock,outrage,earthquake||85,85,85,85,85,85|F|||74|,,,,,Ground]Clawitzer||AssaultVest|MegaLauncher|dragonpulse,darkpulse,waterpulse,uturn||85,85,85,85,85,85|M|||87|,,,,,Dragon]Iron Moth||HeavyDutyBoots|QuarkDrive|sludgewave,energyball,fierydance,toxicspikes||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Slither Wing||HeavyDutyBoots|Protosynthesis|closecombat,uturn,morningsun,willowisp||85,85,85,85,85,85|N|||81|,,,,,Fire]Forretress||Leftovers|Sturdy|rapidspin,toxicspikes,ironhead,voltswitch||85,85,85,85,85,85|F|||84|,,,,,Water"
+}

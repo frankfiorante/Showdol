@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-29",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,82351c0134c60d2d0c889966fc07780e7f720595eb3f432bcc736c92df7ac516",
+    "ai": "sodium,3a8b06d14d5d41a71b88509aa2a9f1cab4736b3f86c5f43e8df30d38825f8c72"
+  },
+  "playerSpecies": [
+    "Meowscarada",
+    "Decidueye",
+    "Houndstone",
+    "Pachirisu",
+    "Flareon",
+    "Veluza"
+  ],
+  "player": "Meowscarada||FocusSash|Protean|tripleaxel,toxicspikes,flowertrick,knockoff||85,85,85,85,85,85|F|||78|,,,,,Grass]Decidueye||LifeOrb|Overgrow|shadowsneak,poltergeist,leafblade,swordsdance||85,85,85,85,85,85|M|||88|,,,,,Ghost]Houndstone||Leftovers|Fluffy|sleeptalk,poltergeist,bodypress,rest||85,85,85,85,85,85|M|||86|,,,,,Fighting]Pachirisu||HeavyDutyBoots|VoltAbsorb|superfang,encore,uturn,discharge||85,85,85,85,85,85|M|||96|,,,,,Flying]Flareon||ToxicOrb|Guts|quickattack,trailblaze,facade,flareblitz||85,85,85,85,85,85|M|||90|,,,,,Normal]Veluza||ChoiceBand|Sharpness|psychocut,nightslash,aquajet,aquacutter||85,85,85,85,85,85|M|||85|,,,,,Water",
+  "ai": "Latios||SoulDew|Levitate|calmmind,recover,psyshock,dracometeor||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Hawlucha||WhiteHerb|Unburden|closecombat,swordsdance,bravebird,acrobatics||85,85,85,85,85,85|F|||80|,,,,,Fighting]Leafeon||LifeOrb|Chlorophyll|swordsdance,knockoff,leafblade,doubleedge||85,85,85,85,85,85|F|||88|,,,,,Normal]Maushold|MausholdFour|WideLens|Technician|populationbomb,tidyup,bite,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Cramorant||HeavyDutyBoots|GulpMissile|bravebird,defog,roost,surf||85,85,85,85,85,85|F|||86|,,,,,Ground]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|suckerpunch,ironhead,swordsdance,earthquake||85,85,85,85,85,85|F|||84|,,,,,Ground"
+}

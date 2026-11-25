@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-25",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,88f9c106fad18465bb5fff8c169c52b8a47b9fb9237b7abdb25e3f105da23363",
+    "ai": "sodium,3167085cddf7ba33409fce8595f85b77ee39c1ba997dbbb62713514442f32470"
+  },
+  "playerSpecies": [
+    "Sinistcha",
+    "Scovillain",
+    "Kingdra",
+    "Flareon",
+    "Orthworm",
+    "Toxtricity"
+  ],
+  "player": "Sinistcha||Leftovers|Heatproof|matchagotcha,calmmind,shadowball,strengthsap||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Scovillain||ChoiceSpecs|Chlorophyll|leafstorm,flamethrower,energyball,overheat||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire]Kingdra||LumBerry|Sniper|waterfall,wavecrash,outrage,dragondance||85,85,85,85,85,85|M|||84|,,,,,Water]Flareon||ToxicOrb|Guts|trailblaze,facade,willowisp,flareblitz||85,85,85,85,85,85|F|||90|,,,,,Normal]Orthworm||ChestoBerry|EarthEater|coil,irontail,rest,bodypress||85,85,85,85,85,85|M|||88|,,,,,Fighting]Toxtricity||ThroatSpray|PunkRock|shiftgear,gunkshot,boomburst,overdrive||85,85,85,85,85,85|F|||82|,,,,,Normal",
+  "ai": "Honchkrow||HeavyDutyBoots|Moxie|suckerpunch,heatwave,lashout,bravebird||85,85,85,85,85,85|F|||86|,,,,,Dark]Zoroark||LifeOrb|Illusion|darkpulse,sludgebomb,nastyplot,psychic||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Perrserker||LifeOrb|ToughClaws|uturn,ironhead,stealthrock,closecombat||85,85,85,85,85,85|F|||89|,,,,,Fighting]Noctowl||HeavyDutyBoots|TintedLens|roost,hurricane,nastyplot,hypervoice||85,,85,85,85,85|M|,0,,,,||95|,,,,,Normal]Walking Wake||LifeOrb|Protosynthesis|dracometeor,hydrosteam,sunnyday,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Dunsparce||Eviolite|SereneGrace|coil,bodyslam,earthquake,roost||85,85,85,85,85,85|F|||86|,,,,,Ghost"
+}

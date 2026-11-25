@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-24",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,c240bef92f9061bc3e4172206459b38f0009b1865df0b547a6366aac7c2fefcf",
+    "ai": "sodium,128885a087855c96c9dadf9e06944261fbcf5dea0a99f648609134908af75a92"
+  },
+  "playerSpecies": [
+    "Rhydon",
+    "Krookodile",
+    "Tauros-Paldea-Combat",
+    "Poliwrath",
+    "Gumshoos",
+    "Florges"
+  ],
+  "player": "Rhydon||Eviolite|LightningRod|swordsdance,earthquake,megahorn,stoneedge||85,85,85,85,85,85|M|||85|,,,,,Dragon]Krookodile||ChoiceScarf|Intimidate|knockoff,gunkshot,earthquake,stoneedge||85,85,85,85,85,85|M|||79|,,,,,Poison]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|closecombat,throatchop,stoneedge,ironhead||85,85,85,85,85,85|M|||82|,,,,,Dark]Poliwrath||AssaultVest|WaterAbsorb|circlethrow,liquidation,knockoff,closecombat||85,85,85,85,85,85|M|||88|,,,,,Steel]Gumshoos||ChoiceBand|Stakeout|knockoff,doubleedge,uturn,earthquake||85,85,85,85,85,85|F|||95|,,,,,Normal]Florges||Leftovers|FlowerVeil|terablast,synthesis,moonblast,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground",
+  "ai": "Infernape||LifeOrb|Blaze|overheat,machpunch,closecombat,grassknot||85,85,85,85,85,85|F|||82|,,,,,Fire]Porygon2||Eviolite|Download|recover,discharge,triattack,icebeam||85,,85,85,85,85|N|,0,,,,||81|,,,,,Poison]Reshiram||HeavyDutyBoots|Turboblaze|dragontail,dracometeor,willowisp,blueflare||85,85,85,85,85,85|N|||76|,,,,,Fire]Volbeat||HeavyDutyBoots|Prankster|uturn,thunderwave,encore,roost||85,85,85,85,85,85|M|||90|,,,,,Steel]Pikachu|PikachuSinnoh|LightBall|LightningRod|volttackle,surf,fakeout,voltswitch||85,85,85,85,85,85|M|||93|,,,,,Water]Toucannon||HeavyDutyBoots|KeenEye|roost,knockoff,beakblast,boomburst||85,85,85,85,85,85|F|||88|,,,,,Steel"
+}

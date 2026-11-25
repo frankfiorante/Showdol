@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-13",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,399e73ca4895ab029705a2f72d801172515a07ac45ff84ac21e0a4564f4f0a06",
+    "ai": "sodium,be224c3f835413d432bd7a1e2e57c7b87aaac4aae99ab50792bb7bc7327b5e50"
+  },
+  "playerSpecies": [
+    "Sneasler",
+    "Honchkrow",
+    "Reshiram",
+    "Ursaring",
+    "Quaquaval",
+    "Drifblim"
+  ],
+  "player": "Sneasler||ChoiceBand|PoisonTouch|direclaw,uturn,throatchop,closecombat||85,85,85,85,85,85|M|||74|,,,,,Fighting]Honchkrow||HeavyDutyBoots|Moxie|bravebird,suckerpunch,uturn,heatwave||85,85,85,85,85,85|F|||86|,,,,,Dark]Reshiram||HeavyDutyBoots|Turboblaze|willowisp,dragontail,blueflare,dracometeor||85,85,85,85,85,85|N|||76|,,,,,Fire]Ursaring||Eviolite|Guts|bodyslam,rest,sleeptalk,earthquake||85,85,85,85,85,85|M|||84|,,,,,Ground]Quaquaval||LifeOrb|Moxie|encore,closecombat,swordsdance,aquastep||85,85,85,85,85,85|M|||79|,,,,,Water]Drifblim||HeavyDutyBoots|Aftermath|strengthsap,defog,shadowball,airslash||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy",
+  "ai": "Empoleon||Leftovers|Competitive|roost,surf,icebeam,knockoff||85,85,85,85,85,85|M|||84|,,,,,Flying]Iron Jugulis||PowerHerb|QuarkDrive|darkpulse,hurricane,earthpower,meteorbeam||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Goodra||AssaultVest|SapSipper|dracometeor,knockoff,fireblast,scald||85,85,85,85,85,85|M|||85|,,,,,Water]Crawdaunt||LifeOrb|Adaptability|crabhammer,knockoff,dragondance,closecombat||85,85,85,85,85,85|M|||84|,,,,,Fighting]Ursaring||ToxicOrb|QuickFeet|closecombat,swordsdance,facade,throatchop||85,85,85,85,85,85|M|||84|,,,,,Normal]Scream Tail||Leftovers|Protosynthesis|wish,playrough,protect,thunderwave||85,85,85,85,85,85|N|||84|,,,,,Poison"
+}

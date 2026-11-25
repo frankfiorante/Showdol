@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-02",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,a60797361dd6760bfc91730200a7bca98c7a83816aed579d6cdb79861d48b123",
+    "ai": "sodium,1cbe0627a9c8f4f88190ddd158c80075a4f787581b6f585bf23a0a9231934a00"
+  },
+  "playerSpecies": [
+    "Porygon-Z",
+    "Sableye",
+    "Muk",
+    "Registeel",
+    "Passimian",
+    "Altaria"
+  ],
+  "player": "Porygon-Z||LifeOrb|Adaptability|shadowball,agility,nastyplot,terablast||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fighting]Sableye||Leftovers|Prankster|encore,thunderwave,knockoff,recover||85,85,85,85,85,85|M|||87|,,,,,Poison]Muk||AssaultVest|PoisonTouch|drainpunch,gunkshot,shadowsneak,knockoff||85,85,85,85,85,85|F|||86|,,,,,Dark]Registeel||Leftovers|ClearBody|thunderwave,bodypress,irondefense,ironhead||85,85,85,85,85,85|N|||81|,,,,,Fighting]Passimian||ChoiceScarf|Defiant|gunkshot,knockoff,closecombat,rockslide||85,85,85,85,85,85|F|||83|,,,,,Poison]Altaria||HeavyDutyBoots|NaturalCure|roost,earthquake,dragondance,bravebird||85,85,85,85,85,85|F|||89|,,,,,Ground",
+  "ai": "Roaring Moon||ChoiceBand|Protosynthesis|knockoff,ironhead,uturn,outrage||85,85,85,85,85,85|N|||72|,,,,,Dragon]Gyarados||HeavyDutyBoots|Moxie|earthquake,dragondance,terablast,waterfall||85,85,85,85,85,85|F|||79|,,,,,Flying]Enamorus|EnamorusTherian|WeaknessPolicy|Overcoat|agility,mysticalfire,earthpower,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground]Araquanid||HeavyDutyBoots|WaterBubble|stickyweb,liquidation,leechlife,hydropump||85,85,85,85,85,85|F|||82|,,,,,Ground]Indeedee|IndeedeeF|ChoiceScarf|PsychicSurge|hypervoice,psychic,dazzlinggleam,healingwish||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Morpeko||HeavyDutyBoots|HungerSwitch|aurawheel,rapidspin,protect,partingshot||85,85,85,85,85,85|F|||88|,,,,,Electric"
+}

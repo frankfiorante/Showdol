@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-14",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,15a3e460b9d175b9ef7a8af2f0fb0108aa10b9f5b8ae84725fbdeab6b1f3b20f",
+    "ai": "sodium,09bf42e01b86408e7101f2f2f24e49aa5f3eb0bd1fee18edf036fe3d13669c94"
+  },
+  "playerSpecies": [
+    "Palossand",
+    "Raichu-Alola",
+    "Weezing",
+    "Talonflame",
+    "Drifblim",
+    "Groudon"
+  ],
+  "player": "Palossand||Leftovers|WaterCompaction|earthpower,shoreup,stealthrock,shadowball||85,,85,85,85,85|F|,0,,,,||89|,,,,,Water]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|psychic,surf,grassknot,thunderbolt||85,,85,85,85,85|F|,0,,,,||87|,,,,,Grass]Weezing||Leftovers|Levitate|toxicspikes,painsplit,gunkshot,fireblast||85,85,85,85,85,85|M|||88|,,,,,Steel]Talonflame||HeavyDutyBoots|FlameBody|bravebird,roost,willowisp,overheat||85,85,85,85,85,85|M|||83|,,,,,Ground]Drifblim||HeavyDutyBoots|Aftermath|defog,airslash,shadowball,strengthsap||85,,85,85,85,85|M|,0,,,,||86|,,,,,Steel]Groudon||Leftovers|Drought|heatcrash,precipiceblades,swordsdance,stoneedge||85,85,85,85,85,85|N|||72|,,,,,Fire",
+  "ai": "Vespiquen||HeavyDutyBoots|Pressure|uturn,hurricane,spikes,roost||85,85,85,85,85,85|F|||99|,,,,,Steel]Terapagos||ChestoBerry|TeraShift|darkpulse,rest,calmmind,terastarstorm||85,,85,85,85,85|F|,0,,,,||77|,,,,,Stellar]Scizor||LifeOrb|Technician|bulletpunch,knockoff,closecombat,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Steel]Luxray||FlameOrb|Guts|playrough,trailblaze,facade,supercellslam||81,85,85,85,85,85|F|||88|,,,,,Normal]Grumpig||Leftovers|ThickFat|nastyplot,earthpower,psychic,dazzlinggleam||85,,85,85,85,85|M|,0,,,,||92|,,,,,Fairy]Trevenant||SitrusBerry|Harvest|drainpunch,protect,poltergeist,toxic||85,85,85,85,85,85|M|||89|,,,,,Steel"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-10",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,a789d320ef0576baf55ea6e5bbe5704d7419227655d61ed5bff5bd5424017865",
+    "ai": "sodium,d7412e429a8f023f8f5792787a8600f8d834eefc10b0bb44394f68def0f199a0"
+  },
+  "playerSpecies": [
+    "Drifblim",
+    "Serperior",
+    "Dialga",
+    "Scrafty",
+    "Deoxys-Defense",
+    "Mimikyu"
+  ],
+  "player": "Drifblim||HeavyDutyBoots|Aftermath|defog,shadowball,strengthsap,airslash||85,,85,85,85,85|F|,0,,,,||86|,,,,,Dark]Serperior||Leftovers|Contrary|dragonpulse,leafstorm,substitute,leechseed||85,,85,85,85,85|M|,0,,,,||79|,,,,,Grass]Dialga||AssaultVest|Pressure|heavyslam,dragontail,fireblast,dracometeor||85,85,85,85,85,85|N|||73|,,,,,Steel]Scrafty||Leftovers|Intimidate|drainpunch,poisonjab,dragondance,knockoff||85,85,85,85,85,85|F|||83|,,,,,Poison]Deoxys|DeoxysDefense|Leftovers|Pressure|recover,storedpower,nightshade,cosmicpower||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Mimikyu||LifeOrb|Disguise|shadowsneak,drainpunch,swordsdance,playrough||85,85,85,85,85,85|M|||79|,,,,,Fighting",
+  "ai": "Luvdisc||HeavyDutyBoots|SwiftSwim|whirlpool,endeavor,substitute,surf||81,,85,85,85,85|F|,0,,,,|||,,,,,Ground]Cramorant||HeavyDutyBoots|GulpMissile|roost,bravebird,defog,surf||85,85,85,85,85,85|F|||86|,,,,,Ground]Salazzle||Leftovers|Corrosion|flamethrower,substitute,toxic,protect||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Eelektross||AssaultVest|Levitate|discharge,dragontail,closecombat,uturn||85,85,85,85,85,85|F|||87|,,,,,Steel]Incineroar||AssaultVest|Intimidate|knockoff,closecombat,uturn,overheat||85,85,85,85,85,85|F|||82|,,,,,Fighting]Shaymin||Leftovers|NaturalCure|seedflare,synthesis,earthpower,airslash||85,,85,85,85,85|N|,0,,,,||82|,,,,,Ground"
+}

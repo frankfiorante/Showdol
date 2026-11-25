@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-27",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,09d34554de241e0957ba40d2caf72148ef8e9740b518f8077c73e9bd9ed5feb3",
+    "ai": "sodium,8395a732759fd992cce7f6db28aebe1152195ec7ad002af3b0dcaac7568c4e21"
+  },
+  "playerSpecies": [
+    "Hitmonchan",
+    "Magcargo",
+    "Arceus-Electric",
+    "Magmortar",
+    "Iron Jugulis",
+    "Kommo-o"
+  ],
+  "player": "Hitmonchan||Leftovers|IronFist|drainpunch,knockoff,rapidspin,encore||85,85,85,85,85,85|M|||87|,,,,,Steel]Magcargo||HeavyDutyBoots|FlameBody|recover,stealthrock,yawn,lavaplume||85,,85,85,85,85|M|,0,,,,||95|,,,,,Dragon]Arceus|ArceusElectric|ZapPlate|Multitype|judgment,calmmind,icebeam,recover||85,,85,85,85,85|N|,0,,,,||70|,,,,,Ice]Magmortar||HeavyDutyBoots|FlameBody|thunderbolt,fireblast,scorchingsands,knockoff||85,85,85,85,85,85|M|||88|,,,,,Electric]Iron Jugulis||ChoiceSpecs|QuarkDrive|hurricane,darkpulse,hydropump,earthpower||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Kommo-o||ThroatSpray|Soundproof|drainpunch,ironhead,clangingscales,clangoroussoul||85,85,85,85,85,85|M|||77|,,,,,Steel",
+  "ai": "Golem|GolemAlola|ChoiceBand|Galvanize|explosion,stoneedge,earthquake,doubleedge||85,85,85,85,85,85|M|||93|,,,,,Grass]Raikou||HeavyDutyBoots|Pressure|thunderbolt,calmmind,voltswitch,scald||85,,85,85,85,85|N|,0,,,,||82|,,,,,Electric]Venusaur||Leftovers|Chlorophyll|sludgebomb,substitute,leechseed,sleeppowder||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Zangoose||ToxicOrb|ToxicBoost|knockoff,quickattack,facade,swordsdance||85,85,85,85,85,85|F|||85|,,,,,Normal]Gyarados||HeavyDutyBoots|Intimidate|stoneedge,earthquake,dragondance,waterfall||85,85,85,85,85,85|F|||79|,,,,,Ground]Spectrier||Leftovers|GrimNeigh|nastyplot,drainingkiss,shadowball,substitute||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fairy"
+}

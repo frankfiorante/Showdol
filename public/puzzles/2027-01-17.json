@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-17",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,0dc06be8131d7c10a6c0a77507ca68da4937a2a54029694b15ef1e54ead9882e",
+    "ai": "sodium,86679bd2e9c964d86c5176ad67bf904934d1a855af4d09cf7429867b5999aaae"
+  },
+  "playerSpecies": [
+    "Gyarados",
+    "Cacturne",
+    "Clefable",
+    "Poliwrath",
+    "Zacian",
+    "Iron Hands"
+  ],
+  "player": "Gyarados||HeavyDutyBoots|Intimidate|dragondance,terablast,waterfall,earthquake||85,85,85,85,85,85|F|||79|,,,,,Flying]Cacturne||LifeOrb|WaterAbsorb|suckerpunch,seedbomb,knockoff,swordsdance||85,85,85,85,85,85|M|||92|,,,,,Dark]Clefable||Leftovers|Unaware|thunderwave,fireblast,moonlight,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Poliwrath||Leftovers|WaterAbsorb|bulkup,drainpunch,knockoff,liquidation||85,85,85,85,85,85|F|||88|,,,,,Water]Zacian||RustedSword|IntrepidSword|swordsdance,playrough,behemothblade,closecombat||85,85,85,85,85,85|N|||64|,,,,,Fighting]Iron Hands||AssaultVest|QuarkDrive|voltswitch,wildcharge,icepunch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Electric",
+  "ai": "Persian||SilkScarf|Technician|doubleedge,knockoff,fakeout,uturn||85,85,85,85,85,85|F|||92|,,,,,Normal]Eiscue||SitrusBerry|IceFace|terablast,icespinner,bellydrum,liquidation||81,85,85,85,85,85|M|||88|,,,,,Electric]Wyrdeer||Leftovers|Intimidate|thunderwave,psychicnoise,earthquake,megahorn||85,85,85,85,85,85|M|||87|,,,,,Ground]Cloyster||WhiteHerb|SkillLink|drillrun,iciclespear,shellsmash,rockblast||85,85,85,85,85,85|M|||80|,,,,,Ground]Sandy Shocks||HeavyDutyBoots|Protosynthesis|earthpower,stealthrock,thunderbolt,voltswitch||85,,85,85,85,85|N|,0,,,,||80|,,,,,Ground]Seviper||LifeOrb|Infiltrator|glare,gunkshot,flamethrower,knockoff||85,85,85,85,85,85|F|||93|,,,,,Dark"
+}

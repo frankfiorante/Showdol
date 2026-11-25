@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-08",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,25edc743bd67ea0e9495707cbba9fb12eda04121604f388af78f00fd8bc89e3b",
+    "ai": "sodium,243a229a6671a1ebce2f6c5a7e75a5f9a00329b03af313ca861673b51640299d"
+  },
+  "playerSpecies": [
+    "Rampardos",
+    "Dragapult",
+    "Gastrodon-East",
+    "Minun",
+    "Beartic",
+    "Oricorio-Sensu"
+  ],
+  "player": "Rampardos||LifeOrb|SheerForce|zenheadbutt,rockslide,earthquake,firepunch||85,85,85,85,85,85|M|||90|,,,,,Fire]Dragapult||HeavyDutyBoots|Infiltrator|dragondarts,hex,willowisp,uturn||85,85,85,85,85,85|M|||77|,,,,,Fairy]Gastrodon|GastrodonEast|Leftovers|StormDrain|earthquake,stealthrock,recover,sludgebomb||85,85,85,85,85,85|M|||86|,,,,,Poison]Minun||LifeOrb|VoltAbsorb|thunderbolt,grassknot,alluringvoice,nastyplot||85,,85,85,85,85|F|,0,,,,||95|,,,,,Fairy]Beartic||HeavyDutyBoots|SlushRush|swordsdance,closecombat,iciclecrash,earthquake||85,85,85,85,85,85|M|||91|,,,,,Ground]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|roost,quiverdance,hurricane,revelationdance||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fighting",
+  "ai": "Gurdurr||Eviolite|Guts|defog,knockoff,drainpunch,machpunch||85,85,85,85,85,85|F|||85|,,,,,Steel]Incineroar||HeavyDutyBoots|Intimidate|trailblaze,knockoff,flareblitz,swordsdance||85,85,85,85,85,85|M|||82|,,,,,Grass]Brute Bonnet||Leftovers|Protosynthesis|suckerpunch,spore,seedbomb,crunch||85,85,85,85,85,85|N|||79|,,,,,Dark]Snorlax||Leftovers|ThickFat|crunch,bodyslam,earthquake,curse||85,85,85,85,85,85|F|||82|,,,,,Poison]Dedenne||SitrusBerry|CheekPouch|nuzzle,thunderbolt,superfang,dazzlinggleam||85,85,85,85,85,85|M|||88|,,,,,Flying]Lanturn||Leftovers|VoltAbsorb|scald,icebeam,thunderbolt,thunderwave||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying"
+}

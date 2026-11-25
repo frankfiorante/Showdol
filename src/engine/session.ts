@@ -7,14 +7,26 @@ import {FORMAT} from './puzzle';
 import {chooseRandom, type BotRequest} from './random-bot';
 import type {BattleResult, BattleView, MoveOption, PokemonView, Prompt, SideView, SwitchOption} from './view';
 
-/** Picks the AI's choice for a request. Phase 3 replaces the random bot. */
+/**
+ * Picks the AI's choice for a request. Phase 3 replaces the random bot.
+ * `rng` is seeded per decision (see `decisionSeed`), so the AI makes the same
+ * choice for the same decision whether or not the page was reloaded.
+ */
 export interface Opponent {
-  choose(request: BotRequest, battle: Battle): string;
+  choose(request: BotRequest, battle: Battle, rng: PRNG): string;
 }
 
-export function randomOpponent(seed: string): Opponent {
-  const prng = new PRNG(seed as PRNGSeed);
-  return {choose: req => chooseRandom(req, n => prng.random(n))};
+export const randomOpponent: Opponent = {
+  choose: (req, _battle, rng) => chooseRandom(req, n => rng.random(n)),
+};
+
+/**
+ * Seed for the AI's n-th decision. A sodium seed has 32 bytes of key and our
+ * seeds only use the first 16, so the decision number goes in the other 16.
+ */
+export function decisionSeed(aiSeed: string, n: number): PRNGSeed {
+  const hex = aiSeed.split(',')[1].slice(0, 32).padEnd(32, '0');
+  return `sodium,${hex}${n.toString(16).padStart(32, '0')}`;
 }
 
 export interface SessionInit {
@@ -24,6 +36,8 @@ export interface SessionInit {
   battleSeed: string;
   aiSeed: string;
   opponent?: Opponent;
+  /** Choices already made (from storage) to replay before continuing. */
+  inputLog?: string[];
 }
 
 export interface StepResult {
@@ -33,6 +47,9 @@ export interface StepResult {
 }
 
 export class ChoiceError extends Error {}
+
+/** A saved input log that no longer replays (e.g. the sim changed). */
+export class ReplayError extends Error {}
 
 const PLAYER = 'Player';
 const AI = 'AI';
@@ -49,6 +66,8 @@ export class BattleSession {
   private readonly client: ClientBattle;
   private readonly formatter: LogFormatter;
   private readonly opponent: Opponent;
+  private readonly aiSeed: string;
+  private aiDecisions = 0;
   private readonly playerSets: ReturnType<typeof Teams.unpack> & object;
   private cursor = 0;
   private forfeited = false;
@@ -59,12 +78,31 @@ export class BattleSession {
 
   constructor(init: SessionInit) {
     this.playerSets = Teams.unpack(init.playerTeam)!;
-    this.opponent = init.opponent ?? randomOpponent(init.aiSeed);
+    this.opponent = init.opponent ?? randomOpponent;
+    this.aiSeed = init.aiSeed;
     this.sim = new Battle({formatid: FORMAT as never, seed: init.battleSeed as PRNGSeed});
     this.client = new ClientBattle(gens, 'p1' as never, this.playerSets as never);
     this.formatter = new LogFormatter('p1', this.client);
     this.sim.setPlayer('p1', {name: PLAYER, team: init.playerTeam});
     this.sim.setPlayer('p2', {name: AI, team: init.aiTeam});
+    if (init.inputLog) this.replay(init.inputLog);
+  }
+
+  /** Re-applies saved choices without asking the AI again. */
+  private replay(lines: string[]) {
+    for (const line of lines) {
+      if (line === '>forcelose p1') {
+        this.forfeited = true;
+        this.sim.lose('p1');
+      } else {
+        const m = line.match(/^>(p[12]) (.+)$/);
+        if (!m || this.sim.ended || !this.sim.choose(m[1] as 'p1' | 'p2', m[2])) {
+          throw new ReplayError(`Saved battle could not be replayed at "${line}" (turn ${this.sim.turn})`);
+        }
+        if (m[1] === 'p2') this.aiDecisions++;
+      }
+      this.inputLog.push(line);
+    }
   }
 
   /** Runs until the player has to choose (or the battle ends). */
@@ -78,6 +116,7 @@ export class BattleSession {
     if (!this.needsChoice(0)) throw new ChoiceError('Not waiting for a choice.');
     if (!this.sim.choose('p1', choice)) {
       const error = side.choice.error || `Invalid choice: ${choice}`;
+      // Keeps any request update the sim made (e.g. trapped: true).
       side.clearChoice();
       throw new ChoiceError(error.replace(/^\[[^\]]+]\s*/, ''));
     }
@@ -104,7 +143,8 @@ export class BattleSession {
     // The AI decides as soon as it's asked, before seeing the player's choice.
     while (!this.sim.ended && this.needsChoice(1)) {
       const req = this.sim.sides[1].activeRequest as unknown as BotRequest;
-      let choice = this.opponent.choose(req, this.sim);
+      const rng = new PRNG(decisionSeed(this.aiSeed, this.aiDecisions++));
+      let choice = this.opponent.choose(req, this.sim, rng);
       if (!this.sim.choose('p2', choice)) {
         this.sim.sides[1].clearChoice();
         choice = 'default';
@@ -131,8 +171,9 @@ export class BattleSession {
       if (text) out.push(text);
       this.client.add(args as never, kwArgs as never);
     }
-    const req = this.sim.sides[0].activeRequest;
-    if (req && !this.sim.ended) this.client.update(Protocol.parseRequest(JSON.stringify(req) as Protocol.RequestJSON));
+    // The client is deliberately never given |request| data: the player's own
+    // side comes straight from the sim, and keeping the client's state a pure
+    // function of the log means a resumed battle formats exactly like a live one.
     const formatted = out.join('').split('\n').filter(l => l.trim() !== '');
     this.log.push(...formatted);
     return formatted;
@@ -212,7 +253,7 @@ export class BattleSession {
     const active = side.active[0];
     return {
       active: active && !active.fainted ? toView(active) : null,
-      team: side.team.map(toView),
+      team: withoutIllusionGhosts(side.team).map(toView),
       totalPokemon: side.totalPokemon || 6,
       conditions: sideConditions(side.sideConditions),
     };
@@ -269,8 +310,19 @@ export class BattleSession {
       myFainted: me.team.map(set => me.pokemon.find(p => p.set === set)!.fainted),
       aiRemaining: ai.pokemon.filter(p => !p.fainted).length,
       forfeited: this.forfeited,
+      // Safe to reveal once the battle is over.
+      aiTeam: ai.team.map(set => Dex.species.get(set.species).name),
     };
   }
+}
+
+/**
+ * When Zoroark's Illusion breaks, the client keeps a stale entry for the
+ * Pokémon it was disguised as (with Zoroark's HP and Tera). The real one is
+ * always tracked later, so keep the last entry per name.
+ */
+function withoutIllusionGhosts(team: ClientPokemon[]): ClientPokemon[] {
+  return team.filter((p, i) => !team.slice(i + 1).some(q => q.name === p.name));
 }
 
 function nonZero(boosts: Record<string, number>) {

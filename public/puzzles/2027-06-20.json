@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-20",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,b8ed0c6688dca0cddf1ed5f63589b0c648ec4ceb90f6c00086aafa65df1f12f3",
+    "ai": "sodium,093a4f4fe3673c511295fd2a1d78f200d7675a5f682eef6b3de852c7627fb2f6"
+  },
+  "playerSpecies": [
+    "Dragonite",
+    "Dewgong",
+    "Meloetta",
+    "Plusle",
+    "Basculin-Blue-Striped",
+    "Ceruledge"
+  ],
+  "player": "Dragonite||HeavyDutyBoots|Multiscale|terablast,outrage,dragondance,earthquake||85,85,85,85,85,85|F|||74|,,,,,Flying]Dewgong||AssaultVest|ThickFat|knockoff,tripleaxel,flipturn,surf||85,85,85,85,85,85|F|||94|,,,,,Poison]Meloetta||Leftovers|SereneGrace|hypervoice,psyshock,focusblast,calmmind||85,,85,85,85,85|N|,0,,,,||82|,,,,,Fighting]Plusle||LifeOrb|LightningRod|encore,grassknot,thunderbolt,nastyplot||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass]Basculin|BasculinBlueStriped|ChoiceBand|Adaptability|flipturn,aquajet,doubleedge,wavecrash||85,85,85,85,85,85|F|||86|,,,,,Water]Ceruledge||HeavyDutyBoots|WeakArmor|swordsdance,closecombat,poltergeist,bitterblade||85,85,85,85,85,85|F|||78|,,,,,Ghost",
+  "ai": "Rotom|RotomFrost|HeavyDutyBoots|Levitate|thunderbolt,willowisp,voltswitch,blizzard||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric]Comfey||Leftovers|Triage|calmmind,terablast,encore,drainingkiss||85,,85,85,85,85|M|,0,,,,||85|,,,,,Ground]Meowstic||LightClay|Prankster|reflect,lightscreen,psychicnoise,yawn||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Calyrex|CalyrexShadow|ChoiceSpecs|AsOneSpectrier|trick,psyshock,astralbarrage,pollenpuff||85,,85,85,85,85|N|,0,,,,||64|,,,,,Ghost]Keldeo|KeldeoResolute|ChoiceSpecs|Justified|vacuumwave,secretsword,hydropump,airslash||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fighting]Cinccino||LoadedDice|Technician|bulletseed,uturn,tripleaxel,tailslap||85,85,85,85,85,85|F|||83|,,,,,Grass"
+}

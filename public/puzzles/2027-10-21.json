@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-21",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,3a5c1a960169a050b0e92e454e89c5b1f0860698eb04447f755c271ca9d9d060",
+    "ai": "sodium,dd470136b4129fcdf2d109aa71a960a77e85dde1c2c15d385fd73c99598ebc39"
+  },
+  "playerSpecies": [
+    "Miraidon",
+    "Mightyena",
+    "Iron Bundle",
+    "Breloom",
+    "Torkoal",
+    "Camerupt"
+  ],
+  "player": "Miraidon||LifeOrb|HadronEngine|electrodrift,dragonpulse,dracometeor,calmmind||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Mightyena||Leftovers|Intimidate|taunt,suckerpunch,playrough,crunch||85,85,85,85,85,85|M|||96|,,,,,Fairy]Iron Bundle||ChoiceSpecs|QuarkDrive|icebeam,freezedry,hydropump,flipturn||85,85,85,85,85,85|N|||78|,,,,,Water]Breloom||LifeOrb|Technician|machpunch,swordsdance,spore,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Fighting]Torkoal||HeavyDutyBoots|Drought|fireblast,solarbeam,stealthrock,earthquake||85,85,85,85,85,85|M|||88|,,,,,Grass]Camerupt||Leftovers|SolidRock|willowisp,roar,overheat,earthquake||85,85,85,85,85,85|F|||91|,,,,,Grass",
+  "ai": "Toedscruel||Leftovers|MyceliumMight|earthpower,spore,leafstorm,rapidspin||85,85,85,85,85,85|F|||87|,,,,,Water]Spidops||HeavyDutyBoots|Stakeout|uturn,toxicspikes,knockoff,stickyweb||85,85,85,85,85,85|F|||96|,,,,,Ghost]Duraludon||Eviolite|LightMetal|thunderwave,dracometeor,flashcannon,bodypress||85,,85,85,85,85|F|,0,,,,||82|,,,,,Fighting]Iron Treads||Leftovers|QuarkDrive|stealthrock,voltswitch,ironhead,earthquake||85,85,85,85,85,85|N|||77|,,,,,Water]Jolteon||HeavyDutyBoots|VoltAbsorb|calmmind,thunderbolt,alluringvoice,voltswitch||85,,85,85,85,85|M|,0,,,,||84|,,,,,Electric]Alcremie||Leftovers|AromaVeil|recover,calmmind,alluringvoice,terablast||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground"
+}

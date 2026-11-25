@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-12",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5e1b63193c3344d916bb67310a5f02e186ee9c71d6b5ede153f7cab275aeb84c",
+    "ai": "sodium,23bf10e2730403763d40c1b1b20801728b16e001ada4886f3f273229cf210eab"
+  },
+  "playerSpecies": [
+    "Weezing",
+    "Scyther",
+    "Gliscor",
+    "Baxcalibur",
+    "Mightyena",
+    "Zacian"
+  ],
+  "player": "Weezing||Leftovers|Levitate|painsplit,willowisp,fireblast,sludgebomb||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Scyther||HeavyDutyBoots|Technician|closecombat,uturn,defog,dualwingbeat||85,85,85,85,85,85|M|||82|,,,,,Fighting]Gliscor||ToxicOrb|PoisonHeal|knockoff,earthquake,toxicspikes,protect||85,85,85,85,85,85|M|||76|,,,,,Water]Baxcalibur||LoadedDice|ThermalExchange|iciclespear,swordsdance,scaleshot,earthquake||81,85,85,85,85,85|F|||75|,,,,,Dragon]Mightyena||ChoiceBand|Intimidate|poisonfang,suckerpunch,crunch,playrough||85,85,85,85,85,85|F|||96|,,,,,Fairy]Zacian||RustedSword|IntrepidSword|behemothblade,closecombat,playrough,swordsdance||85,85,85,85,85,85|N|||64|,,,,,Fighting",
+  "ai": "Regieleki||Magnet|Transistor|explosion,rapidspin,thunderbolt,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Electric]Infernape||LifeOrb|Blaze|knockoff,closecombat,machpunch,overheat||85,85,85,85,85,85|F|||82|,,,,,Fighting]Dragapult||ChoiceSpecs|Infiltrator|dracometeor,fireblast,uturn,shadowball||85,85,85,85,85,85|M|||77|,,,,,Ghost]Hypno||Leftovers|Insomnia|toxic,protect,psychicnoise,focusblast||85,,85,85,85,85|M|,0,,,,||95|,,,,,Dark]Cacturne||LifeOrb|WaterAbsorb|seedbomb,swordsdance,knockoff,suckerpunch||85,85,85,85,85,85|M|||92|,,,,,Dark]Basculegion||AssaultVest|Adaptability|aquajet,wavecrash,shadowball,flipturn||85,85,85,85,85,85|M|||80|,,,,,Water"
+}

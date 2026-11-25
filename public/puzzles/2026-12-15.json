@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-15",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,6baa1420367af1d75d683c6858827b33451613aa2a57af45ed90dd5cfc98d9f3",
+    "ai": "sodium,fb9c30f0f437294d6092e8059a5e7b9f172bbaadae88999fa8f55f5d908c819c"
+  },
+  "playerSpecies": [
+    "Sawsbuck",
+    "Hitmonchan",
+    "Stonjourner",
+    "Regieleki",
+    "Comfey",
+    "Gyarados"
+  ],
+  "player": "Sawsbuck||LifeOrb|SereneGrace|swordsdance,hornleech,highhorsepower,headbutt||85,85,85,85,85,85|F|||88|,,,,,Normal]Hitmonchan||LifeOrb|IronFist|knockoff,drainpunch,machpunch,swordsdance||85,85,85,85,85,85|M|||87|,,,,,Dark]Stonjourner||LifeOrb|PowerSpot|stealthrock,earthquake,heatcrash,stoneedge||85,85,85,85,85,85|M|||91|,,,,,Ground]Regieleki||Magnet|Transistor|rapidspin,voltswitch,explosion,thunderbolt||85,85,85,85,85,85|N|||79|,,,,,Electric]Comfey||Leftovers|Triage|gigadrain,drainingkiss,calmmind,storedpower||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Gyarados||HeavyDutyBoots|Moxie|dragondance,earthquake,stoneedge,waterfall||85,85,85,85,85,85|M|||79|,,,,,Ground",
+  "ai": "Whimsicott||Leftovers|Prankster|substitute,moonblast,encore,leechseed||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Lycanroc|LycanrocDusk|ChoiceBand|ToughClaws|closecombat,throatchop,accelerock,stoneedge||85,85,85,85,85,85|M|||81|,,,,,Fighting]Zebstrika||LifeOrb|SapSipper|voltswitch,overheat,highhorsepower,supercellslam||85,85,85,85,85,85|F|||87|,,,,,Ground]Azumarill||ChoiceBand|HugePower|icespinner,playrough,liquidation,aquajet||85,85,85,85,85,85|F|||82|,,,,,Water]Archaludon||Leftovers|Stamina|bodypress,flashcannon,dracometeor,thunderwave||85,,85,85,85,85|F|,0,,,,||77|,,,,,Fighting]Toedscruel||AssaultVest|MyceliumMight|rapidspin,gigadrain,earthpower,knockoff||85,85,85,85,85,85|M|||87|,,,,,Water"
+}

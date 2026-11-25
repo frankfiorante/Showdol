@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-19",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,e6d75e9322720c867564eea6d29ff83f43474ce63dfd18c8e2c1d80d1480ce3c",
+    "ai": "sodium,b112291f000e7859a3cf54c55f83a021fa70bc0b5329994f44766a2d61b99a5d"
+  },
+  "playerSpecies": [
+    "Bruxish",
+    "Brambleghast",
+    "Misdreavus",
+    "Ting-Lu",
+    "Archaludon",
+    "Keldeo-Resolute"
+  ],
+  "player": "Bruxish||ChoiceBand|StrongJaw|wavecrash,aquajet,crunch,psychicfangs||85,85,85,85,85,85|F|||85|,,,,,Dark]Brambleghast||Leftovers|WindRider|poltergeist,spikes,strengthsap,powerwhip||85,85,85,85,85,85|F|||88|,,,,,Steel]Misdreavus||Eviolite|Levitate|drainingkiss,shadowball,calmmind,willowisp||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Ting-Lu||Leftovers|VesselofRuin|payback,earthquake,stealthrock,ruination||85,85,85,85,85,85|N|||78|,,,,,Ghost]Archaludon||LumBerry|Stamina|ironhead,outrage,earthquake,swordsdance||85,85,85,85,85,85|F|||77|,,,,,Ground]Keldeo|KeldeoResolute|Leftovers|Justified|surf,calmmind,secretsword,substitute||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel",
+  "ai": "Rotom|RotomMow|Leftovers|Levitate|thunderbolt,nastyplot,willowisp,leafstorm||85,,85,85,85,85|N|,0,,,,||87|,,,,,Grass]Garchomp||LoadedDice|RoughSkin|earthquake,scaleshot,firefang,swordsdance||85,85,85,85,85,85|M|||74|,,,,,Fire]Swalot||Leftovers|LiquidOoze|sludgebomb,toxicspikes,earthquake,knockoff||85,85,85,85,85,85|M|||90|,,,,,Dark]Perrserker||ChoiceBand|ToughClaws|uturn,closecombat,knockoff,ironhead||85,85,85,85,85,85|M|||89|,,,,,Fighting]Empoleon||Leftovers|Competitive|icebeam,roost,yawn,surf||85,,85,85,85,85|F|,0,,,,||84|,,,,,Flying]Eiscue||SitrusBerry|IceFace|bellydrum,liquidation,icespinner,zenheadbutt||81,85,85,85,85,85|M|||88|,,,,,Water"
+}

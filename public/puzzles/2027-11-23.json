@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-23",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,c9ed4a9b6c8772db96846e3cb986dcd798cd5a282e2a326adb9bc4842cb599f5",
+    "ai": "sodium,ea2d95771889bbadf38d244183e8c915c0db864563fdd6651fdd63a10f79ddb1"
+  },
+  "playerSpecies": [
+    "Iron Bundle",
+    "Farigiraf",
+    "Forretress",
+    "Staraptor",
+    "Conkeldurr",
+    "Swanna"
+  ],
+  "player": "Iron Bundle||HeavyDutyBoots|QuarkDrive|icebeam,hydropump,freezedry,encore||85,,85,85,85,85|N|,0,,,,||78|,,,,,Ice]Farigiraf||Leftovers|SapSipper|psychicnoise,bodyslam,wish,protect||85,85,85,85,85,85|M|||89|,,,,,Ground]Forretress||Leftovers|Sturdy|rapidspin,thunderwave,ironhead,stealthrock||85,85,85,85,85,85|M|||84|,,,,,Water]Staraptor||ChoiceBand|Reckless|closecombat,uturn,quickattack,bravebird||81,85,85,85,85,85|M|||79|,,,,,Flying]Conkeldurr||FlameOrb|Guts|facade,knockoff,closecombat,machpunch||85,85,85,85,85,85|M|||80|,,,,,Normal]Swanna||HeavyDutyBoots|Hydration|hydropump,roost,knockoff,bravebird||85,85,85,85,85,85|F|||89|,,,,,Ground",
+  "ai": "Chien-Pao||HeavyDutyBoots|SwordofRuin|throatchop,iciclecrash,swordsdance,iceshard||85,85,85,85,85,85|N|||72|,,,,,Ice]Palafin||ChoiceBand|ZerotoHero|closecombat,flipturn,wavecrash,jetpunch||85,85,85,85,85,85|M|||77|,,,,,Fighting]Hawlucha||WhiteHerb|Unburden|swordsdance,bravebird,stoneedge,closecombat||85,85,85,85,85,85|F|||80|,,,,,Flying]Golem||CustapBerry|Sturdy|explosion,stoneedge,earthquake,stealthrock||85,85,85,85,85,85|M|||87|,,,,,Steel]Goodra|GoodraHisui|AssaultVest|SapSipper|heavyslam,hydropump,dragontail,dracometeor||85,85,85,85,85,85|M|||82|,,,,,Water]Lokix||SilverPowder|TintedLens|knockoff,firstimpression,uturn,suckerpunch||85,85,85,85,85,85|F|||82|,,,,,Bug"
+}

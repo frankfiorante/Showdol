@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-25",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,24ef198adec4aa560a120da67005800da24801847fbaee4306fc545ec37f1f69",
+    "ai": "sodium,b3756ec275f4853c78b8937e688831fd4ae4cfe3674c69543fa459fa17aa0703"
+  },
+  "playerSpecies": [
+    "Munkidori",
+    "Bombirdier",
+    "Chien-Pao",
+    "Muk",
+    "Blastoise",
+    "Dialga-Origin"
+  ],
+  "player": "Munkidori||AssaultVest|ToxicChain|sludgewave,psychicnoise,uturn,focusblast||85,85,85,85,85,85|M|||79|,,,,,Dark]Bombirdier||HeavyDutyBoots|RockyPayload|stoneedge,roost,knockoff,bravebird||85,85,85,85,85,85|F|||85|,,,,,Rock]Chien-Pao||ChoiceBand|SwordofRuin|iceshard,iciclecrash,sacredsword,crunch||85,85,85,85,85,85|N|||72|,,,,,Fighting]Muk||AssaultVest|PoisonTouch|icepunch,poisonjab,drainpunch,knockoff||85,85,85,85,85,85|F|||86|,,,,,Dark]Blastoise||WhiteHerb|Torrent|icebeam,shellsmash,earthquake,hydropump||85,85,85,85,85,85|F|||80|,,,,,Water]Dialga|DialgaOrigin|AdamantCrystal|Pressure|fireblast,flashcannon,stealthrock,dracometeor||85,,85,85,85,85|N|,0,,,,||73|,,,,,Dragon",
+  "ai": "Vaporeon||Leftovers|WaterAbsorb|scald,wish,haze,protect||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Regidrago||ChoiceScarf|DragonsMaw|dracometeor,dragonenergy,earthquake,outrage||85,85,85,85,85,85|N|||77|,,,,,Dragon]Azelf||Leftovers|Levitate|knockoff,stealthrock,encore,psychic||85,85,85,85,85,85|N|||82|,,,,,Dark]Tentacruel||Leftovers|LiquidOoze|rapidspin,sludgebomb,surf,haze||85,85,85,85,85,85|F|||84|,,,,,Grass]Hitmontop||ChoiceBand|Intimidate|suckerpunch,earthquake,stoneedge,closecombat||85,85,85,85,85,85|M|||88|,,,,,Steel]Heatran||AssaultVest|FlashFire|heavyslam,magmastorm,lavaplume,earthpower||85,85,85,85,85,85|M|||79|,,,,,Grass"
+}

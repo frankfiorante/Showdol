@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-23",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,b71e6489d56b2cdfad5d5b22dfd8e63a2aea248e7c0f8f595bd35b080e0e5126",
+    "ai": "sodium,a825fd9a781e5bb4f32b7b24bf3dcce0410ddbb3119e251d717c605724bca917"
+  },
+  "playerSpecies": [
+    "Sudowoodo",
+    "Spidops",
+    "Swalot",
+    "Houndstone",
+    "Lilligant",
+    "Pachirisu"
+  ],
+  "player": "Sudowoodo||ChoiceBand|RockHead|earthquake,headsmash,woodhammer,suckerpunch||85,85,85,85,85,85|F|||94|,,,,,Rock]Spidops||HeavyDutyBoots|Stakeout|stickyweb,toxicspikes,circlethrow,spikes||85,85,85,85,85,85|F|||96|,,,,,Ghost]Swalot||Leftovers|LiquidOoze|toxic,sludgebomb,protect,earthquake||85,85,85,85,85,85|M|||90|,,,,,Ground]Houndstone||ChoiceBand|Fluffy|playrough,poltergeist,shadowsneak,bodypress||85,85,85,85,85,85|F|||86|,,,,,Fighting]Lilligant||LifeOrb|Chlorophyll|quiverdance,sleeppowder,gigadrain,terablast||85,,85,85,85,85|F|,0,,,,||86|,,,,,Rock]Pachirisu||AssaultVest|VoltAbsorb|thunderbolt,uturn,superfang,nuzzle||85,85,85,85,85,85|M|||96|,,,,,Flying",
+  "ai": "Armarouge||ChoiceSpecs|WeakArmor|armorcannon,aurasphere,energyball,psyshock||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fighting]Donphan||Leftovers|Sturdy|iceshard,rapidspin,stealthrock,earthquake||85,85,85,85,85,85|F|||84|,,,,,Dragon]Metagross||WeaknessPolicy|ClearBody|heavyslam,agility,psychicfangs,earthquake||85,85,85,85,85,85|N|||79|,,,,,Ground]Porygon2||Eviolite|Download|icebeam,discharge,recover,triattack||85,,85,85,85,85|N|,0,,,,||81|,,,,,Ghost]Sandy Shocks||HeavyDutyBoots|Protosynthesis|voltswitch,spikes,earthpower,thunderbolt||85,,85,85,85,85|N|,0,,,,||80|,,,,,Electric]Rayquaza||ChoiceBand|AirLock|uturn,earthquake,dragonascent,extremespeed||85,85,85,85,85,85|N|||72|,,,,,Normal"
+}

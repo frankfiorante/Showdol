@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-01",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,be49fa09808721a94434074a120919f67d4cae1280b9e70b55a40d6994d89423",
+    "ai": "sodium,e36e481c365a4c50c7933999cc81763bd95830e0658b623502c22d3baa400b04"
+  },
+  "playerSpecies": [
+    "Tauros-Paldea-Blaze",
+    "Rabsca",
+    "Ogerpon",
+    "Deoxys-Defense",
+    "Sylveon",
+    "Typhlosion"
+  ],
+  "player": "Tauros|TaurosPaldeaBlaze|SitrusBerry|CudChew|bulkup,ragingbull,closecombat,substitute||73,85,85,85,85,85|M|||81|,,,,,Water]Rabsca||HeavyDutyBoots|Synchronize|bugbuzz,psychic,revivalblessing,earthpower||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Ogerpon||ChoiceBand|Defiant|uturn,knockoff,superpower,ivycudgel||85,85,85,85,85,85|F|||80|,,,,,Grass]Deoxys|DeoxysDefense|Leftovers|Pressure|cosmicpower,recover,storedpower,nightshade||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Sylveon||Leftovers|Pixilate|calmmind,protect,hypervoice,wish||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Typhlosion||ChoiceScarf|Blaze|scorchingsands,focusblast,fireblast,eruption||81,,85,85,85,85|M|,0,,,,||84|,,,,,Fire",
+  "ai": "Ting-Lu||Leftovers|VesselofRuin|ruination,earthquake,payback,stealthrock||85,85,85,85,85,85|N|||78|,,,,,Poison]Flygon||ChoiceBand|Levitate|outrage,earthquake,uturn,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Ground]Greedent||SitrusBerry|CheekPouch|knockoff,swordsdance,doubleedge,earthquake||85,85,85,85,85,85|F|||86|,,,,,Ground]Abomasnow||LightClay|SnowWarning|blizzard,earthquake,auroraveil,iceshard||77,85,85,85,85,85|F|||84|,,,,,Water]Wugtrio||ChoiceBand|Gooey|throatchop,stompingtantrum,liquidation,aquajet||85,85,85,85,85,85|F|||91|,,,,,Ground]Luxray||AssaultVest|Intimidate|playrough,icefang,wildcharge,voltswitch||85,85,85,85,85,85|F|||88|,,,,,Electric"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-10",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,7afa3c6d34f45cb8a2793f38fc99f1beef9e089482c23f8a5f6778c8f2d20769",
+    "ai": "sodium,70e4b5ac599264ae38caddc86df69949c045974c0952640c8af1d7069ac83f26"
+  },
+  "playerSpecies": [
+    "Iron Crown",
+    "Beartic",
+    "Spiritomb",
+    "Flareon",
+    "Mightyena",
+    "Hypno"
+  ],
+  "player": "Iron Crown||ChoiceSpecs|QuarkDrive|tachyoncutter,voltswitch,psyshock,focusblast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Steel]Beartic||HeavyDutyBoots|SlushRush|aquajet,iciclecrash,closecombat,swordsdance||85,85,85,85,85,85|F|||91|,,,,,Fighting]Spiritomb||Leftovers|Infiltrator|suckerpunch,poltergeist,painsplit,foulplay||85,85,85,85,85,85|F|||89|,,,,,Ghost]Flareon||ToxicOrb|Guts|trailblaze,facade,willowisp,flareblitz||85,85,85,85,85,85|F|||90|,,,,,Normal]Mightyena||AssaultVest|Intimidate|throatchop,playrough,poisonfang,superfang||85,85,85,85,85,85|F|||96|,,,,,Poison]Hypno||Leftovers|Insomnia|psychicnoise,knockoff,encore,thunderwave||85,85,85,85,85,85|M|||95|,,,,,Dark",
+  "ai": "Scizor||Leftovers|Technician|knockoff,defog,closecombat,bulletpunch||85,85,85,85,85,85|F|||79|,,,,,Dragon]Vivillon|VivillonModern|HeavyDutyBoots|CompoundEyes|quiverdance,terablast,sleeppowder,hurricane||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ground]Misdreavus||Eviolite|Levitate|willowisp,calmmind,shadowball,drainingkiss||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Jirachi||Leftovers|SereneGrace|bodyslam,wish,ironhead,protect||85,85,85,85,85,85|N|||80|,,,,,Water]Gallade||ChoiceBand|Sharpness|leafblade,psychocut,nightslash,sacredsword||85,85,85,85,85,85|M|||80|,,,,,Grass]Glimmora||PowerHerb|ToxicDebris|sludgewave,energyball,meteorbeam,earthpower||85,,85,85,85,85|M|,0,,,,||75|,,,,,Grass"
+}

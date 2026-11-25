@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-14",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,bdb244eec831c8af3b97a79009ffeaf751ce4b8d942fabdbaa97f7114396741d",
+    "ai": "sodium,c8c4a21b915091f1d9596eef4af1a9c0b4ca8777706c2051d116dae6829ab57d"
+  },
+  "playerSpecies": [
+    "Miraidon",
+    "Delibird",
+    "Heracross",
+    "Malamar",
+    "Vaporeon",
+    "Groudon"
+  ],
+  "player": "Miraidon||ChoiceSpecs|HadronEngine|dracometeor,overheat,electrodrift,voltswitch||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Delibird||HeavyDutyBoots|Insomnia|rapidspin,freezedry,bravebird,spikes||85,85,85,85,85,85|F||||,,,,,Ghost]Heracross||FlameOrb|Guts|knockoff,facade,trailblaze,closecombat||85,85,85,85,85,85|F|||80|,,,,,Normal]Malamar||ChestoBerry|Contrary|superpower,rest,psychocut,knockoff||85,85,85,85,85,85|M|||82|,,,,,Steel]Vaporeon||Leftovers|WaterAbsorb|scald,protect,wish,calmmind||85,,85,85,85,85|M|,0,,,,||86|,,,,,Ground]Groudon||Leftovers|Drought|stoneedge,heatcrash,thunderwave,precipiceblades||85,85,85,85,85,85|N|||72|,,,,,Fire",
+  "ai": "Inteleon||ChoiceSpecs|Torrent|icebeam,uturn,scald,hydropump||85,85,85,85,85,85|M|||81|,,,,,Water]Raging Bolt||Leftovers|Protosynthesis|thunderbolt,thunderclap,dracometeor,calmmind||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Thundurus|ThundurusTherian|ChoiceScarf|VoltAbsorb|psychic,focusblast,thunderbolt,grassknot||85,,85,85,85,85|M|,0,,,,||80|,,,,,Psychic]Tinkaton||Leftovers|MoldBreaker|swordsdance,gigatonhammer,playrough,knockoff||85,85,85,85,85,85|F|||82|,,,,,Steel]Exeggutor|ExeggutorAlola|SitrusBerry|Harvest|flamethrower,gigadrain,dragonpulse,calmmind||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fire]Indeedee||ChoiceScarf|PsychicSurge|expandingforce,dazzlinggleam,hypervoice,healingwish||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic"
+}

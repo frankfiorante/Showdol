@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-19",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,54ce250f2f46b6f2502bb8b5324670564a51552f82d759df2ff0b48465e49c38",
+    "ai": "sodium,906695c470cc208298139f75142503ff629510e3ec80a9986ceeb7862f0b0c22"
+  },
+  "playerSpecies": [
+    "Ogerpon-Wellspring",
+    "Hawlucha",
+    "Chesnaught",
+    "Noivern",
+    "Electrode",
+    "Hoopa"
+  ],
+  "player": "Ogerpon|OgerponWellspring|WellspringMask|WaterAbsorb|woodhammer,spikes,ivycudgel,synthesis||85,85,85,85,85,85|F|||76|,,,,,Water]Hawlucha||WhiteHerb|Unburden|throatchop,bravebird,closecombat,swordsdance||85,85,85,85,85,85|F|||80|,,,,,Flying]Chesnaught||Leftovers|Bulletproof|synthesis,bodypress,irondefense,trailblaze||85,85,85,85,85,85|M|||84|,,,,,Steel]Noivern||HeavyDutyBoots|Infiltrator|hurricane,dracometeor,defog,flamethrower||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fire]Electrode||LifeOrb|Static|voltswitch,taunt,thunderbolt,terablast||85,,85,85,85,85|N|,0,,,,||93|,,,,,Ice]Hoopa||ChoiceScarf|Magician|psychic,trick,shadowball,focusblast||85,,85,85,85,85|N|,0,,,,||85|,,,,,Fighting",
+  "ai": "Golem|GolemAlola|LifeOrb|Galvanize|rockpolish,stoneedge,earthquake,doubleedge||85,85,85,85,85,85|F|||93|,,,,,Grass]Milotic||Leftovers|Competitive|scald,recover,icebeam,dragontail||85,85,85,85,85,85|M|||83|,,,,,Steel]Iron Bundle||HeavyDutyBoots|QuarkDrive|freezedry,encore,icebeam,hydropump||85,,85,85,85,85|N|,0,,,,||78|,,,,,Ice]Oranguru||Leftovers|InnerFocus|focusblast,thunderbolt,psychic,nastyplot||85,,85,85,85,85|M|,0,,,,||92|,,,,,Electric]Ursaring||ToxicOrb|QuickFeet|closecombat,facade,crunch,swordsdance||85,85,85,85,85,85|F|||84|,,,,,Normal]Minior|MiniorOrange|WhiteHerb|ShieldsDown|earthquake,shellsmash,powergem,acrobatics||85,85,85,85,85,85|N|||79|,,,,,Flying"
+}

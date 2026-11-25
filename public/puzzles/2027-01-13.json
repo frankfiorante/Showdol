@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-13",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,1b3236563ad05b41a99967f18f8086de00aaa074d26c173df12ec856a276ec06",
+    "ai": "sodium,725cc663b21e04b4d1d2bdba0f83214aca29f6eaad51bcc666d26a7a8f48c275"
+  },
+  "playerSpecies": [
+    "Swanna",
+    "Talonflame",
+    "Walking Wake",
+    "Slowking-Galar",
+    "Mimikyu",
+    "Lycanroc"
+  ],
+  "player": "Swanna||HeavyDutyBoots|Hydration|roost,hydropump,defog,bravebird||85,85,85,85,85,85|F|||89|,,,,,Ground]Talonflame||HeavyDutyBoots|FlameBody|flareblitz,bravebird,swordsdance,terablast||85,85,85,85,85,85|F|||83|,,,,,Ground]Walking Wake||LifeOrb|Protosynthesis|dracometeor,flamethrower,sunnyday,hydrosteam||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Slowking|SlowkingGalar|HeavyDutyBoots|Regenerator|sludgebomb,chillyreception,slackoff,psyshock||85,,85,85,85,85|F|,0,,,,||85|,,,,,Dark]Mimikyu||LifeOrb|Disguise|playrough,drainpunch,swordsdance,shadowsneak||85,85,85,85,85,85|M|||79|,,,,,Fighting]Lycanroc||LifeOrb|SandRush|stealthrock,closecombat,stoneedge,psychicfangs||85,85,85,85,85,85|F|||86|,,,,,Fighting",
+  "ai": "Swalot||AssaultVest|LiquidOoze|knockoff,clearsmog,earthquake,sludgebomb||85,85,85,85,85,85|M|||90|,,,,,Dark]Mudsdale||Leftovers|Stamina|earthquake,stealthrock,roar,heavyslam||85,85,85,85,85,85|M|||83|,,,,,Steel]Tyranitar||AssaultVest|SandStream|earthquake,stoneedge,knockoff,icebeam||85,85,85,85,85,85|M|||78|,,,,,Ghost]Blastoise||WhiteHerb|Torrent|hydropump,icebeam,terablast,shellsmash||85,,85,85,85,85|F|,0,,,,||80|,,,,,Electric]Okidogi||Leftovers|ToxicChain|gunkshot,drainpunch,knockoff,bulkup||85,85,85,85,85,85|M|||77|,,,,,Dark]Deoxys|DeoxysSpeed|LifeOrb|Pressure|superpower,psychoboost,knockoff,spikes||85,85,85,85,85,85|N|||82|,,,,,Fighting"
+}

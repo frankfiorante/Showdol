@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-07",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,64e31127496d59167a0ae56f9b408f3e968faaade7962165ac4800935a33c720",
+    "ai": "sodium,41a7aaeabf1633c2ccf0afb2e84fcb20bf22e48182816f9d8432f3435d36aae7"
+  },
+  "playerSpecies": [
+    "Dugtrio-Alola",
+    "Dusknoir",
+    "Staraptor",
+    "Camerupt",
+    "Slaking",
+    "Reuniclus"
+  ],
+  "player": "Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|suckerpunch,earthquake,ironhead,swordsdance||85,85,85,85,85,85|F|||84|,,,,,Ground]Dusknoir||Leftovers|Frisk|poltergeist,focuspunch,painsplit,substitute||85,85,85,85,85,85|M|||89|,,,,,Fighting]Staraptor||ChoiceBand|Reckless|uturn,closecombat,doubleedge,bravebird||81,85,85,85,85,85|F|||79|,,,,,Flying]Camerupt||Leftovers|SolidRock|earthquake,overheat,willowisp,stealthrock||85,85,85,85,85,85|M|||91|,,,,,Water]Slaking||ChoiceBand|Truant|doubleedge,gigaimpact,earthquake,knockoff||85,85,85,85,85,85|F|||84|,,,,,Ghost]Reuniclus||LifeOrb|MagicGuard|calmmind,recover,psyshock,focusblast||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel",
+  "ai": "Sandy Shocks||Leftovers|Protosynthesis|spikes,stealthrock,thunderbolt,earthpower||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass]Cinderace||ChoiceBand|Libero|gunkshot,highjumpkick,pyroball,uturn||81,85,85,85,85,85|F|||77|,,,,,Fire]Scyther||HeavyDutyBoots|Technician|dualwingbeat,defog,uturn,closecombat||85,85,85,85,85,85|M|||82|,,,,,Fighting]Deoxys||LifeOrb|Pressure|psychoboost,superpower,knockoff,extremespeed||85,85,85,85,85,85|N|||74|,,,,,Dark]Wo-Chien||Leftovers|TabletsofRuin|knockoff,protect,gigadrain,leechseed||85,85,85,85,85,85|N|||83|,,,,,Poison]Empoleon||Leftovers|Competitive|knockoff,surf,roost,flipturn||85,85,85,85,85,85|M|||84|,,,,,Flying"
+}

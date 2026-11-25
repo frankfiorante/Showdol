@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-20",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,bfd6cf60d1d448194cffe9cbaec191d90ef9a29e7dfc7f7f7b0f400e7486c72b",
+    "ai": "sodium,807fd8a44f78eb9ef8c6fbf1fe8072bc2dff9c95a615cbc5ca8ed4af1a258394"
+  },
+  "playerSpecies": [
+    "Haxorus",
+    "Gardevoir",
+    "Ludicolo",
+    "Klefki",
+    "Copperajah",
+    "Kyogre"
+  ],
+  "player": "Haxorus||LoadedDice|MoldBreaker|closecombat,ironhead,swordsdance,scaleshot||85,85,85,85,85,85|F|||78|,,,,,Steel]Gardevoir||LifeOrb|Trace|psyshock,moonblast,mysticalfire,calmmind||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire]Ludicolo||LifeOrb|SwiftSwim|gigadrain,icebeam,hydropump,raindance||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Klefki||Leftovers|Prankster|playrough,spikes,magnetrise,thunderwave||85,85,85,85,85,85|F|||84|,,,,,Water]Copperajah||ChoiceBand|HeavyMetal|earthquake,heavyslam,knockoff,heatcrash||85,85,85,85,85,85|F|||86|,,,,,Fire]Kyogre||Leftovers|Drizzle|icebeam,calmmind,thunder,originpulse||85,,85,85,85,85|N|,0,,,,||71|,,,,,Steel",
+  "ai": "Gastrodon||Leftovers|StormDrain|stealthrock,sludgebomb,earthquake,recover||85,85,85,85,85,85|F|||86|,,,,,Poison]Manaphy||Leftovers|Hydration|icebeam,tailglow,energyball,hydropump||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Frosmoth||HeavyDutyBoots|IceScales|gigadrain,bugbuzz,quiverdance,icebeam||85,,85,85,85,85|M|,0,,,,||82|,,,,,Water]Staraptor||ChoiceScarf|Reckless|bravebird,uturn,doubleedge,closecombat||81,85,85,85,85,85|M|||79|,,,,,Flying]Toxtricity||ChoiceSpecs|PunkRock|boomburst,sludgewave,overdrive,voltswitch||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Froslass||WideLens|CursedBody|tripleaxel,spikes,poltergeist,destinybond||81,85,85,85,85,85|F|||87|,,,,,Ghost"
+}

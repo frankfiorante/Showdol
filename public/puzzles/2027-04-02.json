@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-02",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,1bdc05ecc26385272c8d06926b0c632852a09b5735204aad4d3260631d2659ba",
+    "ai": "sodium,bd0fd7456f2a21cd3e540a8877f24a059ffab2051a1262e29f9de950e89a3b78"
+  },
+  "playerSpecies": [
+    "Hitmonchan",
+    "Copperajah",
+    "Hypno",
+    "Latias",
+    "Brambleghast",
+    "Palafin"
+  ],
+  "player": "Hitmonchan||Leftovers|IronFist|drainpunch,swordsdance,rapidspin,knockoff||85,85,85,85,85,85|M|||87|,,,,,Fighting]Copperajah||LifeOrb|SheerForce|earthquake,ironhead,playrough,rockslide||85,85,85,85,85,85|F|||86|,,,,,Fairy]Hypno||Leftovers|Insomnia|encore,psychicnoise,knockoff,toxic||85,85,85,85,85,85|M|||95|,,,,,Dark]Latias||SoulDew|Levitate|psyshock,recover,dracometeor,calmmind||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Brambleghast||Leftovers|WindRider|poltergeist,strengthsap,powerwhip,spikes||85,85,85,85,85,85|M|||88|,,,,,Steel]Palafin||Leftovers|ZerotoHero|icepunch,wavecrash,jetpunch,bulkup||85,85,85,85,85,85|F|||77|,,,,,Dragon",
+  "ai": "Wo-Chien||Leftovers|TabletsofRuin|leechseed,protect,knockoff,ruination||85,85,85,85,85,85|N|||83|,,,,,Poison]Gastrodon||Leftovers|StormDrain|sludgebomb,earthquake,surf,recover||85,85,85,85,85,85|M|||86|,,,,,Poison]Barraskewda||ChoiceBand|SwiftSwim|psychicfangs,closecombat,flipturn,waterfall||85,85,85,85,85,85|F|||81|,,,,,Fighting]Bellibolt||Leftovers|Electromorphosis|voltswitch,muddywater,slackoff,thunderbolt||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Copperajah||LifeOrb|SheerForce|superpower,ironhead,earthquake,playrough||85,85,85,85,85,85|F|||86|,,,,,Fairy]Electrode|ElectrodeHisui|Leftovers|Soundproof|thunderbolt,gigadrain,substitute,leechseed||85,,85,85,85,85|N|,0,,,,||87|,,,,,Poison"
+}

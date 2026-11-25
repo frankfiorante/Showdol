@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-30",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5464c4cdd36a44b7a5d07aca0b3d62e71e7fb129f97a20e21f210fd369834907",
+    "ai": "sodium,56bc0e71de5ff7da8804cb8f9ffb73ea80d4ebbe7e52642d00b588a64d28ed71"
+  },
+  "playerSpecies": [
+    "Muk",
+    "Glalie",
+    "Ampharos",
+    "Braviary",
+    "Weezing",
+    "Bombirdier"
+  ],
+  "player": "Muk||AssaultVest|PoisonTouch|knockoff,drainpunch,gunkshot,shadowsneak||85,85,85,85,85,85|F|||86|,,,,,Dark]Glalie||HeavyDutyBoots|InnerFocus|earthquake,taunt,freezedry,spikes||85,85,85,85,85,85|M|||96|,,,,,Water]Ampharos||ChoiceSpecs|Static|thunderbolt,dazzlinggleam,focusblast,voltswitch||85,,85,85,85,85|M|,0,,,,||88|,,,,,Electric]Braviary||HeavyDutyBoots|Defiant|roost,closecombat,bravebird,bulkup||85,85,85,85,85,85|M|||85|,,,,,Steel]Weezing||Leftovers|Levitate|painsplit,fireblast,toxicspikes,sludgebomb||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Bombirdier||ChoiceBand|RockyPayload|stoneedge,bravebird,suckerpunch,knockoff||85,85,85,85,85,85|F|||85|,,,,,Rock",
+  "ai": "Floatzel||ChoiceBand|WaterVeil|icespinner,flipturn,crunch,wavecrash||85,85,85,85,85,85|F|||86|,,,,,Water]Revavroom||LifeOrb|Filter|shiftgear,gunkshot,ironhead,highhorsepower||85,85,85,85,85,85|F|||79|,,,,,Ground]Scrafty||Leftovers|ShedSkin|rest,drainpunch,knockoff,bulkup||85,85,85,85,85,85|M|||83|,,,,,Poison]Giratina|GiratinaOrigin|GriseousCore|Levitate|defog,shadowsneak,dracometeor,poltergeist||85,85,85,85,85,85|N|||72|,,,,,Fairy]Reuniclus||LifeOrb|MagicGuard|focusblast,psyshock,calmmind,recover||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|swordsdance,hornleech,superpower,ivycudgel||85,85,85,85,85,85|F|||76|,,,,,Rock"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-14",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5cc8c2c551ef3d77ae99fdb7d747a7bb39e97136886dc08592ae3048d854db57",
+    "ai": "sodium,bba74f80732e6f7bda41c8549a24e5a35f02ed5b4e5ad68c247abc018bcc2a81"
+  },
+  "playerSpecies": [
+    "Polteageist",
+    "Armarouge",
+    "Iron Bundle",
+    "Hitmonchan",
+    "Eelektross",
+    "Inteleon"
+  ],
+  "player": "Polteageist||WhiteHerb|CursedBody|shadowball,terablast,strengthsap,shellsmash||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Armarouge||ChoiceSpecs|WeakArmor|focusblast,energyball,psyshock,armorcannon||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fighting]Iron Bundle||HeavyDutyBoots|QuarkDrive|encore,flipturn,freezedry,hydropump||85,85,85,85,85,85|N|||78|,,,,,Water]Hitmonchan||Leftovers|IronFist|poisonjab,bulkup,knockoff,drainpunch||85,85,85,85,85,85|M|||87|,,,,,Steel]Eelektross||Leftovers|Levitate|coil,knockoff,supercellslam,drainpunch||85,85,85,85,85,85|F|||87|,,,,,Fighting]Inteleon||ChoiceSpecs|Torrent|hydropump,scald,icebeam,uturn||85,85,85,85,85,85|F|||81|,,,,,Water",
+  "ai": "Duraludon||Eviolite|LightMetal|bodypress,dracometeor,flashcannon,dragontail||85,85,85,85,85,85|F|||82|,,,,,Fighting]Banette||LifeOrb|Insomnia|swordsdance,poltergeist,gunkshot,shadowsneak||85,85,85,85,85,85|M|||93|,,,,,Poison]Polteageist|PolteageistAntique|WhiteHerb|CursedBody|terablast,shadowball,strengthsap,shellsmash||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Volcarona||HeavyDutyBoots|FlameBody|morningsun,quiverdance,bugbuzz,fireblast||85,,85,85,85,85|M|,0,,,,||77|,,,,,Steel]Metagross||WeaknessPolicy|ClearBody|agility,heavyslam,earthquake,psychicfangs||85,85,85,85,85,85|N|||79|,,,,,Ground]Okidogi||Leftovers|ToxicChain|knockoff,bulkup,drainpunch,gunkshot||85,85,85,85,85,85|M|||77|,,,,,Dark"
+}

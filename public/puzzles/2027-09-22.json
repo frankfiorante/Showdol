@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-22",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,b180d7c2ab1df6f7357d9e0dc82e28b5ef58ec8657d5ad7ab9b05aa1c8636af7",
+    "ai": "sodium,41ebdb391c3f4b4b9b176f1226974f3cd2734b2d1a1b711cd430c83070c341bc"
+  },
+  "playerSpecies": [
+    "Bastiodon",
+    "Lycanroc-Dusk",
+    "Iron Valiant",
+    "Whimsicott",
+    "Indeedee-F",
+    "Electrode"
+  ],
+  "player": "Bastiodon||ChestoBerry|Soundproof|foulplay,irondefense,bodypress,rest||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Lycanroc|LycanrocDusk|ChoiceBand|ToughClaws|closecombat,accelerock,stoneedge,psychicfangs||85,85,85,85,85,85|M|||81|,,,,,Fighting]Iron Valiant||LifeOrb|QuarkDrive|knockoff,encore,moonblast,closecombat||85,85,85,85,85,85|N|||78|,,,,,Steel]Whimsicott||Leftovers|Prankster|stunspore,encore,moonblast,gigadrain||85,,85,85,85,85|F|,0,,,,||84|,,,,,Steel]Indeedee|IndeedeeF|LifeOrb|PsychicSurge|calmmind,hypervoice,dazzlinggleam,psychic||85,,85,85,85,85|F|,0,,,,||90|,,,,,Psychic]Electrode||HeavyDutyBoots|Static|thunderwave,explosion,voltswitch,thunderbolt||85,85,85,85,85,85|N|||93|,,,,,Electric",
+  "ai": "Lugia||HeavyDutyBoots|Multiscale|earthpower,recover,calmmind,aeroblast||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Vaporeon||Leftovers|WaterAbsorb|protect,wish,scald,flipturn||85,85,85,85,85,85|M|||86|,,,,,Ghost]Uxie||Leftovers|Levitate|psychicnoise,nastyplot,drainingkiss,substitute||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy]Amoonguss||Leftovers|Regenerator|spore,gigadrain,sludgebomb,stompingtantrum||85,85,85,85,85,85|F|||82|,,,,,Steel]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|stoneedge,closecombat,ironhead,earthquake||85,85,85,85,85,85|M|||82|,,,,,Fighting]Falinks||LifeOrb|Defiant|knockoff,closecombat,noretreat,ironhead||85,85,85,85,85,85|N|||84|,,,,,Steel"
+}

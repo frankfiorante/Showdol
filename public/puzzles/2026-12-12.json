@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-12",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,b92745c7b258cf0ca89a9286561b3afa1c3f6c5e6fc5f934aea3c326f306729c",
+    "ai": "sodium,80d90d1dd10e18dac3e8b04b48755dea81a055604257b470ed885b6cba66600f"
+  },
+  "playerSpecies": [
+    "Toedscruel",
+    "Lumineon",
+    "Grafaiai",
+    "Sableye",
+    "Mew",
+    "Breloom"
+  ],
+  "player": "Toedscruel||Leftovers|MyceliumMight|toxic,rapidspin,leafstorm,earthpower||85,85,85,85,85,85|M|||87|,,,,,Water]Lumineon||LifeOrb|StormDrain|alluringvoice,encore,hydropump,icebeam||85,,85,85,85,85|M|,0,,,,||93|,,,,,Water]Grafaiai||HeavyDutyBoots|Prankster|gunkshot,encore,partingshot,knockoff||85,85,85,85,85,85|F|||86|,,,,,Dark]Sableye||Leftovers|Prankster|knockoff,thunderwave,recover,encore||85,85,85,85,85,85|M|||87|,,,,,Steel]Mew||LifeOrb|Synchronize|bugbuzz,psyshock,fireblast,nastyplot||85,,85,85,85,85|N|,0,,,,||82|,,,,,Fire]Breloom||LifeOrb|Technician|rocktomb,swordsdance,bulletseed,machpunch||85,85,85,85,85,85|F|||83|,,,,,Fighting",
+  "ai": "Minun||LifeOrb|VoltAbsorb|thunderbolt,nastyplot,encore,alluringvoice||85,,85,85,85,85|F|,0,,,,||95|,,,,,Fairy]Arboliva||Leftovers|SeedSower|earthpower,hypervoice,strengthsap,energyball||85,,85,85,85,85|F|,0,,,,||91|,,,,,Grass]Gengar||LifeOrb|CursedBody|focusblast,sludgewave,nastyplot,shadowball||85,,85,85,85,85|F|,0,,,,||81|,,,,,Fighting]Farigiraf||Leftovers|SapSipper|psychicnoise,protect,wish,bodyslam||85,85,85,85,85,85|M|||89|,,,,,Ground]Swampert||Leftovers|Damp|earthquake,knockoff,yawn,stealthrock||85,85,85,85,85,85|M|||82|,,,,,Steel]Hydreigon||ChoiceSpecs|Levitate|fireblast,dracometeor,uturn,darkpulse||85,85,85,85,85,85|F|||79|,,,,,Fire"
+}

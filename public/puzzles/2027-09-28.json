@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-28",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,48fba49110c86e6a1785027513509028b7ba5cb04a360ed06af06678bb7d1514",
+    "ai": "sodium,3a43a71c8cf22d8c9b322273ef32de8def28e5bad55727b19c16aa7de3ae2b27"
+  },
+  "playerSpecies": [
+    "Golduck",
+    "Snorlax",
+    "Scream Tail",
+    "Okidogi",
+    "Toxtricity",
+    "Masquerain"
+  ],
+  "player": "Golduck||LifeOrb|CloudNine|hydropump,icebeam,nastyplot,grassknot||85,,85,85,85,85|F|,0,,,,||90|,,,,,Water]Snorlax||ChestoBerry|ThickFat|curse,bodyslam,crunch,rest||85,85,85,85,85,85|M|||82|,,,,,Poison]Scream Tail||Leftovers|Protosynthesis|thunderwave,protect,wish,dazzlinggleam||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison]Okidogi||AssaultVest|ToxicChain|knockoff,highhorsepower,gunkshot,drainpunch||85,85,85,85,85,85|M|||77|,,,,,Dark]Toxtricity||ChoiceScarf|PunkRock|overdrive,boomburst,sludgewave,voltswitch||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Masquerain||HeavyDutyBoots|Intimidate|hydropump,hurricane,bugbuzz,quiverdance||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water",
+  "ai": "Sawsbuck|SawsbuckWinter|LifeOrb|SapSipper|doubleedge,highhorsepower,swordsdance,hornleech||85,85,85,85,85,85|M|||88|,,,,,Normal]Avalugg|AvaluggHisui|HeavyDutyBoots|Sturdy|recover,stoneedge,avalanche,bodypress||85,85,85,85,85,85|F|||91|,,,,,Poison]Breloom||LifeOrb|Technician|swordsdance,machpunch,spore,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Fighting]Regirock||Leftovers|ClearBody|stealthrock,stoneedge,thunderwave,bodypress||85,85,85,85,85,85|N|||83|,,,,,Fighting]Regidrago||LumBerry|DragonsMaw|outrage,earthquake,dracometeor,dragondance||85,85,85,85,85,85|N|||77|,,,,,Dragon]Metagross||ChoiceBand|ClearBody|bulletpunch,knockoff,heavyslam,earthquake||85,85,85,85,85,85|N|||79|,,,,,Water"
+}

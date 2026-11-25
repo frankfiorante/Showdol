@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-13",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,7e99ae54568a516cf800633f48ae71ce985e38c14c77a4ae0547ee9f017c903d",
+    "ai": "sodium,6ce244c160519e0c71f4d1184a1757ca4d13dca67d9f115fecf2477e4308f060"
+  },
+  "playerSpecies": [
+    "Koraidon",
+    "Gholdengo",
+    "Dedenne",
+    "Florges-Yellow",
+    "Calyrex-Ice",
+    "Slowking"
+  ],
+  "player": "Koraidon||ChoiceBand|OrichalcumPulse|uturn,flareblitz,closecombat,outrage||85,85,85,85,85,85|N|||64|,,,,,Fire]Gholdengo||Leftovers|GoodasGold|makeitrain,shadowball,recover,thunderwave||85,,85,85,85,85|N|,0,,,,||77|,,,,,Steel]Dedenne||SitrusBerry|CheekPouch|uturn,thunderbolt,dazzlinggleam,nuzzle||85,85,85,85,85,85|F|||88|,,,,,Flying]Florges|FlorgesYellow|Leftovers|FlowerVeil|moonblast,terablast,synthesis,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground]Calyrex|CalyrexIce|WeaknessPolicy|AsOneGlastrier|closecombat,glaciallance,highhorsepower,agility||85,85,85,85,85,85|N|||72|,,,,,Fighting]Slowking||HeavyDutyBoots|Regenerator|slackoff,chillyreception,futuresight,scald||85,,85,85,85,85|M|,0,,,,||88|,,,,,Dragon",
+  "ai": "Walking Wake||ChoiceSpecs|Protosynthesis|dracometeor,flipturn,hydropump,flamethrower||85,85,85,85,85,85|N|||79|,,,,,Water]Toucannon||HeavyDutyBoots|KeenEye|roost,knockoff,boomburst,beakblast||85,85,85,85,85,85|F|||88|,,,,,Steel]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,defog,hydropump||85,85,85,85,85,85|F|||89|,,,,,Ground]Chien-Pao||HeavyDutyBoots|SwordofRuin|iciclecrash,swordsdance,throatchop,iceshard||85,85,85,85,85,85|N|||72|,,,,,Dark]Raikou||ChoiceSpecs|Pressure|scald,shadowball,voltswitch,thunderbolt||85,,85,85,85,85|N|,0,,,,||82|,,,,,Electric]Alcremie|AlcremieRubyCream|Leftovers|AromaVeil|recover,terablast,calmmind,alluringvoice||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-26",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,92ca36433517dcfc7830312a04e78f7030a1709799def7c3ce90bc1f351fb494",
+    "ai": "sodium,b501be135f4dcdcd2ef10ed50ac518dff90adf04432d0b4173b778ddbd82aebe"
+  },
+  "playerSpecies": [
+    "Palkia-Origin",
+    "Cobalion",
+    "Zekrom",
+    "Cresselia",
+    "Zebstrika",
+    "Necrozma-Dawn-Wings"
+  ],
+  "player": "Palkia|PalkiaOrigin|LustrousGlobe|Pressure|thunderwave,fireblast,spacialrend,hydropump||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire]Cobalion||LifeOrb|Justified|closecombat,ironhead,stoneedge,swordsdance||85,85,85,85,85,85|N|||80|,,,,,Fighting]Zekrom||Leftovers|Teravolt|boltstrike,dragondance,substitute,outrage||85,85,85,85,85,85|N|||71|,,,,,Grass]Cresselia||Leftovers|Levitate|thunderbolt,psyshock,moonlight,calmmind||85,,85,85,85,85|F|,0,,,,||80|,,,,,Steel]Zebstrika||LifeOrb|SapSipper|supercellslam,highhorsepower,voltswitch,overheat||85,85,85,85,85,85|M|||87|,,,,,Ground]Necrozma|NecrozmaDawnWings|LifeOrb|PrismArmor|dragondance,moongeistbeam,photongeyser,brickbreak||85,85,85,85,85,85|N|||76|,,,,,Fighting",
+  "ai": "Porygon-Z||ChoiceScarf|Adaptability|thunderbolt,trick,shadowball,triattack||85,,85,85,85,85|N|,0,,,,||83|,,,,,Ghost]Victreebel||LifeOrb|Chlorophyll|sludgewave,strengthsap,suckerpunch,powerwhip||85,85,85,85,85,85|F|||90|,,,,,Grass]Glalie||HeavyDutyBoots|InnerFocus|spikes,freezedry,earthquake,taunt||85,85,85,85,85,85|M|||96|,,,,,Ground]Hydreigon||ChoiceSpecs|Levitate|dracometeor,fireblast,uturn,darkpulse||85,85,85,85,85,85|F|||79|,,,,,Fire]Scyther||HeavyDutyBoots|Technician|swordsdance,bugbite,dualwingbeat,closecombat||85,85,85,85,85,85|F|||82|,,,,,Fighting]Azumarill||SitrusBerry|HugePower|playrough,aquajet,bellydrum,liquidation||85,85,85,85,85,85|F|||82|,,,,,Water"
+}

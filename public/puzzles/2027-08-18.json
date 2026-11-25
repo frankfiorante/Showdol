@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-18",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,b0d87a53e4739193a50c7998f3451afb0cbf2ee8617507d221c9595d6f81e57b",
+    "ai": "sodium,1bbbb8aeb065800131f6e6bfd46c2124e126eb686ef35270362f32d63257a350"
+  },
+  "playerSpecies": [
+    "Bastiodon",
+    "Gengar",
+    "Flutter Mane",
+    "Pawmot",
+    "Feraligatr",
+    "Enamorus"
+  ],
+  "player": "Bastiodon||ChestoBerry|Soundproof|foulplay,rest,irondefense,bodypress||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Gengar||LifeOrb|CursedBody|focusblast,shadowball,sludgewave,encore||85,,85,85,85,85|F|,0,,,,||81|,,,,,Fighting]Flutter Mane||ChoiceSpecs|Protosynthesis|psyshock,shadowball,thunderbolt,moonblast||85,,85,85,85,85|N|,0,,,,||74|,,,,,Fairy]Pawmot||LeppaBerry|VoltAbsorb|nuzzle,closecombat,doubleshock,revivalblessing||85,85,85,85,85,85|F|||80|,,,,,Electric]Feraligatr||LifeOrb|SheerForce|dragondance,icepunch,liquidation,crunch||85,85,85,85,85,85|M|||79|,,,,,Dragon]Enamorus||Leftovers|Contrary|superpower,substitute,zenheadbutt,playrough||85,85,85,85,85,85|F|||79|,,,,,Fighting",
+  "ai": "Blastoise||WhiteHerb|Torrent|hydropump,icebeam,shellsmash,terablast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Electric]Chansey||Eviolite|NaturalCure|seismictoss,stealthrock,thunderwave,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ghost]Scream Tail||Leftovers|Protosynthesis|thunderwave,dazzlinggleam,protect,wish||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison]Toedscruel||Leftovers|MyceliumMight|earthpower,rapidspin,leafstorm,toxic||85,85,85,85,85,85|F|||87|,,,,,Water]Carbink||ChestoBerry|ClearBody|bodypress,rest,moonblast,irondefense||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Arceus||LifeOrb|Multitype|swordsdance,extremespeed,earthquake,recover||85,85,85,85,85,85|N|||68|,,,,,Normal"
+}

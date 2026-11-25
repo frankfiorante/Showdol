@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-09",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,13df05966ddadbd48cbbf12697e92a934a0ae67cf051062127b22bae15d238d8",
+    "ai": "sodium,afe6ada00abaf538cf1135e24cf1df482a1b47dbaaaba36fa2369455635ae6bb"
+  },
+  "playerSpecies": [
+    "Mamoswine",
+    "Palossand",
+    "Glaceon",
+    "Indeedee",
+    "Hypno",
+    "Inteleon"
+  ],
+  "player": "Mamoswine||LifeOrb|ThickFat|iciclecrash,earthquake,stealthrock,iceshard||85,85,85,85,85,85|F|||81|,,,,,Ground]Palossand||Leftovers|WaterCompaction|earthpower,sludgebomb,shadowball,shoreup||85,,85,85,85,85|F|,0,,,,||89|,,,,,Poison]Glaceon||HeavyDutyBoots|IceBody|mudshot,protect,wish,freezedry||85,,85,85,85,85|F|,0,,,,||94|,,,,,Ground]Indeedee||ChoiceScarf|PsychicSurge|dazzlinggleam,hypervoice,healingwish,expandingforce||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Hypno||Leftovers|Insomnia|psychicnoise,knockoff,encore,toxic||85,85,85,85,85,85|M|||95|,,,,,Steel]Inteleon||ChoiceSpecs|Torrent|uturn,scald,icebeam,hydropump||85,85,85,85,85,85|F|||81|,,,,,Water",
+  "ai": "Swanna||HeavyDutyBoots|Hydration|hydropump,defog,roost,bravebird||85,85,85,85,85,85|F|||89|,,,,,Ground]Galvantula||HeavyDutyBoots|CompoundEyes|bugbuzz,voltswitch,stickyweb,thunder||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric]Necrozma||LifeOrb|PrismArmor|swordsdance,knockoff,photongeyser,earthquake||85,85,85,85,85,85|N|||80|,,,,,Steel]Garganacl||Leftovers|PurifyingSalt|saltcure,recover,irondefense,bodypress||85,85,85,85,85,85|M|||80|,,,,,Ghost]Alcremie||Leftovers|AromaVeil|calmmind,psyshock,alluringvoice,recover||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Gogoat||Leftovers|SapSipper|milkdrink,hornleech,earthquake,bulkup||85,85,85,85,85,85|M|||88|,,,,,Ground"
+}

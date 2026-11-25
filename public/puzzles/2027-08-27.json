@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-27",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,e9083babcbae8874c24abde4ee6c8197d9519b6596439bb42172a45aa6ab36a1",
+    "ai": "sodium,4e07aafe812bfb1cf5f1304488a0693d140bd72b868eb815d8c0863ee15860af"
+  },
+  "playerSpecies": [
+    "Raichu",
+    "Chimecho",
+    "Shiftry",
+    "Noctowl",
+    "Abomasnow",
+    "Conkeldurr"
+  ],
+  "player": "Raichu||AssaultVest|LightningRod|knockoff,thunderbolt,voltswitch,grassknot||85,85,85,85,85,85|F|||88|,,,,,Grass]Chimecho||Leftovers|Levitate|dazzlinggleam,psyshock,recover,calmmind||85,,85,85,85,85|M|,0,,,,||93|,,,,,Electric]Shiftry||LifeOrb|WindRider|suckerpunch,swordsdance,leafblade,knockoff||85,85,85,85,85,85|M|||89|,,,,,Dark]Noctowl||HeavyDutyBoots|TintedLens|roost,hypervoice,hurricane,defog||85,,85,85,85,85|F|,0,,,,||95|,,,,,Normal]Abomasnow||LightClay|SnowWarning|iceshard,blizzard,auroraveil,earthquake||77,85,85,85,85,85|M|||84|,,,,,Water]Conkeldurr||FlameOrb|Guts|closecombat,machpunch,facade,knockoff||85,85,85,85,85,85|F|||80|,,,,,Normal",
+  "ai": "Basculin|BasculinBlueStriped|ChoiceBand|Adaptability|flipturn,wavecrash,aquajet,doubleedge||85,85,85,85,85,85|F|||86|,,,,,Water]Zamazenta||ChoiceBand|DauntlessShield|psychicfangs,stoneedge,crunch,closecombat||85,85,85,85,85,85|N|||71|,,,,,Dark]Delibird||HeavyDutyBoots|Insomnia|freezedry,spikes,bravebird,rapidspin||85,85,85,85,85,85|M||||,,,,,Ghost]Minun||LifeOrb|VoltAbsorb|thunderbolt,nastyplot,encore,grassknot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Grass]Ampharos||LifeOrb|Static|dazzlinggleam,thunderbolt,focusblast,agility||85,,85,85,85,85|F|,0,,,,||88|,,,,,Electric]Alomomola||HeavyDutyBoots|Regenerator|wish,flipturn,protect,scald||85,85,85,85,85,85|F|||87|,,,,,Poison"
+}

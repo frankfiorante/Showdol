@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-15",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,3ad6eaa2cdb1f76ef431e6d053c1e834891d8a96d5ea00f7da9e925e357f4b58",
+    "ai": "sodium,e4c64937d3a33e7c4627d23e7cb24d77f0e5e9b9bf9f6cbd519a62ee41cde851"
+  },
+  "playerSpecies": [
+    "Enamorus",
+    "Delibird",
+    "Umbreon",
+    "Zebstrika",
+    "Crabominable",
+    "Emboar"
+  ],
+  "player": "Enamorus||HeavyDutyBoots|Contrary|zenheadbutt,superpower,playrough,taunt||85,85,85,85,85,85|F|||79|,,,,,Fighting]Delibird||HeavyDutyBoots|Hustle|drillrun,icespinner,iceshard,bravebird||85,85,85,85,85,85|M||||,,,,,Flying]Umbreon||Leftovers|Synchronize|wish,foulplay,protect,toxic||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Zebstrika||LifeOrb|SapSipper|highhorsepower,overheat,supercellslam,voltswitch||85,85,85,85,85,85|M|||87|,,,,,Ground]Crabominable||AssaultVest|IronFist|icehammer,knockoff,drainpunch,earthquake||85,85,85,85,85,85|F|||90|,,,,,Fighting]Emboar||ChoiceBand|Reckless|wildcharge,flareblitz,closecombat,knockoff||85,85,85,85,85,85|F|||84|,,,,,Fire",
+  "ai": "Yanmega||HeavyDutyBoots|SpeedBoost|protect,terablast,bugbuzz,airslash||85,,85,85,85,85|M|,0,,,,||82|,,,,,Ground]Galvantula||HeavyDutyBoots|CompoundEyes|thunder,energyball,bugbuzz,stickyweb||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric]Scrafty||Leftovers|Intimidate|drainpunch,knockoff,poisonjab,dragondance||85,85,85,85,85,85|M|||83|,,,,,Poison]Rayquaza||LoadedDice|AirLock|scaleshot,earthquake,dragonascent,swordsdance||85,85,85,85,85,85|N|||72|,,,,,Dragon]Milotic||Leftovers|Competitive|icebeam,recover,scald,dragontail||85,85,85,85,85,85|M|||83|,,,,,Steel]Reuniclus||LifeOrb|MagicGuard|psychic,recover,calmmind,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel"
+}

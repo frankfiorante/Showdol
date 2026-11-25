@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-28",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,9346f0ab2bbd5fc007cf753d990cafbade027c1e6e290863c207d8e12c4bf9e7",
+    "ai": "sodium,471fc4af987a1b80778233bf6198bdaaf9a5978b8fb8b0b81fa7a180379199ef"
+  },
+  "playerSpecies": [
+    "Reshiram",
+    "Alomomola",
+    "Tinkaton",
+    "Heracross",
+    "Dudunsparce",
+    "Landorus-Therian"
+  ],
+  "player": "Reshiram||HeavyDutyBoots|Turboblaze|blueflare,dracometeor,dragontail,earthpower||85,85,85,85,85,85|N|||76|,,,,,Ground]Alomomola||Leftovers|Regenerator|wish,scald,protect,flipturn||85,85,85,85,85,85|M|||87|,,,,,Poison]Tinkaton||Leftovers|MoldBreaker|swordsdance,gigatonhammer,protect,playrough||85,85,85,85,85,85|F|||82|,,,,,Steel]Heracross||ChoiceScarf|Moxie|knockoff,earthquake,closecombat,megahorn||85,85,85,85,85,85|M|||80|,,,,,Bug]Dudunsparce||Leftovers|SereneGrace|glare,earthquake,roost,headbutt||85,85,85,85,85,85|F|||83|,,,,,Ground]Landorus|LandorusTherian|Leftovers|Intimidate|stealthrock,earthquake,uturn,taunt||85,85,85,85,85,85|M|||76|,,,,,Ground",
+  "ai": "Cyclizar||HeavyDutyBoots|Regenerator|taunt,rapidspin,dracometeor,shedtail||85,85,85,85,85,85|F|||84|,,,,,Steel]Uxie||Leftovers|Levitate|uturn,yawn,psychicnoise,knockoff||85,85,85,85,85,85|N|||83|,,,,,Steel]Porygon2||Eviolite|Download|thunderwave,shadowball,recover,terablast||85,85,85,85,85,85|N|||81|,,,,,Fairy]Toxtricity||ThroatSpray|PunkRock|gunkshot,boomburst,shiftgear,overdrive||85,85,85,85,85,85|M|||82|,,,,,Normal]Slowbro||Leftovers|Regenerator|scald,psyshock,slackoff,thunderwave||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Eiscue||SitrusBerry|IceFace|bellydrum,icespinner,zenheadbutt,liquidation||81,85,85,85,85,85|F|||88|,,,,,Water"
+}

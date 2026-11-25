@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-09",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,b3759e4721231bbfff4172999fde5c930bb7472a61b461679d1b5e31bffbd92d",
+    "ai": "sodium,24a349aaf75b231a6766c2f1289703d5b188e4c354419a2009b741e6970eff4e"
+  },
+  "playerSpecies": [
+    "Tauros-Paldea-Aqua",
+    "Iron Moth",
+    "Volcarona",
+    "Hoopa",
+    "Kingdra",
+    "Urshifu"
+  ],
+  "player": "Tauros|TaurosPaldeaAqua|LifeOrb|Intimidate|aquajet,closecombat,liquidation,bulkup||85,85,85,85,85,85|M|||81|,,,,,Water]Iron Moth||HeavyDutyBoots|QuarkDrive|morningsun,sludgewave,toxicspikes,fierydance||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fire]Volcarona||HeavyDutyBoots|Swarm|quiverdance,fireblast,gigadrain,bugbuzz||85,,85,85,85,85|M|,0,,,,||77|,,,,,Fire]Hoopa||ChoiceScarf|Magician|focusblast,trick,shadowball,psychic||85,,85,85,85,85|N|,0,,,,||85|,,,,,Psychic]Kingdra||LifeOrb|SwiftSwim|raindance,dracometeor,hurricane,wavecrash||85,85,85,85,85,85|F|||84|,,,,,Water]Urshifu||ChoiceBand|UnseenFist|suckerpunch,uturn,closecombat,wickedblow||85,85,85,85,85,85|F|||74|,,,,,Dark",
+  "ai": "Dusknoir||ChoiceBand|Frisk|poltergeist,earthquake,trick,shadowsneak||85,85,85,85,85,85|F|||89|,,,,,Ground]Medicham||ChoiceScarf|PurePower|closecombat,zenheadbutt,poisonjab,trick||85,85,85,85,85,85|M|||86|,,,,,Fighting]Glalie||HeavyDutyBoots|InnerFocus|spikes,earthquake,freezedry,taunt||85,85,85,85,85,85|F|||96|,,,,,Ground]Emboar||AssaultVest|Reckless|wildcharge,knockoff,closecombat,flareblitz||85,85,85,85,85,85|F|||84|,,,,,Fire]Skarmory||RockyHelmet|Sturdy|stealthrock,bodypress,roost,bravebird||85,85,85,85,85,85|M|||80|,,,,,Dragon]Talonflame||HeavyDutyBoots|FlameBody|bravebird,flareblitz,terablast,swordsdance||85,85,85,85,85,85|F|||83|,,,,,Ground"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-15",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,ec7f7f2f3e90c8070072bdbe3db1fdf73818a6a130c0c20ad4d796a7f52545b9",
+    "ai": "sodium,433df139c8e6e13932ccc53322cc5de5b68aa0f211deb850f94db626dfa1f497"
+  },
+  "playerSpecies": [
+    "Cramorant",
+    "Glaceon",
+    "Tropius",
+    "Lunala",
+    "Mew",
+    "Smeargle"
+  ],
+  "player": "Cramorant||HeavyDutyBoots|GulpMissile|bravebird,roost,surf,defog||85,85,85,85,85,85|M|||86|,,,,,Ground]Glaceon||HeavyDutyBoots|IceBody|freezedry,protect,wish,calmmind||85,,85,85,85,85|M|,0,,,,||94|,,,,,Water]Tropius||SitrusBerry|Harvest|dragondance,leafblade,dualwingbeat,earthquake||85,85,85,85,85,85|M|||91|,,,,,Ground]Lunala||Leftovers|ShadowShield|calmmind,focusblast,moongeistbeam,moonlight||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fighting]Mew||LifeOrb|Synchronize|swordsdance,psychicfangs,leechlife,closecombat||85,85,85,85,85,85|N|||82|,,,,,Fighting]Smeargle||FocusSash|OwnTempo|whirlwind,ceaselessedge,spore,stickyweb||85,85,85,85,85,85|F|||95|,,,,,Ghost",
+  "ai": "Typhlosion|TyphlosionHisui|HeavyDutyBoots|Blaze|focusblast,calmmind,fireblast,shadowball||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fighting]Vikavolt||HeavyDutyBoots|Levitate|discharge,bugbuzz,stickyweb,voltswitch||85,,85,85,85,85|M|,0,,,,||83|,,,,,Electric]Dragalge||AssaultVest|Adaptability|focusblast,dracometeor,dragontail,sludgewave||85,85,85,85,85,85|M|||88|,,,,,Fighting]Lanturn||Leftovers|VoltAbsorb|scald,thunderbolt,icebeam,thunderwave||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Floatzel||ChoiceBand|WaterVeil|icespinner,flipturn,crunch,wavecrash||85,85,85,85,85,85|F|||86|,,,,,Water]Houndstone||ChoiceBand|Fluffy|bodypress,trick,shadowsneak,poltergeist||85,85,85,85,85,85|F|||86|,,,,,Fighting"
+}

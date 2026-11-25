@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-22",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,c3c3ce0bea8811838feaf8b29faf172a3afa66fd424b83be3005f1e8c5c5f379",
+    "ai": "sodium,680c3a0eb08198f6b1b2009892e94017cda275baa0f4c653fa52a705ceeb57b3"
+  },
+  "playerSpecies": [
+    "Polteageist-Antique",
+    "Ariados",
+    "Maushold-Four",
+    "Magearna",
+    "Ursaring",
+    "Florges"
+  ],
+  "player": "Polteageist|PolteageistAntique|WhiteHerb|CursedBody|shellsmash,terablast,shadowball,strengthsap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Ariados||HeavyDutyBoots|Swarm|poisonjab,stickyweb,suckerpunch,megahorn||85,85,85,85,85,85|F|||95|,,,,,Ghost]Maushold|MausholdFour|WideLens|Technician|populationbomb,encore,tidyup,bite||85,85,85,85,85,85|N|||76|,,,,,Normal]Magearna||Leftovers|SoulHeart|fleurcannon,flashcannon,thunderwave,aurasphere||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Ursaring||Eviolite|Guts|sleeptalk,bodyslam,earthquake,rest||85,85,85,85,85,85|M|||84|,,,,,Ghost]Florges||Leftovers|FlowerVeil|protect,calmmind,wish,moonblast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
+  "ai": "Mismagius||Leftovers|Levitate|shadowball,terablast,substitute,nastyplot||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fighting]Terrakion||LifeOrb|Justified|earthquake,closecombat,stoneedge,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Fighting]Kingambit||Leftovers|SupremeOverlord|kowtowcleave,suckerpunch,ironhead,swordsdance||85,85,85,85,85,85|M|||74|,,,,,Flying]Vileplume||Leftovers|EffectSpore|leechseed,strengthsap,sludgebomb,gigadrain||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Malamar||Leftovers|Contrary|rest,sleeptalk,knockoff,superpower||85,85,85,85,85,85|F|||82|,,,,,Poison]Revavroom||LifeOrb|Filter|ironhead,highhorsepower,shiftgear,gunkshot||85,85,85,85,85,85|F|||79|,,,,,Ground"
+}

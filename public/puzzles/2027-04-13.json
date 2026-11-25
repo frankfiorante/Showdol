@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-13",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,e59d15d17ea6d449249ef5b536d720ee14775facaa58703b3cc3dc494216bbb2",
+    "ai": "sodium,83963469020f54418eef96efb3b8ba78e0e8a18a68d2713d08b3923c3ca2e70a"
+  },
+  "playerSpecies": [
+    "Vileplume",
+    "Cinccino",
+    "Cramorant",
+    "Vaporeon",
+    "Ursaluna-Bloodmoon",
+    "Terrakion"
+  ],
+  "player": "Vileplume||Leftovers|EffectSpore|gigadrain,sludgebomb,strengthsap,sleeppowder||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Cinccino||LoadedDice|Technician|bulletseed,uturn,tripleaxel,tailslap||85,85,85,85,85,85|F|||83|,,,,,Grass]Cramorant||HeavyDutyBoots|GulpMissile|roost,defog,bravebird,surf||85,85,85,85,85,85|F|||86|,,,,,Ground]Vaporeon||Leftovers|WaterAbsorb|calmmind,scald,wish,protect||85,,85,85,85,85|F|,0,,,,||86|,,,,,Ghost]Ursaluna|UrsalunaBloodmoon|Leftovers|MindsEye|vacuumwave,moonlight,bloodmoon,calmmind||85,,85,85,85,85|M|,0,,,,||79|,,,,,Normal]Terrakion||LifeOrb|Justified|swordsdance,closecombat,earthquake,stoneedge||85,85,85,85,85,85|N|||79|,,,,,Ground",
+  "ai": "Rhyperior||AssaultVest|SolidRock|stoneedge,earthquake,dragontail,icepunch||85,85,85,85,85,85|M|||82|,,,,,Steel]Emboar||AssaultVest|Reckless|closecombat,flareblitz,knockoff,wildcharge||85,85,85,85,85,85|M|||84|,,,,,Electric]Yanmega||ChoiceSpecs|TintedLens|gigadrain,bugbuzz,uturn,airslash||85,85,85,85,85,85|M|||82|,,,,,Bug]Excadrill||Leftovers|MoldBreaker|swordsdance,ironhead,rapidspin,earthquake||85,85,85,85,85,85|M|||79|,,,,,Water]Regidrago||LifeOrb|DragonsMaw|earthquake,terablast,dragonclaw,dragondance||85,85,85,85,85,85|N|||77|,,,,,Steel]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,hydropump,knockoff||85,85,85,85,85,85|M|||89|,,,,,Ground"
+}

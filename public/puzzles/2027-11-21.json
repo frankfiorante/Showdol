@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-21",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,d1048f735baadc19744aadd7a140d725c04404795858f682dfaec2e68f77dd3f",
+    "ai": "sodium,7209e370fc68c821c10621ab04535952c855853e492b176ff2d287017487d3fc"
+  },
+  "playerSpecies": [
+    "Cobalion",
+    "Smeargle",
+    "Primarina",
+    "Cinderace",
+    "Arceus-Dark",
+    "Armarouge"
+  ],
+  "player": "Cobalion||Leftovers|Justified|calmmind,aurasphere,flashcannon,vacuumwave||85,,85,85,85,85|N|,0,,,,||80|,,,,,Water]Smeargle||FocusSash|OwnTempo|ceaselessedge,stealthrock,stickyweb,spore||85,85,85,85,85,85|M|||95|,,,,,Ghost]Primarina||Leftovers|Torrent|psychic,calmmind,sparklingaria,drainingkiss||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy]Cinderace||ChoiceBand|Libero|uturn,highjumpkick,gunkshot,pyroball||81,85,85,85,85,85|M|||77|,,,,,Fire]Arceus|ArceusDark|DreadPlate|Multitype|sludgebomb,judgment,calmmind,recover||85,,85,85,85,85|N|,0,,,,||71|,,,,,Poison]Armarouge||PowerHerb|WeakArmor|meteorbeam,psyshock,energyball,armorcannon||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass",
+  "ai": "Kricketune||FocusSash|Technician|knockoff,taunt,pounce,stickyweb||81,85,85,85,85,85|M|||99|,,,,,Ghost]Venomoth||HeavyDutyBoots|TintedLens|quiverdance,sludgewave,sleeppowder,bugbuzz||85,,85,85,85,85|M|,0,,,,||84|,,,,,Water]Primarina||Leftovers|LiquidVoice|moonblast,psychicnoise,drainingkiss,calmmind||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy]Regice||HeavyDutyBoots|ClearBody|icebeam,sleeptalk,rest,thunderbolt||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Dialga||AssaultVest|Pressure|dragontail,dracometeor,heavyslam,fireblast||85,85,85,85,85,85|N|||73|,,,,,Flying]Walking Wake||LifeOrb|Protosynthesis|hydrosteam,sunnyday,dracometeor,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire"
+}

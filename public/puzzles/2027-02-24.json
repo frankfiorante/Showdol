@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-24",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5653f4502e737fbed53b68db437be13dd09aea97dce1514f47a7f2cb3819fc35",
+    "ai": "sodium,b0f1e10e44a83863c31feadea7362bcc4e7b334d723ca46308b8a4081927f979"
+  },
+  "playerSpecies": [
+    "Drednaw",
+    "Latios",
+    "Blastoise",
+    "Maushold",
+    "Excadrill",
+    "Girafarig"
+  ],
+  "player": "Drednaw||WhiteHerb|ShellArmor|liquidation,earthquake,shellsmash,stoneedge||85,85,85,85,85,85|M|||81|,,,,,Ground]Latios||ChoiceSpecs|Levitate|lusterpurge,flipturn,aurasphere,dracometeor||85,85,85,85,85,85|M|||78|,,,,,Psychic]Blastoise||WhiteHerb|Torrent|shellsmash,hydropump,terablast,icebeam||85,,85,85,85,85|M|,0,,,,||80|,,,,,Electric]Maushold||WideLens|Technician|encore,tidyup,bite,populationbomb||85,85,85,85,85,85|N|||76|,,,,,Normal]Excadrill||Leftovers|MoldBreaker|earthquake,swordsdance,rapidspin,ironhead||85,85,85,85,85,85|M|||79|,,,,,Water]Girafarig||Eviolite|SapSipper|psychic,nastyplot,dazzlinggleam,thunderbolt||85,,85,85,85,85|M|,0,,,,||89|,,,,,Psychic",
+  "ai": "Mienshao||AssaultVest|Regenerator|knockoff,closecombat,fakeout,uturn||85,85,85,85,85,85|M|||83|,,,,,Steel]Latios||SoulDew|Levitate|recover,aurasphere,lusterpurge,dracometeor||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Diancie||Leftovers|ClearBody|calmmind,drainingkiss,earthpower,diamondstorm||85,85,85,85,85,85|N|||82|,,,,,Fairy]Calyrex|CalyrexIce|WeaknessPolicy|AsOneGlastrier|agility,closecombat,glaciallance,highhorsepower||85,85,85,85,85,85|N|||72|,,,,,Ground]Bombirdier||ChoiceBand|RockyPayload|suckerpunch,stoneedge,knockoff,bravebird||85,85,85,85,85,85|M|||85|,,,,,Rock]Torterra||LoadedDice|Overgrow|headlongrush,shellsmash,bulletseed,rockblast||85,85,85,85,85,85|F|||78|,,,,,Grass"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-30",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5f4c8abae6ed2716c7006d1b3ea207cbccda7220d9dd426aecdcb0f4d0535a09",
+    "ai": "sodium,c650389dea725093081fc09417369f83c019b549a410e464022ac6ed1c99e935"
+  },
+  "playerSpecies": [
+    "Plusle",
+    "Porygon2",
+    "Medicham",
+    "Toucannon",
+    "Tsareena",
+    "Inteleon"
+  ],
+  "player": "Plusle||LifeOrb|LightningRod|thunderbolt,nastyplot,alluringvoice,encore||85,,85,85,85,85|F|,0,,,,||95|,,,,,Electric]Porygon2||Eviolite|Download|discharge,recover,icebeam,triattack||85,,85,85,85,85|N|,0,,,,||81|,,,,,Electric]Medicham||ChoiceBand|PurePower|poisonjab,zenheadbutt,closecombat,bulletpunch||85,85,85,85,85,85|M|||86|,,,,,Fighting]Toucannon||HeavyDutyBoots|KeenEye|boomburst,knockoff,roost,beakblast||85,85,85,85,85,85|M|||88|,,,,,Steel]Tsareena||AssaultVest|QueenlyMajesty|powerwhip,uturn,rapidspin,highjumpkick||85,85,85,85,85,85|F|||87|,,,,,Fighting]Inteleon||ChoiceSpecs|Torrent|uturn,hydropump,scald,icebeam||85,85,85,85,85,85|F|||81|,,,,,Water",
+  "ai": "Delphox||ChoiceScarf|Blaze|focusblast,grassknot,fireblast,psyshock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Grass]Hariyama||FlameOrb|Guts|facade,closecombat,knockoff,fakeout||85,85,85,85,85,85|M|||87|,,,,,Normal]Arceus|ArceusGround|EarthPlate|Multitype|stoneedge,earthquake,dragondance,recover||85,85,85,85,85,85|N|||70|,,,,,Steel]Jirachi||Leftovers|SereneGrace|protect,ironhead,bodyslam,wish||85,85,85,85,85,85|N|||80|,,,,,Water]Grafaiai||HeavyDutyBoots|Prankster|knockoff,gunkshot,encore,partingshot||85,85,85,85,85,85|M|||86|,,,,,Dark]Scyther||HeavyDutyBoots|Technician|bugbite,swordsdance,closecombat,dualwingbeat||85,85,85,85,85,85|M|||82|,,,,,Fighting"
+}

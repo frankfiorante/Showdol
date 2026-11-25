@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-10",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,d91c8472a97efbf0c9a6e67dbfc31631a154a1c1d4e0ea60849fbf00b2a87679",
+    "ai": "sodium,617fbe21315e2fd611073bf859da6b6bfc068dd98a224adc33bff3d9c0f56cdd"
+  },
+  "playerSpecies": [
+    "Ludicolo",
+    "Cinderace",
+    "Kleavor",
+    "Toedscruel",
+    "Tauros",
+    "Clefable"
+  ],
+  "player": "Ludicolo||LifeOrb|SwiftSwim|hydropump,raindance,icebeam,gigadrain||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Cinderace||HeavyDutyBoots|Libero|uturn,courtchange,pyroball,highjumpkick||81,85,85,85,85,85|F|||77|,,,,,Fighting]Kleavor||ChoiceScarf|Sharpness|closecombat,stoneaxe,uturn,xscissor||85,85,85,85,85,85|M|||78|,,,,,Rock]Toedscruel||AssaultVest|MyceliumMight|earthpower,rapidspin,knockoff,gigadrain||85,85,85,85,85,85|M|||87|,,,,,Water]Tauros||LifeOrb|SheerForce|throatchop,bodyslam,zenheadbutt,closecombat||85,85,85,85,85,85|M|||82|,,,,,Normal]Clefable||LifeOrb|MagicGuard|fireblast,calmmind,moonblast,moonlight||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire",
+  "ai": "Vikavolt||HeavyDutyBoots|Levitate|bugbuzz,thunderbolt,voltswitch,stickyweb||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Pyroar||HeavyDutyBoots|Unnerve|fireblast,willowisp,hypervoice,workup||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fire]Indeedee|IndeedeeF|ChoiceScarf|PsychicSurge|dazzlinggleam,psychic,hypervoice,healingwish||85,,85,85,85,85|F|,0,,,,||90|,,,,,Psychic]Vaporeon||Leftovers|WaterAbsorb|roar,protect,wish,scald||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Glastrier||HeavyDutyBoots|ChillingNeigh|highhorsepower,closecombat,iciclecrash,swordsdance||85,85,85,85,85,85|N|||86|,,,,,Ground]Umbreon||Leftovers|Synchronize|protect,toxic,foulplay,wish||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison"
+}

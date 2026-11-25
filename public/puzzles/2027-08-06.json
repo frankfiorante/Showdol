@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-06",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,518aa3f028d5bb4a20262035e3014405d05c6a2ad0c54898f23e7b0346cc7624",
+    "ai": "sodium,8eee8628be30319e86b63501abeb62934a845681245e1908b65d57613bbcce9e"
+  },
+  "playerSpecies": [
+    "Chansey",
+    "Cryogonal",
+    "Venusaur",
+    "Electivire",
+    "Cramorant",
+    "Dondozo"
+  ],
+  "player": "Chansey||Eviolite|NaturalCure|thunderwave,seismictoss,softboiled,healbell||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Cryogonal||HeavyDutyBoots|Levitate|rapidspin,recover,terablast,icebeam||85,85,85,85,85,85|N|||89|,,,,,Electric]Venusaur||Leftovers|Chlorophyll|sleeppowder,leechseed,sludgebomb,substitute||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Electivire||LifeOrb|MotorDrive|flamethrower,voltswitch,supercellslam,earthquake||85,85,85,85,85,85|M|||84|,,,,,Flying]Cramorant||HeavyDutyBoots|GulpMissile|defog,roost,surf,bravebird||85,85,85,85,85,85|F|||86|,,,,,Ground]Dondozo||Leftovers|Unaware|wavecrash,curse,sleeptalk,rest||85,85,85,85,85,85|M|||78|,,,,,Fairy",
+  "ai": "Tauros|TaurosPaldeaCombat|LifeOrb|Intimidate|throatchop,bulkup,closecombat,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Dark]Salazzle||Leftovers|Corrosion|protect,flamethrower,toxic,substitute||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Miraidon||LifeOrb|HadronEngine|electrodrift,calmmind,dracometeor,dragonpulse||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Scovillain||ChoiceSpecs|Chlorophyll|energyball,leafstorm,flamethrower,overheat||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire]Oinkologne|OinkologneF|Leftovers|ThickFat|rest,sleeptalk,bodyslam,curse||85,85,85,85,85,85|F|||91|,,,,,Fairy]Indeedee||ChoiceScarf|PsychicSurge|expandingforce,dazzlinggleam,shadowball,hypervoice||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic"
+}

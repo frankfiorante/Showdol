@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-02",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,db9df35d7f0928f7473b63571f6f43ca88228cc619cab888a859875434008d02",
+    "ai": "sodium,70c4f90f15590d390bc61a558b35eec7367b47771ea553c6bd49d74ebc5bb4dd"
+  },
+  "playerSpecies": [
+    "Quagsire",
+    "Hydrapple",
+    "Hitmonchan",
+    "Ambipom",
+    "Hypno",
+    "Enamorus"
+  ],
+  "player": "Quagsire||Leftovers|Unaware|toxic,earthquake,recover,spikes||85,85,85,85,85,85|F|||84|,,,,,Steel]Hydrapple||Leftovers|Regenerator|recover,nastyplot,ficklebeam,gigadrain||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Hitmonchan||Leftovers|IronFist|rapidspin,taunt,knockoff,drainpunch||85,85,85,85,85,85|M|||87|,,,,,Steel]Ambipom||SilkScarf|Technician|fakeout,lowkick,doubleedge,knockoff||85,85,85,85,85,85|F|||84|,,,,,Normal]Hypno||Leftovers|Insomnia|encore,thunderwave,psychicnoise,knockoff||85,85,85,85,85,85|M|||95|,,,,,Steel]Enamorus||Leftovers|CuteCharm|earthpower,substitute,moonblast,calmmind||85,,85,85,85,85|F|,0,,,,||79|,,,,,Ground",
+  "ai": "Gyarados||HeavyDutyBoots|Intimidate|waterfall,terablast,earthquake,dragondance||85,85,85,85,85,85|M|||79|,,,,,Flying]Espathra||ChoiceSpecs|SpeedBoost|shadowball,uturn,luminacrash,dazzlinggleam||85,85,85,85,85,85|M|||80|,,,,,Psychic]Phione||Leftovers|Hydration|takeheart,scald,icebeam,grassknot||85,,85,85,85,85|N|,0,,,,||91|,,,,,Steel]Gliscor||ToxicOrb|PoisonHeal|knockoff,earthquake,toxicspikes,protect||85,85,85,85,85,85|F|||76|,,,,,Water]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost]Salazzle||Leftovers|Corrosion|flamethrower,substitute,protect,toxic||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying"
+}

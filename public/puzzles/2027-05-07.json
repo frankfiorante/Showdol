@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-07",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,369ef2b31cd72d86ad6a3136f0c9f400fbc0ee0f4ab659462f4369a6a78606fb",
+    "ai": "sodium,09d3d3180fa5054547b79351e732e4eea30a16aff4c4201adf36298ef8c30e2b"
+  },
+  "playerSpecies": [
+    "Slither Wing",
+    "Leafeon",
+    "Incineroar",
+    "Venomoth",
+    "Magcargo",
+    "Smeargle"
+  ],
+  "player": "Slither Wing||HeavyDutyBoots|Protosynthesis|closecombat,morningsun,uturn,willowisp||85,85,85,85,85,85|N|||81|,,,,,Steel]Leafeon||LifeOrb|Chlorophyll|leafblade,swordsdance,knockoff,doubleedge||85,85,85,85,85,85|M|||88|,,,,,Dark]Incineroar||HeavyDutyBoots|Intimidate|trailblaze,knockoff,swordsdance,flareblitz||85,85,85,85,85,85|F|||82|,,,,,Grass]Venomoth||HeavyDutyBoots|TintedLens|quiverdance,sleeppowder,sludgewave,bugbuzz||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Magcargo||HeavyDutyBoots|FlameBody|lavaplume,yawn,recover,powergem||85,,85,85,85,85|F|,0,,,,||95|,,,,,Dragon]Smeargle||WideLens|Technician|shellsmash,populationbomb,spore,powertrip||85,85,85,85,85,85|M|||95|,,,,,Normal",
+  "ai": "Wyrdeer||AssaultVest|Intimidate|psychicnoise,earthquake,bodyslam,megahorn||85,85,85,85,85,85|F|||87|,,,,,Ground]Slither Wing||HeavyDutyBoots|Protosynthesis|uturn,morningsun,closecombat,willowisp||85,85,85,85,85,85|N|||81|,,,,,Steel]Deoxys|DeoxysAttack|LifeOrb|Pressure|knockoff,icebeam,psychoboost,superpower||85,85,85,85,85,85|N|||72|,,,,,Fighting]Gastrodon||Leftovers|StormDrain|stealthrock,surf,earthquake,recover||85,85,85,85,85,85|F|||86|,,,,,Poison]Jolteon||HeavyDutyBoots|VoltAbsorb|alluringvoice,calmmind,thunderbolt,voltswitch||85,,85,85,85,85|F|,0,,,,||84|,,,,,Electric]Haxorus||LoadedDice|MoldBreaker|swordsdance,closecombat,ironhead,scaleshot||85,85,85,85,85,85|F|||78|,,,,,Steel"
+}

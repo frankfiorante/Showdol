@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-30",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,c3e90bc2fc2ed8a85a6920f3024d2cb9d3d51a487b2b8783ecb4873847b8496d",
+    "ai": "sodium,89fa4e96c91ff45879f4fe4766344eb1e2261a046ec45f92dac144ee41b2e6b2"
+  },
+  "playerSpecies": [
+    "Lapras",
+    "Lanturn",
+    "Gardevoir",
+    "Misdreavus",
+    "Snorlax",
+    "Mandibuzz"
+  ],
+  "player": "Lapras||HeavyDutyBoots|WaterAbsorb|sleeptalk,sparklingaria,rest,freezedry||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ghost]Lanturn||HeavyDutyBoots|VoltAbsorb|voltswitch,thunderbolt,thunderwave,scald||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Gardevoir||LifeOrb|Trace|psyshock,focusblast,moonblast,calmmind||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fairy]Misdreavus||Eviolite|Levitate|calmmind,drainingkiss,willowisp,shadowball||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Snorlax||Leftovers|ThickFat|rest,sleeptalk,bodyslam,curse||85,85,85,85,85,85|F|||82|,,,,,Fairy]Mandibuzz||HeavyDutyBoots|Overcoat|roost,knockoff,bravebird,toxic||85,85,85,85,85,85|F|||85|,,,,,Steel",
+  "ai": "Hydrapple||ChoiceSpecs|Regenerator|ficklebeam,earthpower,dracometeor,leafstorm||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel]Grafaiai||AssaultVest|PoisonTouch|gunkshot,superfang,knockoff,uturn||85,85,85,85,85,85|M|||86|,,,,,Dark]Politoed||ChoiceSpecs|Drizzle|hydropump,icebeam,focusblast,weatherball||85,,85,85,85,85|F|,0,,,,||88|,,,,,Water]Porygon2||Eviolite|Download|icebeam,discharge,recover,triattack||85,,85,85,85,85|N|,0,,,,||81|,,,,,Poison]Minun||LifeOrb|VoltAbsorb|grassknot,nastyplot,thunderbolt,alluringvoice||85,,85,85,85,85|M|,0,,,,||95|,,,,,Grass]Whimsicott||Leftovers|Prankster|encore,substitute,leechseed,moonblast||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-22",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,de6b0fffd3ce6a42960835a2e93ddf4aa534edfb8a8d0ce96aecc2067f2d4bf1",
+    "ai": "sodium,bde82c612a2b9ad917c76a68fea70b1cd8b5871e5e34efc8b688e357275659df"
+  },
+  "playerSpecies": [
+    "Mamoswine",
+    "Honchkrow",
+    "Forretress",
+    "Ditto",
+    "Sandaconda",
+    "Dusknoir"
+  ],
+  "player": "Mamoswine||ChoiceBand|ThickFat|iceshard,knockoff,iciclecrash,earthquake||85,85,85,85,85,85|M|||81|,,,,,Ground]Honchkrow||HeavyDutyBoots|Moxie|heatwave,uturn,suckerpunch,bravebird||85,85,85,85,85,85|F|||86|,,,,,Flying]Forretress||Leftovers|Sturdy|rapidspin,ironhead,toxicspikes,stealthrock||85,85,85,85,85,85|M|||84|,,,,,Water]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost]Sandaconda||Leftovers|ShedSkin|coil,rest,earthquake,stoneedge||85,85,85,85,85,85|F|||84|,,,,,Steel]Dusknoir||Leftovers|Frisk|substitute,poltergeist,painsplit,focuspunch||85,85,85,85,85,85|F|||89|,,,,,Fighting",
+  "ai": "Dedenne||SitrusBerry|CheekPouch|nuzzle,uturn,dazzlinggleam,thunderbolt||85,85,85,85,85,85|F|||88|,,,,,Flying]Frosmoth||HeavyDutyBoots|IceScales|quiverdance,gigadrain,bugbuzz,icebeam||85,,85,85,85,85|M|,0,,,,||82|,,,,,Water]Infernape||LifeOrb|IronFist|machpunch,closecombat,overheat,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Fighting]Cinccino||LoadedDice|Technician|tripleaxel,tailslap,uturn,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Ice]Crabominable||AssaultVest|IronFist|earthquake,knockoff,icehammer,drainpunch||85,85,85,85,85,85|F|||90|,,,,,Ground]Farigiraf||Leftovers|SapSipper|wish,psychicnoise,bodyslam,protect||85,85,85,85,85,85|M|||89|,,,,,Water"
+}

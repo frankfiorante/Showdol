@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-16",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,b60fdefacbc18183d62ba8485767f84e0f2e8aaac728f4b91714fc4b160f11a2",
+    "ai": "sodium,1dfb338788f8afa71dd0d13546ac40c2dd0526da3494e17f1eba10814e11be1c"
+  },
+  "playerSpecies": [
+    "Dialga-Origin",
+    "Forretress",
+    "Vivillon-High Plains",
+    "Golduck",
+    "Bombirdier",
+    "Ceruledge"
+  ],
+  "player": "Dialga|DialgaOrigin|AdamantCrystal|Pressure|dracometeor,flashcannon,stealthrock,thunderwave||85,,85,85,85,85|N|,0,,,,||73|,,,,,Dragon]Forretress||Leftovers|Sturdy|spikes,ironhead,rapidspin,thunderwave||85,85,85,85,85,85|M|||84|,,,,,Water]Vivillon|VivillonHighPlains|HeavyDutyBoots|CompoundEyes|terablast,sleeppowder,quiverdance,hurricane||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ground]Golduck||Leftovers|CloudNine|hydropump,icebeam,nastyplot,grassknot||85,,85,85,85,85|F|,0,,,,||90|,,,,,Water]Bombirdier||HeavyDutyBoots|BigPecks|roost,bravebird,knockoff,uturn||85,85,85,85,85,85|M|||85|,,,,,Dark]Ceruledge||HeavyDutyBoots|WeakArmor|poltergeist,bitterblade,swordsdance,shadowsneak||85,85,85,85,85,85|M|||78|,,,,,Fire",
+  "ai": "Grimmsnarl||LightClay|Prankster|lightscreen,thunderwave,reflect,spiritbreak||85,85,85,85,85,85|M|||83|,,,,,Steel]Altaria||HeavyDutyBoots|NaturalCure|roost,earthquake,dragondance,bravebird||85,85,85,85,85,85|M|||89|,,,,,Steel]Swampert||Leftovers|Damp|knockoff,roar,stealthrock,earthquake||85,85,85,85,85,85|M|||82|,,,,,Steel]Venomoth||HeavyDutyBoots|TintedLens|quiverdance,sludgewave,bugbuzz,sleeppowder||85,,85,85,85,85|F|,0,,,,||84|,,,,,Bug]Keldeo|KeldeoResolute|ChoiceSpecs|Justified|secretsword,vacuumwave,hydropump,flipturn||85,85,85,85,85,85|N|||79|,,,,,Fighting]Toxtricity||ThroatSpray|PunkRock|boomburst,gunkshot,shiftgear,overdrive||85,85,85,85,85,85|F|||82|,,,,,Normal"
+}

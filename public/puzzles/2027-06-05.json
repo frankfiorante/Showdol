@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-05",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,f35493948f8ba724aa1d86a4968d82a4277fee77b441ee14c3ca214c67de0101",
+    "ai": "sodium,af60bc32bd24184e30967813c2656b4b4e0881c7409e82ffd58605ad293c98ef"
+  },
+  "playerSpecies": [
+    "Crabominable",
+    "Iron Treads",
+    "Gholdengo",
+    "Luvdisc",
+    "Mandibuzz",
+    "Okidogi"
+  ],
+  "player": "Crabominable||ChoiceBand|IronFist|icehammer,knockoff,gunkshot,closecombat||85,85,85,85,85,85|F|||90|,,,,,Fighting]Iron Treads||AssaultVest|QuarkDrive|rapidspin,earthquake,ironhead,knockoff||85,85,85,85,85,85|N|||77|,,,,,Water]Gholdengo||Leftovers|GoodasGold|recover,makeitrain,shadowball,thunderwave||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Luvdisc||HeavyDutyBoots|SwiftSwim|endeavor,substitute,surf,whirlpool||81,,85,85,85,85|F|,0,,,,|||,,,,,Ghost]Mandibuzz||HeavyDutyBoots|Overcoat|foulplay,toxic,roost,uturn||85,85,85,85,85,85|F|||85|,,,,,Steel]Okidogi||Leftovers|ToxicChain|drainpunch,knockoff,gunkshot,bulkup||85,85,85,85,85,85|M|||77|,,,,,Dark",
+  "ai": "Golem|GolemAlola|ChoiceBand|Galvanize|doubleedge,stoneedge,earthquake,explosion||85,85,85,85,85,85|F|||93|,,,,,Ground]Ambipom||SilkScarf|Technician|uturn,knockoff,doubleedge,fakeout||85,85,85,85,85,85|F|||84|,,,,,Normal]Slaking||ChoiceBand|Truant|doubleedge,knockoff,gigaimpact,earthquake||85,85,85,85,85,85|F|||84|,,,,,Ground]Vileplume||Leftovers|EffectSpore|gigadrain,strengthsap,sleeppowder,sludgebomb||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Latias||SoulDew|Levitate|calmmind,dracometeor,psyshock,recover||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Overqwil||LoadedDice|Intimidate|gunkshot,swordsdance,scaleshot,crunch||85,85,85,85,85,85|F|||82|,,,,,Dragon"
+}

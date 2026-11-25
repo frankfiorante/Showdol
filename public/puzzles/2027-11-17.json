@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-17",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,69960ec2023e2ffa0ab3d4b9f63f46bd45cb582176c8d65cb08ac21b7a7c3764",
+    "ai": "sodium,937a41f5de8158047077fa1c5fd9c5ba166ef69a1255a3d61d7ef20d766657e8"
+  },
+  "playerSpecies": [
+    "Ribombee",
+    "Klawf",
+    "Bellibolt",
+    "Cetitan",
+    "Toxtricity",
+    "Regigigas"
+  ],
+  "player": "Ribombee||FocusSash|ShieldDust|moonblast,stunspore,uturn,stickyweb||85,85,85,85,85,85|F|||83|,,,,,Ghost]Klawf||LifeOrb|Regenerator|crabhammer,stealthrock,stoneedge,highhorsepower||85,85,85,85,85,85|M|||90|,,,,,Water]Bellibolt||Leftovers|Electromorphosis|slackoff,muddywater,toxic,thunderbolt||85,,85,85,85,85|F|,0,,,,||84|,,,,,Electric]Cetitan||LifeOrb|SheerForce|iciclecrash,earthquake,iceshard,liquidation||85,85,85,85,85,85|M|||82|,,,,,Water]Toxtricity||ThroatSpray|PunkRock|overdrive,shiftgear,gunkshot,boomburst||85,85,85,85,85,85|F|||82|,,,,,Normal]Regigigas||Leftovers|SlowStart|protect,bodyslam,substitute,knockoff||85,85,85,85,85,85|N|||84|,,,,,Poison",
+  "ai": "Mimikyu||LifeOrb|Disguise|shadowsneak,playrough,shadowclaw,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Ghost]Hydreigon||ChoiceScarf|Levitate|darkpulse,dracometeor,flashcannon,fireblast||85,,85,85,85,85|F|,0,,,,||79|,,,,,Fire]Lilligant|LilligantHisui|WideLens|Hustle|icespinner,victorydance,closecombat,leafblade||85,85,85,85,85,85|F|||79|,,,,,Steel]Deoxys|DeoxysDefense|Leftovers|Pressure|spikes,psychicnoise,stealthrock,recover||85,,85,85,85,85|N|,0,,,,||84|,,,,,Dark]Greninja|GreninjaBond|LifeOrb|BattleBond|gunkshot,darkpulse,hydropump,icebeam||85,85,85,85,85,85|M|||80|,,,,,Poison]Galvantula||HeavyDutyBoots|CompoundEyes|voltswitch,thunder,bugbuzz,stickyweb||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric"
+}

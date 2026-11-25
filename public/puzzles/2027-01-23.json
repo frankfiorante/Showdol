@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-23",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,a00c6250f2424af78098d7358dad363eec117913ed922ef42e04c4540a55caaa",
+    "ai": "sodium,beca8d92dbde6952e44ec03135e1ba129ed1369640041fabe616f9f975932672"
+  },
+  "playerSpecies": [
+    "Chimecho",
+    "Articuno-Galar",
+    "Squawkabilly-White",
+    "Grimmsnarl",
+    "Iron Hands",
+    "Spiritomb"
+  ],
+  "player": "Chimecho||Leftovers|Levitate|dazzlinggleam,psychicnoise,recover,calmmind||85,,85,85,85,85|M|,0,,,,||93|,,,,,Steel]Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|recover,psyshock,calmmind,hurricane||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Squawkabilly|SquawkabillyWhite|ChoiceBand|Hustle|quickattack,foulplay,doubleedge,bravebird||85,85,85,85,85,85|M|||89|,,,,,Flying]Grimmsnarl||LightClay|Prankster|reflect,spiritbreak,lightscreen,thunderwave||85,85,85,85,85,85|M|||83|,,,,,Steel]Iron Hands||Leftovers|QuarkDrive|icepunch,swordsdance,thunderpunch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Spiritomb||Leftovers|Infiltrator|foulplay,willowisp,suckerpunch,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Steel",
+  "ai": "Gallade||LifeOrb|Sharpness|sacredsword,nightslash,psychocut,agility||85,85,85,85,85,85|M|||80|,,,,,Fighting]Shiftry||LifeOrb|WindRider|lowkick,knockoff,leafblade,tailwind||85,85,85,85,85,85|F|||89|,,,,,Dark]Blissey||Leftovers|NaturalCure|softboiled,seismictoss,thunderwave,healbell||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Kyogre||Leftovers|Drizzle|thunder,icebeam,originpulse,calmmind||85,,85,85,85,85|N|,0,,,,||71|,,,,,Dragon]Houndstone||ChoiceBand|Fluffy|poltergeist,bodypress,shadowsneak,trick||85,85,85,85,85,85|M|||86|,,,,,Fighting]Ursaring||Eviolite|Guts|sleeptalk,rest,bodyslam,earthquake||85,85,85,85,85,85|M|||84|,,,,,Ground"
+}

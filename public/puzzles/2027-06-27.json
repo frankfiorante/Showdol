@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-27",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,4e0c7833a93913c3253008a101f51ac31ccbcd0077538372455af2c7fee16372",
+    "ai": "sodium,2be8bdd54197e8756ebecfe635c5d39c119a2ce5483a329e906cab0ff5d7c2e9"
+  },
+  "playerSpecies": [
+    "Whiscash",
+    "Spectrier",
+    "Copperajah",
+    "Flamigo",
+    "Munkidori",
+    "Luvdisc"
+  ],
+  "player": "Whiscash||Leftovers|Oblivious|earthquake,icebeam,hydropump,stealthrock||85,85,85,85,85,85|M|||88|,,,,,Poison]Spectrier||LifeOrb|GrimNeigh|shadowball,nastyplot,terablast,willowisp||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Copperajah||ChoiceBand|HeavyMetal|heavyslam,supercellslam,earthquake,stoneedge||81,85,85,85,85,85|F|||86|,,,,,Flying]Flamigo||ChoiceBand|Scrappy|bravebird,closecombat,throatchop,uturn||85,85,85,85,85,85|F|||82|,,,,,Fighting]Munkidori||AssaultVest|ToxicChain|sludgewave,focusblast,uturn,psychicnoise||85,85,85,85,85,85|M|||79|,,,,,Dark]Luvdisc||HeavyDutyBoots|SwiftSwim|whirlpool,endeavor,surf,substitute||81,,85,85,85,85|F|,0,,,,|||,,,,,Ground",
+  "ai": "Misdreavus||Eviolite|Levitate|drainingkiss,calmmind,shadowball,willowisp||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Hitmonchan||AssaultVest|IronFist|knockoff,poisonjab,rapidspin,drainpunch||85,85,85,85,85,85|M|||87|,,,,,Steel]Incineroar||HeavyDutyBoots|Intimidate|flareblitz,knockoff,swordsdance,trailblaze||85,85,85,85,85,85|F|||82|,,,,,Grass]Decidueye||AssaultVest|Overgrow|leafstorm,knockoff,uturn,spiritshackle||85,85,85,85,85,85|F|||88|,,,,,Grass]Chesnaught||RockyHelmet|Bulletproof|bodypress,synthesis,woodhammer,spikes||85,85,85,85,85,85|M|||84|,,,,,Water]Altaria||HeavyDutyBoots|NaturalCure|willowisp,bravebird,haze,roost||85,85,85,85,85,85|F|||89|,,,,,Steel"
+}

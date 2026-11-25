@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-12",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,a079fcb809ee67339e233ae4ee9175cd8ff3ac4e7a965b7d31083f760b47484f",
+    "ai": "sodium,b9361f456110e1dfe28641f859e80be2232409fd8d94fb16b42b75ca16de98b8"
+  },
+  "playerSpecies": [
+    "Mightyena",
+    "Wyrdeer",
+    "Shaymin",
+    "Conkeldurr",
+    "Heracross",
+    "Gholdengo"
+  ],
+  "player": "Mightyena||AssaultVest|Intimidate|poisonfang,playrough,throatchop,superfang||85,85,85,85,85,85|M|||96|,,,,,Fairy]Wyrdeer||Leftovers|Intimidate|thunderwave,bodyslam,earthquake,psychicnoise||85,85,85,85,85,85|F|||87|,,,,,Ground]Shaymin||Leftovers|NaturalCure|airslash,substitute,leechseed,seedflare||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Conkeldurr||FlameOrb|Guts|machpunch,knockoff,closecombat,facade||85,85,85,85,85,85|M|||80|,,,,,Normal]Heracross||ChoiceBand|Moxie|earthquake,closecombat,stoneedge,megahorn||85,85,85,85,85,85|F|||80|,,,,,Bug]Gholdengo||Leftovers|GoodasGold|nastyplot,recover,makeitrain,shadowball||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water",
+  "ai": "Garganacl||Leftovers|PurifyingSalt|irondefense,recover,saltcure,bodypress||85,85,85,85,85,85|F|||80|,,,,,Dragon]Cinderace||HeavyDutyBoots|Libero|courtchange,pyroball,willowisp,uturn||85,85,85,85,85,85|M|||77|,,,,,Grass]Annihilape||Leftovers|Defiant|ragefist,bulkup,drainpunch,taunt||85,85,85,85,85,85|M|||76|,,,,,Water]Weezing||Leftovers|Levitate|fireblast,sludgebomb,willowisp,painsplit||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Mamoswine||LifeOrb|ThickFat|earthquake,iciclecrash,iceshard,stealthrock||85,85,85,85,85,85|M|||81|,,,,,Ground]Florges|FlorgesOrange|Leftovers|FlowerVeil|calmmind,wish,protect,moonblast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel"
+}

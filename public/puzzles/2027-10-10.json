@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-10",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,3a38851e23de3051eb7a75185bded2600ba07eb1fb974a16351c0f8431848cb6",
+    "ai": "sodium,843fd88de2e335644171d5d92911058e2d0c0fc2cb04014e86dc57d0a8e0a654"
+  },
+  "playerSpecies": [
+    "Malamar",
+    "Misdreavus",
+    "Torterra",
+    "Hippowdon",
+    "Serperior",
+    "Overqwil"
+  ],
+  "player": "Malamar||ChestoBerry|Contrary|psychocut,rest,knockoff,superpower||85,85,85,85,85,85|M|||82|,,,,,Poison]Misdreavus||Eviolite|Levitate|drainingkiss,calmmind,shadowball,willowisp||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Torterra||LoadedDice|Overgrow|shellsmash,rockblast,headlongrush,bulletseed||85,85,85,85,85,85|F|||78|,,,,,Water]Hippowdon||Leftovers|SandStream|slackoff,stealthrock,earthquake,whirlwind||85,85,85,85,85,85|F|||82|,,,,,Rock]Serperior||LifeOrb|Contrary|leafstorm,synthesis,glare,dragonpulse||85,,85,85,85,85|M|,0,,,,||79|,,,,,Grass]Overqwil||LoadedDice|Intimidate|swordsdance,gunkshot,crunch,scaleshot||85,85,85,85,85,85|M|||82|,,,,,Dragon",
+  "ai": "Brute Bonnet||Leftovers|Protosynthesis|seedbomb,crunch,spore,suckerpunch||85,85,85,85,85,85|N|||79|,,,,,Dark]Forretress||Leftovers|Sturdy|voltswitch,ironhead,toxicspikes,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Water]Kricketune||HeavyDutyBoots|Technician|pounce,stickyweb,taunt,knockoff||85,85,85,85,85,85|M|||99|,,,,,Ghost]Landorus||LifeOrb|SheerForce|earthpower,stealthrock,psychic,sludgewave||85,,85,85,85,85|M|,0,,,,||75|,,,,,Ground]Azumarill||ChoiceBand|HugePower|playrough,icespinner,aquajet,liquidation||85,85,85,85,85,85|F|||82|,,,,,Water]Cyclizar||HeavyDutyBoots|Regenerator|taunt,dracometeor,shedtail,knockoff||85,85,85,85,85,85|M|||84|,,,,,Fairy"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-15",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,e23074f273ba60022f95a51bd4ee8124e01cf85d423d6411ad5b92422a4ffcd6",
+    "ai": "sodium,999a64e0027162fae293941be9b7bb61a4c1962a119deb12fee09110ede13113"
+  },
+  "playerSpecies": [
+    "Politoed",
+    "Emboar",
+    "Conkeldurr",
+    "Dugtrio-Alola",
+    "Chandelure",
+    "Garchomp"
+  ],
+  "player": "Politoed||Leftovers|Drizzle|hydropump,haze,hypnosis,icebeam||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Emboar||Leftovers|Reckless|flareblitz,trailblaze,drainpunch,bulkup||85,85,85,85,85,85|F|||84|,,,,,Grass]Conkeldurr||FlameOrb|Guts|machpunch,facade,closecombat,knockoff||85,85,85,85,85,85|M|||80|,,,,,Normal]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|stealthrock,earthquake,suckerpunch,ironhead||85,85,85,85,85,85|F|||84|,,,,,Steel]Chandelure||HeavyDutyBoots|FlashFire|energyball,fireblast,shadowball,calmmind||85,,85,85,85,85|M|,0,,,,||83|,,,,,Grass]Garchomp||RockyHelmet|RoughSkin|earthquake,dragontail,outrage,spikes||85,85,85,85,85,85|M|||74|,,,,,Ground",
+  "ai": "Tauros|TaurosPaldeaAqua|ChoiceBand|Intimidate|stoneedge,wavecrash,aquajet,closecombat||85,85,85,85,85,85|M|||81|,,,,,Water]Slaking||ChoiceScarf|Truant|doubleedge,knockoff,earthquake,gigaimpact||85,85,85,85,85,85|F|||84|,,,,,Normal]Zapdos|ZapdosGalar|ChoiceBand|Defiant|knockoff,uturn,bravebird,closecombat||85,85,85,85,85,85|N|||77|,,,,,Fighting]Ho-Oh||HeavyDutyBoots|Regenerator|sacredfire,recover,bravebird,earthquake||85,85,85,85,85,85|N|||71|,,,,,Ground]Tsareena||LifeOrb|QueenlyMajesty|powerwhip,synthesis,highjumpkick,tripleaxel||85,85,85,85,85,85|F|||87|,,,,,Fighting]Hypno||Leftovers|Insomnia|focusblast,protect,psychicnoise,toxic||85,,85,85,85,85|M|,0,,,,||95|,,,,,Steel"
+}

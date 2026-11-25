@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-07",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5ce8fed515b2ae99e55c0fc0c035f9d451c5017af081108674db372f02797bc4",
+    "ai": "sodium,81b69569e31b82cb9e87e5833eae80068e7f8495f8c47876b9f92f1d637f7513"
+  },
+  "playerSpecies": [
+    "Raichu-Alola",
+    "Flamigo",
+    "Sylveon",
+    "Oranguru",
+    "Serperior",
+    "Azumarill"
+  ],
+  "player": "Raichu|RaichuAlola|LifeOrb|SurgeSurfer|thunderbolt,alluringvoice,nastyplot,psyshock||85,,85,85,85,85|M|,0,,,,||87|,,,,,Fairy]Flamigo||LifeOrb|Scrappy|roost,swordsdance,bravebird,closecombat||85,85,85,85,85,85|F|||82|,,,,,Fighting]Sylveon||Leftovers|Pixilate|calmmind,wish,protect,hypervoice||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Oranguru||ChoiceSpecs|InnerFocus|psyshock,hypervoice,focusblast,trick||85,,85,85,85,85|F|,0,,,,||92|,,,,,Normal]Serperior||LifeOrb|Contrary|terablast,glare,leafstorm,synthesis||85,85,85,85,85,85|F|||79|,,,,,Fire]Azumarill||SitrusBerry|HugePower|playrough,aquajet,bellydrum,liquidation||85,85,85,85,85,85|F|||82|,,,,,Water",
+  "ai": "Mesprit||Leftovers|Levitate|psychicnoise,encore,knockoff,thunderwave||85,85,85,85,85,85|N|||85|,,,,,Steel]Incineroar||HeavyDutyBoots|Intimidate|flareblitz,swordsdance,knockoff,trailblaze||85,85,85,85,85,85|M|||82|,,,,,Grass]Gyarados||HeavyDutyBoots|Intimidate|waterfall,dragondance,earthquake,terablast||85,85,85,85,85,85|F|||79|,,,,,Flying]Maushold|MausholdFour|WideLens|Technician|encore,populationbomb,bite,tidyup||85,85,85,85,85,85|N|||76|,,,,,Normal]Poliwrath||LifeOrb|SwiftSwim|closecombat,knockoff,liquidation,raindance||85,85,85,85,85,85|M|||88|,,,,,Dark]Electivire||LifeOrb|MotorDrive|knockoff,icepunch,flamethrower,supercellslam||85,85,85,85,85,85|F|||84|,,,,,Flying"
+}

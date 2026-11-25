@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-26",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5ed49a3fdb333ec8ff7a4699bbb2853a5e1d4318039696504c051f026f3d471c",
+    "ai": "sodium,bb22b0872d38301b98dd26c65c4729291145b1fa7bf79c31d64142909cf1ab94"
+  },
+  "playerSpecies": [
+    "Zoroark-Hisui",
+    "Porygon-Z",
+    "Pelipper",
+    "Luxray",
+    "Moltres",
+    "Magnezone"
+  ],
+  "player": "Zoroark|ZoroarkHisui|ChoiceSpecs|Illusion|bittermalice,trick,hypervoice,focusblast||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fighting]Porygon-Z||LifeOrb|Adaptability|agility,shadowball,terablast,nastyplot||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fighting]Pelipper||HeavyDutyBoots|Drizzle|roost,uturn,surf,hurricane||85,85,85,85,85,85|F|||86|,,,,,Water]Luxray||AssaultVest|Intimidate|playrough,voltswitch,icefang,wildcharge||85,85,85,85,85,85|F|||88|,,,,,Fairy]Moltres||HeavyDutyBoots|FlameBody|roost,willowisp,fireblast,bravebird||85,85,85,85,85,85|N|||81|,,,,,Dragon]Magnezone||AssaultVest|Analytic|voltswitch,flashcannon,thunderbolt,bodypress||85,,85,85,85,85|N|,0,,,,||84|,,,,,Flying",
+  "ai": "Rabsca||HeavyDutyBoots|Synchronize|revivalblessing,recover,psychic,bugbuzz||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Tyranitar||WeaknessPolicy|SandStream|dragondance,knockoff,stoneedge,earthquake||85,85,85,85,85,85|F|||78|,,,,,Ghost]Luvdisc||HeavyDutyBoots|SwiftSwim|substitute,surf,flipturn,endeavor||81,85,85,85,85,85|M||||,,,,,Ghost]Crabominable||ChoiceBand|IronFist|knockoff,earthquake,drainpunch,icehammer||85,85,85,85,85,85|M|||90|,,,,,Ground]Galvantula||HeavyDutyBoots|CompoundEyes|bugbuzz,stickyweb,thunder,energyball||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Passimian||ChoiceBand|Defiant|earthquake,knockoff,closecombat,gunkshot||85,85,85,85,85,85|F|||83|,,,,,Dark"
+}

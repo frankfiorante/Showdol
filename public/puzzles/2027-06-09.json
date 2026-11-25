@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-09",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,226a18b228f94eec65624fd34736df81592b345df6443aad231d3be6368513e1",
+    "ai": "sodium,23f3eda59280d090aa8b2863c6a6d2de4de2f5ab641ab9d175fd80c0180aa850"
+  },
+  "playerSpecies": [
+    "Pincurchin",
+    "Wyrdeer",
+    "Sawsbuck-Winter",
+    "Crabominable",
+    "Toxapex",
+    "Arcanine"
+  ],
+  "player": "Pincurchin||Leftovers|ElectricSurge|toxicspikes,scald,recover,thunderbolt||85,,85,85,85,85|M|,0,,,,|||,,,,,Water]Wyrdeer||Leftovers|Intimidate|earthquake,psychicnoise,bodyslam,thunderwave||85,85,85,85,85,85|F|||87|,,,,,Ground]Sawsbuck|SawsbuckWinter|LifeOrb|SereneGrace|hornleech,swordsdance,highhorsepower,headbutt||85,85,85,85,85,85|M|||88|,,,,,Normal]Crabominable||ChoiceBand|IronFist|knockoff,icehammer,drainpunch,gunkshot||85,85,85,85,85,85|F|||90|,,,,,Fighting]Toxapex||RockyHelmet|Regenerator|recover,haze,liquidation,toxic||85,85,85,85,85,85|M|||82|,,,,,Grass]Arcanine||HeavyDutyBoots|Intimidate|roar,extremespeed,morningsun,flareblitz||85,85,85,85,85,85|M|||84|,,,,,Normal",
+  "ai": "Ampharos||AssaultVest|Static|voltswitch,dazzlinggleam,dragontail,thunderbolt||85,85,85,85,85,85|M|||88|,,,,,Fairy]Toxapex||Leftovers|Regenerator|liquidation,recover,toxicspikes,haze||85,85,85,85,85,85|F|||82|,,,,,Flying]Rhyperior||WeaknessPolicy|SolidRock|stoneedge,earthquake,rockpolish,megahorn||85,85,85,85,85,85|F|||82|,,,,,Rock]Wyrdeer||Leftovers|Intimidate|megahorn,thunderwave,psychicnoise,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Malamar||Leftovers|Contrary|sleeptalk,knockoff,rest,superpower||85,85,85,85,85,85|F|||82|,,,,,Fighting]Vespiquen||HeavyDutyBoots|Pressure|uturn,hurricane,toxic,roost||85,85,85,85,85,85|F|||99|,,,,,Steel"
+}

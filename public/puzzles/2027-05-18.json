@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-18",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,de3a4cc45197cc8bec93b572bbe5e70d9836f3bcdf3c2a0bcba38aeca11e2313",
+    "ai": "sodium,90716d6a474a6858ed852242b1ac185470521bc7a7d764f18f434e6ff556d54b"
+  },
+  "playerSpecies": [
+    "Rhydon",
+    "Weezing-Galar",
+    "Dewgong",
+    "Lurantis",
+    "Hawlucha",
+    "Wugtrio"
+  ],
+  "player": "Rhydon||Eviolite|LightningRod|megahorn,stoneedge,swordsdance,earthquake||85,85,85,85,85,85|F|||85|,,,,,Water]Weezing|WeezingGalar|Leftovers|Levitate|gunkshot,strangesteam,defog,willowisp||85,85,85,85,85,85|F|||86|,,,,,Steel]Dewgong||HeavyDutyBoots|ThickFat|surf,tripleaxel,encore,flipturn||85,85,85,85,85,85|F|||94|,,,,,Grass]Lurantis||AssaultVest|Contrary|leechlife,leafstorm,knockoff,superpower||85,85,85,85,85,85|M|||87|,,,,,Water]Hawlucha||WhiteHerb|Unburden|acrobatics,swordsdance,throatchop,closecombat||85,85,85,85,85,85|F|||80|,,,,,Flying]Wugtrio||ChoiceBand|Gooey|stompingtantrum,aquajet,throatchop,liquidation||85,85,85,85,85,85|F|||91|,,,,,Ground",
+  "ai": "Brute Bonnet||Leftovers|Protosynthesis|spore,closecombat,suckerpunch,crunch||85,85,85,85,85,85|N|||79|,,,,,Poison]Hitmonlee||WhiteHerb|Unburden|closecombat,swordsdance,knockoff,poisonjab||85,85,85,85,85,85|M|||85|,,,,,Poison]Iron Jugulis||PowerHerb|QuarkDrive|darkpulse,hurricane,meteorbeam,earthpower||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Garganacl||Leftovers|PurifyingSalt|protect,saltcure,recover,earthquake||85,85,85,85,85,85|M|||80|,,,,,Ghost]Galvantula||HeavyDutyBoots|CompoundEyes|bugbuzz,energyball,stickyweb,thunder||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Rotom|RotomMow|Leftovers|Levitate|willowisp,voltswitch,leafstorm,thunderbolt||85,,85,85,85,85|N|,0,,,,||87|,,,,,Grass"
+}

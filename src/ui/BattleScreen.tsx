@@ -5,26 +5,27 @@ import type {BattleResult, BattleView, MoveOption, PokemonView, SideView} from '
 import {STATUS_LABELS, TYPE_COLORS, boostLabel, hpColor, hpPercent} from './format';
 
 interface Props {
+  puzzleNumber: number;
   view: BattleView;
   log: string[];
   pending: boolean;
   notice: string | null;
   onChoose: (choice: string) => void;
   onForfeit: () => void;
-  onPlayAgain: () => void;
+  onDone: () => void;
 }
 
-export function BattleScreen({view, log, pending, notice, onChoose, onForfeit, onPlayAgain}: Props) {
+export function BattleScreen({puzzleNumber, view, log, pending, notice, onChoose, onForfeit, onDone}: Props) {
   return (
     <div className="battle">
       <div className="turn-bar">
-        <span>Turn {view.turn}</span>
+        <span>Showdol #{puzzleNumber} · Turn {view.turn}</span>
         <FieldSummary view={view} />
       </div>
       <ActiveCard side={view.foe} foe />
       <ActiveCard side={view.me} />
       {view.result ? (
-        <ResultPanel result={view.result} foe={view.foe} onPlayAgain={onPlayAgain} />
+        <ResultPanel result={view.result} onDone={onDone} />
       ) : (
         <Controls view={view} pending={pending} notice={notice} onChoose={onChoose} onForfeit={onForfeit} />
       )}
@@ -204,21 +205,38 @@ function MoveButton({move, disabled, onClick}: {move: MoveOption; disabled: bool
   );
 }
 
-function ResultPanel({result, foe, onPlayAgain}: {result: BattleResult; foe: SideView; onPlayAgain: () => void}) {
+export function ResultSummary({won, turns, myFainted, aiRemaining, forfeited, aiTeam}: {
+  won: boolean;
+  turns?: number;
+  myFainted?: boolean[];
+  aiRemaining?: number;
+  forfeited?: boolean;
+  aiTeam?: string[];
+}) {
+  const left = myFainted ? myFainted.filter(f => !f).length : undefined;
+  return (
+    <>
+      {myFainted && (
+        <p className="squares" aria-label={`${left} of 6 Pokémon left`}>
+          {myFainted.map(f => (f ? '⬛' : '🟩')).join('')}
+        </p>
+      )}
+      <p className="muted">
+        {turns !== undefined && `${turns} turns`}
+        {!won && (forfeited ? ' · forfeit' : aiRemaining !== undefined ? ` · opponent had ${aiRemaining} left` : '')}
+      </p>
+      {aiTeam && <p className="muted small">Opponent&apos;s team: {aiTeam.join(', ')}</p>}
+    </>
+  );
+}
+
+function ResultPanel({result, onDone}: {result: BattleResult; onDone: () => void}) {
   const headline = result.winner === 'player' ? 'You won!' : result.winner === 'ai' ? 'You lost' : 'Tie';
-  const left = result.myFainted.filter(f => !f).length;
   return (
     <section className="card result">
       <h2>{headline}</h2>
-      <p className="squares" aria-label={`${left} of 6 Pokémon left`}>
-        {result.myFainted.map(f => (f ? '⬛' : '🟩')).join('')}
-      </p>
-      <p className="muted">
-        {result.turns} turns
-        {result.winner === 'ai' && (result.forfeited ? ' · forfeit' : ` · opponent had ${result.aiRemaining} left`)}
-      </p>
-      <p className="muted small">Opponent revealed: {foe.team.map(p => p.species).join(', ') || 'none'}</p>
-      <button className="primary" onClick={onPlayAgain}>Play again</button>
+      <ResultSummary won={result.winner === 'player'} {...result} />
+      <button className="primary" onClick={onDone}>Done</button>
     </section>
   );
 }

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-24",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,7cea899fc0a6d3fc1c3c5d9ca68cbea2c0d1c8ef36d9e5e8065c6499bbc6299e",
+    "ai": "sodium,663594fd1665d8ae9a496d2ff0606ae3d445b8a89b5652c94708a9aa1c9a42c6"
+  },
+  "playerSpecies": [
+    "Cramorant",
+    "Sudowoodo",
+    "Flapple",
+    "Diancie",
+    "Meowstic-F",
+    "Scream Tail"
+  ],
+  "player": "Cramorant||HeavyDutyBoots|GulpMissile|defog,roost,surf,bravebird||85,85,85,85,85,85|F|||86|,,,,,Ground]Sudowoodo||ChoiceBand|RockHead|headsmash,suckerpunch,earthquake,woodhammer||85,85,85,85,85,85|M|||94|,,,,,Grass]Flapple||WideLens|Hustle|dragondance,outrage,suckerpunch,gravapple||85,85,85,85,85,85|M|||88|,,,,,Dragon]Diancie||Leftovers|ClearBody|moonblast,diamondstorm,bodypress,rockpolish||85,85,85,85,85,85|N|||82|,,,,,Fighting]Meowstic|MeowsticF|LifeOrb|Competitive|nastyplot,alluringvoice,darkpulse,psyshock||85,,85,85,85,85|F|,0,,,,||89|,,,,,Dark]Scream Tail||Leftovers|Protosynthesis|encore,protect,dazzlinggleam,wish||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison",
+  "ai": "Diancie||Leftovers|ClearBody|earthpower,diamondstorm,drainingkiss,calmmind||85,85,85,85,85,85|N|||82|,,,,,Water]Sceptile||LifeOrb|Overgrow|swordsdance,earthquake,leafblade,rockslide||85,85,85,85,85,85|F|||87|,,,,,Rock]Iron Jugulis||ChoiceSpecs|QuarkDrive|uturn,hurricane,darkpulse,earthpower||85,85,85,85,85,85|N|||77|,,,,,Dark]Floatzel||ChoiceBand|WaterVeil|icespinner,crunch,flipturn,wavecrash||85,85,85,85,85,85|F|||86|,,,,,Water]Landorus||LifeOrb|SheerForce|sludgewave,psychic,rockslide,earthpower||85,85,85,85,85,85|M|||75|,,,,,Ground]Archaludon||AssaultVest|Stamina|bodypress,dracometeor,flashcannon,dragontail||85,85,85,85,85,85|M|||77|,,,,,Fighting"
+}

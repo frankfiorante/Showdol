@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-04",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,35d47c22087d4158995d4622674cb5e76050a40fce72301f8803bff8db317b9f",
+    "ai": "sodium,9f5df79e25a2c02bfad3a24682628ec1f71c03ee62a12ee26f802e3fcc4b6f89"
+  },
+  "playerSpecies": [
+    "Arceus-Ground",
+    "Blissey",
+    "Iron Boulder",
+    "Chesnaught",
+    "Dachsbun",
+    "Hydreigon"
+  ],
+  "player": "Arceus|ArceusGround|EarthPlate|Multitype|stoneedge,dragondance,earthquake,recover||85,85,85,85,85,85|N|||70|,,,,,Steel]Blissey||Leftovers|NaturalCure|stealthrock,thunderwave,seismictoss,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ghost]Iron Boulder||LifeOrb|QuarkDrive|swordsdance,zenheadbutt,closecombat,mightycleave||85,85,85,85,85,85|N|||77|,,,,,Fighting]Chesnaught||Leftovers|Bulletproof|synthesis,trailblaze,bodypress,irondefense||85,85,85,85,85,85|M|||84|,,,,,Steel]Dachsbun||Leftovers|WellBakedBody|playrough,yawn,protect,wish||85,85,85,85,85,85|M|||92|,,,,,Steel]Hydreigon||ChoiceSpecs|Levitate|fireblast,flashcannon,darkpulse,dracometeor||85,,85,85,85,85|M|,0,,,,||79|,,,,,Dragon",
+  "ai": "Medicham||ChoiceBand|PurePower|icepunch,closecombat,bulletpunch,zenheadbutt||85,85,85,85,85,85|M|||86|,,,,,Fighting]Weezing||Leftovers|Levitate|fireblast,painsplit,sludgebomb,willowisp||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Poliwrath||LifeOrb|SwiftSwim|knockoff,closecombat,liquidation,raindance||85,85,85,85,85,85|F|||88|,,,,,Fighting]Abomasnow||LightClay|SnowWarning|auroraveil,woodhammer,earthquake,blizzard||77,85,85,85,85,85|F|||84|,,,,,Ghost]Cloyster||WhiteHerb|SkillLink|shellsmash,hydropump,iciclespear,rockblast||85,85,85,85,85,85|F|||80|,,,,,Rock]Azelf||Leftovers|Levitate|stealthrock,psychic,knockoff,encore||85,85,85,85,85,85|N|||82|,,,,,Dark"
+}

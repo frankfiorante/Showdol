@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-19",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,8032086d70acd373dd06718f88cc1c05f52ed67f9c1d14ffbad396a9e403e99a",
+    "ai": "sodium,493ddb9ac453ac687f3e1abd88b5dc7fb5fca0e1af2f6ff59f8452a6e73130e3"
+  },
+  "playerSpecies": [
+    "Lucario",
+    "Furret",
+    "Arbok",
+    "Klefki",
+    "Oranguru",
+    "Walking Wake"
+  ],
+  "player": "Lucario||ChoiceBand|Justified|stoneedge,extremespeed,closecombat,meteormash||85,85,85,85,85,85|F|||84|,,,,,Normal]Furret||LifeOrb|Frisk|doubleedge,knockoff,brickbreak,tidyup||85,85,85,85,85,85|M|||94|,,,,,Normal]Arbok||Leftovers|Intimidate|coil,earthquake,trailblaze,gunkshot||85,85,85,85,85,85|F|||87|,,,,,Grass]Klefki||Leftovers|Prankster|spikes,playrough,magnetrise,thunderwave||85,85,85,85,85,85|F|||84|,,,,,Water]Oranguru||Leftovers|InnerFocus|psyshock,thunderbolt,focusblast,nastyplot||85,,85,85,85,85|F|,0,,,,||92|,,,,,Psychic]Walking Wake||LifeOrb|Protosynthesis|hydrosteam,flamethrower,sunnyday,dracometeor||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire",
+  "ai": "Cacturne||LifeOrb|WaterAbsorb|suckerpunch,knockoff,seedbomb,swordsdance||85,85,85,85,85,85|M|||92|,,,,,Poison]Torterra||LoadedDice|Overgrow|shellsmash,bulletseed,headlongrush,rockblast||85,85,85,85,85,85|M|||78|,,,,,Rock]Klefki||Leftovers|Prankster|spikes,thunderwave,magnetrise,playrough||85,85,85,85,85,85|M|||84|,,,,,Water]Smeargle||WideLens|Technician|spore,shellsmash,powertrip,populationbomb||85,85,85,85,85,85|M|||95|,,,,,Normal]Barraskewda||ChoiceBand|SwiftSwim|poisonjab,waterfall,closecombat,flipturn||85,85,85,85,85,85|F|||81|,,,,,Fighting]Blastoise||WhiteHerb|Torrent|shellsmash,terablast,icebeam,hydropump||85,,85,85,85,85|F|,0,,,,||80|,,,,,Grass"
+}

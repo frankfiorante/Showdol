@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-30",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5ba7befc04134c24162e4c29f211cd500d7d7689065c28e90ca6884ed6058906",
+    "ai": "sodium,1483e51a9a7eb4441d9bd567172a5ad25d48f6dfda495a34ab9e25bb11bd364f"
+  },
+  "playerSpecies": [
+    "Cyclizar",
+    "Jumpluff",
+    "Gogoat",
+    "Blaziken",
+    "Persian",
+    "Mimikyu"
+  ],
+  "player": "Cyclizar||HeavyDutyBoots|Regenerator|dracometeor,rapidspin,shedtail,taunt||85,85,85,85,85,85|M|||84|,,,,,Steel]Jumpluff|||Infiltrator|acrobatics,encore,strengthsap,sleeppowder||81,85,85,85,85,85|M|||87|,,,,,Steel]Gogoat||Leftovers|SapSipper|milkdrink,hornleech,bulkup,earthquake||85,85,85,85,85,85|F|||88|,,,,,Water]Blaziken||LifeOrb|SpeedBoost|closecombat,swordsdance,protect,flareblitz||85,85,85,85,85,85|M|||76|,,,,,Fighting]Persian||SilkScarf|Technician|uturn,doubleedge,knockoff,fakeout||85,85,85,85,85,85|F|||92|,,,,,Normal]Mimikyu||LifeOrb|Disguise|shadowsneak,playrough,drainpunch,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Fairy",
+  "ai": "Sneasler||WhiteHerb|Unburden|direclaw,closecombat,swordsdance,acrobatics||85,85,85,85,85,85|M|||74|,,,,,Flying]Zacian||RustedSword|IntrepidSword|swordsdance,behemothblade,closecombat,playrough||85,85,85,85,85,85|N|||64|,,,,,Fighting]Roaring Moon||LumBerry|Protosynthesis|dragondance,earthquake,knockoff,outrage||85,85,85,85,85,85|N|||72|,,,,,Ground]Venomoth||HeavyDutyBoots|TintedLens|bugbuzz,quiverdance,sleeppowder,sludgewave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Bug]Golem|GolemAlola|LifeOrb|Galvanize|doubleedge,earthquake,stoneedge,rockpolish||85,85,85,85,85,85|M|||93|,,,,,Flying]Wigglytuff||Leftovers|Competitive|protect,thunderwave,wish,alluringvoice||85,,85,85,85,85|F|,0,,,,||96|,,,,,Poison"
+}

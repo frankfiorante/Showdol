@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-15",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,555276b14e13f64add9b1b403b37dc67b2fb00bed2e7e8296fcce6e7cdcbc32d",
+    "ai": "sodium,f59ea79ea09ffcb5d0d472be74270f6ec1fc8e580aa95487e7636c17b2d55893"
+  },
+  "playerSpecies": [
+    "Kyogre",
+    "Brute Bonnet",
+    "Cryogonal",
+    "Magnezone",
+    "Sneasler",
+    "Hydrapple"
+  ],
+  "player": "Kyogre||Leftovers|Drizzle|originpulse,calmmind,thunder,icebeam||85,,85,85,85,85|N|,0,,,,||71|,,,,,Electric]Brute Bonnet||Leftovers|Protosynthesis|suckerpunch,crunch,seedbomb,spore||85,85,85,85,85,85|N|||79|,,,,,Poison]Cryogonal||HeavyDutyBoots|Levitate|rapidspin,haze,freezedry,recover||85,85,85,85,85,85|N|||89|,,,,,Poison]Magnezone||Leftovers|MagnetPull|flashcannon,irondefense,bodypress,discharge||85,,85,85,85,85|N|,0,,,,||84|,,,,,Fighting]Sneasler||ChoiceBand|PoisonTouch|throatchop,uturn,direclaw,closecombat||85,85,85,85,85,85|M|||74|,,,,,Dark]Hydrapple||ChoiceSpecs|Regenerator|earthpower,ficklebeam,leafstorm,dracometeor||85,,85,85,85,85|M|,0,,,,||83|,,,,,Dragon",
+  "ai": "Iron Jugulis||PowerHerb|QuarkDrive|meteorbeam,darkpulse,earthpower,hurricane||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Scream Tail||Leftovers|Protosynthesis|playrough,protect,wish,encore||85,85,85,85,85,85|N|||84|,,,,,Poison]Ampharos||AssaultVest|Static|voltswitch,discharge,dazzlinggleam,dragontail||85,85,85,85,85,85|M|||88|,,,,,Fairy]Sudowoodo||ChoiceBand|RockHead|headsmash,earthquake,suckerpunch,woodhammer||85,85,85,85,85,85|F|||94|,,,,,Rock]Weezing||Leftovers|Levitate|toxicspikes,sludgebomb,fireblast,painsplit||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Scizor||LifeOrb|Technician|closecombat,swordsdance,bulletpunch,bugbite||85,85,85,85,85,85|M|||79|,,,,,Steel"
+}

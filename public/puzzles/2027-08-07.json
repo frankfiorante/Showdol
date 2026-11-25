@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-07",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,9fd51ad3d6d5617fe6807cc721df0186ce747d19adf2e84fdf4452494011f2d6",
+    "ai": "sodium,08899e43faef94f2ab9c44a24b97979dcd4a0d19296459d2fe08b9899dcf2bfb"
+  },
+  "playerSpecies": [
+    "Mew",
+    "Hippowdon",
+    "Meowstic-F",
+    "Primarina",
+    "Iron Valiant",
+    "Mightyena"
+  ],
+  "player": "Mew||Leftovers|Synchronize|encore,psychicnoise,willowisp,uturn||85,85,85,85,85,85|N|||82|,,,,,Fairy]Hippowdon||Leftovers|SandStream|stoneedge,earthquake,slackoff,curse||85,85,85,85,85,85|F|||82|,,,,,Rock]Meowstic|MeowsticF|LifeOrb|Competitive|darkpulse,nastyplot,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||89|,,,,,Electric]Primarina||Leftovers|Torrent|calmmind,psychic,sparklingaria,drainingkiss||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Iron Valiant||LifeOrb|QuarkDrive|calmmind,moonblast,closecombat,psychic||85,85,85,85,85,85|N|||78|,,,,,Steel]Mightyena||Leftovers|Intimidate|throatchop,taunt,playrough,suckerpunch||85,85,85,85,85,85|M|||96|,,,,,Fairy",
+  "ai": "Beartic||HeavyDutyBoots|SlushRush|swordsdance,snowscape,iciclecrash,closecombat||85,85,85,85,85,85|F|||91|,,,,,Fighting]Komala||AssaultVest|Comatose|knockoff,bodyslam,rapidspin,uturn||85,85,85,85,85,85|M|||87|,,,,,Ghost]Falinks||LifeOrb|Defiant|closecombat,noretreat,knockoff,ironhead||85,85,85,85,85,85|N|||84|,,,,,Dark]Lycanroc||LifeOrb|SandRush|closecombat,stoneedge,taunt,psychicfangs||85,85,85,85,85,85|M|||86|,,,,,Fighting]Flareon||ToxicOrb|Guts|flareblitz,trailblaze,quickattack,facade||85,85,85,85,85,85|F|||90|,,,,,Normal]Dachsbun||Leftovers|WellBakedBody|wish,bodypress,protect,playrough||85,85,85,85,85,85|M|||92|,,,,,Steel"
+}

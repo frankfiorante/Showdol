@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-08",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,0636a88a7abeed49db2ef6906c6491ed951e19158c2bba40d2f7126c39cf8598",
+    "ai": "sodium,3e2853646a83f629fa3885e1fcd5c77cb13782076bfaabb415caf9979f8ef3dc"
+  },
+  "playerSpecies": [
+    "Cloyster",
+    "Mew",
+    "Polteageist-Antique",
+    "Spidops",
+    "Kleavor",
+    "Muk"
+  ],
+  "player": "Cloyster||WhiteHerb|SkillLink|rockblast,drillrun,iciclespear,shellsmash||85,85,85,85,85,85|F|||80|,,,,,Ground]Mew||LifeOrb|Synchronize|closecombat,psychicfangs,swordsdance,leechlife||85,85,85,85,85,85|N|||82|,,,,,Fighting]Polteageist|PolteageistAntique|WhiteHerb|CursedBody|storedpower,shadowball,strengthsap,shellsmash||85,,85,85,85,85|N|,0,,,,||78|,,,,,Psychic]Spidops||HeavyDutyBoots|Stakeout|toxicspikes,spikes,stickyweb,circlethrow||85,85,85,85,85,85|M|||96|,,,,,Ghost]Kleavor||ChoiceBand|Sharpness|closecombat,uturn,stoneaxe,xscissor||85,85,85,85,85,85|F|||78|,,,,,Rock]Muk||AssaultVest|PoisonTouch|poisonjab,drainpunch,shadowsneak,knockoff||85,85,85,85,85,85|F|||86|,,,,,Dark",
+  "ai": "Bellibolt||Leftovers|Electromorphosis|slackoff,thunderbolt,muddywater,toxic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Luxray||AssaultVest|Intimidate|voltswitch,wildcharge,icefang,playrough||85,85,85,85,85,85|M|||88|,,,,,Fairy]Tatsugiri||HeavyDutyBoots|StormDrain|nastyplot,hydropump,dracometeor,rapidspin||85,85,85,85,85,85|F|||87|,,,,,Water]Polteageist|PolteageistAntique|WhiteHerb|CursedBody|shellsmash,terablast,shadowball,strengthsap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Moltres||HeavyDutyBoots|FlameBody|fireblast,roost,scorchingsands,bravebird||85,85,85,85,85,85|N|||81|,,,,,Ground]Kricketune||HeavyDutyBoots|Technician|knockoff,taunt,stickyweb,pounce||85,85,85,85,85,85|M|||99|,,,,,Ghost"
+}

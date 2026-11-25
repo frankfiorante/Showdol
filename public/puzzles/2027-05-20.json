@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-20",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,3f1c48e2637ee68bfb6b93b04a485e1834326d986a7b18c4fe7a7897f085de6a",
+    "ai": "sodium,2fd77bd8d9101fcf79ff38fec9cfa3bb3490e88f3756e00bed3dcaf5d491c273"
+  },
+  "playerSpecies": [
+    "Carbink",
+    "Mismagius",
+    "Girafarig",
+    "Dachsbun",
+    "Tyranitar",
+    "Vileplume"
+  ],
+  "player": "Carbink||ChestoBerry|Sturdy|moonblast,bodypress,rest,irondefense||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Mismagius||Leftovers|Levitate|nastyplot,shadowball,terablast,substitute||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fighting]Girafarig||Eviolite|SapSipper|dazzlinggleam,psyshock,thunderbolt,nastyplot||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fairy]Dachsbun||Leftovers|WellBakedBody|protect,playrough,yawn,wish||85,85,85,85,85,85|F|||92|,,,,,Steel]Tyranitar||Leftovers|SandStream|knockoff,thunderwave,stoneedge,icebeam||85,85,85,85,85,85|M|||78|,,,,,Rock]Vileplume||Leftovers|EffectSpore|strengthsap,sludgebomb,sleeppowder,gigadrain||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
+  "ai": "Dragapult||ChoiceSpecs|Infiltrator|fireblast,shadowball,dracometeor,uturn||85,85,85,85,85,85|F|||77|,,,,,Fire]Sunflora||LifeOrb|Chlorophyll|earthpower,weatherball,solarbeam,sunnyday||85,,85,85,85,85|M|,0,,,,|||,,,,,Fire]Milotic||Leftovers|Competitive|scald,icebeam,recover,dragontail||85,85,85,85,85,85|F|||83|,,,,,Steel]Espeon||LifeOrb|MagicBounce|psychic,alluringvoice,shadowball,morningsun||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Iron Hands||AssaultVest|QuarkDrive|heavyslam,thunderpunch,voltswitch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Copperajah||ChoiceBand|HeavyMetal|heatcrash,heavyslam,stoneedge,supercellslam||81,85,85,85,85,85|M|||86|,,,,,Flying"
+}

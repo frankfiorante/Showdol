@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-19",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,9aad70051f207e453f8cb52aa91368248289af077197c492e0518216c8d4d220",
+    "ai": "sodium,6d3a371d089d8fd63761c1606ff3b89f8be85da2f03f9f0d69aaa9424b306c67"
+  },
+  "playerSpecies": [
+    "Salazzle",
+    "Spidops",
+    "Wo-Chien",
+    "Houndoom",
+    "Gastrodon-East",
+    "Cinccino"
+  ],
+  "player": "Salazzle||Leftovers|Corrosion|toxic,substitute,protect,flamethrower||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Spidops||HeavyDutyBoots|Stakeout|uturn,knockoff,stickyweb,circlethrow||85,85,85,85,85,85|F|||96|,,,,,Ghost]Wo-Chien||Leftovers|TabletsofRuin|knockoff,gigadrain,protect,leechseed||85,85,85,85,85,85|N|||83|,,,,,Poison]Houndoom||HeavyDutyBoots|FlashFire|sludgebomb,darkpulse,suckerpunch,fireblast||85,85,85,85,85,85|M|||87|,,,,,Poison]Gastrodon|GastrodonEast|Leftovers|StormDrain|spikes,earthquake,icebeam,recover||85,85,85,85,85,85|F|||86|,,,,,Steel]Cinccino||LoadedDice|Technician|uturn,tailslap,bulletseed,tripleaxel||85,85,85,85,85,85|M|||83|,,,,,Grass",
+  "ai": "Wigglytuff||Leftovers|Competitive|protect,wish,knockoff,dazzlinggleam||85,85,85,85,85,85|F|||96|,,,,,Steel]Grimmsnarl||Leftovers|Prankster|thunderwave,partingshot,suckerpunch,spiritbreak||85,85,85,85,85,85|M|||83|,,,,,Steel]Tentacruel||Leftovers|LiquidOoze|sludgebomb,rapidspin,toxicspikes,surf||85,85,85,85,85,85|M|||84|,,,,,Flying]Zangoose||ToxicOrb|ToxicBoost|swordsdance,knockoff,facade,closecombat||85,85,85,85,85,85|F|||85|,,,,,Normal]Misdreavus||Eviolite|Levitate|drainingkiss,willowisp,shadowball,calmmind||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Froslass||WideLens|CursedBody|spikes,destinybond,tripleaxel,poltergeist||81,85,85,85,85,85|F|||87|,,,,,Ghost"
+}

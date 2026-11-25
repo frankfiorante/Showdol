@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-23",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,3218aa7e7efa1ca08b249e929375a0b3e3324f61506380181f5fe7f84506373a",
+    "ai": "sodium,1dea02fab03f338dd2fcf7c58c33bfdaa57be63f044207cf66403039af5f5a72"
+  },
+  "playerSpecies": [
+    "Tornadus-Therian",
+    "Bastiodon",
+    "Hippowdon",
+    "Virizion",
+    "Copperajah",
+    "Porygon2"
+  ],
+  "player": "Tornadus|TornadusTherian|ChoiceSpecs|Regenerator|heatwave,bleakwindstorm,focusblast,grassknot||85,,85,85,85,85|M|,0,,,,||79|,,,,,Fire]Bastiodon||ChestoBerry|Soundproof|rest,bodypress,foulplay,irondefense||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fighting]Hippowdon||Leftovers|SandStream|earthquake,slackoff,stoneedge,curse||85,85,85,85,85,85|M|||82|,,,,,Steel]Virizion||LifeOrb|Justified|leafblade,stoneedge,swordsdance,closecombat||85,85,85,85,85,85|N|||82|,,,,,Rock]Copperajah||ChoiceBand|HeavyMetal|knockoff,heavyslam,stoneedge,superpower||85,85,85,85,85,85|M|||86|,,,,,Flying]Porygon2||Eviolite|Download|discharge,icebeam,triattack,recover||85,,85,85,85,85|N|,0,,,,||81|,,,,,Poison",
+  "ai": "Iron Moth||ChoiceSpecs|QuarkDrive|sludgewave,uturn,fierydance,energyball||85,85,85,85,85,85|N|||78|,,,,,Grass]Espathra||ChoiceSpecs|SpeedBoost|dazzlinggleam,shadowball,uturn,luminacrash||85,85,85,85,85,85|M|||80|,,,,,Psychic]Uxie||Leftovers|Levitate|stealthrock,thunderwave,encore,psychicnoise||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Zoroark||ChoiceSpecs|Illusion|darkpulse,trick,sludgebomb,flamethrower||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Regirock||ChestoBerry|ClearBody|rest,curse,bodypress,stoneedge||85,85,85,85,85,85|N|||83|,,,,,Fighting]Goodra||AssaultVest|SapSipper|fireblast,dracometeor,sludgebomb,dragontail||85,85,85,85,85,85|F|||85|,,,,,Fire"
+}

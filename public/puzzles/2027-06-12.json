@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-12",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,802b86ee01ffa9ba8e1fd97eb69362f806af23c426836c5b4a0a0199dc6d1e46",
+    "ai": "sodium,bc20007e7208879ff2ca23897a06ecd0b8e3851c8818340bae2dc0414bcc78fb"
+  },
+  "playerSpecies": [
+    "Glimmora",
+    "Luvdisc",
+    "Azelf",
+    "Kyogre",
+    "Electivire",
+    "Donphan"
+  ],
+  "player": "Glimmora||FocusSash|ToxicDebris|earthpower,spikes,sludgewave,stealthrock||85,,85,85,85,85|M|,0,,,,||75|,,,,,Ground]Luvdisc||HeavyDutyBoots|SwiftSwim|substitute,flipturn,endeavor,surf||81,85,85,85,85,85|F||||,,,,,Ground]Azelf||AssaultVest|Levitate|psychic,uturn,fireblast,knockoff||85,85,85,85,85,85|N|||82|,,,,,Dark]Kyogre||Leftovers|Drizzle|thunder,calmmind,originpulse,icebeam||85,,85,85,85,85|N|,0,,,,||71|,,,,,Electric]Electivire||LifeOrb|MotorDrive|icepunch,bulkup,supercellslam,earthquake||85,85,85,85,85,85|M|||84|,,,,,Flying]Donphan||AssaultVest|Sturdy|knockoff,earthquake,icespinner,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Steel",
+  "ai": "Whiscash||LifeOrb|Oblivious|liquidation,stoneedge,earthquake,dragondance||85,85,85,85,85,85|M|||88|,,,,,Ground]Torterra||LoadedDice|Overgrow|shellsmash,rockblast,headlongrush,bulletseed||85,85,85,85,85,85|M|||78|,,,,,Rock]Swalot||Leftovers|LiquidOoze|toxic,protect,earthquake,sludgebomb||85,85,85,85,85,85|F|||90|,,,,,Ground]Rabsca||HeavyDutyBoots|Synchronize|bugbuzz,earthpower,psychic,revivalblessing||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Lycanroc|LycanrocDusk|LifeOrb|ToughClaws|accelerock,closecombat,stoneedge,swordsdance||85,85,85,85,85,85|M|||81|,,,,,Fighting]Iron Hands||AssaultVest|QuarkDrive|icepunch,wildcharge,voltswitch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Fighting"
+}

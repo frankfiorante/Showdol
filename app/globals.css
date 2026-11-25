@@ -106,3 +106,6 @@ button.switch.is-active { border-color: var(--accent); }
 @media (max-width: 380px) {
   .switches { grid-template-columns: repeat(2, 1fr); }
 }
+
+/* ---------- Phase 2 ---------- */
+.countdown { margin: 12px 0 0; font-variant-numeric: tabular-nums; }

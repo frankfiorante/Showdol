@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-30",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,9f15c27599ba92f94df907595c2ad08eabbbfab5142c3d45830e5961d9870921",
+    "ai": "sodium,d02e5a04c7bf263e6f1cb19c04c2cb0658fe1a78bf370cd15cca10e69c67f119"
+  },
+  "playerSpecies": [
+    "Baxcalibur",
+    "Garganacl",
+    "Zebstrika",
+    "Chandelure",
+    "Lilligant-Hisui",
+    "Stantler"
+  ],
+  "player": "Baxcalibur||LoadedDice|ThermalExchange|swordsdance,earthquake,iciclespear,scaleshot||81,85,85,85,85,85|F|||75|,,,,,Ground]Garganacl||Leftovers|PurifyingSalt|irondefense,recover,saltcure,bodypress||85,85,85,85,85,85|F|||80|,,,,,Ghost]Zebstrika||LifeOrb|SapSipper|overheat,supercellslam,voltswitch,highhorsepower||85,85,85,85,85,85|M|||87|,,,,,Ground]Chandelure||ChoiceScarf|FlashFire|trick,energyball,shadowball,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Lilligant|LilligantHisui|WideLens|Hustle|leafblade,closecombat,victorydance,sleeppowder||85,85,85,85,85,85|F|||79|,,,,,Fighting]Stantler||Eviolite|Intimidate|thunderwave,bodyslam,earthquake,throatchop||85,85,85,85,85,85|F|||90|,,,,,Poison",
+  "ai": "Magearna|MagearnaOriginal|Leftovers|SoulHeart|flashcannon,painsplit,aurasphere,fleurcannon||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fighting]Arboliva||Leftovers|SeedSower|energyball,strengthsap,earthpower,hypervoice||85,,85,85,85,85|F|,0,,,,||91|,,,,,Ground]Latias||SoulDew|Levitate|calmmind,dracometeor,recover,psyshock||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Vikavolt||HeavyDutyBoots|Levitate|stickyweb,bugbuzz,thunderbolt,voltswitch||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Primarina||Leftovers|Torrent|drainingkiss,calmmind,psychic,sparklingaria||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy]Hariyama||AssaultVest|ThickFat|knockoff,closecombat,heavyslam,bulletpunch||85,85,85,85,85,85|M|||87|,,,,,Steel"
+}

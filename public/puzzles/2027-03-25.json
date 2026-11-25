@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-25",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,c368cbffad6388a66164b9cc0f85cef9e30ed3f41abf11f5645dd6761dbe746b",
+    "ai": "sodium,c08b1704c85866869e6326fa3ddc228b520a84fe24563e7fa3676fca7b14a94c"
+  },
+  "playerSpecies": [
+    "Mudsdale",
+    "Appletun",
+    "Luvdisc",
+    "Meloetta",
+    "Swanna",
+    "Fezandipiti"
+  ],
+  "player": "Mudsdale||Leftovers|Stamina|stoneedge,stealthrock,heavyslam,earthquake||85,85,85,85,85,85|M|||83|,,,,,Steel]Appletun||Leftovers|ThickFat|appleacid,dragontail,dragonpulse,recover||85,85,85,85,85,85|F|||92|,,,,,Steel]Luvdisc||HeavyDutyBoots|SwiftSwim|flipturn,surf,substitute,endeavor||81,85,85,85,85,85|M||||,,,,,Ground]Meloetta||LifeOrb|SereneGrace|closecombat,relicsong,knockoff,tripleaxel||85,85,85,85,85,85|N|||82|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,defog,hydropump||85,85,85,85,85,85|M|||89|,,,,,Ground]Fezandipiti||Leftovers|ToxicChain|gunkshot,swordsdance,terablast,playrough||85,85,85,85,85,85|M|||82|,,,,,Ground",
+  "ai": "Cinderace||ChoiceBand|Libero|highjumpkick,pyroball,uturn,gunkshot||81,85,85,85,85,85|F|||77|,,,,,Fire]Pachirisu||HeavyDutyBoots|VoltAbsorb|superfang,encore,discharge,uturn||85,85,85,85,85,85|F|||96|,,,,,Flying]Wyrdeer||AssaultVest|Intimidate|earthquake,bodyslam,psychicnoise,megahorn||85,85,85,85,85,85|F|||87|,,,,,Ground]Chandelure||ChoiceScarf|FlashFire|trick,shadowball,fireblast,energyball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Articuno||HeavyDutyBoots|Pressure|bravebird,roost,freezedry,uturn||85,85,85,85,85,85|N|||86|,,,,,Steel]Crabominable||AssaultVest|IronFist|drainpunch,icehammer,knockoff,earthquake||85,85,85,85,85,85|M|||90|,,,,,Fighting"
+}

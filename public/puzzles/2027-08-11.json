@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-11",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,1e97c137c583fe730ed0fdda7ce5c2eb9abb3d8f81b8f53d30b744a5423f7d37",
+    "ai": "sodium,e517ccb8baf129aa18ac40d3a0e09714cd52afaec3b83a8e55c06e75eb9e7c7e"
+  },
+  "playerSpecies": [
+    "Farigiraf",
+    "Krookodile",
+    "Swampert",
+    "Scyther",
+    "Goodra-Hisui",
+    "Ursaring"
+  ],
+  "player": "Farigiraf||Leftovers|SapSipper|bodyslam,protect,psychicnoise,wish||85,85,85,85,85,85|F|||89|,,,,,Fairy]Krookodile||Leftovers|Intimidate|knockoff,gunkshot,bulkup,earthquake||85,85,85,85,85,85|M|||79|,,,,,Poison]Swampert||Leftovers|Torrent|icebeam,stealthrock,flipturn,earthquake||85,85,85,85,85,85|M|||82|,,,,,Steel]Scyther||HeavyDutyBoots|Technician|defog,uturn,closecombat,dualwingbeat||85,85,85,85,85,85|F|||82|,,,,,Fighting]Goodra|GoodraHisui|AssaultVest|SapSipper|heavyslam,thunderbolt,hydropump,dracometeor||85,85,85,85,85,85|F|||82|,,,,,Water]Ursaring||Eviolite|Guts|rest,bodyslam,earthquake,sleeptalk||85,85,85,85,85,85|M|||84|,,,,,Ghost",
+  "ai": "Mandibuzz||HeavyDutyBoots|Overcoat|roost,defog,bravebird,foulplay||85,85,85,85,85,85|F|||85|,,,,,Steel]Umbreon||Leftovers|Synchronize|foulplay,protect,toxic,wish||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Eelektross||Leftovers|Levitate|supercellslam,drainpunch,coil,knockoff||85,85,85,85,85,85|M|||87|,,,,,Fighting]Iron Moth||ChoiceSpecs|QuarkDrive|uturn,energyball,sludgewave,fireblast||85,85,85,85,85,85|N|||78|,,,,,Grass]Lumineon||HeavyDutyBoots|StormDrain|icebeam,hydropump,uturn,encore||85,85,85,85,85,85|F|||93|,,,,,Steel]Kyogre||ChoiceScarf|Drizzle|originpulse,icebeam,waterspout,thunder||85,,85,85,85,85|N|,0,,,,||71|,,,,,Water"
+}

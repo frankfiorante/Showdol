@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-07",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,d9289da5b33a3f69bf7780e1128a9e56d0013452bc8930748e5fe1c1bd810040",
+    "ai": "sodium,de8f83d9a1600cc76e776f3bef248ad77f803f1119e81ffc9ae4d7023fec779c"
+  },
+  "playerSpecies": [
+    "Zebstrika",
+    "Wo-Chien",
+    "Meganium",
+    "Mimikyu",
+    "Uxie",
+    "Cyclizar"
+  ],
+  "player": "Zebstrika||LifeOrb|SapSipper|highhorsepower,supercellslam,voltswitch,overheat||85,85,85,85,85,85|F|||87|,,,,,Ground]Wo-Chien||Leftovers|TabletsofRuin|ruination,knockoff,protect,leechseed||85,85,85,85,85,85|N|||83|,,,,,Poison]Meganium||Leftovers|Overgrow|knockoff,petalblizzard,earthquake,swordsdance||85,85,85,85,85,85|M|||90|,,,,,Water]Mimikyu||LifeOrb|Disguise|shadowsneak,swordsdance,playrough,drainpunch||85,85,85,85,85,85|M|||79|,,,,,Fairy]Uxie||Leftovers|Levitate|psychicnoise,stealthrock,thunderwave,encore||85,,85,85,85,85|N|,0,,,,||83|,,,,,Dark]Cyclizar||HeavyDutyBoots|Regenerator|dracometeor,knockoff,rapidspin,shedtail||85,85,85,85,85,85|M|||84|,,,,,Dragon",
+  "ai": "Ludicolo||LifeOrb|SwiftSwim|icebeam,hydropump,raindance,gigadrain||85,,85,85,85,85|F|,0,,,,||90|,,,,,Grass]Swampert||Leftovers|Damp|stealthrock,knockoff,icebeam,earthquake||85,85,85,85,85,85|M|||82|,,,,,Steel]Lunala||Leftovers|ShadowShield|moongeistbeam,calmmind,psyshock,moonlight||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fairy]Solgaleo||WeaknessPolicy|FullMetalBody|earthquake,sunsteelstrike,knockoff,flamecharge||85,85,85,85,85,85|N|||74|,,,,,Dark]Glaceon||HeavyDutyBoots|IceBody|protect,wish,freezedry,calmmind||85,,85,85,85,85|F|,0,,,,||94|,,,,,Water]Ambipom||ChoiceBand|Technician|tripleaxel,knockoff,doubleedge,lowkick||85,85,85,85,85,85|F|||84|,,,,,Ice"
+}

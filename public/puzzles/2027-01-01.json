@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-01",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,09529f36d45bf202a97f0cea75653f4742d3d69c045b5182d2387a68fec7a0fc",
+    "ai": "sodium,9a879e4ae6f1bd3309bd49304eff2cadc50b97a812b27012d8b4ccc9c25940e4"
+  },
+  "playerSpecies": [
+    "Zekrom",
+    "Giratina-Origin",
+    "Raichu-Alola",
+    "Avalugg",
+    "Cryogonal",
+    "Flareon"
+  ],
+  "player": "Zekrom||Leftovers|Teravolt|boltstrike,substitute,dragondance,outrage||85,85,85,85,85,85|N|||71|,,,,,Steel]Giratina|GiratinaOrigin|GriseousCore|Levitate|dracometeor,defog,poltergeist,dragontail||85,85,85,85,85,85|N|||72|,,,,,Steel]Raichu|RaichuAlola|LifeOrb|SurgeSurfer|thunderbolt,psyshock,focusblast,nastyplot||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Avalugg||HeavyDutyBoots|Sturdy|recover,bodypress,curse,avalanche||85,85,85,85,85,85|M|||88|,,,,,Fighting]Cryogonal||HeavyDutyBoots|Levitate|recover,freezedry,haze,flashcannon||85,,85,85,85,85|N|,0,,,,||89|,,,,,Poison]Flareon||ToxicOrb|Guts|flareblitz,willowisp,facade,trailblaze||85,85,85,85,85,85|M|||90|,,,,,Normal",
+  "ai": "Clefable||Leftovers|Unaware|moonlight,stealthrock,thunderwave,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Poison]Spiritomb||Leftovers|Infiltrator|poltergeist,painsplit,toxic,foulplay||85,85,85,85,85,85|M|||89|,,,,,Poison]Drifblim||SitrusBerry|Unburden|strengthsap,airslash,calmmind,shadowball||73,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy]Venomoth||HeavyDutyBoots|TintedLens|sludgewave,sleeppowder,quiverdance,bugbuzz||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Scovillain||ChoiceSpecs|Chlorophyll|energyball,flamethrower,overheat,leafstorm||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire]Heracross||ChoiceBand|Moxie|closecombat,megahorn,earthquake,stoneedge||85,85,85,85,85,85|F|||80|,,,,,Rock"
+}

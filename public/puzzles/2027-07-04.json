@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-04",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,2bde14af3173a5d8326d833a745c4bd7d2ab62f23fbdb1c04c4e60b8e53b56c8",
+    "ai": "sodium,6e2adacfc89d5cd79468dfa68ce38e51f41872c2388f48a6399127920b6a0a5a"
+  },
+  "playerSpecies": [
+    "Cinccino",
+    "Primarina",
+    "Rampardos",
+    "Espeon",
+    "Brute Bonnet",
+    "Comfey"
+  ],
+  "player": "Cinccino||LoadedDice|Technician|tripleaxel,tailslap,bulletseed,tidyup||85,85,85,85,85,85|F|||83|,,,,,Ice]Primarina||Leftovers|LiquidVoice|drainingkiss,calmmind,moonblast,psychicnoise||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fairy]Rampardos||ChoiceScarf|SheerForce|earthquake,headsmash,rockslide,firepunch||85,85,85,85,85,85|F|||90|,,,,,Ground]Espeon||LifeOrb|MagicBounce|alluringvoice,psyshock,shadowball,morningsun||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fairy]Brute Bonnet||Leftovers|Protosynthesis|seedbomb,suckerpunch,spore,crunch||85,85,85,85,85,85|N|||79|,,,,,Dark]Comfey||Leftovers|Triage|encore,calmmind,terablast,drainingkiss||85,,85,85,85,85|M|,0,,,,||85|,,,,,Ground",
+  "ai": "Goodra||AssaultVest|SapSipper|dracometeor,fireblast,sludgebomb,dragontail||85,85,85,85,85,85|M|||85|,,,,,Fire]Cobalion||Leftovers|Justified|irondefense,bodypress,thunderwave,ironhead||85,85,85,85,85,85|N|||80|,,,,,Ghost]Electrode||HeavyDutyBoots|Static|thunderbolt,foulplay,thunderwave,voltswitch||85,,85,85,85,85|N|,0,,,,||93|,,,,,Dark]Volcarona||HeavyDutyBoots|FlameBody|gigadrain,fireblast,terablast,quiverdance||85,,85,85,85,85|M|,0,,,,||77|,,,,,Ground]Dragonite||HeavyDutyBoots|Multiscale|roost,dragondance,earthquake,outrage||85,85,85,85,85,85|M|||74|,,,,,Steel]Donphan||Leftovers|Sturdy|stealthrock,earthquake,rapidspin,iceshard||85,85,85,85,85,85|F|||84|,,,,,Steel"
+}

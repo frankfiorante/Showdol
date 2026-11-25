@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-15",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,6085dd116048ce4f0d400aa0ecaeb6553a519de0446e81520860e0327574f247",
+    "ai": "sodium,cced162071714afeea79b4b106731a343a12c945a565ec1e4d69d4dd29eea83a"
+  },
+  "playerSpecies": [
+    "Gengar",
+    "Typhlosion-Hisui",
+    "Vespiquen",
+    "Blaziken",
+    "Avalugg",
+    "Brute Bonnet"
+  ],
+  "player": "Gengar||LifeOrb|CursedBody|sludgewave,shadowball,toxicspikes,encore||85,,85,85,85,85|F|,0,,,,||81|,,,,,Ghost]Typhlosion|TyphlosionHisui|HeavyDutyBoots|Blaze|focusblast,calmmind,fireblast,shadowball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Vespiquen||HeavyDutyBoots|Pressure|airslash,uturn,spikes,roost||85,85,85,85,85,85|F|||99|,,,,,Steel]Blaziken||LifeOrb|SpeedBoost|closecombat,knockoff,swordsdance,flareblitz||85,85,85,85,85,85|M|||76|,,,,,Dark]Avalugg||HeavyDutyBoots|Sturdy|avalanche,bodypress,rapidspin,recover||85,85,85,85,85,85|M|||88|,,,,,Fighting]Brute Bonnet||Leftovers|Protosynthesis|seedbomb,spore,crunch,suckerpunch||85,85,85,85,85,85|N|||79|,,,,,Dark",
+  "ai": "Glaceon||HeavyDutyBoots|IceBody|protect,wish,calmmind,freezedry||85,,85,85,85,85|F|,0,,,,||94|,,,,,Water]Dipplin||Eviolite|StickyHold|suckerpunch,recover,dragonpulse,gigadrain||85,85,85,85,85,85|F|||88|,,,,,Steel]Espathra||Leftovers|SpeedBoost|substitute,calmmind,dazzlinggleam,storedpower||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fairy]Piloswine||Eviolite|ThickFat|stealthrock,iceshard,iciclecrash,earthquake||85,85,85,85,85,85|F|||85|,,,,,Dragon]Klawf||LumBerry|AngerShell|knockoff,crabhammer,stoneedge,swordsdance||85,85,85,85,85,85|F|||90|,,,,,Rock]Electrode|ElectrodeHisui|LifeOrb|Soundproof|taunt,leafstorm,voltswitch,thunderbolt||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric"
+}

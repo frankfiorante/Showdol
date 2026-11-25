@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-31",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,a75a9f67a2e1bec89a7c045fd42f7ce6580b5e65ac745d8308b06258d94a413b",
+    "ai": "sodium,ac39457fb018e932f85585dd224e13e6073cfa4a22508c6951b0a75bfcfe6370"
+  },
+  "playerSpecies": [
+    "Kingdra",
+    "Abomasnow",
+    "Haxorus",
+    "Dugtrio",
+    "Golem-Alola",
+    "Rhydon"
+  ],
+  "player": "Kingdra||LifeOrb|SwiftSwim|raindance,wavecrash,dracometeor,hurricane||85,85,85,85,85,85|M|||84|,,,,,Water]Abomasnow||LightClay|SnowWarning|auroraveil,earthquake,blizzard,iceshard||77,85,85,85,85,85|M|||84|,,,,,Ghost]Haxorus||LumBerry|MoldBreaker|closecombat,dragondance,outrage,ironhead||85,85,85,85,85,85|F|||78|,,,,,Steel]Dugtrio||LifeOrb|ArenaTrap|swordsdance,stoneedge,earthquake,suckerpunch||85,85,85,85,85,85|M|||84|,,,,,Ghost]Golem|GolemAlola|LifeOrb|Galvanize|rockpolish,earthquake,stoneedge,doubleedge||85,85,85,85,85,85|M|||93|,,,,,Grass]Rhydon||Eviolite|LightningRod|megahorn,stealthrock,stoneedge,earthquake||85,85,85,85,85,85|F|||85|,,,,,Grass",
+  "ai": "Vikavolt||HeavyDutyBoots|Levitate|energyball,discharge,stickyweb,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Komala||AssaultVest|Comatose|knockoff,rapidspin,bodyslam,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ghost]Seviper||LifeOrb|Infiltrator|knockoff,gunkshot,earthquake,flamethrower||85,85,85,85,85,85|M|||93|,,,,,Ground]Chandelure||ChoiceScarf|FlashFire|shadowball,trick,fireblast,energyball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Crawdaunt||LifeOrb|Adaptability|dragondance,aquajet,knockoff,crabhammer||85,85,85,85,85,85|M|||84|,,,,,Water]Greninja||LifeOrb|Protean|gunkshot,uturn,hydropump,spikes||85,85,85,85,85,85|M|||80|,,,,,Poison"
+}

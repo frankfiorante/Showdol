@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-24",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,fcc923de884fb11c4cd7cc5b7ba751914009c0ac4b738805fcde9ef6507c7101",
+    "ai": "sodium,241049e42be5638e8503c57873e0f9ccb8e84b781a1da8fc617a1c6f309a4b21"
+  },
+  "playerSpecies": [
+    "Pecharunt",
+    "Talonflame",
+    "Cyclizar",
+    "Lanturn",
+    "Banette",
+    "Meloetta"
+  ],
+  "player": "Pecharunt||Leftovers|PoisonPuppeteer|shadowball,nastyplot,recover,malignantchain||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Talonflame||HeavyDutyBoots|FlameBody|roost,overheat,bravebird,taunt||85,85,85,85,85,85|M|||83|,,,,,Ground]Cyclizar||HeavyDutyBoots|Regenerator|shedtail,dracometeor,rapidspin,knockoff||85,85,85,85,85,85|F|||84|,,,,,Dragon]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderwave,scald,thunderbolt,voltswitch||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Banette||LifeOrb|Insomnia|shadowsneak,poltergeist,swordsdance,gunkshot||85,85,85,85,85,85|M|||93|,,,,,Poison]Meloetta||Leftovers|SereneGrace|psyshock,calmmind,hypervoice,focusblast||85,,85,85,85,85|N|,0,,,,||82|,,,,,Psychic",
+  "ai": "Azumarill||ChoiceBand|HugePower|aquajet,liquidation,playrough,superpower||85,85,85,85,85,85|F|||82|,,,,,Water]Zamazenta||Leftovers|DauntlessShield|bodypress,irondefense,stoneedge,ironhead||85,85,85,85,85,85|N|||71|,,,,,Steel]Pelipper||ChoiceSpecs|Drizzle|uturn,weatherball,hurricane,hydropump||85,85,85,85,85,85|M|||86|,,,,,Water]Furret||ChoiceBand|Frisk|uturn,doubleedge,knockoff,trick||85,85,85,85,85,85|F|||94|,,,,,Normal]Galvantula||HeavyDutyBoots|CompoundEyes|stickyweb,bugbuzz,voltswitch,thunder||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Tsareena||HeavyDutyBoots|QueenlyMajesty|powerwhip,knockoff,synthesis,rapidspin||85,85,85,85,85,85|F|||87|,,,,,Steel"
+}

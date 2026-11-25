@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-09-10",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,e45b81dfdf935e22904453a2d4d6fe01a2c842798aeea28d4cadc260caf5734e",
+    "ai": "sodium,27ef7c992b5de7ece62e93eabde125f36d941d6de261b2f3294faacd7bc9941e"
+  },
+  "playerSpecies": [
+    "Granbull",
+    "Victreebel",
+    "Clefable",
+    "Dusknoir",
+    "Copperajah",
+    "Swampert"
+  ],
+  "player": "Granbull||Leftovers|Intimidate|earthquake,encore,playrough,thunderwave||85,85,85,85,85,85|F|||88|,,,,,Ground]Victreebel||LifeOrb|Chlorophyll|powerwhip,sludgewave,knockoff,strengthsap||85,85,85,85,85,85|F|||90|,,,,,Grass]Clefable||LifeOrb|MagicGuard|calmmind,moonlight,moonblast,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Dusknoir||Leftovers|Frisk|earthquake,painsplit,poltergeist,willowisp||85,85,85,85,85,85|F|||89|,,,,,Dark]Copperajah||LifeOrb|SheerForce|ironhead,playrough,rockslide,earthquake||85,85,85,85,85,85|M|||86|,,,,,Fairy]Swampert||Leftovers|Torrent|icebeam,stealthrock,flipturn,earthquake||85,85,85,85,85,85|M|||82|,,,,,Steel",
+  "ai": "Polteageist|PolteageistAntique|WhiteHerb|CursedBody|shellsmash,storedpower,strengthsap,shadowball||85,,85,85,85,85|N|,0,,,,||78|,,,,,Psychic]Barraskewda||ChoiceBand|SwiftSwim|closecombat,waterfall,flipturn,throatchop||85,85,85,85,85,85|F|||81|,,,,,Fighting]Cryogonal||HeavyDutyBoots|Levitate|terablast,icebeam,rapidspin,recover||85,85,85,85,85,85|N|||89|,,,,,Electric]Blissey||Leftovers|NaturalCure|softboiled,seismictoss,thunderwave,stealthrock||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Thundurus|||Defiant|focusblast,grassknot,acrobatics,thunderbolt||85,85,85,85,85,85|M|||80|,,,,,Grass]Latios||ChoiceSpecs|Levitate|lusterpurge,flipturn,dracometeor,aurasphere||85,85,85,85,85,85|M|||78|,,,,,Dragon"
+}

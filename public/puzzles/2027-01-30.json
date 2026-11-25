@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-30",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,341f3374332bfa02f409e40c01fea1ef06ba9eb39d26242f6d3a48e489198cef",
+    "ai": "sodium,49753978d2070bb4cc1e55b1e38f12b4152adc85784c289d40a8fc09605b619a"
+  },
+  "playerSpecies": [
+    "Hitmontop",
+    "Thundurus-Therian",
+    "Pecharunt",
+    "Gumshoos",
+    "Shaymin",
+    "Arceus-Steel"
+  ],
+  "player": "Hitmontop||AssaultVest|Intimidate|stoneedge,closecombat,suckerpunch,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Steel]Thundurus|ThundurusTherian|HeavyDutyBoots|VoltAbsorb|focusblast,nastyplot,thunderbolt,terablast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Flying]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,recover,shadowball,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Gumshoos||ChoiceBand|Stakeout|doubleedge,uturn,knockoff,earthquake||85,85,85,85,85,85|M|||95|,,,,,Ground]Shaymin||Leftovers|NaturalCure|leechseed,seedflare,substitute,airslash||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Arceus|ArceusSteel|IronPlate|Multitype|judgment,earthpower,recover,calmmind||85,,85,85,85,85|N|,0,,,,||70|,,,,,Ghost",
+  "ai": "Scovillain||Leftovers|Chlorophyll|substitute,protect,leechseed,flamethrower||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Excadrill||AssaultVest|MoldBreaker|ironhead,rockslide,rapidspin,earthquake||85,85,85,85,85,85|F|||79|,,,,,Grass]Plusle||LifeOrb|LightningRod|encore,thunderbolt,nastyplot,grassknot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Grass]Salamence||HeavyDutyBoots|Intimidate|outrage,dualwingbeat,earthquake,dragondance||85,85,85,85,85,85|F|||77|,,,,,Ground]Orthworm||Leftovers|EarthEater|shedtail,heavyslam,bodypress,spikes||85,85,85,85,85,85|M|||88|,,,,,Electric]Mewtwo||LifeOrb|Unnerve|darkpulse,psystrike,aurasphere,nastyplot||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic"
+}

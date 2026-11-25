@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-19",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,4b77165fe8c5a99c5563bc6ad76f30305891fb4037d2cab8c9e7f92ed131dc9a",
+    "ai": "sodium,0d810f8a81264f1b126ff47236038f039b8d5675d6057e6f879255c25fabe9d2"
+  },
+  "playerSpecies": [
+    "Sawsbuck-Autumn",
+    "Urshifu-Rapid-Strike",
+    "Minior-Yellow",
+    "Hitmontop",
+    "Drifblim",
+    "Gumshoos"
+  ],
+  "player": "Sawsbuck|SawsbuckAutumn|LifeOrb|SapSipper|highhorsepower,swordsdance,doubleedge,hornleech||85,85,85,85,85,85|F|||88|,,,,,Ground]Urshifu|UrshifuRapidStrike|ChoiceBand|UnseenFist|icespinner,surgingstrikes,closecombat,aquajet||85,85,85,85,85,85|M|||75|,,,,,Water]Minior|MiniorYellow|WhiteHerb|ShieldsDown|acrobatics,earthquake,powergem,shellsmash||85,85,85,85,85,85|N|||79|,,,,,Steel]Hitmontop||Leftovers|Technician|closecombat,rapidspin,bulkup,tripleaxel||85,85,85,85,85,85|M|||88|,,,,,Ice]Drifblim||SitrusBerry|Unburden|airslash,strengthsap,shadowball,calmmind||73,,85,85,85,85|F|,0,,,,||86|,,,,,Dark]Gumshoos||ChoiceBand|Adaptability|earthquake,knockoff,doubleedge,uturn||85,85,85,85,85,85|M|||95|,,,,,Ground",
+  "ai": "Baxcalibur||ChoiceBand|ThermalExchange|glaiverush,iciclecrash,iceshard,earthquake||81,85,85,85,85,85|M|||75|,,,,,Ground]Komala||AssaultVest|Comatose|rapidspin,knockoff,bodyslam,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ghost]Greninja||LifeOrb|Protean|gunkshot,darkpulse,toxicspikes,hydropump||85,85,85,85,85,85|M|||80|,,,,,Dark]Thundurus|||Defiant|thunderbolt,uturn,acrobatics,focusblast||85,85,85,85,85,85|M|||80|,,,,,Steel]Noivern||HeavyDutyBoots|Infiltrator|roost,dracometeor,flamethrower,hurricane||85,,85,85,85,85|F|,0,,,,||82|,,,,,Fire]Lumineon||LifeOrb|StormDrain|alluringvoice,encore,hydropump,icebeam||85,,85,85,85,85|F|,0,,,,||93|,,,,,Fairy"
+}

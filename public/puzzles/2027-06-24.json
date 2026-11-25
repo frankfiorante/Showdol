@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-06-24",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,42d661b5df729b29bacffe56bdc6bd141be215db8a0d4216cc8ac10f2337ebf2",
+    "ai": "sodium,2c56f9395f02d712feeb5c0947ef5e79efb9c11b7cd438c56f254cc3a6263d9a"
+  },
+  "playerSpecies": [
+    "Clawitzer",
+    "Trevenant",
+    "Galvantula",
+    "Metagross",
+    "Azelf",
+    "Dodrio"
+  ],
+  "player": "Clawitzer||ChoiceSpecs|MegaLauncher|aurasphere,darkpulse,uturn,waterpulse||85,85,85,85,85,85|F|||87|,,,,,Fighting]Trevenant||ChoiceBand|NaturalCure|hornleech,poltergeist,woodhammer,drainpunch||85,85,85,85,85,85|F|||89|,,,,,Fighting]Galvantula||HeavyDutyBoots|CompoundEyes|stickyweb,voltswitch,bugbuzz,thunder||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric]Metagross||WeaknessPolicy|ClearBody|earthquake,agility,knockoff,heavyslam||85,85,85,85,85,85|N|||79|,,,,,Ground]Azelf||LifeOrb|Levitate|taunt,fireblast,knockoff,psychic||85,85,85,85,85,85|N|||82|,,,,,Fire]Dodrio||ChoiceBand|EarlyBird|bravebird,drillrun,doubleedge,knockoff||85,85,85,85,85,85|M|||85|,,,,,Normal",
+  "ai": "Arceus|ArceusBug|InsectPlate|Multitype|recover,judgment,calmmind,fireblast||81,,85,85,85,85|N|,0,,,,||73|,,,,,Fire]Bisharp||Eviolite|Defiant|ironhead,stealthrock,suckerpunch,throatchop||85,85,85,85,85,85|M|||79|,,,,,Ghost]Klefki||Leftovers|Prankster|magnetrise,spikes,playrough,thunderwave||85,85,85,85,85,85|M|||84|,,,,,Water]Hatterene||Leftovers|MagicBounce|calmmind,psychic,mysticalfire,drainingkiss||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Camerupt||Leftovers|SolidRock|overheat,earthquake,roar,willowisp||85,85,85,85,85,85|F|||91|,,,,,Water]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,defog,hydropump||85,85,85,85,85,85|M|||89|,,,,,Ground"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-04",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,dd5b9f9f838bcfb1a370c76e357e69ac920e41a31d261b7e21716635763812f5",
+    "ai": "sodium,e30f869e4ca157995ca5a0dd8b8c870fa4e1d28281ee6932c273dbd05641555d"
+  },
+  "playerSpecies": [
+    "Registeel",
+    "Gastrodon-East",
+    "Bronzong",
+    "Ursaluna",
+    "Grumpig",
+    "Umbreon"
+  ],
+  "player": "Registeel||Leftovers|ClearBody|stealthrock,bodypress,ironhead,thunderwave||85,85,85,85,85,85|N|||81|,,,,,Fighting]Gastrodon|GastrodonEast|Leftovers|StormDrain|earthquake,recover,sludgebomb,surf||85,85,85,85,85,85|M|||86|,,,,,Poison]Bronzong||Leftovers|Levitate|ironhead,hypnosis,earthquake,psychic||85,85,85,85,85,85|N|||88|,,,,,Electric]Ursaluna||FlameOrb|Guts|crunch,facade,headlongrush,trailblaze||85,85,85,85,85,85|M|||79|,,,,,Normal]Grumpig||Leftovers|ThickFat|nastyplot,psyshock,focusblast,shadowball||85,,85,85,85,85|F|,0,,,,||92|,,,,,Fighting]Umbreon||Leftovers|Synchronize|foulplay,toxic,protect,wish||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison",
+  "ai": "Chi-Yu||ChoiceSpecs|BeadsofRuin|flamethrower,psychic,darkpulse,overheat||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Kilowattrel||HeavyDutyBoots|VoltAbsorb|uturn,roost,discharge,hurricane||85,85,85,85,85,85|M|||83|,,,,,Water]Porygon2||Eviolite|Download|shadowball,terablast,thunderwave,recover||85,85,85,85,85,85|N|||81|,,,,,Fairy]Archaludon||LumBerry|Stamina|ironhead,earthquake,swordsdance,outrage||85,85,85,85,85,85|F|||77|,,,,,Ground]Vivillon|VivillonSavanna|HeavyDutyBoots|CompoundEyes|quiverdance,hurricane,bugbuzz,sleeppowder||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Arceus|ArceusWater|SplashPlate|Multitype|icebeam,calmmind,judgment,recover||85,,85,85,85,85|N|,0,,,,||71|,,,,,Steel"
+}

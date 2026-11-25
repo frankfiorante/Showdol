@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-02-02",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,7113a4848fa81c5e34556785ac262c2fc01adbc110a235af1c12327606851d78",
+    "ai": "sodium,4558d5dfe1e575f4f8f3986af2531d47bb732bb2f094e429c45ce9b27953abda"
+  },
+  "playerSpecies": [
+    "Skarmory",
+    "Houndstone",
+    "Metagross",
+    "Azumarill",
+    "Farigiraf",
+    "Greninja-Bond"
+  ],
+  "player": "Skarmory||Leftovers|Sturdy|bodypress,roost,irondefense,bravebird||85,85,85,85,85,85|F|||80|,,,,,Fighting]Houndstone||AssaultVest|Fluffy|shadowsneak,playrough,poltergeist,bodypress||85,85,85,85,85,85|F|||86|,,,,,Fighting]Metagross||WeaknessPolicy|ClearBody|heavyslam,earthquake,psychicfangs,agility||85,85,85,85,85,85|N|||79|,,,,,Ground]Azumarill||SitrusBerry|HugePower|bellydrum,playrough,liquidation,aquajet||85,85,85,85,85,85|F|||82|,,,,,Water]Farigiraf||Leftovers|SapSipper|protect,bodyslam,psychicnoise,wish||85,85,85,85,85,85|F|||89|,,,,,Water]Greninja|GreninjaBond|LifeOrb|BattleBond|hydropump,gunkshot,icebeam,darkpulse||85,85,85,85,85,85|M|||80|,,,,,Poison",
+  "ai": "Minun||LifeOrb|VoltAbsorb|nastyplot,thunderbolt,encore,alluringvoice||85,,85,85,85,85|F|,0,,,,||95|,,,,,Fairy]Smeargle||FocusSash|OwnTempo|ceaselessedge,stickyweb,stealthrock,spore||85,85,85,85,85,85|M|||95|,,,,,Ghost]Moltres||HeavyDutyBoots|FlameBody|bravebird,roost,uturn,fireblast||85,85,85,85,85,85|N|||81|,,,,,Steel]Gogoat||Leftovers|SapSipper|milkdrink,bulkup,rockslide,hornleech||85,85,85,85,85,85|F|||88|,,,,,Water]Emboar||ChoiceBand|Reckless|knockoff,headsmash,flareblitz,closecombat||85,85,85,85,85,85|M|||84|,,,,,Fire]Lunala||Leftovers|ShadowShield|moongeistbeam,psyshock,moonlight,calmmind||85,,85,85,85,85|N|,0,,,,||70|,,,,,Dark"
+}

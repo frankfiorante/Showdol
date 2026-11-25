@@ -11,7 +11,8 @@
     "gen:puzzle": "tsx scripts/gen-puzzle.ts",
     "spike:bots": "tsx scripts/bot-vs-bot.ts",
     "spike:size": "node scripts/measure-bundle.mjs",
-    "session:check": "tsx scripts/session-check.ts"
+    "session:check": "tsx scripts/session-check.ts",
+    "daily:check": "TZ=America/New_York tsx scripts/daily-check.ts"
   },
   "dependencies": {
     "@pkmn/client": "0.7.4",

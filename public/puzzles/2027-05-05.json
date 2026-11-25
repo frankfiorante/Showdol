@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-05",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,0b5704313a365840e7c513dcff1e7068ad0e7cdc88c4212e42d61baefab1e077",
+    "ai": "sodium,aa4550f998821f907aac673593eccd7d3c42aaba24c50d3928b9985be6febe20"
+  },
+  "playerSpecies": [
+    "Regice",
+    "Inteleon",
+    "Toedscruel",
+    "Kleavor",
+    "Mismagius",
+    "Dugtrio-Alola"
+  ],
+  "player": "Regice||HeavyDutyBoots|ClearBody|thunderbolt,bodypress,thunderwave,icebeam||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Inteleon||ChoiceSpecs|Torrent|scald,hydropump,uturn,icebeam||85,85,85,85,85,85|M|||81|,,,,,Water]Toedscruel||AssaultVest|MyceliumMight|rapidspin,gigadrain,knockoff,earthpower||85,85,85,85,85,85|M|||87|,,,,,Water]Kleavor||ChoiceScarf|Sharpness|xscissor,closecombat,uturn,stoneaxe||85,85,85,85,85,85|F|||78|,,,,,Bug]Mismagius||ChoiceSpecs|Levitate|thunderbolt,dazzlinggleam,shadowball,trick||85,,85,85,85,85|F|,0,,,,||86|,,,,,Ghost]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|swordsdance,earthquake,ironhead,suckerpunch||85,85,85,85,85,85|M|||84|,,,,,Steel",
+  "ai": "Entei||ChoiceBand|InnerFocus|sacredfire,stompingtantrum,extremespeed,flareblitz||85,85,85,85,85,85|N|||78|,,,,,Normal]Empoleon||Leftovers|Competitive|flipturn,surf,roost,stealthrock||85,85,85,85,85,85|M|||84|,,,,,Grass]Houndoom||HeavyDutyBoots|FlashFire|nastyplot,fireblast,darkpulse,sludgebomb||85,,85,85,85,85|M|,0,,,,||87|,,,,,Poison]Vikavolt||HeavyDutyBoots|Levitate|discharge,voltswitch,bugbuzz,stickyweb||85,,85,85,85,85|M|,0,,,,||83|,,,,,Electric]Medicham||ChoiceScarf|PurePower|icepunch,closecombat,zenheadbutt,poisonjab||85,85,85,85,85,85|F|||86|,,,,,Fighting]Zacian||LifeOrb|IntrepidSword|swordsdance,playrough,closecombat,psychicfangs||85,85,85,85,85,85|N|||69|,,,,,Fighting"
+}

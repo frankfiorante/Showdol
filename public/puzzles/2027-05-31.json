@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-31",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,02a9d56140a1ea78855f0b2e06cf615246dd6b4eef6fd0d6c2fd5ac73a79f94c",
+    "ai": "sodium,958a0b46e605fce5c52b007885eb2ea43630fbc77c598d06a3825145b670a995"
+  },
+  "playerSpecies": [
+    "Gardevoir",
+    "Toedscruel",
+    "Volbeat",
+    "Rhyperior",
+    "Enamorus",
+    "Okidogi"
+  ],
+  "player": "Gardevoir||LifeOrb|Trace|moonblast,psychic,calmmind,focusblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy]Toedscruel||AssaultVest|MyceliumMight|knockoff,rapidspin,earthpower,leafstorm||85,85,85,85,85,85|F|||87|,,,,,Water]Volbeat||HeavyDutyBoots|Prankster|encore,thunderwave,roost,lunge||85,85,85,85,85,85|M|||90|,,,,,Steel]Rhyperior||WeaknessPolicy|SolidRock|stoneedge,rockpolish,megahorn,earthquake||85,85,85,85,85,85|F|||82|,,,,,Bug]Enamorus||Leftovers|CuteCharm|earthpower,moonblast,calmmind,substitute||85,,85,85,85,85|F|,0,,,,||79|,,,,,Ground]Okidogi||Leftovers|ToxicChain|bulkup,drainpunch,knockoff,gunkshot||85,85,85,85,85,85|M|||77|,,,,,Dark",
+  "ai": "Regieleki||Magnet|Transistor|thunderbolt,rapidspin,explosion,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Electric]Arceus|ArceusBug|InsectPlate|Multitype|recover,judgment,fireblast,calmmind||81,,85,85,85,85|N|,0,,,,||73|,,,,,Fire]Zamazenta||RustedShield|DauntlessShield|irondefense,stoneedge,bodypress,heavyslam||85,85,85,85,85,85|N|||68|,,,,,Fighting]Scizor||ChoiceBand|Technician|bulletpunch,uturn,knockoff,closecombat||85,85,85,85,85,85|M|||79|,,,,,Steel]Palafin||Leftovers|ZerotoHero|bulkup,drainpunch,jetpunch,icepunch||85,85,85,85,85,85|M|||77|,,,,,Steel]Glimmora||PowerHerb|ToxicDebris|energyball,earthpower,sludgewave,meteorbeam||85,,85,85,85,85|M|,0,,,,||75|,,,,,Grass"
+}

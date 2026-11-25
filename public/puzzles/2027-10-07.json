@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-07",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,397b10c87c1b8977f6b48d28d72561738944168d0f35b7eb6dabfde266816ac3",
+    "ai": "sodium,3d82e7f0c74b3a9e1647fb24de4d19c878ab70519dd9404d4c068f0f5d5fafcd"
+  },
+  "playerSpecies": [
+    "Toxapex",
+    "Slaking",
+    "Politoed",
+    "Rotom-Frost",
+    "Ampharos",
+    "Mienshao"
+  ],
+  "player": "Toxapex||RockyHelmet|Regenerator|liquidation,haze,toxic,recover||85,85,85,85,85,85|M|||82|,,,,,Steel]Slaking||ChoiceBand|Truant|knockoff,earthquake,doubleedge,gigaimpact||85,85,85,85,85,85|F|||84|,,,,,Ghost]Politoed||ChestoBerry|Drizzle|hydropump,icebeam,rest,haze||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Rotom|RotomFrost|HeavyDutyBoots|Levitate|nastyplot,thunderbolt,willowisp,blizzard||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric]Ampharos||LifeOrb|Static|agility,dazzlinggleam,focusblast,thunderbolt||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fairy]Mienshao||AssaultVest|Regenerator|uturn,closecombat,fakeout,knockoff||85,85,85,85,85,85|M|||83|,,,,,Dark",
+  "ai": "Lunala||Leftovers|ShadowShield|moonlight,psyshock,moongeistbeam,calmmind||85,,85,85,85,85|N|,0,,,,||70|,,,,,Dark]Clefable||LifeOrb|MagicGuard|moonlight,moonblast,knockoff,thunderwave||85,85,85,85,85,85|M|||83|,,,,,Steel]Mesprit||Leftovers|Levitate|uturn,knockoff,encore,psychicnoise||85,85,85,85,85,85|N|||85|,,,,,Dark]Blastoise||WhiteHerb|Torrent|icebeam,terablast,hydropump,shellsmash||85,,85,85,85,85|F|,0,,,,||80|,,,,,Electric]Dipplin||Eviolite|StickyHold|dragonpulse,gigadrain,suckerpunch,recover||85,85,85,85,85,85|M|||88|,,,,,Steel]Meganium||Leftovers|Overgrow|energyball,knockoff,synthesis,leechseed||85,85,85,85,85,85|M|||90|,,,,,Poison"
+}

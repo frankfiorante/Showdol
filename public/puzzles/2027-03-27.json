@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-27",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,f380450bf6d10c1306bcee8ac456f7bb26699a345df723a20d2d9744e003eb0d",
+    "ai": "sodium,ca425e772d37d983e4c965f7c7978dcc341062c6f50b0b1f8b28a56ec81baded"
+  },
+  "playerSpecies": [
+    "Jirachi",
+    "Basculin-Blue-Striped",
+    "Barraskewda",
+    "Ninetales",
+    "Mewtwo",
+    "Volbeat"
+  ],
+  "player": "Jirachi||AssaultVest|SereneGrace|uturn,ironhead,drainpunch,bodyslam||85,85,85,85,85,85|N|||80|,,,,,Fighting]Basculin|BasculinBlueStriped|ChoiceBand|Adaptability|flipturn,wavecrash,aquajet,doubleedge||85,85,85,85,85,85|M|||86|,,,,,Water]Barraskewda||ChoiceBand|SwiftSwim|psychicfangs,waterfall,closecombat,flipturn||85,85,85,85,85,85|M|||81|,,,,,Fighting]Ninetales||HeavyDutyBoots|Drought|nastyplot,solarbeam,scorchingsands,fireblast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Grass]Mewtwo||LifeOrb|Unnerve|nastyplot,recover,psystrike,darkpulse||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic]Volbeat||HeavyDutyBoots|Prankster|thunderwave,lunge,roost,encore||85,85,85,85,85,85|M|||90|,,,,,Water",
+  "ai": "Vigoroth||Eviolite|VitalSpirit|slackoff,bodyslam,knockoff,bulkup||85,85,85,85,85,85|M|||85|,,,,,Ghost]Meowstic|MeowsticF|LifeOrb|Competitive|nastyplot,darkpulse,psyshock,thunderbolt||85,,85,85,85,85|F|,0,,,,||89|,,,,,Dark]Tinkaton||Leftovers|MoldBreaker|playrough,knockoff,gigatonhammer,swordsdance||85,85,85,85,85,85|F|||82|,,,,,Steel]Toedscruel||Leftovers|MyceliumMight|leafstorm,rapidspin,earthpower,toxic||85,85,85,85,85,85|F|||87|,,,,,Water]Miraidon||LifeOrb|HadronEngine|dragonpulse,calmmind,electrodrift,dracometeor||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Phione||Leftovers|Hydration|takeheart,rest,sleeptalk,scald||85,,85,85,85,85|N|,0,,,,||91|,,,,,Steel"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-25",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,a5732fdf58e23c3a16384e591ae6c13e044ec1268c9781944427da15830933b0",
+    "ai": "sodium,c1abaac7ab6d181e70af6515181ce7d962c16c6c39d80a3df3d45b2f084b369f"
+  },
+  "playerSpecies": [
+    "Rhyperior",
+    "Solgaleo",
+    "Grimmsnarl",
+    "Mewtwo",
+    "Annihilape",
+    "Gumshoos"
+  ],
+  "player": "Rhyperior||WeaknessPolicy|SolidRock|icepunch,earthquake,stoneedge,rockpolish||85,85,85,85,85,85|M|||82|,,,,,Rock]Solgaleo||WeaknessPolicy|FullMetalBody|closecombat,knockoff,flamecharge,sunsteelstrike||85,85,85,85,85,85|N|||74|,,,,,Dark]Grimmsnarl||LightClay|Prankster|lightscreen,spiritbreak,reflect,partingshot||85,85,85,85,85,85|M|||83|,,,,,Poison]Mewtwo||LifeOrb|Pressure|aurasphere,nastyplot,recover,psystrike||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic]Annihilape||Leftovers|Defiant|bulkup,taunt,drainpunch,ragefist||85,85,85,85,85,85|F|||76|,,,,,Steel]Gumshoos||ChoiceBand|Adaptability|uturn,knockoff,earthquake,doubleedge||85,85,85,85,85,85|F|||95|,,,,,Ground",
+  "ai": "Spiritomb||Leftovers|Infiltrator|poltergeist,toxic,foulplay,painsplit||85,85,85,85,85,85|F|||89|,,,,,Ghost]Heatran||AirBalloon|FlashFire|heavyslam,lavaplume,stealthrock,earthpower||85,85,85,85,85,85|F|||79|,,,,,Grass]Enamorus|EnamorusTherian|AssaultVest|Overcoat|earthpower,moonblast,mysticalfire,superpower||85,85,85,85,85,85|F|||83|,,,,,Fairy]Barraskewda||ChoiceBand|SwiftSwim|closecombat,throatchop,waterfall,flipturn||85,85,85,85,85,85|M|||81|,,,,,Fighting]Tauros||LifeOrb|SheerForce|closecombat,throatchop,zenheadbutt,bodyslam||85,85,85,85,85,85|M|||82|,,,,,Normal]Masquerain||HeavyDutyBoots|Intimidate|quiverdance,hurricane,hydropump,bugbuzz||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-03-26",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5c9e5f5a9cba484fbee6ec9c7d389e78a354c4666a4bab9e83cce53e50fae280",
+    "ai": "sodium,29edb9b5065f29d17b075be857dea03e8f8939bcd50ddc5ba9de59e2aa3851cf"
+  },
+  "playerSpecies": [
+    "Samurott",
+    "Decidueye-Hisui",
+    "Stantler",
+    "Garganacl",
+    "Gallade",
+    "Uxie"
+  ],
+  "player": "Samurott||LifeOrb|Torrent|knockoff,swordsdance,liquidation,sacredsword||85,85,85,85,85,85|F|||88|,,,,,Dark]Decidueye|DecidueyeHisui|Leftovers|Scrappy|triplearrows,defog,leafblade,roost||85,85,85,85,85,85|F|||87|,,,,,Steel]Stantler||Eviolite|Intimidate|bodyslam,thunderwave,throatchop,earthquake||85,85,85,85,85,85|M|||90|,,,,,Poison]Garganacl||Leftovers|PurifyingSalt|bodypress,irondefense,recover,saltcure||85,85,85,85,85,85|F|||80|,,,,,Dragon]Gallade||ChoiceScarf|Sharpness|sacredsword,leafblade,psychocut,nightslash||85,85,85,85,85,85|M|||80|,,,,,Fighting]Uxie||Leftovers|Levitate|nastyplot,encore,psychicnoise,drainingkiss||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy",
+  "ai": "Minun||LifeOrb|VoltAbsorb|encore,thunderbolt,alluringvoice,nastyplot||85,,85,85,85,85|F|,0,,,,||95|,,,,,Electric]Primarina||Leftovers|LiquidVoice|psychicnoise,drainingkiss,calmmind,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Ursaluna||FlameOrb|Guts|facade,trailblaze,headlongrush,throatchop||85,85,85,85,85,85|F|||79|,,,,,Normal]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,hydropump,defog||85,85,85,85,85,85|F|||89|,,,,,Ground]Iron Boulder||BoosterEnergy|QuarkDrive|swordsdance,zenheadbutt,closecombat,mightycleave||85,85,85,85,85,85|N|||77|,,,,,Fighting]Mimikyu||LifeOrb|Disguise|shadowclaw,swordsdance,shadowsneak,playrough||85,85,85,85,85,85|F|||79|,,,,,Ghost"
+}

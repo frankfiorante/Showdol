@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-09",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,3cc16646ff6479ef1b042b7d33cadad4cff8df761184f61fb062890f21de51bc",
+    "ai": "sodium,2d30eee2be80887900f377678e894ebce29f8a0169c914ad42226baae37d3edb"
+  },
+  "playerSpecies": [
+    "Sudowoodo",
+    "Hatterene",
+    "Grimmsnarl",
+    "Misdreavus",
+    "Salamence",
+    "Reshiram"
+  ],
+  "player": "Sudowoodo||Leftovers|RockHead|headsmash,stealthrock,woodhammer,suckerpunch||85,85,85,85,85,85|F|||94|,,,,,Rock]Hatterene||Leftovers|MagicBounce|calmmind,drainingkiss,psychic,mysticalfire||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Grimmsnarl||Leftovers|Prankster|suckerpunch,spiritbreak,thunderwave,partingshot||85,85,85,85,85,85|M|||83|,,,,,Steel]Misdreavus||Eviolite|Levitate|shadowball,calmmind,willowisp,drainingkiss||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Salamence||HeavyDutyBoots|Moxie|earthquake,outrage,dragondance,dualwingbeat||85,85,85,85,85,85|F|||77|,,,,,Steel]Reshiram||HeavyDutyBoots|Turboblaze|dragondance,stoneedge,outrage,flareblitz||85,85,85,85,85,85|N|||76|,,,,,Fire",
+  "ai": "Qwilfish|QwilfishHisui|Eviolite|Intimidate|taunt,gunkshot,spikes,crunch||85,85,85,85,85,85|M|||83|,,,,,Poison]Iron Thorns||BoosterEnergy|QuarkDrive|wildcharge,dragondance,stoneedge,earthquake||85,85,85,85,85,85|N|||81|,,,,,Flying]Rhydon||Eviolite|LightningRod|swordsdance,megahorn,stoneedge,earthquake||85,85,85,85,85,85|M|||85|,,,,,Water]Oranguru||Leftovers|InnerFocus|nastyplot,focusblast,psyshock,thunderbolt||85,,85,85,85,85|M|,0,,,,||92|,,,,,Psychic]Spiritomb||ChoiceBand|Infiltrator|poltergeist,suckerpunch,shadowsneak,foulplay||85,85,85,85,85,85|M|||89|,,,,,Poison]Alcremie|AlcremieRubyCream|Leftovers|AromaVeil|alluringvoice,terablast,recover,calmmind||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground"
+}

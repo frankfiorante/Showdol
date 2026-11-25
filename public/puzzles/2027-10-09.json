@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-09",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,76ffdbddb8b93c5727dee02849bf1284d5e1c85f271b16c83396ebaccea53af8",
+    "ai": "sodium,4ee6bf0b738a16fec98a91fa3ca28f041b9156c63062fb7588274d0804117551"
+  },
+  "playerSpecies": [
+    "Electivire",
+    "Sawsbuck-Winter",
+    "Cloyster",
+    "Chansey",
+    "Vileplume",
+    "Gardevoir"
+  ],
+  "player": "Electivire||LifeOrb|MotorDrive|earthquake,bulkup,icepunch,supercellslam||85,85,85,85,85,85|M|||84|,,,,,Flying]Sawsbuck|SawsbuckWinter|LifeOrb|SereneGrace|hornleech,headbutt,swordsdance,highhorsepower||85,85,85,85,85,85|M|||88|,,,,,Normal]Cloyster||WhiteHerb|SkillLink|rockblast,shellsmash,drillrun,iciclespear||85,85,85,85,85,85|F|||80|,,,,,Ground]Chansey||Eviolite|NaturalCure|seismictoss,stealthrock,thunderwave,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Dark]Vileplume||Leftovers|EffectSpore|strengthsap,gigadrain,leechseed,sludgebomb||85,,85,85,85,85|M|,0,,,,||85|,,,,,Water]Gardevoir||ChoiceScarf|Trace|healingwish,focusblast,psychic,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy",
+  "ai": "Orthworm||ChestoBerry|EarthEater|rest,coil,bodypress,irontail||85,85,85,85,85,85|M|||88|,,,,,Fighting]Grumpig||Leftovers|ThickFat|psyshock,earthpower,dazzlinggleam,nastyplot||85,,85,85,85,85|F|,0,,,,||92|,,,,,Fairy]Flareon||ToxicOrb|Guts|quickattack,flareblitz,facade,trailblaze||85,85,85,85,85,85|F|||90|,,,,,Normal]Porygon-Z||LifeOrb|Adaptability|agility,terablast,shadowball,nastyplot||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fighting]Mamoswine||ChoiceBand|ThickFat|knockoff,iciclecrash,earthquake,iceshard||85,85,85,85,85,85|M|||81|,,,,,Ground]Luxray||FlameOrb|Guts|supercellslam,facade,trailblaze,throatchop||81,85,85,85,85,85|F|||88|,,,,,Normal"
+}

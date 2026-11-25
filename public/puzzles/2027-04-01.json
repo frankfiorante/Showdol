@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-01",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,71d34556e31cccaa1960d20e04e300471678b3ecfcc13bbfc490dd23b8811b05",
+    "ai": "sodium,d5ed3e366f0a15c5bd3ee915df7e0ed1948b1830f16d5ff33fd069aa5cddb964"
+  },
+  "playerSpecies": [
+    "Bruxish",
+    "Falinks",
+    "Delibird",
+    "Rayquaza",
+    "Revavroom",
+    "Dudunsparce-Three-Segment"
+  ],
+  "player": "Bruxish||ChoiceBand|StrongJaw|crunch,wavecrash,flipturn,psychicfangs||85,85,85,85,85,85|F|||85|,,,,,Dark]Falinks||LifeOrb|Defiant|ironhead,knockoff,noretreat,closecombat||85,85,85,85,85,85|N|||84|,,,,,Dark]Delibird||HeavyDutyBoots|VitalSpirit|freezedry,rapidspin,spikes,bravebird||85,85,85,85,85,85|M||||,,,,,Ghost]Rayquaza||LoadedDice|AirLock|swordsdance,dragonascent,earthquake,scaleshot||85,85,85,85,85,85|N|||72|,,,,,Steel]Revavroom||LifeOrb|Filter|gunkshot,shiftgear,ironhead,highhorsepower||85,85,85,85,85,85|M|||79|,,,,,Ground]Dudunsparce|DudunsparceThreeSegment|Leftovers|Rattled|roost,toxic,earthquake,boomburst||85,85,85,85,85,85|F|||83|,,,,,Ground",
+  "ai": "Ambipom||SilkScarf|Technician|lowkick,fakeout,knockoff,doubleedge||85,85,85,85,85,85|M|||84|,,,,,Normal]Meowstic|MeowsticF|LifeOrb|Competitive|thunderbolt,alluringvoice,psyshock,nastyplot||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fairy]Sylveon||Leftovers|Pixilate|calmmind,wish,protect,hypervoice||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Gengar||LifeOrb|CursedBody|focusblast,encore,shadowball,sludgewave||85,,85,85,85,85|M|,0,,,,||81|,,,,,Ghost]Salazzle||HeavyDutyBoots|Corrosion|sludgewave,terablast,nastyplot,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Flareon||ToxicOrb|Guts|flareblitz,quickattack,trailblaze,facade||85,85,85,85,85,85|M|||90|,,,,,Normal"
+}

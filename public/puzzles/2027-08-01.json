@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-01",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,797d045814d30d9241437f19724910827a1fa00c46c39d75dab4c10cab15222e",
+    "ai": "sodium,ba2d67d6160911a93dc3f9f1ab5af5a735aeb642f49ca2be1870b2f77585f171"
+  },
+  "playerSpecies": [
+    "Salazzle",
+    "Iron Treads",
+    "Wigglytuff",
+    "Avalugg",
+    "Cryogonal",
+    "Flygon"
+  ],
+  "player": "Salazzle||Leftovers|Corrosion|protect,toxic,substitute,flamethrower||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Iron Treads||AssaultVest|QuarkDrive|ironhead,rapidspin,earthquake,knockoff||85,85,85,85,85,85|N|||77|,,,,,Water]Wigglytuff||Leftovers|Competitive|fireblast,thunderwave,dazzlinggleam,knockoff||85,85,85,85,85,85|M|||96|,,,,,Steel]Avalugg||HeavyDutyBoots|Sturdy|bodypress,curse,recover,avalanche||85,85,85,85,85,85|M|||88|,,,,,Fighting]Cryogonal||HeavyDutyBoots|Levitate|flashcannon,freezedry,haze,recover||85,,85,85,85,85|N|,0,,,,||89|,,,,,Steel]Flygon||LumBerry|Levitate|dragondance,earthquake,stoneedge,outrage||85,85,85,85,85,85|F|||82|,,,,,Ground",
+  "ai": "Hydreigon||ChoiceScarf|Levitate|dracometeor,darkpulse,flashcannon,fireblast||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Seviper||Leftovers|Infiltrator|gunkshot,trailblaze,swordsdance,earthquake||85,85,85,85,85,85|M|||93|,,,,,Grass]Bisharp||Eviolite|Defiant|suckerpunch,swordsdance,throatchop,ironhead||85,85,85,85,85,85|M|||79|,,,,,Flying]Camerupt||Leftovers|SolidRock|stealthrock,willowisp,overheat,earthquake||85,85,85,85,85,85|F|||91|,,,,,Grass]Vivillon|VivillonSandstorm|HeavyDutyBoots|CompoundEyes|hurricane,quiverdance,terablast,sleeppowder||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ground]Sylveon||Leftovers|Pixilate|protect,wish,hypervoice,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-02",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,6a95b386b9a1324a4cbc8cb20e9fd873c42dbf74276fdc4068a9ec195afdcd3e",
+    "ai": "sodium,c0575d215d7b44f9df02c678acfdd11112edc1390731c894f7303a3e9e39381e"
+  },
+  "playerSpecies": [
+    "Enamorus",
+    "Cloyster",
+    "Masquerain",
+    "Overqwil",
+    "Flutter Mane",
+    "Palkia"
+  ],
+  "player": "Enamorus||Leftovers|CuteCharm|moonblast,earthpower,substitute,calmmind||85,,85,85,85,85|F|,0,,,,||79|,,,,,Ground]Cloyster||WhiteHerb|SkillLink|iciclespear,drillrun,rockblast,shellsmash||85,85,85,85,85,85|F|||80|,,,,,Ground]Masquerain||HeavyDutyBoots|Intimidate|hydropump,hurricane,stickyweb,stunspore||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Overqwil||ChoiceBand|Intimidate|gunkshot,crunch,liquidation,aquajet||85,85,85,85,85,85|F|||82|,,,,,Water]Flutter Mane||ChoiceSpecs|Protosynthesis|mysticalfire,moonblast,psyshock,shadowball||85,,85,85,85,85|N|,0,,,,||74|,,,,,Fairy]Palkia||ChoiceScarf|Pressure|spacialrend,hydropump,dracometeor,fireblast||85,,85,85,85,85|N|,0,,,,||75|,,,,,Dragon",
+  "ai": "Clawitzer||ChoiceSpecs|MegaLauncher|aurasphere,waterpulse,darkpulse,icebeam||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Ludicolo||LifeOrb|SwiftSwim|hydropump,gigadrain,icebeam,raindance||85,,85,85,85,85|M|,0,,,,||90|,,,,,Grass]Jumpluff|||Infiltrator|leechseed,substitute,acrobatics,strengthsap||81,85,85,85,85,85|M|||87|,,,,,Steel]Alcremie|AlcremieSaltedCream|Leftovers|AromaVeil|alluringvoice,calmmind,recover,psyshock||85,,85,85,85,85|F|,0,,,,||90|,,,,,Poison]Oricorio||HeavyDutyBoots|Dancer|roost,revelationdance,quiverdance,hurricane||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ground]Garganacl||Leftovers|PurifyingSalt|recover,stealthrock,saltcure,bodypress||85,85,85,85,85,85|F|||80|,,,,,Dragon"
+}

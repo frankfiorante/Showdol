@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-26",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,e29321c1914d635659b026e7b9511a04321f92e76f19c8aa24e5a83f1ba31684",
+    "ai": "sodium,8213b498826672016bb4471f737bce081ba15d248ba105a222fa4f1df4b7dc66"
+  },
+  "playerSpecies": [
+    "Hippowdon",
+    "Thundurus",
+    "Plusle",
+    "Bombirdier",
+    "Medicham",
+    "Magcargo"
+  ],
+  "player": "Hippowdon||RockyHelmet|SandStream|stoneedge,slackoff,stealthrock,earthquake||85,85,85,85,85,85|F|||82|,,,,,Dragon]Thundurus||HeavyDutyBoots|Prankster|thunderwave,thunderbolt,focusblast,taunt||85,,85,85,85,85|M|,0,,,,||80|,,,,,Electric]Plusle||LifeOrb|LightningRod|encore,grassknot,nastyplot,thunderbolt||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass]Bombirdier||HeavyDutyBoots|RockyPayload|roost,knockoff,bravebird,stoneedge||85,85,85,85,85,85|F|||85|,,,,,Rock]Medicham||ChoiceScarf|PurePower|icepunch,closecombat,zenheadbutt,poisonjab||85,85,85,85,85,85|M|||86|,,,,,Fighting]Magcargo||HeavyDutyBoots|WeakArmor|powergem,earthpower,shellsmash,fireblast||85,,85,85,85,85|M|,0,,,,||95|,,,,,Grass",
+  "ai": "Whiscash||Leftovers|Oblivious|spikes,stealthrock,earthquake,icebeam||85,85,85,85,85,85|F|||88|,,,,,Steel]Gouging Fire||HeavyDutyBoots|Protosynthesis|earthquake,heatcrash,dragondance,outrage||85,85,85,85,85,85|N|||74|,,,,,Ground]Glaceon||HeavyDutyBoots|IceBody|freezedry,calmmind,protect,wish||85,,85,85,85,85|F|,0,,,,||94|,,,,,Water]Enamorus|EnamorusTherian|WeaknessPolicy|Overcoat|earthpower,moonblast,agility,superpower||85,85,85,85,85,85|F|||83|,,,,,Ground]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|closecombat,earthquake,ironhead,throatchop||85,85,85,85,85,85|M|||82|,,,,,Dark]Regidrago||ChoiceScarf|DragonsMaw|earthquake,dragonenergy,dracometeor,outrage||85,85,85,85,85,85|N|||77|,,,,,Dragon"
+}

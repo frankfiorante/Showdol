@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-07-02",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,5d60ac226fae4868acc27830a8e75aa7000f6d2e067e782ac970a602a16aaa6a",
+    "ai": "sodium,0c626788f368b42ef9e5ae089f6321117547cc5eca114d49dcd678a1d6ad9f52"
+  },
+  "playerSpecies": [
+    "Annihilape",
+    "Zacian",
+    "Sneasler",
+    "Latias",
+    "Dachsbun",
+    "Rotom-Heat"
+  ],
+  "player": "Annihilape||Leftovers|Defiant|drainpunch,bulkup,ragefist,taunt||85,85,85,85,85,85|F|||76|,,,,,Steel]Zacian||RustedSword|IntrepidSword|swordsdance,closecombat,playrough,behemothblade||85,85,85,85,85,85|N|||64|,,,,,Fighting]Sneasler||WhiteHerb|Unburden|direclaw,acrobatics,closecombat,swordsdance||85,85,85,85,85,85|M|||74|,,,,,Flying]Latias||SoulDew|Levitate|dracometeor,recover,calmmind,psyshock||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Dachsbun||Leftovers|WellBakedBody|bodypress,wish,protect,playrough||85,85,85,85,85,85|F|||92|,,,,,Steel]Rotom|RotomHeat|HeavyDutyBoots|Levitate|thunderbolt,willowisp,overheat,painsplit||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel",
+  "ai": "Gouging Fire||HeavyDutyBoots|Protosynthesis|outrage,earthquake,dragondance,heatcrash||85,85,85,85,85,85|N|||74|,,,,,Ground]Cetitan||LifeOrb|SheerForce|liquidation,superpower,iceshard,iciclecrash||85,85,85,85,85,85|M|||82|,,,,,Water]Latias||SoulDew|Levitate|calmmind,recover,psyshock,dracometeor||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Groudon||Leftovers|Drought|roar,spikes,heatcrash,precipiceblades||85,85,85,85,85,85|N|||72|,,,,,Fire]Hatterene||AssaultVest|MagicBounce|mysticalfire,psychic,nuzzle,drainingkiss||85,85,85,85,85,85|F|||85|,,,,,Fairy]Florges|FlorgesBlue|Leftovers|FlowerVeil|calmmind,protect,moonblast,wish||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel"
+}

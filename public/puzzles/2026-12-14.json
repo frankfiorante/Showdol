@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2026-12-14",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,da89a7ffe77a319f21c6525d25576237ab89a788fa6d534f15a3dad0391b5374",
+    "ai": "sodium,65fa096026e0c9cda3afc30194948ef30c9ab41dcfa90d43e7c891bf3bdd2c26"
+  },
+  "playerSpecies": [
+    "Farigiraf",
+    "Kricketune",
+    "Palkia-Origin",
+    "Gurdurr",
+    "Banette",
+    "Sinistcha"
+  ],
+  "player": "Farigiraf||Leftovers|SapSipper|wish,psychicnoise,bodyslam,protect||85,85,85,85,85,85|F|||89|,,,,,Ground]Kricketune||HeavyDutyBoots|Technician|pounce,taunt,stickyweb,knockoff||85,85,85,85,85,85|M|||99|,,,,,Ghost]Palkia|PalkiaOrigin|LustrousGlobe|Pressure|thunderwave,spacialrend,hydropump,fireblast||85,,85,85,85,85|N|,0,,,,||72|,,,,,Dragon]Gurdurr||Eviolite|Guts|bulkup,machpunch,drainpunch,knockoff||85,85,85,85,85,85|M|||85|,,,,,Steel]Banette||LifeOrb|CursedBody|gunkshot,shadowsneak,swordsdance,poltergeist||85,85,85,85,85,85|F|||93|,,,,,Poison]Sinistcha||Leftovers|Heatproof|strengthsap,shadowball,calmmind,matchagotcha||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel",
+  "ai": "Vileplume||Leftovers|EffectSpore|leechseed,sludgebomb,gigadrain,strengthsap||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Iron Moth||HeavyDutyBoots|QuarkDrive|energyball,toxicspikes,sludgewave,fireblast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Gholdengo||ChoiceScarf|GoodasGold|focusblast,shadowball,makeitrain,trick||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fighting]Espeon||LifeOrb|MagicBounce|shadowball,alluringvoice,morningsun,psychic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Staraptor||ChoiceBand|Reckless|uturn,bravebird,closecombat,quickattack||81,85,85,85,85,85|F|||79|,,,,,Flying]Sandaconda||Leftovers|ShedSkin|glare,stoneedge,coil,earthquake||85,85,85,85,85,85|M|||84|,,,,,Dragon"
+}

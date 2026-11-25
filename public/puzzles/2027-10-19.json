@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-10-19",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,15366273c41b5982fb606ee14512689cdaf2fb404ba03c2a91c1e0e0640925f5",
+    "ai": "sodium,ddaa6f459e8e2d0e4cebb0ee7ccfec90ad4547cbe0eb6a1cc2d024c30289cef0"
+  },
+  "playerSpecies": [
+    "Iron Boulder",
+    "Thundurus",
+    "Ursaring",
+    "Snorlax",
+    "Wo-Chien",
+    "Victreebel"
+  ],
+  "player": "Iron Boulder||LifeOrb|QuarkDrive|closecombat,swordsdance,zenheadbutt,mightycleave||85,85,85,85,85,85|N|||77|,,,,,Fighting]Thundurus|||Defiant|acrobatics,focusblast,thunderbolt,uturn||85,85,85,85,85,85|M|||80|,,,,,Flying]Ursaring||Eviolite|Guts|bodyslam,sleeptalk,rest,throatchop||85,85,85,85,85,85|F|||84|,,,,,Ghost]Snorlax||Leftovers|ThickFat|curse,crunch,bodyslam,earthquake||85,85,85,85,85,85|F|||82|,,,,,Poison]Wo-Chien||Leftovers|TabletsofRuin|protect,knockoff,gigadrain,leechseed||85,85,85,85,85,85|N|||83|,,,,,Poison]Victreebel||LifeOrb|Chlorophyll|strengthsap,sludgewave,powerwhip,sleeppowder||85,85,85,85,85,85|M|||90|,,,,,Grass",
+  "ai": "Electrode||LifeOrb|Aftermath|voltswitch,terablast,taunt,thunderbolt||85,,85,85,85,85|N|,0,,,,||93|,,,,,Ice]Dugtrio||LifeOrb|ArenaTrap|earthquake,suckerpunch,stoneedge,swordsdance||85,85,85,85,85,85|F|||84|,,,,,Fairy]Seviper||ChoiceScarf|Infiltrator|flamethrower,gunkshot,switcheroo,earthquake||85,85,85,85,85,85|M|||93|,,,,,Fire]Ho-Oh||HeavyDutyBoots|Regenerator|bravebird,recover,sacredfire,earthquake||85,85,85,85,85,85|N|||71|,,,,,Ground]Hitmontop||AssaultVest|Intimidate|closecombat,earthquake,rapidspin,stoneedge||85,85,85,85,85,85|M|||88|,,,,,Steel]Whimsicott||Leftovers|Prankster|substitute,moonblast,encore,leechseed||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison"
+}

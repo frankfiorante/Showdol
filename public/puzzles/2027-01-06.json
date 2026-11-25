@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-01-06",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,11fccf1a8277b72f61262ff4d4f394da5a9c141c2fe69c7ec52e4dd0288ab75d",
+    "ai": "sodium,c09a308987349a56bc43ac0bcddd10e6dcbc3c2544bba88f6b517205cb92c169"
+  },
+  "playerSpecies": [
+    "Araquanid",
+    "Reuniclus",
+    "Hypno",
+    "Kilowattrel",
+    "Greninja",
+    "Glastrier"
+  ],
+  "player": "Araquanid||HeavyDutyBoots|WaterBubble|hydropump,leechlife,stickyweb,liquidation||85,85,85,85,85,85|F|||82|,,,,,Ground]Reuniclus||LifeOrb|MagicGuard|psyshock,focusblast,calmmind,recover||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Hypno||Leftovers|Insomnia|toxic,psychicnoise,protect,focusblast||85,,85,85,85,85|F|,0,,,,||95|,,,,,Dark]Kilowattrel||HeavyDutyBoots|VoltAbsorb|uturn,roost,hurricane,discharge||85,85,85,85,85,85|F|||83|,,,,,Water]Greninja||LifeOrb|Protean|icebeam,hydropump,gunkshot,grassknot||85,85,85,85,85,85|M|||80|,,,,,Poison]Glastrier||HeavyDutyBoots|ChillingNeigh|swordsdance,heavyslam,iciclecrash,highhorsepower||85,85,85,85,85,85|N|||86|,,,,,Steel",
+  "ai": "Dipplin||Eviolite|StickyHold|dragonpulse,dragontail,gigadrain,recover||85,85,85,85,85,85|F|||88|,,,,,Steel]Espathra||ChoiceSpecs|SpeedBoost|dazzlinggleam,luminacrash,uturn,shadowball||85,85,85,85,85,85|M|||80|,,,,,Fairy]Salazzle||Leftovers|Corrosion|flamethrower,substitute,toxic,protect||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Meowstic||LightClay|Prankster|reflect,alluringvoice,lightscreen,psychicnoise||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Chi-Yu||HeavyDutyBoots|BeadsofRuin|darkpulse,willowisp,nastyplot,fireblast||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Weezing||Leftovers|Levitate|painsplit,sludgebomb,toxicspikes,fireblast||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel"
+}

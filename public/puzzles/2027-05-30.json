@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-05-30",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,85eb77026a2671daac5e3c226980f576befa77e8f10c5b12ed9ce61826e3936e",
+    "ai": "sodium,449d141a9193d9c78716e95c18550ddf82ddf442a0731d895475e4035aa72153"
+  },
+  "playerSpecies": [
+    "Araquanid",
+    "Urshifu",
+    "Duraludon",
+    "Drifblim",
+    "Sandaconda",
+    "Serperior"
+  ],
+  "player": "Araquanid||HeavyDutyBoots|WaterBubble|hydropump,leechlife,liquidation,stickyweb||85,85,85,85,85,85|M|||82|,,,,,Water]Urshifu||LifeOrb|UnseenFist|wickedblow,poisonjab,closecombat,swordsdance||85,85,85,85,85,85|F|||74|,,,,,Dark]Duraludon||Eviolite|LightMetal|flashcannon,irondefense,bodypress,dracometeor||85,,85,85,85,85|F|,0,,,,||82|,,,,,Fighting]Drifblim||SitrusBerry|Unburden|calmmind,strengthsap,airslash,shadowball||73,,85,85,85,85|M|,0,,,,||86|,,,,,Dark]Sandaconda||Leftovers|ShedSkin|stoneedge,glare,earthquake,coil||85,85,85,85,85,85|M|||84|,,,,,Steel]Serperior||Leftovers|Contrary|dragonpulse,leafstorm,leechseed,substitute||85,,85,85,85,85|M|,0,,,,||79|,,,,,Water",
+  "ai": "Brute Bonnet||Leftovers|Protosynthesis|spore,suckerpunch,crunch,closecombat||85,85,85,85,85,85|N|||79|,,,,,Poison]Deoxys|DeoxysSpeed|Leftovers|Pressure|psychoboost,knockoff,taunt,stealthrock||85,85,85,85,85,85|N|||82|,,,,,Dark]Lurantis||AssaultVest|Contrary|leechlife,superpower,leafstorm,knockoff||85,85,85,85,85,85|F|||87|,,,,,Fighting]Groudon||Leftovers|Drought|heatcrash,swordsdance,thunderwave,precipiceblades||85,85,85,85,85,85|N|||72|,,,,,Fire]Weezing||Leftovers|Levitate|toxicspikes,fireblast,painsplit,gunkshot||85,85,85,85,85,85|F|||88|,,,,,Steel]Magcargo||HeavyDutyBoots|FlameBody|powergem,lavaplume,recover,yawn||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass"
+}

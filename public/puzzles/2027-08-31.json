@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-08-31",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,f87d4cd53e4b2d09cdde35e6310ee2c23dce8af69924101224838822f787a517",
+    "ai": "sodium,b900306f06e8e188d8d5c3c48be5a9e043344b5abc400c129ebe53657f688903"
+  },
+  "playerSpecies": [
+    "Delphox",
+    "Slither Wing",
+    "Torkoal",
+    "Scrafty",
+    "Porygon2",
+    "Golduck"
+  ],
+  "player": "Delphox||HeavyDutyBoots|Blaze|psyshock,focusblast,nastyplot,fireblast||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Slither Wing||BoosterEnergy|Protosynthesis|acrobatics,closecombat,wildcharge,bulkup||85,85,85,85,85,85|N|||81|,,,,,Electric]Torkoal||HeavyDutyBoots|Drought|earthquake,lavaplume,yawn,solarbeam||85,85,85,85,85,85|F|||88|,,,,,Grass]Scrafty||Leftovers|ShedSkin|knockoff,rest,drainpunch,bulkup||85,85,85,85,85,85|M|||83|,,,,,Poison]Porygon2||Eviolite|Download|triattack,icebeam,recover,discharge||85,,85,85,85,85|N|,0,,,,||81|,,,,,Electric]Golduck||ChoiceSpecs|CloudNine|flipturn,icebeam,hydropump,grassknot||85,85,85,85,85,85|M|||90|,,,,,Grass",
+  "ai": "Tentacruel||Leftovers|LiquidOoze|rapidspin,haze,surf,sludgebomb||85,85,85,85,85,85|M|||84|,,,,,Grass]Delphox||ChoiceSpecs|Blaze|focusblast,grassknot,fireblast,psyshock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fighting]Iron Hands||Leftovers|QuarkDrive|drainpunch,icepunch,thunderpunch,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Flying]Deoxys|DeoxysSpeed|LifeOrb|Pressure|darkpulse,psychoboost,focusblast,nastyplot||85,,85,85,85,85|N|,0,,,,||82|,,,,,Fighting]Regigigas||Leftovers|SlowStart|sleeptalk,bodyslam,knockoff,rest||85,85,85,85,85,85|N|||84|,,,,,Ghost]Umbreon||Leftovers|Synchronize|protect,wish,foulplay,toxic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison"
+}

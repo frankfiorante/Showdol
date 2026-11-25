@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-04-05",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,540839050f39f81d89287306478b7ff2a04b27c2247f255d9b110908ccb90105",
+    "ai": "sodium,33b693500f51344556b4fb66482586cea843ad4849d5874abee7568869100f9d"
+  },
+  "playerSpecies": [
+    "Fezandipiti",
+    "Granbull",
+    "Electivire",
+    "Bisharp",
+    "Samurott-Hisui",
+    "Kyurem-Black"
+  ],
+  "player": "Fezandipiti||Leftovers|ToxicChain|swordsdance,playrough,terablast,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Ground]Granbull||Leftovers|Intimidate|earthquake,playrough,thunderwave,encore||85,85,85,85,85,85|F|||88|,,,,,Ground]Electivire||LifeOrb|MotorDrive|bulkup,icepunch,supercellslam,earthquake||85,85,85,85,85,85|M|||84|,,,,,Ground]Bisharp||Eviolite|Defiant|throatchop,ironhead,swordsdance,suckerpunch||85,85,85,85,85,85|F|||79|,,,,,Flying]Samurott|SamurottHisui|ChoiceBand|Sharpness|razorshell,flipturn,suckerpunch,ceaselessedge||85,85,85,85,85,85|F|||77|,,,,,Water]Kyurem|KyuremBlack|LoadedDice|Teravolt|dragondance,scaleshot,fusionbolt,iciclespear||85,85,85,85,85,85|N|||71|,,,,,Electric",
+  "ai": "Dunsparce||Eviolite|SereneGrace|roost,coil,bodyslam,earthquake||85,85,85,85,85,85|M|||86|,,,,,Ghost]Blaziken||LifeOrb|SpeedBoost|flareblitz,knockoff,closecombat,swordsdance||85,85,85,85,85,85|M|||76|,,,,,Dark]Dachsbun||Leftovers|WellBakedBody|playrough,protect,wish,bodypress||85,85,85,85,85,85|F|||92|,,,,,Steel]Glastrier||HeavyDutyBoots|ChillingNeigh|swordsdance,iciclecrash,heavyslam,highhorsepower||85,85,85,85,85,85|N|||86|,,,,,Ground]Luxray||FlameOrb|Guts|supercellslam,trailblaze,throatchop,facade||81,85,85,85,85,85|M|||88|,,,,,Normal]Salazzle||HeavyDutyBoots|Corrosion|fireblast,terablast,sludgewave,nastyplot||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass"
+}

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "date": "2027-11-08",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,ab1e983a3f2d133be3df05dbc5050e35eab6bdf01c50f73fb8d2e9a75aaf30e1",
+    "ai": "sodium,8db2703801e7466925e8e773db8f049fca11574f48ca1c2f45cf30729c6ab70d"
+  },
+  "playerSpecies": [
+    "Pecharunt",
+    "Sneasler",
+    "Komala",
+    "Skarmory",
+    "Meganium",
+    "Ting-Lu"
+  ],
+  "player": "Pecharunt||Leftovers|PoisonPuppeteer|partingshot,shadowball,recover,malignantchain||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Sneasler||WhiteHerb|Unburden|acrobatics,swordsdance,closecombat,direclaw||85,85,85,85,85,85|F|||74|,,,,,Flying]Komala||AssaultVest|Comatose|knockoff,uturn,rapidspin,bodyslam||85,85,85,85,85,85|F|||87|,,,,,Ghost]Skarmory||RockyHelmet|Sturdy|roost,bodypress,stealthrock,bravebird||85,85,85,85,85,85|F|||80|,,,,,Dragon]Meganium||Leftovers|Overgrow|knockoff,synthesis,leechseed,energyball||85,85,85,85,85,85|M|||90|,,,,,Poison]Ting-Lu||Leftovers|VesselofRuin|spikes,earthquake,whirlwind,throatchop||85,85,85,85,85,85|N|||78|,,,,,Ghost",
+  "ai": "Mismagius||Leftovers|Levitate|shadowball,substitute,terablast,nastyplot||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fighting]Orthworm||Leftovers|EarthEater|heavyslam,spikes,shedtail,bodypress||85,85,85,85,85,85|F|||88|,,,,,Fighting]Feraligatr||LifeOrb|SheerForce|icepunch,dragondance,crunch,liquidation||85,85,85,85,85,85|M|||79|,,,,,Dragon]Araquanid||HeavyDutyBoots|WaterBubble|stickyweb,hydropump,liquidation,leechlife||85,85,85,85,85,85|F|||82|,,,,,Ground]Lugia||HeavyDutyBoots|Multiscale|earthpower,aeroblast,calmmind,recover||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Dudunsparce|DudunsparceThreeSegment|Leftovers|Rattled|roost,calmmind,earthpower,boomburst||85,,85,85,85,85|F|,0,,,,||83|,,,,,Poison"
+}
