@@ -5,12 +5,12 @@
  *   pnpm spike:bots --date 2026-12-01 --n 200
  *   pnpm spike:bots --replay            # also checks seed + input log replays identically
  */
-import {readFileSync} from 'node:fs';
-import {dirname, join} from 'node:path';
-import {fileURLToPath} from 'node:url';
-import {Battle, type PRNGSeed} from '@pkmn/sim';
-import {runBotBattle} from '../src/engine/run-battle';
-import {FORMAT, type PuzzleFile} from '../src/engine/puzzle';
+import { readFileSync } from 'node:fs';
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { Battle, type PRNGSeed } from '@pkmn/sim';
+import { runBotBattle } from '@/engine/run-battle';
+import { FORMAT, type PuzzleFile } from '@/engine/puzzle';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const arg = (name: string) => {
@@ -26,7 +26,7 @@ const puzzle: PuzzleFile = JSON.parse(
   readFileSync(join(root, 'public', 'puzzles', `${date}.json`), 'utf8'),
 );
 
-const results = Array.from({length: n}, () => runBotBattle({p1Team: puzzle.player, p2Team: puzzle.ai}));
+const results = Array.from({ length: n }, () => runBotBattle({ p1Team: puzzle.player, p2Team: puzzle.ai }));
 
 if (n === 1) {
   const r = results[0];
@@ -50,9 +50,9 @@ if (process.argv.includes('--replay')) {
   // Resume spike: rebuild the battle from seed + input log and compare logs.
   let ok = 0;
   for (const r of results) {
-    const b = new Battle({formatid: FORMAT as never, seed: r.battleSeed as PRNGSeed});
-    b.setPlayer('p1', {name: 'Player', team: puzzle.player});
-    b.setPlayer('p2', {name: 'AI', team: puzzle.ai});
+    const b = new Battle({ formatid: FORMAT as never, seed: r.battleSeed as PRNGSeed });
+    b.setPlayer('p1', { name: 'Player', team: puzzle.player });
+    b.setPlayer('p2', { name: 'AI', team: puzzle.ai });
     for (const line of r.inputLog) {
       const [, side, ...rest] = line.match(/^>(p[12]) (.*)$/)!;
       b.choose(side as 'p1' | 'p2', rest.join(' '));

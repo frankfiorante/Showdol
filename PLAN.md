@@ -205,9 +205,11 @@ The build runs in six phases. Each ends with something playable, and the risky p
 
 ### Phase 1: Playable core
 
-- [ ] Plain battle UI: moves, switching, Tera toggle, forfeit
-- [ ] Battle log from parsed protocol
-- [ ] Win and loss detection, turn count, fainted tracking
+- [x] Plain battle UI: moves, switching, Tera toggle, forfeit
+- [x] Battle log from parsed protocol
+- [x] Win and loss detection, turn count, fainted tracking
+
+**Phase 1 notes:** `BattleSession` (`src/engine/session.ts`) owns the sim, the opponent (still the random bot) and an `@pkmn/client` battle that sees only the player's channel, so the foe's view comes from revealed information only. `pnpm session:check` plays 300 battles through the same API the UI uses, checking invariants and that seed + input log replays identically. The result screen shows only the opponents that were revealed; showing the AI's full team is still to do.
 
 ### Phase 2: Daily mechanics
 

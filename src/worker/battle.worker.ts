@@ -1,30 +1,31 @@
 /// <reference lib="webworker" />
-import {runBotBattle} from '../engine/run-battle';
+import {BattleSession, ChoiceError, type StepResult} from '@/engine/session';
 import type {FromWorker, ToWorker} from './protocol';
 
-// performance.now() is relative to the worker's creation, so at this point it
-// covers fetching, parsing and evaluating the whole sim bundle.
-const bootMs = performance.now();
+let session: BattleSession | null = null;
 const post = (msg: FromWorker) => self.postMessage(msg);
+const sendStep = (step: StepResult) =>
+  post({type: 'step', view: step.view, log: step.log, inputLog: session!.inputLog});
 
 self.onmessage = (e: MessageEvent<ToWorker>) => {
   const msg = e.data;
-  if (msg.type !== 'run') return;
   try {
-    const results = Array.from({length: msg.count}, () =>
-      runBotBattle({p1Team: msg.p1Team, p2Team: msg.p2Team}),
-    );
-    const last = results[results.length - 1];
-    post({
-      type: 'result',
-      id: msg.id,
-      battles: results.map(r => ({winner: r.winner, turns: r.turns, ms: r.ms})),
-      species: last.species,
-      tail: last.log.filter(l => l && !l.startsWith('|t:|') && !l.startsWith('|split|')).slice(-25),
-    });
+    switch (msg.type) {
+      case 'start':
+        session = new BattleSession(msg);
+        sendStep(session.start());
+        break;
+      case 'choose':
+        if (!session) throw new Error('No battle in progress');
+        sendStep(session.choose(msg.choice));
+        break;
+      case 'forfeit':
+        if (!session) throw new Error('No battle in progress');
+        sendStep(session.forfeit());
+        break;
+    }
   } catch (err) {
-    post({type: 'error', id: msg.id, message: String((err as Error)?.stack ?? err)});
+    if (err instanceof ChoiceError) post({type: 'invalid', message: err.message});
+    else post({type: 'error', message: String((err as Error)?.stack ?? err)});
   }
 };
-
-post({type: 'ready', bootMs});

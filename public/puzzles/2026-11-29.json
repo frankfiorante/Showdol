@@ -11,6 +11,14 @@
     "player": "sodium,4848b2232a5d21e1d20c0f90c5c89518a5ae1d0661fbcbb7b45f79d47f377276",
     "ai": "sodium,cb73fb31fef829f9916d493536625ceb1906ca459c6a3b4e7a3eed5342ef63ff"
   },
+  "playerSpecies": [
+    "Dewgong",
+    "Gouging Fire",
+    "Wugtrio",
+    "Armarouge",
+    "Klefki",
+    "Hawlucha"
+  ],
   "player": "Dewgong||HeavyDutyBoots|ThickFat|knockoff,surf,tripleaxel,encore||85,85,85,85,85,85|M|||94|,,,,,Poison]Gouging Fire||HeavyDutyBoots|Protosynthesis|dragondance,outrage,heatcrash,earthquake||85,85,85,85,85,85|N|||74|,,,,,Ground]Wugtrio||ChoiceBand|Gooey|stompingtantrum,throatchop,liquidation,aquajet||85,85,85,85,85,85|M|||91|,,,,,Ground]Armarouge||ChoiceSpecs|WeakArmor|energyball,psyshock,armorcannon,focusblast||85,,85,85,85,85|F|,0,,,,||80|,,,,,Grass]Klefki||Leftovers|Prankster|spikes,playrough,thunderwave,magnetrise||85,85,85,85,85,85|F|||84|,,,,,Water]Hawlucha||WhiteHerb|Unburden|swordsdance,stoneedge,bravebird,closecombat||85,85,85,85,85,85|M|||80|,,,,,Flying",
   "ai": "Ursaring||ToxicOrb|QuickFeet|facade,swordsdance,closecombat,throatchop||85,85,85,85,85,85|F|||84|,,,,,Normal]Jolteon||HeavyDutyBoots|VoltAbsorb|voltswitch,thunderbolt,alluringvoice,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Electric]Vivillon|VivillonModern|HeavyDutyBoots|CompoundEyes|hurricane,sleeppowder,quiverdance,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Araquanid||HeavyDutyBoots|WaterBubble|stickyweb,liquidation,leechlife,hydropump||85,85,85,85,85,85|M|||82|,,,,,Water]Veluza||SitrusBerry|Sharpness|nightslash,aquacutter,psychocut,filletaway||85,85,85,85,85,85|F|||85|,,,,,Dark]Porygon2||Eviolite|Download|recover,terablast,shadowball,thunderwave||85,85,85,85,85,85|N|||81|,,,,,Fighting"
 }

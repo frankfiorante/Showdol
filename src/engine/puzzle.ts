@@ -9,6 +9,8 @@ export interface PuzzleFile {
   reroll: number;
   /** Team-generation seeds, kept so a file can be reproduced. */
   seeds: {player: string; ai: string};
+  /** Player's species in team order, for the home screen (no sim needed). */
+  playerSpecies: string[];
   /** Packed teams (Teams.pack format). */
   player: string;
   ai: string;

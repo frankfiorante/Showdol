@@ -14,7 +14,7 @@ import {dirname, join} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {Teams, type PRNGSeed} from '@pkmn/sim';
 import {TeamGenerators} from '@pkmn/randoms';
-import {FORMAT, type PuzzleFile} from '../src/engine/puzzle';
+import {FORMAT, type PuzzleFile} from '@/engine/puzzle';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const outDir = join(root, 'public', 'puzzles');
@@ -29,7 +29,8 @@ export function seedFor(date: string, role: 'player' | 'ai', reroll: number): PR
 
 export function generatePuzzle(date: string, reroll = 0): PuzzleFile {
   const seeds = {player: seedFor(date, 'player', reroll), ai: seedFor(date, 'ai', reroll)};
-  const team = (seed: PRNGSeed) => Teams.pack(TeamGenerators.getTeamGenerator(FORMAT, seed).getTeam());
+  const gen = (seed: PRNGSeed) => TeamGenerators.getTeamGenerator(FORMAT, seed).getTeam();
+  const player = gen(seeds.player);
   return {
     schema: 1,
     date,
@@ -37,8 +38,9 @@ export function generatePuzzle(date: string, reroll = 0): PuzzleFile {
     generator: {sim: pkgVersion('@pkmn/sim'), randoms: pkgVersion('@pkmn/randoms')},
     reroll,
     seeds,
-    player: team(seeds.player),
-    ai: team(seeds.ai),
+    playerSpecies: player.map(set => set.species),
+    player: Teams.pack(player),
+    ai: Teams.pack(gen(seeds.ai)),
   };
 }
 

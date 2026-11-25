@@ -11,6 +11,14 @@
     "player": "sodium,7229a76fc28c4f2d20dff7bd1c43867c558bbdfc7347a3a385f3676ed7ae9cdf",
     "ai": "sodium,4cfe67509a28e53c1300c6e9b3218ea541f0227efd7de72d0c64d7293dafcd33"
   },
+  "playerSpecies": [
+    "Drifblim",
+    "Ursaring",
+    "Kyogre",
+    "Grafaiai",
+    "Zekrom",
+    "Luxray"
+  ],
   "player": "Drifblim||HeavyDutyBoots|Aftermath|airslash,defog,shadowball,strengthsap||85,,85,85,85,85|F|,0,,,,||86|,,,,,Dark]Ursaring||Eviolite|Guts|sleeptalk,earthquake,bodyslam,rest||85,85,85,85,85,85|F|||84|,,,,,Ghost]Kyogre||ChoiceScarf|Drizzle|originpulse,icebeam,thunder,waterspout||85,,85,85,85,85|N|,0,,,,||71|,,,,,Water]Grafaiai||AssaultVest|PoisonTouch|uturn,gunkshot,superfang,knockoff||85,85,85,85,85,85|M|||86|,,,,,Dark]Zekrom||Leftovers|Teravolt|dragondance,outrage,boltstrike,substitute||85,85,85,85,85,85|N|||71|,,,,,Fairy]Luxray||AssaultVest|Intimidate|wildcharge,icefang,playrough,voltswitch||85,85,85,85,85,85|M|||88|,,,,,Electric",
   "ai": "Rayquaza||LoadedDice|AirLock|swordsdance,dragonascent,earthquake,scaleshot||85,85,85,85,85,85|N|||72|,,,,,Steel]Floatzel||ChoiceBand|WaterVeil|flipturn,icespinner,wavecrash,crunch||85,85,85,85,85,85|F|||86|,,,,,Water]Azumarill||ChoiceBand|HugePower|liquidation,icespinner,playrough,aquajet||85,85,85,85,85,85|M|||82|,,,,,Water]Regice||HeavyDutyBoots|ClearBody|icebeam,thunderbolt,bodypress,thunderwave||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Dragapult||LifeOrb|ClearBody|dragondarts,dragondance,fireblast,terablast||85,85,85,85,85,85|M|||77|,,,,,Ghost]Passimian||Leftovers|Defiant|gunkshot,bulkup,knockoff,drainpunch||85,85,85,85,85,85|F|||83|,,,,,Poison"
 }

@@ -8,12 +8,24 @@ importers:
 
   .:
     dependencies:
+      '@pkmn/client':
+        specifier: 0.7.4
+        version: 0.7.4
+      '@pkmn/data':
+        specifier: 0.10.15
+        version: 0.10.15
+      '@pkmn/protocol':
+        specifier: 0.7.4
+        version: 0.7.4
       '@pkmn/randoms':
         specifier: 0.11.0
         version: 0.11.0
       '@pkmn/sim':
         specifier: 0.11.0
         version: 0.11.0
+      '@pkmn/view':
+        specifier: 0.7.4
+        version: 0.7.4
       next:
         specifier: 16.4.6
         version: 16.4.6(@types/node@26.6.6)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
@@ -418,6 +430,19 @@ packages:
     cpu: [x64]
     os: [win32]
 
+  '@pkmn/client@0.7.4':
+    resolution: {integrity: sha512-AU3AK+FIylWMFMgXK2Q917OUc4yuSpRW9H4mDsqUOZlPq0nTD41QOTgLB0b/hrbXZPPR1CGcy5x2I9k/BNKwEA==}
+
+  '@pkmn/data@0.10.15':
+    resolution: {integrity: sha512-ASB19aeJ0T2DnSlDKpEzLcvzLaqeNpTxde9nnJfwyXN2dJRK4Lw9Mo+yKVhgAl0ScpZNl2tvZMVU8jqcB0vDOQ==}
+
+  '@pkmn/dex-types@0.10.15':
+    resolution: {integrity: sha512-Fxa8djO08OfH08VmxaBPk5hovN8XaLgbYi3JK0elwPHcDCt7paV+W2RLg89eiaWrmPZBYijX0qP9HdThdj7OPA==}
+
+  '@pkmn/protocol@0.7.4':
+    resolution: {integrity: sha512-Yd6Ikf+NVovv0UN6IsSPYl3nssqxfoSlQNZkZrYyQ59z/VHIhyorLhuvYNs3s7dEwIlxM6csx2eMjedj9jd2CQ==}
+    hasBin: true
+
   '@pkmn/randoms@0.11.0':
     resolution: {integrity: sha512-tVS2eRKsYX733tbk1FO9LolddhoHMrpClbkGDtU6HGbO6q5/KHBYTtvTR5Dxxcd1aslnkOdegNYeAmOSJTT8GQ==}
 
@@ -432,6 +457,10 @@ packages:
 
   '@pkmn/types@5.0.0':
     resolution: {integrity: sha512-kO/o0SfNBwFrsS3IkWJUlTpCBD+2ydVlvGeARbJ5pzZ3YABVXhDbqJCQUX5gRUp9uaWWQoa4gUqQT4LAqCE8Ng==}
+
+  '@pkmn/view@0.7.4':
+    resolution: {integrity: sha512-aLnzcPqjiHGGK2v9BXoVrj51EL0pReXpQcZVFzIyWKU1xAs+SSe3Rd9g5RZlM9NyhhUOETtsI/u+F2v2ywV6cQ==}
+    hasBin: true
 
   '@swc/helpers@0.5.23':
     resolution: {integrity: sha512-5lSsMOTXURePglDfvuAQUqkGek9Hg2kksOYay2m0+XR++b2NWYL/4sWyuvVBIs8oKnJaxkdi9whaL/sqN13afw==}
@@ -908,6 +937,23 @@ snapshots:
   '@next/swc-win32-x64-msvc@16.4.6':
     optional: true
 
+  '@pkmn/client@0.7.4':
+    dependencies:
+      '@pkmn/data': 0.10.15
+      '@pkmn/protocol': 0.7.4
+
+  '@pkmn/data@0.10.15':
+    dependencies:
+      '@pkmn/dex-types': 0.10.15
+
+  '@pkmn/dex-types@0.10.15':
+    dependencies:
+      '@pkmn/types': 5.0.0
+
+  '@pkmn/protocol@0.7.4':
+    dependencies:
+      '@pkmn/types': 5.0.0
+
   '@pkmn/randoms@0.11.0':
     dependencies:
       '@pkmn/sim': 0.11.0
@@ -925,6 +971,11 @@ snapshots:
   '@pkmn/streams@1.1.0': {}
 
   '@pkmn/types@5.0.0': {}
+
+  '@pkmn/view@0.7.4':
+    dependencies:
+      '@pkmn/protocol': 0.7.4
+      '@pkmn/types': 5.0.0
 
   '@swc/helpers@0.5.23':
     dependencies:

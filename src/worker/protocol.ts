@@ -1,13 +1,13 @@
+import type {BattleView} from '@/engine/view';
+
 /** Messages between the UI thread and the battle worker. */
-export type ToWorker = {type: 'run'; id: number; p1Team: string; p2Team: string; count: number};
+export type ToWorker =
+  | {type: 'start'; playerTeam: string; aiTeam: string; battleSeed: string; aiSeed: string}
+  | {type: 'choose'; choice: string}
+  | {type: 'forfeit'};
 
 export type FromWorker =
-  | {type: 'ready'; bootMs: number}
-  | {
-      type: 'result';
-      id: number;
-      battles: {winner: string; turns: number; ms: number}[];
-      species: {p1: string[]; p2: string[]};
-      tail: string[];
-    }
-  | {type: 'error'; id?: number; message: string};
+  | {type: 'step'; view: BattleView; log: string[]; inputLog: string[]}
+  /** The sim refused a choice; the battle is unchanged. */
+  | {type: 'invalid'; message: string}
+  | {type: 'error'; message: string};

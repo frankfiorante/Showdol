@@ -1,0 +1,294 @@
+import {Battle, Dex, PRNG, Teams, extractChannelMessages, type PRNGSeed} from '@pkmn/sim';
+import {Battle as ClientBattle, type Pokemon as ClientPokemon} from '@pkmn/client';
+import {Generations} from '@pkmn/data';
+import {Protocol} from '@pkmn/protocol';
+import {LogFormatter} from '@pkmn/view';
+import {FORMAT} from './puzzle';
+import {chooseRandom, type BotRequest} from './random-bot';
+import type {BattleResult, BattleView, MoveOption, PokemonView, Prompt, SideView, SwitchOption} from './view';
+
+/** Picks the AI's choice for a request. Phase 3 replaces the random bot. */
+export interface Opponent {
+  choose(request: BotRequest, battle: Battle): string;
+}
+
+export function randomOpponent(seed: string): Opponent {
+  const prng = new PRNG(seed as PRNGSeed);
+  return {choose: req => chooseRandom(req, n => prng.random(n))};
+}
+
+export interface SessionInit {
+  /** Packed teams. */
+  playerTeam: string;
+  aiTeam: string;
+  battleSeed: string;
+  aiSeed: string;
+  opponent?: Opponent;
+}
+
+export interface StepResult {
+  view: BattleView;
+  /** Formatted log text added since the previous step. */
+  log: string[];
+}
+
+export class ChoiceError extends Error {}
+
+const PLAYER = 'Player';
+const AI = 'AI';
+// Gen 9 Random Battle can include anything the sim knows about; don't filter.
+const gens = new Generations(Dex as never, () => true);
+
+/**
+ * One player's battle: the sim (omniscient), the AI opponent, and a client
+ * that sees only the player's channel and powers the view and the log.
+ * Plain TypeScript, so it runs in the worker and in Node tests alike.
+ */
+export class BattleSession {
+  readonly sim: Battle;
+  private readonly client: ClientBattle;
+  private readonly formatter: LogFormatter;
+  private readonly opponent: Opponent;
+  private readonly playerSets: ReturnType<typeof Teams.unpack> & object;
+  private cursor = 0;
+  private forfeited = false;
+  /** Every choice in order, as `>p1 move 1` lines. Phase 2 persists this. */
+  readonly inputLog: string[] = [];
+  /** Full formatted log so far. */
+  readonly log: string[] = [];
+
+  constructor(init: SessionInit) {
+    this.playerSets = Teams.unpack(init.playerTeam)!;
+    this.opponent = init.opponent ?? randomOpponent(init.aiSeed);
+    this.sim = new Battle({formatid: FORMAT as never, seed: init.battleSeed as PRNGSeed});
+    this.client = new ClientBattle(gens, 'p1' as never, this.playerSets as never);
+    this.formatter = new LogFormatter('p1', this.client);
+    this.sim.setPlayer('p1', {name: PLAYER, team: init.playerTeam});
+    this.sim.setPlayer('p2', {name: AI, team: init.aiTeam});
+  }
+
+  /** Runs until the player has to choose (or the battle ends). */
+  start(): StepResult {
+    return this.advance();
+  }
+
+  choose(choice: string): StepResult {
+    if (this.sim.ended) throw new ChoiceError('The battle is over.');
+    const side = this.sim.sides[0];
+    if (!this.needsChoice(0)) throw new ChoiceError('Not waiting for a choice.');
+    if (!this.sim.choose('p1', choice)) {
+      const error = side.choice.error || `Invalid choice: ${choice}`;
+      side.clearChoice();
+      throw new ChoiceError(error.replace(/^\[[^\]]+]\s*/, ''));
+    }
+    this.inputLog.push(`>p1 ${choice}`);
+    return this.advance();
+  }
+
+  forfeit(): StepResult {
+    if (!this.sim.ended) {
+      this.forfeited = true;
+      this.inputLog.push('>forcelose p1');
+      this.sim.lose('p1');
+    }
+    return this.advance();
+  }
+
+  private needsChoice(n: 0 | 1) {
+    const side = this.sim.sides[n];
+    const req = side.activeRequest;
+    return !!req && !req.wait && !side.isChoiceDone();
+  }
+
+  private advance(): StepResult {
+    // The AI decides as soon as it's asked, before seeing the player's choice.
+    while (!this.sim.ended && this.needsChoice(1)) {
+      const req = this.sim.sides[1].activeRequest as unknown as BotRequest;
+      let choice = this.opponent.choose(req, this.sim);
+      if (!this.sim.choose('p2', choice)) {
+        this.sim.sides[1].clearChoice();
+        choice = 'default';
+        this.sim.choose('p2', choice);
+      }
+      this.inputLog.push(`>p2 ${choice}`);
+    }
+    if (!this.sim.ended && !this.needsChoice(0)) {
+      throw new Error(`Battle stalled on turn ${this.sim.turn}`);
+    }
+    const log = this.feedClient();
+    return {view: this.view(), log};
+  }
+
+  /** Feeds new sim output (player's channel only) to the client and formatter. */
+  private feedClient(): string[] {
+    const fresh = this.sim.log.slice(this.cursor);
+    this.cursor = this.sim.log.length;
+    const lines = extractChannelMessages(fresh.join('\n'), [1])[1];
+    const out: string[] = [];
+    for (const line of lines) {
+      const {args, kwArgs} = Protocol.parseBattleLine(line);
+      const text = this.formatter.formatText(args as never, kwArgs as never);
+      if (text) out.push(text);
+      this.client.add(args as never, kwArgs as never);
+    }
+    const req = this.sim.sides[0].activeRequest;
+    if (req && !this.sim.ended) this.client.update(Protocol.parseRequest(JSON.stringify(req) as Protocol.RequestJSON));
+    const formatted = out.join('').split('\n').filter(l => l.trim() !== '');
+    this.log.push(...formatted);
+    return formatted;
+  }
+
+  view(): BattleView {
+    return {
+      turn: this.sim.turn,
+      me: this.mySide(),
+      foe: this.foeSide(),
+      field: {
+        weather: this.client.field.weather,
+        terrain: this.client.field.terrain,
+        pseudoWeather: Object.keys(this.client.field.pseudoWeather).map(id => Dex.conditions.get(id).name),
+      },
+      prompt: this.sim.ended ? null : this.prompt(),
+      result: this.sim.ended ? this.result() : null,
+    };
+  }
+
+  private mySide(): SideView {
+    const simSide = this.sim.sides[0];
+    const clientSide = this.client.p1;
+    // Sim Pokémon in original team order (the sim reorders side.pokemon on switches).
+    const team = simSide.team.map((set, teamIndex) => {
+      const p = simSide.pokemon.find(mon => mon.set === set)!;
+      const known = clientSide.team.find(c => c.originalIdent === `p1: ${p.name}`);
+      const view: PokemonView = {
+        teamIndex,
+        name: p.name,
+        species: p.species.name,
+        level: p.level,
+        types: p.getTypes(),
+        hp: p.hp,
+        maxhp: p.maxhp,
+        status: p.status || undefined,
+        fainted: p.fainted,
+        active: p.isActive,
+        boosts: p.isActive ? nonZero(p.boosts) : {},
+        volatiles: p.isActive && known ? volatiles(known) : [],
+        item: p.item ? Dex.items.get(p.item).name : undefined,
+        ability: Dex.abilities.get(p.ability).name,
+        moves: p.baseMoveSlots.map(m => m.move),
+        teraType: p.teraType,
+        terastallized: p.terastallized || undefined,
+        stats: {...p.storedStats},
+      };
+      return view;
+    });
+    return {
+      active: team.find(p => p.active) ?? null,
+      team,
+      totalPokemon: team.length,
+      conditions: sideConditions(clientSide.sideConditions),
+    };
+  }
+
+  private foeSide(): SideView {
+    const side = this.client.p2;
+    const toView = (p: ClientPokemon): PokemonView => ({
+      name: p.name,
+      species: p.speciesForme,
+      level: p.level,
+      types: p.terastallized ? [p.terastallized] : [...(this.client.gen.species.get(p.speciesForme)?.types ?? [])],
+      hp: p.hp,
+      maxhp: p.maxhp,
+      status: p.status,
+      fainted: p.fainted,
+      active: side.active.includes(p),
+      boosts: nonZero(p.boosts as Record<string, number>),
+      volatiles: volatiles(p),
+      item: p.item ? Dex.items.get(p.item).name : undefined,
+      ability: p.ability ? Dex.abilities.get(p.ability).name : undefined,
+      moves: p.moveSlots.map(m => m.name),
+      terastallized: p.terastallized,
+    });
+    const active = side.active[0];
+    return {
+      active: active && !active.fainted ? toView(active) : null,
+      team: side.team.map(toView),
+      totalPokemon: side.totalPokemon || 6,
+      conditions: sideConditions(side.sideConditions),
+    };
+  }
+
+  private prompt(): Prompt | null {
+    if (!this.needsChoice(0)) return null;
+    const req = this.sim.sides[0].activeRequest!;
+    const simSide = this.sim.sides[0];
+    const teamIndex = (slot: number) => simSide.team.indexOf(simSide.pokemon[slot - 1].set);
+    const reqTeam = req.side.pokemon;
+    const fainted = (i: number) => reqTeam[i].condition.endsWith(' fnt');
+
+    if ('forceSwitch' in req && req.forceSwitch) {
+      const reviving = reqTeam.some(p => p.active && p.reviving);
+      const switches: SwitchOption[] = reqTeam
+        .map((p, i) => ({slot: i + 1, teamIndex: teamIndex(i + 1), ok: !p.active && fainted(i) === reviving}))
+        .filter(s => s.ok)
+        .map(({slot, teamIndex}) => ({slot, teamIndex}));
+      return {kind: 'switch', switches, reviving};
+    }
+    if (!('active' in req) || !req.active) return null;
+    const active = req.active[0];
+    const moves: MoveOption[] = active.moves.map((m, i) => {
+      const move = Dex.moves.get(m.id);
+      return {
+        slot: i + 1,
+        id: m.id,
+        name: m.move,
+        type: move.type,
+        category: move.category,
+        basePower: move.basePower,
+        accuracy: move.accuracy,
+        pp: m.pp ?? 0,
+        maxpp: m.maxpp ?? 0,
+        disabled: !!m.disabled,
+      };
+    });
+    const trapped = !!active.trapped;
+    const switches: SwitchOption[] = trapped
+      ? []
+      : reqTeam
+          .map((p, i) => ({slot: i + 1, teamIndex: teamIndex(i + 1), ok: !p.active && !fainted(i)}))
+          .filter(s => s.ok)
+          .map(({slot, teamIndex}) => ({slot, teamIndex}));
+    return {kind: 'move', moves, canTera: active.canTerastallize, switches, trapped};
+  }
+
+  private result(): BattleResult {
+    const [me, ai] = this.sim.sides;
+    return {
+      winner: this.sim.winner === PLAYER ? 'player' : this.sim.winner === AI ? 'ai' : 'tie',
+      turns: this.sim.turn,
+      myFainted: me.team.map(set => me.pokemon.find(p => p.set === set)!.fainted),
+      aiRemaining: ai.pokemon.filter(p => !p.fainted).length,
+      forfeited: this.forfeited,
+    };
+  }
+}
+
+function nonZero(boosts: Record<string, number>) {
+  return Object.fromEntries(Object.entries(boosts).filter(([, v]) => v));
+}
+
+const SHOWN_VOLATILES = new Set([
+  'confusion', 'substitute', 'leechseed', 'taunt', 'encore', 'torment', 'yawn', 'perishsong',
+  'curse', 'saltcure', 'focusenergy', 'protosynthesis', 'quarkdrive', 'flashfire', 'disable',
+  'magnetrise', 'aquaring', 'ingrain', 'destinybond', 'partiallytrapped', 'trapped', 'charge',
+]);
+
+function volatiles(p: ClientPokemon) {
+  return Object.keys(p.volatiles)
+    .filter(id => SHOWN_VOLATILES.has(id))
+    .map(id => Dex.conditions.get(id).name || id);
+}
+
+function sideConditions(conds: Record<string, {name: string; level: number}>) {
+  return Object.values(conds).map(c => (c.level > 1 ? `${c.name} ×${c.level}` : c.name));
+}
