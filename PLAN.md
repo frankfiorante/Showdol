@@ -246,9 +246,16 @@ The build runs in six phases. Each ends with something playable, and the risky p
 
 ### Phase 4: Real UI
 
-- [ ] Mobile-first battle screen with sprites and HP bars
-- [ ] Readable, collapsible log
-- [ ] Self-hosted sprite set with a clear license
+- [x] Mobile-first battle screen with sprites and HP bars
+- [x] Readable, collapsible log
+- [x] Self-hosted sprite set (no sprite set has a clear image license; see notes)
+
+**Phase 4 notes:**
+
+- **Sprites:** no Pokémon sprite source licenses the images themselves. PokeAPI's CC0, and the MIT licenses on pokesprite and smogon/sprites, cover only code or data, and each says the art belongs to Nintendo/Game Freak/TPC. We chose the Gen 5-style 96px sprites from Pokémon Showdown's sprite server, with the Smogon Sprite Project's sprites for later Pokémon. Those come with forum permission for non-profit use with credit. `pnpm sprites:fetch` downloads the 522 sprites Gen 9 Random Battle can need (545 KB) into `public/sprites/gen5/`, with an index by species. Formes without their own sprite use their base species' sprite (e.g. Greninja-Bond). A missing sprite shows a type-colored monogram. Credits and a copyright notice are on `/credits`.
+- **Battle screen:** a stage with the foe's sprite top right and the player's Pokémon bottom left (the front sprite, mirrored), with info boxes. Switch-ins slide in, sprites flash when hit, and HP bars animate. All of this respects reduced motion. Move buttons show type effectiveness against the foe's known types (abilities aren't considered). Switch buttons have small sprites. The result screen reveals the AI's team with sprites.
+- **Log:** a "last turn" panel above the controls shows what just happened, revealed line by line. The full log is collapsed by default, its open/closed state is saved in settings, and lines are colored by side.
+- **Tested** at 390×844 in Chrome, in both light and dark mode: no horizontal scroll, and the moves fit above the fold after the switch-in. Text meets WCAG AA contrast in light mode. Type badges pick dark or white text per type, so every badge is at least 4.5:1 (Electric used to be 1.7:1).
 
 ### Phase 5: Stats, sharing, launch
 

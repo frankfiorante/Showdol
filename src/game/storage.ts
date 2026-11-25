@@ -46,7 +46,8 @@ export interface SaveData {
   games: Record<string, GameRecord>;
 }
 
-export const DEFAULT_SETTINGS: Settings = {animations: true, logExpanded: true, theme: 'system'};
+// The last turn is always shown above the controls, so the full log starts collapsed.
+export const DEFAULT_SETTINGS: Settings = {animations: true, logExpanded: false, theme: 'system'};
 
 export function emptySave(): SaveData {
   return {schemaVersion: SCHEMA_VERSION, settings: {...DEFAULT_SETTINGS}, games: {}};

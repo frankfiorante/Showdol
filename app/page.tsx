@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import {useCallback, useEffect, useState} from 'react';
 import type {PuzzleFile} from '@/engine/puzzle';
 import type {BattleView} from '@/engine/view';
@@ -7,6 +8,7 @@ import {dateKey, formatCountdown, msUntilMidnight, puzzleNumber} from '@/game/da
 import {expireAbandoned, homeState, type HomeState} from '@/game/lock';
 import {finishRecord, loadSave, writeSave, type GameRecord, type SaveData} from '@/game/storage';
 import {BattleScreen, ResultSummary} from '@/ui/BattleScreen';
+import {Sprite} from '@/ui/Sprite';
 import {randomSeed, useBattle} from '@/ui/useBattle';
 
 /** Updates every second so the countdown runs and midnight is noticed. */
@@ -150,6 +152,12 @@ export default function Home() {
           puzzleNumber={save.games[openDate]?.puzzleNumber ?? puzzleNumber(openDate)!}
           view={battle.view}
           log={battle.log}
+          latest={battle.latest}
+          logExpanded={save.settings.logExpanded}
+          onToggleLog={() => {
+            const latest = loadSave();
+            commit({...latest, settings: {...latest.settings, logExpanded: !save.settings.logExpanded}});
+          }}
           pending={battle.pending}
           notice={battle.notice}
           onChoose={battle.choose}
@@ -172,6 +180,9 @@ export default function Home() {
       <HomeCard home={home} puzzle={loadedPuzzle} puzzleError={puzzle instanceof Error ? puzzle.message : null}
         loading={!!openDate || battle.pending} countdown={countdown}
         onPlay={(p, d) => play(p, d)} onResume={(p, d, r) => resume(p, d, r)} />
+      <footer className="site-footer small muted">
+        <Link href="/credits">Credits</Link> · Fan project, not affiliated with Nintendo or The Pokémon Company.
+      </footer>
     </main>
   );
 }
@@ -218,7 +229,14 @@ function HomeCard({home, puzzle, puzzleError, loading, countdown, onPlay, onResu
         )}
         <h2 className="card-title">Your team</h2>
         {team ? (
-          <ol className="team-list">{team.map(s => <li key={s}>{s}</li>)}</ol>
+          <ol className="team-grid">
+            {team.map(s => (
+              <li key={s}>
+                <Sprite species={s} size={72} />
+                <span className="small">{s}</span>
+              </li>
+            ))}
+          </ol>
         ) : (
           <p className="muted">{puzzleError ?? 'Loading…'}</p>
         )}

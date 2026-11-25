@@ -257,6 +257,7 @@ export class BattleSession {
     }
     if (!('active' in req) || !req.active) return null;
     const active = req.active[0];
+    const foeTypes = this.foeSide().active?.types ?? [];
     const moves: MoveOption[] = active.moves.map((m, i) => {
       const move = Dex.moves.get(m.id);
       return {
@@ -270,6 +271,7 @@ export class BattleSession {
         pp: m.pp ?? 0,
         maxpp: m.maxpp ?? 0,
         disabled: !!m.disabled,
+        effectiveness: move.category === 'Status' || !foeTypes.length ? undefined : effectiveness(move.type, foeTypes),
       };
     });
     const trapped = !!active.trapped;
@@ -323,6 +325,12 @@ function abilityName(id: string) {
   if (plain.exists) return plain.name;
   const stripped = Dex.abilities.get(id.replace(/^ability/, ''));
   return stripped.exists ? stripped.name : undefined;
+}
+
+/** Type-chart multiplier only: what the player could work out from the types shown. */
+function effectiveness(moveType: string, types: string[]) {
+  if (!Dex.getImmunity(moveType, types)) return 0;
+  return 2 ** Dex.getEffectiveness(moveType, types);
 }
 
 function nonZero(boosts: Record<string, number>) {

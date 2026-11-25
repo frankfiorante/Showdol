@@ -4,7 +4,7 @@ A daily Pokémon battle. Each day, everyone gets the same Gen 9 Random Battle te
 
 See [PLAN.md](PLAN.md) for the full design and build phases.
 
-> **Status:** Phase 3 (AI). One game a day against a heuristic AI, with a daily lock, a countdown to local midnight, and resume on reload. The real UI with sprites comes in Phase 4.
+> **Status:** Phase 4 (real UI). One game a day against a heuristic AI on a mobile-first battle screen with sprites, with a daily lock, a countdown to local midnight, and resume on reload. Stats, sharing and launch come in Phase 5.
 
 ## Getting started
 
@@ -33,6 +33,7 @@ pnpm start        # serves out/
 | `pnpm session:check` | Plays battles through `BattleSession` with a random player, checking invariants and resuming each one from a random save point. Takes `--n 300` and `--print` |
 | `pnpm ai:check random\|mirror\|duel` | AI harness: AI vs random bot (both sides), AI vs AI on each day's matchup, or variant weights (`--weights '{"setup":60}'`) vs the defaults with paired seeds |
 | `pnpm ai:watch YYYY-MM-DD` | Prints a compact log of one AI-vs-AI battle on that day's matchup |
+| `pnpm sprites:fetch` | Downloads any missing sprites for species Gen 9 Random Battle can roll into `public/sprites/gen5/` and rewrites the index (`--dry-run` lists them) |
 | `pnpm daily:check` | Unit checks for dates, puzzle numbers, the save format and the daily lock (runs in a time zone with daylight saving time) |
 | `pnpm spike:bots` | Random bot vs random bot on a puzzle, in Node. Takes `--date`, `--n` and `--replay` |
 | `pnpm spike:size` | JS bundle sizes after a build: what loads up front and what loads on demand |
@@ -56,6 +57,7 @@ src/worker/          Web Worker entry points and message types
 src/ui/              React battle screen, worker hook, formatting helpers
 scripts/             Puzzle generation and curation, test and AI harnesses, bundle measurement
 public/puzzles/      Generated daily puzzle files
+public/sprites/gen5/ Self-hosted Pokémon sprites and their species index
 ```
 
 ## Dependencies and licensing
@@ -63,5 +65,7 @@ public/puzzles/      Generated daily puzzle files
 The simulator and battle libraries (`@pkmn/sim`, `@pkmn/randoms`, `@pkmn/client`, `@pkmn/protocol`, `@pkmn/view`, `@pkmn/data`) and `@smogon/calc` are MIT-licensed. The battle UI is written from scratch, with no code from Pokémon Showdown's AGPL-licensed client.
 
 `@pkmn/sim` and `@pkmn/randoms` are pinned to exact versions because upgrading them changes the teams generated from the same seed. Upgrade them only between batches of generated days.
+
+Sprites are the Gen 5-style sprites used by Pokémon Showdown, including the Smogon Sprite Project's sprites for later Pokémon, self-hosted with credit (see `/credits`). No sprite set licenses the images themselves, since the art belongs to Nintendo/Game Freak/The Pokémon Company.
 
 Showdol is a non-commercial fan project. Pokémon and its names are trademarks of Nintendo, Game Freak and The Pokémon Company.

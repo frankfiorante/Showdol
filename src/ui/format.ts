@@ -24,3 +24,26 @@ export function hpPercent(hp: number, maxhp: number) {
 export function hpColor(pct: number) {
   return pct > 50 ? 'var(--hp-high)' : pct > 20 ? 'var(--hp-mid)' : 'var(--hp-low)';
 }
+
+function luminance(hex: string) {
+  const [r, g, b] = [1, 3, 5].map(i => {
+    const v = parseInt(hex.slice(i, i + 2), 16) / 255;
+    return v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4;
+  });
+  return 0.2126 * r + 0.7152 * g + 0.0722 * b;
+}
+
+/** Background and readable text color for a type's badge (falls back to gray). */
+export function typeStyle(type: string) {
+  const background = TYPE_COLORS[type] ?? '#71717a';
+  const color = textOn(background);
+  return {background, color, textShadow: color === '#ffffff' ? undefined : 'none'};
+}
+
+/** Near-black or white, whichever reads better on `hex` (WCAG contrast). */
+export function textOn(hex: string) {
+  const l = luminance(hex);
+  const vsWhite = 1.05 / (l + 0.05);
+  const vsDark = (l + 0.05) / (luminance('#18181b') + 0.05);
+  return vsDark > vsWhite ? '#18181b' : '#ffffff';
+}

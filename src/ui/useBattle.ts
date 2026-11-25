@@ -8,6 +8,8 @@ import type {FromWorker, ToWorker} from '@/worker/protocol';
 export interface BattleState {
   view: BattleView | null;
   log: string[];
+  /** Lines added by the most recent step (what just happened). */
+  latest: string[];
   /** True while the worker is computing (starting, or resolving a choice). */
   pending: boolean;
   /** Last refused choice, shown briefly. */
@@ -23,7 +25,15 @@ export interface StartArgs {
   inputLog?: string[];
 }
 
-const IDLE: BattleState = {view: null, log: [], pending: false, notice: null, error: null};
+const IDLE: BattleState = {view: null, log: [], latest: [], pending: false, notice: null, error: null};
+
+const isTurnHeader = (line: string) => /^== Turn \d+ ==$/.test(line);
+
+/** The lines of the last completed turn (from the second-to-last turn header on). */
+function lastTurn(log: string[]): string[] {
+  const headers = log.flatMap((line, i) => (isTurnHeader(line) ? [i] : []));
+  return log.slice(headers.length >= 2 ? headers[headers.length - 2] : 0);
+}
 
 /** A fresh sim seed from the browser's CSPRNG. */
 export function randomSeed() {
@@ -53,7 +63,9 @@ export function useBattle(onStep: (view: BattleView, inputLog: string[]) => void
         setState(s => {
           switch (data.type) {
             case 'step':
-              return {...s, view: data.view, log: [...s.log, ...data.log], pending: false, notice: null};
+              // A resumed game's first step carries the whole log; show only its last turn.
+              const latest = s.log.length ? data.log : lastTurn(data.log);
+              return {...s, view: data.view, log: [...s.log, ...data.log], latest, pending: false, notice: null};
             case 'invalid':
               return {...s, view: data.view ?? s.view, pending: false, notice: data.message};
             case 'error':

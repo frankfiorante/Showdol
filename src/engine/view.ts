@@ -40,6 +40,11 @@ export interface MoveOption {
   pp: number;
   maxpp: number;
   disabled: boolean;
+  /**
+   * Type effectiveness against the foe's active Pokémon from its known types
+   * (0, 0.25, 0.5, 1, 2, 4). Abilities aren't considered. Absent for status moves.
+   */
+  effectiveness?: number;
 }
 
 export interface SwitchOption {
