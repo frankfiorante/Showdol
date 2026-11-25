@@ -88,6 +88,5 @@ export function runBattle(opts: BattleRunOptions): BattleRunResult {
   };
 }
 
-/** Random bot vs random bot (Phase 0 spike API). */
+/** Random bot vs random bot (used by scripts/bot-vs-bot.ts). */
 export const runBotBattle = (opts: Omit<BattleRunOptions, 'p1' | 'p2'>) => runBattle(opts);
-export type BotBattleResult = BattleRunResult;

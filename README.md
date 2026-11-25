@@ -52,16 +52,15 @@ The site is a static export: `pnpm build` writes everything to `out/`. Any stati
 
 1. Set `LAUNCH_DATE` in `src/game/daily.ts` to puzzle #1's date.
 2. Make sure `public/puzzles/` covers that date and the year after (`pnpm gen:puzzle --from <launch date> --days 365`). Existing days are kept, and new ones are curated.
-3. Optionally remove `app/spike/`, the Phase 0 timing page, which isn't linked anywhere.
 
 ## Project layout
 
 ```text
-app/                 Next.js pages: home + battle (/), /stats, /how-to-play, /credits, Phase 0 timing page (/spike)
+app/                 Next.js pages: home + battle (/), /stats, /how-to-play, /credits
 src/ai/              Heuristic AI and the sim-to-damage-calc bridge
 src/engine/          Battle session, battle runner, view types, random bot, puzzle types (runs in Node and the worker)
 src/game/            Dates and puzzle numbers, saved data, daily lock rules, stats, share text, export/import
-src/worker/          Web Worker entry points and message types
+src/worker/          The battle Web Worker and its message types
 src/ui/              React battle screen, worker hook, formatting helpers
 scripts/             Puzzle generation and curation, test and AI harnesses, bundle measurement
 public/puzzles/      Generated daily puzzle files
