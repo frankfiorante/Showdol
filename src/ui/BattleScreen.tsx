@@ -4,6 +4,8 @@ import {useEffect, useRef, useState, type ReactNode} from 'react';
 import type {BattleResult, BattleView, MoveOption, PokemonView, SideView} from '@/engine/view';
 import {STATUS_LABELS, TYPE_COLORS, boostLabel, hpColor, hpPercent, typeStyle} from './format';
 import {Sprite} from './Sprite';
+import {ShareButton} from './ShareButton';
+import {shareText} from '@/game/share';
 
 interface Props {
   puzzleNumber: number;
@@ -32,7 +34,7 @@ export function BattleScreen(props: Props) {
       <Stage view={view} />
       <LastTurn lines={latest} />
       {view.result ? (
-        <ResultPanel result={view.result} onDone={onDone} />
+        <ResultPanel result={view.result} puzzleNumber={puzzleNumber} onDone={onDone} />
       ) : (
         <Controls view={view} pending={pending} notice={notice} onChoose={onChoose} onForfeit={onForfeit} />
       )}
@@ -303,13 +305,17 @@ export function ResultSummary({won, turns, myFainted, aiRemaining, forfeited, ai
   );
 }
 
-function ResultPanel({result, onDone}: {result: BattleResult; onDone: () => void}) {
+function ResultPanel({result, puzzleNumber, onDone}: {result: BattleResult; puzzleNumber: number; onDone: () => void}) {
+  const text = shareText({...result, puzzleNumber, won: result.winner === 'player'}, window.location.host);
   const headline = result.winner === 'player' ? 'You won!' : result.winner === 'ai' ? 'You lost' : 'Tie';
   return (
     <section className="card result">
       <h2>{headline}</h2>
       <ResultSummary won={result.winner === 'player'} {...result} />
-      <button className="primary" onClick={onDone}>Done</button>
+      <div className="row result-actions">
+        <ShareButton text={text} />
+        <button onClick={onDone}>Done</button>
+      </div>
     </section>
   );
 }

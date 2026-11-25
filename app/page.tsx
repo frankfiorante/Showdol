@@ -1,6 +1,9 @@
 'use client';
 
 import Link from 'next/link';
+import {shareText} from '@/game/share';
+import {Footer, Nav} from '@/ui/Nav';
+import {ShareButton} from '@/ui/ShareButton';
 import {useCallback, useEffect, useState} from 'react';
 import type {PuzzleFile} from '@/engine/puzzle';
 import type {BattleView} from '@/engine/view';
@@ -119,13 +122,13 @@ export default function Home() {
   }
 
   if (!now || !save || !home) {
-    return <main><h1>Showdol</h1><p className="muted">Loading…</p></main>;
+    return <main><Nav /><p className="muted">Loading…</p></main>;
   }
 
   if (battle.error) {
     return (
       <main>
-        <h1>Showdol</h1>
+        <Nav />
         <section className="card">
           {battle.error.replayFailed ? (
             <>
@@ -173,22 +176,21 @@ export default function Home() {
 
   return (
     <main>
-      <h1>Showdol</h1>
+      <Nav />
       {!storageOk && (
         <p className="notice small">This browser isn&apos;t saving progress (private mode or storage blocked).</p>
       )}
       <HomeCard home={home} puzzle={loadedPuzzle} puzzleError={puzzle instanceof Error ? puzzle.message : null}
-        loading={!!openDate || battle.pending} countdown={countdown}
+        loading={!!openDate || battle.pending} countdown={countdown} firstTime={!Object.keys(save.games).length}
         onPlay={(p, d) => play(p, d)} onResume={(p, d, r) => resume(p, d, r)} />
-      <footer className="site-footer small muted">
-        <Link href="/credits">Credits</Link> · Fan project, not affiliated with Nintendo or The Pokémon Company.
-      </footer>
+      <Footer />
     </main>
   );
 }
 
-function HomeCard({home, puzzle, puzzleError, loading, countdown, onPlay, onResume}: {
+function HomeCard({home, puzzle, puzzleError, loading, countdown, firstTime, onPlay, onResume}: {
   home: HomeState;
+  firstTime: boolean;
   puzzle: PuzzleFile | null | undefined;
   puzzleError: string | null;
   loading: boolean;
@@ -209,7 +211,9 @@ function HomeCard({home, puzzle, puzzleError, loading, countdown, onPlay, onResu
         <section className="card result">
           <h2>{won ? 'You won!' : r.abandoned ? 'Not finished (loss)' : 'You lost'}</h2>
           <ResultSummary won={won} {...r} />
+          <ShareButton text={shareText({...r, won}, window.location.host)} />
           <p className="countdown">Next puzzle in <strong>{countdown}</strong></p>
+          <p className="small"><Link href="/stats">See your stats</Link></p>
         </section>
       </>
     );
@@ -253,6 +257,9 @@ function HomeCard({home, puzzle, puzzleError, loading, countdown, onPlay, onResu
           {loading ? 'Loading battle…' : home.kind === 'resume' ? `Resume (turn ${home.record.turns ?? 1})` : 'Play'}
         </button>
         {home.kind === 'play' && <p className="muted small">One game a day. Once you press Play, today counts.</p>}
+        {home.kind === 'play' && firstTime && (
+          <p className="small">New here? <Link href="/how-to-play">How to play</Link></p>
+        )}
       </section>
     </>
   );

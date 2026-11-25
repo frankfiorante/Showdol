@@ -4,7 +4,7 @@ A daily Pokémon battle. Each day, everyone gets the same Gen 9 Random Battle te
 
 See [PLAN.md](PLAN.md) for the full design and build phases.
 
-> **Status:** Phase 4 (real UI). One game a day against a heuristic AI on a mobile-first battle screen with sprites, with a daily lock, a countdown to local midnight, and resume on reload. Stats, sharing and launch come in Phase 5.
+> **Status:** Phase 5 (stats and sharing). Feature-complete for launch: one game a day against a heuristic AI on a mobile-first battle screen, with stats, share text, export/import and a How to play page. Still to do: pick the launch date and a domain, then deploy.
 
 ## Getting started
 
@@ -34,7 +34,7 @@ pnpm start        # serves out/
 | `pnpm ai:check random\|mirror\|duel` | AI harness: AI vs random bot (both sides), AI vs AI on each day's matchup, or variant weights (`--weights '{"setup":60}'`) vs the defaults with paired seeds |
 | `pnpm ai:watch YYYY-MM-DD` | Prints a compact log of one AI-vs-AI battle on that day's matchup |
 | `pnpm sprites:fetch` | Downloads any missing sprites for species Gen 9 Random Battle can roll into `public/sprites/gen5/` and rewrites the index (`--dry-run` lists them) |
-| `pnpm daily:check` | Unit checks for dates, puzzle numbers, the save format and the daily lock (runs in a time zone with daylight saving time) |
+| `pnpm daily:check` | Unit checks for dates, puzzle numbers, the save format, the daily lock, stats, share text and export/import (runs in a time zone with daylight saving time) |
 | `pnpm spike:bots` | Random bot vs random bot on a puzzle, in Node. Takes `--date`, `--n` and `--replay` |
 | `pnpm spike:size` | JS bundle sizes after a build: what loads up front and what loads on demand |
 
@@ -46,13 +46,21 @@ pnpm start        # serves out/
 - **The UI** (`src/ui/`) gets a plain, serializable `BattleView` (`src/engine/view.ts`) plus formatted log lines after each choice, and sends back choices like `move 2 terastallize` or `switch 4`.
 - **Daily lock and resume** (`src/game/`): everything is saved in localStorage under `showdol:v1`. Pressing Play saves the day's record with a fresh battle seed and AI seed, and every choice is appended to its input log. On reload, the worker replays the log on the same seed to restore the exact battle. The AI's past choices come from the log, and each new decision gets its own seed, so resuming never changes what the AI does.
 
+## Deploying
+
+The site is a static export: `pnpm build` writes everything to `out/`. Any static host works. On Vercel, import the repo and the Next.js preset builds and serves it with no extra config. Before launch:
+
+1. Set `LAUNCH_DATE` in `src/game/daily.ts` to puzzle #1's date.
+2. Make sure `public/puzzles/` covers that date and the year after (`pnpm gen:puzzle --from <launch date> --days 365`). Existing days are kept, and new ones are curated.
+3. Optionally remove `app/spike/`, the Phase 0 timing page, which isn't linked anywhere.
+
 ## Project layout
 
 ```text
-app/                 Next.js pages: home + battle (/), Phase 0 timing page (/spike)
+app/                 Next.js pages: home + battle (/), /stats, /how-to-play, /credits, Phase 0 timing page (/spike)
 src/ai/              Heuristic AI and the sim-to-damage-calc bridge
 src/engine/          Battle session, battle runner, view types, random bot, puzzle types (runs in Node and the worker)
-src/game/            Dates and puzzle numbers, saved data, daily lock rules
+src/game/            Dates and puzzle numbers, saved data, daily lock rules, stats, share text, export/import
 src/worker/          Web Worker entry points and message types
 src/ui/              React battle screen, worker hook, formatting helpers
 scripts/             Puzzle generation and curation, test and AI harnesses, bundle measurement

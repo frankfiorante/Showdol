@@ -1,13 +1,13 @@
 import type {Metadata} from 'next';
-import Link from 'next/link';
+import {Footer, Nav} from '@/ui/Nav';
 
 export const metadata: Metadata = {title: 'Credits · Showdol'};
 
 export default function Credits() {
   return (
     <main>
-      <p><Link href="/">← Back</Link></p>
-      <h1>Credits</h1>
+      <Nav />
+      <h1 className="page-title">Credits</h1>
 
       <section className="card">
         <h2 className="card-title">Pokémon</h2>
@@ -44,6 +44,7 @@ export default function Credits() {
           </li>
         </ul>
       </section>
+      <Footer />
     </main>
   );
 }

@@ -259,11 +259,18 @@ The build runs in six phases. Each ends with something playable, and the risky p
 
 ### Phase 5: Stats, sharing, launch
 
-- [ ] Stats screen with streaks and distribution
-- [ ] Share text with Web Share API and clipboard fallback
-- [ ] How to play screen
-- [ ] Export/import code
-- [ ] Domain, deploy, share with friends
+- [x] Stats screen with streaks and distribution
+- [x] Share text with Web Share API and clipboard fallback
+- [x] How to play screen
+- [x] Export/import code
+- [ ] Domain, deploy, share with friends (needs the launch date, a domain and a host account)
+
+**Phase 5 notes:**
+
+- **Stats** (`/stats`) are computed from the saved records. Unfinished games don't count. The current streak runs through yesterday until today's game is finished. Missed days break the streak but aren't losses. A win with every Pokémon fainted (both last Pokémon going down together) counts in the "1 left" row.
+- **Share** uses the PLAN format, with the site's own host as the last line. Touch devices get the share sheet; everyone else gets the clipboard with a "Copied" toast, and if the clipboard is blocked the text appears selected for copying by hand. Share buttons are on the battle result and the home screen's finished state.
+- **Export/import:** `SHOWDOL1-` plus deflate and base64url of the games. Finished games leave out their seeds and input logs, which only resume needs, so a full year comes to about 11k characters. Importing merges and never deletes: a finished game beats an unfinished one, and between two finished games the one that finished first is kept.
+- **How to play** (`/how-to-play`) explains the daily puzzle, your own luck, controls, forfeits, abandoned games and the share squares. First-time visitors get a link to it on the home screen.
 
 ### Later
 
