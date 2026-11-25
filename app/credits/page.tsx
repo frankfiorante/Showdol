@@ -43,6 +43,10 @@ export default function Credits() {
             Damage calculation: <a href="https://github.com/smogon/damage-calc" rel="noopener noreferrer">@smogon/calc</a> (MIT).
           </li>
         </ul>
+        <p className="small">
+          Built with Next.js and React (MIT). Full license texts for all open-source code in Showdol:{' '}
+          <a href="/third-party-licenses.txt">third-party licenses</a>.
+        </p>
       </section>
       <Footer />
     </main>

@@ -35,6 +35,7 @@ pnpm start        # serves out/
 | `pnpm ai:watch YYYY-MM-DD` | Prints a compact log of one AI-vs-AI battle on that day's matchup |
 | `pnpm sprites:fetch` | Downloads any missing sprites for species Gen 9 Random Battle can roll into `public/sprites/gen5/` and rewrites the index (`--dry-run` lists them) |
 | `pnpm hints:gen` | Rewrites `src/data/randbats-hints.json`: each species' possible abilities and Speed spread, for the opponent tooltip. Rerun after upgrading `@pkmn/randoms` |
+| `pnpm notices:gen` | Rewrites `public/third-party-licenses.txt`, the license notices for third-party code that ships to the browser (linked from `/credits`). Rerun after upgrading or adding a package the browser uses |
 | `pnpm daily:check` | Unit checks for dates, puzzle numbers, the save format, the daily lock, stats, share text and export/import (runs in a time zone with daylight saving time) |
 | `pnpm spike:bots` | Random bot vs random bot on a puzzle, in Node. Takes `--date`, `--n` and `--replay` |
 | `pnpm spike:size` | JS bundle sizes after a build: what loads up front and what loads on demand |
@@ -69,6 +70,8 @@ public/sprites/gen5/ Self-hosted Pokémon sprites and their species index
 ```
 
 ## Dependencies and licensing
+
+Showdol's own code is MIT-licensed (see [LICENSE](LICENSE)). The license doesn't cover the sprites or any Pokémon names, artwork or trademarks.
 
 The simulator and battle libraries (`@pkmn/sim`, `@pkmn/randoms`, `@pkmn/client`, `@pkmn/protocol`, `@pkmn/view`, `@pkmn/data`) and `@smogon/calc` are MIT-licensed. The battle UI is written from scratch, with no code from Pokémon Showdown's AGPL-licensed client.
 

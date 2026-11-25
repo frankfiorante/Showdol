@@ -2,6 +2,7 @@
   "name": "showdol",
   "version": "0.0.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "next dev",
@@ -16,7 +17,8 @@
     "ai:check": "tsx scripts/ai-check.ts",
     "ai:watch": "tsx scripts/watch-battle.ts",
     "sprites:fetch": "tsx scripts/fetch-sprites.ts",
-    "hints:gen": "tsx scripts/gen-hints.ts"
+    "hints:gen": "tsx scripts/gen-hints.ts",
+    "notices:gen": "tsx scripts/gen-notices.ts"
   },
   "dependencies": {
     "@pkmn/client": "0.7.4",
