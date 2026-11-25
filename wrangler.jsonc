@@ -4,6 +4,11 @@
 {
   "name": "showdol",
   "compatibility_date": "2026-11-25",
+  // Cloudflare creates the DNS records and certificates for these on deploy.
+  "routes": [
+    {"pattern": "showdol.com", "custom_domain": true},
+    {"pattern": "www.showdol.com", "custom_domain": true}
+  ],
   "assets": {
     "directory": "./out",
     // /credits serves credits.html, and unknown paths get Next's 404 page.
