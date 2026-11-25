@@ -20,5 +20,9 @@
     "Tropius"
   ],
   "player": "Brambleghast||Leftovers|WindRider|powerwhip,substitute,poltergeist,leechseed||85,85,85,85,85,85|F|||88|,,,,,Steel]Pawmot||LeppaBerry|VoltAbsorb|revivalblessing,closecombat,doubleshock,nuzzle||85,85,85,85,85,85|M|||80|,,,,,Electric]Duraludon||Eviolite|LightMetal|dracometeor,bodypress,stealthrock,flashcannon||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fighting]Luxray||FlameOrb|Guts|trailblaze,supercellslam,facade,throatchop||81,85,85,85,85,85|F|||88|,,,,,Normal]Feraligatr||LifeOrb|SheerForce|trailblaze,liquidation,dragondance,icepunch||85,85,85,85,85,85|M|||79|,,,,,Water]Tropius||SitrusBerry|Harvest|earthquake,dualwingbeat,dragondance,leafblade||85,85,85,85,85,85|F|||91|,,,,,Ground",
-  "ai": "Lilligant||LifeOrb|OwnTempo|alluringvoice,petaldance,sleeppowder,quiverdance||85,,85,85,85,85|F|,0,,,,||86|,,,,,Grass]Trevenant||LifeOrb|NaturalCure|rest,hornleech,drainpunch,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Fighting]Salamence||HeavyDutyBoots|Moxie|outrage,dragondance,dualwingbeat,roost||85,85,85,85,85,85|F|||77|,,,,,Steel]Toxtricity||ThroatSpray|PunkRock|gunkshot,boomburst,shiftgear,overdrive||85,85,85,85,85,85|M|||82|,,,,,Normal]Qwilfish||HeavyDutyBoots|Intimidate|thunderwave,gunkshot,painsplit,flipturn||85,85,85,85,85,85|M|||86|,,,,,Dark]Camerupt||Leftovers|SolidRock|overheat,willowisp,stealthrock,earthquake||85,85,85,85,85,85|M|||91|,,,,,Grass"
+  "ai": "Lilligant||LifeOrb|OwnTempo|alluringvoice,petaldance,sleeppowder,quiverdance||85,,85,85,85,85|F|,0,,,,||86|,,,,,Grass]Trevenant||LifeOrb|NaturalCure|rest,hornleech,drainpunch,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Fighting]Salamence||HeavyDutyBoots|Moxie|outrage,dragondance,dualwingbeat,roost||85,85,85,85,85,85|F|||77|,,,,,Steel]Toxtricity||ThroatSpray|PunkRock|gunkshot,boomburst,shiftgear,overdrive||85,85,85,85,85,85|M|||82|,,,,,Normal]Qwilfish||HeavyDutyBoots|Intimidate|thunderwave,gunkshot,painsplit,flipturn||85,85,85,85,85,85|M|||86|,,,,,Dark]Camerupt||Leftovers|SolidRock|overheat,willowisp,stealthrock,earthquake||85,85,85,85,85,85|M|||91|,,,,,Grass",
+  "curation": {
+    "battles": 100,
+    "playerWins": 67
+  }
 }

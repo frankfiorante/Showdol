@@ -3,22 +3,26 @@
  *
  *   pnpm gen:puzzle                       # today (local date)
  *   pnpm gen:puzzle --from 2026-12-01 --days 7
- *   pnpm gen:puzzle --check               # verify determinism, write nothing
+ *   pnpm gen:puzzle --check               # existing files still regenerate identically
  *
- * Existing files are never changed: a day's teams are fixed once generated.
- * If regenerating would produce different content (e.g. after upgrading the
- * sim), the script stops unless --force is given.
+ * Curation: each matchup is played --battles times AI vs AI (default 100).
+ * If the player's side wins outside --min..--max (default 0.2..0.8), the day
+ * is rerolled with new seeds, up to --rerolls times (default 8); if none fit,
+ * the most balanced attempt is kept. All seeds derive from the date, so the
+ * same code and package versions reproduce the same files.
  *
- * Seeds are derived from the date, so rerunning with the same pinned package
- * versions reproduces the same files byte for byte.
+ * Existing files are never changed (a published day is fixed) unless --force
+ * is given. Uses all CPU cores; --jobs K to limit.
  */
 import {createHash} from 'node:crypto';
 import {existsSync, mkdirSync, readFileSync, writeFileSync} from 'node:fs';
+import {availableParallelism} from 'node:os';
 import {dirname, join} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {Teams, type PRNGSeed} from '@pkmn/sim';
 import {TeamGenerators} from '@pkmn/randoms';
 import {FORMAT, type PuzzleFile} from '@/engine/puzzle';
+import {evaluateMatchup, myShard, shardMap} from './lib/matchup';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const outDir = join(root, 'public', 'puzzles');
@@ -48,6 +52,32 @@ export function generatePuzzle(date: string, reroll = 0): PuzzleFile {
   };
 }
 
+export interface Curated {
+  puzzle: PuzzleFile;
+  attempts: {reroll: number; rate: number}[];
+  balanced: boolean;
+}
+
+/** Generates a date's puzzle, rerolling until AI vs AI is reasonably balanced. */
+export function curatePuzzle(date: string, opts: {battles: number; min: number; max: number; rerolls: number}): Curated {
+  const attempts: Curated['attempts'] = [];
+  let best: PuzzleFile | null = null;
+  let bestDistance = Infinity;
+  for (let reroll = 0; reroll <= opts.rerolls; reroll++) {
+    const puzzle = generatePuzzle(date, reroll);
+    const stats = evaluateMatchup(puzzle.player, puzzle.ai, opts.battles, `curate:${date}:${reroll}`);
+    const rate = stats.p1Wins / stats.battles;
+    attempts.push({reroll, rate});
+    const curated = {...puzzle, curation: {battles: stats.battles, playerWins: stats.p1Wins}};
+    if (rate >= opts.min && rate <= opts.max) return {puzzle: curated, attempts, balanced: true};
+    if (Math.abs(rate - 0.5) < bestDistance) {
+      best = curated;
+      bestDistance = Math.abs(rate - 0.5);
+    }
+  }
+  return {puzzle: best!, attempts, balanced: false};
+}
+
 function localDateKey(d = new Date()) {
   const p = (n: number) => String(n).padStart(2, '0');
   return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}`;
@@ -66,37 +96,59 @@ function arg(name: string) {
 
 const from = arg('from') ?? localDateKey();
 const days = Number(arg('days') ?? 1);
-const dates = Array.from({length: days}, (_, i) => addDays(from, i));
+const dates = arg('dates')?.split(',') ?? Array.from({length: days}, (_, i) => addDays(from, i));
+const fileFor = (date: string) => join(outDir, `${date}.json`);
+const force = process.argv.includes('--force');
+const opts = {
+  battles: Number(arg('battles') ?? 100),
+  min: Number(arg('min') ?? 0.2),
+  max: Number(arg('max') ?? 0.8),
+  rerolls: Number(arg('rerolls') ?? 8),
+};
+const shard = myShard();
+interface Row { date: string; attempts: Curated['attempts']; balanced: boolean; player: string; ai: string }
 
 if (process.argv.includes('--check')) {
-  // Same seed twice in one process must match, and must not depend on order.
-  const a = dates.map(d => JSON.stringify(generatePuzzle(d)));
-  const b = [...dates].reverse().map(d => JSON.stringify(generatePuzzle(d))).reverse();
-  const mismatched = dates.filter((_, i) => a[i] !== b[i]);
-  const digest = createHash('sha256').update(a.join('\n')).digest('hex').slice(0, 16);
-  console.log(`${dates.length} dates, ${mismatched.length} mismatches, digest ${digest}`);
-  if (mismatched.length) process.exit(1);
+  // Existing files must still regenerate to the same teams (catches package upgrades).
+  let checked = 0;
+  const changed: string[] = [];
+  for (const date of dates) {
+    if (!existsSync(fileFor(date))) continue;
+    const saved: PuzzleFile = JSON.parse(readFileSync(fileFor(date), 'utf8'));
+    const again = generatePuzzle(date, saved.reroll);
+    if (again.player !== saved.player || again.ai !== saved.ai) changed.push(date);
+    checked++;
+  }
+  console.log(`${checked} files checked, ${changed.length} would change${changed.length ? `: ${changed.join(', ')}` : ''}`);
+  if (changed.length) process.exit(1);
+} else if (shard) {
+  // Child process: curate this shard's dates and write their files.
+  const todo = dates.filter((_, i) => i % shard.k === shard.i);
+  for (const date of todo) {
+    const {puzzle, attempts, balanced} = curatePuzzle(date, opts);
+    writeFileSync(fileFor(date), JSON.stringify(puzzle, null, 2) + '\n');
+    const names = (packed: string) => Teams.unpack(packed)!.map(s => s.species).join(', ');
+    console.log(JSON.stringify({date, attempts, balanced, player: names(puzzle.player), ai: names(puzzle.ai)} satisfies Row));
+  }
 } else {
   mkdirSync(outDir, {recursive: true});
-  const force = process.argv.includes('--force');
-  let kept = 0;
-  for (const date of dates) {
-    const puzzle = generatePuzzle(date);
-    const file = join(outDir, `${date}.json`);
-    const content = JSON.stringify(puzzle, null, 2) + '\n';
-    if (existsSync(file)) {
-      if (readFileSync(file, 'utf8') === content) {
-        kept++;
-        continue;
-      }
-      if (!force) {
-        console.error(`${date}.json exists with different content; refusing to change a published day (use --force).`);
-        process.exit(1);
-      }
+  const todo = dates.filter(d => force || !existsSync(fileFor(d)));
+  const kept = dates.length - todo.length;
+  if (todo.length) {
+    const jobs = Math.min(todo.length, Number(arg('jobs') ?? Math.max(1, availableParallelism() - 1)));
+    const t0 = performance.now();
+    const args = ['--from', todo[0], '--days', '0', ...process.argv.slice(2)];
+    // Children get the exact date list via --dates so gaps (kept files) are skipped.
+    const rows = (await shardMap<Row>(fileURLToPath(import.meta.url), [...args, '--dates', todo.join(',')], jobs))
+      .sort((a, b) => a.date.localeCompare(b.date));
+    for (const r of rows) {
+      const tries = r.attempts.map(a => `${Math.round(a.rate * 100)}%`).join(' → ');
+      console.log(`${r.date}  player wins ${tries}${r.balanced ? '' : '  (kept most balanced)'}`);
+      if (rows.length <= 7) console.log(`  player: ${r.player}\n  ai:     ${r.ai}`);
     }
-    writeFileSync(file, content);
-    const names = (packed: string) => Teams.unpack(packed)!.map(s => s.species).join(', ');
-    console.log(`${date}\n  player: ${names(puzzle.player)}\n  ai:     ${names(puzzle.ai)}`);
+    const rerolled = rows.filter(r => r.attempts.length > 1).length;
+    const unbalanced = rows.filter(r => !r.balanced).length;
+    console.log(`${rows.length} generated (${rerolled} rerolled, ${unbalanced} never balanced) in ${((performance.now() - t0) / 1000).toFixed(0)}s with ${jobs} jobs`);
   }
-  if (kept) console.log(`${kept} existing file(s) unchanged.`);
+  if (kept) console.log(`${kept} existing file(s) kept (use --force to regenerate).`);
 }

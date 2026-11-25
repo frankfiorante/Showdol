@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,25ebf27bba308fde1cf0cd37dadebbb415cb955829b6451cd4efae465679dfbb",
-    "ai": "sodium,cb1b75e469dea6fa1b9f04cd2603c10f0f17a8272949087c5809f63421e4145c"
+    "player": "sodium,843dccaf19b61e8f63316b526a6368ff7a372d7df46dcebe94082685617cea8a",
+    "ai": "sodium,e8f9268648b23c6465c5b81a1ff34bb833125bd7d0f7168a268c2dcea6e97e40"
   },
   "playerSpecies": [
-    "Magmortar",
-    "Flygon",
-    "Volcarona",
-    "Mew",
-    "Mismagius",
-    "Zarude-Dada"
+    "Raichu-Alola",
+    "Alcremie-Ruby-Cream",
+    "Morpeko",
+    "Goodra-Hisui",
+    "Cetitan",
+    "Chimecho"
   ],
-  "player": "Magmortar||HeavyDutyBoots|FlameBody|focusblast,knockoff,earthquake,fireblast||85,85,85,85,85,85|F|||88|,,,,,Water]Flygon||ChoiceScarf|Levitate|uturn,stoneedge,earthquake,outrage||85,85,85,85,85,85|F|||82|,,,,,Steel]Volcarona||HeavyDutyBoots|FlameBody|quiverdance,terablast,gigadrain,fierydance||85,,85,85,85,85|F|,0,,,,||77|,,,,,Ground]Mew||LifeOrb|Synchronize|leechlife,psychicfangs,closecombat,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Fighting]Mismagius||ChoiceSpecs|Levitate|energyball,thunderbolt,shadowball,trick||85,,85,85,85,85|F|,0,,,,||86|,,,,,Electric]Zarude|ZarudeDada|Leftovers|LeafGuard|knockoff,swordsdance,powerwhip,synthesis||85,85,85,85,85,85|N|||77|,,,,,Dark",
-  "ai": "Primarina||Leftovers|LiquidVoice|moonblast,calmmind,drainingkiss,psychicnoise||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fairy]Pikachu|PikachuHoenn|LightBall|LightningRod|volttackle,voltswitch,knockoff,surf||85,85,85,85,85,85|M|||93|,,,,,Water]Annihilape||ChestoBerry|Defiant|drainpunch,ragefist,rest,bulkup||85,85,85,85,85,85|F|||76|,,,,,Fairy]Empoleon||Leftovers|Competitive|flipturn,roost,stealthrock,surf||85,85,85,85,85,85|M|||84|,,,,,Flying]Regigigas||Leftovers|SlowStart|substitute,protect,bodyslam,knockoff||85,85,85,85,85,85|N|||84|,,,,,Poison]Chansey||Eviolite|NaturalCure|softboiled,seismictoss,healbell,thunderwave||85,,85,85,85,85|F|,0,,,,||85|,,,,,Dark"
+  "player": "Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|thunderbolt,alluringvoice,psychic,surf||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fairy]Alcremie|AlcremieRubyCream|Leftovers|AromaVeil|recover,calmmind,alluringvoice,terablast||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground]Morpeko||Leftovers|HungerSwitch|aurawheel,rapidspin,knockoff,protect||85,85,85,85,85,85|M|||88|,,,,,Electric]Goodra|GoodraHisui|AssaultVest|SapSipper|earthquake,knockoff,dracometeor,heavyslam||85,85,85,85,85,85|F|||82|,,,,,Dragon]Cetitan||SitrusBerry|ThickFat|bellydrum,icespinner,iceshard,earthquake||81,85,85,85,85,85|M|||82|,,,,,Ice]Chimecho||Leftovers|Levitate|recover,dazzlinggleam,psychicnoise,calmmind||85,,85,85,85,85|F|,0,,,,||93|,,,,,Steel",
+  "ai": "Primarina||Leftovers|LiquidVoice|calmmind,psychicnoise,drainingkiss,moonblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Blastoise||WhiteHerb|Torrent|icebeam,hydropump,shellsmash,earthquake||85,85,85,85,85,85|F|||80|,,,,,Steel]Porygon2||Eviolite|Download|shadowball,terablast,recover,thunderwave||85,85,85,85,85,85|N|||81|,,,,,Fairy]Registeel||Leftovers|ClearBody|ironhead,irondefense,thunderwave,bodypress||85,85,85,85,85,85|N|||81|,,,,,Fighting]Charizard||HeavyDutyBoots|Blaze|earthquake,hurricane,flamethrower,willowisp||85,85,85,85,85,85|F|||85|,,,,,Dragon]Piloswine||Eviolite|ThickFat|earthquake,iciclecrash,iceshard,stealthrock||85,85,85,85,85,85|F|||85|,,,,,Poison",
+  "curation": {
+    "battles": 100,
+    "playerWins": 53
+  }
 }

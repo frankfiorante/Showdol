@@ -20,5 +20,9 @@
     "Okidogi"
   ],
   "player": "Miraidon||LifeOrb|HadronEngine|calmmind,dragonpulse,dracometeor,electrodrift||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Amoonguss||Leftovers|Regenerator|spore,sludgebomb,gigadrain,toxic||85,,85,85,85,85|F|,0,,,,||82|,,,,,Steel]Smeargle||WideLens|Technician|powertrip,populationbomb,shellsmash,spore||85,85,85,85,85,85|F|||95|,,,,,Ghost]Camerupt||Leftovers|SolidRock|willowisp,overheat,stealthrock,earthquake||85,85,85,85,85,85|F|||91|,,,,,Water]Ogerpon|OgerponHearthflame|HearthflameMask|MoldBreaker|swordsdance,hornleech,ivycudgel,trailblaze||77,85,85,85,85,85|F|||74|,,,,,Fire]Okidogi||AssaultVest|ToxicChain|knockoff,gunkshot,psychicfangs,drainpunch||85,85,85,85,85,85|M|||77|,,,,,Dark",
-  "ai": "Oinkologne||Leftovers|ThickFat|highhorsepower,lashout,curse,bodyslam||85,85,85,85,85,85|M|||92|,,,,,Ground]Carbink||Leftovers|ClearBody|rockpolish,irondefense,moonblast,bodypress||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Chansey||Eviolite|NaturalCure|softboiled,stealthrock,thunderwave,seismictoss||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ghost]Excadrill||AssaultVest|MoldBreaker|rapidspin,ironhead,rockslide,earthquake||85,85,85,85,85,85|F|||79|,,,,,Water]Tinkaton||Leftovers|MoldBreaker|knockoff,gigatonhammer,thunderwave,playrough||85,85,85,85,85,85|F|||82|,,,,,Water]Malamar||ChestoBerry|Contrary|knockoff,superpower,psychocut,rest||85,85,85,85,85,85|M|||82|,,,,,Steel"
+  "ai": "Oinkologne||Leftovers|ThickFat|highhorsepower,lashout,curse,bodyslam||85,85,85,85,85,85|M|||92|,,,,,Ground]Carbink||Leftovers|ClearBody|rockpolish,irondefense,moonblast,bodypress||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Chansey||Eviolite|NaturalCure|softboiled,stealthrock,thunderwave,seismictoss||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ghost]Excadrill||AssaultVest|MoldBreaker|rapidspin,ironhead,rockslide,earthquake||85,85,85,85,85,85|F|||79|,,,,,Water]Tinkaton||Leftovers|MoldBreaker|knockoff,gigatonhammer,thunderwave,playrough||85,85,85,85,85,85|F|||82|,,,,,Water]Malamar||ChestoBerry|Contrary|knockoff,superpower,psychocut,rest||85,85,85,85,85,85|M|||82|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 55
+  }
 }

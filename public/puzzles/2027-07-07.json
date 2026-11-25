@@ -20,5 +20,9 @@
     "Magearna-Original"
   ],
   "player": "Persian||SilkScarf|Technician|doubleedge,uturn,fakeout,knockoff||85,85,85,85,85,85|F|||92|,,,,,Normal]Rhyperior||WeaknessPolicy|SolidRock|earthquake,stoneedge,rockpolish,megahorn||85,85,85,85,85,85|M|||82|,,,,,Bug]Dudunsparce||Leftovers|Rattled|roost,earthquake,toxic,boomburst||85,85,85,85,85,85|M|||83|,,,,,Ghost]Tatsugiri||HeavyDutyBoots|StormDrain|nastyplot,hydropump,dracometeor,rapidspin||85,85,85,85,85,85|F|||87|,,,,,Water]Arceus|ArceusFlying|SkyPlate|Multitype|judgment,recover,earthpower,calmmind||81,,85,85,85,85|N|,0,,,,||69|,,,,,Ground]Magearna|MagearnaOriginal|Leftovers|SoulHeart|thunderwave,voltswitch,flashcannon,fleurcannon||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fairy",
-  "ai": "Gholdengo||Leftovers|GoodasGold|nastyplot,shadowball,makeitrain,recover||85,,85,85,85,85|N|,0,,,,||77|,,,,,Steel]Muk||ChoiceBand|PoisonTouch|gunkshot,shadowsneak,knockoff,drainpunch||85,85,85,85,85,85|F|||86|,,,,,Dark]Lycanroc|LycanrocMidnight|ChoiceScarf|NoGuard|playrough,knockoff,stoneedge,closecombat||85,85,85,85,85,85|F|||88|,,,,,Fighting]Luvdisc||HeavyDutyBoots|SwiftSwim|endeavor,flipturn,surf,substitute||81,85,85,85,85,85|M||||,,,,,Ghost]Shaymin||Leftovers|NaturalCure|synthesis,seedflare,airslash,earthpower||85,,85,85,85,85|N|,0,,,,||82|,,,,,Ground]Mimikyu||LifeOrb|Disguise|drainpunch,swordsdance,shadowsneak,playrough||85,85,85,85,85,85|F|||79|,,,,,Fairy"
+  "ai": "Gholdengo||Leftovers|GoodasGold|nastyplot,shadowball,makeitrain,recover||85,,85,85,85,85|N|,0,,,,||77|,,,,,Steel]Muk||ChoiceBand|PoisonTouch|gunkshot,shadowsneak,knockoff,drainpunch||85,85,85,85,85,85|F|||86|,,,,,Dark]Lycanroc|LycanrocMidnight|ChoiceScarf|NoGuard|playrough,knockoff,stoneedge,closecombat||85,85,85,85,85,85|F|||88|,,,,,Fighting]Luvdisc||HeavyDutyBoots|SwiftSwim|endeavor,flipturn,surf,substitute||81,85,85,85,85,85|M||||,,,,,Ghost]Shaymin||Leftovers|NaturalCure|synthesis,seedflare,airslash,earthpower||85,,85,85,85,85|N|,0,,,,||82|,,,,,Ground]Mimikyu||LifeOrb|Disguise|drainpunch,swordsdance,shadowsneak,playrough||85,85,85,85,85,85|F|||79|,,,,,Fairy",
+  "curation": {
+    "battles": 100,
+    "playerWins": 66
+  }
 }

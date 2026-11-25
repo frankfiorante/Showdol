@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,cf23b4f613340a6ab41d024a40d40837f292a2d8c3bbdaa79cf1533fab850494",
-    "ai": "sodium,bab2541631ac48718ab12f431020709c62c8ce2c08026562ea8d9f5336fdf1d3"
+    "player": "sodium,7051c80b4602e34c0e92ce9be5ff2745bc3a23f387af1bbd8e49b1faf4fd3d26",
+    "ai": "sodium,5def3930ae7579cf1d7d8db3b019a0a11322029371a8403b0db1f3a710c1cd4b"
   },
   "playerSpecies": [
-    "Mimikyu",
-    "Cacturne",
-    "Regidrago",
-    "Spidops",
-    "Medicham",
-    "Orthworm"
+    "Weavile",
+    "Drednaw",
+    "Coalossal",
+    "Dragonite",
+    "Gengar",
+    "Uxie"
   ],
-  "player": "Mimikyu||LifeOrb|Disguise|shadowsneak,drainpunch,swordsdance,playrough||85,85,85,85,85,85|F|||79|,,,,,Fairy]Cacturne||LifeOrb|WaterAbsorb|knockoff,leafstorm,spikes,suckerpunch||85,85,85,85,85,85|M|||92|,,,,,Poison]Regidrago||LumBerry|DragonsMaw|outrage,dracometeor,dragondance,earthquake||85,85,85,85,85,85|N|||77|,,,,,Dragon]Spidops||HeavyDutyBoots|Stakeout|uturn,circlethrow,knockoff,stickyweb||85,85,85,85,85,85|F|||96|,,,,,Ghost]Medicham||ChoiceBand|PurePower|bulletpunch,zenheadbutt,trick,closecombat||85,85,85,85,85,85|F|||86|,,,,,Fighting]Orthworm||Leftovers|EarthEater|heavyslam,bodypress,stealthrock,shedtail||85,85,85,85,85,85|F|||88|,,,,,Electric",
-  "ai": "Clefable||LifeOrb|MagicGuard|calmmind,fireblast,moonblast,moonlight||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire]Araquanid||HeavyDutyBoots|WaterBubble|stickyweb,hydropump,leechlife,liquidation||85,85,85,85,85,85|M|||82|,,,,,Ground]Corviknight||RockyHelmet|Pressure|roost,bodypress,bravebird,defog||85,85,85,85,85,85|F|||80|,,,,,Dragon]Camerupt||Leftovers|SolidRock|stealthrock,willowisp,earthquake,overheat||85,85,85,85,85,85|F|||91|,,,,,Grass]Jolteon||Leftovers|VoltAbsorb|thunderbolt,substitute,terablast,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice]Kyurem|KyuremWhite|ChoiceSpecs|Turboblaze|freezedry,icebeam,dracometeor,earthpower||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ice"
+  "player": "Weavile||HeavyDutyBoots|Pickpocket|tripleaxel,knockoff,swordsdance,lowkick||85,85,85,85,85,85|M|||79|,,,,,Fighting]Drednaw||WhiteHerb|StrongJaw|crunch,liquidation,shellsmash,stoneedge||85,85,85,85,85,85|F|||81|,,,,,Dark]Coalossal||HeavyDutyBoots|FlameBody|stoneedge,overheat,willowisp,rapidspin||85,85,85,85,85,85|F|||89|,,,,,Grass]Dragonite||HeavyDutyBoots|Multiscale|earthquake,dragondance,ironhead,outrage||85,85,85,85,85,85|F|||74|,,,,,Steel]Gengar||ChoiceSpecs|CursedBody|sludgewave,trick,shadowball,focusblast||85,,85,85,85,85|M|,0,,,,||81|,,,,,Dark]Uxie||Leftovers|Levitate|thunderwave,psychicnoise,knockoff,stealthrock||85,85,85,85,85,85|N|||83|,,,,,Electric",
+  "ai": "Clodsire||Leftovers|WaterAbsorb|spikes,earthquake,recover,gunkshot||85,85,85,85,85,85|M|||81|,,,,,Flying]Mandibuzz||HeavyDutyBoots|Overcoat|defog,roost,foulplay,toxic||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Arbok||LifeOrb|Intimidate|toxicspikes,suckerpunch,earthquake,gunkshot||85,85,85,85,85,85|F|||87|,,,,,Ground]Meowscarada||ChoiceBand|Protean|tripleaxel,flowertrick,uturn,knockoff||85,85,85,85,85,85|F|||78|,,,,,Grass]Piloswine||Eviolite|ThickFat|iciclecrash,stealthrock,roar,earthquake||85,85,85,85,85,85|M|||85|,,,,,Dragon]Perrserker||ChoiceBand|ToughClaws|ironhead,uturn,knockoff,closecombat||85,85,85,85,85,85|M|||89|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 27
+  }
 }

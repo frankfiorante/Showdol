@@ -231,10 +231,18 @@ The build runs in six phases. Each ends with something playable, and the risky p
 
 ### Phase 3: AI
 
-- [ ] Heuristic scoring: damage, speed, switching, utility, Tera
-- [ ] Offline harness: AI vs random bot, AI vs AI
-- [ ] Lopsided-day filter in the build script
-- [ ] Playtest and tune weights
+- [x] Heuristic scoring: damage, speed, switching, utility, Tera
+- [x] Offline harness: AI vs random bot, AI vs AI
+- [x] Lopsided-day filter in the build script
+- [ ] Playtest and tune weights (offline tuning done; human playtests still to do)
+
+**Phase 3 notes:**
+
+- **The AI** (`src/ai/heuristic.ts`) scores every option with `@smogon/calc`, using the calc's data-free build backed by the sim's own data. It covers expected damage, KO chance, who moves first, recoil, status and setup value, hazards, recovery, and switching. Moves that only work in some situations are discounted: Sucker Punch, Fake Out after the first turn, charge moves. Tera follows the one rule: only when it flips a knockout either way. It takes the runner-up 10% of the time when that option scores within 80% of the best.
+- **Results:** the AI beats a random-move bot about 98–99% of the time from either side. Decisions take a median of 3 ms (p95 12 ms) in Node. Evaluating options never touches the battle's state: `session:check`, now against the heuristic AI, still resumes identically.
+- **Tuning** uses `pnpm ai:check duel`, which plays the AI with variant weights against the defaults, both sides of each matchup with matching seeds. The first version switched back and forth every turn. Limiting switches to when the active Pokémon is under pressure fixed that. The best mix found (looser switching plus higher setup value) beat the first tuned version 54%. Against another AI, aggressive switching actually wins slightly more, but it's predictable against people, so the gate stays.
+- **Curation:** `gen:puzzle` plays each matchup 100 times AI vs AI and rerolls the day (up to 8 times) if the player's team wins less than 20% or more than 80%. The result is stored in each file as `curation`.
+- **Still to tune with people:** the thresholds and weights are tuned for AI-vs-AI. Real players may find the AI too easy or too hard, which is what the playtest item is for.
 
 ### Phase 4: Real UI
 

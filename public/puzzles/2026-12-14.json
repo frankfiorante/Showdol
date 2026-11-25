@@ -20,5 +20,9 @@
     "Sinistcha"
   ],
   "player": "Farigiraf||Leftovers|SapSipper|wish,psychicnoise,bodyslam,protect||85,85,85,85,85,85|F|||89|,,,,,Ground]Kricketune||HeavyDutyBoots|Technician|pounce,taunt,stickyweb,knockoff||85,85,85,85,85,85|M|||99|,,,,,Ghost]Palkia|PalkiaOrigin|LustrousGlobe|Pressure|thunderwave,spacialrend,hydropump,fireblast||85,,85,85,85,85|N|,0,,,,||72|,,,,,Dragon]Gurdurr||Eviolite|Guts|bulkup,machpunch,drainpunch,knockoff||85,85,85,85,85,85|M|||85|,,,,,Steel]Banette||LifeOrb|CursedBody|gunkshot,shadowsneak,swordsdance,poltergeist||85,85,85,85,85,85|F|||93|,,,,,Poison]Sinistcha||Leftovers|Heatproof|strengthsap,shadowball,calmmind,matchagotcha||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel",
-  "ai": "Vileplume||Leftovers|EffectSpore|leechseed,sludgebomb,gigadrain,strengthsap||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Iron Moth||HeavyDutyBoots|QuarkDrive|energyball,toxicspikes,sludgewave,fireblast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Gholdengo||ChoiceScarf|GoodasGold|focusblast,shadowball,makeitrain,trick||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fighting]Espeon||LifeOrb|MagicBounce|shadowball,alluringvoice,morningsun,psychic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Staraptor||ChoiceBand|Reckless|uturn,bravebird,closecombat,quickattack||81,85,85,85,85,85|F|||79|,,,,,Flying]Sandaconda||Leftovers|ShedSkin|glare,stoneedge,coil,earthquake||85,85,85,85,85,85|M|||84|,,,,,Dragon"
+  "ai": "Vileplume||Leftovers|EffectSpore|leechseed,sludgebomb,gigadrain,strengthsap||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Iron Moth||HeavyDutyBoots|QuarkDrive|energyball,toxicspikes,sludgewave,fireblast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Gholdengo||ChoiceScarf|GoodasGold|focusblast,shadowball,makeitrain,trick||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fighting]Espeon||LifeOrb|MagicBounce|shadowball,alluringvoice,morningsun,psychic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Staraptor||ChoiceBand|Reckless|uturn,bravebird,closecombat,quickattack||81,85,85,85,85,85|F|||79|,,,,,Flying]Sandaconda||Leftovers|ShedSkin|glare,stoneedge,coil,earthquake||85,85,85,85,85,85|M|||84|,,,,,Dragon",
+  "curation": {
+    "battles": 100,
+    "playerWins": 56
+  }
 }

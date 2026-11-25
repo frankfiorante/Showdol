@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,7bc1533a2011ca9daf2d875920757d0de01261aab0c1fc10fdbf0a28a46560ed",
-    "ai": "sodium,d74b22e13ffd4da4d1e86ffc7c2868daefa48cf4badd08d6390ca4a29e73942d"
+    "player": "sodium,cbf48e71a4ce5d6d4f792d0d9deac8cd0a0f2b409915dfaf92701fe3270ff5f1",
+    "ai": "sodium,4fa9ff8f0771c6de74029d485176f3a04af64fb5291369d6ba322ff0ff569fe4"
   },
   "playerSpecies": [
-    "Lilligant-Hisui",
-    "Excadrill",
-    "Galvantula",
-    "Heatran",
-    "Rayquaza",
-    "Cyclizar"
+    "Necrozma-Dawn-Wings",
+    "Bellibolt",
+    "Pawmot",
+    "Magmortar",
+    "Roaring Moon",
+    "Rillaboom"
   ],
-  "player": "Lilligant|LilligantHisui|LifeOrb|Hustle|leafblade,icespinner,victorydance,closecombat||85,85,85,85,85,85|F|||79|,,,,,Steel]Excadrill||Leftovers|MoldBreaker|ironhead,swordsdance,rapidspin,earthquake||85,85,85,85,85,85|F|||79|,,,,,Ground]Galvantula||HeavyDutyBoots|CompoundEyes|bugbuzz,stickyweb,thunder,energyball||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric]Heatran||AirBalloon|FlashFire|lavaplume,heavyslam,earthpower,stealthrock||85,85,85,85,85,85|M|||79|,,,,,Flying]Rayquaza||HeavyDutyBoots|AirLock|earthquake,dragondance,outrage,dragonascent||85,85,85,85,85,85|N|||72|,,,,,Flying]Cyclizar||HeavyDutyBoots|Regenerator|shedtail,knockoff,dracometeor,taunt||85,85,85,85,85,85|M|||84|,,,,,Fairy",
-  "ai": "Ting-Lu||Leftovers|VesselofRuin|throatchop,spikes,stealthrock,earthquake||85,85,85,85,85,85|N|||78|,,,,,Ghost]Shiftry||HeavyDutyBoots|WindRider|defog,suckerpunch,knockoff,leafstorm||85,85,85,85,85,85|M|||89|,,,,,Dark]Registeel||Leftovers|ClearBody|thunderwave,bodypress,ironhead,irondefense||85,85,85,85,85,85|N|||81|,,,,,Fighting]Kingdra||LumBerry|Sniper|wavecrash,dragondance,waterfall,outrage||85,85,85,85,85,85|F|||84|,,,,,Water]Diancie||Leftovers|ClearBody|bodypress,moonblast,diamondstorm,rockpolish||85,85,85,85,85,85|N|||82|,,,,,Fighting]Dusknoir||ChoiceBand|Frisk|earthquake,trick,shadowsneak,poltergeist||85,85,85,85,85,85|M|||89|,,,,,Ground"
+  "player": "Necrozma|NecrozmaDawnWings|Leftovers|PrismArmor|calmmind,moonlight,photongeyser,moongeistbeam||85,,85,85,85,85|N|,0,,,,||76|,,,,,Fairy]Bellibolt||Leftovers|Electromorphosis|voltswitch,muddywater,thunderbolt,slackoff||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Pawmot||LeppaBerry|VoltAbsorb|nuzzle,doubleshock,revivalblessing,closecombat||85,85,85,85,85,85|M|||80|,,,,,Electric]Magmortar||HeavyDutyBoots|FlameBody|focusblast,fireblast,knockoff,earthquake||85,85,85,85,85,85|M|||88|,,,,,Fighting]Roaring Moon||ChoiceBand|Protosynthesis|ironhead,outrage,knockoff,uturn||85,85,85,85,85,85|N|||72|,,,,,Dragon]Rillaboom||LifeOrb|GrassySurge|highhorsepower,woodhammer,grassyglide,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Grass",
+  "ai": "Enamorus|EnamorusTherian|AssaultVest|Overcoat|earthpower,superpower,moonblast,psychic||85,85,85,85,85,85|F|||83|,,,,,Ground]Koraidon||LoadedDice|OrichalcumPulse|flareblitz,collisioncourse,swordsdance,scaleshot||85,85,85,85,85,85|N|||64|,,,,,Fire]Skarmory||RockyHelmet|Sturdy|bravebird,roost,bodypress,stealthrock||85,85,85,85,85,85|F|||80|,,,,,Dragon]Wo-Chien||Leftovers|TabletsofRuin|leechseed,protect,knockoff,gigadrain||85,85,85,85,85,85|N|||83|,,,,,Poison]Mismagius||ChoiceSpecs|Levitate|dazzlinggleam,shadowball,thunderbolt,trick||85,,85,85,85,85|M|,0,,,,||86|,,,,,Electric]Frosmoth||HeavyDutyBoots|IceScales|gigadrain,icebeam,terablast,quiverdance||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 46
+  }
 }

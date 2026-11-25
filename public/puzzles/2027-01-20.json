@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,522d4f20295b09edb5aededbba50d4e78543763e8895f5316bb7f7eacbe79567",
-    "ai": "sodium,d707f83ebc12eb39f373bf1b491401cfbd74ca9ab06765c8ad557a00d371acc4"
+    "player": "sodium,b6fe99caf6cdf8843bf791adffddfe903e94f6af899291f4bc2939532d77dbe0",
+    "ai": "sodium,73e7638141131981b93e4a7bd414757316641d88917cfd9677398895fa685346"
   },
   "playerSpecies": [
     "Koraidon",
-    "Milotic",
-    "Excadrill",
-    "Lucario",
-    "Toucannon",
-    "Oricorio"
+    "Gothitelle",
+    "Quaquaval",
+    "Ursaring",
+    "Garchomp",
+    "Wugtrio"
   ],
-  "player": "Koraidon||LoadedDice|OrichalcumPulse|collisioncourse,flareblitz,scaleshot,swordsdance||85,85,85,85,85,85|N|||64|,,,,,Fire]Milotic||Leftovers|Competitive|scald,haze,recover,icebeam||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Excadrill||Leftovers|MoldBreaker|rapidspin,earthquake,ironhead,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Grass]Lucario||LifeOrb|InnerFocus|nastyplot,vacuumwave,focusblast,flashcannon||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fighting]Toucannon||HeavyDutyBoots|KeenEye|boomburst,knockoff,roost,beakblast||85,85,85,85,85,85|M|||88|,,,,,Steel]Oricorio||HeavyDutyBoots|Dancer|hurricane,roost,revelationdance,quiverdance||85,,85,85,85,85|F|,0,,,,||84|,,,,,Ground",
-  "ai": "Ludicolo||ChoiceSpecs|SwiftSwim|leafstorm,gigadrain,hydropump,icebeam||85,,85,85,85,85|F|,0,,,,||90|,,,,,Water]Sudowoodo||ChoiceBand|RockHead|woodhammer,earthquake,headsmash,suckerpunch||85,85,85,85,85,85|M|||94|,,,,,Rock]Gothitelle||ChoiceScarf|ShadowTag|psychic,trick,darkpulse,focusblast||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fighting]Braviary|BraviaryHisui|HeavyDutyBoots|TintedLens|defog,hurricane,esperwing,roost||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fairy]Whiscash||LifeOrb|Oblivious|liquidation,stoneedge,earthquake,dragondance||85,85,85,85,85,85|F|||88|,,,,,Ground]Magnezone||AssaultVest|MagnetPull|thunderbolt,flashcannon,bodypress,voltswitch||85,,85,85,85,85|N|,0,,,,||84|,,,,,Flying"
+  "player": "Koraidon||ChoiceBand|OrichalcumPulse|closecombat,uturn,outrage,flareblitz||85,85,85,85,85,85|N|||64|,,,,,Fire]Gothitelle||ChoiceScarf|ShadowTag|psychic,trick,focusblast,darkpulse||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ghost]Quaquaval||Leftovers|Moxie|aquastep,roost,closecombat,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Steel]Ursaring||ToxicOrb|QuickFeet|facade,closecombat,crunch,swordsdance||85,85,85,85,85,85|M|||84|,,,,,Normal]Garchomp||RockyHelmet|RoughSkin|earthquake,outrage,spikes,stealthrock||85,85,85,85,85,85|F|||74|,,,,,Steel]Wugtrio||ChoiceBand|Gooey|throatchop,liquidation,aquajet,stompingtantrum||85,85,85,85,85,85|M|||91|,,,,,Ground",
+  "ai": "Kleavor||ChoiceScarf|Sharpness|xscissor,stoneaxe,closecombat,uturn||85,85,85,85,85,85|M|||78|,,,,,Rock]Politoed||ChoiceSpecs|Drizzle|hydropump,icebeam,weatherball,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Water]Cramorant||HeavyDutyBoots|GulpMissile|bravebird,roost,surf,defog||85,85,85,85,85,85|M|||86|,,,,,Ground]Dragonite||HeavyDutyBoots|Multiscale|outrage,dragondance,ironhead,earthquake||85,85,85,85,85,85|F|||74|,,,,,Steel]Whimsicott||Leftovers|Prankster|encore,substitute,leechseed,moonblast||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Meowstic||LightClay|Prankster|reflect,yawn,psychicnoise,lightscreen||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy",
+  "curation": {
+    "battles": 100,
+    "playerWins": 69
+  }
 }

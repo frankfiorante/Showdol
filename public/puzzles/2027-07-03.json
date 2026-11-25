@@ -20,5 +20,9 @@
     "Glimmora"
   ],
   "player": "Okidogi||AssaultVest|ToxicChain|knockoff,gunkshot,drainpunch,highhorsepower||85,85,85,85,85,85|M|||77|,,,,,Dark]Cryogonal||HeavyDutyBoots|Levitate|icebeam,terablast,recover,rapidspin||85,85,85,85,85,85|N|||89|,,,,,Electric]Abomasnow||LightClay|SnowWarning|iceshard,woodhammer,auroraveil,blizzard||77,85,85,85,85,85|M|||84|,,,,,Water]Swampert||Leftovers|Damp|yawn,earthquake,knockoff,stealthrock||85,85,85,85,85,85|F|||82|,,,,,Poison]Hypno||Leftovers|Insomnia|encore,knockoff,psychicnoise,thunderwave||85,85,85,85,85,85|F|||95|,,,,,Steel]Glimmora||PowerHerb|ToxicDebris|sludgewave,energyball,meteorbeam,earthpower||85,,85,85,85,85|F|,0,,,,||75|,,,,,Grass",
-  "ai": "Rillaboom||ChoiceBand|GrassySurge|uturn,grassyglide,knockoff,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Zamazenta||ChestoBerry|DauntlessShield|ironhead,rest,irondefense,bodypress||85,85,85,85,85,85|N|||71|,,,,,Steel]Kilowattrel||HeavyDutyBoots|VoltAbsorb|hurricane,roost,uturn,thunderbolt||85,85,85,85,85,85|F|||83|,,,,,Water]Great Tusk||Leftovers|Protosynthesis|headlongrush,closecombat,rapidspin,stealthrock||85,85,85,85,85,85|N|||77|,,,,,Steel]Dachsbun||Leftovers|WellBakedBody|playrough,bodypress,protect,wish||85,85,85,85,85,85|M|||92|,,,,,Steel]Entei||ChoiceBand|InnerFocus|sacredfire,stoneedge,flareblitz,extremespeed||85,85,85,85,85,85|N|||78|,,,,,Normal"
+  "ai": "Rillaboom||ChoiceBand|GrassySurge|uturn,grassyglide,knockoff,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Zamazenta||ChestoBerry|DauntlessShield|ironhead,rest,irondefense,bodypress||85,85,85,85,85,85|N|||71|,,,,,Steel]Kilowattrel||HeavyDutyBoots|VoltAbsorb|hurricane,roost,uturn,thunderbolt||85,85,85,85,85,85|F|||83|,,,,,Water]Great Tusk||Leftovers|Protosynthesis|headlongrush,closecombat,rapidspin,stealthrock||85,85,85,85,85,85|N|||77|,,,,,Steel]Dachsbun||Leftovers|WellBakedBody|playrough,bodypress,protect,wish||85,85,85,85,85,85|M|||92|,,,,,Steel]Entei||ChoiceBand|InnerFocus|sacredfire,stoneedge,flareblitz,extremespeed||85,85,85,85,85,85|N|||78|,,,,,Normal",
+  "curation": {
+    "battles": 100,
+    "playerWins": 60
+  }
 }

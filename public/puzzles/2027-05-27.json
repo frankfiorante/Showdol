@@ -20,5 +20,9 @@
     "Greninja-Bond"
   ],
   "player": "Diancie||Leftovers|ClearBody|stealthrock,diamondstorm,bodypress,moonblast||85,85,85,85,85,85|N|||82|,,,,,Fighting]Chimecho||Leftovers|Levitate|calmmind,recover,psyshock,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||93|,,,,,Fairy]Rotom|RotomFrost|HeavyDutyBoots|Levitate|willowisp,thunderbolt,blizzard,nastyplot||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric]Volcarona||HeavyDutyBoots|Swarm|fireblast,quiverdance,bugbuzz,gigadrain||85,,85,85,85,85|M|,0,,,,||77|,,,,,Grass]Stonjourner||LifeOrb|PowerSpot|rockpolish,heatcrash,stoneedge,earthquake||85,85,85,85,85,85|M|||91|,,,,,Fire]Greninja|GreninjaBond|LifeOrb|BattleBond|gunkshot,hydropump,darkpulse,icebeam||85,85,85,85,85,85|M|||80|,,,,,Poison",
-  "ai": "Florges||Leftovers|FlowerVeil|synthesis,terablast,moonblast,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground]Scream Tail||Leftovers|Protosynthesis|encore,playrough,protect,wish||85,85,85,85,85,85|N|||84|,,,,,Poison]Poliwrath||Leftovers|WaterAbsorb|bulkup,drainpunch,liquidation,icepunch||85,85,85,85,85,85|M|||88|,,,,,Steel]Arcanine|ArcanineHisui|ChoiceBand|RockHead|flareblitz,headsmash,extremespeed,wildcharge||81,85,85,85,85,85|F|||79|,,,,,Normal]Piloswine||Eviolite|ThickFat|earthquake,iciclecrash,roar,stealthrock||85,85,85,85,85,85|F|||85|,,,,,Poison]Mienshao||LifeOrb|Regenerator|poisonjab,knockoff,closecombat,swordsdance||85,85,85,85,85,85|M|||83|,,,,,Fighting"
+  "ai": "Florges||Leftovers|FlowerVeil|synthesis,terablast,moonblast,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground]Scream Tail||Leftovers|Protosynthesis|encore,playrough,protect,wish||85,85,85,85,85,85|N|||84|,,,,,Poison]Poliwrath||Leftovers|WaterAbsorb|bulkup,drainpunch,liquidation,icepunch||85,85,85,85,85,85|M|||88|,,,,,Steel]Arcanine|ArcanineHisui|ChoiceBand|RockHead|flareblitz,headsmash,extremespeed,wildcharge||81,85,85,85,85,85|F|||79|,,,,,Normal]Piloswine||Eviolite|ThickFat|earthquake,iciclecrash,roar,stealthrock||85,85,85,85,85,85|F|||85|,,,,,Poison]Mienshao||LifeOrb|Regenerator|poisonjab,knockoff,closecombat,swordsdance||85,85,85,85,85,85|M|||83|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 62
+  }
 }

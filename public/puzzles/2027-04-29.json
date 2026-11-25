@@ -20,5 +20,9 @@
     "Weezing-Galar"
   ],
   "player": "Staraptor||ChoiceBand|Reckless|closecombat,bravebird,doubleedge,quickattack||81,85,85,85,85,85|F|||79|,,,,,Flying]Toxicroak||LifeOrb|DrySkin|suckerpunch,closecombat,gunkshot,swordsdance||85,85,85,85,85,85|M|||84|,,,,,Dark]Perrserker||LifeOrb|ToughClaws|knockoff,stealthrock,ironhead,closecombat||85,85,85,85,85,85|F|||89|,,,,,Fighting]Dondozo||Leftovers|Unaware|curse,wavecrash,sleeptalk,rest||85,85,85,85,85,85|F|||78|,,,,,Dragon]Hydreigon||ChoiceSpecs|Levitate|fireblast,dracometeor,darkpulse,uturn||85,85,85,85,85,85|M|||79|,,,,,Dragon]Weezing|WeezingGalar|Leftovers|Levitate|defog,strangesteam,gunkshot,willowisp||85,85,85,85,85,85|F|||86|,,,,,Steel",
-  "ai": "Vaporeon||Leftovers|WaterAbsorb|calmmind,scald,wish,protect||85,,85,85,85,85|M|,0,,,,||86|,,,,,Ground]Magcargo||HeavyDutyBoots|FlameBody|lavaplume,yawn,stealthrock,recover||85,,85,85,85,85|F|,0,,,,||95|,,,,,Dragon]Koraidon||ChoiceBand|OrichalcumPulse|flareblitz,uturn,outrage,closecombat||85,85,85,85,85,85|N|||64|,,,,,Fire]Dachsbun||Leftovers|WellBakedBody|playrough,protect,yawn,wish||85,85,85,85,85,85|F|||92|,,,,,Steel]Perrserker||ChoiceBand|ToughClaws|ironhead,knockoff,closecombat,uturn||85,85,85,85,85,85|F|||89|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|defog,roost,hydropump,bravebird||85,85,85,85,85,85|M|||89|,,,,,Ground"
+  "ai": "Vaporeon||Leftovers|WaterAbsorb|calmmind,scald,wish,protect||85,,85,85,85,85|M|,0,,,,||86|,,,,,Ground]Magcargo||HeavyDutyBoots|FlameBody|lavaplume,yawn,stealthrock,recover||85,,85,85,85,85|F|,0,,,,||95|,,,,,Dragon]Koraidon||ChoiceBand|OrichalcumPulse|flareblitz,uturn,outrage,closecombat||85,85,85,85,85,85|N|||64|,,,,,Fire]Dachsbun||Leftovers|WellBakedBody|playrough,protect,yawn,wish||85,85,85,85,85,85|F|||92|,,,,,Steel]Perrserker||ChoiceBand|ToughClaws|ironhead,knockoff,closecombat,uturn||85,85,85,85,85,85|F|||89|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|defog,roost,hydropump,bravebird||85,85,85,85,85,85|M|||89|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 65
+  }
 }

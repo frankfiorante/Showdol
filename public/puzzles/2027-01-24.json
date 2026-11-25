@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,17e75b68a1a0853c2250090c482958da80cd77234e970dcf836251bed9391cc2",
-    "ai": "sodium,8620e31ce2a4e3ca54b894e81c5260e327e06689aac22638a7eb1de91abb65eb"
+    "player": "sodium,6d98df168968e58bdf1a0c8ee41c0f6c11a0fc7908e55557edc8ef2059fee390",
+    "ai": "sodium,116b35ea729c6ec98500b30a04f3ded8e487b98a2b1cfe2ca3c93919ebbb29f4"
   },
   "playerSpecies": [
-    "Emboar",
-    "Ribombee",
-    "Ceruledge",
-    "Gliscor",
-    "Quagsire",
-    "Cobalion"
+    "Palafin",
+    "Volbeat",
+    "Cresselia",
+    "Sudowoodo",
+    "Lumineon",
+    "Banette"
   ],
-  "player": "Emboar||Leftovers|Reckless|trailblaze,bulkup,drainpunch,flareblitz||85,85,85,85,85,85|F|||84|,,,,,Grass]Ribombee||HeavyDutyBoots|ShieldDust|moonblast,bugbuzz,terablast,quiverdance||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground]Ceruledge||HeavyDutyBoots|WeakArmor|swordsdance,closecombat,bitterblade,poltergeist||85,85,85,85,85,85|F|||78|,,,,,Fire]Gliscor||ToxicOrb|PoisonHeal|substitute,toxic,earthquake,protect||85,85,85,85,85,85|M|||76|,,,,,Water]Quagsire||Leftovers|Unaware|earthquake,icebeam,toxic,recover||85,85,85,85,85,85|F|||84|,,,,,Steel]Cobalion||Leftovers|Justified|stealthrock,voltswitch,ironhead,bodypress||85,85,85,85,85,85|N|||80|,,,,,Water",
-  "ai": "Serperior||LifeOrb|Contrary|dragonpulse,synthesis,leafstorm,glare||85,,85,85,85,85|M|,0,,,,||79|,,,,,Dragon]Emboar||Leftovers|Reckless|drainpunch,trailblaze,flareblitz,bulkup||85,85,85,85,85,85|M|||84|,,,,,Grass]Eternatus||PowerHerb|Pressure|dynamaxcannon,meteorbeam,fireblast,sludgebomb||85,,85,85,85,85|N|,0,,,,||69|,,,,,Poison]Espeon||LifeOrb|MagicBounce|shadowball,calmmind,alluringvoice,psyshock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Armarouge||ChoiceSpecs|WeakArmor|psyshock,energyball,aurasphere,armorcannon||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Wo-Chien||Leftovers|TabletsofRuin|leechseed,knockoff,ruination,protect||85,85,85,85,85,85|N|||83|,,,,,Poison"
+  "player": "Palafin||ChoiceBand|ZerotoHero|jetpunch,wavecrash,flipturn,closecombat||85,85,85,85,85,85|M|||77|,,,,,Water]Volbeat||HeavyDutyBoots|Prankster|uturn,roost,encore,thunderwave||85,85,85,85,85,85|M|||90|,,,,,Steel]Cresselia||Leftovers|Levitate|calmmind,psyshock,moonlight,moonblast||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fairy]Sudowoodo||Leftovers|RockHead|suckerpunch,headsmash,woodhammer,stealthrock||85,85,85,85,85,85|F|||94|,,,,,Rock]Lumineon||HeavyDutyBoots|StormDrain|icebeam,encore,hydropump,uturn||85,85,85,85,85,85|F|||93|,,,,,Dragon]Banette||LifeOrb|Insomnia|gunkshot,thunderwave,shadowsneak,poltergeist||85,85,85,85,85,85|F|||93|,,,,,Poison",
+  "ai": "Iron Bundle||ChoiceSpecs|QuarkDrive|hydropump,freezedry,flipturn,icebeam||85,85,85,85,85,85|N|||78|,,,,,Ice]Terrakion||ChoiceBand|Justified|earthquake,closecombat,stoneedge,quickattack||85,85,85,85,85,85|N|||79|,,,,,Ground]Baxcalibur||HeavyDutyBoots|ThermalExchange|iciclecrash,glaiverush,earthquake,dragondance||85,85,85,85,85,85|F|||75|,,,,,Ground]Solgaleo||Leftovers|FullMetalBody|morningsun,closecombat,sunsteelstrike,psychicfangs||85,85,85,85,85,85|N|||74|,,,,,Water]Zebstrika||LifeOrb|SapSipper|overheat,voltswitch,highhorsepower,supercellslam||85,85,85,85,85,85|F|||87|,,,,,Ground]Garchomp||LoadedDice|RoughSkin|scaleshot,firefang,earthquake,swordsdance||85,85,85,85,85,85|F|||74|,,,,,Fire",
+  "curation": {
+    "battles": 100,
+    "playerWins": 25
+  }
 }

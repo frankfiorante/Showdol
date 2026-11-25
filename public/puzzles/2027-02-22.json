@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 5,
   "seeds": {
-    "player": "sodium,6a3889c31d4705144402388c850f6f602544e47bc937822659422d37e10b8f6e",
-    "ai": "sodium,7dfafce62f93fe1f7e9a4426eb51d151519db876e7da4043710edbdd178cebff"
+    "player": "sodium,50f208b6b55e448ec56165a158e56cef6625334bede42fd86dca0fcf0ca43735",
+    "ai": "sodium,9180223992282c935c42c82c6e3d4874d89341db40e60d0c119f6e554b879934"
   },
   "playerSpecies": [
-    "Bruxish",
-    "Polteageist-Antique",
-    "Oricorio-Sensu",
-    "Hariyama",
-    "Ambipom",
-    "Vigoroth"
+    "Magcargo",
+    "Bronzong",
+    "Chandelure",
+    "Cinccino",
+    "Zarude",
+    "Alcremie-Matcha-Cream"
   ],
-  "player": "Bruxish||ChoiceBand|StrongJaw|wavecrash,psychicfangs,aquajet,icefang||85,85,85,85,85,85|M|||85|,,,,,Psychic]Polteageist|PolteageistAntique|WhiteHerb|CursedBody|storedpower,shadowball,strengthsap,shellsmash||85,,85,85,85,85|N|,0,,,,||78|,,,,,Psychic]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|hurricane,roost,revelationdance,quiverdance||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fighting]Hariyama||AssaultVest|ThickFat|heavyslam,knockoff,stoneedge,closecombat||85,85,85,85,85,85|M|||87|,,,,,Steel]Ambipom||ChoiceBand|Technician|knockoff,doubleedge,lowkick,tripleaxel||85,85,85,85,85,85|M|||84|,,,,,Ice]Vigoroth||Eviolite|VitalSpirit|bodyslam,slackoff,earthquake,bulkup||85,85,85,85,85,85|M|||85|,,,,,Ground",
-  "ai": "Chien-Pao||HeavyDutyBoots|SwordofRuin|iceshard,swordsdance,throatchop,iciclecrash||85,85,85,85,85,85|N|||72|,,,,,Dark]Golduck||LifeOrb|CloudNine|icebeam,grassknot,hydropump,nastyplot||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water]Bombirdier||ChoiceBand|RockyPayload|knockoff,bravebird,stoneedge,suckerpunch||85,85,85,85,85,85|F|||85|,,,,,Rock]Polteageist||WhiteHerb|CursedBody|terablast,shadowball,strengthsap,shellsmash||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Toxtricity||ChoiceScarf|PunkRock|sludgewave,boomburst,voltswitch,overdrive||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Staraptor||ChoiceScarf|Reckless|uturn,bravebird,doubleedge,closecombat||81,85,85,85,85,85|M|||79|,,,,,Fighting"
+  "player": "Magcargo||HeavyDutyBoots|WeakArmor|fireblast,powergem,shellsmash,earthpower||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass]Bronzong||Leftovers|Levitate|psychicnoise,ironhead,earthquake,stealthrock||85,85,85,85,85,85|N|||88|,,,,,Water]Chandelure||Leftovers|FlashFire|calmmind,shadowball,substitute,fireblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Cinccino||LoadedDice|Technician|tripleaxel,tidyup,tailslap,bulletseed||85,85,85,85,85,85|F|||83|,,,,,Grass]Zarude||ChoiceBand|LeafGuard|uturn,powerwhip,closecombat,knockoff||85,85,85,85,85,85|N|||77|,,,,,Grass]Alcremie|AlcremieMatchaCream|Leftovers|AromaVeil|calmmind,alluringvoice,recover,psyshock||85,,85,85,85,85|F|,0,,,,||90|,,,,,Poison",
+  "ai": "Roaring Moon||ChoiceBand|Protosynthesis|outrage,knockoff,ironhead,uturn||85,85,85,85,85,85|N|||72|,,,,,Steel]Swanna||HeavyDutyBoots|Hydration|hydropump,roost,bravebird,defog||85,85,85,85,85,85|F|||89|,,,,,Ground]Oinkologne|OinkologneF|Leftovers|ThickFat|bodyslam,curse,highhorsepower,lashout||85,85,85,85,85,85|F|||91|,,,,,Ground]Masquerain||HeavyDutyBoots|Intimidate|bugbuzz,hydropump,quiverdance,hurricane||85,,85,85,85,85|M|,0,,,,||87|,,,,,Water]Haxorus||LumBerry|MoldBreaker|ironhead,outrage,closecombat,dragondance||85,85,85,85,85,85|M|||78|,,,,,Steel]Houndstone||ChoiceBand|Fluffy|shadowsneak,bodypress,playrough,poltergeist||85,85,85,85,85,85|M|||86|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 21
+  }
 }

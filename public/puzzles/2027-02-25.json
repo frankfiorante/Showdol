@@ -20,5 +20,9 @@
     "Wyrdeer"
   ],
   "player": "Sunflora||LifeOrb|Chlorophyll|solarbeam,weatherball,earthpower,sunnyday||85,,85,85,85,85|M|,0,,,,|||,,,,,Fire]Shiftry||LifeOrb|WindRider|suckerpunch,knockoff,swordsdance,leafblade||85,85,85,85,85,85|F|||89|,,,,,Poison]Necrozma|NecrozmaDuskMane|WeaknessPolicy|PrismArmor|earthquake,dragondance,sunsteelstrike,morningsun||85,85,85,85,85,85|N|||69|,,,,,Steel]Ambipom||ChoiceBand|Technician|uturn,knockoff,doubleedge,tripleaxel||85,85,85,85,85,85|M|||84|,,,,,Ice]Zekrom||Leftovers|Teravolt|boltstrike,outrage,substitute,dragondance||85,85,85,85,85,85|N|||71|,,,,,Electric]Wyrdeer||Leftovers|Intimidate|thunderwave,earthquake,megahorn,psychicnoise||85,85,85,85,85,85|M|||87|,,,,,Ground",
-  "ai": "Rampardos||ChoiceScarf|SheerForce|headsmash,rockslide,firepunch,earthquake||85,85,85,85,85,85|M|||90|,,,,,Ground]Sceptile||LifeOrb|Overgrow|focusblast,leafstorm,rockslide,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Lugia||HeavyDutyBoots|Multiscale|aeroblast,earthpower,calmmind,recover||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Ting-Lu||AssaultVest|VesselofRuin|ruination,earthquake,heavyslam,payback||85,85,85,85,85,85|N|||78|,,,,,Steel]Kingdra||LifeOrb|SwiftSwim|raindance,wavecrash,hurricane,dracometeor||85,85,85,85,85,85|M|||84|,,,,,Water]Plusle||LifeOrb|LightningRod|grassknot,nastyplot,alluringvoice,thunderbolt||85,,85,85,85,85|M|,0,,,,||95|,,,,,Electric"
+  "ai": "Rampardos||ChoiceScarf|SheerForce|headsmash,rockslide,firepunch,earthquake||85,85,85,85,85,85|M|||90|,,,,,Ground]Sceptile||LifeOrb|Overgrow|focusblast,leafstorm,rockslide,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Lugia||HeavyDutyBoots|Multiscale|aeroblast,earthpower,calmmind,recover||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Ting-Lu||AssaultVest|VesselofRuin|ruination,earthquake,heavyslam,payback||85,85,85,85,85,85|N|||78|,,,,,Steel]Kingdra||LifeOrb|SwiftSwim|raindance,wavecrash,hurricane,dracometeor||85,85,85,85,85,85|M|||84|,,,,,Water]Plusle||LifeOrb|LightningRod|grassknot,nastyplot,alluringvoice,thunderbolt||85,,85,85,85,85|M|,0,,,,||95|,,,,,Electric",
+  "curation": {
+    "battles": 100,
+    "playerWins": 60
+  }
 }

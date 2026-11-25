@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,ccfef797b8f73da31c82b044b0075730bbad97969add1b109bb43af91f624ca4",
-    "ai": "sodium,7b4108cb3a12285bf96ef017373cbb5c07d21b4c26ec3325c1debb42bc14718f"
+    "player": "sodium,a9c7f033d1bd820137aba81421f4f55391964ce04940fc90e9bba566afb395aa",
+    "ai": "sodium,8b04d59e88337b3cccc3ac8cb8bd4294711d9710833f7a2fab79541c8d8b436b"
   },
   "playerSpecies": [
-    "Slaking",
-    "Drifblim",
-    "Reuniclus",
-    "Ampharos",
-    "Crabominable",
-    "Wo-Chien"
+    "Komala",
+    "Perrserker",
+    "Krookodile",
+    "Toxapex",
+    "Luxray",
+    "Squawkabilly-Blue"
   ],
-  "player": "Slaking||ChoiceScarf|Truant|knockoff,gigaimpact,earthquake,doubleedge||85,85,85,85,85,85|M|||84|,,,,,Normal]Drifblim||HeavyDutyBoots|Aftermath|defog,strengthsap,airslash,shadowball||85,,85,85,85,85|M|,0,,,,||86|,,,,,Dark]Reuniclus||LifeOrb|MagicGuard|recover,psyshock,calmmind,focusblast||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fighting]Ampharos||ChoiceSpecs|Static|voltswitch,dazzlinggleam,thunderbolt,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Electric]Crabominable||AssaultVest|IronFist|knockoff,drainpunch,icehammer,earthquake||85,85,85,85,85,85|F|||90|,,,,,Water]Wo-Chien||Leftovers|TabletsofRuin|knockoff,protect,leechseed,stunspore||85,85,85,85,85,85|N|||83|,,,,,Poison",
-  "ai": "Mienshao||LifeOrb|Regenerator|knockoff,swordsdance,tripleaxel,closecombat||85,85,85,85,85,85|M|||83|,,,,,Dark]Polteageist||WhiteHerb|CursedBody|strengthsap,storedpower,shellsmash,shadowball||85,,85,85,85,85|N|,0,,,,||78|,,,,,Dark]Arceus|ArceusWater|SplashPlate|Multitype|recover,judgment,calmmind,icebeam||85,,85,85,85,85|N|,0,,,,||71|,,,,,Steel]Latias||SoulDew|Levitate|recover,dracometeor,calmmind,psyshock||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Lilligant||LifeOrb|OwnTempo|petaldance,sleeppowder,alluringvoice,quiverdance||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fairy]Florges|FlorgesYellow|Leftovers|FlowerVeil|protect,calmmind,moonblast,wish||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel"
+  "player": "Komala||AssaultVest|Comatose|rapidspin,knockoff,uturn,bodyslam||85,85,85,85,85,85|M|||87|,,,,,Ghost]Perrserker||ChoiceBand|ToughClaws|knockoff,ironhead,uturn,closecombat||85,85,85,85,85,85|M|||89|,,,,,Fighting]Krookodile||LifeOrb|Intimidate|stealthrock,gunkshot,knockoff,earthquake||85,85,85,85,85,85|F|||79|,,,,,Poison]Toxapex||Leftovers|Regenerator|recover,toxicspikes,haze,liquidation||85,85,85,85,85,85|F|||82|,,,,,Grass]Luxray||FlameOrb|Guts|supercellslam,facade,throatchop,trailblaze||81,85,85,85,85,85|M|||88|,,,,,Normal]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|protect,facade,bravebird,quickattack||85,85,85,85,85,85|F|||85|,,,,,Normal",
+  "ai": "Greninja|GreninjaBond|LifeOrb|BattleBond|hydropump,darkpulse,icebeam,gunkshot||85,85,85,85,85,85|M|||80|,,,,,Water]Leafeon||Leftovers|Chlorophyll|leafblade,substitute,swordsdance,knockoff||85,85,85,85,85,85|F|||88|,,,,,Dark]Inteleon||ChoiceSpecs|Torrent|hydropump,icebeam,uturn,scald||85,85,85,85,85,85|F|||81|,,,,,Water]Furret||LifeOrb|Frisk|doubleedge,brickbreak,knockoff,tidyup||85,85,85,85,85,85|M|||94|,,,,,Ghost]Meganium||Leftovers|Overgrow|encore,synthesis,knockoff,energyball||85,85,85,85,85,85|F|||90|,,,,,Water]Pincurchin||Leftovers|ElectricSurge|scald,recover,spikes,thunderbolt||85,,85,85,85,85|M|,0,,,,|||,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 21
+  }
 }

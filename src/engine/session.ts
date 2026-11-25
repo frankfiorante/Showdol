@@ -1,33 +1,15 @@
 import {Battle, Dex, PRNG, Teams, extractChannelMessages, type PRNGSeed} from '@pkmn/sim';
 import {Battle as ClientBattle, type Pokemon as ClientPokemon} from '@pkmn/client';
-import {Generations} from '@pkmn/data';
+import {gens} from './gens';
 import {Protocol} from '@pkmn/protocol';
 import {LogFormatter} from '@pkmn/view';
 import {FORMAT} from './puzzle';
-import {chooseRandom, type BotRequest} from './random-bot';
+import type {BotRequest} from './random-bot';
+import {decisionSeed, type Opponent} from './opponent';
+import {heuristicOpponent} from '@/ai/heuristic';
 import type {BattleResult, BattleView, MoveOption, PokemonView, Prompt, SideView, SwitchOption} from './view';
 
-/**
- * Picks the AI's choice for a request. Phase 3 replaces the random bot.
- * `rng` is seeded per decision (see `decisionSeed`), so the AI makes the same
- * choice for the same decision whether or not the page was reloaded.
- */
-export interface Opponent {
-  choose(request: BotRequest, battle: Battle, rng: PRNG): string;
-}
-
-export const randomOpponent: Opponent = {
-  choose: (req, _battle, rng) => chooseRandom(req, n => rng.random(n)),
-};
-
-/**
- * Seed for the AI's n-th decision. A sodium seed has 32 bytes of key and our
- * seeds only use the first 16, so the decision number goes in the other 16.
- */
-export function decisionSeed(aiSeed: string, n: number): PRNGSeed {
-  const hex = aiSeed.split(',')[1].slice(0, 32).padEnd(32, '0');
-  return `sodium,${hex}${n.toString(16).padStart(32, '0')}`;
-}
+export type {Opponent} from './opponent';
 
 export interface SessionInit {
   /** Packed teams. */
@@ -53,8 +35,6 @@ export class ReplayError extends Error {}
 
 const PLAYER = 'Player';
 const AI = 'AI';
-// Gen 9 Random Battle can include anything the sim knows about; don't filter.
-const gens = new Generations(Dex as never, () => true);
 
 /**
  * One player's battle: the sim (omniscient), the AI opponent, and a client
@@ -78,7 +58,7 @@ export class BattleSession {
 
   constructor(init: SessionInit) {
     this.playerSets = Teams.unpack(init.playerTeam)!;
-    this.opponent = init.opponent ?? randomOpponent;
+    this.opponent = init.opponent ?? heuristicOpponent();
     this.aiSeed = init.aiSeed;
     this.sim = new Battle({formatid: FORMAT as never, seed: init.battleSeed as PRNGSeed});
     this.client = new ClientBattle(gens, 'p1' as never, this.playerSets as never);
@@ -245,8 +225,8 @@ export class BattleSession {
       active: side.active.includes(p),
       boosts: nonZero(p.boosts as Record<string, number>),
       volatiles: volatiles(p),
-      item: p.item ? Dex.items.get(p.item).name : undefined,
-      ability: p.ability ? Dex.abilities.get(p.ability).name : undefined,
+      item: itemName(p.item),
+      ability: abilityName(p.ability),
       moves: p.moveSlots.map(m => m.name),
       terastallized: p.terastallized,
     });
@@ -323,6 +303,26 @@ export class BattleSession {
  */
 function withoutIllusionGhosts(team: ClientPokemon[]): ClientPokemon[] {
   return team.filter((p, i) => !team.slice(i + 1).some(q => q.name === p.name));
+}
+
+/**
+ * Display names for the foe's revealed item and ability. The client sometimes
+ * stores an effect id like "itemlifeorb" (from "[from] item: Life Orb").
+ */
+function itemName(id: string) {
+  if (!id) return undefined;
+  const plain = Dex.items.get(id);
+  if (plain.exists) return plain.name;
+  const stripped = Dex.items.get(id.replace(/^item/, ''));
+  return stripped.exists ? stripped.name : undefined;
+}
+
+function abilityName(id: string) {
+  if (!id) return undefined;
+  const plain = Dex.abilities.get(id);
+  if (plain.exists) return plain.name;
+  const stripped = Dex.abilities.get(id.replace(/^ability/, ''));
+  return stripped.exists ? stripped.name : undefined;
 }
 
 function nonZero(boosts: Record<string, number>) {

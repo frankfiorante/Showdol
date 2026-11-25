@@ -20,5 +20,9 @@
     "Reshiram"
   ],
   "player": "Tyranitar||WeaknessPolicy|SandStream|knockoff,icepunch,dragondance,stoneedge||85,85,85,85,85,85|M|||78|,,,,,Ghost]Scrafty||Leftovers|ShedSkin|drainpunch,bulkup,knockoff,rest||85,85,85,85,85,85|F|||83|,,,,,Poison]Lapras||LoadedDice|WaterAbsorb|dragondance,earthquake,waterfall,iciclespear||81,85,85,85,85,85|M|||87|,,,,,Ground]Zacian||RustedSword|IntrepidSword|behemothblade,playrough,swordsdance,closecombat||85,85,85,85,85,85|N|||64|,,,,,Fighting]Veluza||SitrusBerry|Sharpness|filletaway,psychocut,nightslash,aquacutter||85,85,85,85,85,85|M|||85|,,,,,Dark]Reshiram||HeavyDutyBoots|Turboblaze|outrage,dragondance,stoneedge,flareblitz||85,85,85,85,85,85|N|||76|,,,,,Fire",
-  "ai": "Chi-Yu||HeavyDutyBoots|BeadsofRuin|fireblast,psychic,darkpulse,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Lycanroc||LifeOrb|SandRush|stoneedge,closecombat,taunt,swordsdance||85,85,85,85,85,85|M|||86|,,,,,Fighting]Tropius||SitrusBerry|Harvest|dragondance,earthquake,dualwingbeat,leafblade||85,85,85,85,85,85|F|||91|,,,,,Ground]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderbolt,thunderwave,voltswitch,scald||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Maushold||WideLens|Technician|encore,populationbomb,bite,tidyup||85,85,85,85,85,85|N|||76|,,,,,Ghost]Hippowdon||Leftovers|SandStream|slackoff,earthquake,curse,stoneedge||85,85,85,85,85,85|F|||82|,,,,,Rock"
+  "ai": "Chi-Yu||HeavyDutyBoots|BeadsofRuin|fireblast,psychic,darkpulse,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Lycanroc||LifeOrb|SandRush|stoneedge,closecombat,taunt,swordsdance||85,85,85,85,85,85|M|||86|,,,,,Fighting]Tropius||SitrusBerry|Harvest|dragondance,earthquake,dualwingbeat,leafblade||85,85,85,85,85,85|F|||91|,,,,,Ground]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderbolt,thunderwave,voltswitch,scald||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Maushold||WideLens|Technician|encore,populationbomb,bite,tidyup||85,85,85,85,85,85|N|||76|,,,,,Ghost]Hippowdon||Leftovers|SandStream|slackoff,earthquake,curse,stoneedge||85,85,85,85,85,85|F|||82|,,,,,Rock",
+  "curation": {
+    "battles": 100,
+    "playerWins": 38
+  }
 }

@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,797d045814d30d9241437f19724910827a1fa00c46c39d75dab4c10cab15222e",
-    "ai": "sodium,ba2d67d6160911a93dc3f9f1ab5af5a735aeb642f49ca2be1870b2f77585f171"
+    "player": "sodium,0a5e00fd657dd6550c3a64d8fd64a19a7fa3498367fbe4f9583f11dab4806615",
+    "ai": "sodium,b93c17bc036a6ceef20b4b6c3993db975e66bf8da5755cbc2b25da13ee41090d"
   },
   "playerSpecies": [
-    "Salazzle",
-    "Iron Treads",
-    "Wigglytuff",
-    "Avalugg",
-    "Cryogonal",
-    "Flygon"
+    "Ho-Oh",
+    "Chesnaught",
+    "Muk-Alola",
+    "Magnezone",
+    "Sandaconda",
+    "Glalie"
   ],
-  "player": "Salazzle||Leftovers|Corrosion|protect,toxic,substitute,flamethrower||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Iron Treads||AssaultVest|QuarkDrive|ironhead,rapidspin,earthquake,knockoff||85,85,85,85,85,85|N|||77|,,,,,Water]Wigglytuff||Leftovers|Competitive|fireblast,thunderwave,dazzlinggleam,knockoff||85,85,85,85,85,85|M|||96|,,,,,Steel]Avalugg||HeavyDutyBoots|Sturdy|bodypress,curse,recover,avalanche||85,85,85,85,85,85|M|||88|,,,,,Fighting]Cryogonal||HeavyDutyBoots|Levitate|flashcannon,freezedry,haze,recover||85,,85,85,85,85|N|,0,,,,||89|,,,,,Steel]Flygon||LumBerry|Levitate|dragondance,earthquake,stoneedge,outrage||85,85,85,85,85,85|F|||82|,,,,,Ground",
-  "ai": "Hydreigon||ChoiceScarf|Levitate|dracometeor,darkpulse,flashcannon,fireblast||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Seviper||Leftovers|Infiltrator|gunkshot,trailblaze,swordsdance,earthquake||85,85,85,85,85,85|M|||93|,,,,,Grass]Bisharp||Eviolite|Defiant|suckerpunch,swordsdance,throatchop,ironhead||85,85,85,85,85,85|M|||79|,,,,,Flying]Camerupt||Leftovers|SolidRock|stealthrock,willowisp,overheat,earthquake||85,85,85,85,85,85|F|||91|,,,,,Grass]Vivillon|VivillonSandstorm|HeavyDutyBoots|CompoundEyes|hurricane,quiverdance,terablast,sleeppowder||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ground]Sylveon||Leftovers|Pixilate|protect,wish,hypervoice,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel"
+  "player": "Ho-Oh||HeavyDutyBoots|Regenerator|sacredfire,recover,bravebird,earthquake||85,85,85,85,85,85|N|||71|,,,,,Steel]Chesnaught||Leftovers|Bulletproof|bodypress,trailblaze,irondefense,synthesis||85,85,85,85,85,85|M|||84|,,,,,Steel]Muk|MukAlola|AssaultVest|PoisonTouch|gunkshot,icepunch,knockoff,drainpunch||85,85,85,85,85,85|M|||82|,,,,,Fighting]Magnezone||Leftovers|Analytic|thunderbolt,bodypress,flashcannon,irondefense||85,,85,85,85,85|N|,0,,,,||84|,,,,,Fighting]Sandaconda||Leftovers|ShedSkin|rest,stoneedge,coil,earthquake||85,85,85,85,85,85|M|||84|,,,,,Steel]Glalie||HeavyDutyBoots|InnerFocus|earthquake,spikes,freezedry,taunt||85,85,85,85,85,85|F|||96|,,,,,Water",
+  "ai": "Reuniclus||LifeOrb|MagicGuard|recover,psychic,calmmind,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Masquerain||HeavyDutyBoots|Intimidate|hurricane,quiverdance,hydropump,bugbuzz||85,,85,85,85,85|M|,0,,,,||87|,,,,,Water]Kilowattrel||HeavyDutyBoots|VoltAbsorb|uturn,roost,hurricane,thunderbolt||85,85,85,85,85,85|F|||83|,,,,,Water]Iron Hands||AssaultVest|QuarkDrive|wildcharge,voltswitch,heavyslam,closecombat||85,85,85,85,85,85|N|||79|,,,,,Fighting]Iron Leaves||ChoiceBand|QuarkDrive|psyblade,megahorn,leafblade,closecombat||85,85,85,85,85,85|N|||80|,,,,,Fighting]Scovillain||ChoiceSpecs|Chlorophyll|flamethrower,energyball,overheat,leafstorm||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire",
+  "curation": {
+    "battles": 100,
+    "playerWins": 46
+  }
 }

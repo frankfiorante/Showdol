@@ -20,5 +20,9 @@
     "Mewtwo"
   ],
   "player": "Dialga|DialgaOrigin|AdamantCrystal|Pressure|stealthrock,flashcannon,fireblast,dracometeor||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Torkoal||HeavyDutyBoots|Drought|earthquake,yawn,fireblast,solarbeam||85,85,85,85,85,85|M|||88|,,,,,Grass]Braviary|BraviaryHisui|HeavyDutyBoots|TintedLens|esperwing,hurricane,defog,roost||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Gastrodon||Leftovers|StormDrain|surf,earthquake,recover,spikes||85,85,85,85,85,85|F|||86|,,,,,Steel]Ho-Oh||HeavyDutyBoots|Regenerator|sacredfire,earthquake,recover,bravebird||85,85,85,85,85,85|N|||71|,,,,,Ground]Mewtwo||LifeOrb|Pressure|psystrike,nastyplot,darkpulse,fireblast||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire",
-  "ai": "Dodrio||HeavyDutyBoots|EarlyBird|doubleedge,drillrun,swordsdance,bravebird||85,85,85,85,85,85|M|||85|,,,,,Normal]Sinistcha||Leftovers|Heatproof|calmmind,matchagotcha,shadowball,strengthsap||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Honchkrow||HeavyDutyBoots|Moxie|bravebird,uturn,suckerpunch,heatwave||85,85,85,85,85,85|M|||86|,,,,,Flying]Mienshao||LifeOrb|Regenerator|knockoff,poisonjab,swordsdance,closecombat||85,85,85,85,85,85|F|||83|,,,,,Poison]Beartic||HeavyDutyBoots|SlushRush|closecombat,aquajet,iciclecrash,swordsdance||85,85,85,85,85,85|M|||91|,,,,,Fighting]Regigigas||Leftovers|SlowStart|rest,knockoff,sleeptalk,bodyslam||85,85,85,85,85,85|N|||84|,,,,,Ghost"
+  "ai": "Dodrio||HeavyDutyBoots|EarlyBird|doubleedge,drillrun,swordsdance,bravebird||85,85,85,85,85,85|M|||85|,,,,,Normal]Sinistcha||Leftovers|Heatproof|calmmind,matchagotcha,shadowball,strengthsap||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Honchkrow||HeavyDutyBoots|Moxie|bravebird,uturn,suckerpunch,heatwave||85,85,85,85,85,85|M|||86|,,,,,Flying]Mienshao||LifeOrb|Regenerator|knockoff,poisonjab,swordsdance,closecombat||85,85,85,85,85,85|F|||83|,,,,,Poison]Beartic||HeavyDutyBoots|SlushRush|closecombat,aquajet,iciclecrash,swordsdance||85,85,85,85,85,85|M|||91|,,,,,Fighting]Regigigas||Leftovers|SlowStart|rest,knockoff,sleeptalk,bodyslam||85,85,85,85,85,85|N|||84|,,,,,Ghost",
+  "curation": {
+    "battles": 100,
+    "playerWins": 24
+  }
 }

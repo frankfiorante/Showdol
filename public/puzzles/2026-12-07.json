@@ -20,5 +20,9 @@
     "Veluza"
   ],
   "player": "Crawdaunt||LifeOrb|Adaptability|aquajet,crabhammer,dragondance,knockoff||85,85,85,85,85,85|M|||84|,,,,,Water]Dusknoir||Leftovers|Frisk|painsplit,willowisp,poltergeist,earthquake||85,85,85,85,85,85|F|||89|,,,,,Dark]Infernape||ChoiceBand|IronFist|closecombat,machpunch,flareblitz,knockoff||85,85,85,85,85,85|F|||82|,,,,,Dark]Baxcalibur||LoadedDice|ThermalExchange|earthquake,iciclespear,swordsdance,scaleshot||81,85,85,85,85,85|F|||75|,,,,,Ground]Delibird||HeavyDutyBoots|Hustle|iceshard,bravebird,spikes,icespinner||85,85,85,85,85,85|F||||,,,,,Flying]Veluza||SitrusBerry|Sharpness|psychocut,nightslash,filletaway,aquacutter||85,85,85,85,85,85|F|||85|,,,,,Psychic",
-  "ai": "Slaking||ChoiceBand|Truant|knockoff,gigaimpact,doubleedge,earthquake||85,85,85,85,85,85|M|||84|,,,,,Ghost]Wyrdeer||Leftovers|Intimidate|bodyslam,psychicnoise,thunderwave,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Clodsire||Leftovers|Unaware|recover,toxicspikes,earthquake,poisonjab||85,85,85,85,85,85|M|||81|,,,,,Steel]Miraidon||ChoiceSpecs|HadronEngine|voltswitch,overheat,dracometeor,electrodrift||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Greninja||LifeOrb|Protean|hydropump,uturn,gunkshot,icebeam||85,85,85,85,85,85|M|||80|,,,,,Poison]Gogoat||Leftovers|SapSipper|milkdrink,earthquake,bulkup,hornleech||85,85,85,85,85,85|F|||88|,,,,,Ground"
+  "ai": "Slaking||ChoiceBand|Truant|knockoff,gigaimpact,doubleedge,earthquake||85,85,85,85,85,85|M|||84|,,,,,Ghost]Wyrdeer||Leftovers|Intimidate|bodyslam,psychicnoise,thunderwave,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Clodsire||Leftovers|Unaware|recover,toxicspikes,earthquake,poisonjab||85,85,85,85,85,85|M|||81|,,,,,Steel]Miraidon||ChoiceSpecs|HadronEngine|voltswitch,overheat,dracometeor,electrodrift||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Greninja||LifeOrb|Protean|hydropump,uturn,gunkshot,icebeam||85,85,85,85,85,85|M|||80|,,,,,Poison]Gogoat||Leftovers|SapSipper|milkdrink,earthquake,bulkup,hornleech||85,85,85,85,85,85|F|||88|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 69
+  }
 }

@@ -20,5 +20,9 @@
     "Deoxys-Speed"
   ],
   "player": "Rillaboom||ChoiceBand|GrassySurge|uturn,knockoff,grassyglide,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Lapras||ChoiceSpecs|WaterAbsorb|icebeam,freezedry,hydropump,sparklingaria||81,,85,85,85,85|F|,0,,,,||87|,,,,,Ice]Salazzle||Leftovers|Corrosion|toxic,protect,flamethrower,substitute||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Pawmot||LifeOrb|VoltAbsorb|revivalblessing,closecombat,doubleshock,knockoff||85,85,85,85,85,85|M|||80|,,,,,Electric]Hariyama||AssaultVest|ThickFat|knockoff,heavyslam,headlongrush,closecombat||85,85,85,85,85,85|F|||87|,,,,,Steel]Deoxys|DeoxysSpeed|Leftovers|Pressure|taunt,psychoboost,knockoff,stealthrock||85,85,85,85,85,85|N|||82|,,,,,Dark",
-  "ai": "Galvantula||FocusSash|CompoundEyes|stickyweb,energyball,thunder,bugbuzz||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Illumise||HeavyDutyBoots|Prankster|thunderwave,roost,bugbuzz,encore||85,,85,85,85,85|F|,0,,,,||91|,,,,,Water]Gengar||LifeOrb|CursedBody|shadowball,sludgewave,encore,toxicspikes||85,,85,85,85,85|F|,0,,,,||81|,,,,,Ghost]Mewtwo||LifeOrb|Unnerve|aurasphere,nastyplot,recover,psystrike||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic]Slowking||HeavyDutyBoots|Regenerator|slackoff,psychicnoise,chillyreception,scald||85,,85,85,85,85|F|,0,,,,||88|,,,,,Dragon]Salamence||HeavyDutyBoots|Intimidate|roost,dualwingbeat,outrage,dragondance||85,85,85,85,85,85|M|||77|,,,,,Steel"
+  "ai": "Galvantula||FocusSash|CompoundEyes|stickyweb,energyball,thunder,bugbuzz||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Illumise||HeavyDutyBoots|Prankster|thunderwave,roost,bugbuzz,encore||85,,85,85,85,85|F|,0,,,,||91|,,,,,Water]Gengar||LifeOrb|CursedBody|shadowball,sludgewave,encore,toxicspikes||85,,85,85,85,85|F|,0,,,,||81|,,,,,Ghost]Mewtwo||LifeOrb|Unnerve|aurasphere,nastyplot,recover,psystrike||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic]Slowking||HeavyDutyBoots|Regenerator|slackoff,psychicnoise,chillyreception,scald||85,,85,85,85,85|F|,0,,,,||88|,,,,,Dragon]Salamence||HeavyDutyBoots|Intimidate|roost,dualwingbeat,outrage,dragondance||85,85,85,85,85,85|M|||77|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 75
+  }
 }

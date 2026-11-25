@@ -20,5 +20,9 @@
     "Florges-Blue"
   ],
   "player": "Forretress||Leftovers|Sturdy|stealthrock,ironhead,rapidspin,spikes||85,85,85,85,85,85|F|||84|,,,,,Water]Gouging Fire||HeavyDutyBoots|Protosynthesis|morningsun,dragondance,heatcrash,outrage||85,85,85,85,85,85|N|||74|,,,,,Fairy]Ariados||HeavyDutyBoots|Swarm|toxicspikes,poisonjab,megahorn,stickyweb||85,85,85,85,85,85|M|||95|,,,,,Ghost]Registeel||ChestoBerry|ClearBody|ironhead,rest,irondefense,bodypress||85,85,85,85,85,85|N|||81|,,,,,Fighting]Mewtwo||LifeOrb|Unnerve|nastyplot,darkpulse,psystrike,fireblast||85,,85,85,85,85|N|,0,,,,||72|,,,,,Dark]Florges|FlorgesBlue|Leftovers|FlowerVeil|moonblast,terablast,calmmind,synthesis||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground",
-  "ai": "Iron Leaves||ChoiceBand|QuarkDrive|megahorn,leafblade,closecombat,psyblade||85,85,85,85,85,85|N|||80|,,,,,Fighting]Honchkrow||HeavyDutyBoots|Moxie|uturn,suckerpunch,heatwave,bravebird||85,85,85,85,85,85|F|||86|,,,,,Flying]Smeargle||FocusSash|OwnTempo|ceaselessedge,spore,whirlwind,stickyweb||85,85,85,85,85,85|F|||95|,,,,,Ghost]Quagsire||Leftovers|Unaware|toxic,earthquake,recover,spikes||85,85,85,85,85,85|F|||84|,,,,,Fairy]Terrakion||LifeOrb|Justified|closecombat,earthquake,stoneedge,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Ground]Salamence||HeavyDutyBoots|Moxie|dualwingbeat,earthquake,outrage,dragondance||85,85,85,85,85,85|M|||77|,,,,,Ground"
+  "ai": "Iron Leaves||ChoiceBand|QuarkDrive|megahorn,leafblade,closecombat,psyblade||85,85,85,85,85,85|N|||80|,,,,,Fighting]Honchkrow||HeavyDutyBoots|Moxie|uturn,suckerpunch,heatwave,bravebird||85,85,85,85,85,85|F|||86|,,,,,Flying]Smeargle||FocusSash|OwnTempo|ceaselessedge,spore,whirlwind,stickyweb||85,85,85,85,85,85|F|||95|,,,,,Ghost]Quagsire||Leftovers|Unaware|toxic,earthquake,recover,spikes||85,85,85,85,85,85|F|||84|,,,,,Fairy]Terrakion||LifeOrb|Justified|closecombat,earthquake,stoneedge,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Ground]Salamence||HeavyDutyBoots|Moxie|dualwingbeat,earthquake,outrage,dragondance||85,85,85,85,85,85|M|||77|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 27
+  }
 }

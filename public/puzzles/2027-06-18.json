@@ -20,5 +20,9 @@
     "Meloetta"
   ],
   "player": "Suicune||Leftovers|Pressure|protect,calmmind,scald,substitute||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Clawitzer||AssaultVest|MegaLauncher|waterpulse,aurasphere,dragonpulse,uturn||85,85,85,85,85,85|M|||87|,,,,,Dragon]Meganium||Leftovers|Overgrow|knockoff,petalblizzard,swordsdance,earthquake||85,85,85,85,85,85|M|||90|,,,,,Ground]Iron Leaves||LifeOrb|QuarkDrive|swordsdance,closecombat,leafblade,psyblade||85,85,85,85,85,85|N|||80|,,,,,Fighting]Houndoom||HeavyDutyBoots|FlashFire|fireblast,darkpulse,sludgebomb,suckerpunch||85,85,85,85,85,85|M|||87|,,,,,Poison]Meloetta||LifeOrb|SereneGrace|closecombat,knockoff,tripleaxel,relicsong||85,85,85,85,85,85|N|||82|,,,,,Dark",
-  "ai": "Arcanine|ArcanineHisui|ChoiceBand|RockHead|extremespeed,closecombat,flareblitz,headsmash||81,85,85,85,85,85|F|||79|,,,,,Normal]Landorus||LifeOrb|SheerForce|rockslide,stealthrock,sludgewave,earthpower||85,85,85,85,85,85|M|||75|,,,,,Poison]Blaziken||LifeOrb|SpeedBoost|swordsdance,closecombat,knockoff,flareblitz||85,85,85,85,85,85|M|||76|,,,,,Dark]Gengar||ChoiceSpecs|CursedBody|sludgewave,shadowball,trick,focusblast||85,,85,85,85,85|M|,0,,,,||81|,,,,,Fighting]Farigiraf||Leftovers|SapSipper|psychicnoise,bodyslam,protect,wish||85,85,85,85,85,85|F|||89|,,,,,Fairy]Gardevoir||ChoiceScarf|Trace|healingwish,mysticalfire,psychic,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy"
+  "ai": "Arcanine|ArcanineHisui|ChoiceBand|RockHead|extremespeed,closecombat,flareblitz,headsmash||81,85,85,85,85,85|F|||79|,,,,,Normal]Landorus||LifeOrb|SheerForce|rockslide,stealthrock,sludgewave,earthpower||85,85,85,85,85,85|M|||75|,,,,,Poison]Blaziken||LifeOrb|SpeedBoost|swordsdance,closecombat,knockoff,flareblitz||85,85,85,85,85,85|M|||76|,,,,,Dark]Gengar||ChoiceSpecs|CursedBody|sludgewave,shadowball,trick,focusblast||85,,85,85,85,85|M|,0,,,,||81|,,,,,Fighting]Farigiraf||Leftovers|SapSipper|psychicnoise,bodyslam,protect,wish||85,85,85,85,85,85|F|||89|,,,,,Fairy]Gardevoir||ChoiceScarf|Trace|healingwish,mysticalfire,psychic,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy",
+  "curation": {
+    "battles": 100,
+    "playerWins": 74
+  }
 }

@@ -20,5 +20,9 @@
     "Zebstrika"
   ],
   "player": "Copperajah||LifeOrb|SheerForce|rockslide,earthquake,ironhead,playrough||85,85,85,85,85,85|F|||86|,,,,,Fairy]Houndstone||AssaultVest|Fluffy|shadowsneak,playrough,poltergeist,bodypress||85,85,85,85,85,85|M|||86|,,,,,Fairy]Muk||AssaultVest|PoisonTouch|shadowsneak,poisonjab,icepunch,knockoff||85,85,85,85,85,85|M|||86|,,,,,Dark]Dachsbun||Leftovers|WellBakedBody|protect,playrough,yawn,wish||85,85,85,85,85,85|F|||92|,,,,,Steel]Sandaconda||Leftovers|ShedSkin|coil,earthquake,rest,stoneedge||85,85,85,85,85,85|M|||84|,,,,,Steel]Zebstrika||LifeOrb|SapSipper|highhorsepower,overheat,voltswitch,supercellslam||85,85,85,85,85,85|M|||87|,,,,,Ground",
-  "ai": "Reuniclus||LifeOrb|MagicGuard|recover,focusblast,psyshock,calmmind||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Eiscue||SitrusBerry|IceFace|liquidation,bellydrum,ironhead,icespinner||81,85,85,85,85,85|F|||88|,,,,,Water]Regidrago||ChoiceScarf|DragonsMaw|dracometeor,dragonenergy,outrage,earthquake||85,85,85,85,85,85|N|||77|,,,,,Dragon]Krookodile||Leftovers|Intimidate|gunkshot,knockoff,earthquake,bulkup||85,85,85,85,85,85|F|||79|,,,,,Poison]Iron Boulder||BoosterEnergy|QuarkDrive|zenheadbutt,closecombat,mightycleave,swordsdance||85,85,85,85,85,85|N|||77|,,,,,Fighting]Weezing||Leftovers|Levitate|fireblast,painsplit,toxicspikes,sludgebomb||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel"
+  "ai": "Reuniclus||LifeOrb|MagicGuard|recover,focusblast,psyshock,calmmind||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Eiscue||SitrusBerry|IceFace|liquidation,bellydrum,ironhead,icespinner||81,85,85,85,85,85|F|||88|,,,,,Water]Regidrago||ChoiceScarf|DragonsMaw|dracometeor,dragonenergy,outrage,earthquake||85,85,85,85,85,85|N|||77|,,,,,Dragon]Krookodile||Leftovers|Intimidate|gunkshot,knockoff,earthquake,bulkup||85,85,85,85,85,85|F|||79|,,,,,Poison]Iron Boulder||BoosterEnergy|QuarkDrive|zenheadbutt,closecombat,mightycleave,swordsdance||85,85,85,85,85,85|N|||77|,,,,,Fighting]Weezing||Leftovers|Levitate|fireblast,painsplit,toxicspikes,sludgebomb||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 42
+  }
 }

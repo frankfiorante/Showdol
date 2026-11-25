@@ -20,5 +20,9 @@
     "Glimmora"
   ],
   "player": "Floatzel||ChoiceBand|WaterVeil|icespinner,wavecrash,flipturn,crunch||85,85,85,85,85,85|F|||86|,,,,,Water]Chien-Pao||HeavyDutyBoots|SwordofRuin|iciclecrash,swordsdance,throatchop,sacredsword||85,85,85,85,85,85|N|||72|,,,,,Dark]Vigoroth||Eviolite|VitalSpirit|knockoff,slackoff,bodyslam,bulkup||85,85,85,85,85,85|F|||85|,,,,,Ghost]Archaludon||LumBerry|Stamina|ironhead,swordsdance,outrage,earthquake||85,85,85,85,85,85|F|||77|,,,,,Ground]Miraidon||LifeOrb|HadronEngine|calmmind,electrodrift,dracometeor,dragonpulse||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Glimmora||HeavyDutyBoots|ToxicDebris|mortalspin,spikes,sludgewave,earthpower||85,85,85,85,85,85|F|||75|,,,,,Ground",
-  "ai": "Zoroark||LifeOrb|Illusion|focusblast,nastyplot,darkpulse,sludgebomb||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Comfey||Leftovers|Triage|drainingkiss,synthesis,terablast,calmmind||85,,85,85,85,85|M|,0,,,,||85|,,,,,Ground]Hitmontop||Leftovers|Technician|closecombat,rapidspin,bulkup,tripleaxel||85,85,85,85,85,85|M|||88|,,,,,Ice]Toedscruel||Leftovers|MyceliumMight|knockoff,toxic,gigadrain,earthpower||85,85,85,85,85,85|M|||87|,,,,,Water]Empoleon||Leftovers|Competitive|roost,surf,icebeam,stealthrock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Flying]Excadrill||AssaultVest|MoldBreaker|rapidspin,rockslide,ironhead,earthquake||85,85,85,85,85,85|F|||79|,,,,,Water"
+  "ai": "Zoroark||LifeOrb|Illusion|focusblast,nastyplot,darkpulse,sludgebomb||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Comfey||Leftovers|Triage|drainingkiss,synthesis,terablast,calmmind||85,,85,85,85,85|M|,0,,,,||85|,,,,,Ground]Hitmontop||Leftovers|Technician|closecombat,rapidspin,bulkup,tripleaxel||85,85,85,85,85,85|M|||88|,,,,,Ice]Toedscruel||Leftovers|MyceliumMight|knockoff,toxic,gigadrain,earthpower||85,85,85,85,85,85|M|||87|,,,,,Water]Empoleon||Leftovers|Competitive|roost,surf,icebeam,stealthrock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Flying]Excadrill||AssaultVest|MoldBreaker|rapidspin,rockslide,ironhead,earthquake||85,85,85,85,85,85|F|||79|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 34
+  }
 }

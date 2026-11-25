@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,d1048f735baadc19744aadd7a140d725c04404795858f682dfaec2e68f77dd3f",
-    "ai": "sodium,7209e370fc68c821c10621ab04535952c855853e492b176ff2d287017487d3fc"
+    "player": "sodium,8d46b99803895f12be21e5f6bc7704f5428188cea7c09ef04cbe6f1c8f6e39ff",
+    "ai": "sodium,8cf0924ac3a22a2041052cbab7d5300220e8f8e36244ba2560fa38ee3516b30b"
   },
   "playerSpecies": [
-    "Cobalion",
-    "Smeargle",
-    "Primarina",
-    "Cinderace",
-    "Arceus-Dark",
-    "Armarouge"
+    "Flapple",
+    "Bellossom",
+    "Blastoise",
+    "Chien-Pao",
+    "Swanna",
+    "Galvantula"
   ],
-  "player": "Cobalion||Leftovers|Justified|calmmind,aurasphere,flashcannon,vacuumwave||85,,85,85,85,85|N|,0,,,,||80|,,,,,Water]Smeargle||FocusSash|OwnTempo|ceaselessedge,stealthrock,stickyweb,spore||85,85,85,85,85,85|M|||95|,,,,,Ghost]Primarina||Leftovers|Torrent|psychic,calmmind,sparklingaria,drainingkiss||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy]Cinderace||ChoiceBand|Libero|uturn,highjumpkick,gunkshot,pyroball||81,85,85,85,85,85|M|||77|,,,,,Fire]Arceus|ArceusDark|DreadPlate|Multitype|sludgebomb,judgment,calmmind,recover||85,,85,85,85,85|N|,0,,,,||71|,,,,,Poison]Armarouge||PowerHerb|WeakArmor|meteorbeam,psyshock,energyball,armorcannon||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass",
-  "ai": "Kricketune||FocusSash|Technician|knockoff,taunt,pounce,stickyweb||81,85,85,85,85,85|M|||99|,,,,,Ghost]Venomoth||HeavyDutyBoots|TintedLens|quiverdance,sludgewave,sleeppowder,bugbuzz||85,,85,85,85,85|M|,0,,,,||84|,,,,,Water]Primarina||Leftovers|LiquidVoice|moonblast,psychicnoise,drainingkiss,calmmind||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy]Regice||HeavyDutyBoots|ClearBody|icebeam,sleeptalk,rest,thunderbolt||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Dialga||AssaultVest|Pressure|dragontail,dracometeor,heavyslam,fireblast||85,85,85,85,85,85|N|||73|,,,,,Flying]Walking Wake||LifeOrb|Protosynthesis|hydrosteam,sunnyday,dracometeor,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire"
+  "player": "Flapple||ChoiceBand|Hustle|gravapple,outrage,suckerpunch,uturn||85,85,85,85,85,85|F|||88|,,,,,Dragon]Bellossom||Leftovers|Chlorophyll|strengthsap,quiverdance,moonblast,gigadrain||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fairy]Blastoise||WhiteHerb|Torrent|earthquake,hydropump,icebeam,shellsmash||85,85,85,85,85,85|F|||80|,,,,,Steel]Chien-Pao||HeavyDutyBoots|SwordofRuin|swordsdance,throatchop,sacredsword,iciclecrash||85,85,85,85,85,85|N|||72|,,,,,Ice]Swanna||HeavyDutyBoots|Hydration|hydropump,bravebird,roost,defog||85,85,85,85,85,85|M|||89|,,,,,Ground]Galvantula||HeavyDutyBoots|CompoundEyes|stickyweb,energyball,bugbuzz,thunder||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric",
+  "ai": "Pincurchin||Leftovers|ElectricSurge|scald,recover,spikes,thunderbolt||85,,85,85,85,85|F|,0,,,,|||,,,,,Water]Plusle||LifeOrb|LightningRod|alluringvoice,grassknot,nastyplot,thunderbolt||85,,85,85,85,85|F|,0,,,,||95|,,,,,Electric]Vileplume||Leftovers|EffectSpore|sleeppowder,gigadrain,sludgebomb,strengthsap||85,,85,85,85,85|M|,0,,,,||85|,,,,,Water]Breloom||LifeOrb|Technician|rocktomb,bulletseed,machpunch,swordsdance||85,85,85,85,85,85|M|||83|,,,,,Fighting]Enamorus|EnamorusTherian|ChoiceSpecs|Overcoat|mysticalfire,psychic,moonblast,earthpower||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground]Azelf||LifeOrb|Levitate|stealthrock,psychic,fireblast,explosion||85,85,85,85,85,85|N|||82|,,,,,Fire",
+  "curation": {
+    "battles": 100,
+    "playerWins": 26
+  }
 }

@@ -20,5 +20,9 @@
     "Wugtrio"
   ],
   "player": "Rhydon||Eviolite|LightningRod|megahorn,stoneedge,swordsdance,earthquake||85,85,85,85,85,85|F|||85|,,,,,Water]Weezing|WeezingGalar|Leftovers|Levitate|gunkshot,strangesteam,defog,willowisp||85,85,85,85,85,85|F|||86|,,,,,Steel]Dewgong||HeavyDutyBoots|ThickFat|surf,tripleaxel,encore,flipturn||85,85,85,85,85,85|F|||94|,,,,,Grass]Lurantis||AssaultVest|Contrary|leechlife,leafstorm,knockoff,superpower||85,85,85,85,85,85|M|||87|,,,,,Water]Hawlucha||WhiteHerb|Unburden|acrobatics,swordsdance,throatchop,closecombat||85,85,85,85,85,85|F|||80|,,,,,Flying]Wugtrio||ChoiceBand|Gooey|stompingtantrum,aquajet,throatchop,liquidation||85,85,85,85,85,85|F|||91|,,,,,Ground",
-  "ai": "Brute Bonnet||Leftovers|Protosynthesis|spore,closecombat,suckerpunch,crunch||85,85,85,85,85,85|N|||79|,,,,,Poison]Hitmonlee||WhiteHerb|Unburden|closecombat,swordsdance,knockoff,poisonjab||85,85,85,85,85,85|M|||85|,,,,,Poison]Iron Jugulis||PowerHerb|QuarkDrive|darkpulse,hurricane,meteorbeam,earthpower||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Garganacl||Leftovers|PurifyingSalt|protect,saltcure,recover,earthquake||85,85,85,85,85,85|M|||80|,,,,,Ghost]Galvantula||HeavyDutyBoots|CompoundEyes|bugbuzz,energyball,stickyweb,thunder||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Rotom|RotomMow|Leftovers|Levitate|willowisp,voltswitch,leafstorm,thunderbolt||85,,85,85,85,85|N|,0,,,,||87|,,,,,Grass"
+  "ai": "Brute Bonnet||Leftovers|Protosynthesis|spore,closecombat,suckerpunch,crunch||85,85,85,85,85,85|N|||79|,,,,,Poison]Hitmonlee||WhiteHerb|Unburden|closecombat,swordsdance,knockoff,poisonjab||85,85,85,85,85,85|M|||85|,,,,,Poison]Iron Jugulis||PowerHerb|QuarkDrive|darkpulse,hurricane,meteorbeam,earthpower||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Garganacl||Leftovers|PurifyingSalt|protect,saltcure,recover,earthquake||85,85,85,85,85,85|M|||80|,,,,,Ghost]Galvantula||HeavyDutyBoots|CompoundEyes|bugbuzz,energyball,stickyweb,thunder||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Rotom|RotomMow|Leftovers|Levitate|willowisp,voltswitch,leafstorm,thunderbolt||85,,85,85,85,85|N|,0,,,,||87|,,,,,Grass",
+  "curation": {
+    "battles": 100,
+    "playerWins": 63
+  }
 }

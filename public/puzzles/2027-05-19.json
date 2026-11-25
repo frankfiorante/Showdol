@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,2095d4df8c31d681c8cb4b4b4ab293f7a0071ddfdf9c09ad5397aacce3003946",
-    "ai": "sodium,34c2c820776c449ac65f50aa30072a87cfabb13a87a869c9199ac189233e83e1"
+    "player": "sodium,b7366aaa6f213b5ea78a3543fad623ed08c9404913f7be493fc099c164eabea7",
+    "ai": "sodium,76341fa37ba581d5b9a082d47bb488ec9b569efd0cf5210e33b235a675f3e08f"
   },
   "playerSpecies": [
-    "Zekrom",
-    "Groudon",
-    "Iron Treads",
-    "Salamence",
-    "Volcarona",
-    "Zacian"
+    "Meloetta",
+    "Pelipper",
+    "Houndoom",
+    "Ambipom",
+    "Latias",
+    "Orthworm"
   ],
-  "player": "Zekrom||Leftovers|Teravolt|boltstrike,substitute,outrage,dragondance||85,85,85,85,85,85|N|||71|,,,,,Steel]Groudon||Leftovers|Drought|heatcrash,swordsdance,precipiceblades,stoneedge||85,85,85,85,85,85|N|||72|,,,,,Fire]Iron Treads||Leftovers|QuarkDrive|stealthrock,earthquake,ironhead,rapidspin||85,85,85,85,85,85|N|||77|,,,,,Ghost]Salamence||HeavyDutyBoots|Moxie|dragondance,earthquake,outrage,dualwingbeat||85,85,85,85,85,85|M|||77|,,,,,Steel]Volcarona||HeavyDutyBoots|FlameBody|fierydance,quiverdance,morningsun,gigadrain||85,,85,85,85,85|F|,0,,,,||77|,,,,,Steel]Zacian||LifeOrb|IntrepidSword|swordsdance,psychicfangs,closecombat,playrough||85,85,85,85,85,85|N|||69|,,,,,Fighting",
-  "ai": "Palossand||Leftovers|WaterCompaction|shadowball,sludgebomb,shoreup,earthpower||85,,85,85,85,85|F|,0,,,,||89|,,,,,Water]Porygon2||Eviolite|Download|thunderwave,terablast,recover,shadowball||85,85,85,85,85,85|N|||81|,,,,,Fighting]Tornadus|TornadusTherian|AssaultVest|Regenerator|knockoff,heatwave,bleakwindstorm,uturn||85,85,85,85,85,85|M|||79|,,,,,Steel]Mesprit||ChoiceScarf|Levitate|thunderbolt,psychic,dazzlinggleam,trick||85,,85,85,85,85|N|,0,,,,||85|,,,,,Electric]Probopass||Leftovers|MagnetPull|irondefense,thunderwave,bodypress,powergem||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fighting]Persian||SilkScarf|Technician|knockoff,uturn,fakeout,doubleedge||85,85,85,85,85,85|F|||92|,,,,,Normal"
+  "player": "Meloetta||ChoiceSpecs|SereneGrace|focusblast,hypervoice,psyshock,uturn||85,85,85,85,85,85|N|||82|,,,,,Psychic]Pelipper||HeavyDutyBoots|Drizzle|hydropump,knockoff,hurricane,roost||85,85,85,85,85,85|F|||86|,,,,,Water]Houndoom||HeavyDutyBoots|FlashFire|fireblast,darkpulse,nastyplot,sludgebomb||85,,85,85,85,85|F|,0,,,,||87|,,,,,Poison]Ambipom||ChoiceBand|Technician|lowkick,doubleedge,knockoff,tripleaxel||85,85,85,85,85,85|F|||84|,,,,,Ice]Latias||SoulDew|Levitate|dracometeor,psyshock,recover,calmmind||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Orthworm||Leftovers|EarthEater|bodypress,spikes,heavyslam,shedtail||85,85,85,85,85,85|F|||88|,,,,,Poison",
+  "ai": "Dusknoir||ChoiceBand|Frisk|shadowsneak,leechlife,earthquake,poltergeist||85,85,85,85,85,85|M|||89|,,,,,Ground]Sableye||Leftovers|Prankster|thunderwave,encore,recover,knockoff||85,85,85,85,85,85|M|||87|,,,,,Steel]Tsareena||HeavyDutyBoots|QueenlyMajesty|highjumpkick,synthesis,rapidspin,powerwhip||85,85,85,85,85,85|F|||87|,,,,,Steel]Volbeat||HeavyDutyBoots|Prankster|roost,encore,lunge,thunderwave||85,85,85,85,85,85|M|||90|,,,,,Water]Hypno||Leftovers|Insomnia|focusblast,protect,psychicnoise,toxic||85,,85,85,85,85|F|,0,,,,||95|,,,,,Steel]Plusle||LifeOrb|LightningRod|thunderbolt,nastyplot,grassknot,encore||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass",
+  "curation": {
+    "battles": 100,
+    "playerWins": 67
+  }
 }

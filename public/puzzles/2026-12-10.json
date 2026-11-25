@@ -20,5 +20,9 @@
     "Delibird"
   ],
   "player": "Dipplin||Eviolite|StickyHold|recover,dragonpulse,gigadrain,dragontail||85,85,85,85,85,85|M|||88|,,,,,Steel]Hypno||Leftovers|Insomnia|focusblast,toxic,protect,psychicnoise||85,,85,85,85,85|F|,0,,,,||95|,,,,,Fighting]Gothitelle||ChoiceScarf|ShadowTag|focusblast,psychic,trick,darkpulse||85,,85,85,85,85|M|,0,,,,||90|,,,,,Steel]Kyogre||ChoiceScarf|Drizzle|thunder,originpulse,icebeam,waterspout||85,,85,85,85,85|N|,0,,,,||71|,,,,,Water]Forretress||Leftovers|Sturdy|rapidspin,spikes,ironhead,thunderwave||85,85,85,85,85,85|F|||84|,,,,,Water]Delibird||HeavyDutyBoots|Hustle|bravebird,drillrun,icespinner,iceshard||85,85,85,85,85,85|F||||,,,,,Ground",
-  "ai": "Gengar||LifeOrb|CursedBody|encore,sludgewave,shadowball,toxicspikes||85,,85,85,85,85|F|,0,,,,||81|,,,,,Dark]Morpeko||Leftovers|HungerSwitch|knockoff,protect,rapidspin,aurawheel||85,85,85,85,85,85|F|||88|,,,,,Electric]Gothitelle||ChoiceScarf|ShadowTag|trick,psychic,focusblast,darkpulse||85,,85,85,85,85|F|,0,,,,||90|,,,,,Psychic]Munkidori||LifeOrb|ToxicChain|psyshock,nastyplot,focusblast,sludgewave||85,,85,85,85,85|M|,0,,,,||79|,,,,,Poison]Furret||LifeOrb|Frisk|knockoff,doubleedge,brickbreak,tidyup||85,85,85,85,85,85|F|||94|,,,,,Normal]Glastrier||HeavyDutyBoots|ChillingNeigh|iciclecrash,swordsdance,heavyslam,closecombat||85,85,85,85,85,85|N|||86|,,,,,Fighting"
+  "ai": "Gengar||LifeOrb|CursedBody|encore,sludgewave,shadowball,toxicspikes||85,,85,85,85,85|F|,0,,,,||81|,,,,,Dark]Morpeko||Leftovers|HungerSwitch|knockoff,protect,rapidspin,aurawheel||85,85,85,85,85,85|F|||88|,,,,,Electric]Gothitelle||ChoiceScarf|ShadowTag|trick,psychic,focusblast,darkpulse||85,,85,85,85,85|F|,0,,,,||90|,,,,,Psychic]Munkidori||LifeOrb|ToxicChain|psyshock,nastyplot,focusblast,sludgewave||85,,85,85,85,85|M|,0,,,,||79|,,,,,Poison]Furret||LifeOrb|Frisk|knockoff,doubleedge,brickbreak,tidyup||85,85,85,85,85,85|F|||94|,,,,,Normal]Glastrier||HeavyDutyBoots|ChillingNeigh|iciclecrash,swordsdance,heavyslam,closecombat||85,85,85,85,85,85|N|||86|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 53
+  }
 }

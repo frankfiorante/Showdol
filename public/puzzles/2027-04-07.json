@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,795588351ff03a5981bc692f0b35841429a7bdd3921291c015719a08375e3c7c",
-    "ai": "sodium,3b7b89fde3288633fbebb0c67fa79b35f1a79aa254ee7cae4621115662ae63e0"
+    "player": "sodium,6db89f8a411fbd9861233fd17ecc1eb0997a363ea19ab72f0272c75515ddb4fe",
+    "ai": "sodium,127280d4423eebc5620e79a92e65a9e535ca07004860e274094aff61e77d8d74"
   },
   "playerSpecies": [
-    "Zebstrika",
-    "Bellibolt",
-    "Hoopa",
-    "Lumineon",
-    "Iron Bundle",
-    "Rhyperior"
+    "Tentacruel",
+    "Feraligatr",
+    "Hydrapple",
+    "Oranguru",
+    "Weavile",
+    "Slowbro-Galar"
   ],
-  "player": "Zebstrika||LifeOrb|SapSipper|highhorsepower,overheat,voltswitch,supercellslam||85,85,85,85,85,85|F|||87|,,,,,Ground]Bellibolt||Leftovers|Electromorphosis|slackoff,toxic,muddywater,thunderbolt||85,,85,85,85,85|F|,0,,,,||84|,,,,,Electric]Hoopa||ChoiceScarf|Magician|focusblast,shadowball,trick,psychic||85,,85,85,85,85|N|,0,,,,||85|,,,,,Fighting]Lumineon||HeavyDutyBoots|StormDrain|uturn,encore,hydropump,icebeam||85,85,85,85,85,85|M|||93|,,,,,Ground]Iron Bundle||HeavyDutyBoots|QuarkDrive|freezedry,encore,hydropump,icebeam||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water]Rhyperior||WeaknessPolicy|SolidRock|earthquake,stoneedge,megahorn,rockpolish||85,85,85,85,85,85|M|||82|,,,,,Bug",
-  "ai": "Flamigo||LifeOrb|Scrappy|swordsdance,bravebird,closecombat,throatchop||85,85,85,85,85,85|F|||82|,,,,,Fighting]Mew||LifeOrb|Synchronize|swordsdance,closecombat,leechlife,psychicfangs||85,85,85,85,85,85|N|||82|,,,,,Fighting]Hawlucha||WhiteHerb|Unburden|acrobatics,encore,swordsdance,closecombat||85,85,85,85,85,85|F|||80|,,,,,Flying]Sandaconda||Leftovers|ShedSkin|coil,stoneedge,rest,earthquake||85,85,85,85,85,85|M|||84|,,,,,Dragon]Milotic||Leftovers|Competitive|recover,scald,dragontail,icebeam||85,85,85,85,85,85|M|||83|,,,,,Steel]Indeedee||LifeOrb|PsychicSurge|dazzlinggleam,calmmind,expandingforce,hypervoice||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic"
+  "player": "Tentacruel||Leftovers|LiquidOoze|surf,rapidspin,sludgebomb,haze||85,85,85,85,85,85|F|||84|,,,,,Flying]Feraligatr||LifeOrb|SheerForce|dragondance,liquidation,crunch,icepunch||85,85,85,85,85,85|M|||79|,,,,,Water]Hydrapple||ChoiceSpecs|Regenerator|earthpower,ficklebeam,dracometeor,leafstorm||85,,85,85,85,85|F|,0,,,,||83|,,,,,Dragon]Oranguru||Leftovers|InnerFocus|psychic,thunderbolt,nastyplot,focusblast||85,,85,85,85,85|M|,0,,,,||92|,,,,,Electric]Weavile||ChoiceBand|Pickpocket|knockoff,lowkick,tripleaxel,iceshard||81,85,85,85,85,85|M|||79|,,,,,Dark]Slowbro|SlowbroGalar|AssaultVest|Regenerator|shellsidearm,fireblast,psychic,surf||85,85,85,85,85,85|F|||87|,,,,,Poison",
+  "ai": "Groudon||Leftovers|Drought|precipiceblades,swordsdance,thunderwave,heatcrash||85,85,85,85,85,85|N|||72|,,,,,Fire]Sandy Shocks||HeavyDutyBoots|Protosynthesis|stealthrock,voltswitch,thunderbolt,earthpower||85,,85,85,85,85|N|,0,,,,||80|,,,,,Electric]Tyranitar||AssaultVest|SandStream|earthquake,knockoff,dragontail,stoneedge||85,85,85,85,85,85|M|||78|,,,,,Rock]Snorlax||Leftovers|ThickFat|rest,sleeptalk,curse,bodyslam||85,85,85,85,85,85|M|||82|,,,,,Fairy]Ludicolo||LifeOrb|SwiftSwim|gigadrain,raindance,hydropump,icebeam||85,,85,85,85,85|F|,0,,,,||90|,,,,,Water]Skuntank||LifeOrb|Aftermath|knockoff,taunt,fireblast,gunkshot||85,85,85,85,85,85|F|||84|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 27
+  }
 }

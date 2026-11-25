@@ -20,5 +20,9 @@
     "Jolteon"
   ],
   "player": "Vikavolt||HeavyDutyBoots|Levitate|stickyweb,thunderbolt,energyball,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Probopass||Leftovers|MagnetPull|irondefense,flashcannon,bodypress,thunderwave||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fighting]Palossand||Leftovers|WaterCompaction|shadowball,earthpower,stealthrock,shoreup||85,,85,85,85,85|F|,0,,,,||89|,,,,,Poison]Mew||LifeOrb|Synchronize|knockoff,psychicfangs,swordsdance,closecombat||85,85,85,85,85,85|N|||82|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|defog,hydropump,roost,bravebird||85,85,85,85,85,85|M|||89|,,,,,Ground]Jolteon||HeavyDutyBoots|VoltAbsorb|thunderbolt,alluringvoice,calmmind,voltswitch||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fairy",
-  "ai": "Qwilfish|QwilfishHisui|Eviolite|Intimidate|toxicspikes,gunkshot,crunch,spikes||85,85,85,85,85,85|M|||83|,,,,,Flying]Raikou||Leftovers|Pressure|calmmind,scald,substitute,thunderbolt||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water]Wugtrio||ChoiceBand|Gooey|aquajet,stompingtantrum,throatchop,liquidation||85,85,85,85,85,85|M|||91|,,,,,Ground]Azelf||LifeOrb|Levitate|explosion,psychic,encore,fireblast||85,85,85,85,85,85|N|||82|,,,,,Fire]Lycanroc||ChoiceBand|SandRush|closecombat,stoneedge,crunch,psychicfangs||85,85,85,85,85,85|F|||86|,,,,,Fighting]Ambipom||SilkScarf|Technician|knockoff,fakeout,lowkick,doubleedge||85,85,85,85,85,85|F|||84|,,,,,Normal"
+  "ai": "Qwilfish|QwilfishHisui|Eviolite|Intimidate|toxicspikes,gunkshot,crunch,spikes||85,85,85,85,85,85|M|||83|,,,,,Flying]Raikou||Leftovers|Pressure|calmmind,scald,substitute,thunderbolt||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water]Wugtrio||ChoiceBand|Gooey|aquajet,stompingtantrum,throatchop,liquidation||85,85,85,85,85,85|M|||91|,,,,,Ground]Azelf||LifeOrb|Levitate|explosion,psychic,encore,fireblast||85,85,85,85,85,85|N|||82|,,,,,Fire]Lycanroc||ChoiceBand|SandRush|closecombat,stoneedge,crunch,psychicfangs||85,85,85,85,85,85|F|||86|,,,,,Fighting]Ambipom||SilkScarf|Technician|knockoff,fakeout,lowkick,doubleedge||85,85,85,85,85,85|F|||84|,,,,,Normal",
+  "curation": {
+    "battles": 100,
+    "playerWins": 63
+  }
 }

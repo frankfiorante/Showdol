@@ -20,5 +20,9 @@
     "Eiscue"
   ],
   "player": "Glaceon||HeavyDutyBoots|IceBody|wish,protect,freezedry,mudshot||85,,85,85,85,85|M|,0,,,,||94|,,,,,Ground]Hitmontop||Leftovers|Technician|bulkup,closecombat,tripleaxel,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Ice]Okidogi||AssaultVest|ToxicChain|drainpunch,gunkshot,knockoff,psychicfangs||85,85,85,85,85,85|M|||77|,,,,,Dark]Bruxish||LifeOrb|StrongJaw|wavecrash,psychicfangs,swordsdance,crunch||85,85,85,85,85,85|M|||85|,,,,,Psychic]Exeggutor||SitrusBerry|Harvest|sleeppowder,psychic,leechseed,substitute||77,,85,85,85,85|M|,0,,,,||89|,,,,,Steel]Eiscue||SitrusBerry|IceFace|icespinner,bellydrum,liquidation,terablast||81,85,85,85,85,85|M|||88|,,,,,Ground",
-  "ai": "Farigiraf||Leftovers|SapSipper|psychicnoise,wish,bodyslam,protect||85,85,85,85,85,85|F|||89|,,,,,Water]Virizion||LifeOrb|Justified|stoneedge,closecombat,leafblade,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock]Meganium||Leftovers|Overgrow|swordsdance,knockoff,earthquake,petalblizzard||85,85,85,85,85,85|F|||90|,,,,,Steel]Noctowl||HeavyDutyBoots|TintedLens|defog,hurricane,roost,hypervoice||85,,85,85,85,85|F|,0,,,,||95|,,,,,Normal]Sneasler||ChoiceBand|PoisonTouch|uturn,direclaw,closecombat,throatchop||85,85,85,85,85,85|M|||74|,,,,,Fighting]Chien-Pao||HeavyDutyBoots|SwordofRuin|swordsdance,iciclecrash,throatchop,suckerpunch||85,85,85,85,85,85|N|||72|,,,,,Dark"
+  "ai": "Farigiraf||Leftovers|SapSipper|psychicnoise,wish,bodyslam,protect||85,85,85,85,85,85|F|||89|,,,,,Water]Virizion||LifeOrb|Justified|stoneedge,closecombat,leafblade,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock]Meganium||Leftovers|Overgrow|swordsdance,knockoff,earthquake,petalblizzard||85,85,85,85,85,85|F|||90|,,,,,Steel]Noctowl||HeavyDutyBoots|TintedLens|defog,hurricane,roost,hypervoice||85,,85,85,85,85|F|,0,,,,||95|,,,,,Normal]Sneasler||ChoiceBand|PoisonTouch|uturn,direclaw,closecombat,throatchop||85,85,85,85,85,85|M|||74|,,,,,Fighting]Chien-Pao||HeavyDutyBoots|SwordofRuin|swordsdance,iciclecrash,throatchop,suckerpunch||85,85,85,85,85,85|N|||72|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 50
+  }
 }

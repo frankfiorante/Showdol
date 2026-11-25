@@ -20,5 +20,9 @@
     "Masquerain"
   ],
   "player": "Golduck||LifeOrb|CloudNine|hydropump,icebeam,nastyplot,grassknot||85,,85,85,85,85|F|,0,,,,||90|,,,,,Water]Snorlax||ChestoBerry|ThickFat|curse,bodyslam,crunch,rest||85,85,85,85,85,85|M|||82|,,,,,Poison]Scream Tail||Leftovers|Protosynthesis|thunderwave,protect,wish,dazzlinggleam||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison]Okidogi||AssaultVest|ToxicChain|knockoff,highhorsepower,gunkshot,drainpunch||85,85,85,85,85,85|M|||77|,,,,,Dark]Toxtricity||ChoiceScarf|PunkRock|overdrive,boomburst,sludgewave,voltswitch||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Masquerain||HeavyDutyBoots|Intimidate|hydropump,hurricane,bugbuzz,quiverdance||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water",
-  "ai": "Sawsbuck|SawsbuckWinter|LifeOrb|SapSipper|doubleedge,highhorsepower,swordsdance,hornleech||85,85,85,85,85,85|M|||88|,,,,,Normal]Avalugg|AvaluggHisui|HeavyDutyBoots|Sturdy|recover,stoneedge,avalanche,bodypress||85,85,85,85,85,85|F|||91|,,,,,Poison]Breloom||LifeOrb|Technician|swordsdance,machpunch,spore,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Fighting]Regirock||Leftovers|ClearBody|stealthrock,stoneedge,thunderwave,bodypress||85,85,85,85,85,85|N|||83|,,,,,Fighting]Regidrago||LumBerry|DragonsMaw|outrage,earthquake,dracometeor,dragondance||85,85,85,85,85,85|N|||77|,,,,,Dragon]Metagross||ChoiceBand|ClearBody|bulletpunch,knockoff,heavyslam,earthquake||85,85,85,85,85,85|N|||79|,,,,,Water"
+  "ai": "Sawsbuck|SawsbuckWinter|LifeOrb|SapSipper|doubleedge,highhorsepower,swordsdance,hornleech||85,85,85,85,85,85|M|||88|,,,,,Normal]Avalugg|AvaluggHisui|HeavyDutyBoots|Sturdy|recover,stoneedge,avalanche,bodypress||85,85,85,85,85,85|F|||91|,,,,,Poison]Breloom||LifeOrb|Technician|swordsdance,machpunch,spore,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Fighting]Regirock||Leftovers|ClearBody|stealthrock,stoneedge,thunderwave,bodypress||85,85,85,85,85,85|N|||83|,,,,,Fighting]Regidrago||LumBerry|DragonsMaw|outrage,earthquake,dracometeor,dragondance||85,85,85,85,85,85|N|||77|,,,,,Dragon]Metagross||ChoiceBand|ClearBody|bulletpunch,knockoff,heavyslam,earthquake||85,85,85,85,85,85|N|||79|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 65
+  }
 }

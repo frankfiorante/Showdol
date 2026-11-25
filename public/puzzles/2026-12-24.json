@@ -20,5 +20,9 @@
     "Tornadus"
   ],
   "player": "Armarouge||ChoiceSpecs|WeakArmor|armorcannon,psyshock,aurasphere,energyball||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fire]Skuntank||AssaultVest|Aftermath|fireblast,knockoff,gunkshot,suckerpunch||85,85,85,85,85,85|M|||84|,,,,,Dark]Bastiodon||ChestoBerry|Soundproof|rest,foulplay,bodypress,irondefense||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Cacturne||LifeOrb|WaterAbsorb|spikes,knockoff,leafstorm,suckerpunch||85,85,85,85,85,85|M|||92|,,,,,Dark]Dodrio||HeavyDutyBoots|EarlyBird|drillrun,doubleedge,swordsdance,bravebird||85,85,85,85,85,85|M|||85|,,,,,Normal]Tornadus||ChoiceSpecs|Defiant|focusblast,heatwave,uturn,bleakwindstorm||81,85,85,85,85,85|M|||82|,,,,,Flying",
-  "ai": "Hitmonlee||WhiteHerb|Unburden|closecombat,knockoff,swordsdance,stoneedge||85,85,85,85,85,85|M|||85|,,,,,Dark]Metagross||WeaknessPolicy|ClearBody|heavyslam,agility,earthquake,psychicfangs||85,85,85,85,85,85|N|||79|,,,,,Ground]Gouging Fire||HeavyDutyBoots|Protosynthesis|heatcrash,morningsun,dragondance,outrage||85,85,85,85,85,85|N|||74|,,,,,Fairy]Froslass||WideLens|CursedBody|destinybond,poltergeist,spikes,tripleaxel||81,85,85,85,85,85|F|||87|,,,,,Ghost]Camerupt||Leftovers|SolidRock|overheat,stealthrock,earthquake,roar||85,85,85,85,85,85|M|||91|,,,,,Water]Breloom||LifeOrb|Technician|rocktomb,machpunch,swordsdance,bulletseed||85,85,85,85,85,85|F|||83|,,,,,Fighting"
+  "ai": "Hitmonlee||WhiteHerb|Unburden|closecombat,knockoff,swordsdance,stoneedge||85,85,85,85,85,85|M|||85|,,,,,Dark]Metagross||WeaknessPolicy|ClearBody|heavyslam,agility,earthquake,psychicfangs||85,85,85,85,85,85|N|||79|,,,,,Ground]Gouging Fire||HeavyDutyBoots|Protosynthesis|heatcrash,morningsun,dragondance,outrage||85,85,85,85,85,85|N|||74|,,,,,Fairy]Froslass||WideLens|CursedBody|destinybond,poltergeist,spikes,tripleaxel||81,85,85,85,85,85|F|||87|,,,,,Ghost]Camerupt||Leftovers|SolidRock|overheat,stealthrock,earthquake,roar||85,85,85,85,85,85|M|||91|,,,,,Water]Breloom||LifeOrb|Technician|rocktomb,machpunch,swordsdance,bulletseed||85,85,85,85,85,85|F|||83|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 44
+  }
 }

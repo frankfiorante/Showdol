@@ -20,5 +20,9 @@
     "Serperior"
   ],
   "player": "Araquanid||HeavyDutyBoots|WaterBubble|hydropump,leechlife,liquidation,stickyweb||85,85,85,85,85,85|M|||82|,,,,,Water]Urshifu||LifeOrb|UnseenFist|wickedblow,poisonjab,closecombat,swordsdance||85,85,85,85,85,85|F|||74|,,,,,Dark]Duraludon||Eviolite|LightMetal|flashcannon,irondefense,bodypress,dracometeor||85,,85,85,85,85|F|,0,,,,||82|,,,,,Fighting]Drifblim||SitrusBerry|Unburden|calmmind,strengthsap,airslash,shadowball||73,,85,85,85,85|M|,0,,,,||86|,,,,,Dark]Sandaconda||Leftovers|ShedSkin|stoneedge,glare,earthquake,coil||85,85,85,85,85,85|M|||84|,,,,,Steel]Serperior||Leftovers|Contrary|dragonpulse,leafstorm,leechseed,substitute||85,,85,85,85,85|M|,0,,,,||79|,,,,,Water",
-  "ai": "Brute Bonnet||Leftovers|Protosynthesis|spore,suckerpunch,crunch,closecombat||85,85,85,85,85,85|N|||79|,,,,,Poison]Deoxys|DeoxysSpeed|Leftovers|Pressure|psychoboost,knockoff,taunt,stealthrock||85,85,85,85,85,85|N|||82|,,,,,Dark]Lurantis||AssaultVest|Contrary|leechlife,superpower,leafstorm,knockoff||85,85,85,85,85,85|F|||87|,,,,,Fighting]Groudon||Leftovers|Drought|heatcrash,swordsdance,thunderwave,precipiceblades||85,85,85,85,85,85|N|||72|,,,,,Fire]Weezing||Leftovers|Levitate|toxicspikes,fireblast,painsplit,gunkshot||85,85,85,85,85,85|F|||88|,,,,,Steel]Magcargo||HeavyDutyBoots|FlameBody|powergem,lavaplume,recover,yawn||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass"
+  "ai": "Brute Bonnet||Leftovers|Protosynthesis|spore,suckerpunch,crunch,closecombat||85,85,85,85,85,85|N|||79|,,,,,Poison]Deoxys|DeoxysSpeed|Leftovers|Pressure|psychoboost,knockoff,taunt,stealthrock||85,85,85,85,85,85|N|||82|,,,,,Dark]Lurantis||AssaultVest|Contrary|leechlife,superpower,leafstorm,knockoff||85,85,85,85,85,85|F|||87|,,,,,Fighting]Groudon||Leftovers|Drought|heatcrash,swordsdance,thunderwave,precipiceblades||85,85,85,85,85,85|N|||72|,,,,,Fire]Weezing||Leftovers|Levitate|toxicspikes,fireblast,painsplit,gunkshot||85,85,85,85,85,85|F|||88|,,,,,Steel]Magcargo||HeavyDutyBoots|FlameBody|powergem,lavaplume,recover,yawn||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass",
+  "curation": {
+    "battles": 100,
+    "playerWins": 44
+  }
 }

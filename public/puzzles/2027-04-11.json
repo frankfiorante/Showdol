@@ -20,5 +20,9 @@
     "Cinccino"
   ],
   "player": "Staraptor||ChoiceScarf|Reckless|bravebird,uturn,closecombat,doubleedge||81,85,85,85,85,85|M|||79|,,,,,Flying]Veluza||ChoiceScarf|Sharpness|nightslash,flipturn,aquacutter,psychocut||85,85,85,85,85,85|M|||85|,,,,,Water]Thundurus||HeavyDutyBoots|Prankster|knockoff,sludgewave,thunderwave,thunderbolt||85,85,85,85,85,85|M|||80|,,,,,Electric]Goodra||AssaultVest|SapSipper|sludgebomb,scald,dracometeor,fireblast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Water]Magearna|MagearnaOriginal|Leftovers|SoulHeart|calmmind,shiftgear,fleurcannon,flashcannon||85,,85,85,85,85|N|,0,,,,||77|,,,,,Flying]Cinccino||LoadedDice|Technician|uturn,tripleaxel,tailslap,bulletseed||85,85,85,85,85,85|F|||83|,,,,,Ice",
-  "ai": "Maushold|MausholdFour|WideLens|Technician|tidyup,populationbomb,bite,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Hippowdon||RockyHelmet|SandStream|whirlwind,slackoff,stealthrock,earthquake||85,85,85,85,85,85|F|||82|,,,,,Rock]Kingambit||Leftovers|SupremeOverlord|kowtowcleave,swordsdance,ironhead,suckerpunch||85,85,85,85,85,85|F|||74|,,,,,Flying]Golduck||Leftovers|CloudNine|hydropump,icebeam,nastyplot,grassknot||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water]Terapagos||ChestoBerry|TeraShift|rest,calmmind,terastarstorm,earthpower||85,,85,85,85,85|F|,0,,,,||77|,,,,,Stellar]Whimsicott||Leftovers|Prankster|leechseed,moonblast,encore,substitute||85,,85,85,85,85|F|,0,,,,||84|,,,,,Steel"
+  "ai": "Maushold|MausholdFour|WideLens|Technician|tidyup,populationbomb,bite,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Hippowdon||RockyHelmet|SandStream|whirlwind,slackoff,stealthrock,earthquake||85,85,85,85,85,85|F|||82|,,,,,Rock]Kingambit||Leftovers|SupremeOverlord|kowtowcleave,swordsdance,ironhead,suckerpunch||85,85,85,85,85,85|F|||74|,,,,,Flying]Golduck||Leftovers|CloudNine|hydropump,icebeam,nastyplot,grassknot||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water]Terapagos||ChestoBerry|TeraShift|rest,calmmind,terastarstorm,earthpower||85,,85,85,85,85|F|,0,,,,||77|,,,,,Stellar]Whimsicott||Leftovers|Prankster|leechseed,moonblast,encore,substitute||85,,85,85,85,85|F|,0,,,,||84|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 48
+  }
 }

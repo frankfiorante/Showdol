@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,63ef9999190146f8b86be784eaa0de09c8e18f05478cd0ffcbfa0e83b61218fe",
-    "ai": "sodium,89540cc51c14dfc5ba7d7f6e1f1a12a81b96d3900f83fa0da20170a2436dd5ea"
+    "player": "sodium,87e3cd57d74e966fc85a01349a32a95b1365b9a0ba6cf72aced5db2aa9a9538e",
+    "ai": "sodium,311c2261df873c42385d6ca3dccad20084b007984e2cb4c409607283dd5bd132"
   },
   "playerSpecies": [
-    "Honchkrow",
-    "Klawf",
-    "Breloom",
-    "Dragalge",
-    "Cinderace",
-    "Espeon"
+    "Rampardos",
+    "Mandibuzz",
+    "Oricorio-Pa'u",
+    "Empoleon",
+    "Ursaring",
+    "Palossand"
   ],
-  "player": "Honchkrow||HeavyDutyBoots|Moxie|lashout,heatwave,suckerpunch,bravebird||85,85,85,85,85,85|M|||86|,,,,,Dark]Klawf||LumBerry|AngerShell|crabhammer,knockoff,swordsdance,stoneedge||85,85,85,85,85,85|M|||90|,,,,,Dark]Breloom||LifeOrb|Technician|rocktomb,bulletseed,swordsdance,machpunch||85,85,85,85,85,85|F|||83|,,,,,Rock]Dragalge||Leftovers|Adaptability|toxic,dracometeor,sludgewave,focusblast||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fighting]Cinderace||ChoiceBand|Libero|highjumpkick,pyroball,uturn,gunkshot||81,85,85,85,85,85|F|||77|,,,,,Fighting]Espeon||ChoiceSpecs|MagicBounce|shadowball,psyshock,alluringvoice,trick||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic",
-  "ai": "Munkidori||AssaultVest|ToxicChain|uturn,sludgewave,psychicnoise,focusblast||85,85,85,85,85,85|M|||79|,,,,,Dark]Slither Wing||HeavyDutyBoots|Protosynthesis|closecombat,willowisp,morningsun,uturn||85,85,85,85,85,85|N|||81|,,,,,Steel]Arbok||Leftovers|Intimidate|trailblaze,coil,earthquake,gunkshot||85,85,85,85,85,85|F|||87|,,,,,Ground]Wigglytuff||Leftovers|Competitive|alluringvoice,protect,fireblast,wish||85,,85,85,85,85|M|,0,,,,||96|,,,,,Poison]Arceus|ArceusGrass|MeadowPlate|Multitype|icebeam,calmmind,judgment,earthpower||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Charizard||HeavyDutyBoots|Blaze|flamethrower,focusblast,hurricane,earthquake||85,85,85,85,85,85|F|||85|,,,,,Ground"
+  "player": "Rampardos||LifeOrb|SheerForce|rockslide,firepunch,earthquake,zenheadbutt||85,85,85,85,85,85|M|||90|,,,,,Fire]Mandibuzz||HeavyDutyBoots|Overcoat|roost,toxic,defog,foulplay||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Oricorio|OricorioPau|HeavyDutyBoots|Dancer|revelationdance,quiverdance,hurricane,roost||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ground]Empoleon||Leftovers|Competitive|roost,yawn,surf,stealthrock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Grass]Ursaring||Eviolite|Guts|bodyslam,sleeptalk,rest,throatchop||85,85,85,85,85,85|F|||84|,,,,,Ghost]Palossand||Leftovers|WaterCompaction|sludgebomb,shadowball,earthpower,shoreup||85,,85,85,85,85|F|,0,,,,||89|,,,,,Poison",
+  "ai": "Vivillon|VivillonSandstorm|HeavyDutyBoots|CompoundEyes|sleeppowder,bugbuzz,quiverdance,hurricane||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Hariyama||AssaultVest|ThickFat|heavyslam,closecombat,knockoff,bulletpunch||85,85,85,85,85,85|F|||87|,,,,,Steel]Virizion||LifeOrb|Justified|closecombat,swordsdance,stoneedge,leafblade||85,85,85,85,85,85|N|||82|,,,,,Rock]Goodra|GoodraHisui|AssaultVest|SapSipper|heavyslam,knockoff,earthquake,dracometeor||85,85,85,85,85,85|F|||82|,,,,,Ground]Kyogre||Leftovers|Drizzle|originpulse,icebeam,thunder,calmmind||85,,85,85,85,85|N|,0,,,,||71|,,,,,Steel]Regice||HeavyDutyBoots|ClearBody|thunderwave,bodypress,thunderbolt,icebeam||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric",
+  "curation": {
+    "battles": 100,
+    "playerWins": 56
+  }
 }

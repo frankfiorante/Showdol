@@ -20,5 +20,9 @@
     "Scizor"
   ],
   "player": "Bellossom||Leftovers|Chlorophyll|strengthsap,moonblast,gigadrain,quiverdance||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fairy]Araquanid||HeavyDutyBoots|WaterBubble|hydropump,liquidation,stickyweb,leechlife||85,85,85,85,85,85|M|||82|,,,,,Steel]Espeon||ChoiceSpecs|MagicBounce|alluringvoice,trick,shadowball,psychic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Toedscruel||AssaultVest|MyceliumMight|rapidspin,knockoff,earthpower,gigadrain||85,85,85,85,85,85|F|||87|,,,,,Water]Miraidon||ChoiceSpecs|HadronEngine|electrodrift,overheat,voltswitch,dracometeor||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Scizor||LifeOrb|Technician|swordsdance,bulletpunch,knockoff,bugbite||85,85,85,85,85,85|M|||79|,,,,,Steel",
-  "ai": "Altaria||HeavyDutyBoots|NaturalCure|earthquake,dragondance,roost,bravebird||85,85,85,85,85,85|M|||89|,,,,,Ground]Sawsbuck||LifeOrb|SereneGrace|highhorsepower,hornleech,swordsdance,headbutt||85,85,85,85,85,85|M|||88|,,,,,Normal]Torkoal||HeavyDutyBoots|Drought|rapidspin,yawn,fireblast,solarbeam||85,85,85,85,85,85|F|||88|,,,,,Grass]Carbink||ChestoBerry|Sturdy|moonblast,irondefense,rest,bodypress||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Fezandipiti||Leftovers|ToxicChain|playrough,swordsdance,gunkshot,terablast||85,85,85,85,85,85|M|||82|,,,,,Ground]Virizion||LifeOrb|Justified|stoneedge,leafblade,closecombat,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock"
+  "ai": "Altaria||HeavyDutyBoots|NaturalCure|earthquake,dragondance,roost,bravebird||85,85,85,85,85,85|M|||89|,,,,,Ground]Sawsbuck||LifeOrb|SereneGrace|highhorsepower,hornleech,swordsdance,headbutt||85,85,85,85,85,85|M|||88|,,,,,Normal]Torkoal||HeavyDutyBoots|Drought|rapidspin,yawn,fireblast,solarbeam||85,85,85,85,85,85|F|||88|,,,,,Grass]Carbink||ChestoBerry|Sturdy|moonblast,irondefense,rest,bodypress||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Fezandipiti||Leftovers|ToxicChain|playrough,swordsdance,gunkshot,terablast||85,85,85,85,85,85|M|||82|,,,,,Ground]Virizion||LifeOrb|Justified|stoneedge,leafblade,closecombat,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock",
+  "curation": {
+    "battles": 100,
+    "playerWins": 69
+  }
 }

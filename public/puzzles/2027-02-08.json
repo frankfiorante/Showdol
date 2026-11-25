@@ -20,5 +20,9 @@
     "Smeargle"
   ],
   "player": "Cacturne||LifeOrb|WaterAbsorb|suckerpunch,seedbomb,swordsdance,knockoff||85,85,85,85,85,85|F|||92|,,,,,Dark]Gumshoos||ChoiceBand|Stakeout|uturn,doubleedge,knockoff,earthquake||85,85,85,85,85,85|F|||95|,,,,,Normal]Heracross||FlameOrb|Guts|knockoff,closecombat,facade,trailblaze||85,85,85,85,85,85|F|||80|,,,,,Normal]Clawitzer||AssaultVest|MegaLauncher|uturn,dragonpulse,waterpulse,darkpulse||85,85,85,85,85,85|M|||87|,,,,,Dragon]Lunala||Leftovers|ShadowShield|moonblast,moonlight,moongeistbeam,calmmind||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fairy]Smeargle||FocusSash|OwnTempo|stealthrock,spore,stickyweb,ceaselessedge||85,85,85,85,85,85|F|||95|,,,,,Ghost",
-  "ai": "Electivire||LifeOrb|MotorDrive|voltswitch,supercellslam,flamethrower,knockoff||85,85,85,85,85,85|M|||84|,,,,,Dark]Clefable||Leftovers|Unaware|knockoff,moonblast,moonlight,fireblast||85,85,85,85,85,85|M|||83|,,,,,Steel]Primarina||Leftovers|Torrent|sparklingaria,calmmind,drainingkiss,psychic||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fairy]Conkeldurr||FlameOrb|Guts|closecombat,machpunch,facade,knockoff||85,85,85,85,85,85|M|||80|,,,,,Normal]Indeedee||ChoiceScarf|PsychicSurge|dazzlinggleam,hypervoice,shadowball,expandingforce||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Necrozma|NecrozmaDawnWings|Leftovers|PrismArmor|moongeistbeam,moonlight,calmmind,photongeyser||85,,85,85,85,85|N|,0,,,,||76|,,,,,Dark"
+  "ai": "Electivire||LifeOrb|MotorDrive|voltswitch,supercellslam,flamethrower,knockoff||85,85,85,85,85,85|M|||84|,,,,,Dark]Clefable||Leftovers|Unaware|knockoff,moonblast,moonlight,fireblast||85,85,85,85,85,85|M|||83|,,,,,Steel]Primarina||Leftovers|Torrent|sparklingaria,calmmind,drainingkiss,psychic||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fairy]Conkeldurr||FlameOrb|Guts|closecombat,machpunch,facade,knockoff||85,85,85,85,85,85|M|||80|,,,,,Normal]Indeedee||ChoiceScarf|PsychicSurge|dazzlinggleam,hypervoice,shadowball,expandingforce||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Necrozma|NecrozmaDawnWings|Leftovers|PrismArmor|moongeistbeam,moonlight,calmmind,photongeyser||85,,85,85,85,85|N|,0,,,,||76|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 71
+  }
 }

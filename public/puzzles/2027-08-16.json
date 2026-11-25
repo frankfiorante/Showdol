@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,e00347662961a9a45aedd760949911ce03b1d687ab3214fe6d5bbfb50e0d76c9",
-    "ai": "sodium,3da4a0162c8c85214875e5561f56e33281c6330858a321b0b1eb5a73662a7017"
+    "player": "sodium,0f5fb6bf87e30b218c719e6aa8cadbf30bad8fc707fb5474032980f76d0d039d",
+    "ai": "sodium,9495082a6797f5c6b1731442ad0e93b02fb322f6d3730fa61b9e110db6e42e4b"
   },
   "playerSpecies": [
-    "Lunala",
-    "Diancie",
-    "Maushold-Four",
-    "Golem",
-    "Regieleki",
-    "Groudon"
+    "Landorus",
+    "Volcarona",
+    "Floatzel",
+    "Bisharp",
+    "Iron Valiant",
+    "Brute Bonnet"
   ],
-  "player": "Lunala||Leftovers|ShadowShield|psyshock,calmmind,moongeistbeam,moonlight||85,,85,85,85,85|N|,0,,,,||70|,,,,,Dark]Diancie||Leftovers|ClearBody|earthpower,calmmind,diamondstorm,drainingkiss||85,85,85,85,85,85|N|||82|,,,,,Fairy]Maushold|MausholdFour|WideLens|Technician|tidyup,populationbomb,bite,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Golem||CustapBerry|Sturdy|earthquake,explosion,stealthrock,stoneedge||85,85,85,85,85,85|F|||87|,,,,,Grass]Regieleki||Magnet|Transistor|rapidspin,voltswitch,explosion,thunderbolt||85,85,85,85,85,85|N|||79|,,,,,Electric]Groudon||Leftovers|Drought|stoneedge,heatcrash,thunderwave,precipiceblades||85,85,85,85,85,85|N|||72|,,,,,Fire",
-  "ai": "Tropius||SitrusBerry|Harvest|substitute,protect,leechseed,airslash||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Noctowl||HeavyDutyBoots|TintedLens|roost,hypervoice,calmmind,hurricane||85,,85,85,85,85|F|,0,,,,||95|,,,,,Normal]Magearna||Leftovers|SoulHeart|fleurcannon,voltswitch,spikes,flashcannon||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Lapras||LoadedDice|WaterAbsorb|waterfall,iciclespear,earthquake,dragondance||81,85,85,85,85,85|F|||87|,,,,,Ground]Glimmora||HeavyDutyBoots|ToxicDebris|mortalspin,sludgewave,spikes,earthpower||85,85,85,85,85,85|M|||75|,,,,,Ground]Qwilfish||Leftovers|Intimidate|gunkshot,waterfall,destinybond,thunderwave||85,85,85,85,85,85|M|||86|,,,,,Grass"
+  "player": "Landorus||LifeOrb|SheerForce|earthpower,stealthrock,sludgewave,psychic||85,,85,85,85,85|M|,0,,,,||75|,,,,,Poison]Volcarona||HeavyDutyBoots|FlameBody|bugbuzz,fierydance,terablast,quiverdance||85,,85,85,85,85|M|,0,,,,||77|,,,,,Water]Floatzel||ChoiceBand|WaterVeil|wavecrash,icespinner,crunch,flipturn||85,85,85,85,85,85|F|||86|,,,,,Water]Bisharp||Eviolite|Defiant|ironhead,swordsdance,suckerpunch,throatchop||85,85,85,85,85,85|F|||79|,,,,,Ghost]Iron Valiant||LifeOrb|QuarkDrive|closecombat,spiritbreak,knockoff,swordsdance||85,85,85,85,85,85|N|||78|,,,,,Dark]Brute Bonnet||Leftovers|Protosynthesis|suckerpunch,spore,crunch,seedbomb||85,85,85,85,85,85|N|||79|,,,,,Poison",
+  "ai": "Raichu|RaichuAlola|LifeOrb|SurgeSurfer|surf,thunderbolt,nastyplot,psyshock||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Ursaluna|UrsalunaBloodmoon|Leftovers|MindsEye|bloodmoon,vacuumwave,calmmind,moonlight||85,,85,85,85,85|M|,0,,,,||79|,,,,,Poison]Magmortar||HeavyDutyBoots|FlameBody|thunderbolt,focusblast,fireblast,willowisp||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting]Lunala||Leftovers|ShadowShield|psyshock,calmmind,moonlight,moongeistbeam||85,,85,85,85,85|N|,0,,,,||70|,,,,,Dark]Moltres||HeavyDutyBoots|FlameBody|bravebird,fireblast,roost,scorchingsands||85,85,85,85,85,85|N|||81|,,,,,Ground]Lapras||HeavyDutyBoots|WaterAbsorb|sparklingaria,freezedry,sleeptalk,rest||85,,85,85,85,85|F|,0,,,,||87|,,,,,Ghost",
+  "curation": {
+    "battles": 100,
+    "playerWins": 23
+  }
 }

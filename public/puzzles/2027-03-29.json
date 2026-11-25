@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,af3fa7d95898129368bd96928c31f21a2aef9a0c9fce7fad1699c2d620ecb734",
-    "ai": "sodium,c46de8e3e1461922fa59bb51e16e118b8eeca09d9cb846df47f3cc99fc992c4e"
+    "player": "sodium,40306cb364ce03b4e830d689a854949c25d36a59dacdb0fbf14d8ee98bac6931",
+    "ai": "sodium,fed4d1e2abeea61f47637c583775a941396130aff48dcae0aeeead250eb5ab1a"
   },
   "playerSpecies": [
-    "Mightyena",
-    "Grumpig",
-    "Porygon2",
-    "Tauros",
-    "Quagsire",
-    "Iron Valiant"
+    "Chi-Yu",
+    "Cryogonal",
+    "Manaphy",
+    "Dragalge",
+    "Slaking",
+    "Armarouge"
   ],
-  "player": "Mightyena||Leftovers|Intimidate|suckerpunch,throatchop,taunt,playrough||85,85,85,85,85,85|M|||96|,,,,,Fairy]Grumpig||ChoiceSpecs|ThickFat|psychic,shadowball,focusblast,earthpower||85,,85,85,85,85|M|,0,,,,||92|,,,,,Psychic]Porygon2||Eviolite|Download|icebeam,recover,triattack,discharge||85,,85,85,85,85|N|,0,,,,||81|,,,,,Ghost]Tauros||LifeOrb|SheerForce|closecombat,bodyslam,earthquake,throatchop||85,85,85,85,85,85|M|||82|,,,,,Normal]Quagsire||Leftovers|Unaware|recover,toxic,earthquake,icebeam||85,85,85,85,85,85|F|||84|,,,,,Steel]Iron Valiant||LifeOrb|QuarkDrive|moonblast,encore,knockoff,closecombat||85,85,85,85,85,85|N|||78|,,,,,Fighting",
-  "ai": "Charizard||HeavyDutyBoots|Blaze|willowisp,hurricane,focusblast,flamethrower||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fire]Mienshao||AssaultVest|Regenerator|knockoff,uturn,fakeout,closecombat||85,85,85,85,85,85|F|||83|,,,,,Steel]Arceus|ArceusFlying|SkyPlate|Multitype|earthpower,calmmind,recover,judgment||81,,85,85,85,85|N|,0,,,,||69|,,,,,Ground]Armarouge||PowerHerb|WeakArmor|psyshock,meteorbeam,armorcannon,energyball||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fire]Basculegion|BasculegionF|ChoiceSpecs|Adaptability|hydropump,icebeam,shadowball,flipturn||85,85,85,85,85,85|F|||83|,,,,,Water]Giratina||Leftovers|Pressure|shadowball,rest,dragontail,sleeptalk||85,85,85,85,85,85|N|||75|,,,,,Fairy"
+  "player": "Chi-Yu||HeavyDutyBoots|BeadsofRuin|willowisp,nastyplot,darkpulse,fireblast||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Cryogonal||HeavyDutyBoots|Levitate|rapidspin,recover,flashcannon,freezedry||85,85,85,85,85,85|N|||89|,,,,,Poison]Manaphy||Leftovers|Hydration|hydropump,tailglow,energyball,icebeam||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water]Dragalge||ChoiceSpecs|Adaptability|flipturn,focusblast,dracometeor,sludgewave||85,85,85,85,85,85|F|||88|,,,,,Fighting]Slaking||ChoiceBand|Truant|earthquake,knockoff,gigaimpact,doubleedge||85,85,85,85,85,85|M|||84|,,,,,Ground]Armarouge||ChoiceSpecs|WeakArmor|armorcannon,psyshock,focusblast,energyball||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass",
+  "ai": "Thundurus|ThundurusTherian|ChoiceScarf|VoltAbsorb|voltswitch,psychic,thunderbolt,focusblast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Electric]Gyarados||HeavyDutyBoots|Moxie|earthquake,terablast,waterfall,dragondance||85,85,85,85,85,85|M|||79|,,,,,Flying]Gothitelle||ChoiceScarf|ShadowTag|trick,darkpulse,focusblast,psychic||85,,85,85,85,85|F|,0,,,,||90|,,,,,Psychic]Grumpig||Leftovers|ThickFat|shadowball,focusblast,nastyplot,psyshock||85,,85,85,85,85|M|,0,,,,||92|,,,,,Fighting]Wugtrio||ChoiceBand|Gooey|stompingtantrum,throatchop,liquidation,aquajet||85,85,85,85,85,85|F|||91|,,,,,Dark]Gurdurr||Eviolite|Guts|drainpunch,bulkup,machpunch,knockoff||85,85,85,85,85,85|F|||85|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 66
+  }
 }

@@ -20,5 +20,9 @@
     "Feraligatr"
   ],
   "player": "Hitmonchan||Leftovers|IronFist|bulkup,drainpunch,poisonjab,knockoff||85,85,85,85,85,85|M|||87|,,,,,Poison]Sinistcha||Leftovers|Heatproof|matchagotcha,strengthsap,calmmind,shadowball||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Malamar||Leftovers|Contrary|rest,sleeptalk,knockoff,superpower||85,85,85,85,85,85|F|||82|,,,,,Steel]Vespiquen||HeavyDutyBoots|Pressure|toxicspikes,airslash,spikes,roost||85,,85,85,85,85|F|,0,,,,||99|,,,,,Steel]Kyurem|KyuremBlack|LoadedDice|Teravolt|terablast,scaleshot,iciclespear,dragondance||85,85,85,85,85,85|N|||71|,,,,,Ground]Feraligatr||LifeOrb|SheerForce|dragondance,icepunch,liquidation,trailblaze||85,85,85,85,85,85|M|||79|,,,,,Water",
-  "ai": "Blastoise||WhiteHerb|Torrent|hydropump,shellsmash,terablast,icebeam||85,,85,85,85,85|M|,0,,,,||80|,,,,,Electric]Ribombee||HeavyDutyBoots|ShieldDust|stickyweb,moonblast,uturn,stunspore||85,85,85,85,85,85|M|||83|,,,,,Ghost]Hoopa||LifeOrb|Magician|focusblast,shadowball,psychic,nastyplot||85,,85,85,85,85|N|,0,,,,||85|,,,,,Psychic]Inteleon||ChoiceSpecs|Torrent|hydropump,scald,uturn,icebeam||85,85,85,85,85,85|F|||81|,,,,,Water]Indeedee||LifeOrb|PsychicSurge|expandingforce,dazzlinggleam,hypervoice,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Torkoal||HeavyDutyBoots|Drought|rapidspin,stealthrock,lavaplume,yawn||85,85,85,85,85,85|F|||88|,,,,,Dragon"
+  "ai": "Blastoise||WhiteHerb|Torrent|hydropump,shellsmash,terablast,icebeam||85,,85,85,85,85|M|,0,,,,||80|,,,,,Electric]Ribombee||HeavyDutyBoots|ShieldDust|stickyweb,moonblast,uturn,stunspore||85,85,85,85,85,85|M|||83|,,,,,Ghost]Hoopa||LifeOrb|Magician|focusblast,shadowball,psychic,nastyplot||85,,85,85,85,85|N|,0,,,,||85|,,,,,Psychic]Inteleon||ChoiceSpecs|Torrent|hydropump,scald,uturn,icebeam||85,85,85,85,85,85|F|||81|,,,,,Water]Indeedee||LifeOrb|PsychicSurge|expandingforce,dazzlinggleam,hypervoice,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Torkoal||HeavyDutyBoots|Drought|rapidspin,stealthrock,lavaplume,yawn||85,85,85,85,85,85|F|||88|,,,,,Dragon",
+  "curation": {
+    "battles": 100,
+    "playerWins": 55
+  }
 }

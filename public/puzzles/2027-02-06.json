@@ -20,5 +20,9 @@
     "Rayquaza"
   ],
   "player": "Talonflame||HeavyDutyBoots|FlameBody|defog,roost,bravebird,overheat||85,85,85,85,85,85|F|||83|,,,,,Dragon]Reuniclus||LifeOrb|MagicGuard|recover,calmmind,focusblast,psyshock||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Dragalge||Leftovers|Adaptability|dracometeor,focusblast,toxicspikes,sludgewave||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting]Crawdaunt||ChoiceBand|Adaptability|aquajet,closecombat,crabhammer,knockoff||85,85,85,85,85,85|F|||84|,,,,,Fighting]Leavanny||HeavyDutyBoots|Swarm|stickyweb,leafblade,lunge,knockoff||85,85,85,85,85,85|M|||86|,,,,,Rock]Rayquaza||HeavyDutyBoots|AirLock|earthquake,outrage,dragondance,dragonascent||85,85,85,85,85,85|N|||72|,,,,,Steel",
-  "ai": "Torterra||LoadedDice|Overgrow|rockblast,shellsmash,bulletseed,headlongrush||85,85,85,85,85,85|M|||78|,,,,,Water]Typhlosion|TyphlosionHisui|HeavyDutyBoots|Blaze|calmmind,shadowball,fireblast,focusblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire]Salazzle||Leftovers|Corrosion|protect,flamethrower,toxic,substitute||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Scizor||ChoiceBand|Technician|bulletpunch,closecombat,uturn,knockoff||85,85,85,85,85,85|M|||79|,,,,,Steel]Whiscash||LifeOrb|Oblivious|earthquake,stoneedge,dragondance,liquidation||85,85,85,85,85,85|M|||88|,,,,,Ground]Overqwil||LoadedDice|Intimidate|crunch,scaleshot,swordsdance,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Dragon"
+  "ai": "Torterra||LoadedDice|Overgrow|rockblast,shellsmash,bulletseed,headlongrush||85,85,85,85,85,85|M|||78|,,,,,Water]Typhlosion|TyphlosionHisui|HeavyDutyBoots|Blaze|calmmind,shadowball,fireblast,focusblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire]Salazzle||Leftovers|Corrosion|protect,flamethrower,toxic,substitute||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Scizor||ChoiceBand|Technician|bulletpunch,closecombat,uturn,knockoff||85,85,85,85,85,85|M|||79|,,,,,Steel]Whiscash||LifeOrb|Oblivious|earthquake,stoneedge,dragondance,liquidation||85,85,85,85,85,85|M|||88|,,,,,Ground]Overqwil||LoadedDice|Intimidate|crunch,scaleshot,swordsdance,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Dragon",
+  "curation": {
+    "battles": 100,
+    "playerWins": 24
+  }
 }

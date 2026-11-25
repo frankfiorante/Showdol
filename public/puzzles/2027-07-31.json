@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,a75a9f67a2e1bec89a7c045fd42f7ce6580b5e65ac745d8308b06258d94a413b",
-    "ai": "sodium,ac39457fb018e932f85585dd224e13e6073cfa4a22508c6951b0a75bfcfe6370"
+    "player": "sodium,6264cd5cc40ae88c0b47f756c7ba227ac1cc0072d5a296a3ee4b20c22fa06b84",
+    "ai": "sodium,1e11d53d681c64455b6cf7834e8f007130e8cdb2cb8a094fe7bb3e6ad95a8eec"
   },
   "playerSpecies": [
-    "Kingdra",
-    "Abomasnow",
-    "Haxorus",
-    "Dugtrio",
-    "Golem-Alola",
-    "Rhydon"
+    "Lurantis",
+    "Rhydon",
+    "Rotom-Mow",
+    "Ribombee",
+    "Uxie",
+    "Dialga-Origin"
   ],
-  "player": "Kingdra||LifeOrb|SwiftSwim|raindance,wavecrash,dracometeor,hurricane||85,85,85,85,85,85|M|||84|,,,,,Water]Abomasnow||LightClay|SnowWarning|auroraveil,earthquake,blizzard,iceshard||77,85,85,85,85,85|M|||84|,,,,,Ghost]Haxorus||LumBerry|MoldBreaker|closecombat,dragondance,outrage,ironhead||85,85,85,85,85,85|F|||78|,,,,,Steel]Dugtrio||LifeOrb|ArenaTrap|swordsdance,stoneedge,earthquake,suckerpunch||85,85,85,85,85,85|M|||84|,,,,,Ghost]Golem|GolemAlola|LifeOrb|Galvanize|rockpolish,earthquake,stoneedge,doubleedge||85,85,85,85,85,85|M|||93|,,,,,Grass]Rhydon||Eviolite|LightningRod|megahorn,stealthrock,stoneedge,earthquake||85,85,85,85,85,85|F|||85|,,,,,Grass",
-  "ai": "Vikavolt||HeavyDutyBoots|Levitate|energyball,discharge,stickyweb,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Komala||AssaultVest|Comatose|knockoff,rapidspin,bodyslam,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ghost]Seviper||LifeOrb|Infiltrator|knockoff,gunkshot,earthquake,flamethrower||85,85,85,85,85,85|M|||93|,,,,,Ground]Chandelure||ChoiceScarf|FlashFire|shadowball,trick,fireblast,energyball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Crawdaunt||LifeOrb|Adaptability|dragondance,aquajet,knockoff,crabhammer||85,85,85,85,85,85|M|||84|,,,,,Water]Greninja||LifeOrb|Protean|gunkshot,uturn,hydropump,spikes||85,85,85,85,85,85|M|||80|,,,,,Poison"
+  "player": "Lurantis||Leftovers|Contrary|synthesis,superpower,leafstorm,knockoff||85,85,85,85,85,85|F|||87|,,,,,Fighting]Rhydon||Eviolite|LightningRod|swordsdance,megahorn,earthquake,stoneedge||85,85,85,85,85,85|F|||85|,,,,,Dragon]Rotom|RotomMow|ChoiceScarf|Levitate|thunderbolt,leafstorm,voltswitch,trick||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric]Ribombee||HeavyDutyBoots|ShieldDust|bugbuzz,moonblast,terablast,quiverdance||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ground]Uxie||Leftovers|Levitate|uturn,encore,stealthrock,psychicnoise||85,85,85,85,85,85|N|||83|,,,,,Dark]Dialga|DialgaOrigin|AdamantCrystal|Pressure|fireblast,dracometeor,dragontail,heavyslam||85,85,85,85,85,85|N|||73|,,,,,Steel",
+  "ai": "Venusaur||Leftovers|Chlorophyll|sludgebomb,sleeppowder,knockoff,synthesis||85,85,85,85,85,85|F|||84|,,,,,Steel]Raichu||Leftovers|LightningRod|nastyplot,thunderbolt,encore,grassknot||85,,85,85,85,85|M|,0,,,,||88|,,,,,Grass]Espeon||ChoiceSpecs|MagicBounce|trick,psyshock,alluringvoice,shadowball||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fairy]Forretress||Leftovers|Sturdy|bodypress,stealthrock,spikes,ironhead||85,85,85,85,85,85|M|||84|,,,,,Fighting]Golurk||ChoiceBand|NoGuard|earthquake,dynamicpunch,stoneedge,poltergeist||85,85,85,85,85,85|N|||87|,,,,,Fighting]Dachsbun||Leftovers|WellBakedBody|playrough,bodypress,wish,protect||85,85,85,85,85,85|M|||92|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 40
+  }
 }

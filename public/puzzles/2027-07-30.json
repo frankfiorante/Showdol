@@ -20,5 +20,9 @@
     "Mimikyu"
   ],
   "player": "Cyclizar||HeavyDutyBoots|Regenerator|dracometeor,rapidspin,shedtail,taunt||85,85,85,85,85,85|M|||84|,,,,,Steel]Jumpluff|||Infiltrator|acrobatics,encore,strengthsap,sleeppowder||81,85,85,85,85,85|M|||87|,,,,,Steel]Gogoat||Leftovers|SapSipper|milkdrink,hornleech,bulkup,earthquake||85,85,85,85,85,85|F|||88|,,,,,Water]Blaziken||LifeOrb|SpeedBoost|closecombat,swordsdance,protect,flareblitz||85,85,85,85,85,85|M|||76|,,,,,Fighting]Persian||SilkScarf|Technician|uturn,doubleedge,knockoff,fakeout||85,85,85,85,85,85|F|||92|,,,,,Normal]Mimikyu||LifeOrb|Disguise|shadowsneak,playrough,drainpunch,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Fairy",
-  "ai": "Sneasler||WhiteHerb|Unburden|direclaw,closecombat,swordsdance,acrobatics||85,85,85,85,85,85|M|||74|,,,,,Flying]Zacian||RustedSword|IntrepidSword|swordsdance,behemothblade,closecombat,playrough||85,85,85,85,85,85|N|||64|,,,,,Fighting]Roaring Moon||LumBerry|Protosynthesis|dragondance,earthquake,knockoff,outrage||85,85,85,85,85,85|N|||72|,,,,,Ground]Venomoth||HeavyDutyBoots|TintedLens|bugbuzz,quiverdance,sleeppowder,sludgewave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Bug]Golem|GolemAlola|LifeOrb|Galvanize|doubleedge,earthquake,stoneedge,rockpolish||85,85,85,85,85,85|M|||93|,,,,,Flying]Wigglytuff||Leftovers|Competitive|protect,thunderwave,wish,alluringvoice||85,,85,85,85,85|F|,0,,,,||96|,,,,,Poison"
+  "ai": "Sneasler||WhiteHerb|Unburden|direclaw,closecombat,swordsdance,acrobatics||85,85,85,85,85,85|M|||74|,,,,,Flying]Zacian||RustedSword|IntrepidSword|swordsdance,behemothblade,closecombat,playrough||85,85,85,85,85,85|N|||64|,,,,,Fighting]Roaring Moon||LumBerry|Protosynthesis|dragondance,earthquake,knockoff,outrage||85,85,85,85,85,85|N|||72|,,,,,Ground]Venomoth||HeavyDutyBoots|TintedLens|bugbuzz,quiverdance,sleeppowder,sludgewave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Bug]Golem|GolemAlola|LifeOrb|Galvanize|doubleedge,earthquake,stoneedge,rockpolish||85,85,85,85,85,85|M|||93|,,,,,Flying]Wigglytuff||Leftovers|Competitive|protect,thunderwave,wish,alluringvoice||85,,85,85,85,85|F|,0,,,,||96|,,,,,Poison",
+  "curation": {
+    "battles": 100,
+    "playerWins": 37
+  }
 }

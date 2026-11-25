@@ -20,5 +20,9 @@
     "Florges"
   ],
   "player": "Polteageist|PolteageistAntique|WhiteHerb|CursedBody|shellsmash,terablast,shadowball,strengthsap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Ariados||HeavyDutyBoots|Swarm|poisonjab,stickyweb,suckerpunch,megahorn||85,85,85,85,85,85|F|||95|,,,,,Ghost]Maushold|MausholdFour|WideLens|Technician|populationbomb,encore,tidyup,bite||85,85,85,85,85,85|N|||76|,,,,,Normal]Magearna||Leftovers|SoulHeart|fleurcannon,flashcannon,thunderwave,aurasphere||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Ursaring||Eviolite|Guts|sleeptalk,bodyslam,earthquake,rest||85,85,85,85,85,85|M|||84|,,,,,Ghost]Florges||Leftovers|FlowerVeil|protect,calmmind,wish,moonblast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
-  "ai": "Mismagius||Leftovers|Levitate|shadowball,terablast,substitute,nastyplot||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fighting]Terrakion||LifeOrb|Justified|earthquake,closecombat,stoneedge,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Fighting]Kingambit||Leftovers|SupremeOverlord|kowtowcleave,suckerpunch,ironhead,swordsdance||85,85,85,85,85,85|M|||74|,,,,,Flying]Vileplume||Leftovers|EffectSpore|leechseed,strengthsap,sludgebomb,gigadrain||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Malamar||Leftovers|Contrary|rest,sleeptalk,knockoff,superpower||85,85,85,85,85,85|F|||82|,,,,,Poison]Revavroom||LifeOrb|Filter|ironhead,highhorsepower,shiftgear,gunkshot||85,85,85,85,85,85|F|||79|,,,,,Ground"
+  "ai": "Mismagius||Leftovers|Levitate|shadowball,terablast,substitute,nastyplot||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fighting]Terrakion||LifeOrb|Justified|earthquake,closecombat,stoneedge,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Fighting]Kingambit||Leftovers|SupremeOverlord|kowtowcleave,suckerpunch,ironhead,swordsdance||85,85,85,85,85,85|M|||74|,,,,,Flying]Vileplume||Leftovers|EffectSpore|leechseed,strengthsap,sludgebomb,gigadrain||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Malamar||Leftovers|Contrary|rest,sleeptalk,knockoff,superpower||85,85,85,85,85,85|F|||82|,,,,,Poison]Revavroom||LifeOrb|Filter|ironhead,highhorsepower,shiftgear,gunkshot||85,85,85,85,85,85|F|||79|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 51
+  }
 }

@@ -20,5 +20,9 @@
     "Haxorus"
   ],
   "player": "Squawkabilly||FlameOrb|Guts|bravebird,facade,quickattack,protect||85,85,85,85,85,85|M|||85|,,,,,Normal]Zamazenta||ChoiceBand|DauntlessShield|closecombat,ironhead,crunch,stoneedge||85,85,85,85,85,85|N|||71|,,,,,Steel]Uxie||Leftovers|Levitate|thunderwave,knockoff,psychicnoise,encore||85,85,85,85,85,85|N|||83|,,,,,Dark]Inteleon||ChoiceSpecs|Torrent|icebeam,scald,hydropump,uturn||85,85,85,85,85,85|F|||81|,,,,,Water]Raikou||Leftovers|Pressure|calmmind,scald,shadowball,thunderbolt||85,,85,85,85,85|N|,0,,,,||82|,,,,,Electric]Haxorus||LumBerry|MoldBreaker|earthquake,ironhead,outrage,dragondance||85,85,85,85,85,85|M|||78|,,,,,Steel",
-  "ai": "Kricketune||FocusSash|Technician|taunt,stickyweb,knockoff,pounce||81,85,85,85,85,85|M|||99|,,,,,Ghost]Goodra|GoodraHisui|AssaultVest|SapSipper|dracometeor,hydropump,heavyslam,dragontail||85,85,85,85,85,85|M|||82|,,,,,Dragon]Kyogre||Leftovers|Drizzle|originpulse,icebeam,calmmind,thunder||85,,85,85,85,85|N|,0,,,,||71|,,,,,Dragon]Garganacl||Leftovers|PurifyingSalt|irondefense,recover,saltcure,bodypress||85,85,85,85,85,85|F|||80|,,,,,Ghost]Hydrapple||AssaultVest|Regenerator|earthpower,leafstorm,dragontail,ficklebeam||85,85,85,85,85,85|M|||83|,,,,,Steel]Dodrio||ChoiceBand|EarlyBird|knockoff,bravebird,quickattack,drillrun||85,85,85,85,85,85|M|||85|,,,,,Ground"
+  "ai": "Kricketune||FocusSash|Technician|taunt,stickyweb,knockoff,pounce||81,85,85,85,85,85|M|||99|,,,,,Ghost]Goodra|GoodraHisui|AssaultVest|SapSipper|dracometeor,hydropump,heavyslam,dragontail||85,85,85,85,85,85|M|||82|,,,,,Dragon]Kyogre||Leftovers|Drizzle|originpulse,icebeam,calmmind,thunder||85,,85,85,85,85|N|,0,,,,||71|,,,,,Dragon]Garganacl||Leftovers|PurifyingSalt|irondefense,recover,saltcure,bodypress||85,85,85,85,85,85|F|||80|,,,,,Ghost]Hydrapple||AssaultVest|Regenerator|earthpower,leafstorm,dragontail,ficklebeam||85,85,85,85,85,85|M|||83|,,,,,Steel]Dodrio||ChoiceBand|EarlyBird|knockoff,bravebird,quickattack,drillrun||85,85,85,85,85,85|M|||85|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 44
+  }
 }

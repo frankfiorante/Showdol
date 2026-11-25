@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,2ae0011dcf2d2c7f9cfc3457745df9f9527bc43774082609fd9330450003adc7",
-    "ai": "sodium,787cafe77161461a141f7af1d99c219b21f41416e9d841108f0c56f73c5de9d3"
+    "player": "sodium,09816d8a96dd290c14124e720954daf6d981abab0cdc129a75ae42ffa941958b",
+    "ai": "sodium,2e1f266ef45d8c59c2f6c68cea58122622b95b4c2826a5d0204f16d8c0955591"
   },
   "playerSpecies": [
-    "Probopass",
-    "Spectrier",
-    "Ambipom",
+    "Articuno-Galar",
+    "Polteageist-Antique",
+    "Vikavolt",
     "Iron Boulder",
-    "Vaporeon",
-    "Lapras"
+    "Grimmsnarl",
+    "Sudowoodo"
   ],
-  "player": "Probopass||Leftovers|MagnetPull|bodypress,flashcannon,irondefense,powergem||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fighting]Spectrier||LifeOrb|GrimNeigh|willowisp,nastyplot,shadowball,terablast||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Ambipom||SilkScarf|Technician|fakeout,lowkick,knockoff,doubleedge||85,85,85,85,85,85|F|||84|,,,,,Normal]Iron Boulder||LifeOrb|QuarkDrive|swordsdance,zenheadbutt,mightycleave,closecombat||85,85,85,85,85,85|N|||77|,,,,,Fighting]Vaporeon||Leftovers|WaterAbsorb|scald,icebeam,wish,protect||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Lapras||LoadedDice|WaterAbsorb|waterfall,dragondance,iciclespear,earthquake||81,85,85,85,85,85|M|||87|,,,,,Ground",
-  "ai": "Barraskewda||ChoiceBand|SwiftSwim|flipturn,psychicfangs,waterfall,closecombat||85,85,85,85,85,85|M|||81|,,,,,Fighting]Tornadus|TornadusTherian|ChoiceSpecs|Regenerator|bleakwindstorm,uturn,focusblast,heatwave||85,85,85,85,85,85|M|||79|,,,,,Flying]Tauros||LifeOrb|SheerForce|closecombat,zenheadbutt,throatchop,bodyslam||85,85,85,85,85,85|M|||82|,,,,,Fighting]Pelipper||HeavyDutyBoots|Drizzle|hurricane,surf,knockoff,roost||85,85,85,85,85,85|F|||86|,,,,,Water]Arcanine||HeavyDutyBoots|Intimidate|extremespeed,flareblitz,roar,morningsun||85,85,85,85,85,85|M|||84|,,,,,Normal]Bisharp||Eviolite|Defiant|suckerpunch,stealthrock,throatchop,ironhead||85,85,85,85,85,85|F|||79|,,,,,Flying"
+  "player": "Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|recover,calmmind,psyshock,hurricane||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Polteageist|PolteageistAntique|WhiteHerb|CursedBody|shadowball,storedpower,shellsmash,strengthsap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Psychic]Vikavolt||HeavyDutyBoots|Levitate|bugbuzz,energyball,stickyweb,discharge||85,,85,85,85,85|M|,0,,,,||83|,,,,,Electric]Iron Boulder||LifeOrb|QuarkDrive|closecombat,swordsdance,zenheadbutt,mightycleave||85,85,85,85,85,85|N|||77|,,,,,Fighting]Grimmsnarl||Leftovers|Prankster|taunt,thunderwave,suckerpunch,spiritbreak||85,85,85,85,85,85|M|||83|,,,,,Poison]Sudowoodo||Leftovers|RockHead|headsmash,woodhammer,stealthrock,suckerpunch||85,85,85,85,85,85|F|||94|,,,,,Grass",
+  "ai": "Mewtwo||LifeOrb|Pressure|aurasphere,psystrike,nastyplot,darkpulse||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fighting]Ursaluna||FlameOrb|Guts|throatchop,headlongrush,swordsdance,facade||85,85,85,85,85,85|F|||79|,,,,,Normal]Torkoal||HeavyDutyBoots|Drought|solarbeam,lavaplume,rapidspin,yawn||85,85,85,85,85,85|F|||88|,,,,,Grass]Toedscruel||Leftovers|MyceliumMight|earthpower,spore,toxic,gigadrain||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Virizion||LifeOrb|Justified|leafblade,stoneedge,closecombat,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock]Glimmora||PowerHerb|ToxicDebris|energyball,meteorbeam,sludgewave,earthpower||85,,85,85,85,85|M|,0,,,,||75|,,,,,Grass",
+  "curation": {
+    "battles": 100,
+    "playerWins": 33
+  }
 }

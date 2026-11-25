@@ -20,5 +20,9 @@
     "Gumshoos"
   ],
   "player": "Sawsbuck|SawsbuckAutumn|LifeOrb|SapSipper|highhorsepower,swordsdance,doubleedge,hornleech||85,85,85,85,85,85|F|||88|,,,,,Ground]Urshifu|UrshifuRapidStrike|ChoiceBand|UnseenFist|icespinner,surgingstrikes,closecombat,aquajet||85,85,85,85,85,85|M|||75|,,,,,Water]Minior|MiniorYellow|WhiteHerb|ShieldsDown|acrobatics,earthquake,powergem,shellsmash||85,85,85,85,85,85|N|||79|,,,,,Steel]Hitmontop||Leftovers|Technician|closecombat,rapidspin,bulkup,tripleaxel||85,85,85,85,85,85|M|||88|,,,,,Ice]Drifblim||SitrusBerry|Unburden|airslash,strengthsap,shadowball,calmmind||73,,85,85,85,85|F|,0,,,,||86|,,,,,Dark]Gumshoos||ChoiceBand|Adaptability|earthquake,knockoff,doubleedge,uturn||85,85,85,85,85,85|M|||95|,,,,,Ground",
-  "ai": "Baxcalibur||ChoiceBand|ThermalExchange|glaiverush,iciclecrash,iceshard,earthquake||81,85,85,85,85,85|M|||75|,,,,,Ground]Komala||AssaultVest|Comatose|rapidspin,knockoff,bodyslam,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ghost]Greninja||LifeOrb|Protean|gunkshot,darkpulse,toxicspikes,hydropump||85,85,85,85,85,85|M|||80|,,,,,Dark]Thundurus|||Defiant|thunderbolt,uturn,acrobatics,focusblast||85,85,85,85,85,85|M|||80|,,,,,Steel]Noivern||HeavyDutyBoots|Infiltrator|roost,dracometeor,flamethrower,hurricane||85,,85,85,85,85|F|,0,,,,||82|,,,,,Fire]Lumineon||LifeOrb|StormDrain|alluringvoice,encore,hydropump,icebeam||85,,85,85,85,85|F|,0,,,,||93|,,,,,Fairy"
+  "ai": "Baxcalibur||ChoiceBand|ThermalExchange|glaiverush,iciclecrash,iceshard,earthquake||81,85,85,85,85,85|M|||75|,,,,,Ground]Komala||AssaultVest|Comatose|rapidspin,knockoff,bodyslam,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ghost]Greninja||LifeOrb|Protean|gunkshot,darkpulse,toxicspikes,hydropump||85,85,85,85,85,85|M|||80|,,,,,Dark]Thundurus|||Defiant|thunderbolt,uturn,acrobatics,focusblast||85,85,85,85,85,85|M|||80|,,,,,Steel]Noivern||HeavyDutyBoots|Infiltrator|roost,dracometeor,flamethrower,hurricane||85,,85,85,85,85|F|,0,,,,||82|,,,,,Fire]Lumineon||LifeOrb|StormDrain|alluringvoice,encore,hydropump,icebeam||85,,85,85,85,85|F|,0,,,,||93|,,,,,Fairy",
+  "curation": {
+    "battles": 100,
+    "playerWins": 20
+  }
 }

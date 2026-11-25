@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 4,
   "seeds": {
-    "player": "sodium,f7208c952069f71c6547b89745d308aedf719e7f0f6d1d887d61ef69526bc9f2",
-    "ai": "sodium,b4329548f7b0ec70b8e3ab590003602f50f98bcb5c1083eac42a8c3abbad09b5"
+    "player": "sodium,24679edd57f3c38898a95c5b3c3d9b113da74f73a8b08b9b3d31baa516769f90",
+    "ai": "sodium,1bdad9aa38079965a2b36b9a04addb68d357c79755a9b0228e634f91b7163ab1"
   },
   "playerSpecies": [
-    "Necrozma-Dusk-Mane",
-    "Morpeko",
-    "Sunflora",
-    "Sylveon",
-    "Raikou",
-    "Kricketune"
+    "Entei",
+    "Infernape",
+    "Rabsca",
+    "Clodsire",
+    "Regidrago",
+    "Ditto"
   ],
-  "player": "Necrozma|NecrozmaDuskMane|WeaknessPolicy|PrismArmor|sunsteelstrike,earthquake,morningsun,dragondance||85,85,85,85,85,85|N|||69|,,,,,Steel]Morpeko||Leftovers|HungerSwitch|aurawheel,rapidspin,protect,knockoff||85,85,85,85,85,85|M|||88|,,,,,Electric]Sunflora||ChoiceSpecs|Chlorophyll|earthpower,sludgebomb,dazzlinggleam,leafstorm||85,,85,85,85,85|M|,0,,,,|||,,,,,Fairy]Sylveon||Leftovers|Pixilate|protect,calmmind,hypervoice,wish||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Raikou||Leftovers|Pressure|scald,thunderbolt,substitute,calmmind||85,,85,85,85,85|N|,0,,,,||82|,,,,,Grass]Kricketune||HeavyDutyBoots|Technician|stickyweb,knockoff,taunt,pounce||85,85,85,85,85,85|F|||99|,,,,,Ghost",
-  "ai": "Cobalion||Leftovers|Justified|calmmind,vacuumwave,aurasphere,flashcannon||85,,85,85,85,85|N|,0,,,,||80|,,,,,Water]Kleavor||HeavyDutyBoots|Sharpness|xscissor,uturn,stoneaxe,defog||85,85,85,85,85,85|M|||78|,,,,,Bug]Appletun||Leftovers|ThickFat|dragonpulse,leechseed,recover,appleacid||85,,85,85,85,85|M|,0,,,,||92|,,,,,Steel]Typhlosion||ChoiceSpecs|Blaze|eruption,focusblast,fireblast,scorchingsands||81,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Farigiraf||Leftovers|SapSipper|protect,psychicnoise,wish,bodyslam||85,85,85,85,85,85|M|||89|,,,,,Fairy]Shiftry||LifeOrb|WindRider|tailwind,leafblade,lowkick,knockoff||85,85,85,85,85,85|F|||89|,,,,,Dark"
+  "player": "Entei||ChoiceBand|InnerFocus|sacredfire,stoneedge,extremespeed,flareblitz||85,85,85,85,85,85|N|||78|,,,,,Fire]Infernape||LifeOrb|Blaze|stoneedge,closecombat,grassknot,overheat||85,85,85,85,85,85|M|||82|,,,,,Fire]Rabsca||HeavyDutyBoots|Synchronize|bugbuzz,earthpower,revivalblessing,psychic||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Clodsire||Leftovers|Unaware|earthquake,poisonjab,spikes,recover||85,85,85,85,85,85|F|||81|,,,,,Steel]Regidrago||LifeOrb|DragonsMaw|earthquake,dragonclaw,terablast,dragondance||85,85,85,85,85,85|N|||77|,,,,,Steel]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Steel",
+  "ai": "Decidueye|DecidueyeHisui|Leftovers|Scrappy|knockoff,leafblade,roost,triplearrows||85,85,85,85,85,85|F|||87|,,,,,Steel]Mismagius||Leftovers|Levitate|shadowball,substitute,terablast,nastyplot||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fighting]Zamazenta||ChoiceBand|DauntlessShield|crunch,stoneedge,ironhead,closecombat||85,85,85,85,85,85|N|||71|,,,,,Dark]Weavile||ChoiceBand|Pickpocket|lowkick,tripleaxel,iceshard,knockoff||81,85,85,85,85,85|M|||79|,,,,,Dark]Persian||ChoiceBand|Limber|doubleedge,uturn,knockoff,switcheroo||85,85,85,85,85,85|M|||92|,,,,,Ghost]Magmortar||HeavyDutyBoots|FlameBody|fireblast,thunderbolt,willowisp,knockoff||85,85,85,85,85,85|F|||88|,,,,,Electric",
+  "curation": {
+    "battles": 100,
+    "playerWins": 61
+  }
 }

@@ -20,5 +20,9 @@
     "Mandibuzz"
   ],
   "player": "Dipplin||Eviolite|StickyHold|dragonpulse,recover,gigadrain,suckerpunch||85,85,85,85,85,85|F|||88|,,,,,Steel]Medicham||ChoiceScarf|PurePower|zenheadbutt,trick,closecombat,poisonjab||85,85,85,85,85,85|M|||86|,,,,,Fighting]Bisharp||Eviolite|Defiant|suckerpunch,stealthrock,ironhead,throatchop||85,85,85,85,85,85|M|||79|,,,,,Flying]Corviknight||Leftovers|Pressure|roost,bravebird,defog,uturn||85,85,85,85,85,85|F|||80|,,,,,Dragon]Gumshoos||ChoiceBand|Stakeout|earthquake,knockoff,doubleedge,uturn||85,85,85,85,85,85|F|||95|,,,,,Ground]Mandibuzz||HeavyDutyBoots|Overcoat|toxic,knockoff,bravebird,roost||85,85,85,85,85,85|F|||85|,,,,,Steel",
-  "ai": "Qwilfish|QwilfishHisui|Eviolite|Intimidate|taunt,spikes,gunkshot,crunch||85,85,85,85,85,85|F|||83|,,,,,Flying]Hitmonchan||Leftovers|IronFist|knockoff,drainpunch,rapidspin,taunt||85,85,85,85,85,85|M|||87|,,,,,Steel]Donphan||Leftovers|Sturdy|knockoff,stealthrock,iceshard,earthquake||85,85,85,85,85,85|M|||84|,,,,,Dragon]Perrserker||ChoiceBand|ToughClaws|ironhead,closecombat,uturn,knockoff||85,85,85,85,85,85|F|||89|,,,,,Fighting]Politoed||Leftovers|Drizzle|icebeam,hypnosis,encore,surf||85,,85,85,85,85|M|,0,,,,||88|,,,,,Water]Houndstone||Leftovers|Fluffy|roar,shadowsneak,poltergeist,bodypress||85,85,85,85,85,85|F|||86|,,,,,Fighting"
+  "ai": "Qwilfish|QwilfishHisui|Eviolite|Intimidate|taunt,spikes,gunkshot,crunch||85,85,85,85,85,85|F|||83|,,,,,Flying]Hitmonchan||Leftovers|IronFist|knockoff,drainpunch,rapidspin,taunt||85,85,85,85,85,85|M|||87|,,,,,Steel]Donphan||Leftovers|Sturdy|knockoff,stealthrock,iceshard,earthquake||85,85,85,85,85,85|M|||84|,,,,,Dragon]Perrserker||ChoiceBand|ToughClaws|ironhead,closecombat,uturn,knockoff||85,85,85,85,85,85|F|||89|,,,,,Fighting]Politoed||Leftovers|Drizzle|icebeam,hypnosis,encore,surf||85,,85,85,85,85|M|,0,,,,||88|,,,,,Water]Houndstone||Leftovers|Fluffy|roar,shadowsneak,poltergeist,bodypress||85,85,85,85,85,85|F|||86|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 28
+  }
 }

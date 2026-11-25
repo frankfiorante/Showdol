@@ -20,5 +20,9 @@
     "Meganium"
   ],
   "player": "Cobalion||Leftovers|Justified|vacuumwave,flashcannon,calmmind,aurasphere||85,,85,85,85,85|N|,0,,,,||80|,,,,,Fighting]Ceruledge||HeavyDutyBoots|WeakArmor|swordsdance,poltergeist,closecombat,bitterblade||85,85,85,85,85,85|M|||78|,,,,,Fire]Deoxys|DeoxysSpeed|Leftovers|Pressure|superpower,psychoboost,stealthrock,spikes||85,85,85,85,85,85|N|||82|,,,,,Fighting]Veluza||SitrusBerry|Sharpness|nightslash,aquacutter,psychocut,filletaway||85,85,85,85,85,85|F|||85|,,,,,Psychic]Raging Bolt||Leftovers|Protosynthesis|thunderbolt,thunderclap,calmmind,dracometeor||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fairy]Meganium||Leftovers|Overgrow|encore,synthesis,energyball,knockoff||85,85,85,85,85,85|F|||90|,,,,,Steel",
-  "ai": "Duraludon||Eviolite|LightMetal|flashcannon,bodypress,dracometeor,dragontail||85,85,85,85,85,85|F|||82|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|bravebird,defog,roost,hydropump||85,85,85,85,85,85|F|||89|,,,,,Ground]Flygon||ChoiceBand|Levitate|outrage,stoneedge,uturn,earthquake||85,85,85,85,85,85|F|||82|,,,,,Ground]Ho-Oh||HeavyDutyBoots|Regenerator|sacredfire,recover,bravebird,earthquake||85,85,85,85,85,85|N|||71|,,,,,Ground]Dewgong||HeavyDutyBoots|ThickFat|encore,icebeam,hydropump,knockoff||85,85,85,85,85,85|F|||94|,,,,,Dragon]Krookodile||Leftovers|Intimidate|bulkup,earthquake,knockoff,gunkshot||85,85,85,85,85,85|M|||79|,,,,,Poison"
+  "ai": "Duraludon||Eviolite|LightMetal|flashcannon,bodypress,dracometeor,dragontail||85,85,85,85,85,85|F|||82|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|bravebird,defog,roost,hydropump||85,85,85,85,85,85|F|||89|,,,,,Ground]Flygon||ChoiceBand|Levitate|outrage,stoneedge,uturn,earthquake||85,85,85,85,85,85|F|||82|,,,,,Ground]Ho-Oh||HeavyDutyBoots|Regenerator|sacredfire,recover,bravebird,earthquake||85,85,85,85,85,85|N|||71|,,,,,Ground]Dewgong||HeavyDutyBoots|ThickFat|encore,icebeam,hydropump,knockoff||85,85,85,85,85,85|F|||94|,,,,,Dragon]Krookodile||Leftovers|Intimidate|bulkup,earthquake,knockoff,gunkshot||85,85,85,85,85,85|M|||79|,,,,,Poison",
+  "curation": {
+    "battles": 100,
+    "playerWins": 23
+  }
 }

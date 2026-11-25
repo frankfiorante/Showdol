@@ -20,5 +20,9 @@
     "Keldeo-Resolute"
   ],
   "player": "Bruxish||ChoiceBand|StrongJaw|wavecrash,aquajet,crunch,psychicfangs||85,85,85,85,85,85|F|||85|,,,,,Dark]Brambleghast||Leftovers|WindRider|poltergeist,spikes,strengthsap,powerwhip||85,85,85,85,85,85|F|||88|,,,,,Steel]Misdreavus||Eviolite|Levitate|drainingkiss,shadowball,calmmind,willowisp||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Ting-Lu||Leftovers|VesselofRuin|payback,earthquake,stealthrock,ruination||85,85,85,85,85,85|N|||78|,,,,,Ghost]Archaludon||LumBerry|Stamina|ironhead,outrage,earthquake,swordsdance||85,85,85,85,85,85|F|||77|,,,,,Ground]Keldeo|KeldeoResolute|Leftovers|Justified|surf,calmmind,secretsword,substitute||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel",
-  "ai": "Rotom|RotomMow|Leftovers|Levitate|thunderbolt,nastyplot,willowisp,leafstorm||85,,85,85,85,85|N|,0,,,,||87|,,,,,Grass]Garchomp||LoadedDice|RoughSkin|earthquake,scaleshot,firefang,swordsdance||85,85,85,85,85,85|M|||74|,,,,,Fire]Swalot||Leftovers|LiquidOoze|sludgebomb,toxicspikes,earthquake,knockoff||85,85,85,85,85,85|M|||90|,,,,,Dark]Perrserker||ChoiceBand|ToughClaws|uturn,closecombat,knockoff,ironhead||85,85,85,85,85,85|M|||89|,,,,,Fighting]Empoleon||Leftovers|Competitive|icebeam,roost,yawn,surf||85,,85,85,85,85|F|,0,,,,||84|,,,,,Flying]Eiscue||SitrusBerry|IceFace|bellydrum,liquidation,icespinner,zenheadbutt||81,85,85,85,85,85|M|||88|,,,,,Water"
+  "ai": "Rotom|RotomMow|Leftovers|Levitate|thunderbolt,nastyplot,willowisp,leafstorm||85,,85,85,85,85|N|,0,,,,||87|,,,,,Grass]Garchomp||LoadedDice|RoughSkin|earthquake,scaleshot,firefang,swordsdance||85,85,85,85,85,85|M|||74|,,,,,Fire]Swalot||Leftovers|LiquidOoze|sludgebomb,toxicspikes,earthquake,knockoff||85,85,85,85,85,85|M|||90|,,,,,Dark]Perrserker||ChoiceBand|ToughClaws|uturn,closecombat,knockoff,ironhead||85,85,85,85,85,85|M|||89|,,,,,Fighting]Empoleon||Leftovers|Competitive|icebeam,roost,yawn,surf||85,,85,85,85,85|F|,0,,,,||84|,,,,,Flying]Eiscue||SitrusBerry|IceFace|bellydrum,liquidation,icespinner,zenheadbutt||81,85,85,85,85,85|M|||88|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 64
+  }
 }

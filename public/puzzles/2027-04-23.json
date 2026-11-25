@@ -20,5 +20,9 @@
     "Jirachi"
   ],
   "player": "Whimsicott||HeavyDutyBoots|Prankster|uturn,encore,moonblast,gigadrain||85,85,85,85,85,85|F|||84|,,,,,Poison]Arboliva||SitrusBerry|Harvest|substitute,hypervoice,protect,leechseed||77,,85,85,85,85|M|,0,,,,||91|,,,,,Water]Samurott||AssaultVest|Torrent|knockoff,hydropump,megahorn,grassknot||85,85,85,85,85,85|M|||88|,,,,,Grass]Cramorant||HeavyDutyBoots|GulpMissile|surf,defog,roost,bravebird||85,85,85,85,85,85|F|||86|,,,,,Ground]Scream Tail||Leftovers|Protosynthesis|protect,playrough,encore,wish||85,85,85,85,85,85|N|||84|,,,,,Steel]Jirachi||ChoiceScarf|SereneGrace|uturn,healingwish,psychic,ironhead||85,85,85,85,85,85|N|||80|,,,,,Water",
-  "ai": "Iron Moth||HeavyDutyBoots|QuarkDrive|sludgewave,toxicspikes,fierydance,uturn||85,85,85,85,85,85|N|||78|,,,,,Fire]Ampharos||AssaultVest|Static|dazzlinggleam,voltswitch,focusblast,discharge||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fairy]Pyroar||HeavyDutyBoots|Unnerve|fireblast,willowisp,taunt,hypervoice||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fire]Milotic||Leftovers|Competitive|recover,haze,scald,icebeam||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel]Sableye||Leftovers|Prankster|thunderwave,encore,recover,knockoff||85,85,85,85,85,85|M|||87|,,,,,Steel]Azumarill||ChoiceBand|HugePower|aquajet,playrough,liquidation,icespinner||85,85,85,85,85,85|F|||82|,,,,,Water"
+  "ai": "Iron Moth||HeavyDutyBoots|QuarkDrive|sludgewave,toxicspikes,fierydance,uturn||85,85,85,85,85,85|N|||78|,,,,,Fire]Ampharos||AssaultVest|Static|dazzlinggleam,voltswitch,focusblast,discharge||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fairy]Pyroar||HeavyDutyBoots|Unnerve|fireblast,willowisp,taunt,hypervoice||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fire]Milotic||Leftovers|Competitive|recover,haze,scald,icebeam||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel]Sableye||Leftovers|Prankster|thunderwave,encore,recover,knockoff||85,85,85,85,85,85|M|||87|,,,,,Steel]Azumarill||ChoiceBand|HugePower|aquajet,playrough,liquidation,icespinner||85,85,85,85,85,85|F|||82|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 22
+  }
 }

@@ -20,5 +20,9 @@
     "Dachsbun"
   ],
   "player": "Serperior||Leftovers|Contrary|leafstorm,substitute,dragonpulse,leechseed||85,,85,85,85,85|F|,0,,,,||79|,,,,,Grass]Palkia|PalkiaOrigin|LustrousGlobe|Pressure|thunderwave,fireblast,hydropump,dracometeor||85,,85,85,85,85|N|,0,,,,||72|,,,,,Water]Arceus|ArceusFairy|PixiePlate|Multitype|earthpower,recover,judgment,calmmind||85,,85,85,85,85|N|,0,,,,||69|,,,,,Steel]Grumpig||ChoiceSpecs|ThickFat|earthpower,psychic,focusblast,shadowball||85,,85,85,85,85|M|,0,,,,||92|,,,,,Ghost]Volcanion||HeavyDutyBoots|WaterAbsorb|sludgebomb,flamethrower,haze,steameruption||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Dachsbun||Leftovers|WellBakedBody|bodypress,wish,protect,playrough||85,85,85,85,85,85|M|||92|,,,,,Steel",
-  "ai": "Deoxys|DeoxysSpeed|FocusSash|Pressure|spikes,taunt,psychoboost,superpower||85,85,85,85,85,85|N|||82|,,,,,Steel]Gliscor||ToxicOrb|PoisonHeal|protect,substitute,earthquake,toxic||85,85,85,85,85,85|M|||76|,,,,,Water]Indeedee||LifeOrb|PsychicSurge|hypervoice,calmmind,expandingforce,shadowball||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Slaking||ChoiceBand|Truant|knockoff,earthquake,gigaimpact,doubleedge||85,85,85,85,85,85|F|||84|,,,,,Normal]Arceus|ArceusFlying|SkyPlate|Multitype|judgment,calmmind,recover,earthpower||81,,85,85,85,85|N|,0,,,,||69|,,,,,Steel]Overqwil||LoadedDice|Intimidate|gunkshot,swordsdance,crunch,scaleshot||85,85,85,85,85,85|F|||82|,,,,,Dragon"
+  "ai": "Deoxys|DeoxysSpeed|FocusSash|Pressure|spikes,taunt,psychoboost,superpower||85,85,85,85,85,85|N|||82|,,,,,Steel]Gliscor||ToxicOrb|PoisonHeal|protect,substitute,earthquake,toxic||85,85,85,85,85,85|M|||76|,,,,,Water]Indeedee||LifeOrb|PsychicSurge|hypervoice,calmmind,expandingforce,shadowball||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Slaking||ChoiceBand|Truant|knockoff,earthquake,gigaimpact,doubleedge||85,85,85,85,85,85|F|||84|,,,,,Normal]Arceus|ArceusFlying|SkyPlate|Multitype|judgment,calmmind,recover,earthpower||81,,85,85,85,85|N|,0,,,,||69|,,,,,Steel]Overqwil||LoadedDice|Intimidate|gunkshot,swordsdance,crunch,scaleshot||85,85,85,85,85,85|F|||82|,,,,,Dragon",
+  "curation": {
+    "battles": 100,
+    "playerWins": 72
+  }
 }

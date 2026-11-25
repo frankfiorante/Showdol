@@ -20,5 +20,9 @@
     "Kyogre"
   ],
   "player": "Haxorus||LoadedDice|MoldBreaker|closecombat,ironhead,swordsdance,scaleshot||85,85,85,85,85,85|F|||78|,,,,,Steel]Gardevoir||LifeOrb|Trace|psyshock,moonblast,mysticalfire,calmmind||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire]Ludicolo||LifeOrb|SwiftSwim|gigadrain,icebeam,hydropump,raindance||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Klefki||Leftovers|Prankster|playrough,spikes,magnetrise,thunderwave||85,85,85,85,85,85|F|||84|,,,,,Water]Copperajah||ChoiceBand|HeavyMetal|earthquake,heavyslam,knockoff,heatcrash||85,85,85,85,85,85|F|||86|,,,,,Fire]Kyogre||Leftovers|Drizzle|icebeam,calmmind,thunder,originpulse||85,,85,85,85,85|N|,0,,,,||71|,,,,,Steel",
-  "ai": "Gastrodon||Leftovers|StormDrain|stealthrock,sludgebomb,earthquake,recover||85,85,85,85,85,85|F|||86|,,,,,Poison]Manaphy||Leftovers|Hydration|icebeam,tailglow,energyball,hydropump||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Frosmoth||HeavyDutyBoots|IceScales|gigadrain,bugbuzz,quiverdance,icebeam||85,,85,85,85,85|M|,0,,,,||82|,,,,,Water]Staraptor||ChoiceScarf|Reckless|bravebird,uturn,doubleedge,closecombat||81,85,85,85,85,85|M|||79|,,,,,Flying]Toxtricity||ChoiceSpecs|PunkRock|boomburst,sludgewave,overdrive,voltswitch||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Froslass||WideLens|CursedBody|tripleaxel,spikes,poltergeist,destinybond||81,85,85,85,85,85|F|||87|,,,,,Ghost"
+  "ai": "Gastrodon||Leftovers|StormDrain|stealthrock,sludgebomb,earthquake,recover||85,85,85,85,85,85|F|||86|,,,,,Poison]Manaphy||Leftovers|Hydration|icebeam,tailglow,energyball,hydropump||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Frosmoth||HeavyDutyBoots|IceScales|gigadrain,bugbuzz,quiverdance,icebeam||85,,85,85,85,85|M|,0,,,,||82|,,,,,Water]Staraptor||ChoiceScarf|Reckless|bravebird,uturn,doubleedge,closecombat||81,85,85,85,85,85|M|||79|,,,,,Flying]Toxtricity||ChoiceSpecs|PunkRock|boomburst,sludgewave,overdrive,voltswitch||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Froslass||WideLens|CursedBody|tripleaxel,spikes,poltergeist,destinybond||81,85,85,85,85,85|F|||87|,,,,,Ghost",
+  "curation": {
+    "battles": 100,
+    "playerWins": 41
+  }
 }

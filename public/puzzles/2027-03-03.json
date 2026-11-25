@@ -20,5 +20,9 @@
     "Malamar"
   ],
   "player": "Plusle||LifeOrb|LightningRod|thunderbolt,nastyplot,grassknot,encore||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass]Pelipper||HeavyDutyBoots|Drizzle|surf,knockoff,roost,hurricane||85,85,85,85,85,85|F|||86|,,,,,Water]Rillaboom||LifeOrb|GrassySurge|highhorsepower,woodhammer,swordsdance,grassyglide||85,85,85,85,85,85|F|||79|,,,,,Grass]Great Tusk||Leftovers|Protosynthesis|bulkup,closecombat,earthquake,stoneedge||85,85,85,85,85,85|N|||77|,,,,,Steel]Zapdos||HeavyDutyBoots|Static|hurricane,roost,discharge,heatwave||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Malamar||Leftovers|Contrary|superpower,knockoff,sleeptalk,rest||85,85,85,85,85,85|F|||82|,,,,,Poison",
-  "ai": "Salamence||HeavyDutyBoots|Moxie|earthquake,dualwingbeat,dragondance,outrage||85,85,85,85,85,85|M|||77|,,,,,Ground]Yanmega||HeavyDutyBoots|SpeedBoost|terablast,protect,airslash,bugbuzz||85,,85,85,85,85|M|,0,,,,||82|,,,,,Ground]Ninetales||HeavyDutyBoots|Drought|nastyplot,scorchingsands,solarbeam,fireblast||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fire]Jolteon||LifeOrb|VoltAbsorb|thunderbolt,alluringvoice,shadowball,calmmind||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fairy]Gallade||LifeOrb|Sharpness|psychocut,agility,sacredsword,nightslash||85,85,85,85,85,85|M|||80|,,,,,Fighting]Stonjourner||LifeOrb|PowerSpot|stoneedge,stealthrock,earthquake,heatcrash||85,85,85,85,85,85|M|||91|,,,,,Ground"
+  "ai": "Salamence||HeavyDutyBoots|Moxie|earthquake,dualwingbeat,dragondance,outrage||85,85,85,85,85,85|M|||77|,,,,,Ground]Yanmega||HeavyDutyBoots|SpeedBoost|terablast,protect,airslash,bugbuzz||85,,85,85,85,85|M|,0,,,,||82|,,,,,Ground]Ninetales||HeavyDutyBoots|Drought|nastyplot,scorchingsands,solarbeam,fireblast||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fire]Jolteon||LifeOrb|VoltAbsorb|thunderbolt,alluringvoice,shadowball,calmmind||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fairy]Gallade||LifeOrb|Sharpness|psychocut,agility,sacredsword,nightslash||85,85,85,85,85,85|M|||80|,,,,,Fighting]Stonjourner||LifeOrb|PowerSpot|stoneedge,stealthrock,earthquake,heatcrash||85,85,85,85,85,85|M|||91|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 25
+  }
 }

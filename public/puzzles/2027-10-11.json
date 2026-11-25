@@ -20,5 +20,9 @@
     "Bellibolt"
   ],
   "player": "Ting-Lu||Leftovers|VesselofRuin|earthquake,throatchop,whirlwind,stealthrock||85,85,85,85,85,85|N|||78|,,,,,Poison]Pelipper||ChoiceSpecs|Drizzle|weatherball,hurricane,hydropump,uturn||85,85,85,85,85,85|M|||86|,,,,,Water]Typhlosion|TyphlosionHisui|HeavyDutyBoots|Blaze|willowisp,shadowball,calmmind,fireblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Mewtwo||LifeOrb|Pressure|nastyplot,darkpulse,psystrike,fireblast||85,,85,85,85,85|N|,0,,,,||72|,,,,,Dark]Sandy Shocks||HeavyDutyBoots|Protosynthesis|thunderbolt,voltswitch,earthpower,spikes||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass]Bellibolt||Leftovers|Electromorphosis|toxic,thunderbolt,muddywater,slackoff||85,,85,85,85,85|M|,0,,,,||84|,,,,,Water",
-  "ai": "Gouging Fire||HeavyDutyBoots|Protosynthesis|earthquake,outrage,heatcrash,dragondance||85,85,85,85,85,85|N|||74|,,,,,Ground]Krookodile||Leftovers|Intimidate|knockoff,earthquake,gunkshot,bulkup||85,85,85,85,85,85|M|||79|,,,,,Poison]Iron Jugulis||ChoiceSpecs|QuarkDrive|uturn,darkpulse,hurricane,hydropump||85,85,85,85,85,85|N|||77|,,,,,Dark]Raichu||AssaultVest|LightningRod|nuzzle,grassknot,thunderbolt,focusblast||85,85,85,85,85,85|M|||88|,,,,,Grass]Wyrdeer||AssaultVest|Intimidate|psychicnoise,bodyslam,megahorn,earthquake||85,85,85,85,85,85|M|||87|,,,,,Ground]Piloswine||Eviolite|ThickFat|iciclecrash,stealthrock,iceshard,earthquake||85,85,85,85,85,85|M|||85|,,,,,Poison"
+  "ai": "Gouging Fire||HeavyDutyBoots|Protosynthesis|earthquake,outrage,heatcrash,dragondance||85,85,85,85,85,85|N|||74|,,,,,Ground]Krookodile||Leftovers|Intimidate|knockoff,earthquake,gunkshot,bulkup||85,85,85,85,85,85|M|||79|,,,,,Poison]Iron Jugulis||ChoiceSpecs|QuarkDrive|uturn,darkpulse,hurricane,hydropump||85,85,85,85,85,85|N|||77|,,,,,Dark]Raichu||AssaultVest|LightningRod|nuzzle,grassknot,thunderbolt,focusblast||85,85,85,85,85,85|M|||88|,,,,,Grass]Wyrdeer||AssaultVest|Intimidate|psychicnoise,bodyslam,megahorn,earthquake||85,85,85,85,85,85|M|||87|,,,,,Ground]Piloswine||Eviolite|ThickFat|iciclecrash,stealthrock,iceshard,earthquake||85,85,85,85,85,85|M|||85|,,,,,Poison",
+  "curation": {
+    "battles": 100,
+    "playerWins": 35
+  }
 }

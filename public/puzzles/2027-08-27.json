@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,e9083babcbae8874c24abde4ee6c8197d9519b6596439bb42172a45aa6ab36a1",
-    "ai": "sodium,4e07aafe812bfb1cf5f1304488a0693d140bd72b868eb815d8c0863ee15860af"
+    "player": "sodium,f785817e96d48110d5dd291213768ce8d7a655e0b84dd462d32ede66ab7d0bba",
+    "ai": "sodium,140b9b75dc12171ae05d2a55061f88c9e12a7159b433ae457cc8c108e37e9f67"
   },
   "playerSpecies": [
-    "Raichu",
-    "Chimecho",
-    "Shiftry",
-    "Noctowl",
-    "Abomasnow",
-    "Conkeldurr"
+    "Cloyster",
+    "Eternatus",
+    "Cryogonal",
+    "Raichu-Alola",
+    "Lugia",
+    "Eelektross"
   ],
-  "player": "Raichu||AssaultVest|LightningRod|knockoff,thunderbolt,voltswitch,grassknot||85,85,85,85,85,85|F|||88|,,,,,Grass]Chimecho||Leftovers|Levitate|dazzlinggleam,psyshock,recover,calmmind||85,,85,85,85,85|M|,0,,,,||93|,,,,,Electric]Shiftry||LifeOrb|WindRider|suckerpunch,swordsdance,leafblade,knockoff||85,85,85,85,85,85|M|||89|,,,,,Dark]Noctowl||HeavyDutyBoots|TintedLens|roost,hypervoice,hurricane,defog||85,,85,85,85,85|F|,0,,,,||95|,,,,,Normal]Abomasnow||LightClay|SnowWarning|iceshard,blizzard,auroraveil,earthquake||77,85,85,85,85,85|M|||84|,,,,,Water]Conkeldurr||FlameOrb|Guts|closecombat,machpunch,facade,knockoff||85,85,85,85,85,85|F|||80|,,,,,Normal",
-  "ai": "Basculin|BasculinBlueStriped|ChoiceBand|Adaptability|flipturn,wavecrash,aquajet,doubleedge||85,85,85,85,85,85|F|||86|,,,,,Water]Zamazenta||ChoiceBand|DauntlessShield|psychicfangs,stoneedge,crunch,closecombat||85,85,85,85,85,85|N|||71|,,,,,Dark]Delibird||HeavyDutyBoots|Insomnia|freezedry,spikes,bravebird,rapidspin||85,85,85,85,85,85|M||||,,,,,Ghost]Minun||LifeOrb|VoltAbsorb|thunderbolt,nastyplot,encore,grassknot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Grass]Ampharos||LifeOrb|Static|dazzlinggleam,thunderbolt,focusblast,agility||85,,85,85,85,85|F|,0,,,,||88|,,,,,Electric]Alomomola||HeavyDutyBoots|Regenerator|wish,flipturn,protect,scald||85,85,85,85,85,85|F|||87|,,,,,Poison"
+  "player": "Cloyster||WhiteHerb|SkillLink|rockblast,drillrun,iciclespear,shellsmash||85,85,85,85,85,85|F|||80|,,,,,Ground]Eternatus||Leftovers|Pressure|fireblast,sludgebomb,dynamaxcannon,recover||85,,85,85,85,85|N|,0,,,,||69|,,,,,Dragon]Cryogonal||HeavyDutyBoots|Levitate|rapidspin,terablast,recover,icebeam||85,85,85,85,85,85|N|||89|,,,,,Electric]Raichu|RaichuAlola|LifeOrb|SurgeSurfer|psyshock,focusblast,nastyplot,thunderbolt||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Lugia||HeavyDutyBoots|Multiscale|aeroblast,psychicnoise,calmmind,recover||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Eelektross||Leftovers|Levitate|supercellslam,drainpunch,firepunch,coil||85,85,85,85,85,85|F|||87|,,,,,Fighting",
+  "ai": "Ambipom||ChoiceBand|Technician|knockoff,doubleedge,uturn,tripleaxel||85,85,85,85,85,85|M|||84|,,,,,Ice]Urshifu|UrshifuRapidStrike|ChoiceScarf|UnseenFist|closecombat,icespinner,uturn,surgingstrikes||85,85,85,85,85,85|M|||75|,,,,,Water]Bombirdier||HeavyDutyBoots|BigPecks|roost,knockoff,uturn,bravebird||85,85,85,85,85,85|M|||85|,,,,,Dark]Piloswine||Eviolite|ThickFat|stealthrock,earthquake,iciclecrash,roar||85,85,85,85,85,85|F|||85|,,,,,Poison]Smeargle||WideLens|Technician|shellsmash,powertrip,populationbomb,spore||85,85,85,85,85,85|M|||95|,,,,,Ghost]Flygon||ChoiceScarf|Levitate|outrage,earthquake,uturn,stoneedge||85,85,85,85,85,85|F|||82|,,,,,Rock",
+  "curation": {
+    "battles": 100,
+    "playerWins": 30
+  }
 }

@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,11fccf1a8277b72f61262ff4d4f394da5a9c141c2fe69c7ec52e4dd0288ab75d",
-    "ai": "sodium,c09a308987349a56bc43ac0bcddd10e6dcbc3c2544bba88f6b517205cb92c169"
+    "player": "sodium,1f4abe2f617260dca45fa2d73f17ebd12ab2da475630e0fbbe6f3a4cf338c9cc",
+    "ai": "sodium,3f5cd6140fead421eeaac386bdc58641856973a4d5f0b6d25e070f7d2e4661be"
   },
   "playerSpecies": [
-    "Araquanid",
-    "Reuniclus",
-    "Hypno",
-    "Kilowattrel",
-    "Greninja",
-    "Glastrier"
+    "Hippowdon",
+    "Sandslash-Alola",
+    "Klefki",
+    "Iron Boulder",
+    "Mienshao",
+    "Malamar"
   ],
-  "player": "Araquanid||HeavyDutyBoots|WaterBubble|hydropump,leechlife,stickyweb,liquidation||85,85,85,85,85,85|F|||82|,,,,,Ground]Reuniclus||LifeOrb|MagicGuard|psyshock,focusblast,calmmind,recover||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Hypno||Leftovers|Insomnia|toxic,psychicnoise,protect,focusblast||85,,85,85,85,85|F|,0,,,,||95|,,,,,Dark]Kilowattrel||HeavyDutyBoots|VoltAbsorb|uturn,roost,hurricane,discharge||85,85,85,85,85,85|F|||83|,,,,,Water]Greninja||LifeOrb|Protean|icebeam,hydropump,gunkshot,grassknot||85,85,85,85,85,85|M|||80|,,,,,Poison]Glastrier||HeavyDutyBoots|ChillingNeigh|swordsdance,heavyslam,iciclecrash,highhorsepower||85,85,85,85,85,85|N|||86|,,,,,Steel",
-  "ai": "Dipplin||Eviolite|StickyHold|dragonpulse,dragontail,gigadrain,recover||85,85,85,85,85,85|F|||88|,,,,,Steel]Espathra||ChoiceSpecs|SpeedBoost|dazzlinggleam,luminacrash,uturn,shadowball||85,85,85,85,85,85|M|||80|,,,,,Fairy]Salazzle||Leftovers|Corrosion|flamethrower,substitute,toxic,protect||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Meowstic||LightClay|Prankster|reflect,alluringvoice,lightscreen,psychicnoise||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Chi-Yu||HeavyDutyBoots|BeadsofRuin|darkpulse,willowisp,nastyplot,fireblast||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Weezing||Leftovers|Levitate|painsplit,sludgebomb,toxicspikes,fireblast||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel"
+  "player": "Hippowdon||Leftovers|SandStream|earthquake,curse,stoneedge,slackoff||85,85,85,85,85,85|M|||82|,,,,,Rock]Sandslash|SandslashAlola|AssaultVest|SlushRush|rapidspin,tripleaxel,ironhead,earthquake||85,85,85,85,85,85|F|||88|,,,,,Flying]Klefki||Leftovers|Prankster|dazzlinggleam,foulplay,thunderwave,spikes||85,,85,85,85,85|F|,0,,,,||84|,,,,,Flying]Iron Boulder||BoosterEnergy|QuarkDrive|mightycleave,swordsdance,closecombat,zenheadbutt||85,85,85,85,85,85|N|||77|,,,,,Fighting]Mienshao||ChoiceBand|Reckless|stoneedge,highjumpkick,poisonjab,knockoff||81,85,85,85,85,85|F|||83|,,,,,Fighting]Malamar||Leftovers|Contrary|knockoff,superpower,rest,sleeptalk||85,85,85,85,85,85|M|||82|,,,,,Fighting",
+  "ai": "Braviary||HeavyDutyBoots|Defiant|bravebird,bulkup,closecombat,roost||85,85,85,85,85,85|M|||85|,,,,,Fighting]Dipplin||Eviolite|StickyHold|gigadrain,dragonpulse,suckerpunch,recover||85,85,85,85,85,85|M|||88|,,,,,Steel]Perrserker||LifeOrb|ToughClaws|closecombat,stealthrock,ironhead,knockoff||85,85,85,85,85,85|M|||89|,,,,,Fighting]Talonflame||HeavyDutyBoots|FlameBody|bravebird,overheat,roost,taunt||85,85,85,85,85,85|F|||83|,,,,,Dragon]Pincurchin||Leftovers|ElectricSurge|discharge,recover,scald,spikes||85,,85,85,85,85|F|,0,,,,|||,,,,,Water]Dachsbun||Leftovers|WellBakedBody|protect,playrough,yawn,wish||85,85,85,85,85,85|F|||92|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 33
+  }
 }

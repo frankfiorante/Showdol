@@ -20,5 +20,9 @@
     "Zapdos-Galar"
   ],
   "player": "Alcremie|AlcremieMintCream|Leftovers|AromaVeil|psyshock,calmmind,recover,alluringvoice||85,,85,85,85,85|F|,0,,,,||90|,,,,,Poison]Dachsbun||Leftovers|WellBakedBody|wish,playrough,protect,yawn||85,85,85,85,85,85|F|||92|,,,,,Steel]Baxcalibur||LoadedDice|ThermalExchange|scaleshot,iciclespear,swordsdance,earthquake||81,85,85,85,85,85|F|||75|,,,,,Dragon]Persian||SilkScarf|Technician|doubleedge,knockoff,fakeout,uturn||85,85,85,85,85,85|F|||92|,,,,,Normal]Cresselia||Leftovers|Levitate|moonlight,thunderbolt,psyshock,calmmind||85,,85,85,85,85|F|,0,,,,||80|,,,,,Steel]Zapdos|ZapdosGalar|LifeOrb|Defiant|knockoff,bravebird,closecombat,bulkup||85,85,85,85,85,85|N|||77|,,,,,Dark",
-  "ai": "Oranguru||LifeOrb|InnerFocus|hypervoice,nastyplot,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||92|,,,,,Psychic]Houndoom||HeavyDutyBoots|FlashFire|fireblast,darkpulse,suckerpunch,sludgebomb||85,85,85,85,85,85|F|||87|,,,,,Fire]Scovillain||HeavyDutyBoots|Chlorophyll|sunnyday,fireblast,energyball,stompingtantrum||85,85,85,85,85,85|M|||91|,,,,,Ground]Sableye||Leftovers|Prankster|recover,encore,willowisp,knockoff||85,85,85,85,85,85|F|||87|,,,,,Poison]Iron Bundle||ChoiceSpecs|QuarkDrive|freezedry,flipturn,hydropump,icebeam||85,85,85,85,85,85|N|||78|,,,,,Water]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderbolt,scald,voltswitch,thunderwave||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying"
+  "ai": "Oranguru||LifeOrb|InnerFocus|hypervoice,nastyplot,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||92|,,,,,Psychic]Houndoom||HeavyDutyBoots|FlashFire|fireblast,darkpulse,suckerpunch,sludgebomb||85,85,85,85,85,85|F|||87|,,,,,Fire]Scovillain||HeavyDutyBoots|Chlorophyll|sunnyday,fireblast,energyball,stompingtantrum||85,85,85,85,85,85|M|||91|,,,,,Ground]Sableye||Leftovers|Prankster|recover,encore,willowisp,knockoff||85,85,85,85,85,85|F|||87|,,,,,Poison]Iron Bundle||ChoiceSpecs|QuarkDrive|freezedry,flipturn,hydropump,icebeam||85,85,85,85,85,85|N|||78|,,,,,Water]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderbolt,scald,voltswitch,thunderwave||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying",
+  "curation": {
+    "battles": 100,
+    "playerWins": 80
+  }
 }

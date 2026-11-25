@@ -20,5 +20,9 @@
     "Seviper"
   ],
   "player": "Arbok||Leftovers|Intimidate|gunkshot,trailblaze,earthquake,coil||85,85,85,85,85,85|F|||87|,,,,,Grass]Frosmoth||HeavyDutyBoots|IceScales|hurricane,bugbuzz,quiverdance,icebeam||85,,85,85,85,85|F|,0,,,,||82|,,,,,Water]Archaludon||LumBerry|Stamina|swordsdance,earthquake,outrage,ironhead||85,85,85,85,85,85|M|||77|,,,,,Ground]Lokix||SilverPowder|TintedLens|firstimpression,suckerpunch,knockoff,uturn||85,85,85,85,85,85|M|||82|,,,,,Bug]Azumarill||SitrusBerry|HugePower|bellydrum,playrough,aquajet,liquidation||85,85,85,85,85,85|M|||82|,,,,,Water]Seviper||LifeOrb|Infiltrator|gigadrain,gunkshot,earthquake,knockoff||85,85,85,85,85,85|F|||93|,,,,,Ground",
-  "ai": "Hatterene||Leftovers|MagicBounce|drainingkiss,psychic,calmmind,mysticalfire||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Houndstone||AssaultVest|Fluffy|poltergeist,bodypress,shadowsneak,playrough||85,85,85,85,85,85|M|||86|,,,,,Fighting]Tauros|TaurosPaldeaBlaze|ChoiceBand|Intimidate|closecombat,stoneedge,flareblitz,wildcharge||85,85,85,85,85,85|M|||81|,,,,,Fighting]Gurdurr||Eviolite|Guts|knockoff,machpunch,drainpunch,defog||85,85,85,85,85,85|F|||85|,,,,,Steel]Chi-Yu||ChoiceScarf|BeadsofRuin|flamethrower,overheat,psychic,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Mismagius||ChoiceSpecs|Levitate|shadowball,trick,thunderbolt,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fairy"
+  "ai": "Hatterene||Leftovers|MagicBounce|drainingkiss,psychic,calmmind,mysticalfire||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Houndstone||AssaultVest|Fluffy|poltergeist,bodypress,shadowsneak,playrough||85,85,85,85,85,85|M|||86|,,,,,Fighting]Tauros|TaurosPaldeaBlaze|ChoiceBand|Intimidate|closecombat,stoneedge,flareblitz,wildcharge||85,85,85,85,85,85|M|||81|,,,,,Fighting]Gurdurr||Eviolite|Guts|knockoff,machpunch,drainpunch,defog||85,85,85,85,85,85|F|||85|,,,,,Steel]Chi-Yu||ChoiceScarf|BeadsofRuin|flamethrower,overheat,psychic,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Mismagius||ChoiceSpecs|Levitate|shadowball,trick,thunderbolt,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fairy",
+  "curation": {
+    "battles": 100,
+    "playerWins": 43
+  }
 }

@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,88f9c106fad18465bb5fff8c169c52b8a47b9fb9237b7abdb25e3f105da23363",
-    "ai": "sodium,3167085cddf7ba33409fce8595f85b77ee39c1ba997dbbb62713514442f32470"
+    "player": "sodium,5d77359211cb1fbea699325da26fa7cadb852e536e5d30cdfabc4b29f9eebb2b",
+    "ai": "sodium,ceb135c3e46de3df9751abfd13fe20e9a0234d585349635621304d2d6b675bc5"
   },
   "playerSpecies": [
-    "Sinistcha",
-    "Scovillain",
-    "Kingdra",
-    "Flareon",
-    "Orthworm",
-    "Toxtricity"
+    "Sandy Shocks",
+    "Bronzong",
+    "Bellossom",
+    "Banette",
+    "Porygon-Z",
+    "Veluza"
   ],
-  "player": "Sinistcha||Leftovers|Heatproof|matchagotcha,calmmind,shadowball,strengthsap||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Scovillain||ChoiceSpecs|Chlorophyll|leafstorm,flamethrower,energyball,overheat||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire]Kingdra||LumBerry|Sniper|waterfall,wavecrash,outrage,dragondance||85,85,85,85,85,85|M|||84|,,,,,Water]Flareon||ToxicOrb|Guts|trailblaze,facade,willowisp,flareblitz||85,85,85,85,85,85|F|||90|,,,,,Normal]Orthworm||ChestoBerry|EarthEater|coil,irontail,rest,bodypress||85,85,85,85,85,85|M|||88|,,,,,Fighting]Toxtricity||ThroatSpray|PunkRock|shiftgear,gunkshot,boomburst,overdrive||85,85,85,85,85,85|F|||82|,,,,,Normal",
-  "ai": "Honchkrow||HeavyDutyBoots|Moxie|suckerpunch,heatwave,lashout,bravebird||85,85,85,85,85,85|F|||86|,,,,,Dark]Zoroark||LifeOrb|Illusion|darkpulse,sludgebomb,nastyplot,psychic||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Perrserker||LifeOrb|ToughClaws|uturn,ironhead,stealthrock,closecombat||85,85,85,85,85,85|F|||89|,,,,,Fighting]Noctowl||HeavyDutyBoots|TintedLens|roost,hurricane,nastyplot,hypervoice||85,,85,85,85,85|M|,0,,,,||95|,,,,,Normal]Walking Wake||LifeOrb|Protosynthesis|dracometeor,hydrosteam,sunnyday,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Dunsparce||Eviolite|SereneGrace|coil,bodyslam,earthquake,roost||85,85,85,85,85,85|F|||86|,,,,,Ghost"
+  "player": "Sandy Shocks||HeavyDutyBoots|Protosynthesis|earthpower,spikes,voltswitch,thunderbolt||85,,85,85,85,85|N|,0,,,,||80|,,,,,Ground]Bronzong||Leftovers|Levitate|ironhead,hypnosis,psychicnoise,earthquake||85,85,85,85,85,85|N|||88|,,,,,Water]Bellossom||Leftovers|Chlorophyll|quiverdance,strengthsap,terablast,gigadrain||85,,85,85,85,85|F|,0,,,,||84|,,,,,Rock]Banette||LifeOrb|CursedBody|shadowsneak,poltergeist,gunkshot,swordsdance||85,85,85,85,85,85|F|||93|,,,,,Poison]Porygon-Z||ChoiceScarf|Download|shadowball,trick,triattack,icebeam||85,,85,85,85,85|N|,0,,,,||83|,,,,,Ghost]Veluza||SitrusBerry|Sharpness|psychocut,filletaway,nightslash,aquacutter||85,85,85,85,85,85|M|||85|,,,,,Water",
+  "ai": "Spectrier||Leftovers|GrimNeigh|drainingkiss,shadowball,nastyplot,substitute||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fairy]Hitmontop||Leftovers|Technician|tripleaxel,bulkup,closecombat,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Ice]Furret||LifeOrb|Frisk|brickbreak,tidyup,doubleedge,knockoff||85,85,85,85,85,85|M|||94|,,,,,Ghost]Mabosstiff||ChoiceScarf|Stakeout|crunch,wildcharge,playrough,psychicfangs||85,85,85,85,85,85|M|||86|,,,,,Fairy]Terapagos||ChestoBerry|TeraShift|rest,earthpower,terastarstorm,calmmind||85,,85,85,85,85|M|,0,,,,||77|,,,,,Stellar]Gliscor||ToxicOrb|PoisonHeal|substitute,toxic,protect,earthquake||85,85,85,85,85,85|M|||76|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 27
+  }
 }

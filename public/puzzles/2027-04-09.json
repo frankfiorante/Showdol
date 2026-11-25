@@ -20,5 +20,9 @@
     "Gliscor"
   ],
   "player": "Solgaleo||Leftovers|FullMetalBody|knockoff,sunsteelstrike,teleport,morningsun||85,85,85,85,85,85|N|||74|,,,,,Water]Rhyperior||AssaultVest|SolidRock|stoneedge,megahorn,earthquake,dragontail||85,85,85,85,85,85|F|||82|,,,,,Bug]Sneasler||WhiteHerb|Unburden|direclaw,swordsdance,acrobatics,closecombat||85,85,85,85,85,85|F|||74|,,,,,Flying]Lumineon||HeavyDutyBoots|StormDrain|uturn,hydropump,encore,icebeam||85,85,85,85,85,85|M|||93|,,,,,Ground]Lapras||LoadedDice|WaterAbsorb|waterfall,dragondance,iciclespear,earthquake||81,85,85,85,85,85|F|||87|,,,,,Ground]Gliscor||ToxicOrb|PoisonHeal|toxic,earthquake,substitute,protect||85,85,85,85,85,85|M|||76|,,,,,Water",
-  "ai": "Cinderace||HeavyDutyBoots|Libero|willowisp,courtchange,pyroball,uturn||85,85,85,85,85,85|F|||77|,,,,,Grass]Malamar||Leftovers|Contrary|rest,knockoff,superpower,sleeptalk||85,85,85,85,85,85|F|||82|,,,,,Fighting]Mew||LifeOrb|Synchronize|swordsdance,closecombat,psychicfangs,knockoff||85,85,85,85,85,85|N|||82|,,,,,Fighting]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|revelationdance,hurricane,roost,quiverdance||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fighting]Falinks||LifeOrb|Defiant|ironhead,closecombat,noretreat,knockoff||85,85,85,85,85,85|N|||84|,,,,,Dark]Sneasler||ChoiceBand|PoisonTouch|uturn,direclaw,throatchop,closecombat||85,85,85,85,85,85|F|||74|,,,,,Fighting"
+  "ai": "Cinderace||HeavyDutyBoots|Libero|willowisp,courtchange,pyroball,uturn||85,85,85,85,85,85|F|||77|,,,,,Grass]Malamar||Leftovers|Contrary|rest,knockoff,superpower,sleeptalk||85,85,85,85,85,85|F|||82|,,,,,Fighting]Mew||LifeOrb|Synchronize|swordsdance,closecombat,psychicfangs,knockoff||85,85,85,85,85,85|N|||82|,,,,,Fighting]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|revelationdance,hurricane,roost,quiverdance||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fighting]Falinks||LifeOrb|Defiant|ironhead,closecombat,noretreat,knockoff||85,85,85,85,85,85|N|||84|,,,,,Dark]Sneasler||ChoiceBand|PoisonTouch|uturn,direclaw,throatchop,closecombat||85,85,85,85,85,85|F|||74|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 58
+  }
 }

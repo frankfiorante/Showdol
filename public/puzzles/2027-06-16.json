@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,b60fdefacbc18183d62ba8485767f84e0f2e8aaac728f4b91714fc4b160f11a2",
-    "ai": "sodium,1dfb338788f8afa71dd0d13546ac40c2dd0526da3494e17f1eba10814e11be1c"
+    "player": "sodium,72b32edc22810798bf3287f2c25908f106e0e10a55946a67d8583bae927d5da8",
+    "ai": "sodium,2d86019e76653581581efc6a1ec0c1e0b4a2ace9186285bbc0c1516f0b50c1c9"
   },
   "playerSpecies": [
-    "Dialga-Origin",
-    "Forretress",
-    "Vivillon-High Plains",
-    "Golduck",
-    "Bombirdier",
-    "Ceruledge"
+    "Wo-Chien",
+    "Hatterene",
+    "Arbok",
+    "Carbink",
+    "Grafaiai",
+    "Great Tusk"
   ],
-  "player": "Dialga|DialgaOrigin|AdamantCrystal|Pressure|dracometeor,flashcannon,stealthrock,thunderwave||85,,85,85,85,85|N|,0,,,,||73|,,,,,Dragon]Forretress||Leftovers|Sturdy|spikes,ironhead,rapidspin,thunderwave||85,85,85,85,85,85|M|||84|,,,,,Water]Vivillon|VivillonHighPlains|HeavyDutyBoots|CompoundEyes|terablast,sleeppowder,quiverdance,hurricane||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ground]Golduck||Leftovers|CloudNine|hydropump,icebeam,nastyplot,grassknot||85,,85,85,85,85|F|,0,,,,||90|,,,,,Water]Bombirdier||HeavyDutyBoots|BigPecks|roost,bravebird,knockoff,uturn||85,85,85,85,85,85|M|||85|,,,,,Dark]Ceruledge||HeavyDutyBoots|WeakArmor|poltergeist,bitterblade,swordsdance,shadowsneak||85,85,85,85,85,85|M|||78|,,,,,Fire",
-  "ai": "Grimmsnarl||LightClay|Prankster|lightscreen,thunderwave,reflect,spiritbreak||85,85,85,85,85,85|M|||83|,,,,,Steel]Altaria||HeavyDutyBoots|NaturalCure|roost,earthquake,dragondance,bravebird||85,85,85,85,85,85|M|||89|,,,,,Steel]Swampert||Leftovers|Damp|knockoff,roar,stealthrock,earthquake||85,85,85,85,85,85|M|||82|,,,,,Steel]Venomoth||HeavyDutyBoots|TintedLens|quiverdance,sludgewave,bugbuzz,sleeppowder||85,,85,85,85,85|F|,0,,,,||84|,,,,,Bug]Keldeo|KeldeoResolute|ChoiceSpecs|Justified|secretsword,vacuumwave,hydropump,flipturn||85,85,85,85,85,85|N|||79|,,,,,Fighting]Toxtricity||ThroatSpray|PunkRock|boomburst,gunkshot,shiftgear,overdrive||85,85,85,85,85,85|F|||82|,,,,,Normal"
+  "player": "Wo-Chien||Leftovers|TabletsofRuin|leechseed,protect,knockoff,stunspore||85,85,85,85,85,85|N|||83|,,,,,Poison]Hatterene||Leftovers|MagicBounce|drainingkiss,psychic,mysticalfire,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Arbok||Leftovers|Intimidate|coil,gunkshot,earthquake,trailblaze||85,85,85,85,85,85|F|||87|,,,,,Ground]Carbink||Leftovers|ClearBody|moonblast,rockpolish,irondefense,bodypress||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Grafaiai||HeavyDutyBoots|Prankster|knockoff,gunkshot,partingshot,encore||85,85,85,85,85,85|M|||86|,,,,,Dark]Great Tusk||BoosterEnergy|Protosynthesis|closecombat,bulkup,earthquake,stoneedge||85,85,85,85,85,85|N|||77|,,,,,Ground",
+  "ai": "Inteleon||ChoiceSpecs|Torrent|uturn,hydropump,icebeam,scald||85,85,85,85,85,85|M|||81|,,,,,Water]Enamorus|EnamorusTherian|WeaknessPolicy|Overcoat|mysticalfire,earthpower,moonblast,agility||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground]Iron Thorns||BoosterEnergy|QuarkDrive|stoneedge,wildcharge,earthquake,dragondance||85,85,85,85,85,85|N|||81|,,,,,Rock]Raging Bolt||Leftovers|Protosynthesis|calmmind,thunderbolt,dracometeor,thunderclap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fairy]Blaziken||LifeOrb|SpeedBoost|flareblitz,swordsdance,closecombat,knockoff||85,85,85,85,85,85|F|||76|,,,,,Dark]Glaceon||HeavyDutyBoots|IceBody|freezedry,protect,mudshot,wish||85,,85,85,85,85|F|,0,,,,||94|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 25
+  }
 }

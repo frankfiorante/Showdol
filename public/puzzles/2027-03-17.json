@@ -20,5 +20,9 @@
     "Skeledirge"
   ],
   "player": "Squawkabilly|SquawkabillyYellow|ChoiceBand|Hustle|doubleedge,foulplay,quickattack,bravebird||85,85,85,85,85,85|M|||89|,,,,,Normal]Sceptile||LifeOrb|Overgrow|rockslide,swordsdance,earthquake,leafblade||85,85,85,85,85,85|F|||87|,,,,,Rock]Scream Tail||Leftovers|Protosynthesis|wish,playrough,thunderwave,protect||85,85,85,85,85,85|N|||84|,,,,,Poison]Flamigo||ChoiceBand|Scrappy|uturn,closecombat,throatchop,bravebird||85,85,85,85,85,85|M|||82|,,,,,Fighting]Florges||Leftovers|FlowerVeil|calmmind,protect,wish,moonblast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Skeledirge||HeavyDutyBoots|Unaware|torchsong,willowisp,slackoff,hex||85,,85,85,85,85|M|,0,,,,||79|,,,,,Fairy",
-  "ai": "Mightyena||AssaultVest|Intimidate|suckerpunch,playrough,poisonfang,throatchop||85,85,85,85,85,85|F|||96|,,,,,Poison]Slither Wing||BoosterEnergy|Protosynthesis|closecombat,earthquake,bulkup,acrobatics||85,85,85,85,85,85|N|||81|,,,,,Flying]Chandelure||ChoiceScarf|FlashFire|shadowball,energyball,trick,fireblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Misdreavus||Eviolite|Levitate|calmmind,drainingkiss,willowisp,shadowball||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Magmortar||HeavyDutyBoots|FlameBody|focusblast,thunderbolt,fireblast,earthquake||85,85,85,85,85,85|F|||88|,,,,,Water]Cacturne||LifeOrb|WaterAbsorb|suckerpunch,leafstorm,spikes,knockoff||85,85,85,85,85,85|M|||92|,,,,,Dark"
+  "ai": "Mightyena||AssaultVest|Intimidate|suckerpunch,playrough,poisonfang,throatchop||85,85,85,85,85,85|F|||96|,,,,,Poison]Slither Wing||BoosterEnergy|Protosynthesis|closecombat,earthquake,bulkup,acrobatics||85,85,85,85,85,85|N|||81|,,,,,Flying]Chandelure||ChoiceScarf|FlashFire|shadowball,energyball,trick,fireblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Misdreavus||Eviolite|Levitate|calmmind,drainingkiss,willowisp,shadowball||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Magmortar||HeavyDutyBoots|FlameBody|focusblast,thunderbolt,fireblast,earthquake||85,85,85,85,85,85|F|||88|,,,,,Water]Cacturne||LifeOrb|WaterAbsorb|suckerpunch,leafstorm,spikes,knockoff||85,85,85,85,85,85|M|||92|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 21
+  }
 }

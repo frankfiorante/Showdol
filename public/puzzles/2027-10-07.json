@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,397b10c87c1b8977f6b48d28d72561738944168d0f35b7eb6dabfde266816ac3",
-    "ai": "sodium,3d82e7f0c74b3a9e1647fb24de4d19c878ab70519dd9404d4c068f0f5d5fafcd"
+    "player": "sodium,759e6fcbb543fc5a22b80a10cebbd1e0e7c926e17bc94d3d47cd9904b10cda57",
+    "ai": "sodium,3ec12450727bda69e37d191e7ff9818f95c10313fe5966ccd53eff0838b49067"
   },
   "playerSpecies": [
-    "Toxapex",
-    "Slaking",
-    "Politoed",
-    "Rotom-Frost",
-    "Ampharos",
-    "Mienshao"
+    "Ogerpon-Cornerstone",
+    "Wugtrio",
+    "Glastrier",
+    "Grimmsnarl",
+    "Orthworm",
+    "Iron Hands"
   ],
-  "player": "Toxapex||RockyHelmet|Regenerator|liquidation,haze,toxic,recover||85,85,85,85,85,85|M|||82|,,,,,Steel]Slaking||ChoiceBand|Truant|knockoff,earthquake,doubleedge,gigaimpact||85,85,85,85,85,85|F|||84|,,,,,Ghost]Politoed||ChestoBerry|Drizzle|hydropump,icebeam,rest,haze||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Rotom|RotomFrost|HeavyDutyBoots|Levitate|nastyplot,thunderbolt,willowisp,blizzard||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric]Ampharos||LifeOrb|Static|agility,dazzlinggleam,focusblast,thunderbolt||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fairy]Mienshao||AssaultVest|Regenerator|uturn,closecombat,fakeout,knockoff||85,85,85,85,85,85|M|||83|,,,,,Dark",
-  "ai": "Lunala||Leftovers|ShadowShield|moonlight,psyshock,moongeistbeam,calmmind||85,,85,85,85,85|N|,0,,,,||70|,,,,,Dark]Clefable||LifeOrb|MagicGuard|moonlight,moonblast,knockoff,thunderwave||85,85,85,85,85,85|M|||83|,,,,,Steel]Mesprit||Leftovers|Levitate|uturn,knockoff,encore,psychicnoise||85,85,85,85,85,85|N|||85|,,,,,Dark]Blastoise||WhiteHerb|Torrent|icebeam,terablast,hydropump,shellsmash||85,,85,85,85,85|F|,0,,,,||80|,,,,,Electric]Dipplin||Eviolite|StickyHold|dragonpulse,gigadrain,suckerpunch,recover||85,85,85,85,85,85|M|||88|,,,,,Steel]Meganium||Leftovers|Overgrow|energyball,knockoff,synthesis,leechseed||85,85,85,85,85,85|M|||90|,,,,,Poison"
+  "player": "Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|synthesis,ivycudgel,superpower,powerwhip||85,85,85,85,85,85|F|||76|,,,,,Rock]Wugtrio||ChoiceBand|Gooey|throatchop,stompingtantrum,aquajet,liquidation||85,85,85,85,85,85|M|||91|,,,,,Dark]Glastrier||HeavyDutyBoots|ChillingNeigh|iciclecrash,swordsdance,closecombat,highhorsepower||85,85,85,85,85,85|N|||86|,,,,,Ground]Grimmsnarl||Leftovers|Prankster|thunderwave,partingshot,spiritbreak,suckerpunch||85,85,85,85,85,85|M|||83|,,,,,Poison]Orthworm||ChestoBerry|EarthEater|irontail,coil,rest,bodypress||85,85,85,85,85,85|M|||88|,,,,,Electric]Iron Hands||AssaultVest|QuarkDrive|voltswitch,thunderpunch,drainpunch,fakeout||85,85,85,85,85,85|N|||79|,,,,,Fighting",
+  "ai": "Shaymin||Leftovers|NaturalCure|seedflare,substitute,leechseed,airslash||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Sudowoodo||ChoiceBand|RockHead|headsmash,suckerpunch,earthquake,woodhammer||85,85,85,85,85,85|M|||94|,,,,,Rock]Crawdaunt||LifeOrb|Adaptability|crabhammer,closecombat,knockoff,dragondance||85,85,85,85,85,85|F|||84|,,,,,Fighting]Bombirdier||ChoiceBand|RockyPayload|stoneedge,bravebird,suckerpunch,knockoff||85,85,85,85,85,85|M|||85|,,,,,Rock]Revavroom||LifeOrb|Filter|highhorsepower,shiftgear,ironhead,gunkshot||85,85,85,85,85,85|F|||79|,,,,,Ground]Delphox||HeavyDutyBoots|Blaze|fireblast,nastyplot,focusblast,psyshock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 41
+  }
 }

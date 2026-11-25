@@ -20,5 +20,9 @@
     "Gallade"
   ],
   "player": "Brute Bonnet||Leftovers|Protosynthesis|closecombat,spore,crunch,suckerpunch||85,85,85,85,85,85|N|||79|,,,,,Poison]Flapple||ChoiceBand|Hustle|uturn,suckerpunch,outrage,gravapple||85,85,85,85,85,85|M|||88|,,,,,Steel]Sylveon||Leftovers|Pixilate|wish,protect,calmmind,hypervoice||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Bastiodon||ChestoBerry|Soundproof|irondefense,foulplay,bodypress,rest||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Deoxys|DeoxysAttack|LifeOrb|Pressure|extremespeed,knockoff,superpower,psychoboost||85,85,85,85,85,85|N|||72|,,,,,Fighting]Gallade||LifeOrb|Sharpness|psychocut,sacredsword,nightslash,agility||85,85,85,85,85,85|M|||80|,,,,,Fighting",
-  "ai": "Malamar||ChestoBerry|Contrary|psychocut,rest,knockoff,superpower||85,85,85,85,85,85|F|||82|,,,,,Poison]Glalie||HeavyDutyBoots|InnerFocus|earthquake,spikes,taunt,freezedry||85,85,85,85,85,85|F|||96|,,,,,Ground]Hydreigon||ChoiceSpecs|Levitate|darkpulse,dracometeor,uturn,fireblast||85,85,85,85,85,85|M|||79|,,,,,Dragon]Dodrio||HeavyDutyBoots|EarlyBird|bravebird,drillrun,swordsdance,knockoff||85,85,85,85,85,85|F|||85|,,,,,Ground]Regigigas||Leftovers|SlowStart|bodyslam,rest,sleeptalk,knockoff||85,85,85,85,85,85|N|||84|,,,,,Ghost]Ribombee||HeavyDutyBoots|ShieldDust|terablast,moonblast,quiverdance,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground"
+  "ai": "Malamar||ChestoBerry|Contrary|psychocut,rest,knockoff,superpower||85,85,85,85,85,85|F|||82|,,,,,Poison]Glalie||HeavyDutyBoots|InnerFocus|earthquake,spikes,taunt,freezedry||85,85,85,85,85,85|F|||96|,,,,,Ground]Hydreigon||ChoiceSpecs|Levitate|darkpulse,dracometeor,uturn,fireblast||85,85,85,85,85,85|M|||79|,,,,,Dragon]Dodrio||HeavyDutyBoots|EarlyBird|bravebird,drillrun,swordsdance,knockoff||85,85,85,85,85,85|F|||85|,,,,,Ground]Regigigas||Leftovers|SlowStart|bodyslam,rest,sleeptalk,knockoff||85,85,85,85,85,85|N|||84|,,,,,Ghost]Ribombee||HeavyDutyBoots|ShieldDust|terablast,moonblast,quiverdance,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 74
+  }
 }

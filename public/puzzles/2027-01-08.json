@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,0636a88a7abeed49db2ef6906c6491ed951e19158c2bba40d2f7126c39cf8598",
-    "ai": "sodium,3e2853646a83f629fa3885e1fcd5c77cb13782076bfaabb415caf9979f8ef3dc"
+    "player": "sodium,5365c6ada4fdf126bff46902ae672450a0ce44057eda194933bd987adb0a3fbf",
+    "ai": "sodium,e8fc600623b2accda988289b046838c0493371fef253772781f04cdecdeae1e3"
   },
   "playerSpecies": [
-    "Cloyster",
-    "Mew",
-    "Polteageist-Antique",
-    "Spidops",
-    "Kleavor",
-    "Muk"
+    "Shaymin-Sky",
+    "Oricorio-Pa'u",
+    "Greninja-Bond",
+    "Mewtwo",
+    "Iron Thorns",
+    "Azumarill"
   ],
-  "player": "Cloyster||WhiteHerb|SkillLink|rockblast,drillrun,iciclespear,shellsmash||85,85,85,85,85,85|F|||80|,,,,,Ground]Mew||LifeOrb|Synchronize|closecombat,psychicfangs,swordsdance,leechlife||85,85,85,85,85,85|N|||82|,,,,,Fighting]Polteageist|PolteageistAntique|WhiteHerb|CursedBody|storedpower,shadowball,strengthsap,shellsmash||85,,85,85,85,85|N|,0,,,,||78|,,,,,Psychic]Spidops||HeavyDutyBoots|Stakeout|toxicspikes,spikes,stickyweb,circlethrow||85,85,85,85,85,85|M|||96|,,,,,Ghost]Kleavor||ChoiceBand|Sharpness|closecombat,uturn,stoneaxe,xscissor||85,85,85,85,85,85|F|||78|,,,,,Rock]Muk||AssaultVest|PoisonTouch|poisonjab,drainpunch,shadowsneak,knockoff||85,85,85,85,85,85|F|||86|,,,,,Dark",
-  "ai": "Bellibolt||Leftovers|Electromorphosis|slackoff,thunderbolt,muddywater,toxic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Luxray||AssaultVest|Intimidate|voltswitch,wildcharge,icefang,playrough||85,85,85,85,85,85|M|||88|,,,,,Fairy]Tatsugiri||HeavyDutyBoots|StormDrain|nastyplot,hydropump,dracometeor,rapidspin||85,85,85,85,85,85|F|||87|,,,,,Water]Polteageist|PolteageistAntique|WhiteHerb|CursedBody|shellsmash,terablast,shadowball,strengthsap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Moltres||HeavyDutyBoots|FlameBody|fireblast,roost,scorchingsands,bravebird||85,85,85,85,85,85|N|||81|,,,,,Ground]Kricketune||HeavyDutyBoots|Technician|knockoff,taunt,stickyweb,pounce||85,85,85,85,85,85|M|||99|,,,,,Ghost"
+  "player": "Shaymin|ShayminSky|Leftovers|SereneGrace|airslash,substitute,leechseed,seedflare||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Oricorio|OricorioPau|HeavyDutyBoots|Dancer|hurricane,revelationdance,roost,quiverdance||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Greninja|GreninjaBond|LifeOrb|BattleBond|hydropump,gunkshot,darkpulse,icebeam||85,85,85,85,85,85|M|||80|,,,,,Water]Mewtwo||LifeOrb|Pressure|psystrike,fireblast,nastyplot,aurasphere||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire]Iron Thorns||BoosterEnergy|QuarkDrive|wildcharge,stoneedge,earthquake,dragondance||85,85,85,85,85,85|N|||81|,,,,,Flying]Azumarill||ChoiceBand|HugePower|knockoff,liquidation,playrough,aquajet||85,85,85,85,85,85|M|||82|,,,,,Water",
+  "ai": "Drifblim||SitrusBerry|Unburden|airslash,shadowball,strengthsap,calmmind||73,,85,85,85,85|F|,0,,,,||86|,,,,,Fairy]Krookodile||LifeOrb|Intimidate|stoneedge,stealthrock,knockoff,earthquake||85,85,85,85,85,85|F|||79|,,,,,Ground]Eternatus||RockyHelmet|Pressure|dynamaxcannon,toxic,recover,flamethrower||85,,85,85,85,85|N|,0,,,,||69|,,,,,Dragon]Salazzle||HeavyDutyBoots|Corrosion|terablast,sludgewave,nastyplot,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Beartic||ChoiceBand|SlushRush|iciclecrash,closecombat,earthquake,aquajet||85,85,85,85,85,85|M|||91|,,,,,Fighting]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderwave,thunderbolt,voltswitch,scald||85,,85,85,85,85|M|,0,,,,||89|,,,,,Flying",
+  "curation": {
+    "battles": 100,
+    "playerWins": 65
+  }
 }

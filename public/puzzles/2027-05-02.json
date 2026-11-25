@@ -20,5 +20,9 @@
     "Excadrill"
   ],
   "player": "Necrozma|NecrozmaDawnWings|LifeOrb|PrismArmor|photongeyser,dragondance,moongeistbeam,brickbreak||85,85,85,85,85,85|N|||76|,,,,,Fighting]Slowbro||Leftovers|Regenerator|psychicnoise,calmmind,scald,slackoff||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fairy]Rillaboom||LifeOrb|GrassySurge|highhorsepower,grassyglide,swordsdance,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Spectrier||LifeOrb|GrimNeigh|nastyplot,shadowball,drainingkiss,darkpulse||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fairy]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,rapidspin,surf,nastyplot||85,85,85,85,85,85|M|||87|,,,,,Steel]Excadrill||Leftovers|MoldBreaker|ironhead,earthquake,swordsdance,rapidspin||85,85,85,85,85,85|M|||79|,,,,,Grass",
-  "ai": "Yanmega||ChoiceSpecs|TintedLens|bugbuzz,uturn,airslash,gigadrain||85,85,85,85,85,85|M|||82|,,,,,Bug]Ceruledge||HeavyDutyBoots|WeakArmor|closecombat,bitterblade,swordsdance,poltergeist||85,85,85,85,85,85|F|||78|,,,,,Ghost]Wugtrio||ChoiceBand|Gooey|stompingtantrum,throatchop,liquidation,aquajet||85,85,85,85,85,85|F|||91|,,,,,Ground]Porygon2||Eviolite|Download|discharge,triattack,recover,icebeam||85,,85,85,85,85|N|,0,,,,||81|,,,,,Ghost]Glaceon||HeavyDutyBoots|IceBody|freezedry,protect,wish,calmmind||85,,85,85,85,85|F|,0,,,,||94|,,,,,Water]Appletun||Leftovers|ThickFat|recover,appleacid,dracometeor,leechseed||85,,85,85,85,85|M|,0,,,,||92|,,,,,Steel"
+  "ai": "Yanmega||ChoiceSpecs|TintedLens|bugbuzz,uturn,airslash,gigadrain||85,85,85,85,85,85|M|||82|,,,,,Bug]Ceruledge||HeavyDutyBoots|WeakArmor|closecombat,bitterblade,swordsdance,poltergeist||85,85,85,85,85,85|F|||78|,,,,,Ghost]Wugtrio||ChoiceBand|Gooey|stompingtantrum,throatchop,liquidation,aquajet||85,85,85,85,85,85|F|||91|,,,,,Ground]Porygon2||Eviolite|Download|discharge,triattack,recover,icebeam||85,,85,85,85,85|N|,0,,,,||81|,,,,,Ghost]Glaceon||HeavyDutyBoots|IceBody|freezedry,protect,wish,calmmind||85,,85,85,85,85|F|,0,,,,||94|,,,,,Water]Appletun||Leftovers|ThickFat|recover,appleacid,dracometeor,leechseed||85,,85,85,85,85|M|,0,,,,||92|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 32
+  }
 }

@@ -20,5 +20,9 @@
     "Espathra"
   ],
   "player": "Vigoroth||Eviolite|VitalSpirit|bulkup,bodyslam,slackoff,knockoff||85,85,85,85,85,85|M|||85|,,,,,Ghost]Iron Crown||ChoiceSpecs|QuarkDrive|tachyoncutter,focusblast,voltswitch,psyshock||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Iron Jugulis||PowerHerb|QuarkDrive|earthpower,meteorbeam,darkpulse,hurricane||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Swalot||Leftovers|LiquidOoze|gunkshot,earthquake,knockoff,swordsdance||85,85,85,85,85,85|F|||90|,,,,,Dark]Thundurus|||Prankster|taunt,thunderbolt,acrobatics,focusblast||85,85,85,85,85,85|M|||80|,,,,,Flying]Espathra||ChoiceSpecs|SpeedBoost|shadowball,luminacrash,uturn,dazzlinggleam||85,85,85,85,85,85|M|||80|,,,,,Fairy",
-  "ai": "Toucannon||HeavyDutyBoots|KeenEye|roost,beakblast,knockoff,boomburst||85,85,85,85,85,85|F|||88|,,,,,Steel]Comfey||Leftovers|Triage|storedpower,gigadrain,drainingkiss,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Bastiodon||ChestoBerry|Soundproof|bodypress,irondefense,foulplay,rest||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Scizor||Leftovers|Technician|knockoff,defog,bulletpunch,closecombat||85,85,85,85,85,85|M|||79|,,,,,Dragon]Sneasler||ChoiceBand|PoisonTouch|closecombat,throatchop,uturn,direclaw||85,85,85,85,85,85|M|||74|,,,,,Fighting]Mewtwo||LifeOrb|Pressure|recover,nastyplot,fireblast,psystrike||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire"
+  "ai": "Toucannon||HeavyDutyBoots|KeenEye|roost,beakblast,knockoff,boomburst||85,85,85,85,85,85|F|||88|,,,,,Steel]Comfey||Leftovers|Triage|storedpower,gigadrain,drainingkiss,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Bastiodon||ChestoBerry|Soundproof|bodypress,irondefense,foulplay,rest||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Scizor||Leftovers|Technician|knockoff,defog,bulletpunch,closecombat||85,85,85,85,85,85|M|||79|,,,,,Dragon]Sneasler||ChoiceBand|PoisonTouch|closecombat,throatchop,uturn,direclaw||85,85,85,85,85,85|M|||74|,,,,,Fighting]Mewtwo||LifeOrb|Pressure|recover,nastyplot,fireblast,psystrike||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire",
+  "curation": {
+    "battles": 100,
+    "playerWins": 77
+  }
 }

@@ -20,5 +20,9 @@
     "Mewtwo"
   ],
   "player": "Meowscarada||ChoiceBand|Protean|flowertrick,knockoff,uturn,tripleaxel||85,85,85,85,85,85|M|||78|,,,,,Dark]Hariyama||AssaultVest|ThickFat|knockoff,headlongrush,heavyslam,closecombat||85,85,85,85,85,85|F|||87|,,,,,Steel]Porygon2||Eviolite|Download|recover,discharge,triattack,icebeam||85,,85,85,85,85|N|,0,,,,||81|,,,,,Poison]Ninetales|NinetalesAlola|LightClay|SnowWarning|freezedry,auroraveil,moonblast,blizzard||85,,85,85,85,85|M|,0,,,,||78|,,,,,Water]Armarouge||ChoiceSpecs|WeakArmor|energyball,focusblast,armorcannon,psyshock||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fire]Mewtwo||LifeOrb|Pressure|darkpulse,psystrike,nastyplot,aurasphere||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fighting",
-  "ai": "Raikou||HeavyDutyBoots|Pressure|calmmind,voltswitch,scald,thunderbolt||85,,85,85,85,85|N|,0,,,,||82|,,,,,Flying]Moltres||HeavyDutyBoots|FlameBody|roost,bravebird,fireblast,uturn||85,85,85,85,85,85|N|||81|,,,,,Dragon]Overqwil||LoadedDice|Intimidate|swordsdance,gunkshot,crunch,scaleshot||85,85,85,85,85,85|F|||82|,,,,,Dragon]Hitmontop||AssaultVest|Intimidate|rapidspin,suckerpunch,closecombat,earthquake||85,85,85,85,85,85|M|||88|,,,,,Steel]Scream Tail||Leftovers|Protosynthesis|dazzlinggleam,wish,thunderwave,protect||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison]Kyurem|KyuremWhite|ChoiceScarf|Turboblaze|fusionflare,freezedry,icebeam,dracometeor||85,,85,85,85,85|N|,0,,,,||73|,,,,,Fire"
+  "ai": "Raikou||HeavyDutyBoots|Pressure|calmmind,voltswitch,scald,thunderbolt||85,,85,85,85,85|N|,0,,,,||82|,,,,,Flying]Moltres||HeavyDutyBoots|FlameBody|roost,bravebird,fireblast,uturn||85,85,85,85,85,85|N|||81|,,,,,Dragon]Overqwil||LoadedDice|Intimidate|swordsdance,gunkshot,crunch,scaleshot||85,85,85,85,85,85|F|||82|,,,,,Dragon]Hitmontop||AssaultVest|Intimidate|rapidspin,suckerpunch,closecombat,earthquake||85,85,85,85,85,85|M|||88|,,,,,Steel]Scream Tail||Leftovers|Protosynthesis|dazzlinggleam,wish,thunderwave,protect||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison]Kyurem|KyuremWhite|ChoiceScarf|Turboblaze|fusionflare,freezedry,icebeam,dracometeor||85,,85,85,85,85|N|,0,,,,||73|,,,,,Fire",
+  "curation": {
+    "battles": 100,
+    "playerWins": 32
+  }
 }

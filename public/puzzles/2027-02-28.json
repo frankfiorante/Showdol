@@ -20,5 +20,9 @@
     "Overqwil"
   ],
   "player": "Regidrago||LifeOrb|DragonsMaw|dragondance,earthquake,terablast,dragonclaw||85,85,85,85,85,85|N|||77|,,,,,Steel]Toucannon||HeavyDutyBoots|KeenEye|uturn,roost,beakblast,boomburst||85,85,85,85,85,85|M|||88|,,,,,Steel]Magnezone||ChoiceScarf|MagnetPull|thunderbolt,voltswitch,bodypress,flashcannon||85,,85,85,85,85|N|,0,,,,||84|,,,,,Flying]Luvdisc||HeavyDutyBoots|SwiftSwim|substitute,endeavor,surf,whirlpool||81,,85,85,85,85|M|,0,,,,|||,,,,,Ground]Arceus|ArceusDragon|DracoPlate|Multitype|dragondance,flareblitz,heavyslam,outrage||85,85,85,85,85,85|N|||71|,,,,,Fire]Overqwil||LifeOrb|Intimidate|gunkshot,swordsdance,liquidation,crunch||85,85,85,85,85,85|F|||82|,,,,,Water",
-  "ai": "Shaymin||Leftovers|NaturalCure|airslash,leechseed,substitute,seedflare||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Porygon-Z||LifeOrb|Download|shadowball,thunderbolt,nastyplot,triattack||85,,85,85,85,85|N|,0,,,,||83|,,,,,Ghost]Magmortar||HeavyDutyBoots|FlameBody|thunderbolt,focusblast,knockoff,fireblast||85,85,85,85,85,85|M|||88|,,,,,Water]Granbull||Leftovers|Intimidate|playrough,roar,earthquake,thunderwave||85,85,85,85,85,85|M|||88|,,,,,Ground]Meganium||Leftovers|Overgrow|synthesis,energyball,knockoff,encore||85,85,85,85,85,85|M|||90|,,,,,Steel]Pelipper||HeavyDutyBoots|Drizzle|hurricane,knockoff,hydropump,roost||85,85,85,85,85,85|F|||86|,,,,,Water"
+  "ai": "Shaymin||Leftovers|NaturalCure|airslash,leechseed,substitute,seedflare||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Porygon-Z||LifeOrb|Download|shadowball,thunderbolt,nastyplot,triattack||85,,85,85,85,85|N|,0,,,,||83|,,,,,Ghost]Magmortar||HeavyDutyBoots|FlameBody|thunderbolt,focusblast,knockoff,fireblast||85,85,85,85,85,85|M|||88|,,,,,Water]Granbull||Leftovers|Intimidate|playrough,roar,earthquake,thunderwave||85,85,85,85,85,85|M|||88|,,,,,Ground]Meganium||Leftovers|Overgrow|synthesis,energyball,knockoff,encore||85,85,85,85,85,85|M|||90|,,,,,Steel]Pelipper||HeavyDutyBoots|Drizzle|hurricane,knockoff,hydropump,roost||85,85,85,85,85,85|F|||86|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 48
+  }
 }

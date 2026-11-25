@@ -20,5 +20,9 @@
     "Sceptile"
   ],
   "player": "Piloswine||Eviolite|ThickFat|iciclecrash,stealthrock,earthquake,iceshard||85,85,85,85,85,85|M|||85|,,,,,Poison]Carbink||ChestoBerry|Sturdy|irondefense,bodypress,moonblast,rest||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Hoopa||LifeOrb|Magician|shadowball,nastyplot,psyshock,focusblast||85,,85,85,85,85|N|,0,,,,||85|,,,,,Psychic]Moltres|MoltresGalar|ChestoBerry|Berserk|hurricane,fierywrath,nastyplot,rest||81,,85,85,85,85|N|,0,,,,||79|,,,,,Dark]Whimsicott||Leftovers|Prankster|substitute,moonblast,leechseed,encore||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Sceptile||Leftovers|Overgrow|focusblast,substitute,leechseed,gigadrain||85,,85,85,85,85|F|,0,,,,||87|,,,,,Steel",
-  "ai": "Braviary||HeavyDutyBoots|Defiant|closecombat,roost,bulkup,bravebird||85,85,85,85,85,85|M|||85|,,,,,Steel]Overqwil||LoadedDice|Intimidate|scaleshot,gunkshot,crunch,swordsdance||85,85,85,85,85,85|F|||82|,,,,,Dragon]Appletun||Leftovers|ThickFat|recover,leechseed,dracometeor,appleacid||85,,85,85,85,85|F|,0,,,,||92|,,,,,Steel]Bellossom||Leftovers|Chlorophyll|strengthsap,gigadrain,quiverdance,terablast||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Golduck||LifeOrb|CloudNine|icebeam,nastyplot,grassknot,hydropump||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water]Glimmora||HeavyDutyBoots|ToxicDebris|sludgewave,stealthrock,earthpower,mortalspin||85,85,85,85,85,85|M|||75|,,,,,Ground"
+  "ai": "Braviary||HeavyDutyBoots|Defiant|closecombat,roost,bulkup,bravebird||85,85,85,85,85,85|M|||85|,,,,,Steel]Overqwil||LoadedDice|Intimidate|scaleshot,gunkshot,crunch,swordsdance||85,85,85,85,85,85|F|||82|,,,,,Dragon]Appletun||Leftovers|ThickFat|recover,leechseed,dracometeor,appleacid||85,,85,85,85,85|F|,0,,,,||92|,,,,,Steel]Bellossom||Leftovers|Chlorophyll|strengthsap,gigadrain,quiverdance,terablast||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Golduck||LifeOrb|CloudNine|icebeam,nastyplot,grassknot,hydropump||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water]Glimmora||HeavyDutyBoots|ToxicDebris|sludgewave,stealthrock,earthpower,mortalspin||85,85,85,85,85,85|M|||75|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 64
+  }
 }

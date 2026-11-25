@@ -20,5 +20,9 @@
     "Excadrill"
   ],
   "player": "Slither Wing||HeavyDutyBoots|Protosynthesis|uturn,willowisp,closecombat,morningsun||85,85,85,85,85,85|N|||81|,,,,,Steel]Torterra||LoadedDice|Overgrow|headlongrush,shellsmash,rockblast,bulletseed||85,85,85,85,85,85|F|||78|,,,,,Water]Arbok||Leftovers|Intimidate|suckerpunch,coil,gunkshot,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Hitmonlee||ChoiceScarf|Reckless|knockoff,stoneedge,poisonjab,highjumpkick||81,85,85,85,85,85|M|||85|,,,,,Fighting]Mightyena||ChoiceBand|Intimidate|playrough,poisonfang,suckerpunch,throatchop||85,85,85,85,85,85|F|||96|,,,,,Poison]Excadrill||AssaultVest|MoldBreaker|rapidspin,rockslide,earthquake,ironhead||85,85,85,85,85,85|F|||79|,,,,,Grass",
-  "ai": "Amoonguss||Leftovers|Regenerator|spore,stompingtantrum,sludgebomb,gigadrain||85,85,85,85,85,85|F|||82|,,,,,Water]Scovillain||ChoiceScarf|Chlorophyll|overheat,leafstorm,flamethrower,energyball||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire]Kingambit||Leftovers|SupremeOverlord|swordsdance,kowtowcleave,suckerpunch,ironhead||85,85,85,85,85,85|F|||74|,,,,,Ghost]Groudon||Leftovers|Drought|heatcrash,precipiceblades,stealthrock,roar||85,85,85,85,85,85|N|||72|,,,,,Fire]Hitmontop||Leftovers|Technician|rapidspin,closecombat,tripleaxel,bulkup||85,85,85,85,85,85|M|||88|,,,,,Ice]Galvantula||HeavyDutyBoots|CompoundEyes|thunder,stickyweb,bugbuzz,energyball||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric"
+  "ai": "Amoonguss||Leftovers|Regenerator|spore,stompingtantrum,sludgebomb,gigadrain||85,85,85,85,85,85|F|||82|,,,,,Water]Scovillain||ChoiceScarf|Chlorophyll|overheat,leafstorm,flamethrower,energyball||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire]Kingambit||Leftovers|SupremeOverlord|swordsdance,kowtowcleave,suckerpunch,ironhead||85,85,85,85,85,85|F|||74|,,,,,Ghost]Groudon||Leftovers|Drought|heatcrash,precipiceblades,stealthrock,roar||85,85,85,85,85,85|N|||72|,,,,,Fire]Hitmontop||Leftovers|Technician|rapidspin,closecombat,tripleaxel,bulkup||85,85,85,85,85,85|M|||88|,,,,,Ice]Galvantula||HeavyDutyBoots|CompoundEyes|thunder,stickyweb,bugbuzz,energyball||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric",
+  "curation": {
+    "battles": 100,
+    "playerWins": 53
+  }
 }

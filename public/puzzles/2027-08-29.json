@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,a1691e51ca59faa656941930c354ffaf7e7fbccf6fdb394dd95f76fa61364fa6",
-    "ai": "sodium,e7fe4bb8195027f85d95d8b20b1554979f169b26bb66c1b4cbbc11711ebd8f32"
+    "player": "sodium,e3ec5d56890fc17fe29e60f2bb7944c1e41f8792f4b092cb687e4d8bcfb18700",
+    "ai": "sodium,7ee615b3cc355d0da43e9ddef18c13fe21a00ff1bd40d845343063db024e7d49"
   },
   "playerSpecies": [
-    "Alomomola",
-    "Iron Boulder",
-    "Ceruledge",
-    "Amoonguss",
-    "Qwilfish-Hisui",
-    "Quaquaval"
+    "Golduck",
+    "Zebstrika",
+    "Mamoswine",
+    "Phione",
+    "Landorus",
+    "Kyurem"
   ],
-  "player": "Alomomola||RockyHelmet|Regenerator|flipturn,protect,scald,wish||85,85,85,85,85,85|M|||87|,,,,,Poison]Iron Boulder||LifeOrb|QuarkDrive|swordsdance,zenheadbutt,closecombat,mightycleave||85,85,85,85,85,85|N|||77|,,,,,Fighting]Ceruledge||HeavyDutyBoots|WeakArmor|swordsdance,bitterblade,poltergeist,shadowsneak||85,85,85,85,85,85|M|||78|,,,,,Ghost]Amoonguss||Leftovers|Regenerator|gigadrain,sludgebomb,spore,stompingtantrum||85,85,85,85,85,85|M|||82|,,,,,Steel]Qwilfish|QwilfishHisui|Eviolite|Intimidate|crunch,toxicspikes,gunkshot,spikes||85,85,85,85,85,85|F|||83|,,,,,Poison]Quaquaval||ChoiceBand|Moxie|aquastep,uturn,closecombat,knockoff||85,85,85,85,85,85|F|||79|,,,,,Water",
-  "ai": "Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|quiverdance,revelationdance,roost,hurricane||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fighting]Vileplume||Leftovers|EffectSpore|sludgebomb,gigadrain,sleeppowder,strengthsap||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Greedent||SitrusBerry|CheekPouch|doubleedge,earthquake,knockoff,swordsdance||85,85,85,85,85,85|M|||86|,,,,,Ground]Snorlax||Leftovers|ThickFat|earthquake,crunch,bodyslam,curse||85,85,85,85,85,85|F|||82|,,,,,Poison]Flapple||LumBerry|Hustle|outrage,dragondance,gravapple,terablast||85,85,85,85,85,85|F|||88|,,,,,Fire]Greninja|GreninjaBond|LifeOrb|BattleBond|hydropump,icebeam,gunkshot,darkpulse||85,85,85,85,85,85|M|||80|,,,,,Water"
+  "player": "Golduck||ChoiceSpecs|CloudNine|icebeam,flipturn,hydropump,grassknot||85,85,85,85,85,85|M|||90|,,,,,Grass]Zebstrika||LifeOrb|SapSipper|overheat,voltswitch,supercellslam,highhorsepower||85,85,85,85,85,85|F|||87|,,,,,Ground]Mamoswine||ChoiceBand|ThickFat|iceshard,earthquake,iciclecrash,knockoff||85,85,85,85,85,85|M|||81|,,,,,Ice]Phione||Leftovers|Hydration|takeheart,icebeam,scald,grassknot||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Landorus||LifeOrb|SheerForce|sludgewave,focusblast,rockslide,earthpower||85,85,85,85,85,85|M|||75|,,,,,Poison]Kyurem||LoadedDice|Pressure|terablast,dragondance,scaleshot,iciclespear||85,85,85,85,85,85|N|||77|,,,,,Ground",
+  "ai": "Greedent||SitrusBerry|CheekPouch|earthquake,bodyslam,knockoff,swordsdance||85,85,85,85,85,85|M|||86|,,,,,Ghost]Smeargle||WideLens|Technician|powertrip,shellsmash,populationbomb,spore||85,85,85,85,85,85|F|||95|,,,,,Ghost]Fezandipiti||Leftovers|ToxicChain|gunkshot,beatup,moonblast,roost||85,85,85,85,85,85|M|||82|,,,,,Dark]Slowbro||AssaultVest|Regenerator|psychicnoise,futuresight,scald,fireblast||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fairy]Okidogi||Leftovers|ToxicChain|drainpunch,bulkup,knockoff,gunkshot||85,85,85,85,85,85|M|||77|,,,,,Dark]Zamazenta||RustedShield|DauntlessShield|stoneedge,bodypress,irondefense,heavyslam||85,85,85,85,85,85|N|||68|,,,,,Ghost",
+  "curation": {
+    "battles": 100,
+    "playerWins": 57
+  }
 }

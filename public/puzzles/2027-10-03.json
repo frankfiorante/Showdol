@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,cd8bd7852fdae912ccd7bb29b9af8705f882b1d812b349a139fa925ddb31bb52",
-    "ai": "sodium,2e2d73ef5f9d917130d4d01d6314df23f894aadbc5ba6add0fc1643d65507553"
+    "player": "sodium,8d7e7065170f2ce2544190c8f0a89fa627a27803bcb18ada4e772dee75d445fb",
+    "ai": "sodium,ff4b73f37b3e6260015648866f2bb4e8498b420e1bb9e562ca58e470b9611a7e"
   },
   "playerSpecies": [
-    "Hoopa-Unbound",
-    "Espeon",
-    "Arceus-Fairy",
-    "Toxtricity",
-    "Klefki",
-    "Floatzel"
+    "Golurk",
+    "Flapple",
+    "Rotom",
+    "Meloetta",
+    "Leafeon",
+    "Qwilfish"
   ],
-  "player": "Hoopa|HoopaUnbound|ChoiceScarf|Magician|focusblast,hyperspacefury,psychic,trick||85,85,85,85,85,85|N|||80|,,,,,Fighting]Espeon||LifeOrb|MagicBounce|psychic,alluringvoice,morningsun,calmmind||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Arceus|ArceusFairy|PixiePlate|Multitype|calmmind,judgment,earthpower,recover||85,,85,85,85,85|N|,0,,,,||69|,,,,,Ground]Toxtricity||ChoiceSpecs|PunkRock|overdrive,boomburst,voltswitch,sludgewave||85,,85,85,85,85|M|,0,,,,||82|,,,,,Normal]Klefki||Leftovers|Prankster|thunderwave,magnetrise,playrough,spikes||85,85,85,85,85,85|M|||84|,,,,,Water]Floatzel||Leftovers|WaterVeil|icespinner,wavecrash,bulkup,taunt||85,85,85,85,85,85|M|||86|,,,,,Steel",
-  "ai": "Chimecho||Leftovers|Levitate|thunderwave,recover,knockoff,psychicnoise||85,85,85,85,85,85|M|||93|,,,,,Electric]Hariyama||AssaultVest|ThickFat|heavyslam,headlongrush,knockoff,closecombat||85,85,85,85,85,85|F|||87|,,,,,Steel]Hatterene||AssaultVest|MagicBounce|psychicnoise,mysticalfire,drainingkiss,nuzzle||85,85,85,85,85,85|F|||85|,,,,,Steel]Azumarill||SitrusBerry|HugePower|playrough,bellydrum,liquidation,aquajet||85,85,85,85,85,85|M|||82|,,,,,Water]Rhydon||Eviolite|LightningRod|earthquake,swordsdance,stoneedge,megahorn||85,85,85,85,85,85|F|||85|,,,,,Grass]Flapple||WideLens|Hustle|suckerpunch,gravapple,outrage,dragondance||85,85,85,85,85,85|M|||88|,,,,,Steel"
+  "player": "Golurk||ChoiceBand|NoGuard|dynamicpunch,stoneedge,poltergeist,earthquake||85,85,85,85,85,85|N|||87|,,,,,Fighting]Flapple||ChoiceBand|Hustle|suckerpunch,gravapple,uturn,outrage||85,85,85,85,85,85|M|||88|,,,,,Dragon]Rotom||LifeOrb|Levitate|shadowball,willowisp,nastyplot,thunderbolt||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Meloetta||LifeOrb|SereneGrace|relicsong,tripleaxel,closecombat,knockoff||85,85,85,85,85,85|N|||82|,,,,,Dark]Leafeon||LifeOrb|Chlorophyll|swordsdance,knockoff,doubleedge,leafblade||85,85,85,85,85,85|M|||88|,,,,,Normal]Qwilfish||HeavyDutyBoots|Intimidate|gunkshot,thunderwave,flipturn,painsplit||85,85,85,85,85,85|F|||86|,,,,,Dark",
+  "ai": "Volbeat||HeavyDutyBoots|Prankster|encore,uturn,thunderwave,roost||85,85,85,85,85,85|M|||90|,,,,,Steel]Exeggutor|ExeggutorAlola|SitrusBerry|Harvest|knockoff,dracometeor,flamethrower,woodhammer||85,85,85,85,85,85|M|||89|,,,,,Fire]Trevenant||SitrusBerry|Harvest|drainpunch,protect,poltergeist,toxic||85,85,85,85,85,85|F|||89|,,,,,Dark]Magcargo||HeavyDutyBoots|WeakArmor|earthpower,fireblast,shellsmash,powergem||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass]Delphox||HeavyDutyBoots|Blaze|grassknot,psyshock,fireblast,nastyplot||85,,85,85,85,85|F|,0,,,,||84|,,,,,Grass]Dugtrio||LifeOrb|ArenaTrap|stoneedge,earthquake,swordsdance,suckerpunch||85,85,85,85,85,85|F|||84|,,,,,Ghost",
+  "curation": {
+    "battles": 100,
+    "playerWins": 58
+  }
 }

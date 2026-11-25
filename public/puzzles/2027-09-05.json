@@ -20,5 +20,9 @@
     "Chansey"
   ],
   "player": "Morpeko||Leftovers|HungerSwitch|protect,rapidspin,knockoff,aurawheel||85,85,85,85,85,85|M|||88|,,,,,Electric]Leavanny||HeavyDutyBoots|Swarm|knockoff,lunge,stickyweb,leafblade||85,85,85,85,85,85|M|||86|,,,,,Rock]Regigigas||Leftovers|SlowStart|substitute,bodyslam,knockoff,protect||85,85,85,85,85,85|N|||84|,,,,,Poison]Mesprit||Leftovers|Levitate|stealthrock,drainpunch,psychicnoise,thunderbolt||85,85,85,85,85,85|N|||85|,,,,,Fighting]Vaporeon||Leftovers|WaterAbsorb|scald,protect,icebeam,wish||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Chansey||Eviolite|NaturalCure|seismictoss,softboiled,healbell,thunderwave||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy",
-  "ai": "Snorlax||Leftovers|ThickFat|rest,bodyslam,curse,sleeptalk||85,85,85,85,85,85|F|||82|,,,,,Poison]Bastiodon||ChestoBerry|Soundproof|foulplay,rest,irondefense,bodypress||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Zamazenta||ChestoBerry|DauntlessShield|ironhead,rest,irondefense,bodypress||85,85,85,85,85,85|N|||71|,,,,,Steel]Sudowoodo||Leftovers|RockHead|stealthrock,headsmash,woodhammer,earthquake||85,85,85,85,85,85|F|||94|,,,,,Grass]Masquerain||HeavyDutyBoots|Intimidate|hydropump,stickyweb,stunspore,hurricane||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ground]Blastoise||WhiteHerb|Torrent|hydropump,shellsmash,terablast,icebeam||85,,85,85,85,85|F|,0,,,,||80|,,,,,Grass"
+  "ai": "Snorlax||Leftovers|ThickFat|rest,bodyslam,curse,sleeptalk||85,85,85,85,85,85|F|||82|,,,,,Poison]Bastiodon||ChestoBerry|Soundproof|foulplay,rest,irondefense,bodypress||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Zamazenta||ChestoBerry|DauntlessShield|ironhead,rest,irondefense,bodypress||85,85,85,85,85,85|N|||71|,,,,,Steel]Sudowoodo||Leftovers|RockHead|stealthrock,headsmash,woodhammer,earthquake||85,85,85,85,85,85|F|||94|,,,,,Grass]Masquerain||HeavyDutyBoots|Intimidate|hydropump,stickyweb,stunspore,hurricane||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ground]Blastoise||WhiteHerb|Torrent|hydropump,shellsmash,terablast,icebeam||85,,85,85,85,85|F|,0,,,,||80|,,,,,Grass",
+  "curation": {
+    "battles": 100,
+    "playerWins": 55
+  }
 }

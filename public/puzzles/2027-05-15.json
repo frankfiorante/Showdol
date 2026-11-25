@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,6085dd116048ce4f0d400aa0ecaeb6553a519de0446e81520860e0327574f247",
-    "ai": "sodium,cced162071714afeea79b4b106731a343a12c945a565ec1e4d69d4dd29eea83a"
+    "player": "sodium,0d8fb1cd456385a6a702c0a036adc22b3da95998e369103ddaca996b0b5eed49",
+    "ai": "sodium,26e97cacbc31a01fc18feb4c70ed650b14dd4b0d939ec7cd2bff1c6fafebab2c"
   },
   "playerSpecies": [
-    "Gengar",
-    "Typhlosion-Hisui",
-    "Vespiquen",
-    "Blaziken",
-    "Avalugg",
-    "Brute Bonnet"
+    "Forretress",
+    "Sandy Shocks",
+    "Lugia",
+    "Pawmot",
+    "Decidueye",
+    "Meloetta"
   ],
-  "player": "Gengar||LifeOrb|CursedBody|sludgewave,shadowball,toxicspikes,encore||85,,85,85,85,85|F|,0,,,,||81|,,,,,Ghost]Typhlosion|TyphlosionHisui|HeavyDutyBoots|Blaze|focusblast,calmmind,fireblast,shadowball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Vespiquen||HeavyDutyBoots|Pressure|airslash,uturn,spikes,roost||85,85,85,85,85,85|F|||99|,,,,,Steel]Blaziken||LifeOrb|SpeedBoost|closecombat,knockoff,swordsdance,flareblitz||85,85,85,85,85,85|M|||76|,,,,,Dark]Avalugg||HeavyDutyBoots|Sturdy|avalanche,bodypress,rapidspin,recover||85,85,85,85,85,85|M|||88|,,,,,Fighting]Brute Bonnet||Leftovers|Protosynthesis|seedbomb,spore,crunch,suckerpunch||85,85,85,85,85,85|N|||79|,,,,,Dark",
-  "ai": "Glaceon||HeavyDutyBoots|IceBody|protect,wish,calmmind,freezedry||85,,85,85,85,85|F|,0,,,,||94|,,,,,Water]Dipplin||Eviolite|StickyHold|suckerpunch,recover,dragonpulse,gigadrain||85,85,85,85,85,85|F|||88|,,,,,Steel]Espathra||Leftovers|SpeedBoost|substitute,calmmind,dazzlinggleam,storedpower||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fairy]Piloswine||Eviolite|ThickFat|stealthrock,iceshard,iciclecrash,earthquake||85,85,85,85,85,85|F|||85|,,,,,Dragon]Klawf||LumBerry|AngerShell|knockoff,crabhammer,stoneedge,swordsdance||85,85,85,85,85,85|F|||90|,,,,,Rock]Electrode|ElectrodeHisui|LifeOrb|Soundproof|taunt,leafstorm,voltswitch,thunderbolt||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric"
+  "player": "Forretress||Leftovers|Sturdy|ironhead,bodypress,spikes,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Fighting]Sandy Shocks||HeavyDutyBoots|Protosynthesis|thunderwave,earthpower,voltswitch,thunderbolt||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass]Lugia||HeavyDutyBoots|Multiscale|earthpower,aeroblast,recover,calmmind||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Pawmot||LifeOrb|VoltAbsorb|closecombat,doubleshock,revivalblessing,knockoff||85,85,85,85,85,85|F|||80|,,,,,Electric]Decidueye||AssaultVest|Overgrow|spiritshackle,leafstorm,uturn,knockoff||85,85,85,85,85,85|F|||88|,,,,,Grass]Meloetta||LifeOrb|SereneGrace|closecombat,relicsong,tripleaxel,knockoff||85,85,85,85,85,85|N|||82|,,,,,Dark",
+  "ai": "Toxtricity||ThroatSpray|PunkRock|overdrive,shiftgear,boomburst,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Normal]Azumarill||ChoiceBand|HugePower|playrough,liquidation,aquajet,knockoff||85,85,85,85,85,85|M|||82|,,,,,Water]Donphan||AssaultVest|Sturdy|earthquake,icespinner,rapidspin,iceshard||85,85,85,85,85,85|F|||84|,,,,,Dragon]Espeon||LifeOrb|MagicBounce|alluringvoice,morningsun,psyshock,shadowball||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Mamoswine||ChoiceBand|ThickFat|earthquake,iceshard,iciclecrash,knockoff||85,85,85,85,85,85|M|||81|,,,,,Ice]Pelipper||HeavyDutyBoots|Drizzle|hurricane,uturn,roost,surf||85,85,85,85,85,85|M|||86|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 78
+  }
 }

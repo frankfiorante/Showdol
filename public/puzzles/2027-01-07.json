@@ -20,5 +20,9 @@
     "Salazzle"
   ],
   "player": "Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|swordsdance,hornleech,superpower,ivycudgel||85,85,85,85,85,85|F|||76|,,,,,Rock]Tyranitar||WeaknessPolicy|SandStream|stoneedge,dragondance,knockoff,earthquake||85,85,85,85,85,85|M|||78|,,,,,Ghost]Reshiram||HeavyDutyBoots|Turboblaze|dracometeor,blueflare,willowisp,earthpower||85,,85,85,85,85|N|,0,,,,||76|,,,,,Ground]Umbreon||Leftovers|Synchronize|protect,foulplay,toxic,wish||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Virizion||LifeOrb|Justified|closecombat,swordsdance,stoneedge,leafblade||85,85,85,85,85,85|N|||82|,,,,,Rock]Salazzle||HeavyDutyBoots|Corrosion|sludgewave,terablast,fireblast,nastyplot||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass",
-  "ai": "Dewgong||HeavyDutyBoots|ThickFat|knockoff,hydropump,encore,icebeam||85,85,85,85,85,85|M|||94|,,,,,Grass]Moltres||HeavyDutyBoots|FlameBody|fireblast,uturn,roost,bravebird||85,85,85,85,85,85|N|||81|,,,,,Steel]Klawf||LifeOrb|Regenerator|knockoff,stealthrock,stoneedge,highhorsepower||85,85,85,85,85,85|F|||90|,,,,,Ground]Bisharp||Eviolite|Defiant|suckerpunch,ironhead,throatchop,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Flying]Espeon||ChoiceSpecs|MagicBounce|shadowball,trick,psyshock,alluringvoice||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Dipplin||Eviolite|StickyHold|dragontail,recover,gigadrain,dragonpulse||85,85,85,85,85,85|F|||88|,,,,,Steel"
+  "ai": "Dewgong||HeavyDutyBoots|ThickFat|knockoff,hydropump,encore,icebeam||85,85,85,85,85,85|M|||94|,,,,,Grass]Moltres||HeavyDutyBoots|FlameBody|fireblast,uturn,roost,bravebird||85,85,85,85,85,85|N|||81|,,,,,Steel]Klawf||LifeOrb|Regenerator|knockoff,stealthrock,stoneedge,highhorsepower||85,85,85,85,85,85|F|||90|,,,,,Ground]Bisharp||Eviolite|Defiant|suckerpunch,ironhead,throatchop,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Flying]Espeon||ChoiceSpecs|MagicBounce|shadowball,trick,psyshock,alluringvoice||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Dipplin||Eviolite|StickyHold|dragontail,recover,gigadrain,dragonpulse||85,85,85,85,85,85|F|||88|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 73
+  }
 }

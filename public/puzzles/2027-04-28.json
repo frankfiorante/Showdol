@@ -20,5 +20,9 @@
     "Orthworm"
   ],
   "player": "Iron Boulder||LifeOrb|QuarkDrive|closecombat,swordsdance,mightycleave,zenheadbutt||85,85,85,85,85,85|N|||77|,,,,,Fighting]Hippowdon||RockyHelmet|SandStream|earthquake,whirlwind,stealthrock,slackoff||85,85,85,85,85,85|M|||82|,,,,,Steel]Iron Bundle||HeavyDutyBoots|QuarkDrive|icebeam,hydropump,freezedry,encore||85,,85,85,85,85|N|,0,,,,||78|,,,,,Ice]Plusle||LifeOrb|LightningRod|encore,thunderbolt,grassknot,nastyplot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Grass]Scream Tail||Leftovers|Protosynthesis|wish,thunderwave,protect,playrough||85,85,85,85,85,85|N|||84|,,,,,Poison]Orthworm||Leftovers|EarthEater|heavyslam,bodypress,shedtail,spikes||85,85,85,85,85,85|M|||88|,,,,,Electric",
-  "ai": "Tatsugiri||HeavyDutyBoots|StormDrain|nastyplot,dracometeor,rapidspin,surf||85,85,85,85,85,85|M|||87|,,,,,Water]Volcarona||HeavyDutyBoots|FlameBody|fierydance,bugbuzz,terablast,quiverdance||85,,85,85,85,85|M|,0,,,,||77|,,,,,Ground]Snorlax||ChestoBerry|ThickFat|rest,bodyslam,curse,earthquake||85,85,85,85,85,85|M|||82|,,,,,Ground]Rhydon||Eviolite|LightningRod|megahorn,stoneedge,earthquake,stealthrock||85,85,85,85,85,85|M|||85|,,,,,Dragon]Roaring Moon||ChoiceBand|Protosynthesis|outrage,ironhead,uturn,knockoff||85,85,85,85,85,85|N|||72|,,,,,Dark]Reuniclus||LifeOrb|MagicGuard|calmmind,psychic,recover,focusblast||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fighting"
+  "ai": "Tatsugiri||HeavyDutyBoots|StormDrain|nastyplot,dracometeor,rapidspin,surf||85,85,85,85,85,85|M|||87|,,,,,Water]Volcarona||HeavyDutyBoots|FlameBody|fierydance,bugbuzz,terablast,quiverdance||85,,85,85,85,85|M|,0,,,,||77|,,,,,Ground]Snorlax||ChestoBerry|ThickFat|rest,bodyslam,curse,earthquake||85,85,85,85,85,85|M|||82|,,,,,Ground]Rhydon||Eviolite|LightningRod|megahorn,stoneedge,earthquake,stealthrock||85,85,85,85,85,85|M|||85|,,,,,Dragon]Roaring Moon||ChoiceBand|Protosynthesis|outrage,ironhead,uturn,knockoff||85,85,85,85,85,85|N|||72|,,,,,Dark]Reuniclus||LifeOrb|MagicGuard|calmmind,psychic,recover,focusblast||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 43
+  }
 }

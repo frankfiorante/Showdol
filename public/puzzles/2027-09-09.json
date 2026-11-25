@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,13df05966ddadbd48cbbf12697e92a934a0ae67cf051062127b22bae15d238d8",
-    "ai": "sodium,afe6ada00abaf538cf1135e24cf1df482a1b47dbaaaba36fa2369455635ae6bb"
+    "player": "sodium,73ef271a81ce6a62a62967bdabd7c5c94b4e556d23b506486da2aec3156d436c",
+    "ai": "sodium,45e390cfc4237dfd0843151ee14bbdb41a5f7a9d404d7de2602f0df5e628a01e"
   },
   "playerSpecies": [
-    "Mamoswine",
-    "Palossand",
-    "Glaceon",
-    "Indeedee",
-    "Hypno",
-    "Inteleon"
+    "Pachirisu",
+    "Arbok",
+    "Goodra-Hisui",
+    "Oinkologne",
+    "Sunflora",
+    "Leafeon"
   ],
-  "player": "Mamoswine||LifeOrb|ThickFat|iciclecrash,earthquake,stealthrock,iceshard||85,85,85,85,85,85|F|||81|,,,,,Ground]Palossand||Leftovers|WaterCompaction|earthpower,sludgebomb,shadowball,shoreup||85,,85,85,85,85|F|,0,,,,||89|,,,,,Poison]Glaceon||HeavyDutyBoots|IceBody|mudshot,protect,wish,freezedry||85,,85,85,85,85|F|,0,,,,||94|,,,,,Ground]Indeedee||ChoiceScarf|PsychicSurge|dazzlinggleam,hypervoice,healingwish,expandingforce||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Hypno||Leftovers|Insomnia|psychicnoise,knockoff,encore,toxic||85,85,85,85,85,85|M|||95|,,,,,Steel]Inteleon||ChoiceSpecs|Torrent|uturn,scald,icebeam,hydropump||85,85,85,85,85,85|F|||81|,,,,,Water",
-  "ai": "Swanna||HeavyDutyBoots|Hydration|hydropump,defog,roost,bravebird||85,85,85,85,85,85|F|||89|,,,,,Ground]Galvantula||HeavyDutyBoots|CompoundEyes|bugbuzz,voltswitch,stickyweb,thunder||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric]Necrozma||LifeOrb|PrismArmor|swordsdance,knockoff,photongeyser,earthquake||85,85,85,85,85,85|N|||80|,,,,,Steel]Garganacl||Leftovers|PurifyingSalt|saltcure,recover,irondefense,bodypress||85,85,85,85,85,85|M|||80|,,,,,Ghost]Alcremie||Leftovers|AromaVeil|calmmind,psyshock,alluringvoice,recover||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Gogoat||Leftovers|SapSipper|milkdrink,hornleech,earthquake,bulkup||85,85,85,85,85,85|M|||88|,,,,,Ground"
+  "player": "Pachirisu||HeavyDutyBoots|VoltAbsorb|encore,uturn,superfang,discharge||85,85,85,85,85,85|F|||96|,,,,,Flying]Arbok||LifeOrb|Intimidate|suckerpunch,glare,gunkshot,knockoff||85,85,85,85,85,85|M|||87|,,,,,Dark]Goodra|GoodraHisui|AssaultVest|SapSipper|heavyslam,dracometeor,earthquake,hydropump||85,85,85,85,85,85|F|||82|,,,,,Ground]Oinkologne||Leftovers|ThickFat|curse,doubleedge,highhorsepower,lashout||85,85,85,85,85,85|M|||92|,,,,,Ground]Sunflora||ChoiceSpecs|Chlorophyll|leafstorm,sludgebomb,dazzlinggleam,earthpower||85,,85,85,85,85|M|,0,,,,|||,,,,,Grass]Leafeon||LifeOrb|Chlorophyll|swordsdance,knockoff,leafblade,synthesis||85,85,85,85,85,85|M|||88|,,,,,Dark",
+  "ai": "Drednaw||WhiteHerb|ShellArmor|earthquake,shellsmash,stoneedge,liquidation||85,85,85,85,85,85|M|||81|,,,,,Ground]Mienshao||ChoiceBand|Reckless|stoneedge,highjumpkick,uturn,knockoff||81,85,85,85,85,85|M|||83|,,,,,Fighting]Gallade||ChoiceBand|Sharpness|leafblade,sacredsword,psychocut,nightslash||85,85,85,85,85,85|M|||80|,,,,,Dark]Luvdisc||HeavyDutyBoots|SwiftSwim|substitute,endeavor,whirlpool,surf||81,,85,85,85,85|F|,0,,,,|||,,,,,Ground]Houndoom||HeavyDutyBoots|FlashFire|suckerpunch,nastyplot,fireblast,darkpulse||85,85,85,85,85,85|F|||87|,,,,,Dark]Roaring Moon||LumBerry|Protosynthesis|knockoff,outrage,dragondance,roost||85,85,85,85,85,85|N|||72|,,,,,Fairy",
+  "curation": {
+    "battles": 100,
+    "playerWins": 47
+  }
 }

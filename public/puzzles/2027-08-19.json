@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,f7d653c91e2f5669c2db2fb93e398bdf58643c8e1b9a32b3e8a9ee99a9979615",
-    "ai": "sodium,969d677f0f3d0e1180808f0adc95f5b62ced09f9b7a56d92ddb9a1c2d3415d26"
+    "player": "sodium,6652c1819e927992de7fe19355ce9258d6ac3cc6a93799c71b0cc7240d767eed",
+    "ai": "sodium,8b51bceb3827c9c1506f828d3b4b5f11ecbf65365c437da25866b033f419c324"
   },
   "playerSpecies": [
-    "Oinkologne",
-    "Dragonite",
-    "Raichu-Alola",
-    "Clodsire",
-    "Squawkabilly-White",
-    "Scovillain"
+    "Cramorant",
+    "Sceptile",
+    "Delibird",
+    "Mabosstiff",
+    "Mew",
+    "Swampert"
   ],
-  "player": "Oinkologne||Leftovers|ThickFat|curse,lashout,bodyslam,highhorsepower||85,85,85,85,85,85|M|||92|,,,,,Ground]Dragonite||HeavyDutyBoots|Multiscale|ironhead,dragondance,outrage,earthquake||85,85,85,85,85,85|M|||74|,,,,,Steel]Raichu|RaichuAlola|LifeOrb|SurgeSurfer|psyshock,nastyplot,thunderbolt,surf||85,,85,85,85,85|M|,0,,,,||87|,,,,,Water]Clodsire||Leftovers|Unaware|recover,gunkshot,curse,earthquake||85,85,85,85,85,85|M|||81|,,,,,Steel]Squawkabilly|SquawkabillyWhite|HeavyDutyBoots|Hustle|bravebird,doubleedge,quickattack,partingshot||85,85,85,85,85,85|F|||89|,,,,,Flying]Scovillain||HeavyDutyBoots|Chlorophyll|fireblast,energyball,stompingtantrum,sunnyday||85,85,85,85,85,85|M|||91|,,,,,Ground",
-  "ai": "Froslass||WideLens|CursedBody|destinybond,tripleaxel,willowisp,poltergeist||81,85,85,85,85,85|F|||87|,,,,,Ice]Leafeon||LifeOrb|Chlorophyll|synthesis,swordsdance,knockoff,leafblade||85,85,85,85,85,85|M|||88|,,,,,Dark]Beartic||HeavyDutyBoots|SwiftSwim|earthquake,closecombat,swordsdance,iciclecrash||85,85,85,85,85,85|F|||91|,,,,,Ground]Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|synthesis,superpower,ivycudgel,powerwhip||85,85,85,85,85,85|F|||76|,,,,,Rock]Hitmonlee||WhiteHerb|Unburden|closecombat,knockoff,stoneedge,swordsdance||85,85,85,85,85,85|M|||85|,,,,,Fighting]Dusknoir||ChoiceBand|Frisk|poltergeist,earthquake,leechlife,shadowsneak||85,85,85,85,85,85|M|||89|,,,,,Ground"
+  "player": "Cramorant||HeavyDutyBoots|GulpMissile|defog,bravebird,roost,surf||85,85,85,85,85,85|M|||86|,,,,,Ground]Sceptile||LifeOrb|Overgrow|rockslide,earthquake,gigadrain,shedtail||85,85,85,85,85,85|F|||87|,,,,,Ground]Delibird||HeavyDutyBoots|Hustle|drillrun,bravebird,icespinner,spikes||85,85,85,85,85,85|F||||,,,,,Ice]Mabosstiff||ChoiceBand|Stakeout|psychicfangs,crunch,playrough,wildcharge||85,85,85,85,85,85|M|||86|,,,,,Dark]Mew||Leftovers|Synchronize|uturn,encore,willowisp,psychic||85,85,85,85,85,85|N|||82|,,,,,Steel]Swampert||Leftovers|Torrent|earthquake,flipturn,knockoff,stealthrock||85,85,85,85,85,85|M|||82|,,,,,Steel",
+  "ai": "Kyurem||LoadedDice|Pressure|scaleshot,dragondance,iciclespear,terablast||85,85,85,85,85,85|N|||77|,,,,,Ground]Espathra||ChoiceSpecs|SpeedBoost|uturn,dazzlinggleam,shadowball,luminacrash||85,85,85,85,85,85|F|||80|,,,,,Fairy]Rayquaza||HeavyDutyBoots|AirLock|earthquake,outrage,dragonascent,dragondance||85,85,85,85,85,85|N|||72|,,,,,Flying]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|ironhead,swordsdance,suckerpunch,earthquake||85,85,85,85,85,85|F|||84|,,,,,Steel]Toxapex||Leftovers|Regenerator|haze,recover,toxic,liquidation||85,85,85,85,85,85|F|||82|,,,,,Fairy]Galvantula||HeavyDutyBoots|CompoundEyes|bugbuzz,voltswitch,thunder,stickyweb||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric",
+  "curation": {
+    "battles": 100,
+    "playerWins": 59
+  }
 }

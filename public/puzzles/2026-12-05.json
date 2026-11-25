@@ -20,5 +20,9 @@
     "Zapdos-Galar"
   ],
   "player": "Minun||LifeOrb|VoltAbsorb|encore,nastyplot,grassknot,thunderbolt||85,,85,85,85,85|F|,0,,,,||95|,,,,,Electric]Rotom|RotomWash|Leftovers|Levitate|hydropump,painsplit,willowisp,discharge||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Walking Wake||ChoiceSpecs|Protosynthesis|flamethrower,dracometeor,flipturn,hydropump||85,85,85,85,85,85|N|||79|,,,,,Fire]Coalossal||HeavyDutyBoots|FlameBody|willowisp,overheat,rapidspin,stoneedge||85,85,85,85,85,85|M|||89|,,,,,Grass]Jumpluff|||Infiltrator|uturn,acrobatics,sleeppowder,strengthsap||81,85,85,85,85,85|M|||87|,,,,,Steel]Zapdos|ZapdosGalar|ChoiceBand|Defiant|knockoff,closecombat,uturn,bravebird||85,85,85,85,85,85|N|||77|,,,,,Steel",
-  "ai": "Quagsire||Leftovers|Unaware|recover,toxic,earthquake,icebeam||85,85,85,85,85,85|F|||84|,,,,,Poison]Frosmoth||HeavyDutyBoots|IceScales|icebeam,hurricane,bugbuzz,quiverdance||85,,85,85,85,85|M|,0,,,,||82|,,,,,Water]Staraptor||ChoiceBand|Reckless|uturn,doubleedge,bravebird,closecombat||81,85,85,85,85,85|M|||79|,,,,,Flying]Poliwrath||AssaultVest|WaterAbsorb|circlethrow,liquidation,closecombat,knockoff||85,85,85,85,85,85|M|||88|,,,,,Dark]Sudowoodo||ChoiceBand|RockHead|woodhammer,headsmash,earthquake,suckerpunch||85,85,85,85,85,85|M|||94|,,,,,Rock]Dialga|DialgaOrigin|AdamantCrystal|Pressure|fireblast,dragontail,flashcannon,dracometeor||85,85,85,85,85,85|N|||73|,,,,,Dragon"
+  "ai": "Quagsire||Leftovers|Unaware|recover,toxic,earthquake,icebeam||85,85,85,85,85,85|F|||84|,,,,,Poison]Frosmoth||HeavyDutyBoots|IceScales|icebeam,hurricane,bugbuzz,quiverdance||85,,85,85,85,85|M|,0,,,,||82|,,,,,Water]Staraptor||ChoiceBand|Reckless|uturn,doubleedge,bravebird,closecombat||81,85,85,85,85,85|M|||79|,,,,,Flying]Poliwrath||AssaultVest|WaterAbsorb|circlethrow,liquidation,closecombat,knockoff||85,85,85,85,85,85|M|||88|,,,,,Dark]Sudowoodo||ChoiceBand|RockHead|woodhammer,headsmash,earthquake,suckerpunch||85,85,85,85,85,85|M|||94|,,,,,Rock]Dialga|DialgaOrigin|AdamantCrystal|Pressure|fireblast,dragontail,flashcannon,dracometeor||85,85,85,85,85,85|N|||73|,,,,,Dragon",
+  "curation": {
+    "battles": 100,
+    "playerWins": 64
+  }
 }

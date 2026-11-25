@@ -20,5 +20,9 @@
     "Noctowl"
   ],
   "player": "Malamar||Leftovers|Contrary|rest,sleeptalk,superpower,knockoff||85,85,85,85,85,85|M|||82|,,,,,Steel]Deoxys|DeoxysAttack|LifeOrb|Pressure|extremespeed,superpower,psychoboost,knockoff||85,85,85,85,85,85|N|||72|,,,,,Dark]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|facade,bravebird,uturn,quickattack||85,85,85,85,85,85|F|||85|,,,,,Normal]Flygon||ChoiceScarf|Levitate|outrage,stoneedge,earthquake,uturn||85,85,85,85,85,85|F|||82|,,,,,Ground]Morpeko||Leftovers|HungerSwitch|aurawheel,rapidspin,knockoff,protect||85,85,85,85,85,85|F|||88|,,,,,Electric]Noctowl||HeavyDutyBoots|TintedLens|roost,hypervoice,nastyplot,hurricane||85,,85,85,85,85|M|,0,,,,||95|,,,,,Steel",
-  "ai": "Goodra||AssaultVest|SapSipper|dracometeor,earthquake,dragontail,scald||85,85,85,85,85,85|F|||85|,,,,,Water]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,facade,bravebird,uturn||85,85,85,85,85,85|F|||85|,,,,,Normal]Groudon||Leftovers|Drought|precipiceblades,stoneedge,heatcrash,stealthrock||85,85,85,85,85,85|N|||72|,,,,,Fire]Klawf||SitrusBerry|AngerShell|stoneedge,crabhammer,highhorsepower,swordsdance||85,85,85,85,85,85|M|||90|,,,,,Ground]Blaziken||LifeOrb|SpeedBoost|knockoff,flareblitz,swordsdance,closecombat||85,85,85,85,85,85|F|||76|,,,,,Dark]Misdreavus||Eviolite|Levitate|calmmind,drainingkiss,shadowball,willowisp||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy"
+  "ai": "Goodra||AssaultVest|SapSipper|dracometeor,earthquake,dragontail,scald||85,85,85,85,85,85|F|||85|,,,,,Water]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,facade,bravebird,uturn||85,85,85,85,85,85|F|||85|,,,,,Normal]Groudon||Leftovers|Drought|precipiceblades,stoneedge,heatcrash,stealthrock||85,85,85,85,85,85|N|||72|,,,,,Fire]Klawf||SitrusBerry|AngerShell|stoneedge,crabhammer,highhorsepower,swordsdance||85,85,85,85,85,85|M|||90|,,,,,Ground]Blaziken||LifeOrb|SpeedBoost|knockoff,flareblitz,swordsdance,closecombat||85,85,85,85,85,85|F|||76|,,,,,Dark]Misdreavus||Eviolite|Levitate|calmmind,drainingkiss,shadowball,willowisp||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy",
+  "curation": {
+    "battles": 100,
+    "playerWins": 26
+  }
 }

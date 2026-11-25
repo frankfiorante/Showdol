@@ -20,5 +20,9 @@
     "Flareon"
   ],
   "player": "Zekrom||Leftovers|Teravolt|boltstrike,substitute,dragondance,outrage||85,85,85,85,85,85|N|||71|,,,,,Steel]Giratina|GiratinaOrigin|GriseousCore|Levitate|dracometeor,defog,poltergeist,dragontail||85,85,85,85,85,85|N|||72|,,,,,Steel]Raichu|RaichuAlola|LifeOrb|SurgeSurfer|thunderbolt,psyshock,focusblast,nastyplot||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Avalugg||HeavyDutyBoots|Sturdy|recover,bodypress,curse,avalanche||85,85,85,85,85,85|M|||88|,,,,,Fighting]Cryogonal||HeavyDutyBoots|Levitate|recover,freezedry,haze,flashcannon||85,,85,85,85,85|N|,0,,,,||89|,,,,,Poison]Flareon||ToxicOrb|Guts|flareblitz,willowisp,facade,trailblaze||85,85,85,85,85,85|M|||90|,,,,,Normal",
-  "ai": "Clefable||Leftovers|Unaware|moonlight,stealthrock,thunderwave,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Poison]Spiritomb||Leftovers|Infiltrator|poltergeist,painsplit,toxic,foulplay||85,85,85,85,85,85|M|||89|,,,,,Poison]Drifblim||SitrusBerry|Unburden|strengthsap,airslash,calmmind,shadowball||73,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy]Venomoth||HeavyDutyBoots|TintedLens|sludgewave,sleeppowder,quiverdance,bugbuzz||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Scovillain||ChoiceSpecs|Chlorophyll|energyball,flamethrower,overheat,leafstorm||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire]Heracross||ChoiceBand|Moxie|closecombat,megahorn,earthquake,stoneedge||85,85,85,85,85,85|F|||80|,,,,,Rock"
+  "ai": "Clefable||Leftovers|Unaware|moonlight,stealthrock,thunderwave,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Poison]Spiritomb||Leftovers|Infiltrator|poltergeist,painsplit,toxic,foulplay||85,85,85,85,85,85|M|||89|,,,,,Poison]Drifblim||SitrusBerry|Unburden|strengthsap,airslash,calmmind,shadowball||73,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy]Venomoth||HeavyDutyBoots|TintedLens|sludgewave,sleeppowder,quiverdance,bugbuzz||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Scovillain||ChoiceSpecs|Chlorophyll|energyball,flamethrower,overheat,leafstorm||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire]Heracross||ChoiceBand|Moxie|closecombat,megahorn,earthquake,stoneedge||85,85,85,85,85,85|F|||80|,,,,,Rock",
+  "curation": {
+    "battles": 100,
+    "playerWins": 69
+  }
 }

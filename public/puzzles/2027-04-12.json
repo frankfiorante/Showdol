@@ -20,5 +20,9 @@
     "Milotic"
   ],
   "player": "Krookodile||Leftovers|Intimidate|knockoff,gunkshot,bulkup,earthquake||85,85,85,85,85,85|M|||79|,,,,,Poison]Zekrom||Leftovers|Teravolt|dragondance,outrage,boltstrike,substitute||85,85,85,85,85,85|N|||71|,,,,,Steel]Zamazenta||RustedShield|DauntlessShield|heavyslam,stoneedge,bodypress,irondefense||85,85,85,85,85,85|N|||68|,,,,,Fighting]Iron Crown||ChoiceSpecs|QuarkDrive|tachyoncutter,voltswitch,focusblast,psyshock||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Kingdra||LifeOrb|SwiftSwim|wavecrash,raindance,hurricane,dracometeor||85,85,85,85,85,85|F|||84|,,,,,Water]Milotic||Leftovers|Competitive|recover,icebeam,scald,dragontail||85,85,85,85,85,85|M|||83|,,,,,Dragon",
-  "ai": "Vigoroth||Eviolite|VitalSpirit|bulkup,bodyslam,knockoff,slackoff||85,85,85,85,85,85|F|||85|,,,,,Ghost]Lucario||LifeOrb|InnerFocus|focusblast,flashcannon,nastyplot,vacuumwave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fighting]Hoopa|HoopaUnbound|AssaultVest|Magician|focusblast,gunkshot,psychic,hyperspacefury||85,85,85,85,85,85|N|||80|,,,,,Poison]Oranguru||Leftovers|InnerFocus|nastyplot,focusblast,thunderbolt,psychic||85,,85,85,85,85|M|,0,,,,||92|,,,,,Psychic]Donphan||Leftovers|Sturdy|rapidspin,earthquake,knockoff,stealthrock||85,85,85,85,85,85|M|||84|,,,,,Water]Koraidon||LoadedDice|OrichalcumPulse|collisioncourse,flareblitz,scaleshot,swordsdance||85,85,85,85,85,85|N|||64|,,,,,Fire"
+  "ai": "Vigoroth||Eviolite|VitalSpirit|bulkup,bodyslam,knockoff,slackoff||85,85,85,85,85,85|F|||85|,,,,,Ghost]Lucario||LifeOrb|InnerFocus|focusblast,flashcannon,nastyplot,vacuumwave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fighting]Hoopa|HoopaUnbound|AssaultVest|Magician|focusblast,gunkshot,psychic,hyperspacefury||85,85,85,85,85,85|N|||80|,,,,,Poison]Oranguru||Leftovers|InnerFocus|nastyplot,focusblast,thunderbolt,psychic||85,,85,85,85,85|M|,0,,,,||92|,,,,,Psychic]Donphan||Leftovers|Sturdy|rapidspin,earthquake,knockoff,stealthrock||85,85,85,85,85,85|M|||84|,,,,,Water]Koraidon||LoadedDice|OrichalcumPulse|collisioncourse,flareblitz,scaleshot,swordsdance||85,85,85,85,85,85|N|||64|,,,,,Fire",
+  "curation": {
+    "battles": 100,
+    "playerWins": 30
+  }
 }

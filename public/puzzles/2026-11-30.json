@@ -20,5 +20,9 @@
     "Roaring Moon"
   ],
   "player": "Duraludon||Eviolite|LightMetal|dracometeor,bodypress,thunderwave,flashcannon||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fighting]Slither Wing||HeavyDutyBoots|Protosynthesis|morningsun,closecombat,uturn,willowisp||85,85,85,85,85,85|N|||81|,,,,,Fire]Lugia||HeavyDutyBoots|Multiscale|recover,aeroblast,earthpower,calmmind||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Glalie||HeavyDutyBoots|InnerFocus|taunt,freezedry,spikes,earthquake||85,85,85,85,85,85|M|||96|,,,,,Ground]Jolteon||Leftovers|VoltAbsorb|substitute,terablast,thunderbolt,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice]Roaring Moon||LumBerry|Protosynthesis|dragondance,knockoff,earthquake,outrage||85,85,85,85,85,85|N|||72|,,,,,Ground",
-  "ai": "Armarouge||ChoiceSpecs|WeakArmor|armorcannon,psyshock,energyball,aurasphere||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fighting]Zangoose||ToxicOrb|ToxicBoost|quickattack,facade,knockoff,closecombat||85,85,85,85,85,85|M|||85|,,,,,Normal]Weavile||HeavyDutyBoots|Pickpocket|lowkick,knockoff,swordsdance,tripleaxel||85,85,85,85,85,85|M|||79|,,,,,Fighting]Hatterene||Leftovers|MagicBounce|drainingkiss,psychic,calmmind,mysticalfire||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Dedenne||SitrusBerry|CheekPouch|uturn,superfang,thunderbolt,dazzlinggleam||85,85,85,85,85,85|M|||88|,,,,,Flying]Revavroom||LifeOrb|Filter|gunkshot,highhorsepower,shiftgear,ironhead||85,85,85,85,85,85|M|||79|,,,,,Ground"
+  "ai": "Armarouge||ChoiceSpecs|WeakArmor|armorcannon,psyshock,energyball,aurasphere||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fighting]Zangoose||ToxicOrb|ToxicBoost|quickattack,facade,knockoff,closecombat||85,85,85,85,85,85|M|||85|,,,,,Normal]Weavile||HeavyDutyBoots|Pickpocket|lowkick,knockoff,swordsdance,tripleaxel||85,85,85,85,85,85|M|||79|,,,,,Fighting]Hatterene||Leftovers|MagicBounce|drainingkiss,psychic,calmmind,mysticalfire||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Dedenne||SitrusBerry|CheekPouch|uturn,superfang,thunderbolt,dazzlinggleam||85,85,85,85,85,85|M|||88|,,,,,Flying]Revavroom||LifeOrb|Filter|gunkshot,highhorsepower,shiftgear,ironhead||85,85,85,85,85,85|M|||79|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 34
+  }
 }

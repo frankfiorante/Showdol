@@ -20,5 +20,9 @@
     "Manaphy"
   ],
   "player": "Klefki||Leftovers|Prankster|thunderwave,magnetrise,playrough,spikes||85,85,85,85,85,85|M|||84|,,,,,Water]Donphan||AssaultVest|Sturdy|knockoff,rapidspin,earthquake,icespinner||85,85,85,85,85,85|M|||84|,,,,,Steel]Delphox||HeavyDutyBoots|Blaze|nastyplot,grassknot,fireblast,psyshock||85,,85,85,85,85|M|,0,,,,||84|,,,,,Grass]Skeledirge||HeavyDutyBoots|Unaware|flamecharge,shadowball,slackoff,torchsong||85,85,85,85,85,85|F|||79|,,,,,Water]Scyther||HeavyDutyBoots|Technician|closecombat,defog,uturn,dualwingbeat||85,85,85,85,85,85|F|||82|,,,,,Fighting]Manaphy||Leftovers|Hydration|hydropump,energyball,icebeam,tailglow||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water",
-  "ai": "Lumineon||HeavyDutyBoots|StormDrain|hydropump,icebeam,uturn,encore||85,85,85,85,85,85|F|||93|,,,,,Dragon]Crawdaunt||ChoiceBand|Adaptability|knockoff,closecombat,crabhammer,aquajet||85,85,85,85,85,85|M|||84|,,,,,Fighting]Archaludon||AssaultVest|Stamina|flashcannon,bodypress,thunderbolt,dracometeor||85,,85,85,85,85|M|,0,,,,||77|,,,,,Fighting]Honchkrow||HeavyDutyBoots|Moxie|bravebird,suckerpunch,uturn,heatwave||85,85,85,85,85,85|M|||86|,,,,,Dark]Torkoal||HeavyDutyBoots|Drought|solarbeam,rapidspin,stealthrock,lavaplume||85,85,85,85,85,85|F|||88|,,,,,Grass]Glimmora||AirBalloon|ToxicDebris|spikes,powergem,earthpower,sludgewave||85,,85,85,85,85|F|,0,,,,||75|,,,,,Ground"
+  "ai": "Lumineon||HeavyDutyBoots|StormDrain|hydropump,icebeam,uturn,encore||85,85,85,85,85,85|F|||93|,,,,,Dragon]Crawdaunt||ChoiceBand|Adaptability|knockoff,closecombat,crabhammer,aquajet||85,85,85,85,85,85|M|||84|,,,,,Fighting]Archaludon||AssaultVest|Stamina|flashcannon,bodypress,thunderbolt,dracometeor||85,,85,85,85,85|M|,0,,,,||77|,,,,,Fighting]Honchkrow||HeavyDutyBoots|Moxie|bravebird,suckerpunch,uturn,heatwave||85,85,85,85,85,85|M|||86|,,,,,Dark]Torkoal||HeavyDutyBoots|Drought|solarbeam,rapidspin,stealthrock,lavaplume||85,85,85,85,85,85|F|||88|,,,,,Grass]Glimmora||AirBalloon|ToxicDebris|spikes,powergem,earthpower,sludgewave||85,,85,85,85,85|F|,0,,,,||75|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 78
+  }
 }

@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,399e73ca4895ab029705a2f72d801172515a07ac45ff84ac21e0a4564f4f0a06",
-    "ai": "sodium,be224c3f835413d432bd7a1e2e57c7b87aaac4aae99ab50792bb7bc7327b5e50"
+    "player": "sodium,78838c26d160ea0fdf18c5d4d506bceccf5b804b8a07aaa5a8ab343c7fc7140a",
+    "ai": "sodium,b5116c9a132ae670c4f61c2d9e3701d196fff39c6bfd80abb183200e31ae1058"
   },
   "playerSpecies": [
-    "Sneasler",
-    "Honchkrow",
-    "Reshiram",
-    "Ursaring",
-    "Quaquaval",
-    "Drifblim"
+    "Dunsparce",
+    "Iron Jugulis",
+    "Porygon2",
+    "Glimmora",
+    "Ampharos",
+    "Meowscarada"
   ],
-  "player": "Sneasler||ChoiceBand|PoisonTouch|direclaw,uturn,throatchop,closecombat||85,85,85,85,85,85|M|||74|,,,,,Fighting]Honchkrow||HeavyDutyBoots|Moxie|bravebird,suckerpunch,uturn,heatwave||85,85,85,85,85,85|F|||86|,,,,,Dark]Reshiram||HeavyDutyBoots|Turboblaze|willowisp,dragontail,blueflare,dracometeor||85,85,85,85,85,85|N|||76|,,,,,Fire]Ursaring||Eviolite|Guts|bodyslam,rest,sleeptalk,earthquake||85,85,85,85,85,85|M|||84|,,,,,Ground]Quaquaval||LifeOrb|Moxie|encore,closecombat,swordsdance,aquastep||85,85,85,85,85,85|M|||79|,,,,,Water]Drifblim||HeavyDutyBoots|Aftermath|strengthsap,defog,shadowball,airslash||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy",
-  "ai": "Empoleon||Leftovers|Competitive|roost,surf,icebeam,knockoff||85,85,85,85,85,85|M|||84|,,,,,Flying]Iron Jugulis||PowerHerb|QuarkDrive|darkpulse,hurricane,earthpower,meteorbeam||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Goodra||AssaultVest|SapSipper|dracometeor,knockoff,fireblast,scald||85,85,85,85,85,85|M|||85|,,,,,Water]Crawdaunt||LifeOrb|Adaptability|crabhammer,knockoff,dragondance,closecombat||85,85,85,85,85,85|M|||84|,,,,,Fighting]Ursaring||ToxicOrb|QuickFeet|closecombat,swordsdance,facade,throatchop||85,85,85,85,85,85|M|||84|,,,,,Normal]Scream Tail||Leftovers|Protosynthesis|wish,playrough,protect,thunderwave||85,85,85,85,85,85|N|||84|,,,,,Poison"
+  "player": "Dunsparce||Eviolite|SereneGrace|roost,earthquake,coil,bodyslam||85,85,85,85,85,85|M|||86|,,,,,Ghost]Iron Jugulis||PowerHerb|QuarkDrive|darkpulse,earthpower,meteorbeam,hurricane||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Porygon2||Eviolite|Download|icebeam,recover,triattack,discharge||85,,85,85,85,85|N|,0,,,,||81|,,,,,Electric]Glimmora||PowerHerb|ToxicDebris|meteorbeam,energyball,earthpower,sludgewave||85,,85,85,85,85|M|,0,,,,||75|,,,,,Grass]Ampharos||LifeOrb|Static|thunderbolt,focusblast,dazzlinggleam,agility||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fairy]Meowscarada||ChoiceBand|Protean|knockoff,flowertrick,tripleaxel,uturn||85,85,85,85,85,85|M|||78|,,,,,Dark",
+  "ai": "Magearna||WeaknessPolicy|SoulHeart|shiftgear,terablast,fleurcannon,ironhead||85,85,85,85,85,85|N|||77|,,,,,Ground]Arceus|ArceusGhost|SpookyPlate|Multitype|focusblast,recover,willowisp,judgment||85,,85,85,85,85|N|,0,,,,||69|,,,,,Fighting]Kleavor||HeavyDutyBoots|Sharpness|xscissor,defog,stoneaxe,closecombat||85,85,85,85,85,85|F|||78|,,,,,Fighting]Farigiraf||Leftovers|SapSipper|protect,bodyslam,psychicnoise,wish||85,85,85,85,85,85|M|||89|,,,,,Ground]Great Tusk||ChoiceBand|Protosynthesis|stoneedge,closecombat,knockoff,headlongrush||85,85,85,85,85,85|N|||77|,,,,,Ground]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,knockoff,hydropump||85,85,85,85,85,85|M|||89|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 51
+  }
 }

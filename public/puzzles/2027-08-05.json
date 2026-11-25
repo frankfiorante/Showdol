@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,4c4ff19654d9a0b7c19a8992d7e847a901ad928866acb933a4d7deb73aca8663",
-    "ai": "sodium,5c34dfa4e5afd15566b23be55d9db1b918da86fdbe786dc23025ce5df0684ed2"
+    "player": "sodium,a09e1c0be83dec603c25e90e20026fdc571c658a06f316be679149409755c28f",
+    "ai": "sodium,8ff3356294e0cb70f416725bd11da6989f08cff647a119835e137fe125f1354d"
   },
   "playerSpecies": [
-    "Iron Hands",
-    "Ampharos",
-    "Slaking",
-    "Mismagius",
-    "Rhyperior",
-    "Honchkrow"
+    "Dachsbun",
+    "Hydreigon",
+    "Milotic",
+    "Minun",
+    "Tropius",
+    "Bisharp"
   ],
-  "player": "Iron Hands||AssaultVest|QuarkDrive|wildcharge,fakeout,voltswitch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Electric]Ampharos||AssaultVest|Static|voltswitch,dazzlinggleam,dragontail,discharge||85,85,85,85,85,85|M|||88|,,,,,Fairy]Slaking||ChoiceBand|Truant|knockoff,earthquake,gigaimpact,doubleedge||85,85,85,85,85,85|M|||84|,,,,,Ground]Mismagius||ChoiceSpecs|Levitate|dazzlinggleam,shadowball,mysticalfire,thunderbolt||85,,85,85,85,85|F|,0,,,,||86|,,,,,Electric]Rhyperior||WeaknessPolicy|SolidRock|stoneedge,megahorn,earthquake,rockpolish||85,85,85,85,85,85|M|||82|,,,,,Bug]Honchkrow||HeavyDutyBoots|Moxie|suckerpunch,heatwave,uturn,bravebird||85,85,85,85,85,85|F|||86|,,,,,Dark",
-  "ai": "Vivillon|VivillonJungle|HeavyDutyBoots|CompoundEyes|sleeppowder,hurricane,quiverdance,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Wugtrio||ChoiceBand|Gooey|aquajet,stompingtantrum,liquidation,throatchop||85,85,85,85,85,85|F|||91|,,,,,Water]Sunflora||LifeOrb|Chlorophyll|weatherball,sunnyday,solarbeam,earthpower||85,,85,85,85,85|M|,0,,,,|||,,,,,Fire]Lapras||ChoiceSpecs|WaterAbsorb|freezedry,hydropump,icebeam,sparklingaria||81,,85,85,85,85|F|,0,,,,||87|,,,,,Ice]Granbull||Leftovers|Intimidate|thunderwave,playrough,earthquake,roar||85,85,85,85,85,85|F|||88|,,,,,Ground]Regieleki||Magnet|Transistor|rapidspin,thunderbolt,voltswitch,explosion||85,85,85,85,85,85|N|||79|,,,,,Electric"
+  "player": "Dachsbun||Leftovers|WellBakedBody|protect,wish,playrough,yawn||85,85,85,85,85,85|M|||92|,,,,,Steel]Hydreigon||ChoiceSpecs|Levitate|flashcannon,uturn,darkpulse,dracometeor||85,85,85,85,85,85|M|||79|,,,,,Steel]Milotic||Leftovers|Competitive|recover,dragontail,scald,icebeam||85,85,85,85,85,85|F|||83|,,,,,Dragon]Minun||LifeOrb|VoltAbsorb|encore,thunderbolt,nastyplot,alluringvoice||85,,85,85,85,85|M|,0,,,,||95|,,,,,Electric]Tropius||SitrusBerry|Harvest|synthesis,earthquake,dragondance,dualwingbeat||85,85,85,85,85,85|F|||91|,,,,,Ground]Bisharp||Eviolite|Defiant|stealthrock,ironhead,throatchop,suckerpunch||85,85,85,85,85,85|M|||79|,,,,,Flying",
+  "ai": "Piloswine||Eviolite|ThickFat|iciclecrash,stealthrock,earthquake,iceshard||85,85,85,85,85,85|M|||85|,,,,,Poison]Ariados||HeavyDutyBoots|Swarm|megahorn,toxicspikes,poisonjab,stickyweb||85,85,85,85,85,85|M|||95|,,,,,Ghost]Hydreigon||LifeOrb|Levitate|flashcannon,darkpulse,dracometeor,nastyplot||85,,85,85,85,85|M|,0,,,,||79|,,,,,Steel]Drifblim||SitrusBerry|Unburden|calmmind,airslash,shadowball,strengthsap||73,,85,85,85,85|F|,0,,,,||86|,,,,,Dark]Misdreavus||Eviolite|Levitate|willowisp,drainingkiss,shadowball,calmmind||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Beartic||HeavyDutyBoots|SlushRush|closecombat,earthquake,swordsdance,iciclecrash||85,85,85,85,85,85|M|||91|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 64
+  }
 }

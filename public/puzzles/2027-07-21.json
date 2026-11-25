@@ -20,5 +20,9 @@
     "Grafaiai"
   ],
   "player": "Zekrom||Leftovers|Teravolt|substitute,dragondance,outrage,boltstrike||85,85,85,85,85,85|N|||71|,,,,,Steel]Mewtwo||LifeOrb|Pressure|psystrike,fireblast,nastyplot,darkpulse||85,,85,85,85,85|N|,0,,,,||72|,,,,,Dark]Tatsugiri||HeavyDutyBoots|StormDrain|nastyplot,dracometeor,rapidspin,surf||85,85,85,85,85,85|M|||87|,,,,,Water]Froslass||WideLens|CursedBody|poltergeist,destinybond,tripleaxel,spikes||81,85,85,85,85,85|F|||87|,,,,,Ghost]Ceruledge||HeavyDutyBoots|WeakArmor|poltergeist,closecombat,swordsdance,bitterblade||85,85,85,85,85,85|M|||78|,,,,,Ghost]Grafaiai||AssaultVest|PoisonTouch|knockoff,gunkshot,superfang,uturn||85,85,85,85,85,85|F|||86|,,,,,Dark",
-  "ai": "Froslass||WideLens|CursedBody|taunt,tripleaxel,poltergeist,willowisp||81,85,85,85,85,85|F|||87|,,,,,Ghost]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost]Weavile||HeavyDutyBoots|Pickpocket|lowkick,knockoff,tripleaxel,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Fighting]Pelipper||ChoiceSpecs|Drizzle|weatherball,hydropump,hurricane,uturn||85,85,85,85,85,85|F|||86|,,,,,Water]Basculin||ChoiceBand|Adaptability|doubleedge,aquajet,wavecrash,flipturn||85,85,85,85,85,85|F|||86|,,,,,Water]Skarmory||Leftovers|Sturdy|irondefense,roost,bravebird,bodypress||85,85,85,85,85,85|M|||80|,,,,,Fighting"
+  "ai": "Froslass||WideLens|CursedBody|taunt,tripleaxel,poltergeist,willowisp||81,85,85,85,85,85|F|||87|,,,,,Ghost]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost]Weavile||HeavyDutyBoots|Pickpocket|lowkick,knockoff,tripleaxel,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Fighting]Pelipper||ChoiceSpecs|Drizzle|weatherball,hydropump,hurricane,uturn||85,85,85,85,85,85|F|||86|,,,,,Water]Basculin||ChoiceBand|Adaptability|doubleedge,aquajet,wavecrash,flipturn||85,85,85,85,85,85|F|||86|,,,,,Water]Skarmory||Leftovers|Sturdy|irondefense,roost,bravebird,bodypress||85,85,85,85,85,85|M|||80|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 62
+  }
 }

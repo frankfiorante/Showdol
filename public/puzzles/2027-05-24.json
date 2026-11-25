@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,c240bef92f9061bc3e4172206459b38f0009b1865df0b547a6366aac7c2fefcf",
-    "ai": "sodium,128885a087855c96c9dadf9e06944261fbcf5dea0a99f648609134908af75a92"
+    "player": "sodium,3698c820fb175671e9ccb1b300ca5e2c9435d0f7616bb203a1b800e95d50b5d6",
+    "ai": "sodium,0544a05d693e3ff46a7e04a0b18dd06e18ece4b77be048d04cf5eac5626ce3a0"
   },
   "playerSpecies": [
-    "Rhydon",
-    "Krookodile",
-    "Tauros-Paldea-Combat",
-    "Poliwrath",
-    "Gumshoos",
-    "Florges"
+    "Articuno",
+    "Galvantula",
+    "Heatran",
+    "Ambipom",
+    "Crabominable",
+    "Meloetta"
   ],
-  "player": "Rhydon||Eviolite|LightningRod|swordsdance,earthquake,megahorn,stoneedge||85,85,85,85,85,85|M|||85|,,,,,Dragon]Krookodile||ChoiceScarf|Intimidate|knockoff,gunkshot,earthquake,stoneedge||85,85,85,85,85,85|M|||79|,,,,,Poison]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|closecombat,throatchop,stoneedge,ironhead||85,85,85,85,85,85|M|||82|,,,,,Dark]Poliwrath||AssaultVest|WaterAbsorb|circlethrow,liquidation,knockoff,closecombat||85,85,85,85,85,85|M|||88|,,,,,Steel]Gumshoos||ChoiceBand|Stakeout|knockoff,doubleedge,uturn,earthquake||85,85,85,85,85,85|F|||95|,,,,,Normal]Florges||Leftovers|FlowerVeil|terablast,synthesis,moonblast,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground",
-  "ai": "Infernape||LifeOrb|Blaze|overheat,machpunch,closecombat,grassknot||85,85,85,85,85,85|F|||82|,,,,,Fire]Porygon2||Eviolite|Download|recover,discharge,triattack,icebeam||85,,85,85,85,85|N|,0,,,,||81|,,,,,Poison]Reshiram||HeavyDutyBoots|Turboblaze|dragontail,dracometeor,willowisp,blueflare||85,85,85,85,85,85|N|||76|,,,,,Fire]Volbeat||HeavyDutyBoots|Prankster|uturn,thunderwave,encore,roost||85,85,85,85,85,85|M|||90|,,,,,Steel]Pikachu|PikachuSinnoh|LightBall|LightningRod|volttackle,surf,fakeout,voltswitch||85,85,85,85,85,85|M|||93|,,,,,Water]Toucannon||HeavyDutyBoots|KeenEye|roost,knockoff,beakblast,boomburst||85,85,85,85,85,85|F|||88|,,,,,Steel"
+  "player": "Articuno||HeavyDutyBoots|Pressure|roost,freezedry,bravebird,uturn||85,85,85,85,85,85|N|||86|,,,,,Steel]Galvantula||HeavyDutyBoots|CompoundEyes|energyball,stickyweb,thunder,bugbuzz||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric]Heatran||AirBalloon|FlashFire|magmastorm,heavyslam,stealthrock,earthpower||85,85,85,85,85,85|F|||79|,,,,,Grass]Ambipom||SilkScarf|Technician|doubleedge,lowkick,knockoff,fakeout||85,85,85,85,85,85|F|||84|,,,,,Normal]Crabominable||ChoiceBand|IronFist|gunkshot,icehammer,closecombat,earthquake||85,85,85,85,85,85|M|||90|,,,,,Fighting]Meloetta||LifeOrb|SereneGrace|closecombat,knockoff,relicsong,tripleaxel||85,85,85,85,85,85|N|||82|,,,,,Fighting",
+  "ai": "Iron Treads||Leftovers|QuarkDrive|stealthrock,rapidspin,ironhead,earthquake||85,85,85,85,85,85|N|||77|,,,,,Water]Avalugg||HeavyDutyBoots|Sturdy|curse,avalanche,recover,bodypress||85,85,85,85,85,85|M|||88|,,,,,Fighting]Bellossom||Leftovers|Chlorophyll|gigadrain,strengthsap,terablast,quiverdance||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Ampharos||AssaultVest|Static|thunderbolt,voltswitch,dazzlinggleam,dragontail||85,85,85,85,85,85|M|||88|,,,,,Fairy]Chi-Yu||ChoiceScarf|BeadsofRuin|psychic,flamethrower,overheat,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Gallade||ChoiceScarf|Sharpness|nightslash,leafblade,sacredsword,psychocut||85,85,85,85,85,85|M|||80|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 36
+  }
 }

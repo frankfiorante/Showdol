@@ -20,5 +20,9 @@
     "Floatzel"
   ],
   "player": "Miraidon||LifeOrb|HadronEngine|electrodrift,dracometeor,calmmind,dragonpulse||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Mew||LifeOrb|Synchronize|psychic,nastyplot,hydropump,aurasphere||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water]Morpeko||HeavyDutyBoots|HungerSwitch|protect,partingshot,aurawheel,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Electric]Hoopa|HoopaUnbound|ChoiceScarf|Magician|psychic,focusblast,trick,hyperspacefury||85,85,85,85,85,85|N|||80|,,,,,Fighting]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|earthquake,stealthrock,ironhead,suckerpunch||85,85,85,85,85,85|M|||84|,,,,,Steel]Floatzel||Leftovers|WaterVeil|taunt,bulkup,icespinner,wavecrash||85,85,85,85,85,85|M|||86|,,,,,Water",
-  "ai": "Iron Valiant||LifeOrb|QuarkDrive|knockoff,spiritbreak,swordsdance,closecombat||85,85,85,85,85,85|N|||78|,,,,,Fighting]Drifblim||HeavyDutyBoots|Aftermath|airslash,defog,strengthsap,shadowball||85,,85,85,85,85|F|,0,,,,||86|,,,,,Dark]Zebstrika||LifeOrb|SapSipper|voltswitch,overheat,supercellslam,highhorsepower||85,85,85,85,85,85|F|||87|,,,,,Ground]Iron Bundle||HeavyDutyBoots|QuarkDrive|hydropump,icebeam,freezedry,encore||85,,85,85,85,85|N|,0,,,,||78|,,,,,Ice]Furret||ChoiceBand|Frisk|uturn,trick,knockoff,doubleedge||85,85,85,85,85,85|F|||94|,,,,,Ghost]Slowking|SlowkingGalar|Leftovers|Regenerator|fireblast,psychicnoise,slackoff,sludgebomb||85,,85,85,85,85|M|,0,,,,||85|,,,,,Dark"
+  "ai": "Iron Valiant||LifeOrb|QuarkDrive|knockoff,spiritbreak,swordsdance,closecombat||85,85,85,85,85,85|N|||78|,,,,,Fighting]Drifblim||HeavyDutyBoots|Aftermath|airslash,defog,strengthsap,shadowball||85,,85,85,85,85|F|,0,,,,||86|,,,,,Dark]Zebstrika||LifeOrb|SapSipper|voltswitch,overheat,supercellslam,highhorsepower||85,85,85,85,85,85|F|||87|,,,,,Ground]Iron Bundle||HeavyDutyBoots|QuarkDrive|hydropump,icebeam,freezedry,encore||85,,85,85,85,85|N|,0,,,,||78|,,,,,Ice]Furret||ChoiceBand|Frisk|uturn,trick,knockoff,doubleedge||85,85,85,85,85,85|F|||94|,,,,,Ghost]Slowking|SlowkingGalar|Leftovers|Regenerator|fireblast,psychicnoise,slackoff,sludgebomb||85,,85,85,85,85|M|,0,,,,||85|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 76
+  }
 }

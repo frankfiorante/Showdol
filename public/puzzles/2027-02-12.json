@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,8d0c1317b6b9b528c8540afc3a05840af1a49078047ed3eb6c23b8a4d31f0f42",
-    "ai": "sodium,d1042917341d0cd34e70db51d3fc6a5b71d82e1523f2ce88e7fbabe3400ae2c0"
+    "player": "sodium,8809b0946820b05680eba5b380e71b9c3d63762893fb6ffaa9e37a2d6555fa48",
+    "ai": "sodium,3858db8fed1d99645baeb9da1a8c31b503fd81b1e72d444e2c2db3cd63666ec6"
   },
   "playerSpecies": [
-    "Gholdengo",
-    "Leavanny",
-    "Dragapult",
-    "Carbink",
-    "Passimian",
-    "Crabominable"
+    "Magmortar",
+    "Regieleki",
+    "Arceus-Grass",
+    "Charizard",
+    "Mimikyu",
+    "Arboliva"
   ],
-  "player": "Gholdengo||Leftovers|GoodasGold|shadowball,focusblast,makeitrain,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fighting]Leavanny||HeavyDutyBoots|Swarm|knockoff,stickyweb,lunge,leafblade||85,85,85,85,85,85|F|||86|,,,,,Rock]Dragapult||LifeOrb|ClearBody|fireblast,dragondance,dragondarts,terablast||85,85,85,85,85,85|M|||77|,,,,,Ghost]Carbink||ChestoBerry|Sturdy|irondefense,bodypress,moonblast,rest||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Passimian||ChoiceScarf|Defiant|closecombat,earthquake,uturn,knockoff||85,85,85,85,85,85|M|||83|,,,,,Fighting]Crabominable||ChoiceBand|IronFist|knockoff,closecombat,icehammer,earthquake||85,85,85,85,85,85|M|||90|,,,,,Ground",
-  "ai": "Frosmoth||HeavyDutyBoots|IceScales|quiverdance,icebeam,gigadrain,terablast||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Reuniclus||LifeOrb|MagicGuard|calmmind,recover,psyshock,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Iron Hands||AssaultVest|QuarkDrive|icepunch,voltswitch,closecombat,thunderpunch||85,85,85,85,85,85|N|||79|,,,,,Electric]Poliwrath||Leftovers|WaterAbsorb|liquidation,drainpunch,bulkup,poisonjab||85,85,85,85,85,85|F|||88|,,,,,Fighting]Revavroom||LifeOrb|Filter|ironhead,highhorsepower,shiftgear,gunkshot||85,85,85,85,85,85|M|||79|,,,,,Ground]Ampharos||LifeOrb|Static|focusblast,dazzlinggleam,agility,thunderbolt||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fairy"
+  "player": "Magmortar||HeavyDutyBoots|FlameBody|willowisp,thunderbolt,fireblast,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Electric]Regieleki||Magnet|Transistor|thunderbolt,rapidspin,terablast,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Ice]Arceus|ArceusGrass|MeadowPlate|Multitype|calmmind,judgment,recover,fireblast||85,,85,85,85,85|N|,0,,,,||73|,,,,,Fire]Charizard||HeavyDutyBoots|Blaze|swordsdance,flareblitz,earthquake,outrage||85,85,85,85,85,85|F|||85|,,,,,Dragon]Mimikyu||LifeOrb|Disguise|playrough,swordsdance,shadowclaw,shadowsneak||85,85,85,85,85,85|M|||79|,,,,,Ghost]Arboliva||SitrusBerry|Harvest|leechseed,substitute,protect,hypervoice||77,,85,85,85,85|M|,0,,,,||91|,,,,,Water",
+  "ai": "Electivire||LifeOrb|MotorDrive|icepunch,bulkup,earthquake,supercellslam||85,85,85,85,85,85|M|||84|,,,,,Flying]Dunsparce||Eviolite|SereneGrace|roost,coil,bodyslam,earthquake||85,85,85,85,85,85|F|||86|,,,,,Ghost]Grumpig||Leftovers|ThickFat|earthpower,psyshock,nastyplot,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||92|,,,,,Ground]Toxapex||Leftovers|Regenerator|liquidation,toxic,haze,recover||85,85,85,85,85,85|M|||82|,,,,,Grass]Blastoise||WhiteHerb|Torrent|shellsmash,icebeam,hydropump,terablast||85,,85,85,85,85|F|,0,,,,||80|,,,,,Grass]Talonflame||HeavyDutyBoots|FlameBody|taunt,roost,overheat,bravebird||85,85,85,85,85,85|F|||83|,,,,,Dragon",
+  "curation": {
+    "battles": 100,
+    "playerWins": 44
+  }
 }

@@ -20,5 +20,9 @@
     "Swampert"
   ],
   "player": "Reshiram||HeavyDutyBoots|Turboblaze|outrage,dragondance,flareblitz,stoneedge||85,85,85,85,85,85|N|||76|,,,,,Fire]Oricorio|OricorioPau|HeavyDutyBoots|Dancer|hurricane,revelationdance,roost,quiverdance||85,,85,85,85,85|F|,0,,,,||87|,,,,,Ground]Bronzong||Leftovers|Levitate|psychic,ironhead,stealthrock,hypnosis||85,85,85,85,85,85|N|||88|,,,,,Water]Lokix||SilverPowder|TintedLens|firstimpression,suckerpunch,uturn,knockoff||85,85,85,85,85,85|M|||82|,,,,,Bug]Heracross||FlameOrb|Guts|closecombat,trailblaze,knockoff,facade||85,85,85,85,85,85|M|||80|,,,,,Normal]Swampert||Leftovers|Torrent|roar,flipturn,knockoff,earthquake||85,85,85,85,85,85|M|||82|,,,,,Steel",
-  "ai": "Oricorio|OricorioPau|HeavyDutyBoots|Dancer|hurricane,roost,quiverdance,revelationdance||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ground]Toxtricity||ThroatSpray|PunkRock|shiftgear,boomburst,gunkshot,overdrive||85,85,85,85,85,85|F|||82|,,,,,Normal]Hydrapple||ChoiceSpecs|Regenerator|leafstorm,earthpower,dracometeor,ficklebeam||85,,85,85,85,85|F|,0,,,,||83|,,,,,Dragon]Jirachi||Leftovers|SereneGrace|bodyslam,protect,wish,ironhead||85,85,85,85,85,85|N|||80|,,,,,Water]Mismagius||Leftovers|Levitate|thunderbolt,shadowball,nastyplot,substitute||85,,85,85,85,85|M|,0,,,,||86|,,,,,Electric]Garganacl||Leftovers|PurifyingSalt|bodypress,recover,saltcure,irondefense||85,85,85,85,85,85|M|||80|,,,,,Dragon"
+  "ai": "Oricorio|OricorioPau|HeavyDutyBoots|Dancer|hurricane,roost,quiverdance,revelationdance||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ground]Toxtricity||ThroatSpray|PunkRock|shiftgear,boomburst,gunkshot,overdrive||85,85,85,85,85,85|F|||82|,,,,,Normal]Hydrapple||ChoiceSpecs|Regenerator|leafstorm,earthpower,dracometeor,ficklebeam||85,,85,85,85,85|F|,0,,,,||83|,,,,,Dragon]Jirachi||Leftovers|SereneGrace|bodyslam,protect,wish,ironhead||85,85,85,85,85,85|N|||80|,,,,,Water]Mismagius||Leftovers|Levitate|thunderbolt,shadowball,nastyplot,substitute||85,,85,85,85,85|M|,0,,,,||86|,,,,,Electric]Garganacl||Leftovers|PurifyingSalt|bodypress,recover,saltcure,irondefense||85,85,85,85,85,85|M|||80|,,,,,Dragon",
+  "curation": {
+    "battles": 100,
+    "playerWins": 55
+  }
 }

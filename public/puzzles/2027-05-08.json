@@ -20,5 +20,9 @@
     "Regirock"
   ],
   "player": "Cryogonal||HeavyDutyBoots|Levitate|terablast,icebeam,rapidspin,recover||85,85,85,85,85,85|N|||89|,,,,,Electric]Politoed||ChoiceSpecs|Drizzle|icebeam,weatherball,focusblast,hydropump||85,,85,85,85,85|M|,0,,,,||88|,,,,,Water]Delphox||HeavyDutyBoots|Blaze|fireblast,psyshock,nastyplot,grassknot||85,,85,85,85,85|F|,0,,,,||84|,,,,,Grass]Vikavolt||HeavyDutyBoots|Levitate|energyball,bugbuzz,thunderbolt,stickyweb||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Toxapex||Leftovers|Regenerator|toxic,recover,haze,liquidation||85,85,85,85,85,85|M|||82|,,,,,Flying]Regirock||Leftovers|ClearBody|stoneedge,bodypress,thunderwave,irondefense||85,85,85,85,85,85|N|||83|,,,,,Fighting",
-  "ai": "Lapras||ChoiceSpecs|WaterAbsorb|icebeam,hydropump,sparklingaria,freezedry||81,,85,85,85,85|F|,0,,,,||87|,,,,,Ice]Enamorus||Leftovers|Contrary|zenheadbutt,substitute,superpower,playrough||85,85,85,85,85,85|F|||79|,,,,,Fighting]Iron Hands||AssaultVest|QuarkDrive|wildcharge,closecombat,heavyslam,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Lumineon||LifeOrb|StormDrain|icebeam,alluringvoice,encore,hydropump||85,,85,85,85,85|M|,0,,,,||93|,,,,,Water]Arcanine||HeavyDutyBoots|Intimidate|closecombat,roar,flareblitz,morningsun||85,85,85,85,85,85|M|||84|,,,,,Fighting]Hydreigon||ChoiceSpecs|Levitate|uturn,darkpulse,dracometeor,fireblast||85,85,85,85,85,85|F|||79|,,,,,Fire"
+  "ai": "Lapras||ChoiceSpecs|WaterAbsorb|icebeam,hydropump,sparklingaria,freezedry||81,,85,85,85,85|F|,0,,,,||87|,,,,,Ice]Enamorus||Leftovers|Contrary|zenheadbutt,substitute,superpower,playrough||85,85,85,85,85,85|F|||79|,,,,,Fighting]Iron Hands||AssaultVest|QuarkDrive|wildcharge,closecombat,heavyslam,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Lumineon||LifeOrb|StormDrain|icebeam,alluringvoice,encore,hydropump||85,,85,85,85,85|M|,0,,,,||93|,,,,,Water]Arcanine||HeavyDutyBoots|Intimidate|closecombat,roar,flareblitz,morningsun||85,85,85,85,85,85|M|||84|,,,,,Fighting]Hydreigon||ChoiceSpecs|Levitate|uturn,darkpulse,dracometeor,fireblast||85,85,85,85,85,85|F|||79|,,,,,Fire",
+  "curation": {
+    "battles": 100,
+    "playerWins": 39
+  }
 }

@@ -20,5 +20,9 @@
     "Yanmega"
   ],
   "player": "Grumpig||Leftovers|ThickFat|shadowball,nastyplot,psychic,focusblast||85,,85,85,85,85|M|,0,,,,||92|,,,,,Fighting]Regieleki||Magnet|Transistor|thunderbolt,rapidspin,explosion,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Electric]Noivern||ChoiceSpecs|Infiltrator|flamethrower,hurricane,dracometeor,boomburst||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Virizion||LifeOrb|Justified|swordsdance,leafblade,closecombat,stoneedge||85,85,85,85,85,85|N|||82|,,,,,Rock]Misdreavus||Eviolite|Levitate|willowisp,calmmind,shadowball,drainingkiss||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Yanmega||ChoiceSpecs|TintedLens|airslash,gigadrain,bugbuzz,uturn||85,85,85,85,85,85|F|||82|,,,,,Bug",
-  "ai": "Armarouge||PowerHerb|WeakArmor|armorcannon,psyshock,meteorbeam,energyball||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Moltres||HeavyDutyBoots|FlameBody|scorchingsands,fireblast,roost,bravebird||85,85,85,85,85,85|N|||81|,,,,,Ground]Salamence||HeavyDutyBoots|Intimidate|earthquake,outrage,dragondance,dualwingbeat||85,85,85,85,85,85|F|||77|,,,,,Ground]Solgaleo||Leftovers|FullMetalBody|earthquake,roar,sunsteelstrike,morningsun||85,85,85,85,85,85|N|||74|,,,,,Water]Inteleon||ChoiceSpecs|Torrent|uturn,hydropump,icebeam,scald||85,85,85,85,85,85|F|||81|,,,,,Water]Clefable||Leftovers|Unaware|calmmind,fireblast,moonlight,moonblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel"
+  "ai": "Armarouge||PowerHerb|WeakArmor|armorcannon,psyshock,meteorbeam,energyball||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Moltres||HeavyDutyBoots|FlameBody|scorchingsands,fireblast,roost,bravebird||85,85,85,85,85,85|N|||81|,,,,,Ground]Salamence||HeavyDutyBoots|Intimidate|earthquake,outrage,dragondance,dualwingbeat||85,85,85,85,85,85|F|||77|,,,,,Ground]Solgaleo||Leftovers|FullMetalBody|earthquake,roar,sunsteelstrike,morningsun||85,85,85,85,85,85|N|||74|,,,,,Water]Inteleon||ChoiceSpecs|Torrent|uturn,hydropump,icebeam,scald||85,85,85,85,85,85|F|||81|,,,,,Water]Clefable||Leftovers|Unaware|calmmind,fireblast,moonlight,moonblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 57
+  }
 }

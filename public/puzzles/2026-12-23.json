@@ -20,5 +20,9 @@
     "Dachsbun"
   ],
   "player": "Perrserker||LifeOrb|ToughClaws|closecombat,knockoff,ironhead,stealthrock||85,85,85,85,85,85|M|||89|,,,,,Fighting]Kommo-o||ThroatSpray|Soundproof|clangingscales,ironhead,drainpunch,clangoroussoul||85,85,85,85,85,85|F|||77|,,,,,Steel]Spectrier||LifeOrb|GrimNeigh|shadowball,willowisp,nastyplot,terablast||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Zoroark|ZoroarkHisui|LifeOrb|Illusion|willowisp,poltergeist,focusblast,hypervoice||85,85,85,85,85,85|F|||80|,,,,,Fighting]Bellibolt||Leftovers|Electromorphosis|slackoff,thunderbolt,muddywater,toxic||85,,85,85,85,85|M|,0,,,,||84|,,,,,Water]Dachsbun||Leftovers|WellBakedBody|yawn,playrough,protect,wish||85,85,85,85,85,85|F|||92|,,,,,Steel",
-  "ai": "Copperajah||ChoiceBand|HeavyMetal|stoneedge,heavyslam,earthquake,supercellslam||81,85,85,85,85,85|M|||86|,,,,,Flying]Lokix||LifeOrb|TintedLens|leechlife,swordsdance,knockoff,suckerpunch||85,85,85,85,85,85|M|||82|,,,,,Dark]Flutter Mane||LifeOrb|Protosynthesis|moonblast,thunderbolt,shadowball,calmmind||85,,85,85,85,85|N|,0,,,,||74|,,,,,Electric]Sneasler||ChoiceBand|PoisonTouch|throatchop,uturn,direclaw,closecombat||85,85,85,85,85,85|F|||74|,,,,,Fighting]Chandelure||ChoiceScarf|FlashFire|shadowball,trick,energyball,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Wo-Chien||Leftovers|TabletsofRuin|knockoff,protect,leechseed,ruination||85,85,85,85,85,85|N|||83|,,,,,Poison"
+  "ai": "Copperajah||ChoiceBand|HeavyMetal|stoneedge,heavyslam,earthquake,supercellslam||81,85,85,85,85,85|M|||86|,,,,,Flying]Lokix||LifeOrb|TintedLens|leechlife,swordsdance,knockoff,suckerpunch||85,85,85,85,85,85|M|||82|,,,,,Dark]Flutter Mane||LifeOrb|Protosynthesis|moonblast,thunderbolt,shadowball,calmmind||85,,85,85,85,85|N|,0,,,,||74|,,,,,Electric]Sneasler||ChoiceBand|PoisonTouch|throatchop,uturn,direclaw,closecombat||85,85,85,85,85,85|F|||74|,,,,,Fighting]Chandelure||ChoiceScarf|FlashFire|shadowball,trick,energyball,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Wo-Chien||Leftovers|TabletsofRuin|knockoff,protect,leechseed,ruination||85,85,85,85,85,85|N|||83|,,,,,Poison",
+  "curation": {
+    "battles": 100,
+    "playerWins": 32
+  }
 }

@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,c9bfc447c62ad530ccf802a0ad1b0017d7e5856e6a99a2af5ad860e8eaf6161e",
-    "ai": "sodium,c25b87e711fa0be6193a2d72b5bd1f3f33fdc3d4a797103d6cccd1760d5890ae"
+    "player": "sodium,fb2d86830656bfd4a8d814f4264754f2d01f033040cd21a84d9802b0eb8e8c9a",
+    "ai": "sodium,231986d2531a8884327cc9923d56e878a38e4aaf4f73fc78fee20c140c0bcfe1"
   },
   "playerSpecies": [
-    "Necrozma",
-    "Noivern",
-    "Regigigas",
-    "Shiftry",
-    "Gyarados",
-    "Scream Tail"
+    "Poliwrath",
+    "Wigglytuff",
+    "Toxicroak",
+    "Piloswine",
+    "Bronzong",
+    "Oranguru"
   ],
-  "player": "Necrozma||WeaknessPolicy|PrismArmor|photongeyser,earthquake,dragondance,knockoff||85,85,85,85,85,85|N|||80|,,,,,Steel]Noivern||HeavyDutyBoots|Infiltrator|hurricane,flamethrower,dracometeor,roost||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fire]Regigigas||Leftovers|SlowStart|sleeptalk,bodyslam,rest,knockoff||85,85,85,85,85,85|N|||84|,,,,,Ghost]Shiftry||HeavyDutyBoots|WindRider|suckerpunch,defog,knockoff,leafstorm||85,85,85,85,85,85|M|||89|,,,,,Poison]Gyarados||HeavyDutyBoots|Intimidate|waterfall,dragondance,stoneedge,earthquake||85,85,85,85,85,85|F|||79|,,,,,Ground]Scream Tail||Leftovers|Protosynthesis|protect,dazzlinggleam,thunderwave,wish||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison",
-  "ai": "Pecharunt||Leftovers|PoisonPuppeteer|nastyplot,malignantchain,shadowball,recover||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Miraidon||LifeOrb|HadronEngine|electrodrift,calmmind,dracometeor,dragonpulse||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Arboliva||Leftovers|SeedSower|energyball,hypervoice,strengthsap,earthpower||85,,85,85,85,85|M|,0,,,,||91|,,,,,Grass]Heracross||ChoiceBand|Moxie|knockoff,closecombat,stoneedge,megahorn||85,85,85,85,85,85|F|||80|,,,,,Fighting]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,nastyplot,surf,rapidspin||85,85,85,85,85,85|M|||87|,,,,,Steel]Excadrill||AssaultVest|MoldBreaker|rapidspin,rockslide,ironhead,earthquake||85,85,85,85,85,85|F|||79|,,,,,Grass"
+  "player": "Poliwrath||Leftovers|WaterAbsorb|bulkup,liquidation,icepunch,drainpunch||85,85,85,85,85,85|F|||88|,,,,,Steel]Wigglytuff||Leftovers|Competitive|wish,fireblast,dazzlinggleam,protect||85,,85,85,85,85|F|,0,,,,||96|,,,,,Steel]Toxicroak||LifeOrb|DrySkin|gunkshot,closecombat,knockoff,swordsdance||85,85,85,85,85,85|F|||84|,,,,,Dark]Piloswine||Eviolite|ThickFat|roar,stealthrock,earthquake,iciclecrash||85,85,85,85,85,85|F|||85|,,,,,Dragon]Bronzong||ChestoBerry|Levitate|psychicnoise,irondefense,bodypress,rest||85,,85,85,85,85|N|,0,,,,||88|,,,,,Fighting]Oranguru||ChoiceSpecs|InnerFocus|hypervoice,trick,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||92|,,,,,Psychic",
+  "ai": "Exeggutor||SitrusBerry|Harvest|substitute,calmmind,psyshock,gigadrain||77,,85,85,85,85|M|,0,,,,||89|,,,,,Steel]Kleavor||HeavyDutyBoots|Sharpness|stoneaxe,closecombat,swordsdance,xscissor||85,85,85,85,85,85|M|||78|,,,,,Bug]Bellibolt||Leftovers|Electromorphosis|toxic,slackoff,muddywater,thunderbolt||85,,85,85,85,85|F|,0,,,,||84|,,,,,Electric]Granbull||Leftovers|Intimidate|playrough,roar,thunderwave,earthquake||85,85,85,85,85,85|M|||88|,,,,,Ground]Minior|MiniorGreen|WhiteHerb|ShieldsDown|powergem,earthquake,shellsmash,acrobatics||85,85,85,85,85,85|N|||79|,,,,,Ground]Eternatus||RockyHelmet|Pressure|recover,dynamaxcannon,toxic,flamethrower||85,,85,85,85,85|N|,0,,,,||69|,,,,,Dragon",
+  "curation": {
+    "battles": 100,
+    "playerWins": 71
+  }
 }

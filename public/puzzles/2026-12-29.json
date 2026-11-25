@@ -20,5 +20,9 @@
     "Ariados"
   ],
   "player": "Mesprit||ChoiceSpecs|Levitate|thunderbolt,shadowball,dazzlinggleam,psychic||85,,85,85,85,85|N|,0,,,,||85|,,,,,Electric]Blaziken||LifeOrb|SpeedBoost|knockoff,swordsdance,flareblitz,closecombat||85,85,85,85,85,85|F|||76|,,,,,Dark]Mabosstiff||ChoiceBand|Stakeout|wildcharge,psychicfangs,crunch,playrough||85,85,85,85,85,85|M|||86|,,,,,Fairy]Komala||AssaultVest|Comatose|knockoff,bodyslam,rapidspin,uturn||85,85,85,85,85,85|M|||87|,,,,,Ghost]Toxtricity||ChoiceSpecs|PunkRock|sludgewave,overdrive,boomburst,voltswitch||85,,85,85,85,85|M|,0,,,,||82|,,,,,Normal]Ariados||HeavyDutyBoots|Insomnia|poisonjab,suckerpunch,stickyweb,megahorn||85,85,85,85,85,85|M|||95|,,,,,Ghost",
-  "ai": "Serperior||Leftovers|Contrary|leechseed,dragonpulse,leafstorm,substitute||85,,85,85,85,85|F|,0,,,,||79|,,,,,Dragon]Spidops||HeavyDutyBoots|Stakeout|stickyweb,circlethrow,uturn,knockoff||85,85,85,85,85,85|F|||96|,,,,,Ghost]Rabsca||HeavyDutyBoots|Synchronize|bugbuzz,revivalblessing,recover,psychic||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Mightyena||ChoiceBand|Intimidate|crunch,playrough,poisonfang,suckerpunch||85,85,85,85,85,85|F|||96|,,,,,Poison]Golem||CustapBerry|Sturdy|earthquake,stealthrock,stoneedge,explosion||85,85,85,85,85,85|F|||87|,,,,,Steel]Phione||Leftovers|Hydration|grassknot,takeheart,scald,icebeam||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass"
+  "ai": "Serperior||Leftovers|Contrary|leechseed,dragonpulse,leafstorm,substitute||85,,85,85,85,85|F|,0,,,,||79|,,,,,Dragon]Spidops||HeavyDutyBoots|Stakeout|stickyweb,circlethrow,uturn,knockoff||85,85,85,85,85,85|F|||96|,,,,,Ghost]Rabsca||HeavyDutyBoots|Synchronize|bugbuzz,revivalblessing,recover,psychic||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Mightyena||ChoiceBand|Intimidate|crunch,playrough,poisonfang,suckerpunch||85,85,85,85,85,85|F|||96|,,,,,Poison]Golem||CustapBerry|Sturdy|earthquake,stealthrock,stoneedge,explosion||85,85,85,85,85,85|F|||87|,,,,,Steel]Phione||Leftovers|Hydration|grassknot,takeheart,scald,icebeam||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass",
+  "curation": {
+    "battles": 100,
+    "playerWins": 77
+  }
 }

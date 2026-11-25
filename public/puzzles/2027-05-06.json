@@ -20,5 +20,9 @@
     "Keldeo-Resolute"
   ],
   "player": "Houndoom||HeavyDutyBoots|FlashFire|darkpulse,suckerpunch,fireblast,nastyplot||85,85,85,85,85,85|M|||87|,,,,,Dark]Sylveon||Leftovers|Pixilate|wish,protect,hypervoice,calmmind||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Armarouge||ChoiceSpecs|WeakArmor|psyshock,aurasphere,energyball,armorcannon||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Sinistcha|SinistchaMasterpiece|Leftovers|Heatproof|strengthsap,matchagotcha,calmmind,shadowball||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Flygon||LumBerry|Levitate|outrage,earthquake,dragondance,stoneedge||85,85,85,85,85,85|F|||82|,,,,,Rock]Keldeo|KeldeoResolute|Leftovers|Justified|surf,substitute,calmmind,secretsword||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel",
-  "ai": "Heatran||AirBalloon|FlashFire|lavaplume,earthpower,stealthrock,heavyslam||85,85,85,85,85,85|M|||79|,,,,,Flying]Cetitan||SitrusBerry|ThickFat|bellydrum,iceshard,earthquake,icespinner||81,85,85,85,85,85|F|||82|,,,,,Ice]Talonflame||HeavyDutyBoots|GaleWings|terablast,swordsdance,flareblitz,bravebird||85,85,85,85,85,85|M|||83|,,,,,Ground]Toucannon||HeavyDutyBoots|SkillLink|boomburst,roost,bulletseed,beakblast||85,85,85,85,85,85|M|||88|,,,,,Steel]Goodra||AssaultVest|SapSipper|powerwhip,dracometeor,sludgebomb,fireblast||85,85,85,85,85,85|M|||85|,,,,,Poison]Munkidori||AssaultVest|ToxicChain|uturn,sludgewave,fakeout,psychicnoise||85,85,85,85,85,85|M|||79|,,,,,Dark"
+  "ai": "Heatran||AirBalloon|FlashFire|lavaplume,earthpower,stealthrock,heavyslam||85,85,85,85,85,85|M|||79|,,,,,Flying]Cetitan||SitrusBerry|ThickFat|bellydrum,iceshard,earthquake,icespinner||81,85,85,85,85,85|F|||82|,,,,,Ice]Talonflame||HeavyDutyBoots|GaleWings|terablast,swordsdance,flareblitz,bravebird||85,85,85,85,85,85|M|||83|,,,,,Ground]Toucannon||HeavyDutyBoots|SkillLink|boomburst,roost,bulletseed,beakblast||85,85,85,85,85,85|M|||88|,,,,,Steel]Goodra||AssaultVest|SapSipper|powerwhip,dracometeor,sludgebomb,fireblast||85,85,85,85,85,85|M|||85|,,,,,Poison]Munkidori||AssaultVest|ToxicChain|uturn,sludgewave,fakeout,psychicnoise||85,85,85,85,85,85|M|||79|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 60
+  }
 }

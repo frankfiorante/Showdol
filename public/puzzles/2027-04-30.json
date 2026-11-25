@@ -20,5 +20,9 @@
     "Haxorus"
   ],
   "player": "Heatran||AirBalloon|FlashFire|magmastorm,heavyslam,earthpower,stealthrock||85,85,85,85,85,85|F|||79|,,,,,Flying]Beartic||ChoiceBand|SlushRush|aquajet,iciclecrash,closecombat,earthquake||85,85,85,85,85,85|M|||91|,,,,,Fighting]Dodrio||ChoiceBand|EarlyBird|drillrun,doubleedge,knockoff,bravebird||85,85,85,85,85,85|F|||85|,,,,,Ground]Charizard||HeavyDutyBoots|Blaze|flareblitz,earthquake,swordsdance,outrage||85,85,85,85,85,85|M|||85|,,,,,Dragon]Arboliva||SitrusBerry|Harvest|protect,substitute,leechseed,hypervoice||77,,85,85,85,85|M|,0,,,,||91|,,,,,Poison]Haxorus||LumBerry|MoldBreaker|closecombat,dragondance,ironhead,outrage||85,85,85,85,85,85|F|||78|,,,,,Steel",
-  "ai": "Maushold|MausholdFour|WideLens|Technician|bite,populationbomb,tidyup,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Eelektross||AssaultVest|Levitate|uturn,discharge,knockoff,flamethrower||85,85,85,85,85,85|F|||87|,,,,,Steel]Jumpluff|||Infiltrator|acrobatics,encore,uturn,strengthsap||81,85,85,85,85,85|M|||87|,,,,,Steel]Braviary|BraviaryHisui|LifeOrb|SheerForce|heatwave,psychic,agility,hurricane||85,,85,85,85,85|M|,0,,,,||85|,,,,,Psychic]Tauros||LifeOrb|SheerForce|earthquake,bodyslam,closecombat,throatchop||85,85,85,85,85,85|M|||82|,,,,,Fighting]Cinderace||ChoiceBand|Libero|gunkshot,highjumpkick,uturn,pyroball||81,85,85,85,85,85|M|||77|,,,,,Fire"
+  "ai": "Maushold|MausholdFour|WideLens|Technician|bite,populationbomb,tidyup,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Eelektross||AssaultVest|Levitate|uturn,discharge,knockoff,flamethrower||85,85,85,85,85,85|F|||87|,,,,,Steel]Jumpluff|||Infiltrator|acrobatics,encore,uturn,strengthsap||81,85,85,85,85,85|M|||87|,,,,,Steel]Braviary|BraviaryHisui|LifeOrb|SheerForce|heatwave,psychic,agility,hurricane||85,,85,85,85,85|M|,0,,,,||85|,,,,,Psychic]Tauros||LifeOrb|SheerForce|earthquake,bodyslam,closecombat,throatchop||85,85,85,85,85,85|M|||82|,,,,,Fighting]Cinderace||ChoiceBand|Libero|gunkshot,highjumpkick,uturn,pyroball||81,85,85,85,85,85|M|||77|,,,,,Fire",
+  "curation": {
+    "battles": 100,
+    "playerWins": 59
+  }
 }

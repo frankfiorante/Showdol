@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,550f627b06ff3b0af3ddeec2a1e93e418af76921624d08b723618e465634fcf6",
-    "ai": "sodium,583c2a361b06c75d9674ccbe1ab7992ae7adf8703ec76554a0497ac58bc39851"
+    "player": "sodium,048e3e52269a245c90f5a75bcdd511993e091c97c0a41c0790593d9428324c25",
+    "ai": "sodium,18f66f2012e7931e36f99e0659873842f58fb292a129006b5ae49a0806429c7a"
   },
   "playerSpecies": [
-    "Staraptor",
-    "Scizor",
-    "Kyurem-Black",
-    "Pachirisu",
-    "Heracross",
-    "Chandelure"
+    "Zarude-Dada",
+    "Zangoose",
+    "Iron Moth",
+    "Electivire",
+    "Decidueye-Hisui",
+    "Pikachu-Original"
   ],
-  "player": "Staraptor||ChoiceBand|Reckless|closecombat,quickattack,bravebird,uturn||81,85,85,85,85,85|F|||79|,,,,,Fighting]Scizor||ChoiceBand|Technician|closecombat,knockoff,uturn,bulletpunch||85,85,85,85,85,85|M|||79|,,,,,Steel]Kyurem|KyuremBlack|LoadedDice|Teravolt|iciclespear,scaleshot,dragondance,terablast||85,85,85,85,85,85|N|||71|,,,,,Ground]Pachirisu||HeavyDutyBoots|VoltAbsorb|uturn,encore,superfang,discharge||85,85,85,85,85,85|M|||96|,,,,,Flying]Heracross||ChoiceScarf|Moxie|closecombat,earthquake,megahorn,stoneedge||85,85,85,85,85,85|F|||80|,,,,,Bug]Chandelure||ChoiceScarf|FlashFire|shadowball,trick,energyball,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fire",
-  "ai": "Tauros|TaurosPaldeaBlaze|SitrusBerry|CudChew|ragingbull,bulkup,substitute,closecombat||73,85,85,85,85,85|M|||81|,,,,,Water]Dragapult||HeavyDutyBoots|CursedBody|uturn,hex,dragondarts,willowisp||85,85,85,85,85,85|M|||77|,,,,,Dragon]Archaludon||LumBerry|Stamina|ironhead,earthquake,outrage,swordsdance||85,85,85,85,85,85|F|||77|,,,,,Ground]Rillaboom||ChoiceBand|GrassySurge|grassyglide,woodhammer,knockoff,uturn||85,85,85,85,85,85|F|||79|,,,,,Grass]Alomomola||RockyHelmet|Regenerator|protect,scald,wish,flipturn||85,85,85,85,85,85|F|||87|,,,,,Steel]Ursaring||Eviolite|Guts|bodyslam,earthquake,sleeptalk,rest||85,85,85,85,85,85|F|||84|,,,,,Ground"
+  "player": "Zarude|ZarudeDada|ChoiceBand|LeafGuard|powerwhip,uturn,knockoff,closecombat||85,85,85,85,85,85|N|||77|,,,,,Dark]Zangoose||ToxicOrb|ToxicBoost|knockoff,closecombat,facade,swordsdance||85,85,85,85,85,85|F|||85|,,,,,Normal]Iron Moth||HeavyDutyBoots|QuarkDrive|energyball,sludgewave,toxicspikes,fierydance||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Electivire||LifeOrb|MotorDrive|bulkup,earthquake,icepunch,supercellslam||85,85,85,85,85,85|F|||84|,,,,,Ground]Decidueye|DecidueyeHisui|Leftovers|Scrappy|uturn,leafblade,roost,triplearrows||85,85,85,85,85,85|M|||87|,,,,,Water]Pikachu|PikachuOriginal|LightBall|LightningRod|knockoff,surf,volttackle,fakeout||85,85,85,85,85,85|M|||93|,,,,,Water",
+  "ai": "Chandelure||ChoiceScarf|FlashFire|shadowball,energyball,trick,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Flapple||ChoiceBand|Hustle|suckerpunch,gravapple,uturn,outrage||85,85,85,85,85,85|M|||88|,,,,,Steel]Chi-Yu||ChoiceScarf|BeadsofRuin|darkpulse,overheat,flamethrower,psychic||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Zekrom||Leftovers|Teravolt|substitute,outrage,boltstrike,dragondance||85,85,85,85,85,85|N|||71|,,,,,Fairy]Phione||Leftovers|Hydration|scald,grassknot,takeheart,icebeam||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Deoxys|DeoxysSpeed|Leftovers|Pressure|stealthrock,spikes,psychoboost,superpower||85,85,85,85,85,85|N|||82|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 69
+  }
 }

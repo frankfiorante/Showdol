@@ -20,5 +20,9 @@
     "Azelf"
   ],
   "player": "Minior|MiniorGreen|WhiteHerb|ShieldsDown|shellsmash,earthquake,acrobatics,powergem||85,85,85,85,85,85|N|||79|,,,,,Water]Drifblim||HeavyDutyBoots|Aftermath|defog,strengthsap,shadowball,airslash||85,,85,85,85,85|F|,0,,,,||86|,,,,,Steel]Scream Tail||Leftovers|Protosynthesis|wish,encore,protect,playrough||85,85,85,85,85,85|N|||84|,,,,,Poison]Pikachu|PikachuSinnoh|LightBall|LightningRod|volttackle,fakeout,knockoff,surf||85,85,85,85,85,85|F|||93|,,,,,Water]Pawmot||LifeOrb|IronFist|doubleshock,revivalblessing,closecombat,icepunch||85,85,85,85,85,85|F|||80|,,,,,Electric]Azelf||LifeOrb|Levitate|knockoff,fireblast,stealthrock,psychic||85,85,85,85,85,85|N|||82|,,,,,Dark",
-  "ai": "Electivire||LifeOrb|MotorDrive|icepunch,earthquake,bulkup,supercellslam||85,85,85,85,85,85|M|||84|,,,,,Ground]Bronzong||Leftovers|Levitate|bodypress,irondefense,ironhead,psychicnoise||85,85,85,85,85,85|N|||88|,,,,,Fighting]Glimmora||AirBalloon|ToxicDebris|powergem,earthpower,sludgewave,stealthrock||85,,85,85,85,85|F|,0,,,,||75|,,,,,Ground]Latios||ChoiceSpecs|Levitate|dracometeor,flipturn,lusterpurge,aurasphere||85,85,85,85,85,85|M|||78|,,,,,Psychic]Swanna||HeavyDutyBoots|Hydration|bravebird,hydropump,defog,roost||85,85,85,85,85,85|F|||89|,,,,,Ground]Alcremie|AlcremieRubySwirl|Leftovers|AromaVeil|terablast,alluringvoice,recover,calmmind||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground"
+  "ai": "Electivire||LifeOrb|MotorDrive|icepunch,earthquake,bulkup,supercellslam||85,85,85,85,85,85|M|||84|,,,,,Ground]Bronzong||Leftovers|Levitate|bodypress,irondefense,ironhead,psychicnoise||85,85,85,85,85,85|N|||88|,,,,,Fighting]Glimmora||AirBalloon|ToxicDebris|powergem,earthpower,sludgewave,stealthrock||85,,85,85,85,85|F|,0,,,,||75|,,,,,Ground]Latios||ChoiceSpecs|Levitate|dracometeor,flipturn,lusterpurge,aurasphere||85,85,85,85,85,85|M|||78|,,,,,Psychic]Swanna||HeavyDutyBoots|Hydration|bravebird,hydropump,defog,roost||85,85,85,85,85,85|F|||89|,,,,,Ground]Alcremie|AlcremieRubySwirl|Leftovers|AromaVeil|terablast,alluringvoice,recover,calmmind||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 31
+  }
 }

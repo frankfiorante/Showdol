@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,4e0c7833a93913c3253008a101f51ac31ccbcd0077538372455af2c7fee16372",
-    "ai": "sodium,2be8bdd54197e8756ebecfe635c5d39c119a2ce5483a329e906cab0ff5d7c2e9"
+    "player": "sodium,0d4e6af081b94dc658cc6fbf27851aaa4ad1849adf21aa1ba8fb10d2dc8494b3",
+    "ai": "sodium,e4c3fdbdeaedd5204687d1e3e7c947e5cb1f465b58b5e37bfff013b0ae1ec6f3"
   },
   "playerSpecies": [
-    "Whiscash",
-    "Spectrier",
-    "Copperajah",
-    "Flamigo",
-    "Munkidori",
-    "Luvdisc"
+    "Lanturn",
+    "Mightyena",
+    "Sudowoodo",
+    "Komala",
+    "Reuniclus",
+    "Suicune"
   ],
-  "player": "Whiscash||Leftovers|Oblivious|earthquake,icebeam,hydropump,stealthrock||85,85,85,85,85,85|M|||88|,,,,,Poison]Spectrier||LifeOrb|GrimNeigh|shadowball,nastyplot,terablast,willowisp||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Copperajah||ChoiceBand|HeavyMetal|heavyslam,supercellslam,earthquake,stoneedge||81,85,85,85,85,85|F|||86|,,,,,Flying]Flamigo||ChoiceBand|Scrappy|bravebird,closecombat,throatchop,uturn||85,85,85,85,85,85|F|||82|,,,,,Fighting]Munkidori||AssaultVest|ToxicChain|sludgewave,focusblast,uturn,psychicnoise||85,85,85,85,85,85|M|||79|,,,,,Dark]Luvdisc||HeavyDutyBoots|SwiftSwim|whirlpool,endeavor,surf,substitute||81,,85,85,85,85|F|,0,,,,|||,,,,,Ground",
-  "ai": "Misdreavus||Eviolite|Levitate|drainingkiss,calmmind,shadowball,willowisp||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Hitmonchan||AssaultVest|IronFist|knockoff,poisonjab,rapidspin,drainpunch||85,85,85,85,85,85|M|||87|,,,,,Steel]Incineroar||HeavyDutyBoots|Intimidate|flareblitz,knockoff,swordsdance,trailblaze||85,85,85,85,85,85|F|||82|,,,,,Grass]Decidueye||AssaultVest|Overgrow|leafstorm,knockoff,uturn,spiritshackle||85,85,85,85,85,85|F|||88|,,,,,Grass]Chesnaught||RockyHelmet|Bulletproof|bodypress,synthesis,woodhammer,spikes||85,85,85,85,85,85|M|||84|,,,,,Water]Altaria||HeavyDutyBoots|NaturalCure|willowisp,bravebird,haze,roost||85,85,85,85,85,85|F|||89|,,,,,Steel"
+  "player": "Lanturn||HeavyDutyBoots|VoltAbsorb|thunderbolt,voltswitch,thunderwave,scald||85,,85,85,85,85|M|,0,,,,||89|,,,,,Flying]Mightyena||Leftovers|Intimidate|taunt,playrough,crunch,suckerpunch||85,85,85,85,85,85|M|||96|,,,,,Fairy]Sudowoodo||Leftovers|RockHead|earthquake,stealthrock,headsmash,woodhammer||85,85,85,85,85,85|M|||94|,,,,,Rock]Komala||AssaultVest|Comatose|knockoff,earthquake,rapidspin,bodyslam||85,85,85,85,85,85|M|||87|,,,,,Ghost]Reuniclus||LifeOrb|MagicGuard|recover,focusblast,psychic,calmmind||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fighting]Suicune||Leftovers|Pressure|substitute,scald,icebeam,calmmind||85,,85,85,85,85|N|,0,,,,||82|,,,,,Dragon",
+  "ai": "Masquerain||HeavyDutyBoots|Intimidate|bugbuzz,hurricane,hydropump,quiverdance||85,,85,85,85,85|M|,0,,,,||87|,,,,,Water]Heracross||FlameOrb|Guts|knockoff,trailblaze,facade,closecombat||85,85,85,85,85,85|F|||80|,,,,,Normal]Skarmory||Leftovers|Sturdy|bravebird,irondefense,bodypress,roost||85,85,85,85,85,85|F|||80|,,,,,Fighting]Bruxish||LifeOrb|StrongJaw|psychicfangs,swordsdance,aquajet,wavecrash||85,85,85,85,85,85|M|||85|,,,,,Psychic]Garchomp||LoadedDice|RoughSkin|earthquake,swordsdance,ironhead,scaleshot||85,85,85,85,85,85|F|||74|,,,,,Steel]Glimmora||AirBalloon|ToxicDebris|earthpower,powergem,stealthrock,sludgewave||85,,85,85,85,85|M|,0,,,,||75|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 71
+  }
 }

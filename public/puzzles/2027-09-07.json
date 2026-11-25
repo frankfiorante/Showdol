@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,6b936789b393edb442edd790bed1fba12dcf4a07049f437a2f6bf1b9851ff339",
-    "ai": "sodium,7278bf9fecbbee5f3a090c75e95758af5727eedd416dbc11758ad7bfc3ea4efd"
+    "player": "sodium,4b5bc3b36d60802d1aef8aef93a7577b7992ce90b9f8afdbb5b6fbd9ca65406f",
+    "ai": "sodium,94e6e268ed2d70fb9166a56a972e12d7bd14d322153abb2fb1ea3f2d384c0545"
   },
   "playerSpecies": [
-    "Umbreon",
-    "Mudsdale",
-    "Beartic",
-    "Pawmot",
-    "Perrserker",
-    "Camerupt"
+    "Weezing",
+    "Rhydon",
+    "Toucannon",
+    "Flareon",
+    "Squawkabilly-Yellow",
+    "Hariyama"
   ],
-  "player": "Umbreon||Leftovers|Synchronize|toxic,wish,foulplay,protect||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Mudsdale||Leftovers|Stamina|earthquake,heavyslam,stoneedge,stealthrock||85,85,85,85,85,85|M|||83|,,,,,Steel]Beartic||ChoiceBand|SlushRush|earthquake,aquajet,closecombat,iciclecrash||85,85,85,85,85,85|M|||91|,,,,,Ground]Pawmot||LifeOrb|IronFist|icepunch,closecombat,doubleshock,revivalblessing||85,85,85,85,85,85|F|||80|,,,,,Electric]Perrserker||ChoiceBand|ToughClaws|ironhead,knockoff,closecombat,uturn||85,85,85,85,85,85|M|||89|,,,,,Fighting]Camerupt||Leftovers|SolidRock|willowisp,earthquake,overheat,roar||85,85,85,85,85,85|M|||91|,,,,,Grass",
-  "ai": "Spectrier||LifeOrb|GrimNeigh|terablast,nastyplot,willowisp,shadowball||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Keldeo|KeldeoResolute|Leftovers|Justified|surf,substitute,secretsword,calmmind||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel]Gurdurr||Eviolite|Guts|knockoff,bulkup,drainpunch,machpunch||85,85,85,85,85,85|F|||85|,,,,,Steel]Rillaboom||LifeOrb|GrassySurge|grassyglide,swordsdance,knockoff,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Oranguru||Leftovers|InnerFocus|thunderbolt,focusblast,psychic,nastyplot||85,,85,85,85,85|F|,0,,,,||92|,,,,,Fighting]Ting-Lu||Leftovers|VesselofRuin|heavyslam,payback,earthquake,stealthrock||85,85,85,85,85,85|N|||78|,,,,,Poison"
+  "player": "Weezing||Leftovers|Levitate|toxicspikes,fireblast,sludgebomb,painsplit||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Rhydon||Eviolite|LightningRod|megahorn,swordsdance,stoneedge,earthquake||85,85,85,85,85,85|M|||85|,,,,,Flying]Toucannon||HeavyDutyBoots|KeenEye|roost,uturn,boomburst,beakblast||85,85,85,85,85,85|M|||88|,,,,,Steel]Flareon||ToxicOrb|Guts|trailblaze,flareblitz,quickattack,facade||85,85,85,85,85,85|M|||90|,,,,,Normal]Squawkabilly|SquawkabillyYellow|ChoiceBand|Hustle|bravebird,foulplay,doubleedge,quickattack||85,85,85,85,85,85|M|||89|,,,,,Normal]Hariyama||AssaultVest|ThickFat|closecombat,heavyslam,knockoff,bulletpunch||85,85,85,85,85,85|M|||87|,,,,,Steel",
+  "ai": "Espeon||ChoiceSpecs|MagicBounce|psyshock,trick,shadowball,alluringvoice||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fairy]Calyrex||Leftovers|Unnerve|calmmind,psyshock,leechseed,gigadrain||85,,85,85,85,85|N|,0,,,,||93|,,,,,Steel]Houndoom||HeavyDutyBoots|FlashFire|sludgebomb,darkpulse,suckerpunch,fireblast||85,85,85,85,85,85|F|||87|,,,,,Fire]Probopass||Leftovers|MagnetPull|powergem,bodypress,irondefense,flashcannon||85,,85,85,85,85|M|,0,,,,||91|,,,,,Fighting]Electivire||LifeOrb|MotorDrive|earthquake,supercellslam,knockoff,voltswitch||85,85,85,85,85,85|F|||84|,,,,,Ground]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|roost,quiverdance,hurricane,revelationdance||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 38
+  }
 }

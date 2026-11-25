@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,05d95177cc8d0000a0dcb484e22535da39d907f066ad3efecdbef5424f2b5a90",
-    "ai": "sodium,6962f7fe6531f3dbf3017290f38278b989a1bb097f0fc790d0264fe48cc1a6b3"
+    "player": "sodium,48c05e059039695fc93bc89108438e825ab85a467b59b40050d146f5460fed09",
+    "ai": "sodium,b0bf656a438b5138f6ecd17f1c9b483c148b888abfa7e9659016a9f4974f64f3"
   },
   "playerSpecies": [
-    "Vileplume",
-    "Ursaluna",
-    "Jumpluff",
-    "Stonjourner",
-    "Meowstic",
-    "Kingambit"
+    "Deoxys-Defense",
+    "Crabominable",
+    "Chansey",
+    "Bellossom",
+    "Solgaleo",
+    "Passimian"
   ],
-  "player": "Vileplume||Leftovers|EffectSpore|leechseed,sludgebomb,gigadrain,strengthsap||85,,85,85,85,85|M|,0,,,,||85|,,,,,Water]Ursaluna||FlameOrb|Guts|facade,headlongrush,trailblaze,crunch||85,85,85,85,85,85|F|||79|,,,,,Normal]Jumpluff|||Infiltrator|substitute,acrobatics,strengthsap,leechseed||81,85,85,85,85,85|F|||87|,,,,,Steel]Stonjourner||LifeOrb|PowerSpot|heatcrash,rockpolish,earthquake,stoneedge||85,85,85,85,85,85|F|||91|,,,,,Fire]Meowstic||LightClay|Prankster|alluringvoice,psychicnoise,lightscreen,reflect||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Kingambit||Leftovers|SupremeOverlord|kowtowcleave,swordsdance,ironhead,suckerpunch||85,85,85,85,85,85|F|||74|,,,,,Flying",
-  "ai": "Mabosstiff||ChoiceScarf|Stakeout|crunch,psychicfangs,wildcharge,playrough||85,85,85,85,85,85|F|||86|,,,,,Dark]Revavroom||LifeOrb|Filter|ironhead,gunkshot,highhorsepower,shiftgear||85,85,85,85,85,85|F|||79|,,,,,Ground]Rabsca||HeavyDutyBoots|Synchronize|trickroom,revivalblessing,psychic,bugbuzz||85,,85,85,85,|M|,0,,,,0||91|,,,,,Steel]Bisharp||Eviolite|Defiant|swordsdance,ironhead,throatchop,suckerpunch||85,85,85,85,85,85|F|||79|,,,,,Flying]Chandelure||ChoiceScarf|FlashFire|shadowball,fireblast,trick,energyball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Groudon||Leftovers|Drought|swordsdance,thunderwave,precipiceblades,heatcrash||85,85,85,85,85,85|N|||72|,,,,,Fire"
+  "player": "Deoxys|DeoxysDefense|RockyHelmet|Pressure|knockoff,recover,psychicnoise,stealthrock||85,85,85,85,85,85|N|||84|,,,,,Steel]Crabominable||ChoiceBand|IronFist|icehammer,earthquake,closecombat,gunkshot||85,85,85,85,85,85|F|||90|,,,,,Ground]Chansey||Eviolite|NaturalCure|seismictoss,healbell,thunderwave,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Dark]Bellossom||Leftovers|Chlorophyll|gigadrain,quiverdance,strengthsap,terablast||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fire]Solgaleo||RockyHelmet|FullMetalBody|closecombat,morningsun,sunsteelstrike,teleport||85,85,85,85,85,85|N|||74|,,,,,Water]Passimian||ChoiceScarf|Defiant|closecombat,gunkshot,earthquake,knockoff||85,85,85,85,85,85|F|||83|,,,,,Poison",
+  "ai": "Meowstic||Leftovers|Prankster|alluringvoice,psychicnoise,thunderwave,yawn||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Bruxish||ChoiceBand|StrongJaw|wavecrash,crunch,psychicfangs,aquajet||85,85,85,85,85,85|F|||85|,,,,,Psychic]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|quiverdance,roost,hurricane,revelationdance||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fighting]Rotom|RotomFan|HeavyDutyBoots|Levitate|nastyplot,thunderbolt,airslash,thunderwave||85,,85,85,85,85|N|,0,,,,||86|,,,,,Steel]Magnezone||AssaultVest|MagnetPull|voltswitch,thunderbolt,flashcannon,mirrorcoat||85,,85,85,85,85|N|,0,,,,||84|,,,,,Flying]Whimsicott||HeavyDutyBoots|Prankster|encore,uturn,moonblast,stunspore||85,85,85,85,85,85|F|||84|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 30
+  }
 }

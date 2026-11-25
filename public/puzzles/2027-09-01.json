@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,311687de770beec43d0c0212990fef7bf7947c5572d7262ad1856830155febec",
-    "ai": "sodium,9d2627c5b42f3eee98c9575d1fd1644f0b8e34fe15a1fa7149501e8a2aeef8f0"
+    "player": "sodium,9df4921eb3b17cf0dcb3d5e8c533546e266a69b550d83cd1b9e54dad1558c67e",
+    "ai": "sodium,57b3256f381f90a560b355c3577c2b64896697e4631ae166fef2e179678f18a3"
   },
   "playerSpecies": [
-    "Thundurus",
-    "Basculin-Blue-Striped",
     "Golurk",
-    "Sylveon",
-    "Vikavolt",
-    "Gholdengo"
+    "Spectrier",
+    "Lugia",
+    "Venomoth",
+    "Perrserker",
+    "Thundurus-Therian"
   ],
-  "player": "Thundurus||HeavyDutyBoots|Defiant|nastyplot,terablast,thunderbolt,focusblast||85,85,85,85,85,85|M|||80|,,,,,Flying]Basculin|BasculinBlueStriped|ChoiceBand|Adaptability|doubleedge,flipturn,wavecrash,aquajet||85,85,85,85,85,85|F|||86|,,,,,Water]Golurk||LifeOrb|NoGuard|earthquake,poltergeist,stoneedge,stealthrock||85,85,85,85,85,85|N|||87|,,,,,Ghost]Sylveon||Leftovers|Pixilate|protect,hypervoice,wish,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Vikavolt||HeavyDutyBoots|Levitate|energyball,discharge,bugbuzz,stickyweb||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Gholdengo||Leftovers|GoodasGold|shadowball,thunderwave,recover,makeitrain||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark",
-  "ai": "Typhlosion||ChoiceSpecs|FlashFire|eruption,scorchingsands,focusblast,fireblast||81,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Jumpluff|||Infiltrator|strengthsap,substitute,leechseed,acrobatics||81,85,85,85,85,85|F|||87|,,,,,Steel]Hawlucha||WhiteHerb|Unburden|bravebird,closecombat,acrobatics,swordsdance||85,85,85,85,85,85|M|||80|,,,,,Flying]Qwilfish|QwilfishHisui|Eviolite|Intimidate|crunch,taunt,gunkshot,toxicspikes||85,85,85,85,85,85|F|||83|,,,,,Poison]Copperajah||LifeOrb|SheerForce|earthquake,playrough,stealthrock,ironhead||85,85,85,85,85,85|M|||86|,,,,,Fairy]Heracross||ChoiceScarf|Moxie|megahorn,closecombat,stoneedge,earthquake||85,85,85,85,85,85|F|||80|,,,,,Bug"
+  "player": "Golurk||LifeOrb|NoGuard|stoneedge,earthquake,stealthrock,poltergeist||85,85,85,85,85,85|N|||87|,,,,,Ground]Spectrier||Leftovers|GrimNeigh|substitute,shadowball,terablast,nastyplot||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Lugia||HeavyDutyBoots|Multiscale|earthpower,aeroblast,calmmind,recover||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Venomoth||HeavyDutyBoots|TintedLens|quiverdance,bugbuzz,sleeppowder,sludgewave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Steel]Perrserker||ChoiceBand|ToughClaws|uturn,knockoff,closecombat,ironhead||85,85,85,85,85,85|M|||89|,,,,,Fighting]Thundurus|ThundurusTherian|ChoiceScarf|VoltAbsorb|psychic,thunderbolt,grassknot,sludgewave||85,,85,85,85,85|M|,0,,,,||80|,,,,,Psychic",
+  "ai": "Lilligant|LilligantHisui|LifeOrb|Hustle|sleeppowder,leafblade,closecombat,victorydance||85,85,85,85,85,85|F|||79|,,,,,Steel]Empoleon||Leftovers|Competitive|icebeam,surf,yawn,roost||85,,85,85,85,85|M|,0,,,,||84|,,,,,Flying]Pecharunt||Leftovers|PoisonPuppeteer|nastyplot,recover,shadowball,malignantchain||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Weavile||HeavyDutyBoots|Pickpocket|tripleaxel,lowkick,knockoff,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Fighting]Greninja||LifeOrb|Protean|gunkshot,grassknot,hydropump,darkpulse||85,85,85,85,85,85|M|||80|,,,,,Poison]Volbeat||HeavyDutyBoots|Prankster|encore,roost,uturn,thunderwave||85,85,85,85,85,85|M|||90|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 80
+  }
 }

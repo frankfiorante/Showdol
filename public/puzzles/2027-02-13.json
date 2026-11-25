@@ -20,5 +20,9 @@
     "Blastoise"
   ],
   "player": "Abomasnow||LightClay|SnowWarning|woodhammer,earthquake,auroraveil,blizzard||77,85,85,85,85,85|M|||84|,,,,,Water]Meloetta||Leftovers|SereneGrace|focusblast,calmmind,psyshock,hypervoice||85,,85,85,85,85|N|,0,,,,||82|,,,,,Normal]Arcanine||HeavyDutyBoots|Intimidate|extremespeed,flareblitz,morningsun,closecombat||85,85,85,85,85,85|M|||84|,,,,,Normal]Roaring Moon||LumBerry|Protosynthesis|knockoff,roost,dragondance,outrage||85,85,85,85,85,85|N|||72|,,,,,Dragon]Houndoom||HeavyDutyBoots|FlashFire|darkpulse,fireblast,suckerpunch,sludgebomb||85,85,85,85,85,85|M|||87|,,,,,Fire]Blastoise||WhiteHerb|Torrent|earthquake,shellsmash,icebeam,hydropump||85,85,85,85,85,85|F|||80|,,,,,Water",
-  "ai": "Crawdaunt||LifeOrb|Adaptability|dragondance,aquajet,crabhammer,knockoff||85,85,85,85,85,85|F|||84|,,,,,Water]Revavroom||LifeOrb|Filter|ironhead,highhorsepower,gunkshot,shiftgear||85,85,85,85,85,85|F|||79|,,,,,Ground]Smeargle||WideLens|Technician|spore,powertrip,shellsmash,populationbomb||85,85,85,85,85,85|F|||95|,,,,,Ghost]Noivern||HeavyDutyBoots|Infiltrator|roost,flamethrower,hurricane,dracometeor||85,,85,85,85,85|F|,0,,,,||82|,,,,,Fire]Mewtwo||LifeOrb|Unnerve|nastyplot,psystrike,fireblast,darkpulse||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire]Bruxish||LifeOrb|StrongJaw|wavecrash,psychicfangs,swordsdance,crunch||85,85,85,85,85,85|M|||85|,,,,,Dark"
+  "ai": "Crawdaunt||LifeOrb|Adaptability|dragondance,aquajet,crabhammer,knockoff||85,85,85,85,85,85|F|||84|,,,,,Water]Revavroom||LifeOrb|Filter|ironhead,highhorsepower,gunkshot,shiftgear||85,85,85,85,85,85|F|||79|,,,,,Ground]Smeargle||WideLens|Technician|spore,powertrip,shellsmash,populationbomb||85,85,85,85,85,85|F|||95|,,,,,Ghost]Noivern||HeavyDutyBoots|Infiltrator|roost,flamethrower,hurricane,dracometeor||85,,85,85,85,85|F|,0,,,,||82|,,,,,Fire]Mewtwo||LifeOrb|Unnerve|nastyplot,psystrike,fireblast,darkpulse||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire]Bruxish||LifeOrb|StrongJaw|wavecrash,psychicfangs,swordsdance,crunch||85,85,85,85,85,85|M|||85|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 70
+  }
 }

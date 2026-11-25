@@ -20,5 +20,9 @@
     "Latios"
   ],
   "player": "Scovillain||ChoiceScarf|Chlorophyll|energyball,leafstorm,flamethrower,overheat||85,,85,85,85,85|F|,0,,,,||91|,,,,,Grass]Shiftry||LifeOrb|WindRider|leafblade,knockoff,lowkick,tailwind||85,85,85,85,85,85|F|||89|,,,,,Dark]Lugia||HeavyDutyBoots|Multiscale|aeroblast,recover,calmmind,earthpower||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Garganacl||Leftovers|PurifyingSalt|saltcure,bodypress,recover,stealthrock||85,85,85,85,85,85|M|||80|,,,,,Ghost]Chien-Pao||HeavyDutyBoots|SwordofRuin|iciclecrash,sacredsword,throatchop,swordsdance||85,85,85,85,85,85|N|||72|,,,,,Dark]Latios||SoulDew|Levitate|recover,lusterpurge,dracometeor,aurasphere||85,,85,85,85,85|M|,0,,,,||78|,,,,,Fighting",
-  "ai": "Cinccino||LoadedDice|Technician|tripleaxel,tailslap,tidyup,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Normal]Stantler||Eviolite|Intimidate|shadowball,terablast,earthpower,calmmind||85,85,85,85,85,85|F|||90|,,,,,Fairy]Abomasnow||LightClay|SnowWarning|iceshard,auroraveil,woodhammer,blizzard||77,85,85,85,85,85|F|||84|,,,,,Water]Toxicroak||LifeOrb|DrySkin|closecombat,swordsdance,earthquake,gunkshot||85,85,85,85,85,85|M|||84|,,,,,Dark]Hitmontop||Leftovers|Technician|closecombat,bulkup,tripleaxel,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Ice]Sandy Shocks||HeavyDutyBoots|Protosynthesis|voltswitch,thunderbolt,earthpower,spikes||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass"
+  "ai": "Cinccino||LoadedDice|Technician|tripleaxel,tailslap,tidyup,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Normal]Stantler||Eviolite|Intimidate|shadowball,terablast,earthpower,calmmind||85,85,85,85,85,85|F|||90|,,,,,Fairy]Abomasnow||LightClay|SnowWarning|iceshard,auroraveil,woodhammer,blizzard||77,85,85,85,85,85|F|||84|,,,,,Water]Toxicroak||LifeOrb|DrySkin|closecombat,swordsdance,earthquake,gunkshot||85,85,85,85,85,85|M|||84|,,,,,Dark]Hitmontop||Leftovers|Technician|closecombat,bulkup,tripleaxel,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Ice]Sandy Shocks||HeavyDutyBoots|Protosynthesis|voltswitch,thunderbolt,earthpower,spikes||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass",
+  "curation": {
+    "battles": 100,
+    "playerWins": 47
+  }
 }

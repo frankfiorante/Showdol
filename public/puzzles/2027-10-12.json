@@ -20,5 +20,9 @@
     "Weavile"
   ],
   "player": "Kingdra||LifeOrb|SwiftSwim|dracometeor,hurricane,raindance,wavecrash||85,85,85,85,85,85|F|||84|,,,,,Water]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|surf,alluringvoice,psychic,thunderbolt||85,,85,85,85,85|M|,0,,,,||87|,,,,,Fairy]Maushold||WideLens|Technician|bite,tidyup,populationbomb,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Iron Hands||AssaultVest|QuarkDrive|voltswitch,heavyslam,wildcharge,closecombat||85,85,85,85,85,85|N|||79|,,,,,Fighting]Mewtwo||LifeOrb|Pressure|aurasphere,nastyplot,darkpulse,psystrike||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fighting]Weavile||HeavyDutyBoots|Pickpocket|knockoff,lowkick,swordsdance,tripleaxel||85,85,85,85,85,85|F|||79|,,,,,Ice",
-  "ai": "Pachirisu||AssaultVest|VoltAbsorb|nuzzle,uturn,superfang,thunderbolt||85,85,85,85,85,85|F|||96|,,,,,Flying]Uxie||Leftovers|Levitate|psyshock,nastyplot,drainingkiss,encore||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy]Vaporeon||Leftovers|WaterAbsorb|wish,calmmind,scald,protect||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Tyranitar||Leftovers|SandStream|stoneedge,earthquake,thunderwave,knockoff||85,85,85,85,85,85|M|||78|,,,,,Ghost]Clefable||Leftovers|Unaware|fireblast,moonlight,moonblast,calmmind||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fire]Hypno||Leftovers|Insomnia|encore,knockoff,toxic,psychicnoise||85,85,85,85,85,85|M|||95|,,,,,Dark"
+  "ai": "Pachirisu||AssaultVest|VoltAbsorb|nuzzle,uturn,superfang,thunderbolt||85,85,85,85,85,85|F|||96|,,,,,Flying]Uxie||Leftovers|Levitate|psyshock,nastyplot,drainingkiss,encore||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy]Vaporeon||Leftovers|WaterAbsorb|wish,calmmind,scald,protect||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Tyranitar||Leftovers|SandStream|stoneedge,earthquake,thunderwave,knockoff||85,85,85,85,85,85|M|||78|,,,,,Ghost]Clefable||Leftovers|Unaware|fireblast,moonlight,moonblast,calmmind||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fire]Hypno||Leftovers|Insomnia|encore,knockoff,toxic,psychicnoise||85,85,85,85,85,85|M|||95|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 78
+  }
 }

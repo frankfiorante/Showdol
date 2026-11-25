@@ -20,5 +20,9 @@
     "Chien-Pao"
   ],
   "player": "Regigigas||Leftovers|SlowStart|bodyslam,substitute,protect,knockoff||85,85,85,85,85,85|N|||84|,,,,,Poison]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Steel]Dugtrio||ChoiceBand|ArenaTrap|earthquake,throatchop,suckerpunch,stoneedge||85,85,85,85,85,85|M|||84|,,,,,Dark]Raging Bolt||BoosterEnergy|Protosynthesis|thunderbolt,thunderclap,dragonpulse,calmmind||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Leafeon||LifeOrb|Chlorophyll|swordsdance,leafblade,synthesis,doubleedge||85,85,85,85,85,85|M|||88|,,,,,Normal]Chien-Pao||ChoiceBand|SwordofRuin|sacredsword,iceshard,iciclecrash,throatchop||85,85,85,85,85,85|N|||72|,,,,,Fighting",
-  "ai": "Mabosstiff||ChoiceScarf|Stakeout|psychicfangs,wildcharge,crunch,playrough||85,85,85,85,85,85|F|||86|,,,,,Fairy]Blaziken||LifeOrb|SpeedBoost|protect,flareblitz,closecombat,swordsdance||85,85,85,85,85,85|F|||76|,,,,,Fighting]Torkoal||HeavyDutyBoots|Drought|solarbeam,lavaplume,stealthrock,earthquake||85,85,85,85,85,85|M|||88|,,,,,Grass]Meloetta||LifeOrb|SereneGrace|closecombat,tripleaxel,knockoff,relicsong||85,85,85,85,85,85|N|||82|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,defog,hydropump||85,85,85,85,85,85|F|||89|,,,,,Ground]Vespiquen||HeavyDutyBoots|Pressure|hurricane,roost,toxic,uturn||85,85,85,85,85,85|F|||99|,,,,,Steel"
+  "ai": "Mabosstiff||ChoiceScarf|Stakeout|psychicfangs,wildcharge,crunch,playrough||85,85,85,85,85,85|F|||86|,,,,,Fairy]Blaziken||LifeOrb|SpeedBoost|protect,flareblitz,closecombat,swordsdance||85,85,85,85,85,85|F|||76|,,,,,Fighting]Torkoal||HeavyDutyBoots|Drought|solarbeam,lavaplume,stealthrock,earthquake||85,85,85,85,85,85|M|||88|,,,,,Grass]Meloetta||LifeOrb|SereneGrace|closecombat,tripleaxel,knockoff,relicsong||85,85,85,85,85,85|N|||82|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,defog,hydropump||85,85,85,85,85,85|F|||89|,,,,,Ground]Vespiquen||HeavyDutyBoots|Pressure|hurricane,roost,toxic,uturn||85,85,85,85,85,85|F|||99|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 45
+  }
 }

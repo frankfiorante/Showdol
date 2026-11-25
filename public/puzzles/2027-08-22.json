@@ -20,5 +20,9 @@
     "Pecharunt"
   ],
   "player": "Calyrex|CalyrexIce|WeaknessPolicy|AsOneGlastrier|glaciallance,closecombat,highhorsepower,agility||85,85,85,85,85,85|N|||72|,,,,,Fighting]Grimmsnarl||LightClay|Prankster|partingshot,spiritbreak,reflect,lightscreen||85,85,85,85,85,85|M|||83|,,,,,Steel]Serperior||LifeOrb|Contrary|synthesis,leafstorm,glare,dragonpulse||85,,85,85,85,85|M|,0,,,,||79|,,,,,Dragon]Umbreon||Leftovers|Synchronize|protect,foulplay,wish,toxic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|hurricane,calmmind,psyshock,recover||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,shadowball,recover,partingshot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark",
-  "ai": "Sandslash||Leftovers|SandRush|earthquake,spikes,knockoff,rapidspin||85,85,85,85,85,85|F|||89|,,,,,Dragon]Phione||Leftovers|Hydration|grassknot,scald,icebeam,takeheart||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Milotic||Leftovers|Competitive|scald,icebeam,dragontail,recover||85,85,85,85,85,85|M|||83|,,,,,Dragon]Zacian||LifeOrb|IntrepidSword|playrough,swordsdance,closecombat,crunch||85,85,85,85,85,85|N|||69|,,,,,Fighting]Mismagius||ChoiceSpecs|Levitate|mysticalfire,dazzlinggleam,shadowball,energyball||85,,85,85,85,85|M|,0,,,,||86|,,,,,Ghost]Spectrier||LifeOrb|GrimNeigh|shadowball,nastyplot,darkpulse,drainingkiss||85,,85,85,85,85|N|,0,,,,||75|,,,,,Dark"
+  "ai": "Sandslash||Leftovers|SandRush|earthquake,spikes,knockoff,rapidspin||85,85,85,85,85,85|F|||89|,,,,,Dragon]Phione||Leftovers|Hydration|grassknot,scald,icebeam,takeheart||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Milotic||Leftovers|Competitive|scald,icebeam,dragontail,recover||85,85,85,85,85,85|M|||83|,,,,,Dragon]Zacian||LifeOrb|IntrepidSword|playrough,swordsdance,closecombat,crunch||85,85,85,85,85,85|N|||69|,,,,,Fighting]Mismagius||ChoiceSpecs|Levitate|mysticalfire,dazzlinggleam,shadowball,energyball||85,,85,85,85,85|M|,0,,,,||86|,,,,,Ghost]Spectrier||LifeOrb|GrimNeigh|shadowball,nastyplot,darkpulse,drainingkiss||85,,85,85,85,85|N|,0,,,,||75|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 32
+  }
 }

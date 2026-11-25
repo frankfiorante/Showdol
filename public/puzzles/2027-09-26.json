@@ -20,5 +20,9 @@
     "Entei"
   ],
   "player": "Seviper||LifeOrb|Infiltrator|knockoff,gunkshot,flamethrower,earthquake||85,85,85,85,85,85|F|||93|,,,,,Dark]Tauros|TaurosPaldeaAqua|LifeOrb|Intimidate|liquidation,aquajet,closecombat,bulkup||85,85,85,85,85,85|M|||81|,,,,,Water]Jumpluff|||Infiltrator|uturn,acrobatics,sleeppowder,strengthsap||81,85,85,85,85,85|M|||87|,,,,,Steel]Decidueye||AssaultVest|Overgrow|knockoff,spiritshackle,uturn,leafstorm||85,85,85,85,85,85|F|||88|,,,,,Grass]Zacian||RustedSword|IntrepidSword|closecombat,swordsdance,playrough,behemothblade||85,85,85,85,85,85|N|||64|,,,,,Fighting]Entei||ChoiceBand|InnerFocus|stoneedge,sacredfire,flareblitz,extremespeed||85,85,85,85,85,85|N|||78|,,,,,Fire",
-  "ai": "Rampardos||ChoiceScarf|SheerForce|headsmash,firepunch,earthquake,rockslide||85,85,85,85,85,85|F|||90|,,,,,Rock]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,hydropump,nastyplot,rapidspin||85,85,85,85,85,85|M|||87|,,,,,Steel]Hitmonlee||WhiteHerb|Unburden|knockoff,closecombat,swordsdance,poisonjab||85,85,85,85,85,85|M|||85|,,,,,Poison]Ludicolo||LifeOrb|SwiftSwim|gigadrain,hydropump,raindance,icebeam||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Mudsdale||Leftovers|Stamina|earthquake,stealthrock,stoneedge,heavyslam||85,85,85,85,85,85|M|||83|,,,,,Steel]Illumise||HeavyDutyBoots|Prankster|thunderwave,encore,bugbuzz,roost||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel"
+  "ai": "Rampardos||ChoiceScarf|SheerForce|headsmash,firepunch,earthquake,rockslide||85,85,85,85,85,85|F|||90|,,,,,Rock]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,hydropump,nastyplot,rapidspin||85,85,85,85,85,85|M|||87|,,,,,Steel]Hitmonlee||WhiteHerb|Unburden|knockoff,closecombat,swordsdance,poisonjab||85,85,85,85,85,85|M|||85|,,,,,Poison]Ludicolo||LifeOrb|SwiftSwim|gigadrain,hydropump,raindance,icebeam||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Mudsdale||Leftovers|Stamina|earthquake,stealthrock,stoneedge,heavyslam||85,85,85,85,85,85|M|||83|,,,,,Steel]Illumise||HeavyDutyBoots|Prankster|thunderwave,encore,bugbuzz,roost||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 64
+  }
 }

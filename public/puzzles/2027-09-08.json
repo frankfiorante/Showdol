@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,4d29027ff0913868c7c881d49d588537032100461a38e545a856a4cb5eae771e",
-    "ai": "sodium,dced76cd0d0be3b33c17e948a874eeb46f4447a0f224f2dfb098b061720b8d7c"
+    "player": "sodium,09c7eda3a3c73592cf4220dec83a68b2e9714496db610d9e431ef2827d84162a",
+    "ai": "sodium,72f58e9b645bd4e57ec9320fb4d4cbab57b94331e5e927016236aa76fd90bf17"
   },
   "playerSpecies": [
-    "Jolteon",
-    "Dudunsparce-Three-Segment",
-    "Sinistcha",
-    "Hitmonchan",
-    "Weezing-Galar",
-    "Lycanroc-Dusk"
+    "Mesprit",
+    "Veluza",
+    "Frosmoth",
+    "Vigoroth",
+    "Primarina",
+    "Porygon-Z"
   ],
-  "player": "Jolteon||LifeOrb|VoltAbsorb|calmmind,alluringvoice,shadowball,thunderbolt||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fairy]Dudunsparce|DudunsparceThreeSegment|Leftovers|Rattled|toxic,roost,earthquake,boomburst||85,85,85,85,85,85|M|||83|,,,,,Ground]Sinistcha||Leftovers|Heatproof|calmmind,matchagotcha,shadowball,strengthsap||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Hitmonchan||Leftovers|IronFist|drainpunch,swordsdance,rapidspin,knockoff||85,85,85,85,85,85|M|||87|,,,,,Dark]Weezing|WeezingGalar|Leftovers|Levitate|strangesteam,willowisp,painsplit,gunkshot||85,85,85,85,85,85|F|||86|,,,,,Steel]Lycanroc|LycanrocDusk|ChoiceBand|ToughClaws|psychicfangs,closecombat,stoneedge,accelerock||85,85,85,85,85,85|M|||81|,,,,,Fighting",
-  "ai": "Sandslash|SandslashAlola|Leftovers|SlushRush|ironhead,tripleaxel,rapidspin,spikes||85,85,85,85,85,85|F|||88|,,,,,Water]Feraligatr||LifeOrb|SheerForce|dragondance,icepunch,trailblaze,liquidation||85,85,85,85,85,85|M|||79|,,,,,Water]Passimian||ChoiceBand|Defiant|knockoff,gunkshot,uturn,closecombat||85,85,85,85,85,85|M|||83|,,,,,Dark]Virizion||LifeOrb|Justified|stoneedge,closecombat,swordsdance,leafblade||85,85,85,85,85,85|N|||82|,,,,,Rock]Braviary||HeavyDutyBoots|Defiant|closecombat,bulkup,roost,bravebird||85,85,85,85,85,85|M|||85|,,,,,Steel]Dragonite||HeavyDutyBoots|Multiscale|outrage,earthquake,dragondance,ironhead||85,85,85,85,85,85|M|||74|,,,,,Steel"
+  "player": "Mesprit||ChoiceScarf|Levitate|trick,psychic,thunderbolt,icebeam||85,,85,85,85,85|N|,0,,,,||85|,,,,,Electric]Veluza||SitrusBerry|Sharpness|filletaway,aquacutter,psychocut,nightslash||85,85,85,85,85,85|F|||85|,,,,,Water]Frosmoth||HeavyDutyBoots|IceScales|quiverdance,icebeam,bugbuzz,terablast||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Vigoroth||Eviolite|VitalSpirit|bulkup,slackoff,earthquake,bodyslam||85,85,85,85,85,85|F|||85|,,,,,Ground]Primarina||Leftovers|LiquidVoice|calmmind,moonblast,drainingkiss,psychicnoise||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Porygon-Z||ChoiceScarf|Adaptability|trick,thunderbolt,triattack,shadowball||85,,85,85,85,85|N|,0,,,,||83|,,,,,Electric",
+  "ai": "Metagross||WeaknessPolicy|ClearBody|earthquake,heavyslam,knockoff,agility||85,85,85,85,85,85|N|||79|,,,,,Ground]Dudunsparce|DudunsparceThreeSegment|Leftovers|Rattled|earthquake,roost,boomburst,toxic||85,85,85,85,85,85|F|||83|,,,,,Ground]Okidogi||AssaultVest|ToxicChain|gunkshot,knockoff,psychicfangs,drainpunch||85,85,85,85,85,85|M|||77|,,,,,Dark]Azumarill||SitrusBerry|HugePower|playrough,aquajet,liquidation,bellydrum||85,85,85,85,85,85|M|||82|,,,,,Water]Chi-Yu||ChoiceSpecs|BeadsofRuin|darkpulse,psychic,flamethrower,overheat||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Arboliva||Leftovers|SeedSower|energyball,hypervoice,strengthsap,earthpower||85,,85,85,85,85|M|,0,,,,||91|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 52
+  }
 }

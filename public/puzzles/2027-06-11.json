@@ -20,5 +20,9 @@
     "Drifblim"
   ],
   "player": "Orthworm||ChestoBerry|EarthEater|bodypress,irontail,rest,coil||85,85,85,85,85,85|M|||88|,,,,,Electric]Archaludon||LumBerry|Stamina|earthquake,swordsdance,outrage,ironhead||85,85,85,85,85,85|F|||77|,,,,,Ground]Grafaiai||HeavyDutyBoots|Prankster|encore,knockoff,gunkshot,partingshot||85,85,85,85,85,85|F|||86|,,,,,Dark]Flygon||ChoiceBand|Levitate|earthquake,stoneedge,uturn,outrage||85,85,85,85,85,85|M|||82|,,,,,Steel]Sceptile||Leftovers|Overgrow|gigadrain,leechseed,focusblast,substitute||85,,85,85,85,85|M|,0,,,,||87|,,,,,Steel]Drifblim||SitrusBerry|Unburden|shadowball,strengthsap,airslash,calmmind||73,,85,85,85,85|M|,0,,,,||86|,,,,,Steel",
-  "ai": "Dedenne||SitrusBerry|CheekPouch|thunderbolt,superfang,uturn,dazzlinggleam||85,85,85,85,85,85|M|||88|,,,,,Flying]Krookodile||Leftovers|Intimidate|gunkshot,knockoff,bulkup,earthquake||85,85,85,85,85,85|F|||79|,,,,,Poison]Chesnaught||Leftovers|Bulletproof|bodypress,trailblaze,synthesis,irondefense||85,85,85,85,85,85|M|||84|,,,,,Steel]Gyarados||HeavyDutyBoots|Intimidate|dragondance,earthquake,terablast,waterfall||85,85,85,85,85,85|M|||79|,,,,,Flying]Hitmonlee||ChoiceBand|Reckless|machpunch,poisonjab,knockoff,highjumpkick||81,85,85,85,85,85|M|||85|,,,,,Fighting]Vivillon|VivillonModern|HeavyDutyBoots|CompoundEyes|hurricane,bugbuzz,sleeppowder,quiverdance||85,,85,85,85,85|M|,0,,,,||83|,,,,,Flying"
+  "ai": "Dedenne||SitrusBerry|CheekPouch|thunderbolt,superfang,uturn,dazzlinggleam||85,85,85,85,85,85|M|||88|,,,,,Flying]Krookodile||Leftovers|Intimidate|gunkshot,knockoff,bulkup,earthquake||85,85,85,85,85,85|F|||79|,,,,,Poison]Chesnaught||Leftovers|Bulletproof|bodypress,trailblaze,synthesis,irondefense||85,85,85,85,85,85|M|||84|,,,,,Steel]Gyarados||HeavyDutyBoots|Intimidate|dragondance,earthquake,terablast,waterfall||85,85,85,85,85,85|M|||79|,,,,,Flying]Hitmonlee||ChoiceBand|Reckless|machpunch,poisonjab,knockoff,highjumpkick||81,85,85,85,85,85|M|||85|,,,,,Fighting]Vivillon|VivillonModern|HeavyDutyBoots|CompoundEyes|hurricane,bugbuzz,sleeppowder,quiverdance||85,,85,85,85,85|M|,0,,,,||83|,,,,,Flying",
+  "curation": {
+    "battles": 100,
+    "playerWins": 63
+  }
 }

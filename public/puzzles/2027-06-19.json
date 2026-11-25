@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,1c9ef5bb67b23f9426a81ae94fce8a85937aa2babf49e95ffeb6bb962d2d130f",
-    "ai": "sodium,750778826207a72739333e0ed66528692afe7869b862050cf52dbf4dc4e6d3e2"
+    "player": "sodium,3c616a320ac3941a95407bc00417bc940b473af05777684a0000e66f525a4e60",
+    "ai": "sodium,1a0f129d0482d3d65cb4efaba47480fbfca49d19f6ea945f56f6822f1e652fd1"
   },
   "playerSpecies": [
-    "Glaceon",
-    "Vespiquen",
-    "Arboliva",
-    "Snorlax",
-    "Scovillain",
-    "Palafin"
+    "Cinccino",
+    "Hitmonlee",
+    "Bruxish",
+    "Sawsbuck-Winter",
+    "Arbok",
+    "Scrafty"
   ],
-  "player": "Glaceon||HeavyDutyBoots|IceBody|calmmind,wish,freezedry,protect||85,,85,85,85,85|M|,0,,,,||94|,,,,,Water]Vespiquen||HeavyDutyBoots|Pressure|uturn,roost,airslash,toxicspikes||85,85,85,85,85,85|F|||99|,,,,,Steel]Arboliva||SitrusBerry|Harvest|leechseed,hypervoice,protect,substitute||77,,85,85,85,85|M|,0,,,,||91|,,,,,Poison]Snorlax||Leftovers|ThickFat|curse,bodyslam,rest,sleeptalk||85,85,85,85,85,85|F|||82|,,,,,Fairy]Scovillain||HeavyDutyBoots|Chlorophyll|sunnyday,fireblast,energyball,stompingtantrum||85,85,85,85,85,85|M|||91|,,,,,Fire]Palafin||Leftovers|ZerotoHero|jetpunch,drainpunch,bulkup,icepunch||85,85,85,85,85,85|M|||77|,,,,,Steel",
-  "ai": "Sandslash|SandslashAlola|Leftovers|SlushRush|rapidspin,swordsdance,earthquake,tripleaxel||85,85,85,85,85,85|M|||88|,,,,,Ground]Revavroom||LifeOrb|Filter|ironhead,highhorsepower,shiftgear,gunkshot||85,85,85,85,85,85|F|||79|,,,,,Ground]Lugia||HeavyDutyBoots|Multiscale|earthpower,aeroblast,recover,calmmind||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Pecharunt||Leftovers|PoisonPuppeteer|nastyplot,malignantchain,recover,shadowball||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Groudon||Leftovers|Drought|swordsdance,heatcrash,precipiceblades,stoneedge||85,85,85,85,85,85|N|||72|,,,,,Fire]Hydrapple||AssaultVest|Regenerator|leafstorm,ficklebeam,dragontail,earthpower||85,85,85,85,85,85|F|||83|,,,,,Steel"
+  "player": "Cinccino||LoadedDice|Technician|tripleaxel,bulletseed,uturn,tailslap||85,85,85,85,85,85|M|||83|,,,,,Normal]Hitmonlee||ChoiceBand|Reckless|knockoff,machpunch,poisonjab,highjumpkick||81,85,85,85,85,85|M|||85|,,,,,Fighting]Bruxish||ChoiceScarf|StrongJaw|flipturn,wavecrash,crunch,psychicfangs||85,85,85,85,85,85|F|||85|,,,,,Psychic]Sawsbuck|SawsbuckWinter|LifeOrb|SereneGrace|swordsdance,headbutt,hornleech,highhorsepower||85,85,85,85,85,85|F|||88|,,,,,Normal]Arbok||Leftovers|Intimidate|knockoff,glare,toxicspikes,gunkshot||85,85,85,85,85,85|M|||87|,,,,,Dark]Scrafty||Leftovers|Intimidate|poisonjab,dragondance,knockoff,drainpunch||85,85,85,85,85,85|M|||83|,,,,,Poison",
+  "ai": "Wigglytuff||Leftovers|Competitive|alluringvoice,wish,protect,thunderwave||85,,85,85,85,85|M|,0,,,,||96|,,,,,Poison]Grimmsnarl||Leftovers|Prankster|spiritbreak,taunt,suckerpunch,partingshot||85,85,85,85,85,85|M|||83|,,,,,Steel]Solgaleo||WeaknessPolicy|FullMetalBody|flamecharge,psychic,sunsteelstrike,earthquake||85,85,85,85,85,85|N|||74|,,,,,Ground]Tornadus||ChoiceSpecs|Defiant|heatwave,bleakwindstorm,uturn,grassknot||81,85,85,85,85,85|M|||82|,,,,,Flying]Vespiquen||HeavyDutyBoots|Pressure|airslash,roost,uturn,toxic||85,85,85,85,85,85|F|||99|,,,,,Steel]Necrozma||LifeOrb|PrismArmor|earthquake,knockoff,photongeyser,swordsdance||85,85,85,85,85,85|N|||80|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 23
+  }
 }

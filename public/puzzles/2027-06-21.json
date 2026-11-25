@@ -20,5 +20,9 @@
     "Leavanny"
   ],
   "player": "Fezandipiti||Leftovers|ToxicChain|terablast,playrough,gunkshot,swordsdance||85,85,85,85,85,85|M|||82|,,,,,Ground]Quagsire||Leftovers|Unaware|spikes,toxic,recover,earthquake||85,85,85,85,85,85|M|||84|,,,,,Poison]Krookodile||ChoiceScarf|Intimidate|knockoff,stoneedge,earthquake,gunkshot||85,85,85,85,85,85|F|||79|,,,,,Poison]Braviary|BraviaryHisui|LifeOrb|SheerForce|heatwave,agility,psychic,hurricane||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fairy]Chandelure||HeavyDutyBoots|FlashFire|shadowball,energyball,calmmind,fireblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Grass]Leavanny||LoadedDice|Chlorophyll|tripleaxel,bulletseed,stickyweb,knockoff||85,85,85,85,85,85|F|||86|,,,,,Rock",
-  "ai": "Perrserker||LifeOrb|ToughClaws|knockoff,ironhead,closecombat,stealthrock||85,85,85,85,85,85|M|||89|,,,,,Fighting]Latios||SoulDew|Levitate|aurasphere,recover,dracometeor,lusterpurge||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Walking Wake||LifeOrb|Protosynthesis|dracometeor,sunnyday,hydrosteam,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Samurott||LifeOrb|Torrent|knockoff,liquidation,swordsdance,aquajet||85,85,85,85,85,85|F|||88|,,,,,Dark]Farigiraf||Leftovers|SapSipper|protect,wish,bodyslam,psychicnoise||85,85,85,85,85,85|M|||89|,,,,,Fairy]Zebstrika||LifeOrb|SapSipper|voltswitch,overheat,highhorsepower,supercellslam||85,85,85,85,85,85|M|||87|,,,,,Ground"
+  "ai": "Perrserker||LifeOrb|ToughClaws|knockoff,ironhead,closecombat,stealthrock||85,85,85,85,85,85|M|||89|,,,,,Fighting]Latios||SoulDew|Levitate|aurasphere,recover,dracometeor,lusterpurge||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Walking Wake||LifeOrb|Protosynthesis|dracometeor,sunnyday,hydrosteam,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Samurott||LifeOrb|Torrent|knockoff,liquidation,swordsdance,aquajet||85,85,85,85,85,85|F|||88|,,,,,Dark]Farigiraf||Leftovers|SapSipper|protect,wish,bodyslam,psychicnoise||85,85,85,85,85,85|M|||89|,,,,,Fairy]Zebstrika||LifeOrb|SapSipper|voltswitch,overheat,highhorsepower,supercellslam||85,85,85,85,85,85|M|||87|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 51
+  }
 }

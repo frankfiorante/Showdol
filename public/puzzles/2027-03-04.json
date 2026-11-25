@@ -20,5 +20,9 @@
     "Landorus-Therian"
   ],
   "player": "Okidogi||AssaultVest|ToxicChain|psychicfangs,knockoff,gunkshot,drainpunch||85,85,85,85,85,85|M|||77|,,,,,Dark]Iron Hands||Leftovers|QuarkDrive|wildcharge,swordsdance,icepunch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Spectrier||Leftovers|GrimNeigh|nastyplot,substitute,shadowball,terablast||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Torkoal||HeavyDutyBoots|Drought|rapidspin,lavaplume,solarbeam,yawn||85,85,85,85,85,85|M|||88|,,,,,Grass]Feraligatr||LifeOrb|SheerForce|trailblaze,liquidation,icepunch,dragondance||85,85,85,85,85,85|M|||79|,,,,,Water]Landorus|LandorusTherian|Leftovers|Intimidate|stoneedge,stealthrock,earthquake,uturn||85,85,85,85,85,85|M|||76|,,,,,Water",
-  "ai": "Mightyena||AssaultVest|Intimidate|crunch,poisonfang,superfang,suckerpunch||85,85,85,85,85,85|F|||96|,,,,,Poison]Blastoise||WhiteHerb|Torrent|hydropump,earthquake,icebeam,shellsmash||85,85,85,85,85,85|F|||80|,,,,,Ground]Chandelure||Leftovers|FlashFire|substitute,fireblast,calmmind,shadowball||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire]Solgaleo||RockyHelmet|FullMetalBody|morningsun,sunsteelstrike,psychicfangs,roar||85,85,85,85,85,85|N|||74|,,,,,Water]Klawf||ExpertBelt|AngerShell|highhorsepower,swordsdance,knockoff,stoneedge||85,85,85,85,85,85|F|||90|,,,,,Rock]Bombirdier||HeavyDutyBoots|RockyPayload|roost,bravebird,knockoff,stoneedge||85,85,85,85,85,85|M|||85|,,,,,Rock"
+  "ai": "Mightyena||AssaultVest|Intimidate|crunch,poisonfang,superfang,suckerpunch||85,85,85,85,85,85|F|||96|,,,,,Poison]Blastoise||WhiteHerb|Torrent|hydropump,earthquake,icebeam,shellsmash||85,85,85,85,85,85|F|||80|,,,,,Ground]Chandelure||Leftovers|FlashFire|substitute,fireblast,calmmind,shadowball||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire]Solgaleo||RockyHelmet|FullMetalBody|morningsun,sunsteelstrike,psychicfangs,roar||85,85,85,85,85,85|N|||74|,,,,,Water]Klawf||ExpertBelt|AngerShell|highhorsepower,swordsdance,knockoff,stoneedge||85,85,85,85,85,85|F|||90|,,,,,Rock]Bombirdier||HeavyDutyBoots|RockyPayload|roost,bravebird,knockoff,stoneedge||85,85,85,85,85,85|M|||85|,,,,,Rock",
+  "curation": {
+    "battles": 100,
+    "playerWins": 28
+  }
 }

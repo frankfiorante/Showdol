@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,826806b7eae45fc6d57ffd6f3d4e5b3adcc08d61c2b1189ba7734c7edc201d27",
-    "ai": "sodium,42bc4272258635048b53922a8335ceb2b74b837d67b25d45931bd0518cb48cfb"
+    "player": "sodium,1e2031148c2737d33144fe444bac87a42fbf32e530b617e77d8d25cb9db9bb68",
+    "ai": "sodium,0c912b6f8054712b0488a724a264e4290cabc6f0b926f33083c4835d3db83c96"
   },
   "playerSpecies": [
-    "Kyurem-White",
-    "Politoed",
-    "Infernape",
-    "Dachsbun",
-    "Iron Crown",
-    "Keldeo-Resolute"
+    "Tsareena",
+    "Klefki",
+    "Scrafty",
+    "Entei",
+    "Arceus",
+    "Rillaboom"
   ],
-  "player": "Kyurem|KyuremWhite|ChoiceScarf|Turboblaze|icebeam,dracometeor,freezedry,earthpower||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ice]Politoed||Leftovers|Drizzle|haze,surf,encore,icebeam||85,,85,85,85,85|M|,0,,,,||88|,,,,,Water]Infernape||LifeOrb|Blaze|swordsdance,knockoff,flareblitz,closecombat||85,85,85,85,85,85|F|||82|,,,,,Fire]Dachsbun||Leftovers|WellBakedBody|bodypress,protect,wish,playrough||85,85,85,85,85,85|M|||92|,,,,,Steel]Iron Crown||Leftovers|QuarkDrive|focusblast,psyshock,calmmind,tachyoncutter||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Keldeo|KeldeoResolute|Leftovers|Justified|substitute,calmmind,secretsword,surf||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel",
-  "ai": "Flutter Mane||LifeOrb|Protosynthesis|calmmind,moonblast,shadowball,thunderbolt||85,,85,85,85,85|N|,0,,,,||74|,,,,,Electric]Solgaleo||Leftovers|FullMetalBody|earthquake,sunsteelstrike,morningsun,closecombat||85,85,85,85,85,85|N|||74|,,,,,Water]Salazzle||Leftovers|Corrosion|substitute,flamethrower,protect,toxic||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Terapagos||ChestoBerry|TeraShift|terastarstorm,calmmind,rest,darkpulse||85,,85,85,85,85|M|,0,,,,||77|,,,,,Stellar]Drednaw||WhiteHerb|StrongJaw|stoneedge,crunch,shellsmash,liquidation||85,85,85,85,85,85|M|||81|,,,,,Dark]Snorlax||Leftovers|ThickFat|curse,earthquake,crunch,bodyslam||85,85,85,85,85,85|M|||82|,,,,,Poison"
+  "player": "Tsareena||ChoiceScarf|QueenlyMajesty|uturn,tripleaxel,highjumpkick,powerwhip||85,85,85,85,85,85|F|||87|,,,,,Fighting]Klefki||Leftovers|Prankster|dazzlinggleam,thunderwave,spikes,foulplay||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Scrafty||Leftovers|ShedSkin|bulkup,rest,drainpunch,knockoff||85,85,85,85,85,85|M|||83|,,,,,Poison]Entei||ChoiceBand|InnerFocus|flareblitz,sacredfire,extremespeed,stompingtantrum||85,85,85,85,85,85|N|||78|,,,,,Fire]Arceus||LifeOrb|Multitype|recover,extremespeed,swordsdance,earthquake||85,85,85,85,85,85|N|||68|,,,,,Normal]Rillaboom||LifeOrb|GrassySurge|swordsdance,grassyglide,woodhammer,highhorsepower||85,85,85,85,85,85|F|||79|,,,,,Grass",
+  "ai": "Dunsparce||Eviolite|SereneGrace|coil,earthquake,bodyslam,roost||85,85,85,85,85,85|F|||86|,,,,,Ghost]Toedscruel||AssaultVest|MyceliumMight|earthpower,knockoff,gigadrain,rapidspin||85,85,85,85,85,85|M|||87|,,,,,Water]Orthworm||ChestoBerry|EarthEater|irontail,rest,bodypress,coil||85,85,85,85,85,85|M|||88|,,,,,Fighting]Gyarados||HeavyDutyBoots|Intimidate|waterfall,terablast,earthquake,dragondance||85,85,85,85,85,85|M|||79|,,,,,Flying]Morpeko||Leftovers|HungerSwitch|knockoff,aurawheel,protect,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Electric]Uxie||Leftovers|Levitate|encore,nastyplot,drainingkiss,psyshock||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy",
+  "curation": {
+    "battles": 100,
+    "playerWins": 44
+  }
 }

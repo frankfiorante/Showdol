@@ -20,5 +20,9 @@
     "Metagross"
   ],
   "player": "Deoxys|DeoxysDefense|RockyHelmet|Pressure|psychicnoise,teleport,stealthrock,recover||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Samurott||LifeOrb|Torrent|swordsdance,sacredsword,liquidation,knockoff||85,85,85,85,85,85|F|||88|,,,,,Dark]Bellossom||Leftovers|Chlorophyll|quiverdance,sludgebomb,strengthsap,gigadrain||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Hitmonlee||ChoiceBand|Reckless|highjumpkick,machpunch,knockoff,poisonjab||81,85,85,85,85,85|M|||85|,,,,,Fighting]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|suckerpunch,earthquake,swordsdance,ironhead||85,85,85,85,85,85|F|||84|,,,,,Steel]Metagross||ChoiceBand|ClearBody|bulletpunch,heavyslam,psychicfangs,knockoff||85,85,85,85,85,85|N|||79|,,,,,Water",
-  "ai": "Cinccino||LoadedDice|Technician|bulletseed,tailslap,tidyup,tripleaxel||85,85,85,85,85,85|F|||83|,,,,,Grass]Meowscarada||LifeOrb|Protean|flowertrick,toxicspikes,tripleaxel,knockoff||85,85,85,85,85,85|M|||78|,,,,,Dark]Torkoal||HeavyDutyBoots|Drought|yawn,rapidspin,solarbeam,lavaplume||85,85,85,85,85,85|F|||88|,,,,,Grass]Sneasler||ChoiceBand|PoisonTouch|throatchop,closecombat,direclaw,uturn||85,85,85,85,85,85|F|||74|,,,,,Dark]Mudsdale||Leftovers|Stamina|stealthrock,roar,earthquake,heavyslam||85,85,85,85,85,85|M|||83|,,,,,Steel]Dudunsparce||Leftovers|Rattled|calmmind,roost,shadowball,boomburst||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost"
+  "ai": "Cinccino||LoadedDice|Technician|bulletseed,tailslap,tidyup,tripleaxel||85,85,85,85,85,85|F|||83|,,,,,Grass]Meowscarada||LifeOrb|Protean|flowertrick,toxicspikes,tripleaxel,knockoff||85,85,85,85,85,85|M|||78|,,,,,Dark]Torkoal||HeavyDutyBoots|Drought|yawn,rapidspin,solarbeam,lavaplume||85,85,85,85,85,85|F|||88|,,,,,Grass]Sneasler||ChoiceBand|PoisonTouch|throatchop,closecombat,direclaw,uturn||85,85,85,85,85,85|F|||74|,,,,,Dark]Mudsdale||Leftovers|Stamina|stealthrock,roar,earthquake,heavyslam||85,85,85,85,85,85|M|||83|,,,,,Steel]Dudunsparce||Leftovers|Rattled|calmmind,roost,shadowball,boomburst||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost",
+  "curation": {
+    "battles": 100,
+    "playerWins": 26
+  }
 }

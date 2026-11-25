@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,f72e5ea5656f2e5336479e32036314f20dd9504a9610c6d77292d6bcd3584fdc",
-    "ai": "sodium,d962bc2a41285a4885c5bd2dcfbc90a1571a0aad6d7135f85158f87c182b5f84"
+    "player": "sodium,b09e66f2863ea43301ed444e8e1c25990818844bb754a8fa6ca813a4232db485",
+    "ai": "sodium,fda9da23592c4b182996e6f6bfd5cba6b8b17bd1596c7ee07cef6545248db515"
   },
   "playerSpecies": [
-    "Tornadus",
-    "Exeggutor-Alola",
-    "Glalie",
-    "Gumshoos",
-    "Garganacl",
-    "Salazzle"
+    "Ludicolo",
+    "Florges-Yellow",
+    "Salamence",
+    "Vikavolt",
+    "Palkia-Origin",
+    "Hypno"
   ],
-  "player": "Tornadus||HeavyDutyBoots|Prankster|nastyplot,focusblast,bleakwindstorm,heatwave||85,,85,85,85,85|M|,0,,,,||82|,,,,,Flying]Exeggutor|ExeggutorAlola|SitrusBerry|Harvest|flamethrower,calmmind,dragonpulse,gigadrain||85,,85,85,85,85|F|,0,,,,||89|,,,,,Steel]Glalie||HeavyDutyBoots|InnerFocus|earthquake,freezedry,spikes,taunt||85,85,85,85,85,85|M|||96|,,,,,Ground]Gumshoos||ChoiceBand|Stakeout|earthquake,uturn,doubleedge,knockoff||85,85,85,85,85,85|F|||95|,,,,,Normal]Garganacl||Leftovers|PurifyingSalt|bodypress,saltcure,irondefense,recover||85,85,85,85,85,85|M|||80|,,,,,Dragon]Salazzle||Leftovers|Corrosion|substitute,protect,flamethrower,toxic||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying",
-  "ai": "Porygon-Z||LifeOrb|Adaptability|shadowball,terablast,nastyplot,agility||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fighting]Dusknoir||Leftovers|Frisk|poltergeist,substitute,painsplit,focuspunch||85,85,85,85,85,85|F|||89|,,,,,Fighting]Tinkaton||Leftovers|MoldBreaker|playrough,swordsdance,protect,gigatonhammer||85,85,85,85,85,85|F|||82|,,,,,Steel]Arboliva||SitrusBerry|Harvest|protect,hypervoice,leechseed,substitute||77,,85,85,85,85|M|,0,,,,||91|,,,,,Poison]Tropius||SitrusBerry|Harvest|protect,leechseed,substitute,airslash||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Dewgong||HeavyDutyBoots|ThickFat|encore,surf,flipturn,tripleaxel||85,85,85,85,85,85|F|||94|,,,,,Poison"
+  "player": "Ludicolo||LifeOrb|SwiftSwim|icebeam,hydropump,gigadrain,raindance||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Florges|FlorgesYellow|Leftovers|FlowerVeil|moonblast,terablast,calmmind,synthesis||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground]Salamence||HeavyDutyBoots|Moxie|outrage,dragondance,roost,dualwingbeat||85,85,85,85,85,85|M|||77|,,,,,Dragon]Vikavolt||HeavyDutyBoots|Levitate|stickyweb,bugbuzz,discharge,voltswitch||85,,85,85,85,85|M|,0,,,,||83|,,,,,Electric]Palkia|PalkiaOrigin|LustrousGlobe|Pressure|fireblast,hydropump,spacialrend,thunderwave||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire]Hypno||Leftovers|Insomnia|psychicnoise,toxic,protect,focusblast||85,,85,85,85,85|F|,0,,,,||95|,,,,,Steel",
+  "ai": "Regigigas||Leftovers|SlowStart|knockoff,bodyslam,substitute,protect||85,85,85,85,85,85|N|||84|,,,,,Poison]Rhydon||Eviolite|LightningRod|stoneedge,earthquake,megahorn,stealthrock||85,85,85,85,85,85|F|||85|,,,,,Fairy]Sableye||Leftovers|Prankster|encore,recover,thunderwave,knockoff||85,85,85,85,85,85|M|||87|,,,,,Steel]Scovillain||HeavyDutyBoots|Chlorophyll|fireblast,sunnyday,energyball,stompingtantrum||85,85,85,85,85,85|M|||91|,,,,,Fire]Girafarig||Eviolite|SapSipper|thunderbolt,nastyplot,shadowball,psychic||85,,85,85,85,85|F|,0,,,,||89|,,,,,Electric]Rillaboom||LifeOrb|GrassySurge|swordsdance,woodhammer,grassyglide,knockoff||85,85,85,85,85,85|M|||79|,,,,,Grass",
+  "curation": {
+    "battles": 100,
+    "playerWins": 59
+  }
 }

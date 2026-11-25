@@ -20,5 +20,9 @@
     "Spiritomb"
   ],
   "player": "Chimecho||Leftovers|Levitate|dazzlinggleam,psychicnoise,recover,calmmind||85,,85,85,85,85|M|,0,,,,||93|,,,,,Steel]Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|recover,psyshock,calmmind,hurricane||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Squawkabilly|SquawkabillyWhite|ChoiceBand|Hustle|quickattack,foulplay,doubleedge,bravebird||85,85,85,85,85,85|M|||89|,,,,,Flying]Grimmsnarl||LightClay|Prankster|reflect,spiritbreak,lightscreen,thunderwave||85,85,85,85,85,85|M|||83|,,,,,Steel]Iron Hands||Leftovers|QuarkDrive|icepunch,swordsdance,thunderpunch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Spiritomb||Leftovers|Infiltrator|foulplay,willowisp,suckerpunch,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Steel",
-  "ai": "Gallade||LifeOrb|Sharpness|sacredsword,nightslash,psychocut,agility||85,85,85,85,85,85|M|||80|,,,,,Fighting]Shiftry||LifeOrb|WindRider|lowkick,knockoff,leafblade,tailwind||85,85,85,85,85,85|F|||89|,,,,,Dark]Blissey||Leftovers|NaturalCure|softboiled,seismictoss,thunderwave,healbell||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Kyogre||Leftovers|Drizzle|thunder,icebeam,originpulse,calmmind||85,,85,85,85,85|N|,0,,,,||71|,,,,,Dragon]Houndstone||ChoiceBand|Fluffy|poltergeist,bodypress,shadowsneak,trick||85,85,85,85,85,85|M|||86|,,,,,Fighting]Ursaring||Eviolite|Guts|sleeptalk,rest,bodyslam,earthquake||85,85,85,85,85,85|M|||84|,,,,,Ground"
+  "ai": "Gallade||LifeOrb|Sharpness|sacredsword,nightslash,psychocut,agility||85,85,85,85,85,85|M|||80|,,,,,Fighting]Shiftry||LifeOrb|WindRider|lowkick,knockoff,leafblade,tailwind||85,85,85,85,85,85|F|||89|,,,,,Dark]Blissey||Leftovers|NaturalCure|softboiled,seismictoss,thunderwave,healbell||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Kyogre||Leftovers|Drizzle|thunder,icebeam,originpulse,calmmind||85,,85,85,85,85|N|,0,,,,||71|,,,,,Dragon]Houndstone||ChoiceBand|Fluffy|poltergeist,bodypress,shadowsneak,trick||85,85,85,85,85,85|M|||86|,,,,,Fighting]Ursaring||Eviolite|Guts|sleeptalk,rest,bodyslam,earthquake||85,85,85,85,85,85|M|||84|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 68
+  }
 }

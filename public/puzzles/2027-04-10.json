@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,ce5fbc3b2fec9aa5d5943db8df8291fc3cf179b275d2895c6ccea6cef8d64dc1",
-    "ai": "sodium,a3324dd82bc5dc2fbb8ebaa64dd357502214e4848e6a4e3ffbc9156562d02447"
+    "player": "sodium,e68fc4ab39ac32779958d4a0578c55c3498468ed4f25b49e3c8df9ea972507c4",
+    "ai": "sodium,cc6f37f6dfdc975c146b44c130f1c4781c6486c6cbac982261ab499903806459"
   },
   "playerSpecies": [
-    "Copperajah",
-    "Entei",
-    "Floatzel",
-    "Meloetta",
-    "Ogerpon-Wellspring",
-    "Regirock"
+    "Oranguru",
+    "Palafin",
+    "Lanturn",
+    "Regieleki",
+    "Dusknoir",
+    "Seviper"
   ],
-  "player": "Copperajah||LifeOrb|SheerForce|ironhead,earthquake,superpower,playrough||85,85,85,85,85,85|F|||86|,,,,,Fairy]Entei||ChoiceBand|InnerFocus|flareblitz,sacredfire,extremespeed,stompingtantrum||85,85,85,85,85,85|N|||78|,,,,,Normal]Floatzel||Leftovers|WaterVeil|icespinner,taunt,wavecrash,bulkup||85,85,85,85,85,85|M|||86|,,,,,Water]Meloetta||LifeOrb|SereneGrace|tripleaxel,knockoff,relicsong,closecombat||85,85,85,85,85,85|N|||82|,,,,,Dark]Ogerpon|OgerponWellspring|WellspringMask|WaterAbsorb|powerwhip,swordsdance,playrough,ivycudgel||85,85,85,85,85,85|F|||76|,,,,,Water]Regirock||ChestoBerry|ClearBody|rest,bodypress,curse,stoneedge||85,85,85,85,85,85|N|||83|,,,,,Fighting",
-  "ai": "Donphan||Leftovers|Sturdy|rapidspin,stealthrock,knockoff,earthquake||85,85,85,85,85,85|F|||84|,,,,,Dragon]Wyrdeer||Leftovers|Intimidate|earthquake,thunderwave,megahorn,psychicnoise||85,85,85,85,85,85|M|||87|,,,,,Ground]Grimmsnarl||Leftovers|Prankster|taunt,spiritbreak,partingshot,suckerpunch||85,85,85,85,85,85|M|||83|,,,,,Steel]Slowking||HeavyDutyBoots|Regenerator|scald,psyshock,slackoff,chillyreception||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fairy]Electivire||LifeOrb|MotorDrive|voltswitch,flamethrower,earthquake,supercellslam||85,85,85,85,85,85|F|||84|,,,,,Ground]Enamorus||Leftovers|Contrary|zenheadbutt,substitute,superpower,playrough||85,85,85,85,85,85|F|||79|,,,,,Fighting"
+  "player": "Oranguru||Leftovers|InnerFocus|thunderbolt,nastyplot,psyshock,focusblast||85,,85,85,85,85|F|,0,,,,||92|,,,,,Psychic]Palafin||Leftovers|ZerotoHero|icepunch,bulkup,drainpunch,jetpunch||85,85,85,85,85,85|M|||77|,,,,,Dragon]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderbolt,scald,thunderwave,voltswitch||85,,85,85,85,85|M|,0,,,,||89|,,,,,Flying]Regieleki||Magnet|Transistor|thunderbolt,rapidspin,voltswitch,terablast||85,85,85,85,85,85|N|||79|,,,,,Ice]Dusknoir||Leftovers|Frisk|shadowsneak,painsplit,willowisp,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Fairy]Seviper||Leftovers|ShedSkin|trailblaze,earthquake,gunkshot,swordsdance||85,85,85,85,85,85|F|||93|,,,,,Grass",
+  "ai": "Palossand||Leftovers|WaterCompaction|shoreup,earthpower,sludgebomb,shadowball||85,,85,85,85,85|F|,0,,,,||89|,,,,,Poison]Tinkaton||Leftovers|MoldBreaker|playrough,knockoff,swordsdance,gigatonhammer||85,85,85,85,85,85|F|||82|,,,,,Steel]Ting-Lu||Leftovers|VesselofRuin|earthquake,stealthrock,ruination,payback||85,85,85,85,85,85|N|||78|,,,,,Poison]Skarmory||Leftovers|Sturdy|bravebird,bodypress,irondefense,roost||85,85,85,85,85,85|F|||80|,,,,,Fighting]Sawsbuck||LifeOrb|SapSipper|doubleedge,highhorsepower,hornleech,swordsdance||85,85,85,85,85,85|F|||88|,,,,,Normal]Clefable||Leftovers|Unaware|moonblast,moonlight,calmmind,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 35
+  }
 }

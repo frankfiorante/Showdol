@@ -20,5 +20,9 @@
     "Gumshoos"
   ],
   "player": "Scream Tail||Leftovers|Protosynthesis|thunderwave,playrough,protect,wish||85,85,85,85,85,85|N|||84|,,,,,Steel]Masquerain||HeavyDutyBoots|Intimidate|quiverdance,hydropump,bugbuzz,hurricane||85,,85,85,85,85|M|,0,,,,||87|,,,,,Water]Qwilfish||HeavyDutyBoots|Intimidate|gunkshot,toxicspikes,painsplit,flipturn||85,85,85,85,85,85|F|||86|,,,,,Dark]Heatran||AirBalloon|FlashFire|earthpower,heavyslam,stealthrock,lavaplume||85,85,85,85,85,85|M|||79|,,,,,Grass]Pawmot||LifeOrb|IronFist|revivalblessing,doubleshock,closecombat,icepunch||85,85,85,85,85,85|M|||80|,,,,,Electric]Gumshoos||ChoiceBand|Adaptability|earthquake,doubleedge,knockoff,uturn||85,85,85,85,85,85|F|||95|,,,,,Ground",
-  "ai": "Cacturne||LifeOrb|WaterAbsorb|suckerpunch,toxicspikes,leafstorm,knockoff||85,85,85,85,85,85|F|||92|,,,,,Dark]Sunflora||ChoiceSpecs|Chlorophyll|leafstorm,dazzlinggleam,sludgebomb,earthpower||85,,85,85,85,85|M|,0,,,,|||,,,,,Ground]Cramorant||HeavyDutyBoots|GulpMissile|roost,defog,bravebird,surf||85,85,85,85,85,85|M|||86|,,,,,Ground]Sneasler||ChoiceBand|PoisonTouch|closecombat,throatchop,uturn,direclaw||85,85,85,85,85,85|F|||74|,,,,,Dark]Farigiraf||Leftovers|SapSipper|protect,psychicnoise,wish,bodyslam||85,85,85,85,85,85|F|||89|,,,,,Fairy]Raikou||Leftovers|Pressure|calmmind,scald,thunderbolt,shadowball||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water"
+  "ai": "Cacturne||LifeOrb|WaterAbsorb|suckerpunch,toxicspikes,leafstorm,knockoff||85,85,85,85,85,85|F|||92|,,,,,Dark]Sunflora||ChoiceSpecs|Chlorophyll|leafstorm,dazzlinggleam,sludgebomb,earthpower||85,,85,85,85,85|M|,0,,,,|||,,,,,Ground]Cramorant||HeavyDutyBoots|GulpMissile|roost,defog,bravebird,surf||85,85,85,85,85,85|M|||86|,,,,,Ground]Sneasler||ChoiceBand|PoisonTouch|closecombat,throatchop,uturn,direclaw||85,85,85,85,85,85|F|||74|,,,,,Dark]Farigiraf||Leftovers|SapSipper|protect,psychicnoise,wish,bodyslam||85,85,85,85,85,85|F|||89|,,,,,Fairy]Raikou||Leftovers|Pressure|calmmind,scald,thunderbolt,shadowball||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 52
+  }
 }

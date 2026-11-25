@@ -2,12 +2,12 @@
  * Unit checks for dates, puzzle numbers, the save format and the daily lock.
  * Run with a DST time zone so the daylight-saving cases are real:
  *
- *   pnpm daily:check        (sets TZ=America/New_York)
+ *   pnpm daily:check        (sets TZ=America/Chicago)
  */
 import assert from 'node:assert/strict';
-import {addDays, dateKey, daysBetween, formatCountdown, msUntilMidnight, puzzleNumber} from '../src/game/daily';
-import {expireAbandoned, homeState} from '../src/game/lock';
-import {emptySave, finishRecord, parseSave, type GameRecord, type SaveData} from '../src/game/storage';
+import {addDays, dateKey, daysBetween, formatCountdown, msUntilMidnight, puzzleNumber} from '@/game/daily';
+import {expireAbandoned, homeState} from '@/game/lock';
+import {emptySave, finishRecord, parseSave, type GameRecord, type SaveData} from '@/game/storage';
 
 let passed = 0;
 function test(name: string, fn: () => void) {
@@ -20,12 +20,12 @@ function test(name: string, fn: () => void) {
   }
 }
 
-assert.equal(Intl.DateTimeFormat().resolvedOptions().timeZone, 'America/New_York', 'run via pnpm daily:check');
+assert.equal(Intl.DateTimeFormat().resolvedOptions().timeZone, 'America/Chicago', 'run via pnpm daily:check');
 
 test('dateKey uses the local date', () => {
   assert.equal(dateKey(new Date(2026, 11, 31, 23, 59)), '2026-12-31');
   assert.equal(dateKey(new Date(2027, 0, 1, 0, 0)), '2027-01-01');
-  // 03:30 UTC on Mar 1 is still Feb 28 in New York.
+  // 03:30 UTC on Mar 1 is still Feb 28 in Chicago.
   assert.equal(dateKey(new Date('2027-03-01T03:30:00Z')), '2027-02-28');
 });
 

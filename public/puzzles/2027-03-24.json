@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,7cea899fc0a6d3fc1c3c5d9ca68cbea2c0d1c8ef36d9e5e8065c6499bbc6299e",
-    "ai": "sodium,663594fd1665d8ae9a496d2ff0606ae3d445b8a89b5652c94708a9aa1c9a42c6"
+    "player": "sodium,fb19735106e9eef470a338701c013c41a87df2cd3e53395c1e58637c6c143d56",
+    "ai": "sodium,aa6673ea97e1292a13da53c488bdc86aee0afa0185e648a796a8b6e7c9654b68"
   },
   "playerSpecies": [
-    "Cramorant",
-    "Sudowoodo",
-    "Flapple",
-    "Diancie",
-    "Meowstic-F",
-    "Scream Tail"
+    "Iron Leaves",
+    "Bronzong",
+    "Arceus-Fairy",
+    "Galvantula",
+    "Mandibuzz",
+    "Wugtrio"
   ],
-  "player": "Cramorant||HeavyDutyBoots|GulpMissile|defog,roost,surf,bravebird||85,85,85,85,85,85|F|||86|,,,,,Ground]Sudowoodo||ChoiceBand|RockHead|headsmash,suckerpunch,earthquake,woodhammer||85,85,85,85,85,85|M|||94|,,,,,Grass]Flapple||WideLens|Hustle|dragondance,outrage,suckerpunch,gravapple||85,85,85,85,85,85|M|||88|,,,,,Dragon]Diancie||Leftovers|ClearBody|moonblast,diamondstorm,bodypress,rockpolish||85,85,85,85,85,85|N|||82|,,,,,Fighting]Meowstic|MeowsticF|LifeOrb|Competitive|nastyplot,alluringvoice,darkpulse,psyshock||85,,85,85,85,85|F|,0,,,,||89|,,,,,Dark]Scream Tail||Leftovers|Protosynthesis|encore,protect,dazzlinggleam,wish||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison",
-  "ai": "Diancie||Leftovers|ClearBody|earthpower,diamondstorm,drainingkiss,calmmind||85,85,85,85,85,85|N|||82|,,,,,Water]Sceptile||LifeOrb|Overgrow|swordsdance,earthquake,leafblade,rockslide||85,85,85,85,85,85|F|||87|,,,,,Rock]Iron Jugulis||ChoiceSpecs|QuarkDrive|uturn,hurricane,darkpulse,earthpower||85,85,85,85,85,85|N|||77|,,,,,Dark]Floatzel||ChoiceBand|WaterVeil|icespinner,crunch,flipturn,wavecrash||85,85,85,85,85,85|F|||86|,,,,,Water]Landorus||LifeOrb|SheerForce|sludgewave,psychic,rockslide,earthpower||85,85,85,85,85,85|M|||75|,,,,,Ground]Archaludon||AssaultVest|Stamina|bodypress,dracometeor,flashcannon,dragontail||85,85,85,85,85,85|M|||77|,,,,,Fighting"
+  "player": "Iron Leaves||ChoiceBand|QuarkDrive|closecombat,psyblade,leafblade,megahorn||85,85,85,85,85,85|N|||80|,,,,,Fighting]Bronzong||ChestoBerry|Levitate|rest,psychicnoise,bodypress,irondefense||85,,85,85,85,85|N|,0,,,,||88|,,,,,Fighting]Arceus|ArceusFairy|PixiePlate|Multitype|judgment,recover,calmmind,earthpower||85,,85,85,85,85|N|,0,,,,||69|,,,,,Steel]Galvantula||HeavyDutyBoots|CompoundEyes|stickyweb,voltswitch,thunder,bugbuzz||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric]Mandibuzz||HeavyDutyBoots|Overcoat|foulplay,roost,bravebird,defog||85,85,85,85,85,85|F|||85|,,,,,Steel]Wugtrio||ChoiceBand|Gooey|throatchop,liquidation,stompingtantrum,aquajet||85,85,85,85,85,85|F|||91|,,,,,Dark",
+  "ai": "Grafaiai||HeavyDutyBoots|Prankster|knockoff,encore,gunkshot,partingshot||85,85,85,85,85,85|F|||86|,,,,,Dark]Bruxish||LifeOrb|StrongJaw|wavecrash,swordsdance,crunch,psychicfangs||85,85,85,85,85,85|F|||85|,,,,,Dark]Tropius||SitrusBerry|Harvest|dragondance,earthquake,dualwingbeat,synthesis||85,85,85,85,85,85|M|||91|,,,,,Ground]Falinks||LifeOrb|Defiant|ironhead,knockoff,closecombat,noretreat||85,85,85,85,85,85|N|||84|,,,,,Steel]Metagross||ChoiceBand|ClearBody|bulletpunch,knockoff,heavyslam,earthquake||85,85,85,85,85,85|N|||79|,,,,,Water]Ho-Oh||HeavyDutyBoots|Regenerator|sacredfire,recover,earthquake,bravebird||85,85,85,85,85,85|N|||71|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 57
+  }
 }

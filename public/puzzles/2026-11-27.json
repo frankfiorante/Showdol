@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,00833590218954d1d1947cef6f0b73d1406073c03f03b96fba67ecb14d7042e8",
-    "ai": "sodium,e8920c098459cdfdd0fbdf6b851dd4aa5255b8f272e479e2c74d76c51afbddd8"
+    "player": "sodium,e60a832e5a37fef6802af801115d4ea128a4576667a7c33cdb336998ae11c14b",
+    "ai": "sodium,495a70ffb43af931b8f9a2634f5224520d367fe34c62a174d7b1301e3103a653"
   },
   "playerSpecies": [
-    "Cryogonal",
-    "Victreebel",
-    "Baxcalibur",
-    "Dragalge",
-    "Politoed",
-    "Spidops"
+    "Mimikyu",
+    "Cetitan",
+    "Carbink",
+    "Hypno",
+    "Snorlax",
+    "Venusaur"
   ],
-  "player": "Cryogonal||HeavyDutyBoots|Levitate|rapidspin,icebeam,terablast,recover||85,85,85,85,85,85|N|||89|,,,,,Electric]Victreebel||LifeOrb|Chlorophyll|weatherball,sludgewave,sunnyday,powerwhip||85,85,85,85,85,85|F|||90|,,,,,Fire]Baxcalibur||ChoiceBand|ThermalExchange|iceshard,glaiverush,iciclecrash,earthquake||81,85,85,85,85,85|F|||75|,,,,,Dragon]Dragalge||ChoiceSpecs|Adaptability|sludgewave,focusblast,flipturn,dracometeor||85,85,85,85,85,85|M|||88|,,,,,Fighting]Politoed||Leftovers|Drizzle|icebeam,hydropump,encore,haze||85,,85,85,85,85|M|,0,,,,||88|,,,,,Water]Spidops||HeavyDutyBoots|Stakeout|stickyweb,circlethrow,uturn,knockoff||85,85,85,85,85,85|F|||96|,,,,,Ghost",
-  "ai": "Armarouge||ChoiceSpecs|WeakArmor|aurasphere,energyball,armorcannon,psyshock||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fire]Sandaconda||Leftovers|ShedSkin|earthquake,glare,stoneedge,stealthrock||85,85,85,85,85,85|M|||84|,,,,,Water]Flutter Mane||LifeOrb|Protosynthesis|moonblast,shadowball,thunderbolt,calmmind||85,,85,85,85,85|N|,0,,,,||74|,,,,,Fairy]Bronzong||Leftovers|Levitate|hypnosis,earthquake,psychic,ironhead||85,85,85,85,85,85|N|||88|,,,,,Water]Electivire||LifeOrb|MotorDrive|supercellslam,bulkup,icepunch,earthquake||85,85,85,85,85,85|F|||84|,,,,,Ground]Spidops||HeavyDutyBoots|Stakeout|uturn,stickyweb,circlethrow,knockoff||85,85,85,85,85,85|F|||96|,,,,,Ghost"
+  "player": "Mimikyu||LifeOrb|Disguise|shadowsneak,drainpunch,swordsdance,playrough||85,85,85,85,85,85|M|||79|,,,,,Fairy]Cetitan||SitrusBerry|ThickFat|bellydrum,iceshard,earthquake,icespinner||81,85,85,85,85,85|M|||82|,,,,,Ice]Carbink||Leftovers|Sturdy|irondefense,rockpolish,moonblast,bodypress||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Hypno||Leftovers|Insomnia|toxic,psychicnoise,knockoff,encore||85,85,85,85,85,85|M|||95|,,,,,Dark]Snorlax||ChestoBerry|ThickFat|rest,earthquake,bodyslam,curse||85,85,85,85,85,85|F|||82|,,,,,Ground]Venusaur||Leftovers|Chlorophyll|sludgebomb,substitute,leechseed,sleeppowder||85,,85,85,85,85|M|,0,,,,||84|,,,,,Water",
+  "ai": "Porygon-Z||ChoiceScarf|Download|shadowball,thunderbolt,triattack,icebeam||85,,85,85,85,85|N|,0,,,,||83|,,,,,Ghost]Tornadus|TornadusTherian|HeavyDutyBoots|Regenerator|bleakwindstorm,focusblast,nastyplot,grassknot||85,,85,85,85,85|M|,0,,,,||79|,,,,,Fighting]Meowscarada||LifeOrb|Protean|flowertrick,tripleaxel,toxicspikes,knockoff||85,85,85,85,85,85|M|||78|,,,,,Grass]Meganium||Leftovers|Overgrow|knockoff,synthesis,encore,energyball||85,85,85,85,85,85|F|||90|,,,,,Poison]Probopass||ChestoBerry|MagnetPull|irondefense,powergem,bodypress,rest||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fighting]Raikou||HeavyDutyBoots|Pressure|thunderbolt,scald,voltswitch,calmmind||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 70
+  }
 }

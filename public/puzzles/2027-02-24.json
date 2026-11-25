@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,5653f4502e737fbed53b68db437be13dd09aea97dce1514f47a7f2cb3819fc35",
-    "ai": "sodium,b0f1e10e44a83863c31feadea7362bcc4e7b334d723ca46308b8a4081927f979"
+    "player": "sodium,73a2b8f6df3bbdbd3ece27911c1894646a33cb90f0c5b1e8e5029b164f8e1600",
+    "ai": "sodium,51cc10abcae890e408b6e5c6289cd924ae6d01d8812aa542617fb2f2cb42702a"
   },
   "playerSpecies": [
-    "Drednaw",
-    "Latios",
-    "Blastoise",
-    "Maushold",
-    "Excadrill",
-    "Girafarig"
+    "Uxie",
+    "Cinderace",
+    "Whiscash",
+    "Granbull",
+    "Overqwil",
+    "Rotom-Mow"
   ],
-  "player": "Drednaw||WhiteHerb|ShellArmor|liquidation,earthquake,shellsmash,stoneedge||85,85,85,85,85,85|M|||81|,,,,,Ground]Latios||ChoiceSpecs|Levitate|lusterpurge,flipturn,aurasphere,dracometeor||85,85,85,85,85,85|M|||78|,,,,,Psychic]Blastoise||WhiteHerb|Torrent|shellsmash,hydropump,terablast,icebeam||85,,85,85,85,85|M|,0,,,,||80|,,,,,Electric]Maushold||WideLens|Technician|encore,tidyup,bite,populationbomb||85,85,85,85,85,85|N|||76|,,,,,Normal]Excadrill||Leftovers|MoldBreaker|earthquake,swordsdance,rapidspin,ironhead||85,85,85,85,85,85|M|||79|,,,,,Water]Girafarig||Eviolite|SapSipper|psychic,nastyplot,dazzlinggleam,thunderbolt||85,,85,85,85,85|M|,0,,,,||89|,,,,,Psychic",
-  "ai": "Mienshao||AssaultVest|Regenerator|knockoff,closecombat,fakeout,uturn||85,85,85,85,85,85|M|||83|,,,,,Steel]Latios||SoulDew|Levitate|recover,aurasphere,lusterpurge,dracometeor||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Diancie||Leftovers|ClearBody|calmmind,drainingkiss,earthpower,diamondstorm||85,85,85,85,85,85|N|||82|,,,,,Fairy]Calyrex|CalyrexIce|WeaknessPolicy|AsOneGlastrier|agility,closecombat,glaciallance,highhorsepower||85,85,85,85,85,85|N|||72|,,,,,Ground]Bombirdier||ChoiceBand|RockyPayload|suckerpunch,stoneedge,knockoff,bravebird||85,85,85,85,85,85|M|||85|,,,,,Rock]Torterra||LoadedDice|Overgrow|headlongrush,shellsmash,bulletseed,rockblast||85,85,85,85,85,85|F|||78|,,,,,Grass"
+  "player": "Uxie||Leftovers|Levitate|nastyplot,substitute,psychicnoise,drainingkiss||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy]Cinderace||HeavyDutyBoots|Libero|pyroball,highjumpkick,gunkshot,courtchange||81,85,85,85,85,85|M|||77|,,,,,Fighting]Whiscash||Leftovers|Oblivious|hydropump,stealthrock,earthquake,icebeam||85,85,85,85,85,85|F|||88|,,,,,Steel]Granbull||Leftovers|Intimidate|encore,playrough,thunderwave,earthquake||85,85,85,85,85,85|M|||88|,,,,,Ground]Overqwil||LoadedDice|Intimidate|gunkshot,swordsdance,crunch,scaleshot||85,85,85,85,85,85|M|||82|,,,,,Dragon]Rotom|RotomMow|Leftovers|Levitate|thunderbolt,voltswitch,willowisp,leafstorm||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric",
+  "ai": "Houndoom||HeavyDutyBoots|FlashFire|fireblast,sludgebomb,nastyplot,darkpulse||85,,85,85,85,85|M|,0,,,,||87|,,,,,Dark]Dedenne||SitrusBerry|CheekPouch|nuzzle,uturn,thunderbolt,dazzlinggleam||85,85,85,85,85,85|M|||88|,,,,,Flying]Rampardos||LifeOrb|SheerForce|rockslide,zenheadbutt,earthquake,firepunch||85,85,85,85,85,85|M|||90|,,,,,Psychic]Gurdurr||Eviolite|Guts|machpunch,bulkup,knockoff,drainpunch||85,85,85,85,85,85|F|||85|,,,,,Steel]Lumineon||HeavyDutyBoots|StormDrain|uturn,encore,hydropump,icebeam||85,85,85,85,85,85|F|||93|,,,,,Ground]Ogerpon|OgerponHearthflame|HearthflameMask|MoldBreaker|knockoff,swordsdance,ivycudgel,powerwhip||77,85,85,85,85,85|F|||74|,,,,,Fire",
+  "curation": {
+    "battles": 100,
+    "playerWins": 66
+  }
 }

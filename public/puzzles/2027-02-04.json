@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,f6e9e41dbe24c9f53e65798740e8f2cb7e1af96ce61780671f6516a1487c4866",
-    "ai": "sodium,eca9cf2fa47723c3a5bbd95c047f62b14e991c1c4892aaf0d3f4c781301b5bb0"
+    "player": "sodium,271dd9270e14950ad56d03be58c05e1ce68d995339545282f4f6850bb8d2dc48",
+    "ai": "sodium,7b919af4dea453a91164dacf9a979a50f928bbb1cd8572d0189f74e7d2c87bf7"
   },
   "playerSpecies": [
-    "Tornadus-Therian",
-    "Brute Bonnet",
-    "Pyroar",
-    "Barraskewda",
-    "Medicham",
-    "Arceus-Dark"
+    "Enamorus-Therian",
+    "Salazzle",
+    "Sneasler",
+    "Krookodile",
+    "Hitmonchan",
+    "Lugia"
   ],
-  "player": "Tornadus|TornadusTherian|AssaultVest|Regenerator|uturn,bleakwindstorm,knockoff,heatwave||85,85,85,85,85,85|M|||79|,,,,,Dark]Brute Bonnet||Leftovers|Protosynthesis|suckerpunch,spore,closecombat,crunch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Pyroar||HeavyDutyBoots|Unnerve|hypervoice,willowisp,fireblast,darkpulse||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fire]Barraskewda||ChoiceBand|SwiftSwim|flipturn,closecombat,waterfall,throatchop||85,85,85,85,85,85|F|||81|,,,,,Fighting]Medicham||ChoiceScarf|PurePower|closecombat,icepunch,trick,zenheadbutt||85,85,85,85,85,85|F|||86|,,,,,Fighting]Arceus|ArceusDark|DreadPlate|Multitype|recover,calmmind,judgment,dazzlinggleam||85,,85,85,85,85|N|,0,,,,||71|,,,,,Fairy",
-  "ai": "Beartic||HeavyDutyBoots|SwiftSwim|swordsdance,aquajet,iciclecrash,closecombat||85,85,85,85,85,85|F|||91|,,,,,Fighting]Mesprit||Leftovers|Levitate|psychicnoise,drainpunch,icebeam,thunderwave||85,85,85,85,85,85|N|||85|,,,,,Fighting]Golem||CustapBerry|Sturdy|stoneedge,earthquake,stealthrock,explosion||85,85,85,85,85,85|M|||87|,,,,,Ground]Zangoose||ToxicOrb|ToxicBoost|facade,knockoff,closecombat,quickattack||85,85,85,85,85,85|F|||85|,,,,,Normal]Vikavolt||HeavyDutyBoots|Levitate|energyball,stickyweb,discharge,bugbuzz||85,,85,85,85,85|M|,0,,,,||83|,,,,,Electric]Shaymin|ShayminSky|HeavyDutyBoots|SereneGrace|airslash,earthpower,seedflare,synthesis||85,,85,85,85,85|N|,0,,,,||73|,,,,,Water"
+  "player": "Enamorus|EnamorusTherian|WeaknessPolicy|Overcoat|earthpower,mysticalfire,agility,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground]Salazzle||HeavyDutyBoots|Corrosion|sludgewave,nastyplot,fireblast,terablast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Sneasler||ChoiceBand|PoisonTouch|direclaw,uturn,throatchop,closecombat||85,85,85,85,85,85|F|||74|,,,,,Fighting]Krookodile||Leftovers|Intimidate|earthquake,gunkshot,bulkup,knockoff||85,85,85,85,85,85|M|||79|,,,,,Poison]Hitmonchan||LifeOrb|IronFist|swordsdance,drainpunch,machpunch,knockoff||85,85,85,85,85,85|M|||87|,,,,,Dark]Lugia||HeavyDutyBoots|Multiscale|recover,aeroblast,psychicnoise,calmmind||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel",
+  "ai": "Spectrier||LifeOrb|GrimNeigh|drainingkiss,nastyplot,darkpulse,shadowball||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fairy]Wugtrio||ChoiceBand|Gooey|liquidation,aquajet,throatchop,stompingtantrum||85,85,85,85,85,85|M|||91|,,,,,Ground]Flareon||ToxicOrb|Guts|trailblaze,facade,flareblitz,willowisp||85,85,85,85,85,85|F|||90|,,,,,Normal]Ludicolo||ChoiceSpecs|SwiftSwim|gigadrain,leafstorm,hydropump,icebeam||85,,85,85,85,85|F|,0,,,,||90|,,,,,Water]Seviper||ChoiceScarf|Infiltrator|switcheroo,earthquake,gunkshot,flamethrower||85,85,85,85,85,85|M|||93|,,,,,Ground]Vigoroth||Eviolite|VitalSpirit|knockoff,slackoff,bulkup,bodyslam||85,85,85,85,85,85|F|||85|,,,,,Ghost",
+  "curation": {
+    "battles": 100,
+    "playerWins": 53
+  }
 }

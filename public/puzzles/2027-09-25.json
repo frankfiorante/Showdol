@@ -20,5 +20,9 @@
     "Iron Valiant"
   ],
   "player": "Manaphy||Leftovers|Hydration|surf,energyball,icebeam,tailglow||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Bastiodon||ChestoBerry|Soundproof|irondefense,bodypress,foulplay,rest||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Tsareena||AssaultVest|QueenlyMajesty|highjumpkick,tripleaxel,rapidspin,powerwhip||85,85,85,85,85,85|F|||87|,,,,,Fighting]Zoroark|ZoroarkHisui|ChoiceSpecs|Illusion|hypervoice,trick,bittermalice,focusblast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Normal]Urshifu||LifeOrb|UnseenFist|swordsdance,poisonjab,closecombat,wickedblow||85,85,85,85,85,85|F|||74|,,,,,Poison]Iron Valiant||LifeOrb|QuarkDrive|closecombat,moonblast,knockoff,encore||85,85,85,85,85,85|N|||78|,,,,,Steel",
-  "ai": "Jumpluff|||Infiltrator|leechseed,acrobatics,substitute,strengthsap||81,85,85,85,85,85|F|||87|,,,,,Steel]Cetitan||SitrusBerry|ThickFat|icespinner,earthquake,iceshard,bellydrum||81,85,85,85,85,85|F|||82|,,,,,Ice]Girafarig||Eviolite|SapSipper|hypervoice,thunderbolt,nastyplot,psyshock||85,,85,85,85,85|M|,0,,,,||89|,,,,,Electric]Spidops||HeavyDutyBoots|Stakeout|stickyweb,uturn,knockoff,spikes||85,85,85,85,85,85|F|||96|,,,,,Ghost]Banette||LifeOrb|Insomnia|gunkshot,shadowsneak,poltergeist,swordsdance||85,85,85,85,85,85|M|||93|,,,,,Poison]Mew||LifeOrb|Synchronize|knockoff,swordsdance,psychicfangs,closecombat||85,85,85,85,85,85|N|||82|,,,,,Fighting"
+  "ai": "Jumpluff|||Infiltrator|leechseed,acrobatics,substitute,strengthsap||81,85,85,85,85,85|F|||87|,,,,,Steel]Cetitan||SitrusBerry|ThickFat|icespinner,earthquake,iceshard,bellydrum||81,85,85,85,85,85|F|||82|,,,,,Ice]Girafarig||Eviolite|SapSipper|hypervoice,thunderbolt,nastyplot,psyshock||85,,85,85,85,85|M|,0,,,,||89|,,,,,Electric]Spidops||HeavyDutyBoots|Stakeout|stickyweb,uturn,knockoff,spikes||85,85,85,85,85,85|F|||96|,,,,,Ghost]Banette||LifeOrb|Insomnia|gunkshot,shadowsneak,poltergeist,swordsdance||85,85,85,85,85,85|M|||93|,,,,,Poison]Mew||LifeOrb|Synchronize|knockoff,swordsdance,psychicfangs,closecombat||85,85,85,85,85,85|N|||82|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 42
+  }
 }

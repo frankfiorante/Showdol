@@ -20,5 +20,9 @@
     "Honchkrow"
   ],
   "player": "Luxray||AssaultVest|Intimidate|voltswitch,icefang,playrough,wildcharge||85,85,85,85,85,85|M|||88|,,,,,Fairy]Venusaur||Leftovers|Overgrow|substitute,gigadrain,leechseed,sludgebomb||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Torkoal||HeavyDutyBoots|Drought|stealthrock,rapidspin,lavaplume,solarbeam||85,85,85,85,85,85|M|||88|,,,,,Dragon]Crawdaunt||LifeOrb|Adaptability|closecombat,knockoff,dragondance,crabhammer||85,85,85,85,85,85|F|||84|,,,,,Fighting]Rampardos||ChoiceScarf|SheerForce|rockslide,headsmash,earthquake,firepunch||85,85,85,85,85,85|M|||90|,,,,,Rock]Honchkrow||HeavyDutyBoots|Moxie|thunderwave,bravebird,suckerpunch,lashout||85,85,85,85,85,85|M|||86|,,,,,Dark",
-  "ai": "Salazzle||Leftovers|Corrosion|protect,substitute,toxic,flamethrower||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Exeggutor||SitrusBerry|Harvest|sludgebomb,substitute,leechseed,psychic||77,,85,85,85,85|M|,0,,,,||89|,,,,,Steel]Whimsicott||Leftovers|Prankster|leechseed,moonblast,substitute,encore||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Lugia||HeavyDutyBoots|Multiscale|calmmind,aeroblast,earthpower,recover||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Corviknight||Leftovers|MirrorArmor|roost,defog,bravebird,uturn||85,85,85,85,85,85|F|||80|,,,,,Dragon]Overqwil||LoadedDice|Intimidate|swordsdance,crunch,gunkshot,scaleshot||85,85,85,85,85,85|F|||82|,,,,,Dragon"
+  "ai": "Salazzle||Leftovers|Corrosion|protect,substitute,toxic,flamethrower||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Exeggutor||SitrusBerry|Harvest|sludgebomb,substitute,leechseed,psychic||77,,85,85,85,85|M|,0,,,,||89|,,,,,Steel]Whimsicott||Leftovers|Prankster|leechseed,moonblast,substitute,encore||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Lugia||HeavyDutyBoots|Multiscale|calmmind,aeroblast,earthpower,recover||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Corviknight||Leftovers|MirrorArmor|roost,defog,bravebird,uturn||85,85,85,85,85,85|F|||80|,,,,,Dragon]Overqwil||LoadedDice|Intimidate|swordsdance,crunch,gunkshot,scaleshot||85,85,85,85,85,85|F|||82|,,,,,Dragon",
+  "curation": {
+    "battles": 100,
+    "playerWins": 78
+  }
 }

@@ -20,5 +20,9 @@
     "Ursaring"
   ],
   "player": "Sinistcha|SinistchaMasterpiece|Leftovers|Heatproof|calmmind,matchagotcha,strengthsap,shadowball||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Corviknight||Leftovers|MirrorArmor|roost,bravebird,bodypress,defog||85,85,85,85,85,85|M|||80|,,,,,Dragon]Veluza||ChoiceBand|Sharpness|aquacutter,psychocut,nightslash,aquajet||85,85,85,85,85,85|M|||85|,,,,,Dark]Lumineon||LifeOrb|StormDrain|alluringvoice,hydropump,encore,icebeam||85,,85,85,85,85|F|,0,,,,||93|,,,,,Water]Carbink||ChestoBerry|Sturdy|bodypress,rest,moonblast,irondefense||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Ursaring||Eviolite|Guts|bodyslam,rest,throatchop,sleeptalk||85,85,85,85,85,85|F|||84|,,,,,Ghost",
-  "ai": "Archaludon||LumBerry|Stamina|ironhead,swordsdance,outrage,earthquake||85,85,85,85,85,85|M|||77|,,,,,Ground]Lapras||ChoiceSpecs|WaterAbsorb|freezedry,hydropump,sparklingaria,icebeam||81,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Clodsire||Leftovers|WaterAbsorb|curse,recover,poisonjab,earthquake||85,85,85,85,85,85|F|||81|,,,,,Steel]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|alluringvoice,psyshock,grassknot,thunderbolt||85,,85,85,85,85|F|,0,,,,||87|,,,,,Grass]Houndstone||Leftovers|Fluffy|rest,sleeptalk,poltergeist,bodypress||85,85,85,85,85,85|F|||86|,,,,,Fighting]Groudon||Leftovers|Drought|heatcrash,thunderwave,precipiceblades,swordsdance||85,85,85,85,85,85|N|||72|,,,,,Fire"
+  "ai": "Archaludon||LumBerry|Stamina|ironhead,swordsdance,outrage,earthquake||85,85,85,85,85,85|M|||77|,,,,,Ground]Lapras||ChoiceSpecs|WaterAbsorb|freezedry,hydropump,sparklingaria,icebeam||81,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Clodsire||Leftovers|WaterAbsorb|curse,recover,poisonjab,earthquake||85,85,85,85,85,85|F|||81|,,,,,Steel]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|alluringvoice,psyshock,grassknot,thunderbolt||85,,85,85,85,85|F|,0,,,,||87|,,,,,Grass]Houndstone||Leftovers|Fluffy|rest,sleeptalk,poltergeist,bodypress||85,85,85,85,85,85|F|||86|,,,,,Fighting]Groudon||Leftovers|Drought|heatcrash,thunderwave,precipiceblades,swordsdance||85,85,85,85,85,85|N|||72|,,,,,Fire",
+  "curation": {
+    "battles": 100,
+    "playerWins": 36
+  }
 }

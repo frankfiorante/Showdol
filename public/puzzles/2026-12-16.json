@@ -20,5 +20,9 @@
     "Gothitelle"
   ],
   "player": "Dodrio||HeavyDutyBoots|EarlyBird|drillrun,knockoff,bravebird,swordsdance||85,85,85,85,85,85|F|||85|,,,,,Ground]Shiftry||LifeOrb|WindRider|leafblade,knockoff,tailwind,lowkick||85,85,85,85,85,85|F|||89|,,,,,Dark]Annihilape||Leftovers|Defiant|taunt,drainpunch,ragefist,bulkup||85,85,85,85,85,85|F|||76|,,,,,Water]Torkoal||HeavyDutyBoots|Drought|solarbeam,fireblast,earthquake,yawn||85,85,85,85,85,85|M|||88|,,,,,Grass]Tinkaton||Leftovers|MoldBreaker|stealthrock,encore,playrough,gigatonhammer||85,85,85,85,85,85|F|||82|,,,,,Water]Gothitelle||ChoiceScarf|ShadowTag|psychic,darkpulse,trick,focusblast||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy",
-  "ai": "Jirachi||Leftovers|SereneGrace|bodyslam,protect,ironhead,wish||85,85,85,85,85,85|N|||80|,,,,,Water]Walking Wake||ChoiceSpecs|Protosynthesis|dracometeor,hydropump,flamethrower,flipturn||85,85,85,85,85,85|N|||79|,,,,,Water]Whimsicott||HeavyDutyBoots|Prankster|uturn,encore,moonblast,stunspore||85,85,85,85,85,85|F|||84|,,,,,Steel]Greninja||LifeOrb|Protean|hydropump,gunkshot,darkpulse,uturn||85,85,85,85,85,85|M|||80|,,,,,Poison]Arbok||Leftovers|Intimidate|coil,trailblaze,earthquake,gunkshot||85,85,85,85,85,85|M|||87|,,,,,Ground]Toucannon||HeavyDutyBoots|KeenEye|beakblast,roost,boomburst,uturn||85,85,85,85,85,85|F|||88|,,,,,Steel"
+  "ai": "Jirachi||Leftovers|SereneGrace|bodyslam,protect,ironhead,wish||85,85,85,85,85,85|N|||80|,,,,,Water]Walking Wake||ChoiceSpecs|Protosynthesis|dracometeor,hydropump,flamethrower,flipturn||85,85,85,85,85,85|N|||79|,,,,,Water]Whimsicott||HeavyDutyBoots|Prankster|uturn,encore,moonblast,stunspore||85,85,85,85,85,85|F|||84|,,,,,Steel]Greninja||LifeOrb|Protean|hydropump,gunkshot,darkpulse,uturn||85,85,85,85,85,85|M|||80|,,,,,Poison]Arbok||Leftovers|Intimidate|coil,trailblaze,earthquake,gunkshot||85,85,85,85,85,85|M|||87|,,,,,Ground]Toucannon||HeavyDutyBoots|KeenEye|beakblast,roost,boomburst,uturn||85,85,85,85,85,85|F|||88|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 68
+  }
 }

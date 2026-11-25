@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,e23074f273ba60022f95a51bd4ee8124e01cf85d423d6411ad5b92422a4ffcd6",
-    "ai": "sodium,999a64e0027162fae293941be9b7bb61a4c1962a119deb12fee09110ede13113"
+    "player": "sodium,1abed5c045e821245deb4370c420aa5a1139ec5545ce99f60ae8ca6a02fb490f",
+    "ai": "sodium,589ce81fe5ed9fd2ed26c7cd38ebb072be9c0eae0d257eebbb77dabf870a9f35"
   },
   "playerSpecies": [
-    "Politoed",
-    "Emboar",
-    "Conkeldurr",
-    "Dugtrio-Alola",
-    "Chandelure",
-    "Garchomp"
+    "Gardevoir",
+    "Bastiodon",
+    "Chi-Yu",
+    "Magearna-Original",
+    "Glaceon",
+    "Gyarados"
   ],
-  "player": "Politoed||Leftovers|Drizzle|hydropump,haze,hypnosis,icebeam||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Emboar||Leftovers|Reckless|flareblitz,trailblaze,drainpunch,bulkup||85,85,85,85,85,85|F|||84|,,,,,Grass]Conkeldurr||FlameOrb|Guts|machpunch,facade,closecombat,knockoff||85,85,85,85,85,85|M|||80|,,,,,Normal]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|stealthrock,earthquake,suckerpunch,ironhead||85,85,85,85,85,85|F|||84|,,,,,Steel]Chandelure||HeavyDutyBoots|FlashFire|energyball,fireblast,shadowball,calmmind||85,,85,85,85,85|M|,0,,,,||83|,,,,,Grass]Garchomp||RockyHelmet|RoughSkin|earthquake,dragontail,outrage,spikes||85,85,85,85,85,85|M|||74|,,,,,Ground",
-  "ai": "Tauros|TaurosPaldeaAqua|ChoiceBand|Intimidate|stoneedge,wavecrash,aquajet,closecombat||85,85,85,85,85,85|M|||81|,,,,,Water]Slaking||ChoiceScarf|Truant|doubleedge,knockoff,earthquake,gigaimpact||85,85,85,85,85,85|F|||84|,,,,,Normal]Zapdos|ZapdosGalar|ChoiceBand|Defiant|knockoff,uturn,bravebird,closecombat||85,85,85,85,85,85|N|||77|,,,,,Fighting]Ho-Oh||HeavyDutyBoots|Regenerator|sacredfire,recover,bravebird,earthquake||85,85,85,85,85,85|N|||71|,,,,,Ground]Tsareena||LifeOrb|QueenlyMajesty|powerwhip,synthesis,highjumpkick,tripleaxel||85,85,85,85,85,85|F|||87|,,,,,Fighting]Hypno||Leftovers|Insomnia|focusblast,protect,psychicnoise,toxic||85,,85,85,85,85|M|,0,,,,||95|,,,,,Steel"
+  "player": "Gardevoir||ChoiceScarf|Trace|moonblast,psyshock,trick,focusblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fighting]Bastiodon||ChestoBerry|Soundproof|foulplay,rest,irondefense,bodypress||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fighting]Chi-Yu||HeavyDutyBoots|BeadsofRuin|nastyplot,psychic,fireblast,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Magearna|MagearnaOriginal|Leftovers|SoulHeart|flashcannon,shiftgear,fleurcannon,calmmind||85,,85,85,85,85|N|,0,,,,||77|,,,,,Flying]Glaceon||HeavyDutyBoots|IceBody|wish,protect,mudshot,freezedry||85,,85,85,85,85|F|,0,,,,||94|,,,,,Ground]Gyarados||HeavyDutyBoots|Intimidate|earthquake,waterfall,stoneedge,dragondance||85,85,85,85,85,85|M|||79|,,,,,Ground",
+  "ai": "Dragonite||HeavyDutyBoots|Multiscale|outrage,dragondance,earthquake,ironhead||85,85,85,85,85,85|F|||74|,,,,,Steel]Sawsbuck|SawsbuckAutumn|LifeOrb|SereneGrace|hornleech,highhorsepower,headbutt,swordsdance||85,85,85,85,85,85|F|||88|,,,,,Normal]Mienshao||ChoiceBand|Reckless|highjumpkick,stoneedge,knockoff,poisonjab||81,85,85,85,85,85|F|||83|,,,,,Fighting]Hippowdon||Leftovers|SandStream|curse,slackoff,earthquake,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Rock]Hariyama||AssaultVest|ThickFat|headlongrush,knockoff,closecombat,heavyslam||85,85,85,85,85,85|F|||87|,,,,,Steel]Komala||AssaultVest|Comatose|knockoff,earthquake,bodyslam,rapidspin||85,85,85,85,85,85|F|||87|,,,,,Ghost",
+  "curation": {
+    "battles": 100,
+    "playerWins": 52
+  }
 }

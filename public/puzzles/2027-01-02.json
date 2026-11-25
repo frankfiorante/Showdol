@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,db9df35d7f0928f7473b63571f6f43ca88228cc619cab888a859875434008d02",
-    "ai": "sodium,70c4f90f15590d390bc61a558b35eec7367b47771ea553c6bd49d74ebc5bb4dd"
+    "player": "sodium,53fad5f663d2eda1554d64ab8d49996148bc712535bfd2794e1a87fb3f86c9c5",
+    "ai": "sodium,40fb507d31dd59f2985e7942543c49f47ff96a75ff91dec98e2c4a93c6eda88f"
   },
   "playerSpecies": [
-    "Quagsire",
-    "Hydrapple",
-    "Hitmonchan",
-    "Ambipom",
-    "Hypno",
-    "Enamorus"
+    "Hariyama",
+    "Toucannon",
+    "Carbink",
+    "Dragalge",
+    "Seviper",
+    "Stantler"
   ],
-  "player": "Quagsire||Leftovers|Unaware|toxic,earthquake,recover,spikes||85,85,85,85,85,85|F|||84|,,,,,Steel]Hydrapple||Leftovers|Regenerator|recover,nastyplot,ficklebeam,gigadrain||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Hitmonchan||Leftovers|IronFist|rapidspin,taunt,knockoff,drainpunch||85,85,85,85,85,85|M|||87|,,,,,Steel]Ambipom||SilkScarf|Technician|fakeout,lowkick,doubleedge,knockoff||85,85,85,85,85,85|F|||84|,,,,,Normal]Hypno||Leftovers|Insomnia|encore,thunderwave,psychicnoise,knockoff||85,85,85,85,85,85|M|||95|,,,,,Steel]Enamorus||Leftovers|CuteCharm|earthpower,substitute,moonblast,calmmind||85,,85,85,85,85|F|,0,,,,||79|,,,,,Ground",
-  "ai": "Gyarados||HeavyDutyBoots|Intimidate|waterfall,terablast,earthquake,dragondance||85,85,85,85,85,85|M|||79|,,,,,Flying]Espathra||ChoiceSpecs|SpeedBoost|shadowball,uturn,luminacrash,dazzlinggleam||85,85,85,85,85,85|M|||80|,,,,,Psychic]Phione||Leftovers|Hydration|takeheart,scald,icebeam,grassknot||85,,85,85,85,85|N|,0,,,,||91|,,,,,Steel]Gliscor||ToxicOrb|PoisonHeal|knockoff,earthquake,toxicspikes,protect||85,85,85,85,85,85|F|||76|,,,,,Water]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost]Salazzle||Leftovers|Corrosion|flamethrower,substitute,protect,toxic||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying"
+  "player": "Hariyama||FlameOrb|Guts|headlongrush,facade,knockoff,closecombat||85,85,85,85,85,85|M|||87|,,,,,Normal]Toucannon||HeavyDutyBoots|SkillLink|roost,beakblast,bulletseed,boomburst||85,85,85,85,85,85|F|||88|,,,,,Steel]Carbink||ChestoBerry|ClearBody|bodypress,rest,irondefense,moonblast||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Dragalge||Leftovers|Adaptability|dracometeor,focusblast,toxic,sludgewave||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fighting]Seviper||Leftovers|ShedSkin|gunkshot,swordsdance,trailblaze,earthquake||85,85,85,85,85,85|M|||93|,,,,,Grass]Stantler||Eviolite|Intimidate|shadowball,earthpower,calmmind,terablast||85,85,85,85,85,85|F|||90|,,,,,Fairy",
+  "ai": "Reuniclus||LifeOrb|MagicGuard|focusblast,psyshock,calmmind,recover||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Clefable||LifeOrb|MagicGuard|fireblast,moonlight,calmmind,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Mudsdale||Leftovers|Stamina|heavyslam,stealthrock,earthquake,roar||85,85,85,85,85,85|M|||83|,,,,,Steel]Spectrier||Leftovers|GrimNeigh|nastyplot,shadowball,substitute,drainingkiss||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fairy]Passimian||ChoiceScarf|Defiant|earthquake,knockoff,closecombat,gunkshot||85,85,85,85,85,85|F|||83|,,,,,Dark]Porygon2||Eviolite|Download|thunderwave,terablast,shadowball,recover||85,85,85,85,85,85|N|||81|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 72
+  }
 }

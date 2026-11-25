@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,36be57f4d3991f876f0a0d60cd2bf74437d88a7b38ffe512fb6327b3a5a83eee",
-    "ai": "sodium,79dfb51053ab7a4f6bf5684e098c76ad0ce98e75d8b045ecfdbcae78b308bc9a"
+    "player": "sodium,1cb8b5bce8bf186c4c761c124913ee6103f0e7b277d4ec7dba8aca14c916a554",
+    "ai": "sodium,b220fd6e7fe2c102d8f94c6ab1a4932f446bf63ba0d8baf7f119c93bd9bc019d"
   },
   "playerSpecies": [
-    "Bellossom",
-    "Heatran",
-    "Crabominable",
-    "Mienshao",
-    "Cryogonal",
-    "Mudsdale"
+    "Gouging Fire",
+    "Lucario",
+    "Iron Leaves",
+    "Dunsparce",
+    "Latios",
+    "Corviknight"
   ],
-  "player": "Bellossom||Leftovers|Chlorophyll|moonblast,quiverdance,strengthsap,gigadrain||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fairy]Heatran||AirBalloon|FlashFire|stealthrock,heavyslam,earthpower,lavaplume||85,85,85,85,85,85|M|||79|,,,,,Grass]Crabominable||AssaultVest|IronFist|knockoff,drainpunch,earthquake,icehammer||85,85,85,85,85,85|F|||90|,,,,,Water]Mienshao||AssaultVest|Regenerator|knockoff,fakeout,closecombat,uturn||85,85,85,85,85,85|F|||83|,,,,,Steel]Cryogonal||HeavyDutyBoots|Levitate|rapidspin,terablast,recover,icebeam||85,85,85,85,85,85|N|||89|,,,,,Electric]Mudsdale||Leftovers|Stamina|heavyslam,roar,earthquake,stoneedge||85,85,85,85,85,85|F|||83|,,,,,Steel",
-  "ai": "Bisharp||Eviolite|Defiant|suckerpunch,throatchop,stealthrock,ironhead||85,85,85,85,85,85|F|||79|,,,,,Flying]Kilowattrel||HeavyDutyBoots|VoltAbsorb|thunderbolt,roost,uturn,hurricane||85,85,85,85,85,85|F|||83|,,,,,Water]Appletun||Leftovers|ThickFat|leechseed,appleacid,recover,dracometeor||85,,85,85,85,85|F|,0,,,,||92|,,,,,Steel]Meowstic||LightClay|Prankster|lightscreen,psychicnoise,reflect,alluringvoice||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Politoed||Leftovers|Drizzle|hydropump,icebeam,encore,haze||85,,85,85,85,85|M|,0,,,,||88|,,,,,Water]Diancie||Leftovers|ClearBody|diamondstorm,calmmind,drainingkiss,earthpower||85,85,85,85,85,85|N|||82|,,,,,Fairy"
+  "player": "Gouging Fire||HeavyDutyBoots|Protosynthesis|dragondance,outrage,heatcrash,morningsun||85,85,85,85,85,85|N|||74|,,,,,Fairy]Lucario||LifeOrb|InnerFocus|flashcannon,focusblast,vacuumwave,nastyplot||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fighting]Iron Leaves||ChoiceBand|QuarkDrive|leafblade,megahorn,psyblade,closecombat||85,85,85,85,85,85|N|||80|,,,,,Fighting]Dunsparce||Eviolite|SereneGrace|roost,coil,bodyslam,earthquake||85,85,85,85,85,85|F|||86|,,,,,Ghost]Latios||SoulDew|Levitate|recover,aurasphere,lusterpurge,dracometeor||85,,85,85,85,85|M|,0,,,,||78|,,,,,Fighting]Corviknight||RockyHelmet|Pressure|bravebird,roost,bodypress,defog||85,85,85,85,85,85|M|||80|,,,,,Dragon",
+  "ai": "Glimmora||PowerHerb|ToxicDebris|meteorbeam,energyball,earthpower,sludgewave||85,,85,85,85,85|M|,0,,,,||75|,,,,,Grass]Passimian||Leftovers|Defiant|bulkup,knockoff,drainpunch,gunkshot||85,85,85,85,85,85|F|||83|,,,,,Steel]Arbok||Leftovers|Intimidate|trailblaze,coil,gunkshot,earthquake||85,85,85,85,85,85|M|||87|,,,,,Grass]Lapras||HeavyDutyBoots|WaterAbsorb|sparklingaria,sleeptalk,rest,freezedry||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ghost]Tinkaton||Leftovers|MoldBreaker|knockoff,playrough,gigatonhammer,swordsdance||85,85,85,85,85,85|F|||82|,,,,,Steel]Manaphy||Leftovers|Hydration|energyball,hydropump,icebeam,tailglow||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 75
+  }
 }

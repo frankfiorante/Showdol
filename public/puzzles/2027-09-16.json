@@ -20,5 +20,9 @@
     "Armarouge"
   ],
   "player": "Magearna|MagearnaOriginal|ChoiceScarf|SoulHeart|aurasphere,flashcannon,fleurcannon,voltswitch||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fairy]Ting-Lu||Leftovers|VesselofRuin|earthquake,stealthrock,heavyslam,payback||85,85,85,85,85,85|N|||78|,,,,,Ghost]Cinccino||LoadedDice|Technician|tailslap,tripleaxel,bulletseed,uturn||85,85,85,85,85,85|F|||83|,,,,,Normal]Weavile||HeavyDutyBoots|Pickpocket|iceshard,swordsdance,knockoff,tripleaxel||85,85,85,85,85,85|M|||79|,,,,,Dark]Bellibolt||Leftovers|Electromorphosis|thunderbolt,voltswitch,muddywater,slackoff||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Armarouge||PowerHerb|WeakArmor|energyball,meteorbeam,psyshock,armorcannon||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fire",
-  "ai": "Dudunsparce||Leftovers|Rattled|roost,calmmind,shadowball,boomburst||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Scrafty||Leftovers|Intimidate|drainpunch,poisonjab,knockoff,dragondance||85,85,85,85,85,85|M|||83|,,,,,Poison]Rhydon||Eviolite|LightningRod|stealthrock,megahorn,stoneedge,earthquake||85,85,85,85,85,85|M|||85|,,,,,Grass]Miraidon||LifeOrb|HadronEngine|dracometeor,electrodrift,calmmind,dragonpulse||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Noctowl||HeavyDutyBoots|TintedLens|hypervoice,hurricane,calmmind,roost||85,,85,85,85,85|F|,0,,,,||95|,,,,,Ground]Ariados||HeavyDutyBoots|Swarm|poisonjab,megahorn,knockoff,stickyweb||85,85,85,85,85,85|M|||95|,,,,,Ghost"
+  "ai": "Dudunsparce||Leftovers|Rattled|roost,calmmind,shadowball,boomburst||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Scrafty||Leftovers|Intimidate|drainpunch,poisonjab,knockoff,dragondance||85,85,85,85,85,85|M|||83|,,,,,Poison]Rhydon||Eviolite|LightningRod|stealthrock,megahorn,stoneedge,earthquake||85,85,85,85,85,85|M|||85|,,,,,Grass]Miraidon||LifeOrb|HadronEngine|dracometeor,electrodrift,calmmind,dragonpulse||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Noctowl||HeavyDutyBoots|TintedLens|hypervoice,hurricane,calmmind,roost||85,,85,85,85,85|F|,0,,,,||95|,,,,,Ground]Ariados||HeavyDutyBoots|Swarm|poisonjab,megahorn,knockoff,stickyweb||85,85,85,85,85,85|M|||95|,,,,,Ghost",
+  "curation": {
+    "battles": 100,
+    "playerWins": 23
+  }
 }

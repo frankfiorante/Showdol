@@ -20,5 +20,9 @@
     "Fezandipiti"
   ],
   "player": "Mudsdale||Leftovers|Stamina|stoneedge,stealthrock,heavyslam,earthquake||85,85,85,85,85,85|M|||83|,,,,,Steel]Appletun||Leftovers|ThickFat|appleacid,dragontail,dragonpulse,recover||85,85,85,85,85,85|F|||92|,,,,,Steel]Luvdisc||HeavyDutyBoots|SwiftSwim|flipturn,surf,substitute,endeavor||81,85,85,85,85,85|M||||,,,,,Ground]Meloetta||LifeOrb|SereneGrace|closecombat,relicsong,knockoff,tripleaxel||85,85,85,85,85,85|N|||82|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,defog,hydropump||85,85,85,85,85,85|M|||89|,,,,,Ground]Fezandipiti||Leftovers|ToxicChain|gunkshot,swordsdance,terablast,playrough||85,85,85,85,85,85|M|||82|,,,,,Ground",
-  "ai": "Cinderace||ChoiceBand|Libero|highjumpkick,pyroball,uturn,gunkshot||81,85,85,85,85,85|F|||77|,,,,,Fire]Pachirisu||HeavyDutyBoots|VoltAbsorb|superfang,encore,discharge,uturn||85,85,85,85,85,85|F|||96|,,,,,Flying]Wyrdeer||AssaultVest|Intimidate|earthquake,bodyslam,psychicnoise,megahorn||85,85,85,85,85,85|F|||87|,,,,,Ground]Chandelure||ChoiceScarf|FlashFire|trick,shadowball,fireblast,energyball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Articuno||HeavyDutyBoots|Pressure|bravebird,roost,freezedry,uturn||85,85,85,85,85,85|N|||86|,,,,,Steel]Crabominable||AssaultVest|IronFist|drainpunch,icehammer,knockoff,earthquake||85,85,85,85,85,85|M|||90|,,,,,Fighting"
+  "ai": "Cinderace||ChoiceBand|Libero|highjumpkick,pyroball,uturn,gunkshot||81,85,85,85,85,85|F|||77|,,,,,Fire]Pachirisu||HeavyDutyBoots|VoltAbsorb|superfang,encore,discharge,uturn||85,85,85,85,85,85|F|||96|,,,,,Flying]Wyrdeer||AssaultVest|Intimidate|earthquake,bodyslam,psychicnoise,megahorn||85,85,85,85,85,85|F|||87|,,,,,Ground]Chandelure||ChoiceScarf|FlashFire|trick,shadowball,fireblast,energyball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Articuno||HeavyDutyBoots|Pressure|bravebird,roost,freezedry,uturn||85,85,85,85,85,85|N|||86|,,,,,Steel]Crabominable||AssaultVest|IronFist|drainpunch,icehammer,knockoff,earthquake||85,85,85,85,85,85|M|||90|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 43
+  }
 }

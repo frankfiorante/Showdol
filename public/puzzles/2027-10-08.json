@@ -20,5 +20,9 @@
     "Copperajah"
   ],
   "player": "Ursaring||ToxicOrb|QuickFeet|closecombat,swordsdance,throatchop,facade||85,85,85,85,85,85|F|||84|,,,,,Normal]Gastrodon||Leftovers|StormDrain|recover,surf,earthquake,stealthrock||85,85,85,85,85,85|M|||86|,,,,,Steel]Feraligatr||LifeOrb|SheerForce|crunch,dragondance,liquidation,icepunch||85,85,85,85,85,85|F|||79|,,,,,Dark]Talonflame||HeavyDutyBoots|GaleWings|bravebird,flareblitz,swordsdance,terablast||85,85,85,85,85,85|M|||83|,,,,,Ground]Mismagius||LifeOrb|Levitate|mysticalfire,nastyplot,shadowball,dazzlinggleam||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy]Copperajah||LifeOrb|SheerForce|rockslide,ironhead,playrough,superpower||85,85,85,85,85,85|M|||86|,,,,,Fairy",
-  "ai": "Terrakion||LifeOrb|Justified|stoneedge,swordsdance,closecombat,earthquake||85,85,85,85,85,85|N|||79|,,,,,Fighting]Haxorus||LumBerry|MoldBreaker|outrage,earthquake,dragondance,ironhead||85,85,85,85,85,85|M|||78|,,,,,Steel]Phione||Leftovers|Hydration|icebeam,takeheart,grassknot,scald||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Rillaboom||LifeOrb|GrassySurge|swordsdance,grassyglide,highhorsepower,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Kricketune||HeavyDutyBoots|Technician|pounce,stickyweb,taunt,knockoff||85,85,85,85,85,85|F|||99|,,,,,Ghost]Raging Bolt||AssaultVest|Protosynthesis|discharge,dracometeor,voltswitch,thunderclap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric"
+  "ai": "Terrakion||LifeOrb|Justified|stoneedge,swordsdance,closecombat,earthquake||85,85,85,85,85,85|N|||79|,,,,,Fighting]Haxorus||LumBerry|MoldBreaker|outrage,earthquake,dragondance,ironhead||85,85,85,85,85,85|M|||78|,,,,,Steel]Phione||Leftovers|Hydration|icebeam,takeheart,grassknot,scald||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Rillaboom||LifeOrb|GrassySurge|swordsdance,grassyglide,highhorsepower,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Kricketune||HeavyDutyBoots|Technician|pounce,stickyweb,taunt,knockoff||85,85,85,85,85,85|F|||99|,,,,,Ghost]Raging Bolt||AssaultVest|Protosynthesis|discharge,dracometeor,voltswitch,thunderclap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric",
+  "curation": {
+    "battles": 100,
+    "playerWins": 67
+  }
 }

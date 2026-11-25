@@ -20,5 +20,9 @@
     "Mightyena"
   ],
   "player": "Mew||Leftovers|Synchronize|encore,psychicnoise,willowisp,uturn||85,85,85,85,85,85|N|||82|,,,,,Fairy]Hippowdon||Leftovers|SandStream|stoneedge,earthquake,slackoff,curse||85,85,85,85,85,85|F|||82|,,,,,Rock]Meowstic|MeowsticF|LifeOrb|Competitive|darkpulse,nastyplot,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||89|,,,,,Electric]Primarina||Leftovers|Torrent|calmmind,psychic,sparklingaria,drainingkiss||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Iron Valiant||LifeOrb|QuarkDrive|calmmind,moonblast,closecombat,psychic||85,85,85,85,85,85|N|||78|,,,,,Steel]Mightyena||Leftovers|Intimidate|throatchop,taunt,playrough,suckerpunch||85,85,85,85,85,85|M|||96|,,,,,Fairy",
-  "ai": "Beartic||HeavyDutyBoots|SlushRush|swordsdance,snowscape,iciclecrash,closecombat||85,85,85,85,85,85|F|||91|,,,,,Fighting]Komala||AssaultVest|Comatose|knockoff,bodyslam,rapidspin,uturn||85,85,85,85,85,85|M|||87|,,,,,Ghost]Falinks||LifeOrb|Defiant|closecombat,noretreat,knockoff,ironhead||85,85,85,85,85,85|N|||84|,,,,,Dark]Lycanroc||LifeOrb|SandRush|closecombat,stoneedge,taunt,psychicfangs||85,85,85,85,85,85|M|||86|,,,,,Fighting]Flareon||ToxicOrb|Guts|flareblitz,trailblaze,quickattack,facade||85,85,85,85,85,85|F|||90|,,,,,Normal]Dachsbun||Leftovers|WellBakedBody|wish,bodypress,protect,playrough||85,85,85,85,85,85|M|||92|,,,,,Steel"
+  "ai": "Beartic||HeavyDutyBoots|SlushRush|swordsdance,snowscape,iciclecrash,closecombat||85,85,85,85,85,85|F|||91|,,,,,Fighting]Komala||AssaultVest|Comatose|knockoff,bodyslam,rapidspin,uturn||85,85,85,85,85,85|M|||87|,,,,,Ghost]Falinks||LifeOrb|Defiant|closecombat,noretreat,knockoff,ironhead||85,85,85,85,85,85|N|||84|,,,,,Dark]Lycanroc||LifeOrb|SandRush|closecombat,stoneedge,taunt,psychicfangs||85,85,85,85,85,85|M|||86|,,,,,Fighting]Flareon||ToxicOrb|Guts|flareblitz,trailblaze,quickattack,facade||85,85,85,85,85,85|F|||90|,,,,,Normal]Dachsbun||Leftovers|WellBakedBody|wish,bodypress,protect,playrough||85,85,85,85,85,85|M|||92|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 60
+  }
 }

@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,e22a4606d3631ddb9e9fc2b73e110f0af1a683c1fce218a12255bc32a50c77b8",
-    "ai": "sodium,1427c898881db729858ea85839b0b691c758359d6a119f26c4775af8aa54ca5b"
+    "player": "sodium,111c2bb2cc60c5f81f626deebce0219043fc24ce014960ff6e0a5200f3624ae3",
+    "ai": "sodium,3e388fc25aa432ee03507be560561fcc6d0f17bb6930b26183f0768eb531d413"
   },
   "playerSpecies": [
-    "Garchomp",
-    "Oranguru",
-    "Annihilape",
-    "Metagross",
-    "Ampharos",
-    "Dondozo"
+    "Floatzel",
+    "Fezandipiti",
+    "Abomasnow",
+    "Arceus-Dark",
+    "Skarmory",
+    "Iron Crown"
   ],
-  "player": "Garchomp||RockyHelmet|RoughSkin|stealthrock,spikes,earthquake,outrage||85,85,85,85,85,85|M|||74|,,,,,Ground]Oranguru||Leftovers|InnerFocus|nastyplot,psyshock,focusblast,thunderbolt||85,,85,85,85,85|M|,0,,,,||92|,,,,,Electric]Annihilape||ChestoBerry|Defiant|drainpunch,rest,bulkup,ragefist||85,85,85,85,85,85|M|||76|,,,,,Ghost]Metagross||ChoiceBand|ClearBody|psychicfangs,heavyslam,knockoff,bulletpunch||85,85,85,85,85,85|N|||79|,,,,,Water]Ampharos||AssaultVest|Static|focusblast,thunderbolt,voltswitch,dazzlinggleam||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fairy]Dondozo||Leftovers|Unaware|wavecrash,rest,curse,sleeptalk||85,85,85,85,85,85|M|||78|,,,,,Dragon",
-  "ai": "Dachsbun||Leftovers|WellBakedBody|bodypress,protect,wish,playrough||85,85,85,85,85,85|F|||92|,,,,,Steel]Gyarados||HeavyDutyBoots|Intimidate|terablast,waterfall,earthquake,dragondance||85,85,85,85,85,85|M|||79|,,,,,Flying]Iron Boulder||BoosterEnergy|QuarkDrive|mightycleave,swordsdance,zenheadbutt,closecombat||85,85,85,85,85,85|N|||77|,,,,,Fighting]Spidops||HeavyDutyBoots|Stakeout|stickyweb,toxicspikes,knockoff,uturn||85,85,85,85,85,85|F|||96|,,,,,Ghost]Flamigo||ChoiceScarf|Scrappy|closecombat,uturn,throatchop,bravebird||85,85,85,85,85,85|M|||82|,,,,,Fighting]Zangoose||ToxicOrb|ToxicBoost|knockoff,facade,swordsdance,closecombat||85,85,85,85,85,85|F|||85|,,,,,Normal"
+  "player": "Floatzel||Leftovers|WaterVeil|icespinner,wavecrash,bulkup,taunt||85,85,85,85,85,85|M|||86|,,,,,Water]Fezandipiti||Leftovers|ToxicChain|terablast,swordsdance,playrough,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Ground]Abomasnow||LightClay|SnowWarning|blizzard,woodhammer,iceshard,auroraveil||77,85,85,85,85,85|F|||84|,,,,,Water]Arceus|ArceusDark|DreadPlate|Multitype|sludgebomb,judgment,calmmind,recover||85,,85,85,85,85|N|,0,,,,||71|,,,,,Poison]Skarmory||Leftovers|Sturdy|roost,bravebird,irondefense,bodypress||85,85,85,85,85,85|F|||80|,,,,,Fighting]Iron Crown||ChoiceSpecs|QuarkDrive|focusblast,tachyoncutter,psyshock,voltswitch||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting",
+  "ai": "Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,recover,partingshot,shadowball||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Grumpig||ChoiceScarf|ThickFat|focusblast,shadowball,psychic,trick||85,,85,85,85,85|M|,0,,,,||92|,,,,,Fighting]Basculin|BasculinBlueStriped|ChoiceBand|Adaptability|flipturn,doubleedge,wavecrash,aquajet||85,85,85,85,85,85|F|||86|,,,,,Water]Delibird||HeavyDutyBoots|VitalSpirit|bravebird,freezedry,spikes,rapidspin||85,85,85,85,85,85|F||||,,,,,Ghost]Zekrom||Leftovers|Teravolt|dragondance,outrage,boltstrike,substitute||85,85,85,85,85,85|N|||71|,,,,,Fairy]Krookodile||Leftovers|Intimidate|knockoff,earthquake,bulkup,gunkshot||85,85,85,85,85,85|M|||79|,,,,,Poison",
+  "curation": {
+    "battles": 100,
+    "playerWins": 35
+  }
 }

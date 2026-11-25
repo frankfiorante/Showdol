@@ -20,5 +20,9 @@
     "Azelf"
   ],
   "player": "Houndoom||HeavyDutyBoots|FlashFire|sludgebomb,suckerpunch,fireblast,darkpulse||85,85,85,85,85,85|M|||87|,,,,,Poison]Torkoal||HeavyDutyBoots|Drought|lavaplume,rapidspin,stealthrock,solarbeam||85,85,85,85,85,85|F|||88|,,,,,Dragon]Kingambit||Leftovers|SupremeOverlord|suckerpunch,ironhead,swordsdance,kowtowcleave||85,85,85,85,85,85|F|||74|,,,,,Dark]Toedscruel||Leftovers|MyceliumMight|earthpower,knockoff,spore,leafstorm||85,85,85,85,85,85|M|||87|,,,,,Water]Mimikyu||LifeOrb|Disguise|playrough,swordsdance,drainpunch,shadowsneak||85,85,85,85,85,85|F|||79|,,,,,Fighting]Azelf||ChoiceSpecs|Levitate|uturn,fireblast,psyshock,dazzlinggleam||85,85,85,85,85,85|N|||82|,,,,,Psychic",
-  "ai": "Iron Leaves||ChoiceBand|QuarkDrive|leafblade,psyblade,closecombat,megahorn||85,85,85,85,85,85|N|||80|,,,,,Fighting]Mightyena||ChoiceBand|Intimidate|suckerpunch,poisonfang,crunch,playrough||85,85,85,85,85,85|M|||96|,,,,,Fairy]Ninetales||HeavyDutyBoots|Drought|scorchingsands,nastyplot,solarbeam,fireblast||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fire]Clodsire||Leftovers|WaterAbsorb|toxicspikes,recover,earthquake,poisonjab||85,85,85,85,85,85|M|||81|,,,,,Flying]Regice||HeavyDutyBoots|ClearBody|thunderbolt,bodypress,thunderwave,icebeam||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Alomomola||RockyHelmet|Regenerator|protect,flipturn,wish,scald||85,85,85,85,85,85|F|||87|,,,,,Poison"
+  "ai": "Iron Leaves||ChoiceBand|QuarkDrive|leafblade,psyblade,closecombat,megahorn||85,85,85,85,85,85|N|||80|,,,,,Fighting]Mightyena||ChoiceBand|Intimidate|suckerpunch,poisonfang,crunch,playrough||85,85,85,85,85,85|M|||96|,,,,,Fairy]Ninetales||HeavyDutyBoots|Drought|scorchingsands,nastyplot,solarbeam,fireblast||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fire]Clodsire||Leftovers|WaterAbsorb|toxicspikes,recover,earthquake,poisonjab||85,85,85,85,85,85|M|||81|,,,,,Flying]Regice||HeavyDutyBoots|ClearBody|thunderbolt,bodypress,thunderwave,icebeam||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Alomomola||RockyHelmet|Regenerator|protect,flipturn,wish,scald||85,85,85,85,85,85|F|||87|,,,,,Poison",
+  "curation": {
+    "battles": 100,
+    "playerWins": 73
+  }
 }

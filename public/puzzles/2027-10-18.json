@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,7a18526d91fb88de7c18b8655e480e8154cb075fafff279f806699eea7c11cd6",
-    "ai": "sodium,85eccb826446527294a798c929cc039e41285420bd0175329888237f49a99d0f"
+    "player": "sodium,852ffc3582e09dd2466bf14d4509fb97ac883b6f0b84ce100d35416580c041d9",
+    "ai": "sodium,847a1f03dd3e7e5b12b4fd0d4505ef5cff565f9ac0fa83900f203b5c62e52380"
   },
   "playerSpecies": [
-    "Excadrill",
-    "Gumshoos",
-    "Gliscor",
-    "Regice",
-    "Tinkaton",
-    "Tornadus-Therian"
+    "Gouging Fire",
+    "Primarina",
+    "Falinks",
+    "Haxorus",
+    "Feraligatr",
+    "Komala"
   ],
-  "player": "Excadrill||Leftovers|MoldBreaker|rapidspin,earthquake,swordsdance,ironhead||85,85,85,85,85,85|M|||79|,,,,,Grass]Gumshoos||ChoiceBand|Adaptability|doubleedge,earthquake,knockoff,uturn||85,85,85,85,85,85|F|||95|,,,,,Ground]Gliscor||ToxicOrb|PoisonHeal|knockoff,earthquake,toxic,protect||85,85,85,85,85,85|F|||76|,,,,,Water]Regice||HeavyDutyBoots|ClearBody|bodypress,icebeam,thunderbolt,thunderwave||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Tinkaton||Leftovers|MoldBreaker|protect,swordsdance,gigatonhammer,playrough||85,85,85,85,85,85|F|||82|,,,,,Steel]Tornadus|TornadusTherian|ChoiceSpecs|Regenerator|heatwave,bleakwindstorm,uturn,grassknot||85,85,85,85,85,85|M|||79|,,,,,Fire",
-  "ai": "Arcanine|ArcanineHisui|ChoiceBand|RockHead|flareblitz,extremespeed,closecombat,headsmash||81,85,85,85,85,85|F|||79|,,,,,Rock]Weavile||HeavyDutyBoots|Pickpocket|tripleaxel,knockoff,swordsdance,lowkick||85,85,85,85,85,85|F|||79|,,,,,Ice]Chi-Yu||ChoiceSpecs|BeadsofRuin|flamethrower,overheat,darkpulse,psychic||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Lunala||Leftovers|ShadowShield|moonlight,calmmind,psyshock,moongeistbeam||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fairy]Electrode|ElectrodeHisui|Leftovers|Soundproof|substitute,gigadrain,leechseed,thunderbolt||85,,85,85,85,85|N|,0,,,,||87|,,,,,Poison]Pawmot||LeppaBerry|VoltAbsorb|closecombat,doubleshock,nuzzle,revivalblessing||85,85,85,85,85,85|F|||80|,,,,,Electric"
+  "player": "Gouging Fire||HeavyDutyBoots|Protosynthesis|heatcrash,dragondance,earthquake,outrage||85,85,85,85,85,85|N|||74|,,,,,Ground]Primarina||Leftovers|Torrent|psychic,calmmind,drainingkiss,sparklingaria||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel]Falinks||LifeOrb|Defiant|ironhead,noretreat,knockoff,closecombat||85,85,85,85,85,85|N|||84|,,,,,Dark]Haxorus||LoadedDice|MoldBreaker|closecombat,scaleshot,ironhead,swordsdance||85,85,85,85,85,85|F|||78|,,,,,Steel]Feraligatr||LifeOrb|SheerForce|icepunch,liquidation,dragondance,crunch||85,85,85,85,85,85|M|||79|,,,,,Water]Komala||AssaultVest|Comatose|rapidspin,bodyslam,earthquake,knockoff||85,85,85,85,85,85|M|||87|,,,,,Ghost",
+  "ai": "Thundurus||HeavyDutyBoots|Defiant|focusblast,thunderbolt,nastyplot,terablast||85,85,85,85,85,85|M|||80|,,,,,Flying]Skeledirge||HeavyDutyBoots|Unaware|willowisp,hex,torchsong,slackoff||85,,85,85,85,85|F|,0,,,,||79|,,,,,Water]Shiftry||HeavyDutyBoots|WindRider|willowisp,knockoff,leafstorm,defog||85,85,85,85,85,85|F|||89|,,,,,Poison]Baxcalibur||ChoiceBand|ThermalExchange|iciclecrash,iceshard,earthquake,glaiverush||81,85,85,85,85,85|M|||75|,,,,,Ground]Gallade||ChoiceBand|Sharpness|psychocut,nightslash,sacredsword,leafblade||85,85,85,85,85,85|M|||80|,,,,,Grass]Basculin||ChoiceBand|Adaptability|doubleedge,aquajet,flipturn,wavecrash||85,85,85,85,85,85|F|||86|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 72
+  }
 }

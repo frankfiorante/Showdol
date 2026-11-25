@@ -20,5 +20,9 @@
     "Ditto"
   ],
   "player": "Rotom||LifeOrb|Levitate|thunderbolt,willowisp,nastyplot,shadowball||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Ceruledge||HeavyDutyBoots|WeakArmor|poltergeist,swordsdance,bitterblade,closecombat||85,85,85,85,85,85|M|||78|,,,,,Fighting]Mew||Leftovers|Synchronize|psychic,willowisp,encore,stealthrock||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Toxtricity||ChoiceSpecs|PunkRock|boomburst,sludgewave,voltswitch,overdrive||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Furret||ChoiceBand|Frisk|trick,doubleedge,uturn,knockoff||85,85,85,85,85,85|M|||94|,,,,,Normal]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Steel",
-  "ai": "Roaring Moon||ChoiceBand|Protosynthesis|outrage,uturn,knockoff,ironhead||85,85,85,85,85,85|N|||72|,,,,,Dark]Arboliva||SitrusBerry|Harvest|protect,hypervoice,leechseed,substitute||77,,85,85,85,85|M|,0,,,,||91|,,,,,Poison]Talonflame||HeavyDutyBoots|FlameBody|bravebird,uturn,roost,overheat||85,85,85,85,85,85|M|||83|,,,,,Dragon]Bellibolt||Leftovers|Electromorphosis|muddywater,slackoff,thunderbolt,voltswitch||85,,85,85,85,85|M|,0,,,,||84|,,,,,Electric]Rabsca||HeavyDutyBoots|Synchronize|revivalblessing,bugbuzz,recover,psychic||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Victreebel||LifeOrb|Chlorophyll|weatherball,powerwhip,sludgewave,sunnyday||85,85,85,85,85,85|F|||90|,,,,,Fire"
+  "ai": "Roaring Moon||ChoiceBand|Protosynthesis|outrage,uturn,knockoff,ironhead||85,85,85,85,85,85|N|||72|,,,,,Dark]Arboliva||SitrusBerry|Harvest|protect,hypervoice,leechseed,substitute||77,,85,85,85,85|M|,0,,,,||91|,,,,,Poison]Talonflame||HeavyDutyBoots|FlameBody|bravebird,uturn,roost,overheat||85,85,85,85,85,85|M|||83|,,,,,Dragon]Bellibolt||Leftovers|Electromorphosis|muddywater,slackoff,thunderbolt,voltswitch||85,,85,85,85,85|M|,0,,,,||84|,,,,,Electric]Rabsca||HeavyDutyBoots|Synchronize|revivalblessing,bugbuzz,recover,psychic||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Victreebel||LifeOrb|Chlorophyll|weatherball,powerwhip,sludgewave,sunnyday||85,85,85,85,85,85|F|||90|,,,,,Fire",
+  "curation": {
+    "battles": 100,
+    "playerWins": 21
+  }
 }

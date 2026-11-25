@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 3,
   "seeds": {
-    "player": "sodium,297a52ef6cd72199383e1fa843c129e1f2d045fc496d4f9f97bce58d67620444",
-    "ai": "sodium,5971e57b30976eb184c23e471b278bcf974d3b2bbaaac8b2eebdf35c1b9197a3"
+    "player": "sodium,27f248a7d6b2a01590831e1a2f49f53a2c1b170b54c72c5634ea8811a108709a",
+    "ai": "sodium,24c09b309a7316f3883eb8e33908f620136be410221ab904415c77a006f194e4"
   },
   "playerSpecies": [
-    "Pincurchin",
-    "Roaring Moon",
-    "Weezing",
-    "Masquerain",
-    "Crawdaunt",
-    "Ogerpon"
+    "Arceus-Steel",
+    "Corviknight",
+    "Groudon",
+    "Brute Bonnet",
+    "Flamigo",
+    "Quaquaval"
   ],
-  "player": "Pincurchin||Leftovers|ElectricSurge|scald,recover,toxicspikes,thunderbolt||85,,85,85,85,85|F|,0,,,,|||,,,,,Water]Roaring Moon||LumBerry|Protosynthesis|outrage,ironhead,knockoff,dragondance||85,85,85,85,85,85|N|||72|,,,,,Fairy]Weezing||Leftovers|Levitate|gunkshot,fireblast,willowisp,painsplit||85,85,85,85,85,85|M|||88|,,,,,Steel]Masquerain||HeavyDutyBoots|Intimidate|bugbuzz,hurricane,quiverdance,hydropump||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Crawdaunt||LifeOrb|Adaptability|closecombat,crabhammer,knockoff,dragondance||85,85,85,85,85,85|F|||84|,,,,,Fighting]Ogerpon||Leftovers|Defiant|ivycudgel,superpower,encore,spikes||85,85,85,85,85,85|F|||80|,,,,,Grass",
-  "ai": "Camerupt||Leftovers|SolidRock|willowisp,earthquake,stealthrock,overheat||85,85,85,85,85,85|F|||91|,,,,,Water]Salamence||HeavyDutyBoots|Intimidate|outrage,dualwingbeat,dragondance,roost||85,85,85,85,85,85|F|||77|,,,,,Steel]Meloetta||Leftovers|SereneGrace|calmmind,hypervoice,focusblast,psyshock||85,,85,85,85,85|N|,0,,,,||82|,,,,,Psychic]Hatterene||AssaultVest|MagicBounce|psychic,nuzzle,mysticalfire,drainingkiss||85,85,85,85,85,85|F|||85|,,,,,Steel]Dedenne||SitrusBerry|CheekPouch|nuzzle,thunderbolt,dazzlinggleam,uturn||85,85,85,85,85,85|M|||88|,,,,,Flying]Barraskewda||ChoiceBand|SwiftSwim|waterfall,closecombat,flipturn,throatchop||85,85,85,85,85,85|M|||81|,,,,,Fighting"
+  "player": "Arceus|ArceusSteel|IronPlate|Multitype|judgment,willowisp,earthquake,recover||85,85,85,85,85,85|N|||70|,,,,,Ghost]Corviknight||RockyHelmet|MirrorArmor|uturn,roost,defog,bravebird||85,85,85,85,85,85|M|||80|,,,,,Dragon]Groudon||Leftovers|Drought|roar,precipiceblades,heatcrash,spikes||85,85,85,85,85,85|N|||72|,,,,,Fire]Brute Bonnet||Leftovers|Protosynthesis|crunch,spore,suckerpunch,closecombat||85,85,85,85,85,85|N|||79|,,,,,Poison]Flamigo||ChoiceBand|Scrappy|uturn,throatchop,bravebird,closecombat||85,85,85,85,85,85|M|||82|,,,,,Fighting]Quaquaval||LifeOrb|Moxie|aquastep,closecombat,swordsdance,tripleaxel||85,85,85,85,85,85|M|||79|,,,,,Fighting",
+  "ai": "Crabominable||ChoiceBand|IronFist|icehammer,gunkshot,knockoff,closecombat||85,85,85,85,85,85|M|||90|,,,,,Fighting]Glastrier||HeavyDutyBoots|ChillingNeigh|swordsdance,closecombat,highhorsepower,iciclecrash||85,85,85,85,85,85|N|||86|,,,,,Ground]Entei||ChoiceBand|InnerFocus|sacredfire,extremespeed,stoneedge,flareblitz||85,85,85,85,85,85|N|||78|,,,,,Normal]Passimian||ChoiceBand|Defiant|knockoff,closecombat,rockslide,earthquake||85,85,85,85,85,85|F|||83|,,,,,Fighting]Torkoal||HeavyDutyBoots|Drought|stealthrock,yawn,lavaplume,rapidspin||85,85,85,85,85,85|F|||88|,,,,,Dragon]Rillaboom||LifeOrb|GrassySurge|woodhammer,highhorsepower,grassyglide,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Grass",
+  "curation": {
+    "battles": 100,
+    "playerWins": 77
+  }
 }

@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,7c984232f16c888ef4470c3b1e3ea1b5cf224886e52eab34eeb716c32285ca32",
-    "ai": "sodium,b3a8854026989b496773c055865a75b343b601350146ea644a5f38b636a37105"
+    "player": "sodium,1b7beda899ee4e8d658d1f4aa47257b71ac2063db9ca91204c41739dafa96b2d",
+    "ai": "sodium,5141a1d2db924464a8f88ef506e9f9fc56921f3fd8b95ccffebd7fe6fd8c5034"
   },
   "playerSpecies": [
-    "Luvdisc",
-    "Magnezone",
-    "Iron Treads",
-    "Slaking",
-    "Quagsire",
-    "Leafeon"
+    "Poliwrath",
+    "Golurk",
+    "Revavroom",
+    "Milotic",
+    "Zoroark-Hisui",
+    "Virizion"
   ],
-  "player": "Luvdisc||HeavyDutyBoots|SwiftSwim|whirlpool,substitute,surf,endeavor||81,,85,85,85,85|F|,0,,,,|||,,,,,Ground]Magnezone||AssaultVest|MagnetPull|voltswitch,flashcannon,bodypress,thunderbolt||85,,85,85,85,85|N|,0,,,,||84|,,,,,Flying]Iron Treads||AssaultVest|QuarkDrive|rapidspin,earthquake,ironhead,voltswitch||85,85,85,85,85,85|N|||77|,,,,,Dragon]Slaking||ChoiceScarf|Truant|earthquake,gigaimpact,knockoff,doubleedge||85,85,85,85,85,85|M|||84|,,,,,Normal]Quagsire||Leftovers|Unaware|toxic,spikes,earthquake,recover||85,85,85,85,85,85|F|||84|,,,,,Fairy]Leafeon||LifeOrb|Chlorophyll|doubleedge,swordsdance,leafblade,synthesis||85,85,85,85,85,85|M|||88|,,,,,Normal",
-  "ai": "Gengar||LifeOrb|CursedBody|toxicspikes,shadowball,sludgewave,focusblast||85,,85,85,85,85|M|,0,,,,||81|,,,,,Ghost]Flamigo||ChoiceBand|Scrappy|closecombat,bravebird,throatchop,uturn||85,85,85,85,85,85|F|||82|,,,,,Fighting]Torkoal||HeavyDutyBoots|Drought|stealthrock,rapidspin,lavaplume,solarbeam||85,85,85,85,85,85|M|||88|,,,,,Dragon]Scizor||LifeOrb|Technician|swordsdance,bulletpunch,bugbite,knockoff||85,85,85,85,85,85|F|||79|,,,,,Steel]Exeggutor|ExeggutorAlola|SitrusBerry|Harvest|dragonpulse,gigadrain,flamethrower,calmmind||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fire]Iron Thorns||BoosterEnergy|QuarkDrive|earthquake,stoneedge,dragondance,wildcharge||85,85,85,85,85,85|N|||81|,,,,,Flying"
+  "player": "Poliwrath||Leftovers|WaterAbsorb|bulkup,drainpunch,knockoff,liquidation||85,85,85,85,85,85|M|||88|,,,,,Steel]Golurk||ChoiceBand|NoGuard|earthquake,poltergeist,dynamicpunch,stoneedge||85,85,85,85,85,85|N|||87|,,,,,Ground]Revavroom||LifeOrb|Filter|highhorsepower,ironhead,gunkshot,shiftgear||85,85,85,85,85,85|M|||79|,,,,,Ground]Milotic||Leftovers|Competitive|dragontail,scald,icebeam,recover||85,85,85,85,85,85|M|||83|,,,,,Dragon]Zoroark|ZoroarkHisui|ChoiceSpecs|Illusion|focusblast,bittermalice,flamethrower,hypervoice||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fighting]Virizion||LifeOrb|Justified|stoneedge,closecombat,leafblade,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock",
+  "ai": "Lokix||SilverPowder|TintedLens|knockoff,firstimpression,uturn,suckerpunch||85,85,85,85,85,85|M|||82|,,,,,Bug]Lilligant|LilligantHisui|WideLens|Hustle|leafblade,victorydance,closecombat,sleeppowder||85,85,85,85,85,85|F|||79|,,,,,Fighting]Jirachi||Leftovers|SereneGrace|wish,ironhead,bodyslam,protect||85,85,85,85,85,85|N|||80|,,,,,Water]Okidogi||Leftovers|ToxicChain|bulkup,gunkshot,knockoff,drainpunch||85,85,85,85,85,85|M|||77|,,,,,Dark]Scream Tail||Leftovers|Protosynthesis|wish,protect,thunderwave,dazzlinggleam||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Swampert||Leftovers|Damp|knockoff,stealthrock,yawn,earthquake||85,85,85,85,85,85|F|||82|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 53
+  }
 }

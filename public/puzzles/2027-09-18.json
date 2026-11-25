@@ -20,5 +20,9 @@
     "Scovillain"
   ],
   "player": "Krookodile||Leftovers|Intimidate|earthquake,bulkup,gunkshot,knockoff||85,85,85,85,85,85|M|||79|,,,,,Poison]Porygon-Z||ChoiceScarf|Download|icebeam,shadowball,triattack,trick||85,,85,85,85,85|N|,0,,,,||83|,,,,,Ghost]Golem||CustapBerry|Sturdy|stealthrock,stoneedge,explosion,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Spectrier||LifeOrb|GrimNeigh|shadowball,nastyplot,darkpulse,willowisp||85,,85,85,85,85|N|,0,,,,||75|,,,,,Dark]Blaziken||LifeOrb|SpeedBoost|swordsdance,flareblitz,closecombat,knockoff||85,85,85,85,85,85|F|||76|,,,,,Fighting]Scovillain||ChoiceScarf|Chlorophyll|energyball,flamethrower,overheat,leafstorm||85,,85,85,85,85|F|,0,,,,||91|,,,,,Grass",
-  "ai": "Qwilfish|QwilfishHisui|Eviolite|Intimidate|gunkshot,taunt,crunch,spikes||85,85,85,85,85,85|M|||83|,,,,,Poison]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,facade,bravebird,protect||85,85,85,85,85,85|M|||85|,,,,,Normal]Iron Leaves||ChoiceBand|QuarkDrive|leafblade,psyblade,closecombat,megahorn||85,85,85,85,85,85|N|||80|,,,,,Fighting]Kilowattrel||HeavyDutyBoots|VoltAbsorb|thunderbolt,uturn,roost,hurricane||85,85,85,85,85,85|F|||83|,,,,,Water]Mesprit||Leftovers|Levitate|knockoff,stealthrock,psychicnoise,icebeam||85,85,85,85,85,85|N|||85|,,,,,Dark]Magnezone||AssaultVest|Analytic|voltswitch,bodypress,flashcannon,discharge||85,,85,85,85,85|N|,0,,,,||84|,,,,,Flying"
+  "ai": "Qwilfish|QwilfishHisui|Eviolite|Intimidate|gunkshot,taunt,crunch,spikes||85,85,85,85,85,85|M|||83|,,,,,Poison]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,facade,bravebird,protect||85,85,85,85,85,85|M|||85|,,,,,Normal]Iron Leaves||ChoiceBand|QuarkDrive|leafblade,psyblade,closecombat,megahorn||85,85,85,85,85,85|N|||80|,,,,,Fighting]Kilowattrel||HeavyDutyBoots|VoltAbsorb|thunderbolt,uturn,roost,hurricane||85,85,85,85,85,85|F|||83|,,,,,Water]Mesprit||Leftovers|Levitate|knockoff,stealthrock,psychicnoise,icebeam||85,85,85,85,85,85|N|||85|,,,,,Dark]Magnezone||AssaultVest|Analytic|voltswitch,bodypress,flashcannon,discharge||85,,85,85,85,85|N|,0,,,,||84|,,,,,Flying",
+  "curation": {
+    "battles": 100,
+    "playerWins": 80
+  }
 }

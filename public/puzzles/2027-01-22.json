@@ -20,5 +20,9 @@
     "Houndoom"
   ],
   "player": "Scrafty||Leftovers|Intimidate|knockoff,drainpunch,dragondance,poisonjab||85,85,85,85,85,85|M|||83|,,,,,Poison]Exeggutor|ExeggutorAlola|SitrusBerry|Harvest|flamethrower,calmmind,dragonpulse,gigadrain||85,,85,85,85,85|M|,0,,,,||89|,,,,,Steel]Minior|MiniorYellow|WhiteHerb|ShieldsDown|powergem,shellsmash,acrobatics,earthquake||85,85,85,85,85,85|N|||79|,,,,,Ground]Hawlucha||WhiteHerb|Unburden|closecombat,bravebird,acrobatics,swordsdance||85,85,85,85,85,85|M|||80|,,,,,Fighting]Galvantula||HeavyDutyBoots|CompoundEyes|voltswitch,bugbuzz,thunder,stickyweb||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Houndoom||HeavyDutyBoots|FlashFire|sludgebomb,nastyplot,fireblast,darkpulse||85,,85,85,85,85|F|,0,,,,||87|,,,,,Dark",
-  "ai": "Heracross||ChoiceBand|Moxie|megahorn,stoneedge,closecombat,earthquake||85,85,85,85,85,85|M|||80|,,,,,Bug]Vespiquen||HeavyDutyBoots|Pressure|toxicspikes,roost,hurricane,spikes||85,,85,85,85,85|F|,0,,,,||99|,,,,,Steel]Gengar||ChoiceSpecs|CursedBody|shadowball,trick,sludgewave,focusblast||85,,85,85,85,85|M|,0,,,,||81|,,,,,Dark]Greninja|GreninjaBond|LifeOrb|BattleBond|darkpulse,icebeam,hydropump,gunkshot||85,85,85,85,85,85|M|||80|,,,,,Poison]Gastrodon||Leftovers|StormDrain|recover,stealthrock,surf,earthquake||85,85,85,85,85,85|M|||86|,,,,,Poison]Trevenant||LifeOrb|NaturalCure|woodhammer,poltergeist,willowisp,drainpunch||85,85,85,85,85,85|F|||89|,,,,,Fighting"
+  "ai": "Heracross||ChoiceBand|Moxie|megahorn,stoneedge,closecombat,earthquake||85,85,85,85,85,85|M|||80|,,,,,Bug]Vespiquen||HeavyDutyBoots|Pressure|toxicspikes,roost,hurricane,spikes||85,,85,85,85,85|F|,0,,,,||99|,,,,,Steel]Gengar||ChoiceSpecs|CursedBody|shadowball,trick,sludgewave,focusblast||85,,85,85,85,85|M|,0,,,,||81|,,,,,Dark]Greninja|GreninjaBond|LifeOrb|BattleBond|darkpulse,icebeam,hydropump,gunkshot||85,85,85,85,85,85|M|||80|,,,,,Poison]Gastrodon||Leftovers|StormDrain|recover,stealthrock,surf,earthquake||85,85,85,85,85,85|M|||86|,,,,,Poison]Trevenant||LifeOrb|NaturalCure|woodhammer,poltergeist,willowisp,drainpunch||85,85,85,85,85,85|F|||89|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 43
+  }
 }

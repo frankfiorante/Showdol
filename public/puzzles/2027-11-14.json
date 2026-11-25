@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,21645329ab582352e2f9930b3a11a40d714660d73c6765ba70ed99d56fdb5763",
-    "ai": "sodium,bb2f4975951094ba6be2bfc9dd919b37e85fd5a38056bc90c1e0d42d8df58ed7"
+    "player": "sodium,9d1b5d5caa7edfe49f394cc367949e0d62791c2231ce55cbef78ad130c39f052",
+    "ai": "sodium,d3dca6170d009b94e9c05f0accdf3edca68796c335b14100e29ac97df16b8e64"
   },
   "playerSpecies": [
-    "Coalossal",
-    "Lycanroc-Midnight",
-    "Scrafty",
-    "Zebstrika",
-    "Lunala",
-    "Flutter Mane"
+    "Comfey",
+    "Rotom",
+    "Regidrago",
+    "Decidueye",
+    "Eternatus",
+    "Illumise"
   ],
-  "player": "Coalossal||HeavyDutyBoots|FlameBody|overheat,stoneedge,rapidspin,willowisp||85,85,85,85,85,85|F|||89|,,,,,Ghost]Lycanroc|LycanrocMidnight|LifeOrb|NoGuard|stoneedge,playrough,closecombat,swordsdance||85,85,85,85,85,85|F|||88|,,,,,Fighting]Scrafty||Leftovers|ShedSkin|drainpunch,knockoff,bulkup,rest||85,85,85,85,85,85|F|||83|,,,,,Poison]Zebstrika||LifeOrb|SapSipper|highhorsepower,supercellslam,overheat,voltswitch||85,85,85,85,85,85|F|||87|,,,,,Ground]Lunala||Leftovers|ShadowShield|moongeistbeam,moonlight,psyshock,calmmind||85,,85,85,85,85|N|,0,,,,||70|,,,,,Dark]Flutter Mane||ChoiceSpecs|Protosynthesis|moonblast,psyshock,shadowball,thunderbolt||85,,85,85,85,85|N|,0,,,,||74|,,,,,Fairy",
-  "ai": "Toucannon||HeavyDutyBoots|KeenEye|knockoff,boomburst,beakblast,roost||85,85,85,85,85,85|F|||88|,,,,,Steel]Milotic||Leftovers|Competitive|scald,recover,icebeam,haze||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel]Magmortar||HeavyDutyBoots|FlameBody|thunderbolt,fireblast,knockoff,taunt||85,85,85,85,85,85|F|||88|,,,,,Electric]Manaphy||Leftovers|Hydration|tailglow,energyball,icebeam,hydropump||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water]Hippowdon||Leftovers|SandStream|stoneedge,slackoff,stealthrock,earthquake||85,85,85,85,85,85|M|||82|,,,,,Rock]Maushold|MausholdFour|WideLens|Technician|populationbomb,bite,encore,tidyup||85,85,85,85,85,85|N|||76|,,,,,Normal"
+  "player": "Comfey||Leftovers|Triage|drainingkiss,calmmind,encore,terablast||85,,85,85,85,85|M|,0,,,,||85|,,,,,Ground]Rotom||LifeOrb|Levitate|thunderbolt,willowisp,shadowball,voltswitch||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Regidrago||LumBerry|DragonsMaw|dracometeor,earthquake,outrage,dragondance||85,85,85,85,85,85|N|||77|,,,,,Dragon]Decidueye||HeavyDutyBoots|Overgrow|spiritshackle,leafstorm,roost,uturn||85,85,85,85,85,85|M|||88|,,,,,Ghost]Eternatus||PowerHerb|Pressure|sludgebomb,dynamaxcannon,meteorbeam,fireblast||85,,85,85,85,85|N|,0,,,,||69|,,,,,Dragon]Illumise||HeavyDutyBoots|Prankster|bugbuzz,thunderwave,roost,encore||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel",
+  "ai": "Umbreon||Leftovers|Synchronize|protect,wish,toxic,foulplay||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Vespiquen||HeavyDutyBoots|Pressure|hurricane,spikes,roost,toxic||85,,85,85,85,85|F|,0,,,,||99|,,,,,Steel]Beartic||ChoiceBand|SwiftSwim|aquajet,earthquake,closecombat,iciclecrash||85,85,85,85,85,85|M|||91|,,,,,Ground]Arceus|ArceusFire|FlamePlate|Multitype|swordsdance,recover,earthquake,flareblitz||81,85,85,85,85,85|N|||72|,,,,,Fire]Infernape||LifeOrb|Blaze|stoneedge,gunkshot,closecombat,overheat||85,85,85,85,85,85|M|||82|,,,,,Fire]Girafarig||Eviolite|SapSipper|thunderbolt,nastyplot,psyshock,hypervoice||85,,85,85,85,85|M|,0,,,,||89|,,,,,Electric",
+  "curation": {
+    "battles": 100,
+    "playerWins": 56
+  }
 }

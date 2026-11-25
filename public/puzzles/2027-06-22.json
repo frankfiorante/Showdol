@@ -20,5 +20,9 @@
     "Samurott"
   ],
   "player": "Mudsdale||Leftovers|Stamina|heavyslam,stoneedge,stealthrock,earthquake||85,85,85,85,85,85|M|||83|,,,,,Steel]Perrserker||ChoiceBand|ToughClaws|uturn,closecombat,knockoff,ironhead||85,85,85,85,85,85|F|||89|,,,,,Fighting]Dialga||AssaultVest|Pressure|fireblast,dracometeor,dragontail,heavyslam||85,85,85,85,85,85|N|||73|,,,,,Steel]Torterra||LoadedDice|Overgrow|headlongrush,rockblast,bulletseed,shellsmash||85,85,85,85,85,85|M|||78|,,,,,Rock]Tatsugiri||HeavyDutyBoots|StormDrain|rapidspin,surf,dracometeor,nastyplot||85,85,85,85,85,85|M|||87|,,,,,Steel]Samurott||LifeOrb|Torrent|liquidation,swordsdance,sacredsword,knockoff||85,85,85,85,85,85|F|||88|,,,,,Water",
-  "ai": "Eiscue||SitrusBerry|IceFace|terablast,icespinner,liquidation,bellydrum||81,85,85,85,85,85|M|||88|,,,,,Electric]Politoed||ChoiceSpecs|Drizzle|weatherball,hydropump,icebeam,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Water]Fezandipiti||Leftovers|ToxicChain|roost,moonblast,gunkshot,beatup||85,85,85,85,85,85|M|||82|,,,,,Steel]Meowscarada||ChoiceBand|Protean|uturn,flowertrick,knockoff,tripleaxel||85,85,85,85,85,85|F|||78|,,,,,Dark]Gyarados||HeavyDutyBoots|Moxie|temperflare,earthquake,waterfall,dragondance||85,85,85,85,85,85|F|||79|,,,,,Ground]Grimmsnarl||Leftovers|Prankster|suckerpunch,partingshot,taunt,spiritbreak||85,85,85,85,85,85|M|||83|,,,,,Steel"
+  "ai": "Eiscue||SitrusBerry|IceFace|terablast,icespinner,liquidation,bellydrum||81,85,85,85,85,85|M|||88|,,,,,Electric]Politoed||ChoiceSpecs|Drizzle|weatherball,hydropump,icebeam,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Water]Fezandipiti||Leftovers|ToxicChain|roost,moonblast,gunkshot,beatup||85,85,85,85,85,85|M|||82|,,,,,Steel]Meowscarada||ChoiceBand|Protean|uturn,flowertrick,knockoff,tripleaxel||85,85,85,85,85,85|F|||78|,,,,,Dark]Gyarados||HeavyDutyBoots|Moxie|temperflare,earthquake,waterfall,dragondance||85,85,85,85,85,85|F|||79|,,,,,Ground]Grimmsnarl||Leftovers|Prankster|suckerpunch,partingshot,taunt,spiritbreak||85,85,85,85,85,85|M|||83|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 71
+  }
 }

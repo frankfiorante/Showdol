@@ -20,5 +20,9 @@
     "Reuniclus"
   ],
   "player": "Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|suckerpunch,earthquake,ironhead,swordsdance||85,85,85,85,85,85|F|||84|,,,,,Ground]Dusknoir||Leftovers|Frisk|poltergeist,focuspunch,painsplit,substitute||85,85,85,85,85,85|M|||89|,,,,,Fighting]Staraptor||ChoiceBand|Reckless|uturn,closecombat,doubleedge,bravebird||81,85,85,85,85,85|F|||79|,,,,,Flying]Camerupt||Leftovers|SolidRock|earthquake,overheat,willowisp,stealthrock||85,85,85,85,85,85|M|||91|,,,,,Water]Slaking||ChoiceBand|Truant|doubleedge,gigaimpact,earthquake,knockoff||85,85,85,85,85,85|F|||84|,,,,,Ghost]Reuniclus||LifeOrb|MagicGuard|calmmind,recover,psyshock,focusblast||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel",
-  "ai": "Sandy Shocks||Leftovers|Protosynthesis|spikes,stealthrock,thunderbolt,earthpower||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass]Cinderace||ChoiceBand|Libero|gunkshot,highjumpkick,pyroball,uturn||81,85,85,85,85,85|F|||77|,,,,,Fire]Scyther||HeavyDutyBoots|Technician|dualwingbeat,defog,uturn,closecombat||85,85,85,85,85,85|M|||82|,,,,,Fighting]Deoxys||LifeOrb|Pressure|psychoboost,superpower,knockoff,extremespeed||85,85,85,85,85,85|N|||74|,,,,,Dark]Wo-Chien||Leftovers|TabletsofRuin|knockoff,protect,gigadrain,leechseed||85,85,85,85,85,85|N|||83|,,,,,Poison]Empoleon||Leftovers|Competitive|knockoff,surf,roost,flipturn||85,85,85,85,85,85|M|||84|,,,,,Flying"
+  "ai": "Sandy Shocks||Leftovers|Protosynthesis|spikes,stealthrock,thunderbolt,earthpower||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass]Cinderace||ChoiceBand|Libero|gunkshot,highjumpkick,pyroball,uturn||81,85,85,85,85,85|F|||77|,,,,,Fire]Scyther||HeavyDutyBoots|Technician|dualwingbeat,defog,uturn,closecombat||85,85,85,85,85,85|M|||82|,,,,,Fighting]Deoxys||LifeOrb|Pressure|psychoboost,superpower,knockoff,extremespeed||85,85,85,85,85,85|N|||74|,,,,,Dark]Wo-Chien||Leftovers|TabletsofRuin|knockoff,protect,gigadrain,leechseed||85,85,85,85,85,85|N|||83|,,,,,Poison]Empoleon||Leftovers|Competitive|knockoff,surf,roost,flipturn||85,85,85,85,85,85|M|||84|,,,,,Flying",
+  "curation": {
+    "battles": 100,
+    "playerWins": 25
+  }
 }

@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 3,
   "seeds": {
-    "player": "sodium,28bcb941a895d23d8549b0e5c4a467e8d80f83bbbd5d952daf4e1f023708272c",
-    "ai": "sodium,d781053b9d2b887e632a22ed4720f65d6b3b47d8e8daaa5b399e50f743122b2c"
+    "player": "sodium,ed4f14e08eec54c482098f1161e658f31d465ddcb8fd9d5ed34b0cc051dc3b4b",
+    "ai": "sodium,f7585abf98833040405cd78b57001accd7ea3ef53445a49982722a0514a6883f"
   },
   "playerSpecies": [
-    "Arceus-Fire",
-    "Tsareena",
-    "Kyurem",
-    "Zarude",
-    "Oinkologne-F",
-    "Deoxys-Speed"
+    "Golem",
+    "Koraidon",
+    "Magmortar",
+    "Tauros",
+    "Kleavor",
+    "Meganium"
   ],
-  "player": "Arceus|ArceusFire|FlamePlate|Multitype|swordsdance,extremespeed,earthquake,flareblitz||81,85,85,85,85,85|N|||72|,,,,,Ground]Tsareena||HeavyDutyBoots|QueenlyMajesty|synthesis,rapidspin,knockoff,powerwhip||85,85,85,85,85,85|F|||87|,,,,,Steel]Kyurem||ChoiceSpecs|Pressure|earthpower,icebeam,freezedry,dracometeor||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Zarude||LifeOrb|LeafGuard|swordsdance,powerwhip,closecombat,knockoff||85,85,85,85,85,85|N|||77|,,,,,Grass]Oinkologne|OinkologneF|Leftovers|ThickFat|doubleedge,highhorsepower,lashout,curse||85,85,85,85,85,85|F|||91|,,,,,Ground]Deoxys|DeoxysSpeed|LifeOrb|Pressure|nastyplot,psychoboost,focusblast,darkpulse||85,,85,85,85,85|N|,0,,,,||82|,,,,,Fighting",
-  "ai": "Crabominable||ChoiceBand|IronFist|drainpunch,knockoff,icehammer,earthquake||85,85,85,85,85,85|F|||90|,,,,,Ground]Zoroark|ZoroarkHisui|ChoiceSpecs|Illusion|bittermalice,hypervoice,uturn,focusblast||85,85,85,85,85,85|M|||80|,,,,,Normal]Arbok||LifeOrb|Intimidate|toxicspikes,gunkshot,knockoff,earthquake||85,85,85,85,85,85|F|||87|,,,,,Dark]Rhydon||Eviolite|LightningRod|stoneedge,megahorn,earthquake,stealthrock||85,85,85,85,85,85|F|||85|,,,,,Grass]Jolteon||Leftovers|VoltAbsorb|terablast,substitute,thunderbolt,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice]Poliwrath||AssaultVest|WaterAbsorb|liquidation,circlethrow,closecombat,knockoff||85,85,85,85,85,85|M|||88|,,,,,Fighting"
+  "player": "Golem||WeaknessPolicy|Sturdy|earthquake,stoneedge,rockpolish,explosion||85,85,85,85,85,85|F|||87|,,,,,Grass]Koraidon||LoadedDice|OrichalcumPulse|flareblitz,swordsdance,collisioncourse,scaleshot||85,85,85,85,85,85|N|||64|,,,,,Fire]Magmortar||HeavyDutyBoots|FlameBody|focusblast,willowisp,fireblast,knockoff||85,85,85,85,85,85|M|||88|,,,,,Fighting]Tauros||LifeOrb|SheerForce|zenheadbutt,bodyslam,closecombat,throatchop||85,85,85,85,85,85|M|||82|,,,,,Normal]Kleavor||HeavyDutyBoots|Sharpness|swordsdance,closecombat,stoneaxe,xscissor||85,85,85,85,85,85|M|||78|,,,,,Rock]Meganium||Leftovers|Overgrow|energyball,knockoff,synthesis,encore||85,85,85,85,85,85|M|||90|,,,,,Poison",
+  "ai": "Cinderace||HeavyDutyBoots|Libero|willowisp,courtchange,uturn,pyroball||85,85,85,85,85,85|M|||77|,,,,,Grass]Noctowl||HeavyDutyBoots|TintedLens|roost,hypervoice,defog,hurricane||85,,85,85,85,85|F|,0,,,,||95|,,,,,Normal]Wigglytuff||Leftovers|Competitive|thunderwave,dazzlinggleam,wish,protect||85,,85,85,85,85|F|,0,,,,||96|,,,,,Poison]Spidops||HeavyDutyBoots|Stakeout|circlethrow,uturn,knockoff,stickyweb||85,85,85,85,85,85|M|||96|,,,,,Ghost]Dialga||Leftovers|Pressure|heavyslam,stealthrock,thunderwave,dracometeor||85,85,85,85,85,85|N|||73|,,,,,Steel]Zarude||ChoiceBand|LeafGuard|powerwhip,knockoff,closecombat,uturn||85,85,85,85,85,85|N|||77|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 80
+  }
 }

@@ -20,5 +20,9 @@
     "Shaymin"
   ],
   "player": "Kilowattrel||HeavyDutyBoots|VoltAbsorb|discharge,roost,uturn,hurricane||85,85,85,85,85,85|M|||83|,,,,,Steel]Keldeo|KeldeoResolute|Leftovers|Justified|secretsword,substitute,surf,calmmind||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel]Pincurchin||Leftovers|ElectricSurge|recover,curse,liquidation,zingzap||85,85,85,85,85,85|M||||,,,,,Water]Quaquaval||Leftovers|Moxie|aquastep,roost,rapidspin,closecombat||85,85,85,85,85,85|F|||79|,,,,,Steel]Incineroar||AssaultVest|Intimidate|knockoff,closecombat,uturn,overheat||85,85,85,85,85,85|M|||82|,,,,,Fighting]Shaymin||Leftovers|NaturalCure|synthesis,airslash,seedflare,earthpower||85,,85,85,85,85|N|,0,,,,||82|,,,,,Ground",
-  "ai": "Mienshao||AssaultVest|Regenerator|closecombat,knockoff,fakeout,uturn||85,85,85,85,85,85|M|||83|,,,,,Steel]Dodrio||ChoiceBand|EarlyBird|knockoff,drillrun,quickattack,bravebird||85,85,85,85,85,85|M|||85|,,,,,Flying]Emboar||AssaultVest|Reckless|scald,flareblitz,wildcharge,closecombat||85,85,85,85,85,85|F|||84|,,,,,Electric]Wyrdeer||Leftovers|Intimidate|earthquake,thunderwave,psychicnoise,bodyslam||85,85,85,85,85,85|F|||87|,,,,,Ground]Sylveon||Leftovers|Pixilate|calmmind,wish,protect,hypervoice||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Iron Thorns||BoosterEnergy|QuarkDrive|wildcharge,dragondance,stoneedge,earthquake||85,85,85,85,85,85|N|||81|,,,,,Rock"
+  "ai": "Mienshao||AssaultVest|Regenerator|closecombat,knockoff,fakeout,uturn||85,85,85,85,85,85|M|||83|,,,,,Steel]Dodrio||ChoiceBand|EarlyBird|knockoff,drillrun,quickattack,bravebird||85,85,85,85,85,85|M|||85|,,,,,Flying]Emboar||AssaultVest|Reckless|scald,flareblitz,wildcharge,closecombat||85,85,85,85,85,85|F|||84|,,,,,Electric]Wyrdeer||Leftovers|Intimidate|earthquake,thunderwave,psychicnoise,bodyslam||85,85,85,85,85,85|F|||87|,,,,,Ground]Sylveon||Leftovers|Pixilate|calmmind,wish,protect,hypervoice||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Iron Thorns||BoosterEnergy|QuarkDrive|wildcharge,dragondance,stoneedge,earthquake||85,85,85,85,85,85|N|||81|,,,,,Rock",
+  "curation": {
+    "battles": 100,
+    "playerWins": 20
+  }
 }

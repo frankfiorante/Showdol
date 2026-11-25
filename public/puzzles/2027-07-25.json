@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,ed78926591de41bc6555be673249d7f17f290f698e09ae631d35e96d3104e05c",
-    "ai": "sodium,d8c24e13a3c02691fa9a8d6bf493cbf1c6e6f44ad47e0d8f0dd01799ec86ca9e"
+    "player": "sodium,721d4b3fce2ee620cabb923b5c9b7a356a96906710e8ec98edfd555221e7a23b",
+    "ai": "sodium,6b732ea3d03618313d316378b9bd67561075e6c53c44a681e8e6cda6cec82f23"
   },
   "playerSpecies": [
-    "Giratina",
-    "Bruxish",
-    "Cobalion",
-    "Lokix",
-    "Sceptile",
-    "Weezing"
+    "Lurantis",
+    "Darkrai",
+    "Tsareena",
+    "Slaking",
+    "Oricorio",
+    "Porygon2"
   ],
-  "player": "Giratina||Leftovers|Pressure|dragonpulse,rest,calmmind,sleeptalk||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fairy]Bruxish||ChoiceScarf|StrongJaw|flipturn,wavecrash,icefang,psychicfangs||85,85,85,85,85,85|M|||85|,,,,,Psychic]Cobalion||Leftovers|Justified|swordsdance,ironhead,closecombat,taunt||85,85,85,85,85,85|N||S|80|,,,,,Fighting]Lokix||SilverPowder|TintedLens|suckerpunch,uturn,knockoff,firstimpression||85,85,85,85,85,85|M|||82|,,,,,Bug]Sceptile||LifeOrb|Overgrow|rockslide,earthquake,swordsdance,leafblade||85,85,85,85,85,85|F|||87|,,,,,Rock]Weezing||Leftovers|Levitate|willowisp,sludgebomb,fireblast,painsplit||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel",
-  "ai": "Registeel||Leftovers|ClearBody|irondefense,bodypress,thunderwave,ironhead||85,85,85,85,85,85|N|||81|,,,,,Fighting]Eternatus||Leftovers|Pressure|dynamaxcannon,flamethrower,toxic,recover||85,,85,85,85,85|N|,0,,,,||69|,,,,,Dragon]Oranguru||Leftovers|InnerFocus|nastyplot,thunderbolt,psyshock,focusblast||85,,85,85,85,85|F|,0,,,,||92|,,,,,Psychic]Pikachu|PikachuUnova|LightBall|LightningRod|voltswitch,knockoff,volttackle,surf||85,85,85,85,85,85|F|||93|,,,,,Water]Feraligatr||LifeOrb|SheerForce|trailblaze,dragondance,liquidation,icepunch||85,85,85,85,85,85|F|||79|,,,,,Water]Ambipom||SilkScarf|Technician|fakeout,knockoff,doubleedge,uturn||85,85,85,85,85,85|F|||84|,,,,,Normal"
+  "player": "Lurantis||Leftovers|Contrary|superpower,knockoff,leafstorm,synthesis||85,85,85,85,85,85|M|||87|,,,,,Fighting]Darkrai||LifeOrb|BadDreams|nastyplot,sludgebomb,focusblast,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison]Tsareena||ChoiceBand|QueenlyMajesty|knockoff,powerwhip,highjumpkick,tripleaxel||85,85,85,85,85,85|F|||87|,,,,,Steel]Slaking||ChoiceBand|Truant|doubleedge,knockoff,gigaimpact,earthquake||85,85,85,85,85,85|F|||84|,,,,,Normal]Oricorio||HeavyDutyBoots|Dancer|revelationdance,quiverdance,roost,hurricane||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ground]Porygon2||Eviolite|Download|triattack,icebeam,discharge,recover||85,,85,85,85,85|N|,0,,,,||81|,,,,,Poison",
+  "ai": "Shiftry||HeavyDutyBoots|WindRider|suckerpunch,leafstorm,knockoff,defog||85,85,85,85,85,85|F|||89|,,,,,Poison]Latios||SoulDew|Levitate|dracometeor,calmmind,recover,psyshock||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Suicune||Leftovers|Pressure|sleeptalk,calmmind,scald,rest||85,,85,85,85,85|N|,0,,,,||82|,,,,,Dragon]Latias||SoulDew|Levitate|calmmind,psyshock,recover,dracometeor||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Charizard||HeavyDutyBoots|Blaze|swordsdance,earthquake,flareblitz,outrage||85,85,85,85,85,85|F|||85|,,,,,Dragon]Iron Thorns||BoosterEnergy|QuarkDrive|stoneedge,dragondance,wildcharge,earthquake||85,85,85,85,85,85|N|||81|,,,,,Grass",
+  "curation": {
+    "battles": 100,
+    "playerWins": 71
+  }
 }

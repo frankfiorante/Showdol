@@ -20,5 +20,9 @@
     "Arceus-Fighting"
   ],
   "player": "Trevenant||LifeOrb|NaturalCure|rest,hornleech,poltergeist,drainpunch||85,85,85,85,85,85|M|||89|,,,,,Fighting]Mudsdale||Leftovers|Stamina|stealthrock,heavyslam,earthquake,stoneedge||85,85,85,85,85,85|M|||83|,,,,,Steel]Qwilfish||HeavyDutyBoots|Intimidate|toxic,painsplit,flipturn,gunkshot||85,85,85,85,85,85|F|||86|,,,,,Dark]Tyranitar||Leftovers|SandStream|thunderwave,stoneedge,dragontail,knockoff||85,85,85,85,85,85|F|||78|,,,,,Rock]Amoonguss||RockyHelmet|Regenerator|spore,stompingtantrum,gigadrain,sludgebomb||85,85,85,85,85,85|M|||82|,,,,,Water]Arceus|ArceusFighting|FistPlate|Multitype|recover,bodypress,storedpower,cosmicpower||85,,85,85,85,85|N|,0,,,,||70|,,,,,Steel",
-  "ai": "Slither Wing||HeavyDutyBoots|Protosynthesis|morningsun,uturn,closecombat,willowisp||85,85,85,85,85,85|N|||81|,,,,,Steel]Forretress||Leftovers|Sturdy|stealthrock,toxicspikes,ironhead,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Water]Espeon||LifeOrb|MagicBounce|calmmind,morningsun,alluringvoice,psychic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fairy]Feraligatr||LifeOrb|SheerForce|dragondance,icepunch,liquidation,trailblaze||85,85,85,85,85,85|F|||79|,,,,,Water]Sableye||Leftovers|Prankster|encore,knockoff,recover,willowisp||85,85,85,85,85,85|F|||87|,,,,,Steel]Suicune||Leftovers|Pressure|scald,sleeptalk,rest,calmmind||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel"
+  "ai": "Slither Wing||HeavyDutyBoots|Protosynthesis|morningsun,uturn,closecombat,willowisp||85,85,85,85,85,85|N|||81|,,,,,Steel]Forretress||Leftovers|Sturdy|stealthrock,toxicspikes,ironhead,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Water]Espeon||LifeOrb|MagicBounce|calmmind,morningsun,alluringvoice,psychic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fairy]Feraligatr||LifeOrb|SheerForce|dragondance,icepunch,liquidation,trailblaze||85,85,85,85,85,85|F|||79|,,,,,Water]Sableye||Leftovers|Prankster|encore,knockoff,recover,willowisp||85,85,85,85,85,85|F|||87|,,,,,Steel]Suicune||Leftovers|Pressure|scald,sleeptalk,rest,calmmind||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 35
+  }
 }

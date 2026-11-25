@@ -20,5 +20,9 @@
     "Frosmoth"
   ],
   "player": "Mimikyu||LifeOrb|Disguise|playrough,swordsdance,drainpunch,shadowsneak||85,85,85,85,85,85|F|||79|,,,,,Fairy]Phione||Leftovers|Hydration|scald,takeheart,rest,sleeptalk||85,,85,85,85,85|N|,0,,,,||91|,,,,,Steel]Zangoose||ToxicOrb|ToxicBoost|facade,closecombat,quickattack,knockoff||85,85,85,85,85,85|F|||85|,,,,,Normal]Emboar||ChoiceBand|Reckless|wildcharge,flareblitz,headsmash,closecombat||85,85,85,85,85,85|M|||84|,,,,,Fire]Palafin||ChoiceBand|ZerotoHero|closecombat,wavecrash,jetpunch,flipturn||85,85,85,85,85,85|M|||77|,,,,,Water]Frosmoth||HeavyDutyBoots|IceScales|gigadrain,bugbuzz,icebeam,quiverdance||85,,85,85,85,85|F|,0,,,,||82|,,,,,Water",
-  "ai": "Milotic||Leftovers|Competitive|recover,scald,dragontail,icebeam||85,85,85,85,85,85|M|||83|,,,,,Dragon]Urshifu|UrshifuRapidStrike|LifeOrb|UnseenFist|icespinner,swordsdance,surgingstrikes,closecombat||85,85,85,85,85,85|M|||75|,,,,,Water]Cobalion||Leftovers|Justified|stealthrock,thunderwave,ironhead,bodypress||85,85,85,85,85,85|N|||80|,,,,,Ghost]Jolteon||Leftovers|VoltAbsorb|thunderbolt,substitute,calmmind,terablast||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice]Mightyena||ChoiceBand|Intimidate|throatchop,suckerpunch,poisonfang,playrough||85,85,85,85,85,85|M|||96|,,,,,Fairy]Bombirdier||HeavyDutyBoots|BigPecks|suckerpunch,roost,bravebird,knockoff||85,85,85,85,85,85|M|||85|,,,,,Steel"
+  "ai": "Milotic||Leftovers|Competitive|recover,scald,dragontail,icebeam||85,85,85,85,85,85|M|||83|,,,,,Dragon]Urshifu|UrshifuRapidStrike|LifeOrb|UnseenFist|icespinner,swordsdance,surgingstrikes,closecombat||85,85,85,85,85,85|M|||75|,,,,,Water]Cobalion||Leftovers|Justified|stealthrock,thunderwave,ironhead,bodypress||85,85,85,85,85,85|N|||80|,,,,,Ghost]Jolteon||Leftovers|VoltAbsorb|thunderbolt,substitute,calmmind,terablast||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice]Mightyena||ChoiceBand|Intimidate|throatchop,suckerpunch,poisonfang,playrough||85,85,85,85,85,85|M|||96|,,,,,Fairy]Bombirdier||HeavyDutyBoots|BigPecks|suckerpunch,roost,bravebird,knockoff||85,85,85,85,85,85|M|||85|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 28
+  }
 }

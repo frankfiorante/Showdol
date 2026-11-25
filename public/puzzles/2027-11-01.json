@@ -20,5 +20,9 @@
     "Tauros-Paldea-Blaze"
   ],
   "player": "Gallade||ChoiceScarf|Sharpness|nightslash,psychocut,sacredsword,leafblade||85,85,85,85,85,85|M|||80|,,,,,Dark]Chi-Yu||ChoiceScarf|BeadsofRuin|overheat,flamethrower,psychic,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Dodrio||HeavyDutyBoots|EarlyBird|drillrun,bravebird,knockoff,swordsdance||85,85,85,85,85,85|M|||85|,,,,,Ground]Porygon2||Eviolite|Download|triattack,icebeam,recover,discharge||85,,85,85,85,85|N|,0,,,,||81|,,,,,Ghost]Spectrier||Leftovers|GrimNeigh|substitute,nastyplot,shadowball,terablast||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Tauros|TaurosPaldeaBlaze|SitrusBerry|CudChew|ragingbull,bulkup,substitute,closecombat||73,85,85,85,85,85|M|||81|,,,,,Water",
-  "ai": "Sandslash||Leftovers|SandRush|earthquake,rapidspin,spikes,stoneedge||85,85,85,85,85,85|F|||89|,,,,,Dragon]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Steel]Girafarig||Eviolite|SapSipper|hypervoice,nastyplot,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||89|,,,,,Normal]Cresselia||Leftovers|Levitate|psyshock,moonblast,calmmind,moonlight||85,,85,85,85,85|F|,0,,,,||80|,,,,,Poison]Dachsbun||Leftovers|WellBakedBody|playrough,bodypress,protect,wish||85,85,85,85,85,85|M|||92|,,,,,Steel]Luvdisc||HeavyDutyBoots|SwiftSwim|endeavor,surf,substitute,flipturn||81,85,85,85,85,85|M||||,,,,,Ghost"
+  "ai": "Sandslash||Leftovers|SandRush|earthquake,rapidspin,spikes,stoneedge||85,85,85,85,85,85|F|||89|,,,,,Dragon]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Steel]Girafarig||Eviolite|SapSipper|hypervoice,nastyplot,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||89|,,,,,Normal]Cresselia||Leftovers|Levitate|psyshock,moonblast,calmmind,moonlight||85,,85,85,85,85|F|,0,,,,||80|,,,,,Poison]Dachsbun||Leftovers|WellBakedBody|playrough,bodypress,protect,wish||85,85,85,85,85,85|M|||92|,,,,,Steel]Luvdisc||HeavyDutyBoots|SwiftSwim|endeavor,surf,substitute,flipturn||81,85,85,85,85,85|M||||,,,,,Ghost",
+  "curation": {
+    "battles": 100,
+    "playerWins": 69
+  }
 }

@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,3f1c48e2637ee68bfb6b93b04a485e1834326d986a7b18c4fe7a7897f085de6a",
-    "ai": "sodium,2fd77bd8d9101fcf79ff38fec9cfa3bb3490e88f3756e00bed3dcaf5d491c273"
+    "player": "sodium,d5d4c3861c95e8bc3916142a6694d7fab6ea77221734fa4c9c419757c60b8f22",
+    "ai": "sodium,60e8911b32d98bf4e22d13e2d67a0e4fabe2ca1ab2f8589953497b4e8e3560a6"
   },
   "playerSpecies": [
-    "Carbink",
-    "Mismagius",
-    "Girafarig",
-    "Dachsbun",
-    "Tyranitar",
-    "Vileplume"
+    "Rotom-Fan",
+    "Delibird",
+    "Politoed",
+    "Regirock",
+    "Gurdurr",
+    "Tauros"
   ],
-  "player": "Carbink||ChestoBerry|Sturdy|moonblast,bodypress,rest,irondefense||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Mismagius||Leftovers|Levitate|nastyplot,shadowball,terablast,substitute||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fighting]Girafarig||Eviolite|SapSipper|dazzlinggleam,psyshock,thunderbolt,nastyplot||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fairy]Dachsbun||Leftovers|WellBakedBody|protect,playrough,yawn,wish||85,85,85,85,85,85|F|||92|,,,,,Steel]Tyranitar||Leftovers|SandStream|knockoff,thunderwave,stoneedge,icebeam||85,85,85,85,85,85|M|||78|,,,,,Rock]Vileplume||Leftovers|EffectSpore|strengthsap,sludgebomb,sleeppowder,gigadrain||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
-  "ai": "Dragapult||ChoiceSpecs|Infiltrator|fireblast,shadowball,dracometeor,uturn||85,85,85,85,85,85|F|||77|,,,,,Fire]Sunflora||LifeOrb|Chlorophyll|earthpower,weatherball,solarbeam,sunnyday||85,,85,85,85,85|M|,0,,,,|||,,,,,Fire]Milotic||Leftovers|Competitive|scald,icebeam,recover,dragontail||85,85,85,85,85,85|F|||83|,,,,,Steel]Espeon||LifeOrb|MagicBounce|psychic,alluringvoice,shadowball,morningsun||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Iron Hands||AssaultVest|QuarkDrive|heavyslam,thunderpunch,voltswitch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Copperajah||ChoiceBand|HeavyMetal|heatcrash,heavyslam,stoneedge,supercellslam||81,85,85,85,85,85|M|||86|,,,,,Flying"
+  "player": "Rotom|RotomFan|HeavyDutyBoots|Levitate|thunderbolt,thunderwave,airslash,nastyplot||85,,85,85,85,85|N|,0,,,,||86|,,,,,Steel]Delibird||HeavyDutyBoots|Insomnia|spikes,bravebird,rapidspin,freezedry||85,85,85,85,85,85|M||||,,,,,Ghost]Politoed||Leftovers|Drizzle|encore,haze,hydropump,icebeam||85,,85,85,85,85|F|,0,,,,||88|,,,,,Water]Regirock||ChestoBerry|ClearBody|irondefense,stoneedge,bodypress,rest||85,85,85,85,85,85|N|||83|,,,,,Fighting]Gurdurr||Eviolite|Guts|drainpunch,bulkup,machpunch,knockoff||85,85,85,85,85,85|F|||85|,,,,,Steel]Tauros||LifeOrb|SheerForce|earthquake,closecombat,throatchop,bodyslam||85,85,85,85,85,85|M|||82|,,,,,Fighting",
+  "ai": "Munkidori||AssaultVest|ToxicChain|psychicnoise,sludgewave,fakeout,uturn||85,85,85,85,85,85|M|||79|,,,,,Dark]Tinkaton||Leftovers|MoldBreaker|knockoff,stealthrock,gigatonhammer,playrough||85,85,85,85,85,85|F|||82|,,,,,Water]Corviknight||Leftovers|Pressure|bravebird,roost,uturn,defog||85,85,85,85,85,85|M|||80|,,,,,Dragon]Lugia||HeavyDutyBoots|Multiscale|earthpower,recover,calmmind,aeroblast||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Arceus|ArceusDragon|DracoPlate|Multitype|outrage,dragondance,flareblitz,heavyslam||85,85,85,85,85,85|N|||71|,,,,,Steel]Zarude|ZarudeDada|ChoiceScarf|LeafGuard|powerwhip,closecombat,uturn,knockoff||85,85,85,85,85,85|N|||77|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 62
+  }
 }

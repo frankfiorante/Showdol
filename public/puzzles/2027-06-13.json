@@ -20,5 +20,9 @@
     "Crawdaunt"
   ],
   "player": "Dragapult||ChoiceSpecs|Infiltrator|fireblast,dracometeor,uturn,shadowball||85,85,85,85,85,85|F|||77|,,,,,Ghost]Chi-Yu||HeavyDutyBoots|BeadsofRuin|darkpulse,willowisp,nastyplot,fireblast||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Sandslash||Leftovers|SandRush|rapidspin,earthquake,spikes,stoneedge||85,85,85,85,85,85|M|||89|,,,,,Water]Dunsparce||Eviolite|SereneGrace|coil,bodyslam,roost,earthquake||85,85,85,85,85,85|M|||86|,,,,,Ghost]Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|psyshock,hurricane,recover,calmmind||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Crawdaunt||LifeOrb|Adaptability|closecombat,knockoff,crabhammer,dragondance||85,85,85,85,85,85|F|||84|,,,,,Fighting",
-  "ai": "Rayquaza||HeavyDutyBoots|AirLock|dragondance,outrage,dragonascent,earthquake||85,85,85,85,85,85|N|||72|,,,,,Flying]Skarmory||Leftovers|Sturdy|stealthrock,roost,bravebird,spikes||85,85,85,85,85,85|F|||80|,,,,,Dragon]Lumineon||LifeOrb|StormDrain|icebeam,encore,alluringvoice,hydropump||85,,85,85,85,85|F|,0,,,,||93|,,,,,Fairy]Hoopa||ChoiceScarf|Magician|shadowball,focusblast,psychic,trick||85,,85,85,85,85|N|,0,,,,||85|,,,,,Fighting]Meganium||Leftovers|Overgrow|swordsdance,knockoff,earthquake,petalblizzard||85,85,85,85,85,85|M|||90|,,,,,Steel]Sandaconda||Leftovers|ShedSkin|rest,stoneedge,glare,earthquake||85,85,85,85,85,85|M|||84|,,,,,Water"
+  "ai": "Rayquaza||HeavyDutyBoots|AirLock|dragondance,outrage,dragonascent,earthquake||85,85,85,85,85,85|N|||72|,,,,,Flying]Skarmory||Leftovers|Sturdy|stealthrock,roost,bravebird,spikes||85,85,85,85,85,85|F|||80|,,,,,Dragon]Lumineon||LifeOrb|StormDrain|icebeam,encore,alluringvoice,hydropump||85,,85,85,85,85|F|,0,,,,||93|,,,,,Fairy]Hoopa||ChoiceScarf|Magician|shadowball,focusblast,psychic,trick||85,,85,85,85,85|N|,0,,,,||85|,,,,,Fighting]Meganium||Leftovers|Overgrow|swordsdance,knockoff,earthquake,petalblizzard||85,85,85,85,85,85|M|||90|,,,,,Steel]Sandaconda||Leftovers|ShedSkin|rest,stoneedge,glare,earthquake||85,85,85,85,85,85|M|||84|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 76
+  }
 }

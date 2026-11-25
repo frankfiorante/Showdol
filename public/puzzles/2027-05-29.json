@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,1f75d261fca7d358254c8e61d0b8c1ca06f35967ea1f5e6d6f976e97a7b12111",
-    "ai": "sodium,d5452ffecfca67582fc0d2f98f80ccc67812447b7f79c2f21546eefd23c4bd1e"
+    "player": "sodium,dd18b2f04401cd1df961e332c4c83095978cb861ab98a40f4a1246f43b0d0692",
+    "ai": "sodium,869177e1c622b7a656333c5e353d1d1b215f268d1f01571a16c097ba4bbb2ffb"
   },
   "playerSpecies": [
-    "Sneasler",
-    "Blastoise",
-    "Umbreon",
-    "Tropius",
-    "Dudunsparce",
-    "Infernape"
+    "Calyrex-Ice",
+    "Greninja-Bond",
+    "Hatterene",
+    "Forretress",
+    "Alcremie-Ruby-Swirl",
+    "Vigoroth"
   ],
-  "player": "Sneasler||ChoiceBand|PoisonTouch|uturn,direclaw,closecombat,throatchop||85,85,85,85,85,85|F|||74|,,,,,Fighting]Blastoise||WhiteHerb|Torrent|icebeam,hydropump,terablast,shellsmash||85,,85,85,85,85|F|,0,,,,||80|,,,,,Electric]Umbreon||Leftovers|Synchronize|wish,toxic,foulplay,protect||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Tropius||SitrusBerry|Harvest|dragondance,dualwingbeat,leafblade,earthquake||85,85,85,85,85,85|F|||91|,,,,,Ground]Dudunsparce||Leftovers|SereneGrace|earthquake,headbutt,glare,roost||85,85,85,85,85,85|M|||83|,,,,,Ghost]Infernape||ChoiceBand|IronFist|closecombat,machpunch,flareblitz,knockoff||85,85,85,85,85,85|F|||82|,,,,,Fighting",
-  "ai": "Electivire||LifeOrb|MotorDrive|supercellslam,earthquake,bulkup,icepunch||85,85,85,85,85,85|F|||84|,,,,,Flying]Garganacl||Leftovers|PurifyingSalt|bodypress,recover,saltcure,protect||85,85,85,85,85,85|F|||80|,,,,,Ghost]Ting-Lu||Leftovers|VesselofRuin|earthquake,stealthrock,throatchop,spikes||85,85,85,85,85,85|N|||78|,,,,,Ghost]Dondozo||Leftovers|Unaware|curse,sleeptalk,rest,wavecrash||85,85,85,85,85,85|F|||78|,,,,,Fairy]Leafeon||LifeOrb|Chlorophyll|knockoff,swordsdance,doubleedge,leafblade||85,85,85,85,85,85|F|||88|,,,,,Normal]Luxray||FlameOrb|Guts|supercellslam,facade,playrough,trailblaze||81,85,85,85,85,85|M|||88|,,,,,Normal"
+  "player": "Calyrex|CalyrexIce|WeaknessPolicy|AsOneGlastrier|closecombat,glaciallance,agility,highhorsepower||85,85,85,85,85,85|N|||72|,,,,,Ground]Greninja|GreninjaBond|LifeOrb|BattleBond|gunkshot,icebeam,hydropump,darkpulse||85,85,85,85,85,85|M|||80|,,,,,Water]Hatterene||AssaultVest|MagicBounce|drainingkiss,mysticalfire,nuzzle,psychicnoise||85,85,85,85,85,85|F|||85|,,,,,Fairy]Forretress||Leftovers|Sturdy|rapidspin,spikes,ironhead,stealthrock||85,85,85,85,85,85|F|||84|,,,,,Water]Alcremie|AlcremieRubySwirl|Leftovers|AromaVeil|psyshock,recover,alluringvoice,calmmind||85,,85,85,85,85|F|,0,,,,||90|,,,,,Poison]Vigoroth||Eviolite|VitalSpirit|slackoff,bodyslam,bulkup,earthquake||85,85,85,85,85,85|M|||85|,,,,,Ground",
+  "ai": "Revavroom||LifeOrb|Filter|ironhead,shiftgear,highhorsepower,gunkshot||85,85,85,85,85,85|F|||79|,,,,,Ground]Reuniclus||LifeOrb|MagicGuard|focusblast,calmmind,recover,psyshock||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fighting]Snorlax||Leftovers|ThickFat|sleeptalk,bodyslam,rest,curse||85,85,85,85,85,85|M|||82|,,,,,Poison]Duraludon||Eviolite|LightMetal|bodypress,irondefense,dracometeor,flashcannon||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fighting]Stonjourner||LifeOrb|PowerSpot|rockpolish,stoneedge,heatcrash,earthquake||85,85,85,85,85,85|F|||91|,,,,,Ground]Grumpig||Leftovers|ThickFat|psyshock,nastyplot,earthpower,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||92|,,,,,Fairy",
+  "curation": {
+    "battles": 100,
+    "playerWins": 32
+  }
 }

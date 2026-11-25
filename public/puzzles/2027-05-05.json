@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,0b5704313a365840e7c513dcff1e7068ad0e7cdc88c4212e42d61baefab1e077",
-    "ai": "sodium,aa4550f998821f907aac673593eccd7d3c42aaba24c50d3928b9985be6febe20"
+    "player": "sodium,b2a3237ac06b0663a1f9e70471373643dc6379bf947922b0990ab99c4f662fad",
+    "ai": "sodium,58fe5526a44ffac18e3d9772e9d5c446c663c31effb95a5b9ccdc6e163de2b78"
   },
   "playerSpecies": [
-    "Regice",
-    "Inteleon",
-    "Toedscruel",
-    "Kleavor",
-    "Mismagius",
-    "Dugtrio-Alola"
+    "Palafin",
+    "Houndstone",
+    "Slither Wing",
+    "Magearna-Original",
+    "Dondozo",
+    "Articuno-Galar"
   ],
-  "player": "Regice||HeavyDutyBoots|ClearBody|thunderbolt,bodypress,thunderwave,icebeam||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Inteleon||ChoiceSpecs|Torrent|scald,hydropump,uturn,icebeam||85,85,85,85,85,85|M|||81|,,,,,Water]Toedscruel||AssaultVest|MyceliumMight|rapidspin,gigadrain,knockoff,earthpower||85,85,85,85,85,85|M|||87|,,,,,Water]Kleavor||ChoiceScarf|Sharpness|xscissor,closecombat,uturn,stoneaxe||85,85,85,85,85,85|F|||78|,,,,,Bug]Mismagius||ChoiceSpecs|Levitate|thunderbolt,dazzlinggleam,shadowball,trick||85,,85,85,85,85|F|,0,,,,||86|,,,,,Ghost]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|swordsdance,earthquake,ironhead,suckerpunch||85,85,85,85,85,85|M|||84|,,,,,Steel",
-  "ai": "Entei||ChoiceBand|InnerFocus|sacredfire,stompingtantrum,extremespeed,flareblitz||85,85,85,85,85,85|N|||78|,,,,,Normal]Empoleon||Leftovers|Competitive|flipturn,surf,roost,stealthrock||85,85,85,85,85,85|M|||84|,,,,,Grass]Houndoom||HeavyDutyBoots|FlashFire|nastyplot,fireblast,darkpulse,sludgebomb||85,,85,85,85,85|M|,0,,,,||87|,,,,,Poison]Vikavolt||HeavyDutyBoots|Levitate|discharge,voltswitch,bugbuzz,stickyweb||85,,85,85,85,85|M|,0,,,,||83|,,,,,Electric]Medicham||ChoiceScarf|PurePower|icepunch,closecombat,zenheadbutt,poisonjab||85,85,85,85,85,85|F|||86|,,,,,Fighting]Zacian||LifeOrb|IntrepidSword|swordsdance,playrough,closecombat,psychicfangs||85,85,85,85,85,85|N|||69|,,,,,Fighting"
+  "player": "Palafin||Leftovers|ZerotoHero|wavecrash,icepunch,bulkup,jetpunch||85,85,85,85,85,85|M|||77|,,,,,Steel]Houndstone||AssaultVest|Fluffy|playrough,bodypress,poltergeist,shadowsneak||85,85,85,85,85,85|F|||86|,,,,,Fighting]Slither Wing||LifeOrb|Protosynthesis|earthquake,wildcharge,closecombat,firstimpression||85,85,85,85,85,85|N|||81|,,,,,Bug]Magearna|MagearnaOriginal|Leftovers|SoulHeart|flashcannon,calmmind,shiftgear,fleurcannon||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Dondozo||Leftovers|Unaware|rest,curse,wavecrash,sleeptalk||85,85,85,85,85,85|F|||78|,,,,,Dragon]Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|calmmind,hurricane,recover,psyshock||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel",
+  "ai": "Luxray||FlameOrb|Guts|facade,trailblaze,supercellslam,throatchop||81,85,85,85,85,85|F|||88|,,,,,Normal]Rhyperior||WeaknessPolicy|SolidRock|megahorn,rockpolish,earthquake,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Bug]Dunsparce||Eviolite|SereneGrace|earthquake,roost,coil,bodyslam||85,85,85,85,85,85|F|||86|,,,,,Ground]Lucario||LifeOrb|InnerFocus|nastyplot,aurasphere,flashcannon,vacuumwave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fighting]Volcarona||HeavyDutyBoots|Swarm|quiverdance,bugbuzz,fierydance,gigadrain||85,,85,85,85,85|M|,0,,,,||77|,,,,,Fire]Rillaboom||ChoiceBand|GrassySurge|knockoff,woodhammer,grassyglide,uturn||85,85,85,85,85,85|M|||79|,,,,,Grass",
+  "curation": {
+    "battles": 100,
+    "playerWins": 56
+  }
 }

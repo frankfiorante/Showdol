@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,9fbd49fc0c680d4e53d9ec2759fa1c39a654c24062eaae8a58d50d36e6fb5a73",
-    "ai": "sodium,8f15cfa0922ea0a2448a4b79960026226b10e502f4c52178d425fda7d3bcff08"
+    "player": "sodium,6ef597a2d837bbd943de2e10b87f9b1e95a986b3c68a14c59388ead5958a3e15",
+    "ai": "sodium,818d09f03e75ba167652c25b00710e345e6ae24dba6e9193f224785c4e6ad568"
   },
   "playerSpecies": [
-    "Chesnaught",
-    "Minun",
-    "Kyogre",
-    "Lunala",
-    "Regigigas",
-    "Cinderace"
+    "Shaymin",
+    "Lugia",
+    "Politoed",
+    "Magmortar",
+    "Sunflora",
+    "Galvantula"
   ],
-  "player": "Chesnaught||RockyHelmet|Bulletproof|spikes,woodhammer,bodypress,synthesis||85,85,85,85,85,85|F|||84|,,,,,Steel]Minun||LifeOrb|VoltAbsorb|encore,nastyplot,thunderbolt,alluringvoice||85,,85,85,85,85|M|,0,,,,||95|,,,,,Fairy]Kyogre||Leftovers|Drizzle|originpulse,thunder,calmmind,icebeam||85,,85,85,85,85|N|,0,,,,||71|,,,,,Electric]Lunala||Leftovers|ShadowShield|calmmind,moongeistbeam,moonblast,moonlight||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fairy]Regigigas||Leftovers|SlowStart|rest,sleeptalk,knockoff,bodyslam||85,85,85,85,85,85|N|||84|,,,,,Ghost]Cinderace||ChoiceBand|Libero|pyroball,gunkshot,highjumpkick,uturn||81,85,85,85,85,85|M|||77|,,,,,Fire",
-  "ai": "Gholdengo||Leftovers|GoodasGold|makeitrain,thunderwave,recover,shadowball||85,,85,85,85,85|N|,0,,,,||77|,,,,,Steel]Registeel||ChestoBerry|ClearBody|ironhead,bodypress,rest,irondefense||85,85,85,85,85,85|N|||81|,,,,,Fighting]Phione||Leftovers|Hydration|scald,takeheart,icebeam,grassknot||85,,85,85,85,85|N|,0,,,,||91|,,,,,Steel]Umbreon||Leftovers|Synchronize|protect,wish,toxic,foulplay||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Minun||LifeOrb|VoltAbsorb|nastyplot,thunderbolt,grassknot,encore||85,,85,85,85,85|F|,0,,,,||95|,,,,,Electric]Dodrio||ChoiceBand|EarlyBird|drillrun,quickattack,bravebird,doubleedge||85,85,85,85,85,85|M|||85|,,,,,Flying"
+  "player": "Shaymin||Leftovers|NaturalCure|airslash,seedflare,synthesis,earthpower||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Lugia||HeavyDutyBoots|Multiscale|recover,aeroblast,calmmind,earthpower||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Politoed||ChoiceSpecs|Drizzle|icebeam,focusblast,weatherball,hydropump||85,,85,85,85,85|F|,0,,,,||88|,,,,,Water]Magmortar||HeavyDutyBoots|FlameBody|thunderbolt,focusblast,taunt,fireblast||85,,85,85,85,85|M|,0,,,,||88|,,,,,Electric]Sunflora||LifeOrb|Chlorophyll|solarbeam,earthpower,sunnyday,weatherball||85,,85,85,85,85|M|,0,,,,|||,,,,,Fire]Galvantula||HeavyDutyBoots|CompoundEyes|voltswitch,thunder,bugbuzz,stickyweb||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric",
+  "ai": "Porygon2||Eviolite|Download|terablast,thunderwave,shadowball,recover||85,85,85,85,85,85|N|||81|,,,,,Fighting]Munkidori||LifeOrb|ToxicChain|nastyplot,focusblast,sludgewave,psyshock||85,,85,85,85,85|M|,0,,,,||79|,,,,,Poison]Meowstic||LightClay|Prankster|yawn,psychicnoise,reflect,lightscreen||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Stantler||Eviolite|Intimidate|bodyslam,thunderwave,throatchop,earthquake||85,85,85,85,85,85|F|||90|,,,,,Ground]Archaludon||AssaultVest|Stamina|bodypress,flashcannon,thunderbolt,dracometeor||85,,85,85,85,85|F|,0,,,,||77|,,,,,Fighting]Tsareena||HeavyDutyBoots|QueenlyMajesty|synthesis,uturn,highjumpkick,powerwhip||85,85,85,85,85,85|F|||87|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 50
+  }
 }

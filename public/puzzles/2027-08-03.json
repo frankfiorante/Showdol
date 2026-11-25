@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 2,
   "seeds": {
-    "player": "sodium,6e3b54a130c1e967003583869990a1aced5b1bd8a8abcf5b852b46d45f8a20b0",
-    "ai": "sodium,6d711323034d5e677340e2c3013c34e5fca498a2ca75bec5e9e7349d16e0b9aa"
+    "player": "sodium,faec8e90607dbbcfa2b2e7b74ff6021592d0ef9e5a3c94200aa10e49c4aaa2af",
+    "ai": "sodium,07ad2ec583fbc708c88bc62d5085c0e5d2804f69dd829952ef244a70735f988d"
   },
   "playerSpecies": [
-    "Minun",
-    "Masquerain",
-    "Regice",
-    "Meowscarada",
-    "Roaring Moon",
-    "Tatsugiri"
+    "Overqwil",
+    "Virizion",
+    "Quaquaval",
+    "Porygon2",
+    "Zekrom",
+    "Delphox"
   ],
-  "player": "Minun||LifeOrb|VoltAbsorb|grassknot,encore,nastyplot,thunderbolt||85,,85,85,85,85|M|,0,,,,||95|,,,,,Electric]Masquerain||HeavyDutyBoots|Intimidate|quiverdance,bugbuzz,hurricane,hydropump||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Regice||HeavyDutyBoots|ClearBody|sleeptalk,rest,thunderbolt,icebeam||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Meowscarada||LifeOrb|Protean|tripleaxel,knockoff,toxicspikes,flowertrick||85,85,85,85,85,85|M|||78|,,,,,Dark]Roaring Moon||LumBerry|Protosynthesis|earthquake,knockoff,outrage,dragondance||85,85,85,85,85,85|N|||72|,,,,,Fairy]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,nastyplot,rapidspin,hydropump||85,85,85,85,85,85|F|||87|,,,,,Steel",
-  "ai": "Espathra||ChoiceSpecs|SpeedBoost|dazzlinggleam,luminacrash,uturn,shadowball||85,85,85,85,85,85|F|||80|,,,,,Fairy]Gastrodon|GastrodonEast|Leftovers|StormDrain|recover,icebeam,earthquake,stealthrock||85,85,85,85,85,85|M|||86|,,,,,Poison]Terrakion||ChoiceBand|Justified|earthquake,closecombat,quickattack,stoneedge||85,85,85,85,85,85|N|||79|,,,,,Ground]Shiftry||LifeOrb|WindRider|willowisp,suckerpunch,knockoff,leafstorm||85,85,85,85,85,85|M|||89|,,,,,Dark]Kingambit||Leftovers|SupremeOverlord|swordsdance,suckerpunch,ironhead,kowtowcleave||85,85,85,85,85,85|M|||74|,,,,,Ghost]Entei||ChoiceBand|InnerFocus|extremespeed,sacredfire,flareblitz,stoneedge||85,85,85,85,85,85|N|||78|,,,,,Normal"
+  "player": "Overqwil||ChoiceBand|Intimidate|liquidation,aquajet,crunch,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Water]Virizion||LifeOrb|Justified|closecombat,swordsdance,stoneedge,leafblade||85,85,85,85,85,85|N|||82|,,,,,Rock]Quaquaval||Leftovers|Moxie|rapidspin,roost,aquastep,closecombat||85,85,85,85,85,85|F|||79|,,,,,Steel]Porygon2||Eviolite|Download|recover,thunderwave,terablast,shadowball||85,85,85,85,85,85|N|||81|,,,,,Fairy]Zekrom||Leftovers|Teravolt|substitute,boltstrike,dragondance,outrage||85,85,85,85,85,85|N|||71|,,,,,Grass]Delphox||HeavyDutyBoots|Blaze|psyshock,fireblast,grassknot,nastyplot||85,,85,85,85,85|F|,0,,,,||84|,,,,,Grass",
+  "ai": "Ludicolo||LifeOrb|SwiftSwim|hydropump,icebeam,gigadrain,raindance||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water]Zarude|ZarudeDada|Leftovers|LeafGuard|swordsdance,knockoff,synthesis,powerwhip||85,85,85,85,85,85|N|||77|,,,,,Dark]Glaceon||HeavyDutyBoots|IceBody|wish,mudshot,protect,freezedry||85,,85,85,85,85|F|,0,,,,||94|,,,,,Ground]Tentacruel||AssaultVest|LiquidOoze|sludgebomb,rapidspin,surf,knockoff||85,85,85,85,85,85|F|||84|,,,,,Grass]Garchomp||LoadedDice|RoughSkin|earthquake,scaleshot,ironhead,swordsdance||85,85,85,85,85,85|M|||74|,,,,,Steel]Meloetta||LifeOrb|SereneGrace|tripleaxel,knockoff,relicsong,closecombat||85,85,85,85,85,85|N|||82|,,,,,Dark",
+  "curation": {
+    "battles": 100,
+    "playerWins": 68
+  }
 }

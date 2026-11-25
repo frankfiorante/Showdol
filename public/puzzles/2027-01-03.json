@@ -20,5 +20,9 @@
     "Sandaconda"
   ],
   "player": "Seviper||Leftovers|ShedSkin|earthquake,swordsdance,trailblaze,gunkshot||85,85,85,85,85,85|F|||93|,,,,,Ground]Meowscarada||HeavyDutyBoots|Protean|flowertrick,knockoff,toxicspikes,uturn||85,85,85,85,85,85|F|||78|,,,,,Grass]Orthworm||ChestoBerry|EarthEater|irontail,coil,rest,bodypress||85,85,85,85,85,85|F|||88|,,,,,Electric]Krookodile||Leftovers|Intimidate|gunkshot,bulkup,knockoff,earthquake||85,85,85,85,85,85|F|||79|,,,,,Poison]Scovillain||Leftovers|Chlorophyll|protect,leechseed,flamethrower,substitute||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Sandaconda||Leftovers|ShedSkin|coil,glare,stoneedge,earthquake||85,85,85,85,85,85|M|||84|,,,,,Dragon",
-  "ai": "Leafeon||LifeOrb|Chlorophyll|leafblade,doubleedge,synthesis,swordsdance||85,85,85,85,85,85|M|||88|,,,,,Normal]Hatterene||Leftovers|MagicBounce|drainingkiss,mysticalfire,psyshock,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Zebstrika||LifeOrb|SapSipper|supercellslam,overheat,voltswitch,highhorsepower||85,85,85,85,85,85|M|||87|,,,,,Ground]Tyranitar||AssaultVest|SandStream|icebeam,knockoff,stoneedge,earthquake||85,85,85,85,85,85|F|||78|,,,,,Ghost]Oricorio||HeavyDutyBoots|Dancer|hurricane,revelationdance,roost,quiverdance||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ground]Oranguru||ChoiceSpecs|InnerFocus|thunderbolt,psyshock,hypervoice,focusblast||85,,85,85,85,85|F|,0,,,,||92|,,,,,Electric"
+  "ai": "Leafeon||LifeOrb|Chlorophyll|leafblade,doubleedge,synthesis,swordsdance||85,85,85,85,85,85|M|||88|,,,,,Normal]Hatterene||Leftovers|MagicBounce|drainingkiss,mysticalfire,psyshock,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Zebstrika||LifeOrb|SapSipper|supercellslam,overheat,voltswitch,highhorsepower||85,85,85,85,85,85|M|||87|,,,,,Ground]Tyranitar||AssaultVest|SandStream|icebeam,knockoff,stoneedge,earthquake||85,85,85,85,85,85|F|||78|,,,,,Ghost]Oricorio||HeavyDutyBoots|Dancer|hurricane,revelationdance,roost,quiverdance||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ground]Oranguru||ChoiceSpecs|InnerFocus|thunderbolt,psyshock,hypervoice,focusblast||85,,85,85,85,85|F|,0,,,,||92|,,,,,Electric",
+  "curation": {
+    "battles": 100,
+    "playerWins": 79
+  }
 }

@@ -20,5 +20,9 @@
     "Dipplin"
   ],
   "player": "Abomasnow||LightClay|SnowWarning|earthquake,iceshard,auroraveil,blizzard||77,85,85,85,85,85|M|||84|,,,,,Water]Reshiram||HeavyDutyBoots|Turboblaze|outrage,flareblitz,stoneedge,dragondance||85,85,85,85,85,85|N|||76|,,,,,Fire]Cinderace||HeavyDutyBoots|Libero|uturn,willowisp,pyroball,courtchange||85,85,85,85,85,85|M|||77|,,,,,Grass]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|alluringvoice,focusblast,psyshock,thunderbolt||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Sylveon||Leftovers|Pixilate|hypervoice,calmmind,wish,protect||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Dipplin||Eviolite|StickyHold|dragontail,dragonpulse,recover,gigadrain||85,85,85,85,85,85|M|||88|,,,,,Steel",
-  "ai": "Klefki||Leftovers|Prankster|spikes,thunderwave,dazzlinggleam,foulplay||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Crabominable||AssaultVest|IronFist|earthquake,knockoff,icehammer,drainpunch||85,85,85,85,85,85|M|||90|,,,,,Water]Honchkrow||HeavyDutyBoots|Moxie|bravebird,lashout,heatwave,suckerpunch||85,85,85,85,85,85|F|||86|,,,,,Dark]Gyarados||HeavyDutyBoots|Moxie|dragondance,earthquake,stoneedge,waterfall||85,85,85,85,85,85|M|||79|,,,,,Ground]Victreebel||LifeOrb|Chlorophyll|sunnyday,powerwhip,sludgewave,weatherball||85,85,85,85,85,85|M|||90|,,,,,Fire]Manaphy||Leftovers|Hydration|icebeam,energyball,hydropump,tailglow||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water"
+  "ai": "Klefki||Leftovers|Prankster|spikes,thunderwave,dazzlinggleam,foulplay||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Crabominable||AssaultVest|IronFist|earthquake,knockoff,icehammer,drainpunch||85,85,85,85,85,85|M|||90|,,,,,Water]Honchkrow||HeavyDutyBoots|Moxie|bravebird,lashout,heatwave,suckerpunch||85,85,85,85,85,85|F|||86|,,,,,Dark]Gyarados||HeavyDutyBoots|Moxie|dragondance,earthquake,stoneedge,waterfall||85,85,85,85,85,85|M|||79|,,,,,Ground]Victreebel||LifeOrb|Chlorophyll|sunnyday,powerwhip,sludgewave,weatherball||85,85,85,85,85,85|M|||90|,,,,,Fire]Manaphy||Leftovers|Hydration|icebeam,energyball,hydropump,tailglow||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 51
+  }
 }

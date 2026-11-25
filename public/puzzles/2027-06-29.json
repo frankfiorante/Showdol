@@ -20,5 +20,9 @@
     "Veluza"
   ],
   "player": "Meowscarada||FocusSash|Protean|tripleaxel,toxicspikes,flowertrick,knockoff||85,85,85,85,85,85|F|||78|,,,,,Grass]Decidueye||LifeOrb|Overgrow|shadowsneak,poltergeist,leafblade,swordsdance||85,85,85,85,85,85|M|||88|,,,,,Ghost]Houndstone||Leftovers|Fluffy|sleeptalk,poltergeist,bodypress,rest||85,85,85,85,85,85|M|||86|,,,,,Fighting]Pachirisu||HeavyDutyBoots|VoltAbsorb|superfang,encore,uturn,discharge||85,85,85,85,85,85|M|||96|,,,,,Flying]Flareon||ToxicOrb|Guts|quickattack,trailblaze,facade,flareblitz||85,85,85,85,85,85|M|||90|,,,,,Normal]Veluza||ChoiceBand|Sharpness|psychocut,nightslash,aquajet,aquacutter||85,85,85,85,85,85|M|||85|,,,,,Water",
-  "ai": "Latios||SoulDew|Levitate|calmmind,recover,psyshock,dracometeor||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Hawlucha||WhiteHerb|Unburden|closecombat,swordsdance,bravebird,acrobatics||85,85,85,85,85,85|F|||80|,,,,,Fighting]Leafeon||LifeOrb|Chlorophyll|swordsdance,knockoff,leafblade,doubleedge||85,85,85,85,85,85|F|||88|,,,,,Normal]Maushold|MausholdFour|WideLens|Technician|populationbomb,tidyup,bite,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Cramorant||HeavyDutyBoots|GulpMissile|bravebird,defog,roost,surf||85,85,85,85,85,85|F|||86|,,,,,Ground]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|suckerpunch,ironhead,swordsdance,earthquake||85,85,85,85,85,85|F|||84|,,,,,Ground"
+  "ai": "Latios||SoulDew|Levitate|calmmind,recover,psyshock,dracometeor||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Hawlucha||WhiteHerb|Unburden|closecombat,swordsdance,bravebird,acrobatics||85,85,85,85,85,85|F|||80|,,,,,Fighting]Leafeon||LifeOrb|Chlorophyll|swordsdance,knockoff,leafblade,doubleedge||85,85,85,85,85,85|F|||88|,,,,,Normal]Maushold|MausholdFour|WideLens|Technician|populationbomb,tidyup,bite,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Cramorant||HeavyDutyBoots|GulpMissile|bravebird,defog,roost,surf||85,85,85,85,85,85|F|||86|,,,,,Ground]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|suckerpunch,ironhead,swordsdance,earthquake||85,85,85,85,85,85|F|||84|,,,,,Ground",
+  "curation": {
+    "battles": 100,
+    "playerWins": 43
+  }
 }

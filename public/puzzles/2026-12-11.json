@@ -20,5 +20,9 @@
     "Bisharp"
   ],
   "player": "Froslass||WideLens|CursedBody|taunt,destinybond,poltergeist,tripleaxel||81,85,85,85,85,85|F|||87|,,,,,Ghost]Hawlucha||WhiteHerb|Unburden|acrobatics,swordsdance,closecombat,throatchop||85,85,85,85,85,85|M|||80|,,,,,Fighting]Landorus|LandorusTherian|Leftovers|Intimidate|stealthrock,taunt,stoneedge,earthquake||85,85,85,85,85,85|M|||76|,,,,,Water]Roaring Moon||LumBerry|Protosynthesis|roost,dragondance,knockoff,outrage||85,85,85,85,85,85|N|||72|,,,,,Fairy]Ludicolo||LifeOrb|SwiftSwim|hydropump,icebeam,raindance,gigadrain||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water]Bisharp||Eviolite|Defiant|suckerpunch,throatchop,swordsdance,ironhead||85,85,85,85,85,85|M|||79|,,,,,Ghost",
-  "ai": "Groudon||Leftovers|Drought|precipiceblades,stealthrock,thunderwave,heatcrash||85,85,85,85,85,85|N|||72|,,,,,Fire]Appletun||Leftovers|ThickFat|recover,dragonpulse,dragontail,appleacid||85,85,85,85,85,85|M|||92|,,,,,Steel]Squawkabilly||FlameOrb|Guts|bravebird,quickattack,uturn,facade||85,85,85,85,85,85|M|||85|,,,,,Normal]Calyrex|CalyrexIce|WeaknessPolicy|AsOneGlastrier|highhorsepower,glaciallance,agility,closecombat||85,85,85,85,85,85|N|||72|,,,,,Ground]Cetitan||SitrusBerry|ThickFat|iceshard,icespinner,earthquake,bellydrum||81,85,85,85,85,85|F|||82|,,,,,Ice]Munkidori||ChoiceSpecs|ToxicChain|focusblast,psyshock,sludgewave,uturn||85,85,85,85,85,85|M|||79|,,,,,Poison"
+  "ai": "Groudon||Leftovers|Drought|precipiceblades,stealthrock,thunderwave,heatcrash||85,85,85,85,85,85|N|||72|,,,,,Fire]Appletun||Leftovers|ThickFat|recover,dragonpulse,dragontail,appleacid||85,85,85,85,85,85|M|||92|,,,,,Steel]Squawkabilly||FlameOrb|Guts|bravebird,quickattack,uturn,facade||85,85,85,85,85,85|M|||85|,,,,,Normal]Calyrex|CalyrexIce|WeaknessPolicy|AsOneGlastrier|highhorsepower,glaciallance,agility,closecombat||85,85,85,85,85,85|N|||72|,,,,,Ground]Cetitan||SitrusBerry|ThickFat|iceshard,icespinner,earthquake,bellydrum||81,85,85,85,85,85|F|||82|,,,,,Ice]Munkidori||ChoiceSpecs|ToxicChain|focusblast,psyshock,sludgewave,uturn||85,85,85,85,85,85|M|||79|,,,,,Poison",
+  "curation": {
+    "battles": 100,
+    "playerWins": 58
+  }
 }

@@ -20,5 +20,9 @@
     "Regigigas"
   ],
   "player": "Deoxys|DeoxysSpeed|LifeOrb|Pressure|nastyplot,psychoboost,darkpulse,focusblast||85,,85,85,85,85|N|,0,,,,||82|,,,,,Dark]Dipplin||Eviolite|StickyHold|recover,dragonpulse,gigadrain,suckerpunch||85,85,85,85,85,85|F|||88|,,,,,Steel]Noctowl||HeavyDutyBoots|TintedLens|hurricane,hypervoice,calmmind,roost||85,,85,85,85,85|M|,0,,,,||95|,,,,,Steel]Zarude|ZarudeDada|ChoiceBand|LeafGuard|closecombat,uturn,powerwhip,knockoff||85,85,85,85,85,85|N|||77|,,,,,Grass]Alcremie|AlcremieLemonCream|Leftovers|AromaVeil|alluringvoice,recover,calmmind,psyshock||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Regigigas||Leftovers|SlowStart|bodyslam,knockoff,rest,sleeptalk||85,85,85,85,85,85|N|||84|,,,,,Ghost",
-  "ai": "Weezing|WeezingGalar|Leftovers|Levitate|strangesteam,gunkshot,fireblast,defog||85,85,85,85,85,85|M|||86|,,,,,Steel]Alomomola||RockyHelmet|Regenerator|scald,protect,wish,flipturn||85,85,85,85,85,85|M|||87|,,,,,Steel]Cryogonal||HeavyDutyBoots|Levitate|terablast,rapidspin,recover,icebeam||85,85,85,85,85,85|N|||89|,,,,,Electric]Magmortar||ChoiceSpecs|FlameBody|fireblast,focusblast,thunderbolt,scorchingsands||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting]Gouging Fire||HeavyDutyBoots|Protosynthesis|heatcrash,morningsun,outrage,dragondance||85,85,85,85,85,85|N|||74|,,,,,Fairy]Hydreigon||ChoiceSpecs|Levitate|flashcannon,dracometeor,uturn,darkpulse||85,85,85,85,85,85|F|||79|,,,,,Dragon"
+  "ai": "Weezing|WeezingGalar|Leftovers|Levitate|strangesteam,gunkshot,fireblast,defog||85,85,85,85,85,85|M|||86|,,,,,Steel]Alomomola||RockyHelmet|Regenerator|scald,protect,wish,flipturn||85,85,85,85,85,85|M|||87|,,,,,Steel]Cryogonal||HeavyDutyBoots|Levitate|terablast,rapidspin,recover,icebeam||85,85,85,85,85,85|N|||89|,,,,,Electric]Magmortar||ChoiceSpecs|FlameBody|fireblast,focusblast,thunderbolt,scorchingsands||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting]Gouging Fire||HeavyDutyBoots|Protosynthesis|heatcrash,morningsun,outrage,dragondance||85,85,85,85,85,85|N|||74|,,,,,Fairy]Hydreigon||ChoiceSpecs|Levitate|flashcannon,dracometeor,uturn,darkpulse||85,85,85,85,85,85|F|||79|,,,,,Dragon",
+  "curation": {
+    "battles": 100,
+    "playerWins": 41
+  }
 }

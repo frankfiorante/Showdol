@@ -20,5 +20,9 @@
     "Quaquaval"
   ],
   "player": "Okidogi||Leftovers|ToxicChain|gunkshot,drainpunch,knockoff,bulkup||85,85,85,85,85,85|M|||77|,,,,,Dark]Persian||ChoiceBand|Limber|switcheroo,doubleedge,uturn,knockoff||85,85,85,85,85,85|F|||92|,,,,,Normal]Magnezone||ChoiceScarf|Analytic|thunderbolt,voltswitch,flashcannon,bodypress||85,,85,85,85,85|N|,0,,,,||84|,,,,,Electric]Sceptile||Leftovers|Overgrow|gigadrain,focusblast,leechseed,substitute||85,,85,85,85,85|M|,0,,,,||87|,,,,,Steel]Palossand||Leftovers|WaterCompaction|earthpower,shoreup,shadowball,sludgebomb||85,,85,85,85,85|F|,0,,,,||89|,,,,,Poison]Quaquaval||LifeOrb|Moxie|knockoff,swordsdance,closecombat,aquastep||85,85,85,85,85,85|M|||79|,,,,,Water",
-  "ai": "Ho-Oh||HeavyDutyBoots|Regenerator|recover,sacredfire,earthquake,bravebird||85,85,85,85,85,85|N|||71|,,,,,Ground]Vaporeon||Leftovers|WaterAbsorb|icebeam,scald,protect,wish||85,,85,85,85,85|F|,0,,,,||86|,,,,,Ghost]Chansey||Eviolite|NaturalCure|healbell,thunderwave,seismictoss,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Tropius||SitrusBerry|Harvest|synthesis,dualwingbeat,earthquake,dragondance||85,85,85,85,85,85|M|||91|,,,,,Ground]Wo-Chien||Leftovers|TabletsofRuin|ruination,knockoff,stunspore,gigadrain||85,85,85,85,85,85|N|||83|,,,,,Poison]Cryogonal||HeavyDutyBoots|Levitate|recover,freezedry,rapidspin,flashcannon||85,85,85,85,85,85|N|||89|,,,,,Poison"
+  "ai": "Ho-Oh||HeavyDutyBoots|Regenerator|recover,sacredfire,earthquake,bravebird||85,85,85,85,85,85|N|||71|,,,,,Ground]Vaporeon||Leftovers|WaterAbsorb|icebeam,scald,protect,wish||85,,85,85,85,85|F|,0,,,,||86|,,,,,Ghost]Chansey||Eviolite|NaturalCure|healbell,thunderwave,seismictoss,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Tropius||SitrusBerry|Harvest|synthesis,dualwingbeat,earthquake,dragondance||85,85,85,85,85,85|M|||91|,,,,,Ground]Wo-Chien||Leftovers|TabletsofRuin|ruination,knockoff,stunspore,gigadrain||85,85,85,85,85,85|N|||83|,,,,,Poison]Cryogonal||HeavyDutyBoots|Levitate|recover,freezedry,rapidspin,flashcannon||85,85,85,85,85,85|N|||89|,,,,,Poison",
+  "curation": {
+    "battles": 100,
+    "playerWins": 59
+  }
 }

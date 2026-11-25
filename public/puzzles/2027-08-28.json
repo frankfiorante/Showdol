@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,768a73c69f686df6acd453c3d231a211b94445e5d4522720fb83f727b4e08160",
-    "ai": "sodium,1792595d7e2b4e3abbfdb4c85e83ad3a7acda672709a4743eceb8cbd2487d351"
+    "player": "sodium,5e4439124b40d5b999f68c0c7a394f6342cea739692648ee517374522e8ff580",
+    "ai": "sodium,f1734caa3d46e60f094e1a6a59da1d173ddc7e61dadda4dfcb0a1cfb2c529315"
   },
   "playerSpecies": [
-    "Leafeon",
-    "Honchkrow",
-    "Krookodile",
-    "Floatzel",
-    "Mesprit",
-    "Ambipom"
+    "Dewgong",
+    "Miraidon",
+    "Drednaw",
+    "Oricorio-Sensu",
+    "Mamoswine",
+    "Eelektross"
   ],
-  "player": "Leafeon||LifeOrb|Chlorophyll|doubleedge,knockoff,leafblade,swordsdance||85,85,85,85,85,85|F|||88|,,,,,Dark]Honchkrow||HeavyDutyBoots|Moxie|bravebird,suckerpunch,thunderwave,lashout||85,85,85,85,85,85|M|||86|,,,,,Flying]Krookodile||LifeOrb|Intimidate|stoneedge,knockoff,earthquake,stealthrock||85,85,85,85,85,85|M|||79|,,,,,Ground]Floatzel||Leftovers|WaterVeil|bulkup,wavecrash,icespinner,taunt||85,85,85,85,85,85|F|||86|,,,,,Steel]Mesprit||AssaultVest|Levitate|psychicnoise,knockoff,uturn,thunderbolt||85,85,85,85,85,85|N|||85|,,,,,Dark]Ambipom||ChoiceBand|Technician|knockoff,lowkick,tripleaxel,doubleedge||85,85,85,85,85,85|M|||84|,,,,,Ice",
-  "ai": "Mandibuzz||HeavyDutyBoots|Overcoat|foulplay,defog,roost,uturn||85,85,85,85,85,85|F|||85|,,,,,Steel]Abomasnow||LightClay|SnowWarning|auroraveil,iceshard,blizzard,woodhammer||77,85,85,85,85,85|M|||84|,,,,,Water]Zarude|ZarudeDada|ChoiceBand|LeafGuard|uturn,knockoff,closecombat,powerwhip||85,85,85,85,85,85|N|||77|,,,,,Fighting]Mismagius||Leftovers|Levitate|terablast,nastyplot,substitute,shadowball||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fighting]Porygon-Z||ChoiceScarf|Download|triattack,thunderbolt,trick,icebeam||85,,85,85,85,85|N|,0,,,,||83|,,,,,Electric]Zebstrika||LifeOrb|SapSipper|supercellslam,highhorsepower,voltswitch,overheat||85,85,85,85,85,85|M|||87|,,,,,Ground"
+  "player": "Dewgong||HeavyDutyBoots|ThickFat|encore,surf,knockoff,icebeam||85,85,85,85,85,85|M|||94|,,,,,Grass]Miraidon||ChoiceSpecs|HadronEngine|voltswitch,overheat,electrodrift,dracometeor||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Drednaw||WhiteHerb|ShellArmor|stoneedge,shellsmash,earthquake,liquidation||85,85,85,85,85,85|F|||81|,,,,,Ground]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|roost,revelationdance,hurricane,quiverdance||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fighting]Mamoswine||ChoiceBand|ThickFat|iciclecrash,iceshard,earthquake,knockoff||85,85,85,85,85,85|M|||81|,,,,,Ground]Eelektross||Leftovers|Levitate|firepunch,coil,supercellslam,drainpunch||85,85,85,85,85,85|M|||87|,,,,,Fighting",
+  "ai": "Hydreigon||ChoiceSpecs|Levitate|flashcannon,fireblast,dracometeor,darkpulse||85,,85,85,85,85|F|,0,,,,||79|,,,,,Dark]Rhyperior||WeaknessPolicy|SolidRock|rockpolish,icepunch,earthquake,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Ground]Victreebel||LifeOrb|Chlorophyll|sludgewave,sunnyday,weatherball,powerwhip||85,85,85,85,85,85|M|||90|,,,,,Fire]Magmortar||HeavyDutyBoots|FlameBody|knockoff,thunderbolt,fireblast,earthquake||85,85,85,85,85,85|M|||88|,,,,,Electric]Magearna|MagearnaOriginal|Leftovers|SoulHeart|aurasphere,flashcannon,fleurcannon,thunderwave||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Uxie||Leftovers|Levitate|substitute,psychicnoise,nastyplot,drainingkiss||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy",
+  "curation": {
+    "battles": 100,
+    "playerWins": 76
+  }
 }

@@ -20,5 +20,9 @@
     "Smeargle"
   ],
   "player": "Cramorant||HeavyDutyBoots|GulpMissile|bravebird,roost,surf,defog||85,85,85,85,85,85|M|||86|,,,,,Ground]Glaceon||HeavyDutyBoots|IceBody|freezedry,protect,wish,calmmind||85,,85,85,85,85|M|,0,,,,||94|,,,,,Water]Tropius||SitrusBerry|Harvest|dragondance,leafblade,dualwingbeat,earthquake||85,85,85,85,85,85|M|||91|,,,,,Ground]Lunala||Leftovers|ShadowShield|calmmind,focusblast,moongeistbeam,moonlight||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fighting]Mew||LifeOrb|Synchronize|swordsdance,psychicfangs,leechlife,closecombat||85,85,85,85,85,85|N|||82|,,,,,Fighting]Smeargle||FocusSash|OwnTempo|whirlwind,ceaselessedge,spore,stickyweb||85,85,85,85,85,85|F|||95|,,,,,Ghost",
-  "ai": "Typhlosion|TyphlosionHisui|HeavyDutyBoots|Blaze|focusblast,calmmind,fireblast,shadowball||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fighting]Vikavolt||HeavyDutyBoots|Levitate|discharge,bugbuzz,stickyweb,voltswitch||85,,85,85,85,85|M|,0,,,,||83|,,,,,Electric]Dragalge||AssaultVest|Adaptability|focusblast,dracometeor,dragontail,sludgewave||85,85,85,85,85,85|M|||88|,,,,,Fighting]Lanturn||Leftovers|VoltAbsorb|scald,thunderbolt,icebeam,thunderwave||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Floatzel||ChoiceBand|WaterVeil|icespinner,flipturn,crunch,wavecrash||85,85,85,85,85,85|F|||86|,,,,,Water]Houndstone||ChoiceBand|Fluffy|bodypress,trick,shadowsneak,poltergeist||85,85,85,85,85,85|F|||86|,,,,,Fighting"
+  "ai": "Typhlosion|TyphlosionHisui|HeavyDutyBoots|Blaze|focusblast,calmmind,fireblast,shadowball||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fighting]Vikavolt||HeavyDutyBoots|Levitate|discharge,bugbuzz,stickyweb,voltswitch||85,,85,85,85,85|M|,0,,,,||83|,,,,,Electric]Dragalge||AssaultVest|Adaptability|focusblast,dracometeor,dragontail,sludgewave||85,85,85,85,85,85|M|||88|,,,,,Fighting]Lanturn||Leftovers|VoltAbsorb|scald,thunderbolt,icebeam,thunderwave||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Floatzel||ChoiceBand|WaterVeil|icespinner,flipturn,crunch,wavecrash||85,85,85,85,85,85|F|||86|,,,,,Water]Houndstone||ChoiceBand|Fluffy|bodypress,trick,shadowsneak,poltergeist||85,85,85,85,85,85|F|||86|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 25
+  }
 }

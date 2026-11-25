@@ -20,5 +20,9 @@
     "Hypno"
   ],
   "player": "Morpeko||Leftovers|HungerSwitch|aurawheel,knockoff,rapidspin,protect||85,85,85,85,85,85|F|||88|,,,,,Electric]Vespiquen||HeavyDutyBoots|Pressure|roost,airslash,uturn,toxic||85,85,85,85,85,85|F|||99|,,,,,Steel]Bronzong||Leftovers|Levitate|hypnosis,stealthrock,psychicnoise,earthquake||85,85,85,85,85,85|N|||88|,,,,,Electric]Donphan||ChoiceBand|Sturdy|iceshard,icespinner,earthquake,knockoff||85,85,85,85,85,85|F|||84|,,,,,Steel]Leafeon||LifeOrb|Chlorophyll|swordsdance,doubleedge,leafblade,synthesis||85,85,85,85,85,85|F|||88|,,,,,Normal]Hypno||Leftovers|Insomnia|toxic,knockoff,psychicnoise,encore||85,85,85,85,85,85|F|||95|,,,,,Steel",
-  "ai": "Salamence||HeavyDutyBoots|Moxie|dragondance,earthquake,dualwingbeat,outrage||85,85,85,85,85,85|F|||77|,,,,,Ground]Dedenne||SitrusBerry|CheekPouch|dazzlinggleam,thunderbolt,superfang,uturn||85,85,85,85,85,85|F|||88|,,,,,Flying]Hitmontop||AssaultVest|Intimidate|suckerpunch,closecombat,rapidspin,earthquake||85,85,85,85,85,85|M|||88|,,,,,Steel]Iron Hands||Leftovers|QuarkDrive|thunderpunch,drainpunch,icepunch,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Flying]Delibird||HeavyDutyBoots|Hustle|bravebird,drillrun,iceshard,icespinner||85,85,85,85,85,85|F||||,,,,,Ground]Piloswine||Eviolite|ThickFat|iciclecrash,earthquake,roar,stealthrock||85,85,85,85,85,85|M|||85|,,,,,Dragon"
+  "ai": "Salamence||HeavyDutyBoots|Moxie|dragondance,earthquake,dualwingbeat,outrage||85,85,85,85,85,85|F|||77|,,,,,Ground]Dedenne||SitrusBerry|CheekPouch|dazzlinggleam,thunderbolt,superfang,uturn||85,85,85,85,85,85|F|||88|,,,,,Flying]Hitmontop||AssaultVest|Intimidate|suckerpunch,closecombat,rapidspin,earthquake||85,85,85,85,85,85|M|||88|,,,,,Steel]Iron Hands||Leftovers|QuarkDrive|thunderpunch,drainpunch,icepunch,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Flying]Delibird||HeavyDutyBoots|Hustle|bravebird,drillrun,iceshard,icespinner||85,85,85,85,85,85|F||||,,,,,Ground]Piloswine||Eviolite|ThickFat|iciclecrash,earthquake,roar,stealthrock||85,85,85,85,85,85|M|||85|,,,,,Dragon",
+  "curation": {
+    "battles": 100,
+    "playerWins": 61
+  }
 }

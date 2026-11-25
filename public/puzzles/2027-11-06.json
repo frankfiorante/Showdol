@@ -20,5 +20,9 @@
     "Gliscor"
   ],
   "player": "Spiritomb||Leftovers|Infiltrator|willowisp,shadowsneak,poltergeist,foulplay||85,85,85,85,85,85|F|||89|,,,,,Ghost]Dialga|DialgaOrigin|AdamantCrystal|Pressure|heavyslam,fireblast,dracometeor,thunderwave||85,85,85,85,85,85|N|||73|,,,,,Dragon]Rillaboom||LifeOrb|GrassySurge|grassyglide,woodhammer,swordsdance,highhorsepower||85,85,85,85,85,85|F|||79|,,,,,Grass]Bisharp||Eviolite|Defiant|suckerpunch,ironhead,throatchop,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Flying]Rabsca||HeavyDutyBoots|Synchronize|psychic,bugbuzz,revivalblessing,recover||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Gliscor||ToxicOrb|PoisonHeal|toxicspikes,knockoff,earthquake,protect||85,85,85,85,85,85|F|||76|,,,,,Water",
-  "ai": "Feraligatr||LifeOrb|SheerForce|icepunch,liquidation,dragondance,trailblaze||85,85,85,85,85,85|F|||79|,,,,,Water]Lumineon||HeavyDutyBoots|StormDrain|uturn,icebeam,hydropump,encore||85,85,85,85,85,85|F|||93|,,,,,Steel]Azelf||LifeOrb|Levitate|psyshock,nastyplot,dazzlinggleam,fireblast||85,,85,85,85,85|N|,0,,,,||82|,,,,,Psychic]Leafeon||Leftovers|Chlorophyll|substitute,doubleedge,leafblade,swordsdance||85,85,85,85,85,85|F|||88|,,,,,Normal]Hawlucha||WhiteHerb|Unburden|stoneedge,closecombat,acrobatics,swordsdance||85,85,85,85,85,85|F|||80|,,,,,Fighting]Pincurchin||Leftovers|ElectricSurge|curse,recover,zingzap,liquidation||85,85,85,85,85,85|F||||,,,,,Water"
+  "ai": "Feraligatr||LifeOrb|SheerForce|icepunch,liquidation,dragondance,trailblaze||85,85,85,85,85,85|F|||79|,,,,,Water]Lumineon||HeavyDutyBoots|StormDrain|uturn,icebeam,hydropump,encore||85,85,85,85,85,85|F|||93|,,,,,Steel]Azelf||LifeOrb|Levitate|psyshock,nastyplot,dazzlinggleam,fireblast||85,,85,85,85,85|N|,0,,,,||82|,,,,,Psychic]Leafeon||Leftovers|Chlorophyll|substitute,doubleedge,leafblade,swordsdance||85,85,85,85,85,85|F|||88|,,,,,Normal]Hawlucha||WhiteHerb|Unburden|stoneedge,closecombat,acrobatics,swordsdance||85,85,85,85,85,85|F|||80|,,,,,Fighting]Pincurchin||Leftovers|ElectricSurge|curse,recover,zingzap,liquidation||85,85,85,85,85,85|F||||,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 71
+  }
 }

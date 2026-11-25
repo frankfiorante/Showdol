@@ -20,5 +20,9 @@
     "Weezing-Galar"
   ],
   "player": "Regieleki||Magnet|Transistor|thunderbolt,voltswitch,rapidspin,terablast||85,85,85,85,85,85|N|||79|,,,,,Ice]Toxicroak||ChoiceScarf|DrySkin|closecombat,earthquake,gunkshot,knockoff||85,85,85,85,85,85|M|||84|,,,,,Dark]Greedent||SitrusBerry|CheekPouch|swordsdance,knockoff,doubleedge,earthquake||85,85,85,85,85,85|F|||86|,,,,,Ghost]Garchomp||LoadedDice|RoughSkin|scaleshot,swordsdance,earthquake,firefang||85,85,85,85,85,85|F|||74|,,,,,Ground]Slowbro||Leftovers|Regenerator|irondefense,slackoff,scald,bodypress||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fighting]Weezing|WeezingGalar|Leftovers|Levitate|strangesteam,gunkshot,painsplit,fireblast||85,85,85,85,85,85|M|||86|,,,,,Steel",
-  "ai": "Ursaluna|UrsalunaBloodmoon|Leftovers|MindsEye|bloodmoon,moonlight,calmmind,vacuumwave||85,,85,85,85,85|M|,0,,,,||79|,,,,,Normal]Vigoroth||Eviolite|VitalSpirit|bulkup,bodyslam,knockoff,slackoff||85,85,85,85,85,85|F|||85|,,,,,Ghost]Garganacl||Leftovers|PurifyingSalt|recover,bodypress,irondefense,saltcure||85,85,85,85,85,85|F|||80|,,,,,Dragon]Munkidori||AssaultVest|ToxicChain|uturn,sludgewave,psychicnoise,fakeout||85,85,85,85,85,85|M|||79|,,,,,Dark]Mimikyu||LifeOrb|Disguise|swordsdance,playrough,shadowsneak,drainpunch||85,85,85,85,85,85|F|||79|,,,,,Fairy]Medicham||ChoiceBand|PurePower|icepunch,zenheadbutt,bulletpunch,closecombat||85,85,85,85,85,85|F|||86|,,,,,Fighting"
+  "ai": "Ursaluna|UrsalunaBloodmoon|Leftovers|MindsEye|bloodmoon,moonlight,calmmind,vacuumwave||85,,85,85,85,85|M|,0,,,,||79|,,,,,Normal]Vigoroth||Eviolite|VitalSpirit|bulkup,bodyslam,knockoff,slackoff||85,85,85,85,85,85|F|||85|,,,,,Ghost]Garganacl||Leftovers|PurifyingSalt|recover,bodypress,irondefense,saltcure||85,85,85,85,85,85|F|||80|,,,,,Dragon]Munkidori||AssaultVest|ToxicChain|uturn,sludgewave,psychicnoise,fakeout||85,85,85,85,85,85|M|||79|,,,,,Dark]Mimikyu||LifeOrb|Disguise|swordsdance,playrough,shadowsneak,drainpunch||85,85,85,85,85,85|F|||79|,,,,,Fairy]Medicham||ChoiceBand|PurePower|icepunch,zenheadbutt,bulletpunch,closecombat||85,85,85,85,85,85|F|||86|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 41
+  }
 }

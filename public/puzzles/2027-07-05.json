@@ -20,5 +20,9 @@
     "Chesnaught"
   ],
   "player": "Dudunsparce|DudunsparceThreeSegment|Leftovers|Rattled|earthquake,roost,toxic,boomburst||85,85,85,85,85,85|M|||83|,,,,,Ghost]Phione||Leftovers|Hydration|grassknot,takeheart,icebeam,scald||85,,85,85,85,85|N|,0,,,,||91|,,,,,Steel]Diancie||Leftovers|ClearBody|calmmind,diamondstorm,earthpower,drainingkiss||85,85,85,85,85,85|N|||82|,,,,,Water]Arceus|ArceusRock|StonePlate|Multitype|swordsdance,stoneedge,recover,earthquake||85,85,85,85,85,85|N|||74|,,,,,Ground]Perrserker||LifeOrb|ToughClaws|closecombat,uturn,ironhead,stealthrock||85,85,85,85,85,85|F|||89|,,,,,Fighting]Chesnaught||Leftovers|Bulletproof|trailblaze,bodypress,irondefense,synthesis||85,85,85,85,85,85|F|||84|,,,,,Steel",
-  "ai": "Forretress||Leftovers|Sturdy|stealthrock,ironhead,rapidspin,voltswitch||85,85,85,85,85,85|F|||84|,,,,,Water]Talonflame||HeavyDutyBoots|GaleWings|swordsdance,bravebird,terablast,flareblitz||85,85,85,85,85,85|M|||83|,,,,,Ground]Falinks||LifeOrb|Defiant|ironhead,noretreat,knockoff,closecombat||85,85,85,85,85,85|N|||84|,,,,,Steel]Torkoal||HeavyDutyBoots|Drought|yawn,earthquake,lavaplume,solarbeam||85,85,85,85,85,85|F|||88|,,,,,Grass]Pecharunt||Leftovers|PoisonPuppeteer|shadowball,malignantchain,recover,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Gogoat||Leftovers|SapSipper|bulkup,milkdrink,earthquake,hornleech||85,85,85,85,85,85|F|||88|,,,,,Water"
+  "ai": "Forretress||Leftovers|Sturdy|stealthrock,ironhead,rapidspin,voltswitch||85,85,85,85,85,85|F|||84|,,,,,Water]Talonflame||HeavyDutyBoots|GaleWings|swordsdance,bravebird,terablast,flareblitz||85,85,85,85,85,85|M|||83|,,,,,Ground]Falinks||LifeOrb|Defiant|ironhead,noretreat,knockoff,closecombat||85,85,85,85,85,85|N|||84|,,,,,Steel]Torkoal||HeavyDutyBoots|Drought|yawn,earthquake,lavaplume,solarbeam||85,85,85,85,85,85|F|||88|,,,,,Grass]Pecharunt||Leftovers|PoisonPuppeteer|shadowball,malignantchain,recover,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Gogoat||Leftovers|SapSipper|bulkup,milkdrink,earthquake,hornleech||85,85,85,85,85,85|F|||88|,,,,,Water",
+  "curation": {
+    "battles": 100,
+    "playerWins": 68
+  }
 }

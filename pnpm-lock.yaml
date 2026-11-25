@@ -26,6 +26,9 @@ importers:
       '@pkmn/view':
         specifier: 0.7.4
         version: 0.7.4
+      '@smogon/calc':
+        specifier: 0.12.0
+        version: 0.12.0
       next:
         specifier: 16.4.6
         version: 16.4.6(@types/node@26.6.6)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
@@ -462,8 +465,14 @@ packages:
     resolution: {integrity: sha512-aLnzcPqjiHGGK2v9BXoVrj51EL0pReXpQcZVFzIyWKU1xAs+SSe3Rd9g5RZlM9NyhhUOETtsI/u+F2v2ywV6cQ==}
     hasBin: true
 
+  '@smogon/calc@0.12.0':
+    resolution: {integrity: sha512-rNkdYV/ZGIugxD+hZlHdDaZLdGPYRIm+AaMFM18X2T2Pf8jpuuro9aoeiaZh51zcRR4tN3NRjSPoEXZ5ZDTuuA==}
+
   '@swc/helpers@0.5.23':
     resolution: {integrity: sha512-5lSsMOTXURePglDfvuAQUqkGek9Hg2kksOYay2m0+XR++b2NWYL/4sWyuvVBIs8oKnJaxkdi9whaL/sqN13afw==}
+
+  '@types/node@18.19.130':
+    resolution: {integrity: sha512-GRaXQx6jGfL8sKfaIDD6OupbIHBr9jv7Jnaml9tB7l4v068PAOXqfcujMMo5PhbIs6ggR1XODELqahT2R8v0fg==}
 
   '@types/node@26.6.6':
     resolution: {integrity: sha512-MzQj+8Kx3XI40OmUAE6Qoh58ZMNstNNMwn2nfd3qWsfe7nDNSqJNzes4njhz6AHwrSHOffSLwXU6yb474Q4aog==}
@@ -715,6 +724,9 @@ packages:
     resolution: {integrity: sha512-8FYau96o3NKOhbjKi/qNvG/W5jhzxkbdm5sj9AbZ/5T5sWqn3hJgLfGx27sRKZWTvyzCP8dLRBTf5tBTSRVUNA==}
     engines: {node: '>=16.20.0'}
     hasBin: true
+
+  undici-types@5.26.5:
+    resolution: {integrity: sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==}
 
   undici-types@8.9.0:
     resolution: {integrity: sha512-KTDyRTYX8sWmKXAikPHHSyc63CRPETMctyjKFupcC6OBLXT3xsN0e9aF7m+mIXutFWpUXuedtowG7iLOzp0kQg==}
@@ -977,9 +989,17 @@ snapshots:
       '@pkmn/protocol': 0.7.4
       '@pkmn/types': 5.0.0
 
+  '@smogon/calc@0.12.0':
+    dependencies:
+      '@types/node': 18.19.130
+
   '@swc/helpers@0.5.23':
     dependencies:
       tslib: 2.9.1
+
+  '@types/node@18.19.130':
+    dependencies:
+      undici-types: 5.26.5
 
   '@types/node@26.6.6':
     dependencies:
@@ -1216,5 +1236,7 @@ snapshots:
       '@typescript/typescript-sunos-x64': 7.0.2
       '@typescript/typescript-win32-arm64': 7.0.2
       '@typescript/typescript-win32-x64': 7.0.2
+
+  undici-types@5.26.5: {}
 
   undici-types@8.9.0: {}

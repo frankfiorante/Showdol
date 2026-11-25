@@ -20,5 +20,9 @@
     "Umbreon"
   ],
   "player": "Registeel||Leftovers|ClearBody|stealthrock,bodypress,ironhead,thunderwave||85,85,85,85,85,85|N|||81|,,,,,Fighting]Gastrodon|GastrodonEast|Leftovers|StormDrain|earthquake,recover,sludgebomb,surf||85,85,85,85,85,85|M|||86|,,,,,Poison]Bronzong||Leftovers|Levitate|ironhead,hypnosis,earthquake,psychic||85,85,85,85,85,85|N|||88|,,,,,Electric]Ursaluna||FlameOrb|Guts|crunch,facade,headlongrush,trailblaze||85,85,85,85,85,85|M|||79|,,,,,Normal]Grumpig||Leftovers|ThickFat|nastyplot,psyshock,focusblast,shadowball||85,,85,85,85,85|F|,0,,,,||92|,,,,,Fighting]Umbreon||Leftovers|Synchronize|foulplay,toxic,protect,wish||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison",
-  "ai": "Chi-Yu||ChoiceSpecs|BeadsofRuin|flamethrower,psychic,darkpulse,overheat||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Kilowattrel||HeavyDutyBoots|VoltAbsorb|uturn,roost,discharge,hurricane||85,85,85,85,85,85|M|||83|,,,,,Water]Porygon2||Eviolite|Download|shadowball,terablast,thunderwave,recover||85,85,85,85,85,85|N|||81|,,,,,Fairy]Archaludon||LumBerry|Stamina|ironhead,earthquake,swordsdance,outrage||85,85,85,85,85,85|F|||77|,,,,,Ground]Vivillon|VivillonSavanna|HeavyDutyBoots|CompoundEyes|quiverdance,hurricane,bugbuzz,sleeppowder||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Arceus|ArceusWater|SplashPlate|Multitype|icebeam,calmmind,judgment,recover||85,,85,85,85,85|N|,0,,,,||71|,,,,,Steel"
+  "ai": "Chi-Yu||ChoiceSpecs|BeadsofRuin|flamethrower,psychic,darkpulse,overheat||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Kilowattrel||HeavyDutyBoots|VoltAbsorb|uturn,roost,discharge,hurricane||85,85,85,85,85,85|M|||83|,,,,,Water]Porygon2||Eviolite|Download|shadowball,terablast,thunderwave,recover||85,85,85,85,85,85|N|||81|,,,,,Fairy]Archaludon||LumBerry|Stamina|ironhead,earthquake,swordsdance,outrage||85,85,85,85,85,85|F|||77|,,,,,Ground]Vivillon|VivillonSavanna|HeavyDutyBoots|CompoundEyes|quiverdance,hurricane,bugbuzz,sleeppowder||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Arceus|ArceusWater|SplashPlate|Multitype|icebeam,calmmind,judgment,recover||85,,85,85,85,85|N|,0,,,,||71|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 55
+  }
 }

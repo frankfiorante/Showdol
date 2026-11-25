@@ -20,5 +20,9 @@
     "Perrserker"
   ],
   "player": "Exeggutor|ExeggutorAlola|ChoiceSpecs|Frisk|gigadrain,leafstorm,flamethrower,dracometeor||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fire]Bellossom||Leftovers|Chlorophyll|quiverdance,terablast,gigadrain,strengthsap||85,,85,85,85,85|M|,0,,,,||84|,,,,,Rock]Golurk||LifeOrb|NoGuard|stealthrock,poltergeist,earthquake,dynamicpunch||85,85,85,85,85,85|N|||87|,,,,,Fighting]Porygon2||Eviolite|Download|triattack,icebeam,discharge,recover||85,,85,85,85,85|N|,0,,,,||81|,,,,,Electric]Bisharp||Eviolite|Defiant|suckerpunch,throatchop,ironhead,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Flying]Perrserker||ChoiceBand|ToughClaws|knockoff,uturn,ironhead,closecombat||85,85,85,85,85,85|F|||89|,,,,,Fighting",
-  "ai": "Flapple||ChoiceBand|Hustle|gravapple,suckerpunch,outrage,uturn||85,85,85,85,85,85|M|||88|,,,,,Steel]Haxorus||LoadedDice|MoldBreaker|ironhead,earthquake,scaleshot,swordsdance||85,85,85,85,85,85|M|||78|,,,,,Steel]Delphox||ChoiceSpecs|Blaze|focusblast,psyshock,fireblast,grassknot||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fighting]Donphan||AssaultVest|Sturdy|rapidspin,earthquake,icespinner,knockoff||85,85,85,85,85,85|F|||84|,,,,,Water]Grafaiai||LifeOrb|PoisonTouch|gunkshot,swordsdance,knockoff,lowkick||85,85,85,85,85,85|M|||86|,,,,,Dark]Meloetta||Leftovers|SereneGrace|focusblast,calmmind,psyshock,hypervoice||85,,85,85,85,85|N|,0,,,,||82|,,,,,Psychic"
+  "ai": "Flapple||ChoiceBand|Hustle|gravapple,suckerpunch,outrage,uturn||85,85,85,85,85,85|M|||88|,,,,,Steel]Haxorus||LoadedDice|MoldBreaker|ironhead,earthquake,scaleshot,swordsdance||85,85,85,85,85,85|M|||78|,,,,,Steel]Delphox||ChoiceSpecs|Blaze|focusblast,psyshock,fireblast,grassknot||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fighting]Donphan||AssaultVest|Sturdy|rapidspin,earthquake,icespinner,knockoff||85,85,85,85,85,85|F|||84|,,,,,Water]Grafaiai||LifeOrb|PoisonTouch|gunkshot,swordsdance,knockoff,lowkick||85,85,85,85,85,85|M|||86|,,,,,Dark]Meloetta||Leftovers|SereneGrace|focusblast,calmmind,psyshock,hypervoice||85,,85,85,85,85|N|,0,,,,||82|,,,,,Psychic",
+  "curation": {
+    "battles": 100,
+    "playerWins": 21
+  }
 }

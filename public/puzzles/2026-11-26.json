@@ -20,5 +20,9 @@
     "Arceus-Rock"
   ],
   "player": "Bombirdier||ChoiceBand|RockyPayload|bravebird,stoneedge,uturn,knockoff||85,85,85,85,85,85|M|||85|,,,,,Rock]Mudsdale||Leftovers|Stamina|earthquake,heavyslam,roar,stealthrock||85,85,85,85,85,85|M|||83|,,,,,Steel]Cacturne||LifeOrb|WaterAbsorb|knockoff,leafstorm,focusblast,suckerpunch||85,85,85,85,85,85|F|||92|,,,,,Poison]Fezandipiti||Leftovers|ToxicChain|playrough,swordsdance,terablast,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Ground]Meloetta||LifeOrb|SereneGrace|relicsong,knockoff,closecombat,tripleaxel||85,85,85,85,85,85|N|||82|,,,,,Dark]Arceus|ArceusRock|StonePlate|Multitype|earthquake,stoneedge,dragondance,recover||85,85,85,85,85,85|N|||74|,,,,,Ground",
-  "ai": "Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,uturn,facade,bravebird||85,85,85,85,85,85|M|||85|,,,,,Normal]Grafaiai||AssaultVest|PoisonTouch|superfang,uturn,gunkshot,knockoff||85,85,85,85,85,85|M|||86|,,,,,Dark]Spiritomb||Leftovers|Infiltrator|poltergeist,shadowsneak,foulplay,painsplit||85,85,85,85,85,85|M|||89|,,,,,Poison]Chesnaught||Leftovers|Bulletproof|trailblaze,synthesis,irondefense,bodypress||85,85,85,85,85,85|F|||84|,,,,,Steel]Quagsire||Leftovers|Unaware|recover,earthquake,toxic,spikes||85,85,85,85,85,85|M|||84|,,,,,Steel]Tsareena||HeavyDutyBoots|QueenlyMajesty|powerwhip,synthesis,rapidspin,highjumpkick||85,85,85,85,85,85|F|||87|,,,,,Fighting"
+  "ai": "Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,uturn,facade,bravebird||85,85,85,85,85,85|M|||85|,,,,,Normal]Grafaiai||AssaultVest|PoisonTouch|superfang,uturn,gunkshot,knockoff||85,85,85,85,85,85|M|||86|,,,,,Dark]Spiritomb||Leftovers|Infiltrator|poltergeist,shadowsneak,foulplay,painsplit||85,85,85,85,85,85|M|||89|,,,,,Poison]Chesnaught||Leftovers|Bulletproof|trailblaze,synthesis,irondefense,bodypress||85,85,85,85,85,85|F|||84|,,,,,Steel]Quagsire||Leftovers|Unaware|recover,earthquake,toxic,spikes||85,85,85,85,85,85|M|||84|,,,,,Steel]Tsareena||HeavyDutyBoots|QueenlyMajesty|powerwhip,synthesis,rapidspin,highjumpkick||85,85,85,85,85,85|F|||87|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 63
+  }
 }

@@ -20,5 +20,9 @@
     "Sandaconda"
   ],
   "player": "Eelektross||Leftovers|Levitate|supercellslam,drainpunch,knockoff,coil||85,85,85,85,85,85|M|||87|,,,,,Fighting]Empoleon||Leftovers|Competitive|roost,surf,yawn,stealthrock||85,,85,85,85,85|M|,0,,,,||84|,,,,,Grass]Dialga||Leftovers|Pressure|heavyslam,fireblast,thunderwave,dracometeor||85,85,85,85,85,85|N|||73|,,,,,Steel]Spiritomb||Leftovers|Infiltrator|foulplay,suckerpunch,poltergeist,toxic||85,85,85,85,85,85|F|||89|,,,,,Ghost]Mewtwo||LifeOrb|Pressure|nastyplot,fireblast,psystrike,darkpulse||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic]Sandaconda||Leftovers|ShedSkin|stoneedge,glare,earthquake,rest||85,85,85,85,85,85|M|||84|,,,,,Water",
-  "ai": "Braviary||HeavyDutyBoots|Defiant|bulkup,roost,bravebird,closecombat||85,85,85,85,85,85|M|||85|,,,,,Fighting]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|ironhead,stoneedge,closecombat,throatchop||85,85,85,85,85,85|M|||82|,,,,,Steel]Kricketune||HeavyDutyBoots|Technician|knockoff,pounce,stickyweb,taunt||85,85,85,85,85,85|M|||99|,,,,,Ghost]Duraludon||Eviolite|LightMetal|stealthrock,flashcannon,bodypress,dracometeor||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fighting]Hariyama||AssaultVest|ThickFat|heavyslam,bulletpunch,knockoff,closecombat||85,85,85,85,85,85|M|||87|,,,,,Steel]Scizor||ChoiceBand|Technician|bulletpunch,knockoff,closecombat,uturn||85,85,85,85,85,85|F|||79|,,,,,Steel"
+  "ai": "Braviary||HeavyDutyBoots|Defiant|bulkup,roost,bravebird,closecombat||85,85,85,85,85,85|M|||85|,,,,,Fighting]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|ironhead,stoneedge,closecombat,throatchop||85,85,85,85,85,85|M|||82|,,,,,Steel]Kricketune||HeavyDutyBoots|Technician|knockoff,pounce,stickyweb,taunt||85,85,85,85,85,85|M|||99|,,,,,Ghost]Duraludon||Eviolite|LightMetal|stealthrock,flashcannon,bodypress,dracometeor||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fighting]Hariyama||AssaultVest|ThickFat|heavyslam,bulletpunch,knockoff,closecombat||85,85,85,85,85,85|M|||87|,,,,,Steel]Scizor||ChoiceBand|Technician|bulletpunch,knockoff,closecombat,uturn||85,85,85,85,85,85|F|||79|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 57
+  }
 }

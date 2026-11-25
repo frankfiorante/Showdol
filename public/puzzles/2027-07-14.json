@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,bdb244eec831c8af3b97a79009ffeaf751ce4b8d942fabdbaa97f7114396741d",
-    "ai": "sodium,c8c4a21b915091f1d9596eef4af1a9c0b4ca8777706c2051d116dae6829ab57d"
+    "player": "sodium,bdce7f8771cb8c7507450a503e48d3af1f6f0abac95508ced2d1a2200698198b",
+    "ai": "sodium,ca30c8b498f1370bc0b96bbadf22c8b07d66f3ae58ecd90f5198f5cfc3b37c69"
   },
   "playerSpecies": [
-    "Miraidon",
-    "Delibird",
-    "Heracross",
-    "Malamar",
-    "Vaporeon",
-    "Groudon"
+    "Manaphy",
+    "Meloetta",
+    "Sneasler",
+    "Drifblim",
+    "Emboar",
+    "Sandslash"
   ],
-  "player": "Miraidon||ChoiceSpecs|HadronEngine|dracometeor,overheat,electrodrift,voltswitch||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Delibird||HeavyDutyBoots|Insomnia|rapidspin,freezedry,bravebird,spikes||85,85,85,85,85,85|F||||,,,,,Ghost]Heracross||FlameOrb|Guts|knockoff,facade,trailblaze,closecombat||85,85,85,85,85,85|F|||80|,,,,,Normal]Malamar||ChestoBerry|Contrary|superpower,rest,psychocut,knockoff||85,85,85,85,85,85|M|||82|,,,,,Steel]Vaporeon||Leftovers|WaterAbsorb|scald,protect,wish,calmmind||85,,85,85,85,85|M|,0,,,,||86|,,,,,Ground]Groudon||Leftovers|Drought|stoneedge,heatcrash,thunderwave,precipiceblades||85,85,85,85,85,85|N|||72|,,,,,Fire",
-  "ai": "Inteleon||ChoiceSpecs|Torrent|icebeam,uturn,scald,hydropump||85,85,85,85,85,85|M|||81|,,,,,Water]Raging Bolt||Leftovers|Protosynthesis|thunderbolt,thunderclap,dracometeor,calmmind||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Thundurus|ThundurusTherian|ChoiceScarf|VoltAbsorb|psychic,focusblast,thunderbolt,grassknot||85,,85,85,85,85|M|,0,,,,||80|,,,,,Psychic]Tinkaton||Leftovers|MoldBreaker|swordsdance,gigatonhammer,playrough,knockoff||85,85,85,85,85,85|F|||82|,,,,,Steel]Exeggutor|ExeggutorAlola|SitrusBerry|Harvest|flamethrower,gigadrain,dragonpulse,calmmind||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fire]Indeedee||ChoiceScarf|PsychicSurge|expandingforce,dazzlinggleam,hypervoice,healingwish||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic"
+  "player": "Manaphy||Leftovers|Hydration|icebeam,tailglow,surf,energyball||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water]Meloetta||LifeOrb|SereneGrace|tripleaxel,relicsong,closecombat,knockoff||85,85,85,85,85,85|N|||82|,,,,,Dark]Sneasler||WhiteHerb|Unburden|swordsdance,closecombat,acrobatics,direclaw||85,85,85,85,85,85|M|||74|,,,,,Flying]Drifblim||SitrusBerry|Unburden|airslash,shadowball,strengthsap,calmmind||73,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy]Emboar||ChoiceScarf|Reckless|closecombat,headsmash,flareblitz,wildcharge||85,85,85,85,85,85|F|||84|,,,,,Fire]Sandslash||Leftovers|SandRush|rapidspin,swordsdance,knockoff,earthquake||85,85,85,85,85,85|M|||89|,,,,,Steel",
+  "ai": "Toxicroak||ChoiceBand|DrySkin|suckerpunch,closecombat,gunkshot,knockoff||85,85,85,85,85,85|M|||84|,,,,,Dark]Ting-Lu||Leftovers|VesselofRuin|throatchop,spikes,earthquake,stealthrock||85,85,85,85,85,85|N|||78|,,,,,Poison]Decidueye|DecidueyeHisui|Leftovers|Scrappy|suckerpunch,triplearrows,leafblade,roost||85,85,85,85,85,85|F|||87|,,,,,Water]Salazzle||HeavyDutyBoots|Corrosion|nastyplot,sludgewave,terablast,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Mabosstiff||ChoiceBand|Stakeout|playrough,wildcharge,psychicfangs,crunch||85,85,85,85,85,85|M|||86|,,,,,Dark]Whiscash||Leftovers|Oblivious|hydropump,spikes,icebeam,earthquake||85,85,85,85,85,85|F|||88|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 54
+  }
 }

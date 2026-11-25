@@ -20,5 +20,9 @@
     "Espeon"
   ],
   "player": "Kilowattrel||HeavyDutyBoots|VoltAbsorb|discharge,hurricane,roost,uturn||85,85,85,85,85,85|M|||83|,,,,,Steel]Meowstic||Leftovers|Prankster|alluringvoice,thunderwave,yawn,psychicnoise||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Staraptor||ChoiceBand|Reckless|uturn,quickattack,bravebird,closecombat||81,85,85,85,85,85|F|||79|,,,,,Fighting]Crawdaunt||LifeOrb|Adaptability|crabhammer,knockoff,aquajet,dragondance||85,85,85,85,85,85|M|||84|,,,,,Water]Furret||LifeOrb|Frisk|brickbreak,doubleedge,knockoff,tidyup||85,85,85,85,85,85|F|||94|,,,,,Normal]Espeon||LifeOrb|MagicBounce|calmmind,alluringvoice,psyshock,morningsun||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic",
-  "ai": "Ursaring||ToxicOrb|QuickFeet|facade,crunch,closecombat,swordsdance||85,85,85,85,85,85|M|||84|,,,,,Normal]Revavroom||LifeOrb|Filter|ironhead,highhorsepower,gunkshot,shiftgear||85,85,85,85,85,85|M|||79|,,,,,Ground]Empoleon||Leftovers|Competitive|flipturn,surf,knockoff,roost||85,85,85,85,85,85|F|||84|,,,,,Grass]Iron Boulder||BoosterEnergy|QuarkDrive|closecombat,zenheadbutt,swordsdance,mightycleave||85,85,85,85,85,85|N|||77|,,,,,Fighting]Victreebel||LifeOrb|Chlorophyll|weatherball,sludgewave,sunnyday,powerwhip||85,85,85,85,85,85|F|||90|,,,,,Fire]Lurantis||AssaultVest|Contrary|leechlife,knockoff,leafstorm,superpower||85,85,85,85,85,85|M|||87|,,,,,Steel"
+  "ai": "Ursaring||ToxicOrb|QuickFeet|facade,crunch,closecombat,swordsdance||85,85,85,85,85,85|M|||84|,,,,,Normal]Revavroom||LifeOrb|Filter|ironhead,highhorsepower,gunkshot,shiftgear||85,85,85,85,85,85|M|||79|,,,,,Ground]Empoleon||Leftovers|Competitive|flipturn,surf,knockoff,roost||85,85,85,85,85,85|F|||84|,,,,,Grass]Iron Boulder||BoosterEnergy|QuarkDrive|closecombat,zenheadbutt,swordsdance,mightycleave||85,85,85,85,85,85|N|||77|,,,,,Fighting]Victreebel||LifeOrb|Chlorophyll|weatherball,sludgewave,sunnyday,powerwhip||85,85,85,85,85,85|F|||90|,,,,,Fire]Lurantis||AssaultVest|Contrary|leechlife,knockoff,leafstorm,superpower||85,85,85,85,85,85|M|||87|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 41
+  }
 }

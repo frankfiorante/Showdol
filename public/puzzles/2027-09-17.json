@@ -6,19 +6,23 @@
     "sim": "0.11.0",
     "randoms": "0.11.0"
   },
-  "reroll": 0,
+  "reroll": 1,
   "seeds": {
-    "player": "sodium,60f45e9d819df725f8454cce551f96cd1b5620afc9805ff98273e08e9d4db11f",
-    "ai": "sodium,69f4ae7619a682ca003ebda87465f2578ed5616e38f10bc391ee637863c34efa"
+    "player": "sodium,4b525313f17671f80f3781dbaad1350184e13affda3a7b71e4584d4fae3246ac",
+    "ai": "sodium,2724532364ba756e861f4f6b27cfbad711bc3a6955d7d7c87c4c3dbc9b5f0f80"
   },
   "playerSpecies": [
-    "Mudsdale",
-    "Slither Wing",
-    "Mamoswine",
-    "Vigoroth",
-    "Cinderace",
-    "Falinks"
+    "Jirachi",
+    "Torterra",
+    "Vileplume",
+    "Crawdaunt",
+    "Azumarill",
+    "Torkoal"
   ],
-  "player": "Mudsdale||Leftovers|Stamina|stealthrock,stoneedge,earthquake,heavyslam||85,85,85,85,85,85|M|||83|,,,,,Steel]Slither Wing||ChoiceScarf|Protosynthesis|closecombat,uturn,flareblitz,earthquake||85,85,85,85,85,85|N|||81|,,,,,Fire]Mamoswine||ChoiceBand|ThickFat|earthquake,knockoff,iceshard,iciclecrash||85,85,85,85,85,85|F|||81|,,,,,Ground]Vigoroth||Eviolite|VitalSpirit|bodyslam,earthquake,slackoff,bulkup||85,85,85,85,85,85|M|||85|,,,,,Ground]Cinderace||HeavyDutyBoots|Libero|pyroball,courtchange,willowisp,uturn||85,85,85,85,85,85|F|||77|,,,,,Grass]Falinks||LifeOrb|Defiant|ironhead,closecombat,knockoff,noretreat||85,85,85,85,85,85|N|||84|,,,,,Steel",
-  "ai": "Alomomola||RockyHelmet|Regenerator|wish,protect,flipturn,scald||85,85,85,85,85,85|M|||87|,,,,,Poison]Jirachi||ChoiceScarf|SereneGrace|ironhead,healingwish,uturn,psychic||85,85,85,85,85,85|N|||80|,,,,,Water]Maushold||WideLens|Technician|bite,encore,populationbomb,tidyup||85,85,85,85,85,85|N|||76|,,,,,Normal]Oricorio||HeavyDutyBoots|Dancer|roost,revelationdance,hurricane,quiverdance||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ground]Enamorus||HeavyDutyBoots|Contrary|zenheadbutt,playrough,taunt,superpower||85,85,85,85,85,85|F|||79|,,,,,Fighting]Clefable||LifeOrb|MagicGuard|moonblast,fireblast,moonlight,calmmind||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire"
+  "player": "Jirachi||Leftovers|SereneGrace|protect,wish,ironhead,psychic||85,85,85,85,85,85|N|||80|,,,,,Water]Torterra||LoadedDice|Overgrow|rockblast,bulletseed,headlongrush,shellsmash||85,85,85,85,85,85|F|||78|,,,,,Water]Vileplume||Leftovers|EffectSpore|strengthsap,gigadrain,leechseed,sludgebomb||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Crawdaunt||LifeOrb|Adaptability|dragondance,closecombat,crabhammer,knockoff||85,85,85,85,85,85|M|||84|,,,,,Fighting]Azumarill||SitrusBerry|HugePower|bellydrum,aquajet,liquidation,playrough||85,85,85,85,85,85|F|||82|,,,,,Water]Torkoal||HeavyDutyBoots|Drought|lavaplume,yawn,stealthrock,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Dragon",
+  "ai": "Lokix||SilverPowder|TintedLens|suckerpunch,firstimpression,knockoff,uturn||85,85,85,85,85,85|M|||82|,,,,,Bug]Mewtwo||LifeOrb|Unnerve|aurasphere,fireblast,nastyplot,psystrike||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic]Rotom|RotomWash|ChoiceScarf|Levitate|trick,thunderbolt,hydropump,voltswitch||85,,85,85,85,85|N|,0,,,,||82|,,,,,Electric]Magearna||Leftovers|SoulHeart|flashcannon,painsplit,voltswitch,fleurcannon||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fairy]Qwilfish|QwilfishHisui|Eviolite|Intimidate|gunkshot,spikes,crunch,taunt||85,85,85,85,85,85|F|||83|,,,,,Poison]Lugia||HeavyDutyBoots|Multiscale|aeroblast,psychicnoise,recover,calmmind||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 65
+  }
 }

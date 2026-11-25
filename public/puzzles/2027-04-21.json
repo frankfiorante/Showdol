@@ -20,5 +20,9 @@
     "Luvdisc"
   ],
   "player": "Raichu||LifeOrb|LightningRod|encore,terablast,thunderbolt,nastyplot||85,,85,85,85,85|F|,0,,,,||88|,,,,,Ice]Copperajah||ChoiceBand|HeavyMetal|heatcrash,stoneedge,heavyslam,supercellslam||81,85,85,85,85,85|F|||86|,,,,,Flying]Houndoom||HeavyDutyBoots|FlashFire|sludgebomb,darkpulse,fireblast,suckerpunch||85,85,85,85,85,85|M|||87|,,,,,Poison]Whiscash||LifeOrb|Oblivious|stoneedge,liquidation,earthquake,dragondance||85,85,85,85,85,85|F|||88|,,,,,Ground]Porygon-Z||LifeOrb|Download|shadowball,triattack,thunderbolt,nastyplot||85,,85,85,85,85|N|,0,,,,||83|,,,,,Ghost]Luvdisc||HeavyDutyBoots|SwiftSwim|endeavor,substitute,surf,whirlpool||81,,85,85,85,85|F|,0,,,,|||,,,,,Ground",
-  "ai": "Magnezone||Leftovers|MagnetPull|flashcannon,discharge,irondefense,bodypress||85,,85,85,85,85|N|,0,,,,||84|,,,,,Fighting]Charizard||HeavyDutyBoots|Blaze|flamethrower,hurricane,focusblast,willowisp||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fire]Shiftry||LifeOrb|WindRider|knockoff,leafblade,suckerpunch,swordsdance||85,85,85,85,85,85|M|||89|,,,,,Poison]Gardevoir||LifeOrb|Trace|calmmind,psyshock,focusblast,moonblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fighting]Swampert||Leftovers|Damp|stealthrock,earthquake,roar,icebeam||85,85,85,85,85,85|F|||82|,,,,,Steel]Clodsire||Leftovers|Unaware|recover,toxic,earthquake,poisonjab||85,85,85,85,85,85|M|||81|,,,,,Steel"
+  "ai": "Magnezone||Leftovers|MagnetPull|flashcannon,discharge,irondefense,bodypress||85,,85,85,85,85|N|,0,,,,||84|,,,,,Fighting]Charizard||HeavyDutyBoots|Blaze|flamethrower,hurricane,focusblast,willowisp||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fire]Shiftry||LifeOrb|WindRider|knockoff,leafblade,suckerpunch,swordsdance||85,85,85,85,85,85|M|||89|,,,,,Poison]Gardevoir||LifeOrb|Trace|calmmind,psyshock,focusblast,moonblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fighting]Swampert||Leftovers|Damp|stealthrock,earthquake,roar,icebeam||85,85,85,85,85,85|F|||82|,,,,,Steel]Clodsire||Leftovers|Unaware|recover,toxic,earthquake,poisonjab||85,85,85,85,85,85|M|||81|,,,,,Steel",
+  "curation": {
+    "battles": 100,
+    "playerWins": 80
+  }
 }

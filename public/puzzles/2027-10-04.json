@@ -20,5 +20,9 @@
     "Tatsugiri"
   ],
   "player": "Chandelure||ChoiceScarf|FlashFire|trick,fireblast,energyball,shadowball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Yanmega||ChoiceSpecs|TintedLens|gigadrain,uturn,bugbuzz,airslash||85,85,85,85,85,85|F|||82|,,,,,Bug]Braviary|BraviaryHisui|LifeOrb|SheerForce|agility,hurricane,psychic,heatwave||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Munkidori||LifeOrb|ToxicChain|nastyplot,psyshock,sludgewave,focusblast||85,,85,85,85,85|M|,0,,,,||79|,,,,,Poison]Pawmot||LeppaBerry|VoltAbsorb|revivalblessing,doubleshock,closecombat,nuzzle||85,85,85,85,85,85|M|||80|,,,,,Electric]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,rapidspin,surf,nastyplot||85,85,85,85,85,85|M|||87|,,,,,Steel",
-  "ai": "Sableye||Leftovers|Prankster|recover,willowisp,knockoff,encore||85,85,85,85,85,85|M|||87|,,,,,Poison]Terapagos||HeavyDutyBoots|TeraShift|rapidspin,earthpower,terastarstorm,calmmind||85,85,85,85,85,85|M|||77|,,,,,Stellar]Bruxish||LifeOrb|StrongJaw|psychicfangs,aquajet,wavecrash,swordsdance||85,85,85,85,85,85|M|||85|,,,,,Psychic]Registeel||Leftovers|ClearBody|irondefense,ironhead,bodypress,thunderwave||85,85,85,85,85,85|N|||81|,,,,,Fighting]Meowstic||Leftovers|Prankster|alluringvoice,thunderwave,yawn,psychicnoise||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Golurk||LifeOrb|NoGuard|earthquake,stealthrock,poltergeist,dynamicpunch||85,85,85,85,85,85|N|||87|,,,,,Fighting"
+  "ai": "Sableye||Leftovers|Prankster|recover,willowisp,knockoff,encore||85,85,85,85,85,85|M|||87|,,,,,Poison]Terapagos||HeavyDutyBoots|TeraShift|rapidspin,earthpower,terastarstorm,calmmind||85,85,85,85,85,85|M|||77|,,,,,Stellar]Bruxish||LifeOrb|StrongJaw|psychicfangs,aquajet,wavecrash,swordsdance||85,85,85,85,85,85|M|||85|,,,,,Psychic]Registeel||Leftovers|ClearBody|irondefense,ironhead,bodypress,thunderwave||85,85,85,85,85,85|N|||81|,,,,,Fighting]Meowstic||Leftovers|Prankster|alluringvoice,thunderwave,yawn,psychicnoise||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Golurk||LifeOrb|NoGuard|earthquake,stealthrock,poltergeist,dynamicpunch||85,85,85,85,85,85|N|||87|,,,,,Fighting",
+  "curation": {
+    "battles": 100,
+    "playerWins": 67
+  }
 }
