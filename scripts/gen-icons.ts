@@ -5,8 +5,8 @@
  *
  *   pnpm icons:gen
  *
- * og.svg uses system fonts (Helvetica Neue), so render it on macOS to get the
- * same result.
+ * og.svg uses a macOS system font (Arial Rounded MT Bold), so render it on
+ * macOS to get the same result.
  */
 import {copyFileSync, readFileSync, writeFileSync} from 'node:fs';
 import {join} from 'node:path';
@@ -15,8 +15,23 @@ import sharp from 'sharp';
 const root = join(import.meta.dirname, '..');
 const brand = (f: string) => join(root, 'brand', f);
 const mark = readFileSync(brand('mark.svg'), 'utf8');
-// iOS and Android mask home-screen icons themselves, so those get square corners.
-const fullBleed = mark.replace('rx="112"', 'rx="0"');
+
+/** Replaces `from` (which must appear exactly once) so a source edit can't silently skip a step. */
+function swap(svg: string, from: string, to: string): string {
+  if (svg.split(from).length !== 2) throw new Error(`expected exactly one ${JSON.stringify(from)} in the SVG`);
+  return svg.replace(from, to);
+}
+
+// iOS and Android mask home-screen icons themselves, so those fill the square:
+// no rounded clip and no outline.
+const tile = '<rect x="10" y="10" width="492" height="492" rx="110"';
+const fullBleed = swap(
+  swap(mark, `${tile}/>`, '<rect width="512" height="512"/>'),
+  `${tile} fill="none" stroke="#18181b" stroke-width="20"/>`, '',
+);
+// The link preview embeds the mark's contents (everything inside its <svg>).
+const markInner = mark.slice(mark.indexOf('>') + 1, mark.lastIndexOf('</svg>'));
+const og = swap(readFileSync(brand('og.svg'), 'utf8'), '<!-- MARK -->', markInner);
 
 const png = (svg: string, width: number, height = width) =>
   sharp(Buffer.from(svg), {density: 300}).resize(width, height).png().toBuffer();
@@ -42,7 +57,7 @@ function ico(images: {size: number; data: Buffer}[]): Buffer {
 
 const out: [string, Buffer | Promise<Buffer>][] = [
   ['app/apple-icon.png', png(fullBleed, 180)],
-  ['app/opengraph-image.png', png(readFileSync(brand('og.svg'), 'utf8'), 1200, 630)],
+  ['app/opengraph-image.png', png(og, 1200, 630)],
   ['public/icon-192.png', png(fullBleed, 192)],
   ['public/icon-512.png', png(fullBleed, 512)],
   ['app/favicon.ico', Promise.all([16, 32, 48].map(async size => ({size, data: await png(mark, size)}))).then(ico)],

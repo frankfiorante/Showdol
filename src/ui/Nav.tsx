@@ -4,7 +4,11 @@ import Link from 'next/link';
 export function Nav() {
   return (
     <header className="nav">
-      <Link href="/" className="nav-title">Showdol</Link>
+      <Link href="/" className="nav-title">
+        {/* app/icon.svg, which Next serves at /icon.svg */}
+        <img src="/icon.svg" alt="" width={34} height={34} className="nav-logo" />
+        Showdol
+      </Link>
       <nav className="nav-links" aria-label="Main">
         <Link href="/stats">Stats</Link>
         <Link href="/how-to-play">How to play</Link>
