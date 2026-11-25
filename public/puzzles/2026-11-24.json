@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "date": "2026-11-24",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,17373c95239ac27e1af55df0204538cfc5fbd4d2242849beb8f73c497adaf4f8",
+    "ai": "sodium,ec07f6bb5949c65dcdc422ab47f0ea303c7f1f614c3cd43e13f657e879d5ff1e"
+  },
+  "player": "Haxorus||LoadedDice|MoldBreaker|scaleshot,earthquake,ironhead,swordsdance||85,85,85,85,85,85|F|||78|,,,,,Steel]Scrafty||Leftovers|ShedSkin|knockoff,bulkup,drainpunch,rest||85,85,85,85,85,85|F|||83|,,,,,Poison]Arboliva||SitrusBerry|Harvest|hypervoice,protect,substitute,leechseed||77,,85,85,85,85|M|,0,,,,||91|,,,,,Poison]Spiritomb||Leftovers|Infiltrator|shadowsneak,poltergeist,toxic,foulplay||85,85,85,85,85,85|F|||89|,,,,,Steel]Seviper||LifeOrb|Infiltrator|earthquake,glare,gunkshot,gigadrain||85,85,85,85,85,85|M|||93|,,,,,Grass]Plusle||LifeOrb|LightningRod|encore,thunderbolt,nastyplot,grassknot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Electric",
+  "ai": "Torterra||LoadedDice|Overgrow|bulletseed,headlongrush,shellsmash,rockblast||85,85,85,85,85,85|F|||78|,,,,,Rock]Urshifu||LifeOrb|UnseenFist|swordsdance,closecombat,wickedblow,poisonjab||85,85,85,85,85,85|M|||74|,,,,,Fighting]Mamoswine||LifeOrb|ThickFat|iciclecrash,stealthrock,iceshard,earthquake||85,85,85,85,85,85|M|||81|,,,,,Ice]Bellibolt||Leftovers|Electromorphosis|muddywater,slackoff,toxic,thunderbolt||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Necrozma|NecrozmaDawnWings|Leftovers|PrismArmor|moongeistbeam,calmmind,photongeyser,moonlight||85,,85,85,85,85|N|,0,,,,||76|,,,,,Fairy]Porygon-Z||LifeOrb|Adaptability|nastyplot,shadowball,terablast,agility||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fighting"
+}

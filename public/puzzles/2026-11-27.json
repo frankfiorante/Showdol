@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "date": "2026-11-27",
+  "format": "gen9randombattle",
+  "generator": {
+    "sim": "0.11.0",
+    "randoms": "0.11.0"
+  },
+  "reroll": 0,
+  "seeds": {
+    "player": "sodium,00833590218954d1d1947cef6f0b73d1406073c03f03b96fba67ecb14d7042e8",
+    "ai": "sodium,e8920c098459cdfdd0fbdf6b851dd4aa5255b8f272e479e2c74d76c51afbddd8"
+  },
+  "player": "Cryogonal||HeavyDutyBoots|Levitate|rapidspin,icebeam,terablast,recover||85,85,85,85,85,85|N|||89|,,,,,Electric]Victreebel||LifeOrb|Chlorophyll|weatherball,sludgewave,sunnyday,powerwhip||85,85,85,85,85,85|F|||90|,,,,,Fire]Baxcalibur||ChoiceBand|ThermalExchange|iceshard,glaiverush,iciclecrash,earthquake||81,85,85,85,85,85|F|||75|,,,,,Dragon]Dragalge||ChoiceSpecs|Adaptability|sludgewave,focusblast,flipturn,dracometeor||85,85,85,85,85,85|M|||88|,,,,,Fighting]Politoed||Leftovers|Drizzle|icebeam,hydropump,encore,haze||85,,85,85,85,85|M|,0,,,,||88|,,,,,Water]Spidops||HeavyDutyBoots|Stakeout|stickyweb,circlethrow,uturn,knockoff||85,85,85,85,85,85|F|||96|,,,,,Ghost",
+  "ai": "Armarouge||ChoiceSpecs|WeakArmor|aurasphere,energyball,armorcannon,psyshock||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fire]Sandaconda||Leftovers|ShedSkin|earthquake,glare,stoneedge,stealthrock||85,85,85,85,85,85|M|||84|,,,,,Water]Flutter Mane||LifeOrb|Protosynthesis|moonblast,shadowball,thunderbolt,calmmind||85,,85,85,85,85|N|,0,,,,||74|,,,,,Fairy]Bronzong||Leftovers|Levitate|hypnosis,earthquake,psychic,ironhead||85,85,85,85,85,85|N|||88|,,,,,Water]Electivire||LifeOrb|MotorDrive|supercellslam,bulkup,icepunch,earthquake||85,85,85,85,85,85|F|||84|,,,,,Ground]Spidops||HeavyDutyBoots|Stakeout|uturn,stickyweb,circlethrow,knockoff||85,85,85,85,85,85|F|||96|,,,,,Ghost"
+}
