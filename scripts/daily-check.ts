@@ -5,7 +5,7 @@
  *   pnpm daily:check        (sets TZ=America/Chicago)
  */
 import assert from 'node:assert/strict';
-import {addDays, dateKey, daysBetween, formatCountdown, msUntilMidnight, puzzleNumber} from '@/game/daily';
+import {addDays, dateKey, daysBetween, formatCountdown, LAUNCH_DATE, msUntilMidnight, puzzleNumber} from '@/game/daily';
 import {expireAbandoned, homeState} from '@/game/lock';
 import {emptySave, finishRecord, parseSave, type GameRecord, type SaveData} from '@/game/storage';
 import {computeStats} from '@/game/stats';
@@ -80,8 +80,9 @@ await test('parseSave tolerates garbage and drops malformed records', () => {
 });
 
 await test('home: play, resume, done, before launch', () => {
-  assert.deepEqual(homeState(save({}), '2026-11-25'), {kind: 'play', date: '2026-11-25', puzzleNumber: 2});
-  assert.equal(homeState(save({}), '2026-11-01').kind, 'before-launch');
+  const day2 = addDays(LAUNCH_DATE, 1);
+  assert.deepEqual(homeState(save({}), day2), {kind: 'play', date: day2, puzzleNumber: 2});
+  assert.equal(homeState(save({}), addDays(LAUNCH_DATE, -1)).kind, 'before-launch');
   const t = homeState(save({'2026-11-25': rec()}), '2026-11-25');
   assert.equal(t.kind, 'resume');
   assert.equal(t.kind === 'resume' && t.fromYesterday, false);

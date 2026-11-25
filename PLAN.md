@@ -168,7 +168,7 @@ showdol.example
 - **Squares:** your six in team order. Green = still standing at the end, black = fainted.
 - **Loss line:** `Showdol #12 · L in 31 turns (2 left)`, where the number is the AI's Pokémon remaining. Forfeits read `L (forfeit)`.
 - **Sharing:** the Web Share API on mobile (opens the phone's share sheet), clipboard copy on desktop, with a "Copied" toast.
-- **Link:** the site's domain, once chosen.
+- **Link:** showdol.com.
 
 ## Risks and spikes
 
@@ -227,7 +227,7 @@ The build runs in six phases. Each ends with something playable, and the risky p
 - **Published days can't change.** `gen:puzzle` refuses to rewrite an existing day's file with different content unless given `--force`.
 - **Saves that no longer replay** (for example, after an engine change) show an error with a "Record as a loss" button.
 - **Illusion and hidden traps:** testing all 365 days turned up two Showdown edge cases. When Zoroark's Illusion breaks, the client keeps a stale entry for the disguise, which the view now drops. A switch into a not-yet-revealed trapping ability is refused with a message, and the screen then marks you as trapped.
-- **Launch date** is a placeholder (`LAUNCH_DATE` in `src/game/daily.ts`, currently 2026-11-24) until the open question is settled.
+- **Launch date** is 2026-11-25 (`LAUNCH_DATE` in `src/game/daily.ts`). Puzzles run through 2027-11-24; generate more before then.
 
 ### Phase 3: AI
 
@@ -270,7 +270,8 @@ The build runs in six phases. Each ends with something playable, and the risky p
 - [x] Share text with Web Share API and clipboard fallback
 - [x] How to play screen
 - [x] Export/import code
-- [ ] Domain, deploy, share with friends (needs the launch date, a domain and a host account)
+- [x] Domain and deploy: showdol.com on Cloudflare Workers, deployed by GitHub Actions
+- [ ] Share with friends
 
 **Phase 5 notes:**
 
@@ -290,7 +291,7 @@ The build runs in six phases. Each ends with something playable, and the risky p
 
 None of these block Phase 0.
 
-- [ ] Domain: is `showdol.com` or a similar domain available?
+- [x] Domain: `showdol.com`
 - [ ] Practice mode: allow unlimited games that don't count, or keep strictly one a day?
 - [ ] Turn timer: add a per-move timer, or let players think as long as they want?
-- [ ] Launch date: which date is puzzle #1?
+- [x] Launch date: 2026-11-25 is puzzle #1

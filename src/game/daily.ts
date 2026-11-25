@@ -4,8 +4,8 @@
  * saving changes can never shift a key.
  */
 
-/** The date of puzzle #1. Open question in PLAN.md; change before launch. */
-export const LAUNCH_DATE = '2026-11-24';
+/** The date of puzzle #1 (launch day). */
+export const LAUNCH_DATE = '2026-11-25';
 
 export function dateKey(d: Date): string {
   const p = (n: number) => String(n).padStart(2, '0');
