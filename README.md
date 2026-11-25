@@ -50,7 +50,16 @@ pnpm start        # serves out/
 
 ## Deploying
 
-The site is a static export: `pnpm build` writes everything to `out/`. Any static host works. On Vercel, import the repo and the Next.js preset builds and serves it with no extra config. Before launch:
+The site is a static export: `pnpm build` writes everything to `out/`, and Cloudflare Workers serves those files as static assets (`wrangler.jsonc`). There's no Worker code, so requests are free and unlimited.
+
+GitHub Actions does the deploying. **Test Project** (`.github/workflows/test.yml`) runs typecheck, `daily:check`, `session:check` and a build on every push and PR to main. When it passes on a push to main, **Deploy Project** (`.github/workflows/deploy.yml`) builds that same commit and runs `wrangler deploy`. Deploy can also be started by hand from the Actions tab. It needs two repo secrets:
+
+- `CLOUDFLARE_API_TOKEN`: a token made from the "Edit Cloudflare Workers" template
+- `CLOUDFLARE_ACCOUNT_ID`: from the Cloudflare dashboard
+
+To check the config locally without deploying, run `pnpm build && npx wrangler@4.168.0 deploy --dry-run`.
+
+Before launch:
 
 1. Set `LAUNCH_DATE` in `src/game/daily.ts` to puzzle #1's date.
 2. Make sure `public/puzzles/` covers that date and the year after (`pnpm gen:puzzle --from <launch date> --days 365`). Existing days are kept, and new ones are curated.

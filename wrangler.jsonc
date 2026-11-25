@@ -1,0 +1,13 @@
+// Cloudflare Workers config. The site is a static export, so this Worker has no
+// code: Cloudflare serves the files in out/ directly. Deployed by
+// .github/workflows/deploy.yml after tests pass on main.
+{
+  "name": "showdol",
+  "compatibility_date": "2026-11-25",
+  "assets": {
+    "directory": "./out",
+    // /credits serves credits.html, and unknown paths get Next's 404 page.
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}
