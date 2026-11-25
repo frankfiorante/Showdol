@@ -68,14 +68,36 @@ function HpBar({hp, maxhp}: {hp: number; maxhp: number}) {
   );
 }
 
-/** Six slots: the foe's revealed Pokémon, then unknowns. */
-function TeamPips({side, foe}: {side: SideView; foe?: boolean}) {
-  const pips: string[] = side.team.map(p => (p.fainted ? 'fainted' : 'alive'));
-  while (pips.length < side.totalPokemon) pips.push('unknown');
-  const left = side.team.filter(p => !p.fainted).length + (side.totalPokemon - side.team.length);
+/** The player's team as alive / fainted dots. */
+function TeamPips({side}: {side: SideView}) {
+  const pips = side.team.map(p => (p.fainted ? 'fainted' : 'alive'));
+  const left = side.team.filter(p => !p.fainted).length;
   return (
-    <div className="pips" role="img" aria-label={`${foe ? 'Opponent' : 'You'}: ${left} of ${side.totalPokemon} left`}>
+    <div className="pips" role="img" aria-label={`You: ${left} of ${side.totalPokemon} left`}>
       {pips.map((state, i) => <span key={i} className={`pip ${state}`} />)}
+    </div>
+  );
+}
+
+/**
+ * The foe's revealed Pokémon as mini sprites (hover / tap for details), then
+ * "?" slots for the ones not seen yet, so the player doesn't have to remember.
+ */
+function FoeRoster({side}: {side: SideView}) {
+  const unknown = Math.max(0, side.totalPokemon - side.team.length);
+  const left = side.team.filter(p => !p.fainted).length + unknown;
+  return (
+    <div className="foe-roster" role="list" aria-label={`Opponent: ${left} of ${side.totalPokemon} left`}>
+      {side.team.map(p => (
+        <WithPokemonTip key={p.name} p={p} foe tapToggle tabIndex={0} role="listitem"
+          className={`roster-slot ${p.active ? 'is-active' : ''} ${p.fainted ? 'is-fainted' : ''}`}
+          aria-label={`Opposing ${p.species}, ${p.fainted ? 'fainted' : `${Math.ceil(hpPercent(p.hp, p.maxhp))}% HP`}`}>
+          <Sprite species={p.species} size={36} type={p.types[0]} />
+        </WithPokemonTip>
+      ))}
+      {Array.from({length: unknown}, (_, i) => (
+        <span key={`unknown-${i}`} className="roster-slot unknown" role="listitem" aria-label="Not yet seen">?</span>
+      ))}
     </div>
   );
 }
@@ -86,6 +108,7 @@ function Stage({view}: {view: BattleView}) {
   const me = view.me.active;
   return (
     <section className="stage" aria-label="Battlefield">
+      <FoeRoster side={view.foe} />
       <div className="stage-row foe-row">
         <InfoBox side={view.foe} foe />
         <div className="platform">
@@ -116,9 +139,11 @@ function InfoBox({side, foe}: {side: SideView; foe?: boolean}) {
   const p = side.active;
   return (
     <div className={`infobox ${foe ? 'foe' : 'mine'}`}>
-      <div className="infobox-top">
-        <TeamPips side={side} foe={foe} />
-      </div>
+      {!foe && (
+        <div className="infobox-top">
+          <TeamPips side={side} />
+        </div>
+      )}
       {p ? <ActiveDetails p={p} foe={foe} /> : <p className="muted small">{foe ? 'Choosing…' : 'No Pokémon active'}</p>}
       {side.conditions.length > 0 && (
         <div className="chips">{side.conditions.map(c => <span key={c} className="chip hazard">{c}</span>)}</div>
