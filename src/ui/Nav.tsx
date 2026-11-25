@@ -16,7 +16,7 @@ export function Nav() {
 export function Footer() {
   return (
     <footer className="site-footer small muted">
-      <Link href="/credits">Credits</Link> · Fan project, not affiliated with Nintendo or The Pokémon Company.
+      <Link href="/credits">Credits</Link>
     </footer>
   );
 }

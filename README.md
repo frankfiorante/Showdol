@@ -4,7 +4,7 @@ A daily Pokémon battle. Each day, everyone gets the same Gen 9 Random Battle te
 
 See [PLAN.md](PLAN.md) for the full design and build phases.
 
-> **Status:** Phase 5 (stats and sharing). Feature-complete for launch: one game a day against a heuristic AI on a mobile-first battle screen, with stats, share text, export/import and a How to play page. Still to do: pick the launch date and a domain, then deploy.
+> **Status:** Phase 5 (stats and sharing). Feature-complete for launch: one game a day against a heuristic AI on a mobile-first battle screen, with stats, share text, export/import and a How to play page. Live at [showdol.com](https://showdol.com). Still to do: pick the launch date.
 
 ## Getting started
 
@@ -35,6 +35,7 @@ pnpm start        # serves out/
 | `pnpm ai:watch YYYY-MM-DD` | Prints a compact log of one AI-vs-AI battle on that day's matchup |
 | `pnpm sprites:fetch` | Downloads any missing sprites for species Gen 9 Random Battle can roll into `public/sprites/gen5/` and rewrites the index (`--dry-run` lists them) |
 | `pnpm hints:gen` | Rewrites `src/data/randbats-hints.json`: each species' possible abilities and Speed spread, for the opponent tooltip. Rerun after upgrading `@pkmn/randoms` |
+| `pnpm icons:gen` | Renders the logo and link preview from `brand/mark.svg` and `brand/og.svg` into the favicon, Apple touch icon, home-screen icons and `app/opengraph-image.png`. Run on macOS (the preview uses system fonts) |
 | `pnpm notices:gen` | Rewrites `public/third-party-licenses.txt`, the license notices for third-party code that ships to the browser (linked from `/credits`). Rerun after upgrading or adding a package the browser uses |
 | `pnpm daily:check` | Unit checks for dates, puzzle numbers, the save format, the daily lock, stats, share text and export/import (runs in a time zone with daylight saving time) |
 | `pnpm spike:bots` | Random bot vs random bot on a puzzle, in Node. Takes `--date`, `--n` and `--replay` |
@@ -76,6 +77,7 @@ src/ui/              React battle screen, worker hook, formatting helpers
 scripts/             Puzzle generation and curation, test and AI harnesses, bundle measurement
 public/puzzles/      Generated daily puzzle files
 public/sprites/gen5/ Self-hosted Pokémon sprites and their species index
+brand/               Logo and link preview sources (SVG)
 ```
 
 ## Dependencies and licensing
