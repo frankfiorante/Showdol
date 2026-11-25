@@ -19,6 +19,252 @@
     "Mew",
     "Breloom"
   ],
+  "playerSets": [
+    {
+      "species": "Toedscruel",
+      "level": 87,
+      "types": [
+        "Ground",
+        "Grass"
+      ],
+      "ability": "Mycelium Might",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 281,
+      "stats": {
+        "atk": 172,
+        "def": 163,
+        "spa": 189,
+        "spd": 259,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Lumineon",
+      "level": 93,
+      "types": [
+        "Water"
+      ],
+      "ability": "Storm Drain",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 279,
+      "stats": {
+        "atk": 133,
+        "def": 194,
+        "spa": 181,
+        "spd": 213,
+        "spe": 222
+      },
+      "moves": [
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Grafaiai",
+      "level": 86,
+      "types": [
+        "Poison",
+        "Normal"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 249,
+      "stats": {
+        "atk": 213,
+        "def": 161,
+        "spa": 187,
+        "spd": 173,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Parting Shot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Sableye",
+      "level": 87,
+      "types": [
+        "Dark",
+        "Ghost"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 229,
+      "stats": {
+        "atk": 180,
+        "def": 180,
+        "spa": 163,
+        "spd": 163,
+        "spe": 137
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mew",
+      "level": 82,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Synchronize",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 298,
+      "stats": {
+        "atk": 169,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Breloom",
+      "level": 83,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Technician",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 235,
+      "stats": {
+        "atk": 263,
+        "def": 180,
+        "spa": 147,
+        "spd": 147,
+        "spe": 164
+      },
+      "moves": [
+        {
+          "name": "Rock Tomb",
+          "type": "Rock",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        },
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        }
+      ]
+    }
+  ],
   "player": "Toedscruel||Leftovers|MyceliumMight|toxic,rapidspin,leafstorm,earthpower||85,85,85,85,85,85|M|||87|,,,,,Water]Lumineon||LifeOrb|StormDrain|alluringvoice,encore,hydropump,icebeam||85,,85,85,85,85|M|,0,,,,||93|,,,,,Water]Grafaiai||HeavyDutyBoots|Prankster|gunkshot,encore,partingshot,knockoff||85,85,85,85,85,85|F|||86|,,,,,Dark]Sableye||Leftovers|Prankster|knockoff,thunderwave,recover,encore||85,85,85,85,85,85|M|||87|,,,,,Steel]Mew||LifeOrb|Synchronize|bugbuzz,psyshock,fireblast,nastyplot||85,,85,85,85,85|N|,0,,,,||82|,,,,,Fire]Breloom||LifeOrb|Technician|rocktomb,swordsdance,bulletseed,machpunch||85,85,85,85,85,85|F|||83|,,,,,Fighting",
   "ai": "Minun||LifeOrb|VoltAbsorb|thunderbolt,nastyplot,encore,alluringvoice||85,,85,85,85,85|F|,0,,,,||95|,,,,,Fairy]Arboliva||Leftovers|SeedSower|earthpower,hypervoice,strengthsap,energyball||85,,85,85,85,85|F|,0,,,,||91|,,,,,Grass]Gengar||LifeOrb|CursedBody|focusblast,sludgewave,nastyplot,shadowball||85,,85,85,85,85|F|,0,,,,||81|,,,,,Fighting]Farigiraf||Leftovers|SapSipper|psychicnoise,protect,wish,bodyslam||85,85,85,85,85,85|M|||89|,,,,,Ground]Swampert||Leftovers|Damp|earthquake,knockoff,yawn,stealthrock||85,85,85,85,85,85|M|||82|,,,,,Steel]Hydreigon||ChoiceSpecs|Levitate|fireblast,dracometeor,uturn,darkpulse||85,85,85,85,85,85|F|||79|,,,,,Fire",
   "curation": {

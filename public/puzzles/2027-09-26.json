@@ -19,6 +19,250 @@
     "Zacian",
     "Entei"
   ],
+  "playerSets": [
+    {
+      "species": "Seviper",
+      "level": 93,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Infiltrator",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 287,
+      "stats": {
+        "atk": 239,
+        "def": 164,
+        "spa": 239,
+        "spd": 164,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Tauros-Paldea-Aqua",
+      "level": 81,
+      "types": [
+        "Fighting",
+        "Water"
+      ],
+      "ability": "Intimidate",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 254,
+      "stats": {
+        "atk": 225,
+        "def": 217,
+        "spa": 95,
+        "spd": 160,
+        "spe": 209
+      },
+      "moves": [
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Jumpluff",
+      "level": 87,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "ability": "Infiltrator",
+      "teraType": "Steel",
+      "maxhp": 271,
+      "stats": {
+        "atk": 145,
+        "def": 172,
+        "spa": 145,
+        "spd": 215,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Decidueye",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "ability": "Overgrow",
+      "item": "Assault Vest",
+      "teraType": "Grass",
+      "maxhp": 281,
+      "stats": {
+        "atk": 239,
+        "def": 182,
+        "spa": 226,
+        "spd": 226,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Spirit Shackle",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Zacian",
+      "level": 64,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Intrepid Sword",
+      "item": "Rusted Sword",
+      "teraType": "Fighting",
+      "maxhp": 225,
+      "stats": {
+        "atk": 191,
+        "def": 185,
+        "spa": 140,
+        "spd": 185,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Behemoth Blade",
+          "type": "Steel",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Entei",
+      "level": 78,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Inner Focus",
+      "item": "Choice Band",
+      "teraType": "Fire",
+      "maxhp": 307,
+      "stats": {
+        "atk": 224,
+        "def": 178,
+        "spa": 185,
+        "spd": 162,
+        "spe": 201
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Sacred Fire",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Seviper||LifeOrb|Infiltrator|knockoff,gunkshot,flamethrower,earthquake||85,85,85,85,85,85|F|||93|,,,,,Dark]Tauros|TaurosPaldeaAqua|LifeOrb|Intimidate|liquidation,aquajet,closecombat,bulkup||85,85,85,85,85,85|M|||81|,,,,,Water]Jumpluff|||Infiltrator|uturn,acrobatics,sleeppowder,strengthsap||81,85,85,85,85,85|M|||87|,,,,,Steel]Decidueye||AssaultVest|Overgrow|knockoff,spiritshackle,uturn,leafstorm||85,85,85,85,85,85|F|||88|,,,,,Grass]Zacian||RustedSword|IntrepidSword|closecombat,swordsdance,playrough,behemothblade||85,85,85,85,85,85|N|||64|,,,,,Fighting]Entei||ChoiceBand|InnerFocus|stoneedge,sacredfire,flareblitz,extremespeed||85,85,85,85,85,85|N|||78|,,,,,Fire",
   "ai": "Rampardos||ChoiceScarf|SheerForce|headsmash,firepunch,earthquake,rockslide||85,85,85,85,85,85|F|||90|,,,,,Rock]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,hydropump,nastyplot,rapidspin||85,85,85,85,85,85|M|||87|,,,,,Steel]Hitmonlee||WhiteHerb|Unburden|knockoff,closecombat,swordsdance,poisonjab||85,85,85,85,85,85|M|||85|,,,,,Poison]Ludicolo||LifeOrb|SwiftSwim|gigadrain,hydropump,raindance,icebeam||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Mudsdale||Leftovers|Stamina|earthquake,stealthrock,stoneedge,heavyslam||85,85,85,85,85,85|M|||83|,,,,,Steel]Illumise||HeavyDutyBoots|Prankster|thunderwave,encore,bugbuzz,roost||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel",
   "curation": {

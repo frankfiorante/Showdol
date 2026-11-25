@@ -19,6 +19,249 @@
     "Sunflora",
     "Leafeon"
   ],
+  "playerSets": [
+    {
+      "species": "Pachirisu",
+      "level": 96,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 271,
+      "stats": {
+        "atk": 141,
+        "def": 189,
+        "spa": 141,
+        "spd": 227,
+        "spe": 237
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Super Fang",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Arbok",
+      "level": 87,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 246,
+      "stats": {
+        "atk": 215,
+        "def": 170,
+        "spa": 163,
+        "spd": 187,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Glare",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Goodra-Hisui",
+      "level": 82,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Assault Vest",
+      "teraType": "Ground",
+      "maxhp": 265,
+      "stats": {
+        "atk": 211,
+        "def": 211,
+        "spa": 228,
+        "spd": 293,
+        "spe": 146
+      },
+      "moves": [
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Oinkologne",
+      "level": 92,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Thick Fat",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 352,
+      "stats": {
+        "atk": 236,
+        "def": 190,
+        "spa": 161,
+        "spd": 200,
+        "spe": 172
+      },
+      "moves": [
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Lash Out",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sunflora",
+      "level": 100,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Choice Specs",
+      "teraType": "Grass",
+      "maxhp": 312,
+      "stats": {
+        "atk": 155,
+        "def": 167,
+        "spa": 267,
+        "spd": 227,
+        "spe": 117
+      },
+      "moves": [
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Leafeon",
+      "level": 88,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 258,
+      "stats": {
+        "atk": 244,
+        "def": 279,
+        "spa": 156,
+        "spd": 165,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Pachirisu||HeavyDutyBoots|VoltAbsorb|encore,uturn,superfang,discharge||85,85,85,85,85,85|F|||96|,,,,,Flying]Arbok||LifeOrb|Intimidate|suckerpunch,glare,gunkshot,knockoff||85,85,85,85,85,85|M|||87|,,,,,Dark]Goodra|GoodraHisui|AssaultVest|SapSipper|heavyslam,dracometeor,earthquake,hydropump||85,85,85,85,85,85|F|||82|,,,,,Ground]Oinkologne||Leftovers|ThickFat|curse,doubleedge,highhorsepower,lashout||85,85,85,85,85,85|M|||92|,,,,,Ground]Sunflora||ChoiceSpecs|Chlorophyll|leafstorm,sludgebomb,dazzlinggleam,earthpower||85,,85,85,85,85|M|,0,,,,|||,,,,,Grass]Leafeon||LifeOrb|Chlorophyll|swordsdance,knockoff,leafblade,synthesis||85,85,85,85,85,85|M|||88|,,,,,Dark",
   "ai": "Drednaw||WhiteHerb|ShellArmor|earthquake,shellsmash,stoneedge,liquidation||85,85,85,85,85,85|M|||81|,,,,,Ground]Mienshao||ChoiceBand|Reckless|stoneedge,highjumpkick,uturn,knockoff||81,85,85,85,85,85|M|||83|,,,,,Fighting]Gallade||ChoiceBand|Sharpness|leafblade,sacredsword,psychocut,nightslash||85,85,85,85,85,85|M|||80|,,,,,Dark]Luvdisc||HeavyDutyBoots|SwiftSwim|substitute,endeavor,whirlpool,surf||81,,85,85,85,85|F|,0,,,,|||,,,,,Ground]Houndoom||HeavyDutyBoots|FlashFire|suckerpunch,nastyplot,fireblast,darkpulse||85,85,85,85,85,85|F|||87|,,,,,Dark]Roaring Moon||LumBerry|Protosynthesis|knockoff,outrage,dragondance,roost||85,85,85,85,85,85|N|||72|,,,,,Fairy",
   "curation": {

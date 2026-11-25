@@ -19,6 +19,250 @@
     "Solgaleo",
     "Passimian"
   ],
+  "playerSets": [
+    {
+      "species": "Deoxys-Defense",
+      "level": 84,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Rocky Helmet",
+      "teraType": "Steel",
+      "maxhp": 221,
+      "stats": {
+        "atk": 166,
+        "def": 317,
+        "spa": 166,
+        "spd": 317,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Crabominable",
+      "level": 90,
+      "types": [
+        "Fighting",
+        "Ice"
+      ],
+      "ability": "Iron Fist",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 321,
+      "stats": {
+        "atk": 289,
+        "def": 190,
+        "spa": 163,
+        "spd": 172,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Ice Hammer",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Chansey",
+      "level": 85,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Natural Cure",
+      "item": "Eviolite",
+      "teraType": "Dark",
+      "maxhp": 564,
+      "stats": {
+        "atk": 13,
+        "def": 57,
+        "spa": 108,
+        "spd": 227,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Seismic Toss",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Heal Bell",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Soft-Boiled",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Bellossom",
+      "level": 84,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Leftovers",
+      "teraType": "Fire",
+      "maxhp": 263,
+      "stats": {
+        "atk": 139,
+        "def": 208,
+        "spa": 199,
+        "spd": 216,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Solgaleo",
+      "level": 74,
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "ability": "Full Metal Body",
+      "item": "Rocky Helmet",
+      "teraType": "Water",
+      "maxhp": 325,
+      "stats": {
+        "atk": 246,
+        "def": 201,
+        "spa": 210,
+        "spd": 175,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Sunsteel Strike",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Teleport",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Passimian",
+      "level": 83,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Defiant",
+      "item": "Choice Scarf",
+      "teraType": "Poison",
+      "maxhp": 302,
+      "stats": {
+        "atk": 247,
+        "def": 197,
+        "spa": 114,
+        "spd": 147,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Deoxys|DeoxysDefense|RockyHelmet|Pressure|knockoff,recover,psychicnoise,stealthrock||85,85,85,85,85,85|N|||84|,,,,,Steel]Crabominable||ChoiceBand|IronFist|icehammer,earthquake,closecombat,gunkshot||85,85,85,85,85,85|F|||90|,,,,,Ground]Chansey||Eviolite|NaturalCure|seismictoss,healbell,thunderwave,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Dark]Bellossom||Leftovers|Chlorophyll|gigadrain,quiverdance,strengthsap,terablast||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fire]Solgaleo||RockyHelmet|FullMetalBody|closecombat,morningsun,sunsteelstrike,teleport||85,85,85,85,85,85|N|||74|,,,,,Water]Passimian||ChoiceScarf|Defiant|closecombat,gunkshot,earthquake,knockoff||85,85,85,85,85,85|F|||83|,,,,,Poison",
   "ai": "Meowstic||Leftovers|Prankster|alluringvoice,psychicnoise,thunderwave,yawn||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Bruxish||ChoiceBand|StrongJaw|wavecrash,crunch,psychicfangs,aquajet||85,85,85,85,85,85|F|||85|,,,,,Psychic]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|quiverdance,roost,hurricane,revelationdance||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fighting]Rotom|RotomFan|HeavyDutyBoots|Levitate|nastyplot,thunderbolt,airslash,thunderwave||85,,85,85,85,85|N|,0,,,,||86|,,,,,Steel]Magnezone||AssaultVest|MagnetPull|voltswitch,thunderbolt,flashcannon,mirrorcoat||85,,85,85,85,85|N|,0,,,,||84|,,,,,Flying]Whimsicott||HeavyDutyBoots|Prankster|encore,uturn,moonblast,stunspore||85,85,85,85,85,85|F|||84|,,,,,Steel",
   "curation": {

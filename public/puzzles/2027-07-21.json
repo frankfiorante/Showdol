@@ -19,6 +19,253 @@
     "Ceruledge",
     "Grafaiai"
   ],
+  "playerSets": [
+    {
+      "species": "Zekrom",
+      "level": 71,
+      "types": [
+        "Dragon",
+        "Electric"
+      ],
+      "ability": "Teravolt",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 259,
+      "stats": {
+        "atk": 254,
+        "def": 212,
+        "spa": 212,
+        "spd": 183,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Bolt Strike",
+          "type": "Electric",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mewtwo",
+      "level": 72,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 272,
+      "stats": {
+        "atk": 163,
+        "def": 172,
+        "spa": 264,
+        "spd": 172,
+        "spe": 229
+      },
+      "moves": [
+        {
+          "name": "Psystrike",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Tatsugiri",
+      "level": 87,
+      "types": [
+        "Dragon",
+        "Water"
+      ],
+      "ability": "Storm Drain",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 260,
+      "stats": {
+        "atk": 137,
+        "def": 154,
+        "spa": 259,
+        "spd": 215,
+        "spe": 192
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Froslass",
+      "level": 87,
+      "types": [
+        "Ice",
+        "Ghost"
+      ],
+      "ability": "Cursed Body",
+      "item": "Wide Lens",
+      "teraType": "Ghost",
+      "maxhp": 263,
+      "stats": {
+        "atk": 189,
+        "def": 172,
+        "spa": 189,
+        "spd": 172,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Destiny Bond",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ceruledge",
+      "level": 78,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "ability": "Weak Armor",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 245,
+      "stats": {
+        "atk": 240,
+        "def": 170,
+        "spa": 139,
+        "spd": 201,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Bitter Blade",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Grafaiai",
+      "level": 86,
+      "types": [
+        "Poison",
+        "Normal"
+      ],
+      "ability": "Poison Touch",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 249,
+      "stats": {
+        "atk": 213,
+        "def": 161,
+        "spa": 187,
+        "spd": 173,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Super Fang",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Zekrom||Leftovers|Teravolt|substitute,dragondance,outrage,boltstrike||85,85,85,85,85,85|N|||71|,,,,,Steel]Mewtwo||LifeOrb|Pressure|psystrike,fireblast,nastyplot,darkpulse||85,,85,85,85,85|N|,0,,,,||72|,,,,,Dark]Tatsugiri||HeavyDutyBoots|StormDrain|nastyplot,dracometeor,rapidspin,surf||85,85,85,85,85,85|M|||87|,,,,,Water]Froslass||WideLens|CursedBody|poltergeist,destinybond,tripleaxel,spikes||81,85,85,85,85,85|F|||87|,,,,,Ghost]Ceruledge||HeavyDutyBoots|WeakArmor|poltergeist,closecombat,swordsdance,bitterblade||85,85,85,85,85,85|M|||78|,,,,,Ghost]Grafaiai||AssaultVest|PoisonTouch|knockoff,gunkshot,superfang,uturn||85,85,85,85,85,85|F|||86|,,,,,Dark",
   "ai": "Froslass||WideLens|CursedBody|taunt,tripleaxel,poltergeist,willowisp||81,85,85,85,85,85|F|||87|,,,,,Ghost]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost]Weavile||HeavyDutyBoots|Pickpocket|lowkick,knockoff,tripleaxel,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Fighting]Pelipper||ChoiceSpecs|Drizzle|weatherball,hydropump,hurricane,uturn||85,85,85,85,85,85|F|||86|,,,,,Water]Basculin||ChoiceBand|Adaptability|doubleedge,aquajet,wavecrash,flipturn||85,85,85,85,85,85|F|||86|,,,,,Water]Skarmory||Leftovers|Sturdy|irondefense,roost,bravebird,bodypress||85,85,85,85,85,85|M|||80|,,,,,Fighting",
   "curation": {

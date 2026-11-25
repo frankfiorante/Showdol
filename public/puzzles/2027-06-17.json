@@ -19,6 +19,252 @@
     "Probopass",
     "Mienshao"
   ],
+  "playerSets": [
+    {
+      "species": "Tauros-Paldea-Combat",
+      "level": 82,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Intimidate",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 257,
+      "stats": {
+        "atk": 228,
+        "def": 219,
+        "spa": 96,
+        "spd": 162,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Miraidon",
+      "level": 65,
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "ability": "Hadron Engine",
+      "item": "Choice Specs",
+      "teraType": "Electric",
+      "maxhp": 238,
+      "stats": {
+        "atk": 115,
+        "def": 168,
+        "spa": 214,
+        "spd": 188,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Electro Drift",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Slowbro-Galar",
+      "level": 87,
+      "types": [
+        "Poison",
+        "Psychic"
+      ],
+      "ability": "Regenerator",
+      "item": "Assault Vest",
+      "teraType": "Poison",
+      "maxhp": 307,
+      "stats": {
+        "atk": 224,
+        "def": 215,
+        "spa": 224,
+        "spd": 172,
+        "spe": 102
+      },
+      "moves": [
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Shell Side Arm",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Scizor",
+      "level": 79,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "ability": "Technician",
+      "item": "Choice Band",
+      "teraType": "Steel",
+      "maxhp": 240,
+      "stats": {
+        "atk": 251,
+        "def": 204,
+        "spa": 132,
+        "spd": 172,
+        "spe": 148
+      },
+      "moves": [
+        {
+          "name": "Bullet Punch",
+          "type": "Steel",
+          "pp": 48
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Probopass",
+      "level": 91,
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "ability": "Magnet Pull",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 257,
+      "stats": {
+        "atk": 105,
+        "def": 316,
+        "spa": 188,
+        "spd": 325,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Power Gem",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mienshao",
+      "level": 83,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Regenerator",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 244,
+      "stats": {
+        "atk": 255,
+        "def": 147,
+        "spa": 205,
+        "spd": 147,
+        "spe": 222
+      },
+      "moves": [
+        {
+          "name": "Fake Out",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|earthquake,throatchop,closecombat,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Dark]Miraidon||ChoiceSpecs|HadronEngine|overheat,electrodrift,voltswitch,dracometeor||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Slowbro|SlowbroGalar|AssaultVest|Regenerator|psychic,foulplay,surf,shellsidearm||85,85,85,85,85,85|F|||87|,,,,,Poison]Scizor||ChoiceBand|Technician|bulletpunch,uturn,closecombat,knockoff||85,85,85,85,85,85|M|||79|,,,,,Steel]Probopass||Leftovers|MagnetPull|irondefense,powergem,flashcannon,bodypress||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fighting]Mienshao||AssaultVest|Regenerator|fakeout,uturn,knockoff,closecombat||85,85,85,85,85,85|M|||83|,,,,,Dark",
   "ai": "Falinks||LifeOrb|Defiant|knockoff,closecombat,ironhead,noretreat||85,85,85,85,85,85|N|||84|,,,,,Steel]Basculegion|BasculegionF|AssaultVest|Adaptability|hydropump,wavecrash,shadowball,flipturn||85,85,85,85,85,85|F|||83|,,,,,Water]Scream Tail||Leftovers|Protosynthesis|wish,encore,protect,playrough||85,85,85,85,85,85|N|||84|,,,,,Steel]Entei||ChoiceBand|InnerFocus|stoneedge,extremespeed,flareblitz,sacredfire||85,85,85,85,85,85|N|||78|,,,,,Normal]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,shadowball,partingshot,recover||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Sylveon||Leftovers|Pixilate|calmmind,hypervoice,protect,wish||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
   "curation": {

@@ -19,6 +19,252 @@
     "Blastoise",
     "Dialga-Origin"
   ],
+  "playerSets": [
+    {
+      "species": "Munkidori",
+      "level": 79,
+      "types": [
+        "Poison",
+        "Psychic"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 269,
+      "stats": {
+        "atk": 164,
+        "def": 150,
+        "spa": 251,
+        "spd": 188,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Bombirdier",
+      "level": 85,
+      "types": [
+        "Flying",
+        "Dark"
+      ],
+      "ability": "Rocky Payload",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Rock",
+      "maxhp": 258,
+      "stats": {
+        "atk": 224,
+        "def": 193,
+        "spa": 151,
+        "spd": 193,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Chien-Pao",
+      "level": 72,
+      "types": [
+        "Dark",
+        "Ice"
+      ],
+      "ability": "Sword of Ruin",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 234,
+      "stats": {
+        "atk": 215,
+        "def": 157,
+        "spa": 172,
+        "spd": 136,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Sacred Sword",
+          "type": "Fighting",
+          "pp": 24
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Muk",
+      "level": 86,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Poison Touch",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 321,
+      "stats": {
+        "atk": 230,
+        "def": 178,
+        "spa": 161,
+        "spd": 221,
+        "spe": 135
+      },
+      "moves": [
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Blastoise",
+      "level": 80,
+      "types": [
+        "Water"
+      ],
+      "ability": "Torrent",
+      "item": "White Herb",
+      "teraType": "Water",
+      "maxhp": 258,
+      "stats": {
+        "atk": 179,
+        "def": 206,
+        "spa": 182,
+        "spd": 214,
+        "spe": 171
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dialga-Origin",
+      "level": 73,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Adamant Crystal",
+      "teraType": "Dragon",
+      "maxhp": 266,
+      "stats": {
+        "atk": 151,
+        "def": 218,
+        "spa": 261,
+        "spd": 218,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Munkidori||AssaultVest|ToxicChain|sludgewave,psychicnoise,uturn,focusblast||85,85,85,85,85,85|M|||79|,,,,,Dark]Bombirdier||HeavyDutyBoots|RockyPayload|stoneedge,roost,knockoff,bravebird||85,85,85,85,85,85|F|||85|,,,,,Rock]Chien-Pao||ChoiceBand|SwordofRuin|iceshard,iciclecrash,sacredsword,crunch||85,85,85,85,85,85|N|||72|,,,,,Fighting]Muk||AssaultVest|PoisonTouch|icepunch,poisonjab,drainpunch,knockoff||85,85,85,85,85,85|F|||86|,,,,,Dark]Blastoise||WhiteHerb|Torrent|icebeam,shellsmash,earthquake,hydropump||85,85,85,85,85,85|F|||80|,,,,,Water]Dialga|DialgaOrigin|AdamantCrystal|Pressure|fireblast,flashcannon,stealthrock,dracometeor||85,,85,85,85,85|N|,0,,,,||73|,,,,,Dragon",
   "ai": "Vaporeon||Leftovers|WaterAbsorb|scald,wish,haze,protect||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Regidrago||ChoiceScarf|DragonsMaw|dracometeor,dragonenergy,earthquake,outrage||85,85,85,85,85,85|N|||77|,,,,,Dragon]Azelf||Leftovers|Levitate|knockoff,stealthrock,encore,psychic||85,85,85,85,85,85|N|||82|,,,,,Dark]Tentacruel||Leftovers|LiquidOoze|rapidspin,sludgebomb,surf,haze||85,85,85,85,85,85|F|||84|,,,,,Grass]Hitmontop||ChoiceBand|Intimidate|suckerpunch,earthquake,stoneedge,closecombat||85,85,85,85,85,85|M|||88|,,,,,Steel]Heatran||AssaultVest|FlashFire|heavyslam,magmastorm,lavaplume,earthpower||85,85,85,85,85,85|M|||79|,,,,,Grass",
   "curation": {

@@ -19,6 +19,254 @@
     "Skuntank",
     "Annihilape"
   ],
+  "playerSets": [
+    {
+      "species": "Swanna",
+      "level": 89,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Hydration",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 206,
+        "def": 163,
+        "spa": 206,
+        "spd": 163,
+        "spe": 225
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Ogerpon-Hearthflame",
+      "level": 74,
+      "types": [
+        "Grass",
+        "Fire"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Hearthflame Mask",
+      "teraType": "Fire",
+      "maxhp": 239,
+      "stats": {
+        "atk": 221,
+        "def": 167,
+        "spa": 132,
+        "spd": 185,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Ivy Cudgel",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Brute Bonnet",
+      "level": 79,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 305,
+      "stats": {
+        "atk": 246,
+        "def": 202,
+        "spa": 170,
+        "spd": 202,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Seed Bomb",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Magcargo",
+      "level": 95,
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "ability": "Weak Armor",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 268,
+      "stats": {
+        "atk": 100,
+        "def": 282,
+        "spa": 225,
+        "spd": 206,
+        "spe": 111
+      },
+      "moves": [
+        {
+          "name": "Power Gem",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Skuntank",
+      "level": 84,
+      "types": [
+        "Poison",
+        "Dark"
+      ],
+      "ability": "Aftermath",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 310,
+      "stats": {
+        "atk": 204,
+        "def": 161,
+        "spa": 167,
+        "spd": 151,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Annihilape",
+      "level": 76,
+      "types": [
+        "Fighting",
+        "Ghost"
+      ],
+      "ability": "Defiant",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 292,
+      "stats": {
+        "atk": 219,
+        "def": 166,
+        "spa": 120,
+        "spd": 181,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Rage Fist",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Swanna||HeavyDutyBoots|Hydration|bravebird,defog,hydropump,roost||85,85,85,85,85,85|M|||89|,,,,,Ground]Ogerpon|OgerponHearthflame|HearthflameMask|MoldBreaker|swordsdance,hornleech,knockoff,ivycudgel||77,85,85,85,85,85|F|||74|,,,,,Fire]Brute Bonnet||Leftovers|Protosynthesis|crunch,suckerpunch,spore,seedbomb||85,85,85,85,85,85|N|||79|,,,,,Poison]Magcargo||HeavyDutyBoots|WeakArmor|powergem,shellsmash,fireblast,earthpower||85,,85,85,85,85|F|,0,,,,||95|,,,,,Dragon]Skuntank||LifeOrb|Aftermath|gunkshot,knockoff,toxicspikes,fireblast||85,85,85,85,85,85|F|||84|,,,,,Poison]Annihilape||Leftovers|Defiant|drainpunch,taunt,ragefist,bulkup||85,85,85,85,85,85|F|||76|,,,,,Steel",
   "ai": "Trevenant||SitrusBerry|Harvest|drainpunch,poltergeist,protect,toxic||85,85,85,85,85,85|M|||89|,,,,,Dark]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|grassknot,focusblast,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Florges|FlorgesWhite|Leftovers|FlowerVeil|calmmind,moonblast,wish,protect||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Espeon||LifeOrb|MagicBounce|alluringvoice,psychic,shadowball,calmmind||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Sceptile||LifeOrb|Overgrow|rockslide,gigadrain,earthquake,focusblast||85,85,85,85,85,85|F|||87|,,,,,Grass]Ariados||HeavyDutyBoots|Swarm|megahorn,poisonjab,stickyweb,toxicspikes||85,85,85,85,85,85|M|||95|,,,,,Ghost",
   "curation": {

@@ -19,6 +19,252 @@
     "Arceus-Dragon",
     "Iron Valiant"
   ],
+  "playerSets": [
+    {
+      "species": "Crabominable",
+      "level": 90,
+      "types": [
+        "Fighting",
+        "Ice"
+      ],
+      "ability": "Iron Fist",
+      "item": "Assault Vest",
+      "teraType": "Ground",
+      "maxhp": 321,
+      "stats": {
+        "atk": 289,
+        "def": 190,
+        "spa": 163,
+        "spd": 172,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Ice Hammer",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zebstrika",
+      "level": 87,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 272,
+      "stats": {
+        "atk": 224,
+        "def": 159,
+        "spa": 189,
+        "spd": 159,
+        "spe": 252
+      },
+      "moves": [
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Probopass",
+      "level": 91,
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "ability": "Magnet Pull",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 257,
+      "stats": {
+        "atk": 105,
+        "def": 316,
+        "spa": 188,
+        "spd": 325,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Power Gem",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Talonflame",
+      "level": 83,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 265,
+      "stats": {
+        "atk": 182,
+        "def": 166,
+        "spa": 171,
+        "spd": 162,
+        "spe": 257
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Arceus-Dragon",
+      "level": 71,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Multitype",
+      "item": "Draco Plate",
+      "teraType": "Fire",
+      "maxhp": 288,
+      "stats": {
+        "atk": 212,
+        "def": 212,
+        "spa": 212,
+        "spd": 212,
+        "spe": 212
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Iron Valiant",
+      "level": 78,
+      "types": [
+        "Fairy",
+        "Fighting"
+      ],
+      "ability": "Quark Drive",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 244,
+      "stats": {
+        "atk": 248,
+        "def": 185,
+        "spa": 232,
+        "spd": 139,
+        "spe": 226
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Spirit Break",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Crabominable||AssaultVest|IronFist|drainpunch,earthquake,knockoff,icehammer||85,85,85,85,85,85|F|||90|,,,,,Ground]Zebstrika||LifeOrb|SapSipper|overheat,supercellslam,highhorsepower,voltswitch||85,85,85,85,85,85|M|||87|,,,,,Ground]Probopass||Leftovers|MagnetPull|powergem,flashcannon,bodypress,irondefense||85,,85,85,85,85|M|,0,,,,||91|,,,,,Fighting]Talonflame||HeavyDutyBoots|FlameBody|bravebird,roost,overheat,taunt||85,85,85,85,85,85|F|||83|,,,,,Dragon]Arceus|ArceusDragon|DracoPlate|Multitype|swordsdance,flareblitz,extremespeed,outrage||85,85,85,85,85,85|N|||71|,,,,,Fire]Iron Valiant||LifeOrb|QuarkDrive|knockoff,closecombat,swordsdance,spiritbreak||85,85,85,85,85,85|N|||78|,,,,,Dark",
   "ai": "Ting-Lu||Leftovers|VesselofRuin|earthquake,spikes,throatchop,stealthrock||85,85,85,85,85,85|N|||78|,,,,,Poison]Sinistcha||Leftovers|Heatproof|strengthsap,shadowball,calmmind,matchagotcha||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|swordsdance,ivycudgel,superpower,powerwhip||85,85,85,85,85,85|F|||76|,,,,,Rock]Gholdengo||Leftovers|GoodasGold|recover,thunderwave,shadowball,makeitrain||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Grumpig||ChoiceSpecs|ThickFat|psychic,shadowball,focusblast,earthpower||85,,85,85,85,85|F|,0,,,,||92|,,,,,Psychic]Grafaiai||LifeOrb|PoisonTouch|swordsdance,gunkshot,lowkick,knockoff||85,85,85,85,85,85|M|||86|,,,,,Dark",
   "curation": {

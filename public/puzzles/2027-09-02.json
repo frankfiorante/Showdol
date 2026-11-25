@@ -19,6 +19,252 @@
     "Mimikyu",
     "Azelf"
   ],
+  "playerSets": [
+    {
+      "species": "Houndoom",
+      "level": 87,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "ability": "Flash Fire",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Poison",
+      "maxhp": 272,
+      "stats": {
+        "atk": 206,
+        "def": 137,
+        "spa": 241,
+        "spd": 189,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Torkoal",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Drought",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 297,
+        "spa": 200,
+        "spd": 173,
+        "spe": 85
+      },
+      "moves": [
+        {
+          "name": "Lava Plume",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Solar Beam",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Kingambit",
+      "level": 74,
+      "types": [
+        "Dark",
+        "Steel"
+      ],
+      "ability": "Supreme Overlord",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 270,
+      "stats": {
+        "atk": 243,
+        "def": 221,
+        "spa": 132,
+        "spd": 169,
+        "spe": 117
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Kowtow Cleave",
+          "type": "Dark",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Toedscruel",
+      "level": 87,
+      "types": [
+        "Ground",
+        "Grass"
+      ],
+      "ability": "Mycelium Might",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 281,
+      "stats": {
+        "atk": 172,
+        "def": 163,
+        "spa": 189,
+        "spd": 259,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mimikyu",
+      "level": 79,
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "ability": "Disguise",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 216,
+      "stats": {
+        "atk": 188,
+        "def": 172,
+        "spa": 125,
+        "spd": 211,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Azelf",
+      "level": 82,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Specs",
+      "teraType": "Psychic",
+      "maxhp": 257,
+      "stats": {
+        "atk": 252,
+        "def": 162,
+        "spa": 252,
+        "spd": 162,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Houndoom||HeavyDutyBoots|FlashFire|sludgebomb,suckerpunch,fireblast,darkpulse||85,85,85,85,85,85|M|||87|,,,,,Poison]Torkoal||HeavyDutyBoots|Drought|lavaplume,rapidspin,stealthrock,solarbeam||85,85,85,85,85,85|F|||88|,,,,,Dragon]Kingambit||Leftovers|SupremeOverlord|suckerpunch,ironhead,swordsdance,kowtowcleave||85,85,85,85,85,85|F|||74|,,,,,Dark]Toedscruel||Leftovers|MyceliumMight|earthpower,knockoff,spore,leafstorm||85,85,85,85,85,85|M|||87|,,,,,Water]Mimikyu||LifeOrb|Disguise|playrough,swordsdance,drainpunch,shadowsneak||85,85,85,85,85,85|F|||79|,,,,,Fighting]Azelf||ChoiceSpecs|Levitate|uturn,fireblast,psyshock,dazzlinggleam||85,85,85,85,85,85|N|||82|,,,,,Psychic",
   "ai": "Iron Leaves||ChoiceBand|QuarkDrive|leafblade,psyblade,closecombat,megahorn||85,85,85,85,85,85|N|||80|,,,,,Fighting]Mightyena||ChoiceBand|Intimidate|suckerpunch,poisonfang,crunch,playrough||85,85,85,85,85,85|M|||96|,,,,,Fairy]Ninetales||HeavyDutyBoots|Drought|scorchingsands,nastyplot,solarbeam,fireblast||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fire]Clodsire||Leftovers|WaterAbsorb|toxicspikes,recover,earthquake,poisonjab||85,85,85,85,85,85|M|||81|,,,,,Flying]Regice||HeavyDutyBoots|ClearBody|thunderbolt,bodypress,thunderwave,icebeam||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Alomomola||RockyHelmet|Regenerator|protect,flipturn,wish,scald||85,85,85,85,85,85|F|||87|,,,,,Poison",
   "curation": {

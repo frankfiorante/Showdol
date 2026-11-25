@@ -19,6 +19,252 @@
     "Vileplume",
     "Gardevoir"
   ],
+  "playerSets": [
+    {
+      "species": "Electivire",
+      "level": 84,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Motor Drive",
+      "item": "Life Orb",
+      "teraType": "Flying",
+      "maxhp": 263,
+      "stats": {
+        "atk": 255,
+        "def": 161,
+        "spa": 208,
+        "spd": 191,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Sawsbuck-Winter",
+      "level": 88,
+      "types": [
+        "Normal",
+        "Grass"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 284,
+      "stats": {
+        "atk": 226,
+        "def": 173,
+        "spa": 156,
+        "spd": 173,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Headbutt",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cloyster",
+      "level": 80,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Skill Link",
+      "item": "White Herb",
+      "teraType": "Ground",
+      "maxhp": 211,
+      "stats": {
+        "atk": 198,
+        "def": 334,
+        "spa": 182,
+        "spd": 118,
+        "spe": 158
+      },
+      "moves": [
+        {
+          "name": "Rock Blast",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Drill Run",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Chansey",
+      "level": 85,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Natural Cure",
+      "item": "Eviolite",
+      "teraType": "Dark",
+      "maxhp": 564,
+      "stats": {
+        "atk": 13,
+        "def": 57,
+        "spa": 108,
+        "spd": 227,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Seismic Toss",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Soft-Boiled",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Vileplume",
+      "level": 85,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Effect Spore",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 266,
+      "stats": {
+        "atk": 141,
+        "def": 193,
+        "spa": 236,
+        "spd": 202,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Gardevoir",
+      "level": 83,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "ability": "Trace",
+      "item": "Choice Scarf",
+      "teraType": "Fairy",
+      "maxhp": 249,
+      "stats": {
+        "atk": 112,
+        "def": 156,
+        "spa": 255,
+        "spd": 239,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Healing Wish",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Electivire||LifeOrb|MotorDrive|earthquake,bulkup,icepunch,supercellslam||85,85,85,85,85,85|M|||84|,,,,,Flying]Sawsbuck|SawsbuckWinter|LifeOrb|SereneGrace|hornleech,headbutt,swordsdance,highhorsepower||85,85,85,85,85,85|M|||88|,,,,,Normal]Cloyster||WhiteHerb|SkillLink|rockblast,shellsmash,drillrun,iciclespear||85,85,85,85,85,85|F|||80|,,,,,Ground]Chansey||Eviolite|NaturalCure|seismictoss,stealthrock,thunderwave,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Dark]Vileplume||Leftovers|EffectSpore|strengthsap,gigadrain,leechseed,sludgebomb||85,,85,85,85,85|M|,0,,,,||85|,,,,,Water]Gardevoir||ChoiceScarf|Trace|healingwish,focusblast,psychic,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy",
   "ai": "Orthworm||ChestoBerry|EarthEater|rest,coil,bodypress,irontail||85,85,85,85,85,85|M|||88|,,,,,Fighting]Grumpig||Leftovers|ThickFat|psyshock,earthpower,dazzlinggleam,nastyplot||85,,85,85,85,85|F|,0,,,,||92|,,,,,Fairy]Flareon||ToxicOrb|Guts|quickattack,flareblitz,facade,trailblaze||85,85,85,85,85,85|F|||90|,,,,,Normal]Porygon-Z||LifeOrb|Adaptability|agility,terablast,shadowball,nastyplot||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fighting]Mamoswine||ChoiceBand|ThickFat|knockoff,iciclecrash,earthquake,iceshard||85,85,85,85,85,85|M|||81|,,,,,Ground]Luxray||FlameOrb|Guts|supercellslam,facade,trailblaze,throatchop||81,85,85,85,85,85|F|||88|,,,,,Normal",
   "curation": {

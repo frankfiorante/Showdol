@@ -19,6 +19,253 @@
     "Cobalion",
     "Zarude"
   ],
+  "playerSets": [
+    {
+      "species": "Iron Moth",
+      "level": 78,
+      "types": [
+        "Fire",
+        "Poison"
+      ],
+      "ability": "Quark Drive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 253,
+      "stats": {
+        "atk": 154,
+        "def": 139,
+        "spa": 263,
+        "spd": 217,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Gallade",
+      "level": 80,
+      "types": [
+        "Psychic",
+        "Fighting"
+      ],
+      "ability": "Sharpness",
+      "item": "Choice Band",
+      "teraType": "Grass",
+      "maxhp": 240,
+      "stats": {
+        "atk": 246,
+        "def": 150,
+        "spa": 150,
+        "spd": 230,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Sacred Sword",
+          "type": "Fighting",
+          "pp": 24
+        },
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Lugia",
+      "level": 73,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Multiscale",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 275,
+      "stats": {
+        "atk": 136,
+        "def": 232,
+        "spa": 174,
+        "spd": 267,
+        "spe": 203
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Aeroblast",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Inteleon",
+      "level": 81,
+      "types": [
+        "Water"
+      ],
+      "ability": "Torrent",
+      "item": "Choice Specs",
+      "teraType": "Water",
+      "maxhp": 246,
+      "stats": {
+        "atk": 184,
+        "def": 152,
+        "spa": 249,
+        "spd": 152,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Cobalion",
+      "level": 80,
+      "types": [
+        "Steel",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 277,
+      "stats": {
+        "atk": 190,
+        "def": 253,
+        "spa": 190,
+        "spd": 161,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Zarude",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Grass"
+      ],
+      "ability": "Leaf Guard",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 288,
+      "stats": {
+        "atk": 229,
+        "def": 206,
+        "spa": 152,
+        "spd": 191,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Iron Moth||HeavyDutyBoots|QuarkDrive|morningsun,sludgewave,fireblast,uturn||85,85,85,85,85,85|N|||78|,,,,,Fire]Gallade||ChoiceBand|Sharpness|sacredsword,nightslash,psychocut,leafblade||85,85,85,85,85,85|M|||80|,,,,,Grass]Lugia||HeavyDutyBoots|Multiscale|earthpower,aeroblast,recover,calmmind||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Inteleon||ChoiceSpecs|Torrent|hydropump,scald,icebeam,uturn||85,85,85,85,85,85|F|||81|,,,,,Water]Cobalion||LifeOrb|Justified|closecombat,ironhead,swordsdance,stoneedge||85,85,85,85,85,85|N|||80|,,,,,Fighting]Zarude||LifeOrb|LeafGuard|powerwhip,knockoff,closecombat,swordsdance||85,85,85,85,85,85|N|||77|,,,,,Fighting",
   "ai": "Moltres||HeavyDutyBoots|FlameBody|fireblast,roost,bravebird,scorchingsands||85,85,85,85,85,85|N|||81|,,,,,Steel]Chien-Pao||ChoiceBand|SwordofRuin|sacredsword,iceshard,crunch,iciclecrash||85,85,85,85,85,85|N|||72|,,,,,Ice]Zangoose||ToxicOrb|ToxicBoost|facade,knockoff,quickattack,swordsdance||85,85,85,85,85,85|F|||85|,,,,,Normal]Farigiraf||Leftovers|SapSipper|wish,bodyslam,psychicnoise,protect||85,85,85,85,85,85|M|||89|,,,,,Ground]Misdreavus||Eviolite|Levitate|calmmind,shadowball,drainingkiss,willowisp||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Mudsdale||Leftovers|Stamina|stoneedge,heavyslam,stealthrock,earthquake||85,85,85,85,85,85|F|||83|,,,,,Steel",
   "curation": {

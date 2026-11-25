@@ -19,6 +19,254 @@
     "Bronzong",
     "Oranguru"
   ],
+  "playerSets": [
+    {
+      "species": "Poliwrath",
+      "level": 88,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Water Absorb",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 302,
+      "stats": {
+        "atk": 217,
+        "def": 217,
+        "spa": 173,
+        "spd": 209,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Wigglytuff",
+      "level": 96,
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "ability": "Competitive",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 424,
+      "stats": {
+        "atk": 139,
+        "def": 141,
+        "spa": 218,
+        "spd": 150,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Toxicroak",
+      "level": 84,
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "ability": "Dry Skin",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 277,
+      "stats": {
+        "atk": 226,
+        "def": 157,
+        "spa": 193,
+        "spd": 157,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Piloswine",
+      "level": 85,
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "ability": "Thick Fat",
+      "item": "Eviolite",
+      "teraType": "Dragon",
+      "maxhp": 309,
+      "stats": {
+        "atk": 219,
+        "def": 185,
+        "spa": 151,
+        "spd": 151,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Roar",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bronzong",
+      "level": 88,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 261,
+      "stats": {
+        "atk": 161,
+        "def": 254,
+        "spa": 189,
+        "spd": 254,
+        "spe": 108
+      },
+      "moves": [
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Oranguru",
+      "level": 92,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Inner Focus",
+      "item": "Choice Specs",
+      "teraType": "Psychic",
+      "maxhp": 315,
+      "stats": {
+        "atk": 115,
+        "def": 200,
+        "spa": 218,
+        "spd": 255,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Poliwrath||Leftovers|WaterAbsorb|bulkup,liquidation,icepunch,drainpunch||85,85,85,85,85,85|F|||88|,,,,,Steel]Wigglytuff||Leftovers|Competitive|wish,fireblast,dazzlinggleam,protect||85,,85,85,85,85|F|,0,,,,||96|,,,,,Steel]Toxicroak||LifeOrb|DrySkin|gunkshot,closecombat,knockoff,swordsdance||85,85,85,85,85,85|F|||84|,,,,,Dark]Piloswine||Eviolite|ThickFat|roar,stealthrock,earthquake,iciclecrash||85,85,85,85,85,85|F|||85|,,,,,Dragon]Bronzong||ChestoBerry|Levitate|psychicnoise,irondefense,bodypress,rest||85,,85,85,85,85|N|,0,,,,||88|,,,,,Fighting]Oranguru||ChoiceSpecs|InnerFocus|hypervoice,trick,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||92|,,,,,Psychic",
   "ai": "Exeggutor||SitrusBerry|Harvest|substitute,calmmind,psyshock,gigadrain||77,,85,85,85,85|M|,0,,,,||89|,,,,,Steel]Kleavor||HeavyDutyBoots|Sharpness|stoneaxe,closecombat,swordsdance,xscissor||85,85,85,85,85,85|M|||78|,,,,,Bug]Bellibolt||Leftovers|Electromorphosis|toxic,slackoff,muddywater,thunderbolt||85,,85,85,85,85|F|,0,,,,||84|,,,,,Electric]Granbull||Leftovers|Intimidate|playrough,roar,thunderwave,earthquake||85,85,85,85,85,85|M|||88|,,,,,Ground]Minior|MiniorGreen|WhiteHerb|ShieldsDown|powergem,earthquake,shellsmash,acrobatics||85,85,85,85,85,85|N|||79|,,,,,Ground]Eternatus||RockyHelmet|Pressure|recover,dynamaxcannon,toxic,flamethrower||85,,85,85,85,85|N|,0,,,,||69|,,,,,Dragon",
   "curation": {

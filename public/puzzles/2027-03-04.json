@@ -19,6 +19,251 @@
     "Feraligatr",
     "Landorus-Therian"
   ],
+  "playerSets": [
+    {
+      "species": "Okidogi",
+      "level": 77,
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 262,
+      "stats": {
+        "atk": 242,
+        "def": 222,
+        "spa": 134,
+        "spd": 177,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Iron Hands",
+      "level": 79,
+      "types": [
+        "Fighting",
+        "Electric"
+      ],
+      "ability": "Quark Drive",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 373,
+      "stats": {
+        "atk": 267,
+        "def": 216,
+        "spa": 125,
+        "spd": 153,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Spectrier",
+      "level": 75,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Grim Neigh",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 274,
+      "stats": {
+        "atk": 102,
+        "def": 134,
+        "spa": 261,
+        "spd": 164,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Torkoal",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Drought",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 297,
+        "spa": 200,
+        "spd": 173,
+        "spe": 85
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Lava Plume",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Solar Beam",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Feraligatr",
+      "level": 79,
+      "types": [
+        "Water"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 264,
+      "stats": {
+        "atk": 211,
+        "def": 204,
+        "spa": 170,
+        "spd": 177,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Landorus-Therian",
+      "level": 76,
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 260,
+      "stats": {
+        "atk": 264,
+        "def": 181,
+        "spa": 204,
+        "spd": 166,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Okidogi||AssaultVest|ToxicChain|psychicfangs,knockoff,gunkshot,drainpunch||85,85,85,85,85,85|M|||77|,,,,,Dark]Iron Hands||Leftovers|QuarkDrive|wildcharge,swordsdance,icepunch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Spectrier||Leftovers|GrimNeigh|nastyplot,substitute,shadowball,terablast||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Torkoal||HeavyDutyBoots|Drought|rapidspin,lavaplume,solarbeam,yawn||85,85,85,85,85,85|M|||88|,,,,,Grass]Feraligatr||LifeOrb|SheerForce|trailblaze,liquidation,icepunch,dragondance||85,85,85,85,85,85|M|||79|,,,,,Water]Landorus|LandorusTherian|Leftovers|Intimidate|stoneedge,stealthrock,earthquake,uturn||85,85,85,85,85,85|M|||76|,,,,,Water",
   "ai": "Mightyena||AssaultVest|Intimidate|crunch,poisonfang,superfang,suckerpunch||85,85,85,85,85,85|F|||96|,,,,,Poison]Blastoise||WhiteHerb|Torrent|hydropump,earthquake,icebeam,shellsmash||85,85,85,85,85,85|F|||80|,,,,,Ground]Chandelure||Leftovers|FlashFire|substitute,fireblast,calmmind,shadowball||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire]Solgaleo||RockyHelmet|FullMetalBody|morningsun,sunsteelstrike,psychicfangs,roar||85,85,85,85,85,85|N|||74|,,,,,Water]Klawf||ExpertBelt|AngerShell|highhorsepower,swordsdance,knockoff,stoneedge||85,85,85,85,85,85|F|||90|,,,,,Rock]Bombirdier||HeavyDutyBoots|RockyPayload|roost,bravebird,knockoff,stoneedge||85,85,85,85,85,85|M|||85|,,,,,Rock",
   "curation": {

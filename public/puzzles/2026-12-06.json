@@ -19,6 +19,250 @@
     "Dugtrio-Alola",
     "Metagross"
   ],
+  "playerSets": [
+    {
+      "species": "Deoxys-Defense",
+      "level": 84,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Rocky Helmet",
+      "teraType": "Steel",
+      "maxhp": 221,
+      "stats": {
+        "atk": 122,
+        "def": 317,
+        "spa": 166,
+        "spd": 317,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Teleport",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Samurott",
+      "level": 88,
+      "types": [
+        "Water"
+      ],
+      "ability": "Torrent",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 310,
+      "stats": {
+        "atk": 226,
+        "def": 200,
+        "spa": 240,
+        "spd": 173,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Sacred Sword",
+          "type": "Fighting",
+          "pp": 24
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Bellossom",
+      "level": 84,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 263,
+      "stats": {
+        "atk": 139,
+        "def": 208,
+        "spa": 199,
+        "spd": 216,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hitmonlee",
+      "level": 85,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 223,
+      "stats": {
+        "atk": 253,
+        "def": 139,
+        "spa": 108,
+        "spd": 236,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "High Jump Kick",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Dugtrio-Alola",
+      "level": 84,
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "ability": "Tangling Hair",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 196,
+      "stats": {
+        "atk": 216,
+        "def": 149,
+        "spa": 132,
+        "spd": 166,
+        "spe": 233
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Metagross",
+      "level": 79,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Clear Body",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 256,
+      "stats": {
+        "atk": 259,
+        "def": 251,
+        "spa": 196,
+        "spd": 188,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Bullet Punch",
+          "type": "Steel",
+          "pp": 48
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Deoxys|DeoxysDefense|RockyHelmet|Pressure|psychicnoise,teleport,stealthrock,recover||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Samurott||LifeOrb|Torrent|swordsdance,sacredsword,liquidation,knockoff||85,85,85,85,85,85|F|||88|,,,,,Dark]Bellossom||Leftovers|Chlorophyll|quiverdance,sludgebomb,strengthsap,gigadrain||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Hitmonlee||ChoiceBand|Reckless|highjumpkick,machpunch,knockoff,poisonjab||81,85,85,85,85,85|M|||85|,,,,,Fighting]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|suckerpunch,earthquake,swordsdance,ironhead||85,85,85,85,85,85|F|||84|,,,,,Steel]Metagross||ChoiceBand|ClearBody|bulletpunch,heavyslam,psychicfangs,knockoff||85,85,85,85,85,85|N|||79|,,,,,Water",
   "ai": "Cinccino||LoadedDice|Technician|bulletseed,tailslap,tidyup,tripleaxel||85,85,85,85,85,85|F|||83|,,,,,Grass]Meowscarada||LifeOrb|Protean|flowertrick,toxicspikes,tripleaxel,knockoff||85,85,85,85,85,85|M|||78|,,,,,Dark]Torkoal||HeavyDutyBoots|Drought|yawn,rapidspin,solarbeam,lavaplume||85,85,85,85,85,85|F|||88|,,,,,Grass]Sneasler||ChoiceBand|PoisonTouch|throatchop,closecombat,direclaw,uturn||85,85,85,85,85,85|F|||74|,,,,,Dark]Mudsdale||Leftovers|Stamina|stealthrock,roar,earthquake,heavyslam||85,85,85,85,85,85|M|||83|,,,,,Steel]Dudunsparce||Leftovers|Rattled|calmmind,roost,shadowball,boomburst||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost",
   "curation": {

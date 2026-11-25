@@ -19,6 +19,250 @@
     "Cresselia",
     "Zapdos-Galar"
   ],
+  "playerSets": [
+    {
+      "species": "Alcremie-Mint-Cream",
+      "level": 90,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Aroma Veil",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 263,
+      "stats": {
+        "atk": 113,
+        "def": 186,
+        "spa": 249,
+        "spd": 269,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dachsbun",
+      "level": 92,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Well-Baked Body",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 254,
+      "stats": {
+        "atk": 200,
+        "def": 264,
+        "spa": 144,
+        "spd": 200,
+        "spe": 227
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Baxcalibur",
+      "level": 75,
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "ability": "Thermal Exchange",
+      "item": "Loaded Dice",
+      "teraType": "Dragon",
+      "maxhp": 295,
+      "stats": {
+        "atk": 261,
+        "def": 182,
+        "spa": 156,
+        "spd": 173,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Persian",
+      "level": 92,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Silk Scarf",
+      "teraType": "Normal",
+      "maxhp": 269,
+      "stats": {
+        "atk": 181,
+        "def": 163,
+        "spa": 172,
+        "spd": 172,
+        "spe": 264
+      },
+      "moves": [
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Fake Out",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Cresselia",
+      "level": 80,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 323,
+      "stats": {
+        "atk": 117,
+        "def": 222,
+        "spa": 166,
+        "spd": 238,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Moonlight",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Zapdos-Galar",
+      "level": 77,
+      "types": [
+        "Fighting",
+        "Flying"
+      ],
+      "ability": "Defiant",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 265,
+      "stats": {
+        "atk": 237,
+        "def": 183,
+        "spa": 175,
+        "spd": 183,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Alcremie|AlcremieMintCream|Leftovers|AromaVeil|psyshock,calmmind,recover,alluringvoice||85,,85,85,85,85|F|,0,,,,||90|,,,,,Poison]Dachsbun||Leftovers|WellBakedBody|wish,playrough,protect,yawn||85,85,85,85,85,85|F|||92|,,,,,Steel]Baxcalibur||LoadedDice|ThermalExchange|scaleshot,iciclespear,swordsdance,earthquake||81,85,85,85,85,85|F|||75|,,,,,Dragon]Persian||SilkScarf|Technician|doubleedge,knockoff,fakeout,uturn||85,85,85,85,85,85|F|||92|,,,,,Normal]Cresselia||Leftovers|Levitate|moonlight,thunderbolt,psyshock,calmmind||85,,85,85,85,85|F|,0,,,,||80|,,,,,Steel]Zapdos|ZapdosGalar|LifeOrb|Defiant|knockoff,bravebird,closecombat,bulkup||85,85,85,85,85,85|N|||77|,,,,,Dark",
   "ai": "Oranguru||LifeOrb|InnerFocus|hypervoice,nastyplot,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||92|,,,,,Psychic]Houndoom||HeavyDutyBoots|FlashFire|fireblast,darkpulse,suckerpunch,sludgebomb||85,85,85,85,85,85|F|||87|,,,,,Fire]Scovillain||HeavyDutyBoots|Chlorophyll|sunnyday,fireblast,energyball,stompingtantrum||85,85,85,85,85,85|M|||91|,,,,,Ground]Sableye||Leftovers|Prankster|recover,encore,willowisp,knockoff||85,85,85,85,85,85|F|||87|,,,,,Poison]Iron Bundle||ChoiceSpecs|QuarkDrive|freezedry,flipturn,hydropump,icebeam||85,85,85,85,85,85|N|||78|,,,,,Water]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderbolt,scald,voltswitch,thunderwave||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying",
   "curation": {

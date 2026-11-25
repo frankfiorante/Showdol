@@ -19,6 +19,251 @@
     "Dragalge",
     "Seviper"
   ],
+  "playerSets": [
+    {
+      "species": "Sudowoodo",
+      "level": 94,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Rock Head",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 284,
+      "stats": {
+        "atk": 241,
+        "def": 270,
+        "spa": 110,
+        "spd": 176,
+        "spe": 110
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Head Smash",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Forretress",
+      "level": 84,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "ability": "Sturdy",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 263,
+      "stats": {
+        "atk": 199,
+        "def": 283,
+        "spa": 149,
+        "spd": 149,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Regidrago",
+      "level": 77,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Dragon's Maw",
+      "item": "Lum Berry",
+      "teraType": "Dragon",
+      "maxhp": 435,
+      "stats": {
+        "atk": 199,
+        "def": 122,
+        "spa": 199,
+        "spd": 122,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Azumarill",
+      "level": 82,
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "ability": "Huge Power",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 298,
+      "stats": {
+        "atk": 129,
+        "def": 178,
+        "spa": 146,
+        "spd": 178,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Dragalge",
+      "level": 88,
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "ability": "Adaptability",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 258,
+      "stats": {
+        "atk": 137,
+        "def": 209,
+        "spa": 221,
+        "spd": 267,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Seviper",
+      "level": 93,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Infiltrator",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 287,
+      "stats": {
+        "atk": 239,
+        "def": 164,
+        "spa": 239,
+        "spd": 164,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Glare",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Sudowoodo||Leftovers|RockHead|stealthrock,headsmash,woodhammer,suckerpunch||85,85,85,85,85,85|M|||94|,,,,,Grass]Forretress||Leftovers|Sturdy|rapidspin,ironhead,bodypress,spikes||85,85,85,85,85,85|F|||84|,,,,,Fighting]Regidrago||LumBerry|DragonsMaw|outrage,dracometeor,dragondance,earthquake||85,85,85,85,85,85|N|||77|,,,,,Dragon]Azumarill||ChoiceBand|HugePower|aquajet,liquidation,playrough,icespinner||85,85,85,85,85,85|M|||82|,,,,,Water]Dragalge||Leftovers|Adaptability|dracometeor,focusblast,toxicspikes,sludgewave||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fighting]Seviper||LifeOrb|Infiltrator|gunkshot,flamethrower,glare,gigadrain||85,85,85,85,85,85|F|||93|,,,,,Grass",
   "ai": "Alcremie|AlcremieLemonCream|Leftovers|AromaVeil|recover,alluringvoice,calmmind,terablast||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground]Pelipper||HeavyDutyBoots|Drizzle|knockoff,hurricane,surf,roost||85,85,85,85,85,85|M|||86|,,,,,Ground]Quaquaval||ChoiceBand|Moxie|tripleaxel,closecombat,uturn,aquastep||85,85,85,85,85,85|M|||79|,,,,,Fighting]Umbreon||Leftovers|Synchronize|foulplay,wish,protect,toxic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Mudsdale||Leftovers|Stamina|stealthrock,earthquake,heavyslam,stoneedge||85,85,85,85,85,85|M|||83|,,,,,Steel]Arbok||LifeOrb|Intimidate|gunkshot,earthquake,knockoff,glare||85,85,85,85,85,85|M|||87|,,,,,Dark",
   "curation": {

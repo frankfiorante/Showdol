@@ -19,6 +19,251 @@
     "Lunala",
     "Smeargle"
   ],
+  "playerSets": [
+    {
+      "species": "Cacturne",
+      "level": 92,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Water Absorb",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 278,
+      "stats": {
+        "atk": 264,
+        "def": 163,
+        "spa": 264,
+        "spd": 163,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Seed Bomb",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Gumshoos",
+      "level": 95,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Stakeout",
+      "item": "Choice Band",
+      "teraType": "Normal",
+      "maxhp": 321,
+      "stats": {
+        "atk": 263,
+        "def": 168,
+        "spa": 158,
+        "spd": 168,
+        "spe": 139
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Heracross",
+      "level": 80,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Guts",
+      "item": "Flame Orb",
+      "teraType": "Normal",
+      "maxhp": 259,
+      "stats": {
+        "atk": 246,
+        "def": 166,
+        "spa": 110,
+        "spd": 198,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Clawitzer",
+      "level": 87,
+      "types": [
+        "Water"
+      ],
+      "ability": "Mega Launcher",
+      "item": "Assault Vest",
+      "teraType": "Dragon",
+      "maxhp": 265,
+      "stats": {
+        "atk": 177,
+        "def": 203,
+        "spa": 259,
+        "spd": 205,
+        "spe": 152
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Water Pulse",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Lunala",
+      "level": 70,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "ability": "Shadow Shield",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 308,
+      "stats": {
+        "atk": 163,
+        "def": 166,
+        "spa": 233,
+        "spd": 191,
+        "spe": 177
+      },
+      "moves": [
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Moonlight",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Moongeist Beam",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Smeargle",
+      "level": 95,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Own Tempo",
+      "item": "Focus Sash",
+      "teraType": "Ghost",
+      "maxhp": 258,
+      "stats": {
+        "atk": 92,
+        "def": 120,
+        "spa": 92,
+        "spd": 139,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Ceaseless Edge",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Cacturne||LifeOrb|WaterAbsorb|suckerpunch,seedbomb,swordsdance,knockoff||85,85,85,85,85,85|F|||92|,,,,,Dark]Gumshoos||ChoiceBand|Stakeout|uturn,doubleedge,knockoff,earthquake||85,85,85,85,85,85|F|||95|,,,,,Normal]Heracross||FlameOrb|Guts|knockoff,closecombat,facade,trailblaze||85,85,85,85,85,85|F|||80|,,,,,Normal]Clawitzer||AssaultVest|MegaLauncher|uturn,dragonpulse,waterpulse,darkpulse||85,85,85,85,85,85|M|||87|,,,,,Dragon]Lunala||Leftovers|ShadowShield|moonblast,moonlight,moongeistbeam,calmmind||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fairy]Smeargle||FocusSash|OwnTempo|stealthrock,spore,stickyweb,ceaselessedge||85,85,85,85,85,85|F|||95|,,,,,Ghost",
   "ai": "Electivire||LifeOrb|MotorDrive|voltswitch,supercellslam,flamethrower,knockoff||85,85,85,85,85,85|M|||84|,,,,,Dark]Clefable||Leftovers|Unaware|knockoff,moonblast,moonlight,fireblast||85,85,85,85,85,85|M|||83|,,,,,Steel]Primarina||Leftovers|Torrent|sparklingaria,calmmind,drainingkiss,psychic||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fairy]Conkeldurr||FlameOrb|Guts|closecombat,machpunch,facade,knockoff||85,85,85,85,85,85|M|||80|,,,,,Normal]Indeedee||ChoiceScarf|PsychicSurge|dazzlinggleam,hypervoice,shadowball,expandingforce||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Necrozma|NecrozmaDawnWings|Leftovers|PrismArmor|moongeistbeam,moonlight,calmmind,photongeyser||85,,85,85,85,85|N|,0,,,,||76|,,,,,Dark",
   "curation": {

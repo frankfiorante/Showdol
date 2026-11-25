@@ -19,6 +19,251 @@
     "Sudowoodo",
     "Klefki"
   ],
+  "playerSets": [
+    {
+      "species": "Lycanroc",
+      "level": 86,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Sand Rush",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 247,
+        "def": 161,
+        "spa": 144,
+        "spd": 161,
+        "spe": 242
+      },
+      "moves": [
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Accelerock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Flamigo",
+      "level": 82,
+      "types": [
+        "Flying",
+        "Fighting"
+      ],
+      "ability": "Scrappy",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 236,
+        "def": 169,
+        "spa": 170,
+        "spd": 152,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Hippowdon",
+      "level": 82,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sand Stream",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 311,
+      "stats": {
+        "atk": 231,
+        "def": 241,
+        "spa": 159,
+        "spd": 165,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Wigglytuff",
+      "level": 96,
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "ability": "Competitive",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 424,
+      "stats": {
+        "atk": 189,
+        "def": 141,
+        "spa": 218,
+        "spd": 150,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Sudowoodo",
+      "level": 94,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Rock Head",
+      "item": "Leftovers",
+      "teraType": "Rock",
+      "maxhp": 284,
+      "stats": {
+        "atk": 241,
+        "def": 270,
+        "spa": 110,
+        "spd": 176,
+        "spe": 110
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Head Smash",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Klefki",
+      "level": 84,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Flying",
+      "maxhp": 233,
+      "stats": {
+        "atk": 139,
+        "def": 201,
+        "spa": 183,
+        "spd": 194,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Lycanroc||ChoiceBand|SandRush|psychicfangs,stoneedge,closecombat,accelerock||85,85,85,85,85,85|F|||86|,,,,,Fighting]Flamigo||LifeOrb|Scrappy|closecombat,swordsdance,bravebird,throatchop||85,85,85,85,85,85|F|||82|,,,,,Fighting]Hippowdon||Leftovers|SandStream|slackoff,stoneedge,curse,earthquake||85,85,85,85,85,85|F|||82|,,,,,Steel]Wigglytuff||Leftovers|Competitive|alluringvoice,thunderwave,fireblast,knockoff||85,85,85,85,85,85|M|||96|,,,,,Steel]Sudowoodo||Leftovers|RockHead|stealthrock,headsmash,suckerpunch,earthquake||85,85,85,85,85,85|M|||94|,,,,,Rock]Klefki||Leftovers|Prankster|dazzlinggleam,foulplay,spikes,thunderwave||85,,85,85,85,85|M|,0,,,,||84|,,,,,Flying",
   "ai": "Orthworm||Leftovers|EarthEater|bodypress,heavyslam,shedtail,stealthrock||85,85,85,85,85,85|F|||88|,,,,,Electric]Darkrai||LifeOrb|BadDreams|nastyplot,darkpulse,sludgebomb,hypnosis||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison]Glimmora||AirBalloon|ToxicDebris|sludgewave,powergem,spikes,earthpower||85,,85,85,85,85|M|,0,,,,||75|,,,,,Ground]Venomoth||HeavyDutyBoots|TintedLens|sleeppowder,quiverdance,bugbuzz,sludgewave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Bug]Houndoom||HeavyDutyBoots|FlashFire|darkpulse,sludgebomb,fireblast,suckerpunch||85,85,85,85,85,85|M|||87|,,,,,Poison]Basculegion||AssaultVest|Adaptability|flipturn,wavecrash,aquajet,shadowball||85,85,85,85,85,85|M|||80|,,,,,Water",
   "curation": {

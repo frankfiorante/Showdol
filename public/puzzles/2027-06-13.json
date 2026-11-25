@@ -19,6 +19,252 @@
     "Articuno-Galar",
     "Crawdaunt"
   ],
+  "playerSets": [
+    {
+      "species": "Dragapult",
+      "level": 77,
+      "types": [
+        "Dragon",
+        "Ghost"
+      ],
+      "ability": "Infiltrator",
+      "item": "Choice Specs",
+      "teraType": "Ghost",
+      "maxhp": 262,
+      "stats": {
+        "atk": 229,
+        "def": 160,
+        "spa": 199,
+        "spd": 160,
+        "spe": 263
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Chi-Yu",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "ability": "Beads of Ruin",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 211,
+      "stats": {
+        "atk": 128,
+        "def": 168,
+        "spa": 252,
+        "spd": 229,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sandslash",
+      "level": 89,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sand Rush",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 278,
+      "stats": {
+        "atk": 229,
+        "def": 247,
+        "spa": 131,
+        "spd": 149,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dunsparce",
+      "level": 86,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Serene Grace",
+      "item": "Eviolite",
+      "teraType": "Ghost",
+      "maxhp": 312,
+      "stats": {
+        "atk": 170,
+        "def": 170,
+        "spa": 161,
+        "spd": 161,
+        "spe": 127
+      },
+      "moves": [
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Articuno-Galar",
+      "level": 84,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Competitive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 288,
+      "stats": {
+        "atk": 147,
+        "def": 191,
+        "spa": 258,
+        "spd": 216,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Crawdaunt",
+      "level": 84,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Adaptability",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 243,
+      "stats": {
+        "atk": 250,
+        "def": 191,
+        "spa": 199,
+        "spd": 141,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Crabhammer",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Dragapult||ChoiceSpecs|Infiltrator|fireblast,dracometeor,uturn,shadowball||85,85,85,85,85,85|F|||77|,,,,,Ghost]Chi-Yu||HeavyDutyBoots|BeadsofRuin|darkpulse,willowisp,nastyplot,fireblast||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Sandslash||Leftovers|SandRush|rapidspin,earthquake,spikes,stoneedge||85,85,85,85,85,85|M|||89|,,,,,Water]Dunsparce||Eviolite|SereneGrace|coil,bodyslam,roost,earthquake||85,85,85,85,85,85|M|||86|,,,,,Ghost]Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|psyshock,hurricane,recover,calmmind||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Crawdaunt||LifeOrb|Adaptability|closecombat,knockoff,crabhammer,dragondance||85,85,85,85,85,85|F|||84|,,,,,Fighting",
   "ai": "Rayquaza||HeavyDutyBoots|AirLock|dragondance,outrage,dragonascent,earthquake||85,85,85,85,85,85|N|||72|,,,,,Flying]Skarmory||Leftovers|Sturdy|stealthrock,roost,bravebird,spikes||85,85,85,85,85,85|F|||80|,,,,,Dragon]Lumineon||LifeOrb|StormDrain|icebeam,encore,alluringvoice,hydropump||85,,85,85,85,85|F|,0,,,,||93|,,,,,Fairy]Hoopa||ChoiceScarf|Magician|shadowball,focusblast,psychic,trick||85,,85,85,85,85|N|,0,,,,||85|,,,,,Fighting]Meganium||Leftovers|Overgrow|swordsdance,knockoff,earthquake,petalblizzard||85,85,85,85,85,85|M|||90|,,,,,Steel]Sandaconda||Leftovers|ShedSkin|rest,stoneedge,glare,earthquake||85,85,85,85,85,85|M|||84|,,,,,Water",
   "curation": {

@@ -19,6 +19,252 @@
     "Gardevoir",
     "Furret"
   ],
+  "playerSets": [
+    {
+      "species": "Annihilape",
+      "level": 76,
+      "types": [
+        "Fighting",
+        "Ghost"
+      ],
+      "ability": "Defiant",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 292,
+      "stats": {
+        "atk": 219,
+        "def": 166,
+        "spa": 120,
+        "spd": 181,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Rage Fist",
+          "type": "Ghost",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Gouging Fire",
+      "level": 74,
+      "types": [
+        "Fire",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fairy",
+      "maxhp": 277,
+      "stats": {
+        "atk": 213,
+        "def": 222,
+        "spa": 139,
+        "spd": 181,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Whiscash",
+      "level": 88,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Oblivious",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 337,
+      "stats": {
+        "atk": 188,
+        "def": 179,
+        "spa": 184,
+        "spd": 175,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Oinkologne-F",
+      "level": 91,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Thick Fat",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 357,
+      "stats": {
+        "atk": 216,
+        "def": 179,
+        "spa": 159,
+        "spd": 216,
+        "spe": 170
+      },
+      "moves": [
+        {
+          "name": "Lash Out",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Gardevoir",
+      "level": 83,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "ability": "Trace",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 249,
+      "stats": {
+        "atk": 112,
+        "def": 156,
+        "spa": 255,
+        "spd": 239,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Furret",
+      "level": 94,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Frisk",
+      "item": "Choice Band",
+      "teraType": "Normal",
+      "maxhp": 312,
+      "stats": {
+        "atk": 196,
+        "def": 174,
+        "spa": 138,
+        "spd": 157,
+        "spe": 223
+      },
+      "moves": [
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Annihilape||Leftovers|Defiant|drainpunch,taunt,bulkup,ragefist||85,85,85,85,85,85|M|||76|,,,,,Fairy]Gouging Fire||HeavyDutyBoots|Protosynthesis|morningsun,heatcrash,outrage,dragondance||85,85,85,85,85,85|N|||74|,,,,,Fairy]Whiscash||LifeOrb|Oblivious|stoneedge,liquidation,earthquake,dragondance||85,85,85,85,85,85|M|||88|,,,,,Ground]Oinkologne|OinkologneF|Leftovers|ThickFat|lashout,curse,doubleedge,highhorsepower||85,85,85,85,85,85|F|||91|,,,,,Ground]Gardevoir||LifeOrb|Trace|focusblast,calmmind,psyshock,moonblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fighting]Furret||ChoiceBand|Frisk|doubleedge,knockoff,trick,uturn||85,85,85,85,85,85|M|||94|,,,,,Normal",
   "ai": "Hypno||Leftovers|Insomnia|toxic,encore,psychicnoise,knockoff||85,85,85,85,85,85|F|||95|,,,,,Dark]Diancie||AssaultVest|ClearBody|earthpower,moonblast,diamondstorm,bodypress||85,85,85,85,85,85|N|||82|,,,,,Fighting]Chesnaught||Leftovers|Bulletproof|irondefense,bodypress,trailblaze,synthesis||85,85,85,85,85,85|F|||84|,,,,,Steel]Altaria||HeavyDutyBoots|NaturalCure|bravebird,dragondance,earthquake,roost||85,85,85,85,85,85|F|||89|,,,,,Steel]Poliwrath||LifeOrb|SwiftSwim|knockoff,liquidation,raindance,closecombat||85,85,85,85,85,85|F|||88|,,,,,Dark]Lanturn||Leftovers|VoltAbsorb|thunderwave,thunderbolt,icebeam,scald||85,,85,85,85,85|M|,0,,,,||89|,,,,,Flying",
   "curation": {

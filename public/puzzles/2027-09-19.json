@@ -19,6 +19,251 @@
     "Hariyama",
     "Deoxys-Speed"
   ],
+  "playerSets": [
+    {
+      "species": "Rillaboom",
+      "level": 79,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Grassy Surge",
+      "item": "Choice Band",
+      "teraType": "Grass",
+      "maxhp": 288,
+      "stats": {
+        "atk": 243,
+        "def": 188,
+        "spa": 140,
+        "spd": 156,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Grassy Glide",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Lapras",
+      "level": 87,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Water Absorb",
+      "item": "Choice Specs",
+      "teraType": "Ice",
+      "maxhp": 367,
+      "stats": {
+        "atk": 152,
+        "def": 189,
+        "spa": 198,
+        "spd": 215,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Sparkling Aria",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Salazzle",
+      "level": 83,
+      "types": [
+        "Poison",
+        "Fire"
+      ],
+      "ability": "Corrosion",
+      "item": "Leftovers",
+      "teraType": "Flying",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 147,
+        "spa": 232,
+        "spd": 147,
+        "spe": 242
+      },
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Pawmot",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Fighting"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 243,
+      "stats": {
+        "atk": 230,
+        "def": 158,
+        "spa": 158,
+        "spd": 142,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Revival Blessing",
+          "type": "Normal",
+          "pp": 1
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Double Shock",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Hariyama",
+      "level": 87,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Thick Fat",
+      "item": "Assault Vest",
+      "teraType": "Steel",
+      "maxhp": 392,
+      "stats": {
+        "atk": 259,
+        "def": 154,
+        "spa": 119,
+        "spd": 154,
+        "spe": 137
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Headlong Rush",
+          "type": "Ground",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Deoxys-Speed",
+      "level": 82,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 216,
+      "stats": {
+        "atk": 203,
+        "def": 195,
+        "spa": 203,
+        "spd": 195,
+        "spe": 342
+      },
+      "moves": [
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psycho Boost",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Rillaboom||ChoiceBand|GrassySurge|uturn,knockoff,grassyglide,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Lapras||ChoiceSpecs|WaterAbsorb|icebeam,freezedry,hydropump,sparklingaria||81,,85,85,85,85|F|,0,,,,||87|,,,,,Ice]Salazzle||Leftovers|Corrosion|toxic,protect,flamethrower,substitute||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Pawmot||LifeOrb|VoltAbsorb|revivalblessing,closecombat,doubleshock,knockoff||85,85,85,85,85,85|M|||80|,,,,,Electric]Hariyama||AssaultVest|ThickFat|knockoff,heavyslam,headlongrush,closecombat||85,85,85,85,85,85|F|||87|,,,,,Steel]Deoxys|DeoxysSpeed|Leftovers|Pressure|taunt,psychoboost,knockoff,stealthrock||85,85,85,85,85,85|N|||82|,,,,,Dark",
   "ai": "Galvantula||FocusSash|CompoundEyes|stickyweb,energyball,thunder,bugbuzz||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Illumise||HeavyDutyBoots|Prankster|thunderwave,roost,bugbuzz,encore||85,,85,85,85,85|F|,0,,,,||91|,,,,,Water]Gengar||LifeOrb|CursedBody|shadowball,sludgewave,encore,toxicspikes||85,,85,85,85,85|F|,0,,,,||81|,,,,,Ghost]Mewtwo||LifeOrb|Unnerve|aurasphere,nastyplot,recover,psystrike||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic]Slowking||HeavyDutyBoots|Regenerator|slackoff,psychicnoise,chillyreception,scald||85,,85,85,85,85|F|,0,,,,||88|,,,,,Dragon]Salamence||HeavyDutyBoots|Intimidate|roost,dualwingbeat,outrage,dragondance||85,85,85,85,85,85|M|||77|,,,,,Steel",
   "curation": {

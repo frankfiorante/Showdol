@@ -19,6 +19,252 @@
     "Reshiram",
     "Braviary"
   ],
+  "playerSets": [
+    {
+      "species": "Appletun",
+      "level": 92,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Thick Fat",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 352,
+      "stats": {
+        "atk": 161,
+        "def": 200,
+        "spa": 236,
+        "spd": 200,
+        "spe": 108
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Apple Acid",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Arcanine",
+      "level": 84,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Normal",
+      "maxhp": 288,
+      "stats": {
+        "atk": 233,
+        "def": 183,
+        "spa": 216,
+        "spd": 183,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Terrakion",
+      "level": 79,
+      "types": [
+        "Rock",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 273,
+      "stats": {
+        "atk": 249,
+        "def": 188,
+        "spa": 159,
+        "spd": 188,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Komala",
+      "level": 87,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Comatose",
+      "item": "Assault Vest",
+      "teraType": "Ghost",
+      "maxhp": 255,
+      "stats": {
+        "atk": 250,
+        "def": 163,
+        "spa": 180,
+        "spd": 215,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Reshiram",
+      "level": 76,
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "ability": "Turboblaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 277,
+      "stats": {
+        "atk": 226,
+        "def": 196,
+        "spa": 272,
+        "spd": 226,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Braviary",
+      "level": 85,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Defiant",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 309,
+      "stats": {
+        "atk": 258,
+        "def": 176,
+        "spa": 146,
+        "spd": 176,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Appletun||Leftovers|ThickFat|recover,appleacid,dracometeor,leechseed||85,,85,85,85,85|M|,0,,,,||92|,,,,,Steel]Arcanine||HeavyDutyBoots|Intimidate|flareblitz,closecombat,morningsun,extremespeed||85,85,85,85,85,85|F|||84|,,,,,Normal]Terrakion||LifeOrb|Justified|earthquake,closecombat,swordsdance,stoneedge||85,85,85,85,85,85|N|||79|,,,,,Fighting]Komala||AssaultVest|Comatose|rapidspin,knockoff,bodyslam,uturn||85,85,85,85,85,85|F|||87|,,,,,Ghost]Reshiram||HeavyDutyBoots|Turboblaze|outrage,flareblitz,stoneedge,dragondance||85,85,85,85,85,85|N|||76|,,,,,Fire]Braviary||HeavyDutyBoots|Defiant|bulkup,closecombat,bravebird,roost||85,85,85,85,85,85|M|||85|,,,,,Fighting",
   "ai": "Mimikyu||LifeOrb|Disguise|drainpunch,shadowsneak,playrough,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Fairy]Ninetales|NinetalesAlola|LightClay|SnowWarning|auroraveil,blizzard,moonblast,freezedry||85,,85,85,85,85|F|,0,,,,||78|,,,,,Steel]Weavile||ChoiceBand|Pickpocket|knockoff,tripleaxel,lowkick,iceshard||81,85,85,85,85,85|F|||79|,,,,,Dark]Regidrago||ChoiceScarf|DragonsMaw|dracometeor,dragonenergy,earthquake,outrage||85,85,85,85,85,85|N|||77|,,,,,Dragon]Honchkrow||HeavyDutyBoots|Moxie|suckerpunch,uturn,heatwave,bravebird||85,85,85,85,85,85|F|||86|,,,,,Dark]Brambleghast||Leftovers|WindRider|spikes,strengthsap,poltergeist,powerwhip||85,85,85,85,85,85|F|||88|,,,,,Steel",
   "curation": {

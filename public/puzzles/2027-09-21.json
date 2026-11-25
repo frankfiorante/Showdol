@@ -19,6 +19,253 @@
     "Pawmot",
     "Gumshoos"
   ],
+  "playerSets": [
+    {
+      "species": "Scream Tail",
+      "level": 84,
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 330,
+      "stats": {
+        "atk": 157,
+        "def": 215,
+        "spa": 157,
+        "spd": 241,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Masquerain",
+      "level": 87,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 264,
+      "stats": {
+        "atk": 109,
+        "def": 158,
+        "spa": 224,
+        "spd": 192,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Qwilfish",
+      "level": 86,
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 252,
+      "stats": {
+        "atk": 213,
+        "def": 195,
+        "spa": 144,
+        "spd": 144,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Heatran",
+      "level": 79,
+      "types": [
+        "Fire",
+        "Steel"
+      ],
+      "ability": "Flash Fire",
+      "item": "Air Balloon",
+      "teraType": "Grass",
+      "maxhp": 273,
+      "stats": {
+        "atk": 188,
+        "def": 213,
+        "spa": 251,
+        "spd": 213,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Lava Plume",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Pawmot",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Fighting"
+      ],
+      "ability": "Iron Fist",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 243,
+      "stats": {
+        "atk": 230,
+        "def": 158,
+        "spa": 158,
+        "spd": 142,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Revival Blessing",
+          "type": "Normal",
+          "pp": 1
+        },
+        {
+          "name": "Double Shock",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Gumshoos",
+      "level": 95,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Adaptability",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 321,
+      "stats": {
+        "atk": 263,
+        "def": 168,
+        "spa": 158,
+        "spd": 168,
+        "spe": 139
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Scream Tail||Leftovers|Protosynthesis|thunderwave,playrough,protect,wish||85,85,85,85,85,85|N|||84|,,,,,Steel]Masquerain||HeavyDutyBoots|Intimidate|quiverdance,hydropump,bugbuzz,hurricane||85,,85,85,85,85|M|,0,,,,||87|,,,,,Water]Qwilfish||HeavyDutyBoots|Intimidate|gunkshot,toxicspikes,painsplit,flipturn||85,85,85,85,85,85|F|||86|,,,,,Dark]Heatran||AirBalloon|FlashFire|earthpower,heavyslam,stealthrock,lavaplume||85,85,85,85,85,85|M|||79|,,,,,Grass]Pawmot||LifeOrb|IronFist|revivalblessing,doubleshock,closecombat,icepunch||85,85,85,85,85,85|M|||80|,,,,,Electric]Gumshoos||ChoiceBand|Adaptability|earthquake,doubleedge,knockoff,uturn||85,85,85,85,85,85|F|||95|,,,,,Ground",
   "ai": "Cacturne||LifeOrb|WaterAbsorb|suckerpunch,toxicspikes,leafstorm,knockoff||85,85,85,85,85,85|F|||92|,,,,,Dark]Sunflora||ChoiceSpecs|Chlorophyll|leafstorm,dazzlinggleam,sludgebomb,earthpower||85,,85,85,85,85|M|,0,,,,|||,,,,,Ground]Cramorant||HeavyDutyBoots|GulpMissile|roost,defog,bravebird,surf||85,85,85,85,85,85|M|||86|,,,,,Ground]Sneasler||ChoiceBand|PoisonTouch|closecombat,throatchop,uturn,direclaw||85,85,85,85,85,85|F|||74|,,,,,Dark]Farigiraf||Leftovers|SapSipper|protect,psychicnoise,wish,bodyslam||85,85,85,85,85,85|F|||89|,,,,,Fairy]Raikou||Leftovers|Pressure|calmmind,scald,thunderbolt,shadowball||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water",
   "curation": {

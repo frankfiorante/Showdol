@@ -19,6 +19,252 @@
     "Scyther",
     "Manaphy"
   ],
+  "playerSets": [
+    {
+      "species": "Klefki",
+      "level": 84,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 233,
+      "stats": {
+        "atk": 183,
+        "def": 201,
+        "spa": 183,
+        "spd": 194,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Magnet Rise",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Donphan",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sturdy",
+      "item": "Assault Vest",
+      "teraType": "Steel",
+      "maxhp": 288,
+      "stats": {
+        "atk": 250,
+        "def": 250,
+        "spa": 149,
+        "spd": 149,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Delphox",
+      "level": 84,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ability": "Blaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 263,
+      "stats": {
+        "atk": 120,
+        "def": 169,
+        "spa": 240,
+        "spd": 216,
+        "spe": 223
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Skeledirge",
+      "level": 79,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "ability": "Unaware",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 294,
+      "stats": {
+        "atk": 164,
+        "def": 204,
+        "spa": 219,
+        "spd": 164,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Flame Charge",
+          "type": "Fire",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Torch Song",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Scyther",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Technician",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 249,
+      "stats": {
+        "atk": 228,
+        "def": 178,
+        "spa": 137,
+        "spd": 178,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Dual Wingbeat",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Manaphy",
+      "level": 78,
+      "types": [
+        "Water"
+      ],
+      "ability": "Hydration",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 284,
+      "stats": {
+        "atk": 161,
+        "def": 201,
+        "spa": 201,
+        "spd": 201,
+        "spe": 201
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Tail Glow",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Klefki||Leftovers|Prankster|thunderwave,magnetrise,playrough,spikes||85,85,85,85,85,85|M|||84|,,,,,Water]Donphan||AssaultVest|Sturdy|knockoff,rapidspin,earthquake,icespinner||85,85,85,85,85,85|M|||84|,,,,,Steel]Delphox||HeavyDutyBoots|Blaze|nastyplot,grassknot,fireblast,psyshock||85,,85,85,85,85|M|,0,,,,||84|,,,,,Grass]Skeledirge||HeavyDutyBoots|Unaware|flamecharge,shadowball,slackoff,torchsong||85,85,85,85,85,85|F|||79|,,,,,Water]Scyther||HeavyDutyBoots|Technician|closecombat,defog,uturn,dualwingbeat||85,85,85,85,85,85|F|||82|,,,,,Fighting]Manaphy||Leftovers|Hydration|hydropump,energyball,icebeam,tailglow||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water",
   "ai": "Lumineon||HeavyDutyBoots|StormDrain|hydropump,icebeam,uturn,encore||85,85,85,85,85,85|F|||93|,,,,,Dragon]Crawdaunt||ChoiceBand|Adaptability|knockoff,closecombat,crabhammer,aquajet||85,85,85,85,85,85|M|||84|,,,,,Fighting]Archaludon||AssaultVest|Stamina|flashcannon,bodypress,thunderbolt,dracometeor||85,,85,85,85,85|M|,0,,,,||77|,,,,,Fighting]Honchkrow||HeavyDutyBoots|Moxie|bravebird,suckerpunch,uturn,heatwave||85,85,85,85,85,85|M|||86|,,,,,Dark]Torkoal||HeavyDutyBoots|Drought|solarbeam,rapidspin,stealthrock,lavaplume||85,85,85,85,85,85|F|||88|,,,,,Grass]Glimmora||AirBalloon|ToxicDebris|spikes,powergem,earthpower,sludgewave||85,,85,85,85,85|F|,0,,,,||75|,,,,,Ground",
   "curation": {

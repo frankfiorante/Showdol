@@ -19,6 +19,252 @@
     "Quagsire",
     "Comfey"
   ],
+  "playerSets": [
+    {
+      "species": "Keldeo-Resolute",
+      "level": 79,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 273,
+      "stats": {
+        "atk": 118,
+        "def": 188,
+        "spa": 249,
+        "spd": 188,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Secret Sword",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Entei",
+      "level": 78,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Inner Focus",
+      "item": "Choice Band",
+      "teraType": "Normal",
+      "maxhp": 307,
+      "stats": {
+        "atk": 224,
+        "def": 178,
+        "spa": 185,
+        "spd": 162,
+        "spe": 201
+      },
+      "moves": [
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Sacred Fire",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Amoonguss",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Regenerator",
+      "item": "Rocky Helmet",
+      "teraType": "Water",
+      "maxhp": 321,
+      "stats": {
+        "atk": 187,
+        "def": 162,
+        "spa": 187,
+        "spd": 178,
+        "spe": 96
+      },
+      "moves": [
+        {
+          "name": "Stomping Tantrum",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Fezandipiti",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Fairy"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 196,
+        "def": 182,
+        "spa": 162,
+        "spd": 252,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Quagsire",
+      "level": 84,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Unaware",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 297,
+      "stats": {
+        "atk": 191,
+        "def": 191,
+        "spa": 157,
+        "spd": 157,
+        "spe": 107
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Comfey",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Triage",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 225,
+      "stats": {
+        "atk": 93,
+        "def": 202,
+        "spa": 188,
+        "spd": 236,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Stored Power",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Keldeo|KeldeoResolute|Leftovers|Justified|surf,substitute,calmmind,secretsword||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel]Entei||ChoiceBand|InnerFocus|flareblitz,sacredfire,stoneedge,extremespeed||85,85,85,85,85,85|N|||78|,,,,,Normal]Amoonguss||RockyHelmet|Regenerator|stompingtantrum,gigadrain,spore,sludgebomb||85,85,85,85,85,85|M|||82|,,,,,Water]Fezandipiti||Leftovers|ToxicChain|terablast,gunkshot,swordsdance,playrough||85,85,85,85,85,85|M|||82|,,,,,Ground]Quagsire||Leftovers|Unaware|recover,earthquake,spikes,toxic||85,85,85,85,85,85|M|||84|,,,,,Fairy]Comfey||Leftovers|Triage|calmmind,gigadrain,storedpower,drainingkiss||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison",
   "ai": "Basculegion||AssaultVest|Adaptability|shadowball,flipturn,aquajet,wavecrash||85,85,85,85,85,85|M|||80|,,,,,Water]Hitmonchan||LifeOrb|IronFist|machpunch,knockoff,swordsdance,drainpunch||85,85,85,85,85,85|M|||87|,,,,,Fighting]Torterra||LoadedDice|Overgrow|headlongrush,bulletseed,shellsmash,rockblast||85,85,85,85,85,85|M|||78|,,,,,Ground]Rotom|RotomFrost|HeavyDutyBoots|Levitate|willowisp,nastyplot,thunderbolt,blizzard||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric]Squawkabilly|SquawkabillyWhite|ChoiceBand|Hustle|bravebird,foulplay,quickattack,doubleedge||85,85,85,85,85,85|M|||89|,,,,,Flying]Ambipom||SilkScarf|Technician|uturn,fakeout,doubleedge,knockoff||85,85,85,85,85,85|F|||84|,,,,,Normal",
   "curation": {

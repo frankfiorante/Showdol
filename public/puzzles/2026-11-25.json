@@ -19,6 +19,250 @@
     "Klawf",
     "Salazzle"
   ],
+  "playerSets": [
+    {
+      "species": "Eiscue",
+      "level": 88,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Ice Face",
+      "item": "Sitrus Berry",
+      "teraType": "Electric",
+      "maxhp": 274,
+      "stats": {
+        "atk": 191,
+        "def": 244,
+        "spa": 165,
+        "spd": 209,
+        "spe": 138
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Belly Drum",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Eelektross",
+      "level": 87,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 290,
+      "stats": {
+        "atk": 250,
+        "def": 189,
+        "spa": 232,
+        "spd": 189,
+        "spe": 137
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Squawkabilly-Blue",
+      "level": 85,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Guts",
+      "item": "Flame Orb",
+      "teraType": "Normal",
+      "maxhp": 278,
+      "stats": {
+        "atk": 212,
+        "def": 135,
+        "spa": 125,
+        "spd": 135,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Smeargle",
+      "level": 95,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Own Tempo",
+      "item": "Focus Sash",
+      "teraType": "Ghost",
+      "maxhp": 258,
+      "stats": {
+        "atk": 92,
+        "def": 120,
+        "spa": 92,
+        "spd": 139,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Ceaseless Edge",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Whirlwind",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Klawf",
+      "level": 90,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Regenerator",
+      "item": "Choice Scarf",
+      "teraType": "Rock",
+      "maxhp": 272,
+      "stats": {
+        "atk": 231,
+        "def": 258,
+        "spa": 114,
+        "spd": 150,
+        "spe": 186
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Crabhammer",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Salazzle",
+      "level": 83,
+      "types": [
+        "Poison",
+        "Fire"
+      ],
+      "ability": "Corrosion",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 147,
+        "spa": 232,
+        "spd": 147,
+        "spe": 242
+      },
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Eiscue||SitrusBerry|IceFace|terablast,icespinner,bellydrum,liquidation||81,85,85,85,85,85|F|||88|,,,,,Electric]Eelektross||Leftovers|Levitate|knockoff,supercellslam,coil,drainpunch||85,85,85,85,85,85|F|||87|,,,,,Fighting]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,facade,protect,bravebird||85,85,85,85,85,85|F|||85|,,,,,Normal]Smeargle||FocusSash|OwnTempo|ceaselessedge,whirlwind,stickyweb,spore||85,85,85,85,85,85|M|||95|,,,,,Ghost]Klawf||ChoiceScarf|Regenerator|knockoff,highhorsepower,stoneedge,crabhammer||85,85,85,85,85,85|M|||90|,,,,,Rock]Salazzle||Leftovers|Corrosion|toxic,substitute,flamethrower,protect||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass",
   "ai": "Regidrago||ChoiceScarf|DragonsMaw|outrage,earthquake,dragonenergy,dracometeor||85,85,85,85,85,85|N|||77|,,,,,Dragon]Cloyster||WhiteHerb|SkillLink|hydropump,rockblast,iciclespear,shellsmash||85,85,85,85,85,85|M|||80|,,,,,Rock]Annihilape||Leftovers|Defiant|drainpunch,bulkup,taunt,ragefist||85,85,85,85,85,85|F|||76|,,,,,Steel]Grimmsnarl||Leftovers|Prankster|suckerpunch,thunderwave,spiritbreak,taunt||85,85,85,85,85,85|M|||83|,,,,,Steel]Drednaw||WhiteHerb|StrongJaw|liquidation,shellsmash,crunch,stoneedge||85,85,85,85,85,85|F|||81|,,,,,Dark]Klefki||Leftovers|Prankster|foulplay,spikes,dazzlinggleam,thunderwave||85,,85,85,85,85|M|,0,,,,||84|,,,,,Water",
   "curation": {

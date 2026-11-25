@@ -19,6 +19,252 @@
     "Palkia-Origin",
     "Hypno"
   ],
+  "playerSets": [
+    {
+      "species": "Ludicolo",
+      "level": 90,
+      "types": [
+        "Water",
+        "Grass"
+      ],
+      "ability": "Swift Swim",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 290,
+      "stats": {
+        "atk": 131,
+        "def": 177,
+        "spa": 213,
+        "spd": 231,
+        "spe": 177
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Rain Dance",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Florges-Yellow",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Flower Veil",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 271,
+      "stats": {
+        "atk": 115,
+        "def": 164,
+        "spa": 239,
+        "spd": 311,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Salamence",
+      "level": 77,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "ability": "Moxie",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 273,
+      "stats": {
+        "atk": 252,
+        "def": 168,
+        "spa": 214,
+        "spd": 168,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Dual Wingbeat",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Vikavolt",
+      "level": 83,
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 263,
+      "stats": {
+        "atk": 121,
+        "def": 197,
+        "spa": 288,
+        "spd": 172,
+        "spe": 119
+      },
+      "moves": [
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Palkia-Origin",
+      "level": 72,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Lustrous Globe",
+      "teraType": "Fire",
+      "maxhp": 249,
+      "stats": {
+        "atk": 149,
+        "def": 186,
+        "spa": 258,
+        "spd": 215,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Spacial Rend",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Hypno",
+      "level": 95,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Insomnia",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 315,
+      "stats": {
+        "atk": 143,
+        "def": 187,
+        "spa": 193,
+        "spd": 272,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Ludicolo||LifeOrb|SwiftSwim|icebeam,hydropump,gigadrain,raindance||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Florges|FlorgesYellow|Leftovers|FlowerVeil|moonblast,terablast,calmmind,synthesis||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground]Salamence||HeavyDutyBoots|Moxie|outrage,dragondance,roost,dualwingbeat||85,85,85,85,85,85|M|||77|,,,,,Dragon]Vikavolt||HeavyDutyBoots|Levitate|stickyweb,bugbuzz,discharge,voltswitch||85,,85,85,85,85|M|,0,,,,||83|,,,,,Electric]Palkia|PalkiaOrigin|LustrousGlobe|Pressure|fireblast,hydropump,spacialrend,thunderwave||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire]Hypno||Leftovers|Insomnia|psychicnoise,toxic,protect,focusblast||85,,85,85,85,85|F|,0,,,,||95|,,,,,Steel",
   "ai": "Regigigas||Leftovers|SlowStart|knockoff,bodyslam,substitute,protect||85,85,85,85,85,85|N|||84|,,,,,Poison]Rhydon||Eviolite|LightningRod|stoneedge,earthquake,megahorn,stealthrock||85,85,85,85,85,85|F|||85|,,,,,Fairy]Sableye||Leftovers|Prankster|encore,recover,thunderwave,knockoff||85,85,85,85,85,85|M|||87|,,,,,Steel]Scovillain||HeavyDutyBoots|Chlorophyll|fireblast,sunnyday,energyball,stompingtantrum||85,85,85,85,85,85|M|||91|,,,,,Fire]Girafarig||Eviolite|SapSipper|thunderbolt,nastyplot,shadowball,psychic||85,,85,85,85,85|F|,0,,,,||89|,,,,,Electric]Rillaboom||LifeOrb|GrassySurge|swordsdance,woodhammer,grassyglide,knockoff||85,85,85,85,85,85|M|||79|,,,,,Grass",
   "curation": {

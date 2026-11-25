@@ -19,6 +19,252 @@
     "Pawmot",
     "Azelf"
   ],
+  "playerSets": [
+    {
+      "species": "Minior-Green",
+      "level": 79,
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "ability": "Shields Down",
+      "item": "White Herb",
+      "teraType": "Water",
+      "maxhp": 224,
+      "stats": {
+        "atk": 204,
+        "def": 140,
+        "spa": 204,
+        "spd": 140,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Power Gem",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Drifblim",
+      "level": 86,
+      "types": [
+        "Ghost",
+        "Flying"
+      ],
+      "ability": "Aftermath",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 398,
+      "stats": {
+        "atk": 142,
+        "def": 125,
+        "spa": 204,
+        "spd": 142,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Scream Tail",
+      "level": 84,
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 330,
+      "stats": {
+        "atk": 157,
+        "def": 215,
+        "spa": 157,
+        "spd": 241,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Pikachu-Sinnoh",
+      "level": 93,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Lightning Rod",
+      "item": "Light Ball",
+      "teraType": "Water",
+      "maxhp": 216,
+      "stats": {
+        "atk": 155,
+        "def": 127,
+        "spa": 146,
+        "spd": 146,
+        "spe": 220
+      },
+      "moves": [
+        {
+          "name": "Volt Tackle",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Fake Out",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Pawmot",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Fighting"
+      ],
+      "ability": "Iron Fist",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 243,
+      "stats": {
+        "atk": 230,
+        "def": 158,
+        "spa": 158,
+        "spd": 142,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Double Shock",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Revival Blessing",
+          "type": "Normal",
+          "pp": 1
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Azelf",
+      "level": 82,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 257,
+      "stats": {
+        "atk": 252,
+        "def": 162,
+        "spa": 252,
+        "spd": 162,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Minior|MiniorGreen|WhiteHerb|ShieldsDown|shellsmash,earthquake,acrobatics,powergem||85,85,85,85,85,85|N|||79|,,,,,Water]Drifblim||HeavyDutyBoots|Aftermath|defog,strengthsap,shadowball,airslash||85,,85,85,85,85|F|,0,,,,||86|,,,,,Steel]Scream Tail||Leftovers|Protosynthesis|wish,encore,protect,playrough||85,85,85,85,85,85|N|||84|,,,,,Poison]Pikachu|PikachuSinnoh|LightBall|LightningRod|volttackle,fakeout,knockoff,surf||85,85,85,85,85,85|F|||93|,,,,,Water]Pawmot||LifeOrb|IronFist|doubleshock,revivalblessing,closecombat,icepunch||85,85,85,85,85,85|F|||80|,,,,,Electric]Azelf||LifeOrb|Levitate|knockoff,fireblast,stealthrock,psychic||85,85,85,85,85,85|N|||82|,,,,,Dark",
   "ai": "Electivire||LifeOrb|MotorDrive|icepunch,earthquake,bulkup,supercellslam||85,85,85,85,85,85|M|||84|,,,,,Ground]Bronzong||Leftovers|Levitate|bodypress,irondefense,ironhead,psychicnoise||85,85,85,85,85,85|N|||88|,,,,,Fighting]Glimmora||AirBalloon|ToxicDebris|powergem,earthpower,sludgewave,stealthrock||85,,85,85,85,85|F|,0,,,,||75|,,,,,Ground]Latios||ChoiceSpecs|Levitate|dracometeor,flipturn,lusterpurge,aurasphere||85,85,85,85,85,85|M|||78|,,,,,Psychic]Swanna||HeavyDutyBoots|Hydration|bravebird,hydropump,defog,roost||85,85,85,85,85,85|F|||89|,,,,,Ground]Alcremie|AlcremieRubySwirl|Leftovers|AromaVeil|terablast,alluringvoice,recover,calmmind||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground",
   "curation": {

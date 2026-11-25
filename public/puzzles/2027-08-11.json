@@ -19,6 +19,249 @@
     "Klawf",
     "Polteageist"
   ],
+  "playerSets": [
+    {
+      "species": "Landorus-Therian",
+      "level": 76,
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 260,
+      "stats": {
+        "atk": 264,
+        "def": 181,
+        "spa": 204,
+        "spd": 166,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Politoed",
+      "level": 88,
+      "types": [
+        "Water"
+      ],
+      "ability": "Drizzle",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 302,
+      "stats": {
+        "atk": 137,
+        "def": 182,
+        "spa": 209,
+        "spd": 226,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Haze",
+          "type": "Ice",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Arceus-Electric",
+      "level": 70,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Multitype",
+      "item": "Zap Plate",
+      "teraType": "Electric",
+      "maxhp": 284,
+      "stats": {
+        "atk": 173,
+        "def": 209,
+        "spa": 209,
+        "spd": 209,
+        "spe": 209
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Judgment",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Beartic",
+      "level": 91,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Slush Rush",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 321,
+      "stats": {
+        "atk": 288,
+        "def": 197,
+        "spa": 179,
+        "spd": 197,
+        "spe": 143
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Snowscape",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Klawf",
+      "level": 90,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Regenerator",
+      "item": "Choice Scarf",
+      "teraType": "Rock",
+      "maxhp": 272,
+      "stats": {
+        "atk": 231,
+        "def": 258,
+        "spa": 114,
+        "spd": 150,
+        "spe": 186
+      },
+      "moves": [
+        {
+          "name": "Crabhammer",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Polteageist",
+      "level": 78,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Cursed Body",
+      "item": "White Herb",
+      "teraType": "Dark",
+      "maxhp": 222,
+      "stats": {
+        "atk": 106,
+        "def": 146,
+        "spa": 254,
+        "spd": 223,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Stored Power",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Landorus|LandorusTherian|Leftovers|Intimidate|earthquake,stealthrock,stoneedge,taunt||85,85,85,85,85,85|M|||76|,,,,,Water]Politoed||Leftovers|Drizzle|encore,hydropump,icebeam,haze||85,,85,85,85,85|M|,0,,,,||88|,,,,,Water]Arceus|ArceusElectric|ZapPlate|Multitype|icebeam,calmmind,judgment,recover||85,,85,85,85,85|N|,0,,,,||70|,,,,,Electric]Beartic||HeavyDutyBoots|SlushRush|swordsdance,iciclecrash,snowscape,closecombat||85,85,85,85,85,85|F|||91|,,,,,Fighting]Klawf||ChoiceScarf|Regenerator|crabhammer,knockoff,stoneedge,highhorsepower||85,85,85,85,85,85|M|||90|,,,,,Rock]Polteageist||WhiteHerb|CursedBody|storedpower,strengthsap,shadowball,shellsmash||85,,85,85,85,85|N|,0,,,,||78|,,,,,Dark",
   "ai": "Great Tusk||AssaultVest|Protosynthesis|stoneedge,headlongrush,closecombat,rapidspin||85,85,85,85,85,85|N|||77|,,,,,Ground]Dugtrio||ChoiceBand|ArenaTrap|throatchop,stoneedge,suckerpunch,earthquake||85,85,85,85,85,85|M|||84|,,,,,Ground]Iron Valiant||LifeOrb|QuarkDrive|closecombat,moonblast,knockoff,encore||85,85,85,85,85,85|N|||78|,,,,,Dark]Azumarill||SitrusBerry|HugePower|playrough,aquajet,bellydrum,liquidation||85,85,85,85,85,85|F|||82|,,,,,Water]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|thunderbolt,surf,psychic,alluringvoice||85,,85,85,85,85|M|,0,,,,||87|,,,,,Fairy]Froslass||WideLens|CursedBody|tripleaxel,poltergeist,spikes,taunt||81,85,85,85,85,85|F|||87|,,,,,Ice",
   "curation": {

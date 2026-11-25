@@ -19,6 +19,250 @@
     "Shaymin",
     "Arceus-Steel"
   ],
+  "playerSets": [
+    {
+      "species": "Hitmontop",
+      "level": 88,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Intimidate",
+      "item": "Assault Vest",
+      "teraType": "Steel",
+      "maxhp": 231,
+      "stats": {
+        "atk": 217,
+        "def": 217,
+        "spa": 112,
+        "spd": 244,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    },
+    {
+      "species": "Thundurus-Therian",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 258,
+      "stats": {
+        "atk": 173,
+        "def": 158,
+        "spa": 278,
+        "spd": 174,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Pecharunt",
+      "level": 77,
+      "types": [
+        "Poison",
+        "Ghost"
+      ],
+      "ability": "Poison Puppeteer",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 262,
+      "stats": {
+        "atk": 140,
+        "def": 291,
+        "spa": 180,
+        "spd": 180,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Malignant Chain",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Gumshoos",
+      "level": 95,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Stakeout",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 321,
+      "stats": {
+        "atk": 263,
+        "def": 168,
+        "spa": 158,
+        "spd": 168,
+        "spe": 139
+      },
+      "moves": [
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Shaymin",
+      "level": 82,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Natural Cure",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 298,
+      "stats": {
+        "atk": 169,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Seed Flare",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Arceus-Steel",
+      "level": 70,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Multitype",
+      "item": "Iron Plate",
+      "teraType": "Ghost",
+      "maxhp": 284,
+      "stats": {
+        "atk": 173,
+        "def": 209,
+        "spa": 209,
+        "spd": 209,
+        "spe": 209
+      },
+      "moves": [
+        {
+          "name": "Judgment",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Hitmontop||AssaultVest|Intimidate|stoneedge,closecombat,suckerpunch,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Steel]Thundurus|ThundurusTherian|HeavyDutyBoots|VoltAbsorb|focusblast,nastyplot,thunderbolt,terablast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Flying]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,recover,shadowball,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Gumshoos||ChoiceBand|Stakeout|doubleedge,uturn,knockoff,earthquake||85,85,85,85,85,85|M|||95|,,,,,Ground]Shaymin||Leftovers|NaturalCure|leechseed,seedflare,substitute,airslash||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Arceus|ArceusSteel|IronPlate|Multitype|judgment,earthpower,recover,calmmind||85,,85,85,85,85|N|,0,,,,||70|,,,,,Ghost",
   "ai": "Scovillain||Leftovers|Chlorophyll|substitute,protect,leechseed,flamethrower||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Excadrill||AssaultVest|MoldBreaker|ironhead,rockslide,rapidspin,earthquake||85,85,85,85,85,85|F|||79|,,,,,Grass]Plusle||LifeOrb|LightningRod|encore,thunderbolt,nastyplot,grassknot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Grass]Salamence||HeavyDutyBoots|Intimidate|outrage,dualwingbeat,earthquake,dragondance||85,85,85,85,85,85|F|||77|,,,,,Ground]Orthworm||Leftovers|EarthEater|shedtail,heavyslam,bodypress,spikes||85,85,85,85,85,85|M|||88|,,,,,Electric]Mewtwo||LifeOrb|Unnerve|darkpulse,psystrike,aurasphere,nastyplot||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic",
   "curation": {

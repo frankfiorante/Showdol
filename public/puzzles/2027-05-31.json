@@ -19,6 +19,253 @@
     "Enamorus",
     "Okidogi"
   ],
+  "playerSets": [
+    {
+      "species": "Gardevoir",
+      "level": 83,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "ability": "Trace",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 249,
+      "stats": {
+        "atk": 112,
+        "def": 156,
+        "spa": 255,
+        "spd": 239,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Toedscruel",
+      "level": 87,
+      "types": [
+        "Ground",
+        "Grass"
+      ],
+      "ability": "Mycelium Might",
+      "item": "Assault Vest",
+      "teraType": "Water",
+      "maxhp": 281,
+      "stats": {
+        "atk": 172,
+        "def": 163,
+        "spa": 189,
+        "spd": 259,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Volbeat",
+      "level": 90,
+      "types": [
+        "Bug"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 263,
+      "stats": {
+        "atk": 183,
+        "def": 186,
+        "spa": 136,
+        "spd": 204,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Lunge",
+          "type": "Bug",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Rhyperior",
+      "level": 82,
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "ability": "Solid Rock",
+      "item": "Weakness Policy",
+      "teraType": "Bug",
+      "maxhp": 323,
+      "stats": {
+        "atk": 277,
+        "def": 260,
+        "spa": 137,
+        "spd": 137,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Rock Polish",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Enamorus",
+      "level": 79,
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "ability": "Cute Charm",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 247,
+      "stats": {
+        "atk": 186,
+        "def": 156,
+        "spa": 259,
+        "spd": 172,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Okidogi",
+      "level": 77,
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 262,
+      "stats": {
+        "atk": 242,
+        "def": 222,
+        "spa": 134,
+        "spd": 177,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Gardevoir||LifeOrb|Trace|moonblast,psychic,calmmind,focusblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy]Toedscruel||AssaultVest|MyceliumMight|knockoff,rapidspin,earthpower,leafstorm||85,85,85,85,85,85|F|||87|,,,,,Water]Volbeat||HeavyDutyBoots|Prankster|encore,thunderwave,roost,lunge||85,85,85,85,85,85|M|||90|,,,,,Steel]Rhyperior||WeaknessPolicy|SolidRock|stoneedge,rockpolish,megahorn,earthquake||85,85,85,85,85,85|F|||82|,,,,,Bug]Enamorus||Leftovers|CuteCharm|earthpower,moonblast,calmmind,substitute||85,,85,85,85,85|F|,0,,,,||79|,,,,,Ground]Okidogi||Leftovers|ToxicChain|bulkup,drainpunch,knockoff,gunkshot||85,85,85,85,85,85|M|||77|,,,,,Dark",
   "ai": "Regieleki||Magnet|Transistor|thunderbolt,rapidspin,explosion,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Electric]Arceus|ArceusBug|InsectPlate|Multitype|recover,judgment,fireblast,calmmind||81,,85,85,85,85|N|,0,,,,||73|,,,,,Fire]Zamazenta||RustedShield|DauntlessShield|irondefense,stoneedge,bodypress,heavyslam||85,85,85,85,85,85|N|||68|,,,,,Fighting]Scizor||ChoiceBand|Technician|bulletpunch,uturn,knockoff,closecombat||85,85,85,85,85,85|M|||79|,,,,,Steel]Palafin||Leftovers|ZerotoHero|bulkup,drainpunch,jetpunch,icepunch||85,85,85,85,85,85|M|||77|,,,,,Steel]Glimmora||PowerHerb|ToxicDebris|energyball,earthpower,sludgewave,meteorbeam||85,,85,85,85,85|M|,0,,,,||75|,,,,,Grass",
   "curation": {

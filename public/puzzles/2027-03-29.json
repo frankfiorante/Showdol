@@ -19,6 +19,251 @@
     "Slaking",
     "Armarouge"
   ],
+  "playerSets": [
+    {
+      "species": "Chi-Yu",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "ability": "Beads of Ruin",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 211,
+      "stats": {
+        "atk": 128,
+        "def": 168,
+        "spa": 252,
+        "spd": 229,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Cryogonal",
+      "level": 89,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Poison",
+      "maxhp": 287,
+      "stats": {
+        "atk": 140,
+        "def": 140,
+        "spa": 220,
+        "spd": 291,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Manaphy",
+      "level": 78,
+      "types": [
+        "Water"
+      ],
+      "ability": "Hydration",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 284,
+      "stats": {
+        "atk": 161,
+        "def": 201,
+        "spa": 201,
+        "spd": 201,
+        "spe": 201
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Tail Glow",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dragalge",
+      "level": 88,
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "ability": "Adaptability",
+      "item": "Choice Specs",
+      "teraType": "Fighting",
+      "maxhp": 258,
+      "stats": {
+        "atk": 182,
+        "def": 209,
+        "spa": 221,
+        "spd": 267,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Slaking",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Truant",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 389,
+      "stats": {
+        "atk": 317,
+        "def": 216,
+        "spa": 208,
+        "spd": 157,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Giga Impact",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Armarouge",
+      "level": 80,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ability": "Weak Armor",
+      "item": "Choice Specs",
+      "teraType": "Grass",
+      "maxhp": 267,
+      "stats": {
+        "atk": 101,
+        "def": 206,
+        "spa": 246,
+        "spd": 174,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Armor Cannon",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Chi-Yu||HeavyDutyBoots|BeadsofRuin|willowisp,nastyplot,darkpulse,fireblast||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Cryogonal||HeavyDutyBoots|Levitate|rapidspin,recover,flashcannon,freezedry||85,85,85,85,85,85|N|||89|,,,,,Poison]Manaphy||Leftovers|Hydration|hydropump,tailglow,energyball,icebeam||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water]Dragalge||ChoiceSpecs|Adaptability|flipturn,focusblast,dracometeor,sludgewave||85,85,85,85,85,85|F|||88|,,,,,Fighting]Slaking||ChoiceBand|Truant|earthquake,knockoff,gigaimpact,doubleedge||85,85,85,85,85,85|M|||84|,,,,,Ground]Armarouge||ChoiceSpecs|WeakArmor|armorcannon,psyshock,focusblast,energyball||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass",
   "ai": "Thundurus|ThundurusTherian|ChoiceScarf|VoltAbsorb|voltswitch,psychic,thunderbolt,focusblast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Electric]Gyarados||HeavyDutyBoots|Moxie|earthquake,terablast,waterfall,dragondance||85,85,85,85,85,85|M|||79|,,,,,Flying]Gothitelle||ChoiceScarf|ShadowTag|trick,darkpulse,focusblast,psychic||85,,85,85,85,85|F|,0,,,,||90|,,,,,Psychic]Grumpig||Leftovers|ThickFat|shadowball,focusblast,nastyplot,psyshock||85,,85,85,85,85|M|,0,,,,||92|,,,,,Fighting]Wugtrio||ChoiceBand|Gooey|stompingtantrum,throatchop,liquidation,aquajet||85,85,85,85,85,85|F|||91|,,,,,Dark]Gurdurr||Eviolite|Guts|drainpunch,bulkup,machpunch,knockoff||85,85,85,85,85,85|F|||85|,,,,,Steel",
   "curation": {

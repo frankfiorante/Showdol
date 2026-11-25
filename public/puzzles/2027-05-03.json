@@ -19,6 +19,252 @@
     "Hippowdon",
     "Ariados"
   ],
+  "playerSets": [
+    {
+      "species": "Volcarona",
+      "level": 77,
+      "types": [
+        "Bug",
+        "Fire"
+      ],
+      "ability": "Swarm",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 257,
+      "stats": {
+        "atk": 97,
+        "def": 145,
+        "spa": 252,
+        "spd": 206,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Fiery Dance",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Polteageist",
+      "level": 78,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Cursed Body",
+      "item": "White Herb",
+      "teraType": "Dark",
+      "maxhp": 222,
+      "stats": {
+        "atk": 106,
+        "def": 146,
+        "spa": 254,
+        "spd": 223,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Stored Power",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Tatsugiri",
+      "level": 87,
+      "types": [
+        "Dragon",
+        "Water"
+      ],
+      "ability": "Storm Drain",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 260,
+      "stats": {
+        "atk": 137,
+        "def": 154,
+        "spa": 259,
+        "spd": 215,
+        "spe": 192
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Sawsbuck-Summer",
+      "level": 88,
+      "types": [
+        "Normal",
+        "Grass"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 284,
+      "stats": {
+        "atk": 226,
+        "def": 173,
+        "spa": 156,
+        "spd": 173,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Hippowdon",
+      "level": 82,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sand Stream",
+      "item": "Leftovers",
+      "teraType": "Rock",
+      "maxhp": 311,
+      "stats": {
+        "atk": 231,
+        "def": 241,
+        "spa": 159,
+        "spd": 165,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ariados",
+      "level": 95,
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "ability": "Insomnia",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 287,
+      "stats": {
+        "atk": 225,
+        "def": 187,
+        "spa": 168,
+        "spd": 187,
+        "spe": 130
+      },
+      "moves": [
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Volcarona||HeavyDutyBoots|Swarm|terablast,bugbuzz,quiverdance,fierydance||85,,85,85,85,85|F|,0,,,,||77|,,,,,Ground]Polteageist||WhiteHerb|CursedBody|storedpower,strengthsap,shellsmash,shadowball||85,,85,85,85,85|N|,0,,,,||78|,,,,,Dark]Tatsugiri||HeavyDutyBoots|StormDrain|hydropump,dracometeor,rapidspin,nastyplot||85,85,85,85,85,85|M|||87|,,,,,Steel]Sawsbuck|SawsbuckSummer|LifeOrb|SapSipper|highhorsepower,hornleech,doubleedge,swordsdance||85,85,85,85,85,85|F|||88|,,,,,Ground]Hippowdon||Leftovers|SandStream|earthquake,slackoff,stoneedge,curse||85,85,85,85,85,85|M|||82|,,,,,Rock]Ariados||HeavyDutyBoots|Insomnia|megahorn,stickyweb,suckerpunch,poisonjab||85,85,85,85,85,85|M|||95|,,,,,Ghost",
   "ai": "Glaceon||HeavyDutyBoots|IceBody|freezedry,protect,mudshot,wish||85,,85,85,85,85|F|,0,,,,||94|,,,,,Ground]Azumarill||ChoiceBand|HugePower|aquajet,icespinner,playrough,liquidation||85,85,85,85,85,85|F|||82|,,,,,Water]Ribombee||HeavyDutyBoots|ShieldDust|bugbuzz,stunspore,moonblast,stickyweb||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Minior|MiniorOrange|WhiteHerb|ShieldsDown|shellsmash,powergem,acrobatics,earthquake||85,85,85,85,85,85|N|||79|,,,,,Steel]Muk||Leftovers|PoisonTouch|icepunch,gunkshot,knockoff,haze||85,85,85,85,85,85|M|||86|,,,,,Dark]Sandslash|SandslashAlola|LifeOrb|SlushRush|earthquake,swordsdance,knockoff,tripleaxel||85,85,85,85,85,85|F|||88|,,,,,Ground",
   "curation": {

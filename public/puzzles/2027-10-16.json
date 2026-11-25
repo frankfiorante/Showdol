@@ -19,6 +19,253 @@
     "Chien-Pao",
     "Latios"
   ],
+  "playerSets": [
+    {
+      "species": "Scovillain",
+      "level": 91,
+      "types": [
+        "Grass",
+        "Fire"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Choice Scarf",
+      "teraType": "Grass",
+      "maxhp": 266,
+      "stats": {
+        "atk": 201,
+        "def": 170,
+        "spa": 248,
+        "spd": 170,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Shiftry",
+      "level": 89,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Wind Rider",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 305,
+      "stats": {
+        "atk": 229,
+        "def": 158,
+        "spa": 211,
+        "spd": 158,
+        "spe": 193
+      },
+      "moves": [
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Low Kick",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Tailwind",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Lugia",
+      "level": 73,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Multiscale",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 275,
+      "stats": {
+        "atk": 136,
+        "def": 232,
+        "spa": 174,
+        "spd": 267,
+        "spe": 203
+      },
+      "moves": [
+        {
+          "name": "Aeroblast",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Garganacl",
+      "level": 80,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Purifying Salt",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 291,
+      "stats": {
+        "atk": 206,
+        "def": 254,
+        "spa": 118,
+        "spd": 190,
+        "spe": 102
+      },
+      "moves": [
+        {
+          "name": "Salt Cure",
+          "type": "Rock",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Chien-Pao",
+      "level": 72,
+      "types": [
+        "Dark",
+        "Ice"
+      ],
+      "ability": "Sword of Ruin",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 234,
+      "stats": {
+        "atk": 215,
+        "def": 157,
+        "spa": 172,
+        "spd": 136,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Sacred Sword",
+          "type": "Fighting",
+          "pp": 24
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Latios",
+      "level": 78,
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Soul Dew",
+      "teraType": "Fighting",
+      "maxhp": 253,
+      "stats": {
+        "atk": 145,
+        "def": 170,
+        "spa": 248,
+        "spd": 217,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Luster Purge",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Scovillain||ChoiceScarf|Chlorophyll|energyball,leafstorm,flamethrower,overheat||85,,85,85,85,85|F|,0,,,,||91|,,,,,Grass]Shiftry||LifeOrb|WindRider|leafblade,knockoff,lowkick,tailwind||85,85,85,85,85,85|F|||89|,,,,,Dark]Lugia||HeavyDutyBoots|Multiscale|aeroblast,recover,calmmind,earthpower||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Garganacl||Leftovers|PurifyingSalt|saltcure,bodypress,recover,stealthrock||85,85,85,85,85,85|M|||80|,,,,,Ghost]Chien-Pao||HeavyDutyBoots|SwordofRuin|iciclecrash,sacredsword,throatchop,swordsdance||85,85,85,85,85,85|N|||72|,,,,,Dark]Latios||SoulDew|Levitate|recover,lusterpurge,dracometeor,aurasphere||85,,85,85,85,85|M|,0,,,,||78|,,,,,Fighting",
   "ai": "Cinccino||LoadedDice|Technician|tripleaxel,tailslap,tidyup,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Normal]Stantler||Eviolite|Intimidate|shadowball,terablast,earthpower,calmmind||85,85,85,85,85,85|F|||90|,,,,,Fairy]Abomasnow||LightClay|SnowWarning|iceshard,auroraveil,woodhammer,blizzard||77,85,85,85,85,85|F|||84|,,,,,Water]Toxicroak||LifeOrb|DrySkin|closecombat,swordsdance,earthquake,gunkshot||85,85,85,85,85,85|M|||84|,,,,,Dark]Hitmontop||Leftovers|Technician|closecombat,bulkup,tripleaxel,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Ice]Sandy Shocks||HeavyDutyBoots|Protosynthesis|voltswitch,thunderbolt,earthpower,spikes||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass",
   "curation": {

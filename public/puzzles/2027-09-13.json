@@ -19,6 +19,250 @@
     "Wugtrio",
     "Azumarill"
   ],
+  "playerSets": [
+    {
+      "species": "Stonjourner",
+      "level": 91,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Power Spot",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 330,
+      "stats": {
+        "atk": 279,
+        "def": 298,
+        "spa": 88,
+        "spd": 88,
+        "spe": 179
+      },
+      "moves": [
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dunsparce",
+      "level": 86,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Serene Grace",
+      "item": "Eviolite",
+      "teraType": "Ground",
+      "maxhp": 312,
+      "stats": {
+        "atk": 170,
+        "def": 170,
+        "spa": 161,
+        "spd": 161,
+        "spe": 127
+      },
+      "moves": [
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Raikou",
+      "level": 82,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Pressure",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 282,
+      "stats": {
+        "atk": 144,
+        "def": 170,
+        "spa": 236,
+        "spd": 211,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Lokix",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Dark"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 251,
+      "stats": {
+        "atk": 214,
+        "def": 175,
+        "spa": 132,
+        "spd": 137,
+        "spe": 198
+      },
+      "moves": [
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Wugtrio",
+      "level": 91,
+      "types": [
+        "Water"
+      ],
+      "ability": "Gooey",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 212,
+      "stats": {
+        "atk": 234,
+        "def": 143,
+        "spa": 143,
+        "spd": 179,
+        "spe": 270
+      },
+      "moves": [
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Stomping Tantrum",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Azumarill",
+      "level": 82,
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "ability": "Huge Power",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 298,
+      "stats": {
+        "atk": 129,
+        "def": 178,
+        "spa": 146,
+        "spd": 178,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Stonjourner||LifeOrb|PowerSpot|heatcrash,stealthrock,earthquake,stoneedge||85,85,85,85,85,85|F|||91|,,,,,Ground]Dunsparce||Eviolite|SereneGrace|coil,earthquake,bodyslam,roost||85,85,85,85,85,85|M|||86|,,,,,Ground]Raikou||HeavyDutyBoots|Pressure|voltswitch,scald,calmmind,thunderbolt||85,,85,85,85,85|N|,0,,,,||82|,,,,,Electric]Lokix||LifeOrb|TintedLens|leechlife,suckerpunch,knockoff,swordsdance||85,85,85,85,85,85|M|||82|,,,,,Dark]Wugtrio||ChoiceBand|Gooey|aquajet,throatchop,liquidation,stompingtantrum||85,85,85,85,85,85|F|||91|,,,,,Ground]Azumarill||ChoiceBand|HugePower|liquidation,playrough,knockoff,aquajet||85,85,85,85,85,85|M|||82|,,,,,Water",
   "ai": "Medicham||ChoiceScarf|PurePower|closecombat,poisonjab,trick,zenheadbutt||85,85,85,85,85,85|F|||86|,,,,,Fighting]Seviper||ChoiceScarf|Infiltrator|gunkshot,flamethrower,earthquake,switcheroo||85,85,85,85,85,85|M|||93|,,,,,Fire]Fezandipiti||Leftovers|ToxicChain|terablast,swordsdance,playrough,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Ground]Girafarig||Eviolite|SapSipper|nastyplot,psyshock,dazzlinggleam,thunderbolt||85,,85,85,85,85|F|,0,,,,||89|,,,,,Electric]Ursaring||ToxicOrb|QuickFeet|closecombat,crunch,swordsdance,facade||85,85,85,85,85,85|F|||84|,,,,,Normal]Dusknoir||Leftovers|Frisk|shadowsneak,painsplit,willowisp,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Fairy",
   "curation": {

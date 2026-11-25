@@ -19,6 +19,250 @@
     "Weezing",
     "Bombirdier"
   ],
+  "playerSets": [
+    {
+      "species": "Muk",
+      "level": 86,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Poison Touch",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 321,
+      "stats": {
+        "atk": 230,
+        "def": 178,
+        "spa": 161,
+        "spd": 221,
+        "spe": 135
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Glalie",
+      "level": 96,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Inner Focus",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 309,
+      "stats": {
+        "atk": 208,
+        "def": 208,
+        "spa": 208,
+        "spd": 208,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ampharos",
+      "level": 88,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Static",
+      "item": "Choice Specs",
+      "teraType": "Electric",
+      "maxhp": 302,
+      "stats": {
+        "atk": 137,
+        "def": 200,
+        "spa": 253,
+        "spd": 209,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Braviary",
+      "level": 85,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Defiant",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 309,
+      "stats": {
+        "atk": 258,
+        "def": 176,
+        "spa": 146,
+        "spd": 176,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Weezing",
+      "level": 88,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 258,
+      "stats": {
+        "atk": 163,
+        "def": 261,
+        "spa": 200,
+        "spd": 173,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bombirdier",
+      "level": 85,
+      "types": [
+        "Flying",
+        "Dark"
+      ],
+      "ability": "Rocky Payload",
+      "item": "Choice Band",
+      "teraType": "Rock",
+      "maxhp": 258,
+      "stats": {
+        "atk": 224,
+        "def": 193,
+        "spa": 151,
+        "spd": 193,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Muk||AssaultVest|PoisonTouch|knockoff,drainpunch,gunkshot,shadowsneak||85,85,85,85,85,85|F|||86|,,,,,Dark]Glalie||HeavyDutyBoots|InnerFocus|earthquake,taunt,freezedry,spikes||85,85,85,85,85,85|M|||96|,,,,,Water]Ampharos||ChoiceSpecs|Static|thunderbolt,dazzlinggleam,focusblast,voltswitch||85,,85,85,85,85|M|,0,,,,||88|,,,,,Electric]Braviary||HeavyDutyBoots|Defiant|roost,closecombat,bravebird,bulkup||85,85,85,85,85,85|M|||85|,,,,,Steel]Weezing||Leftovers|Levitate|painsplit,fireblast,toxicspikes,sludgebomb||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Bombirdier||ChoiceBand|RockyPayload|stoneedge,bravebird,suckerpunch,knockoff||85,85,85,85,85,85|F|||85|,,,,,Rock",
   "ai": "Floatzel||ChoiceBand|WaterVeil|icespinner,flipturn,crunch,wavecrash||85,85,85,85,85,85|F|||86|,,,,,Water]Revavroom||LifeOrb|Filter|shiftgear,gunkshot,ironhead,highhorsepower||85,85,85,85,85,85|F|||79|,,,,,Ground]Scrafty||Leftovers|ShedSkin|rest,drainpunch,knockoff,bulkup||85,85,85,85,85,85|M|||83|,,,,,Poison]Giratina|GiratinaOrigin|GriseousCore|Levitate|defog,shadowsneak,dracometeor,poltergeist||85,85,85,85,85,85|N|||72|,,,,,Fairy]Reuniclus||LifeOrb|MagicGuard|focusblast,psyshock,calmmind,recover||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|swordsdance,hornleech,superpower,ivycudgel||85,85,85,85,85,85|F|||76|,,,,,Rock",
   "curation": {

@@ -19,6 +19,252 @@
     "Blaziken",
     "Scovillain"
   ],
+  "playerSets": [
+    {
+      "species": "Krookodile",
+      "level": 79,
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 280,
+      "stats": {
+        "atk": 230,
+        "def": 172,
+        "spa": 148,
+        "spd": 156,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Porygon-Z",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Download",
+      "item": "Choice Scarf",
+      "teraType": "Ghost",
+      "maxhp": 277,
+      "stats": {
+        "atk": 137,
+        "def": 164,
+        "spa": 272,
+        "spd": 172,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Tri Attack",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Golem",
+      "level": 87,
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "ability": "Sturdy",
+      "item": "Custap Berry",
+      "teraType": "Ground",
+      "maxhp": 281,
+      "stats": {
+        "atk": 259,
+        "def": 276,
+        "spa": 145,
+        "spd": 163,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Spectrier",
+      "level": 75,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Grim Neigh",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 274,
+      "stats": {
+        "atk": 102,
+        "def": 134,
+        "spa": 261,
+        "spd": 164,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Blaziken",
+      "level": 76,
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "ability": "Speed Boost",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 247,
+      "stats": {
+        "atk": 226,
+        "def": 150,
+        "spa": 211,
+        "spd": 150,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Scovillain",
+      "level": 91,
+      "types": [
+        "Grass",
+        "Fire"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Choice Scarf",
+      "teraType": "Grass",
+      "maxhp": 266,
+      "stats": {
+        "atk": 201,
+        "def": 170,
+        "spa": 248,
+        "spd": 170,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Krookodile||Leftovers|Intimidate|earthquake,bulkup,gunkshot,knockoff||85,85,85,85,85,85|M|||79|,,,,,Poison]Porygon-Z||ChoiceScarf|Download|icebeam,shadowball,triattack,trick||85,,85,85,85,85|N|,0,,,,||83|,,,,,Ghost]Golem||CustapBerry|Sturdy|stealthrock,stoneedge,explosion,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Spectrier||LifeOrb|GrimNeigh|shadowball,nastyplot,darkpulse,willowisp||85,,85,85,85,85|N|,0,,,,||75|,,,,,Dark]Blaziken||LifeOrb|SpeedBoost|swordsdance,flareblitz,closecombat,knockoff||85,85,85,85,85,85|F|||76|,,,,,Fighting]Scovillain||ChoiceScarf|Chlorophyll|energyball,flamethrower,overheat,leafstorm||85,,85,85,85,85|F|,0,,,,||91|,,,,,Grass",
   "ai": "Qwilfish|QwilfishHisui|Eviolite|Intimidate|gunkshot,taunt,crunch,spikes||85,85,85,85,85,85|M|||83|,,,,,Poison]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,facade,bravebird,protect||85,85,85,85,85,85|M|||85|,,,,,Normal]Iron Leaves||ChoiceBand|QuarkDrive|leafblade,psyblade,closecombat,megahorn||85,85,85,85,85,85|N|||80|,,,,,Fighting]Kilowattrel||HeavyDutyBoots|VoltAbsorb|thunderbolt,uturn,roost,hurricane||85,85,85,85,85,85|F|||83|,,,,,Water]Mesprit||Leftovers|Levitate|knockoff,stealthrock,psychicnoise,icebeam||85,85,85,85,85,85|N|||85|,,,,,Dark]Magnezone||AssaultVest|Analytic|voltswitch,bodypress,flashcannon,discharge||85,,85,85,85,85|N|,0,,,,||84|,,,,,Flying",
   "curation": {

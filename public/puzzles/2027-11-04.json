@@ -19,6 +19,253 @@
     "Whimsicott",
     "Sceptile"
   ],
+  "playerSets": [
+    {
+      "species": "Piloswine",
+      "level": 85,
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "ability": "Thick Fat",
+      "item": "Eviolite",
+      "teraType": "Poison",
+      "maxhp": 309,
+      "stats": {
+        "atk": 219,
+        "def": 185,
+        "spa": 151,
+        "spd": 151,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Carbink",
+      "level": 90,
+      "types": [
+        "Rock",
+        "Fairy"
+      ],
+      "ability": "Sturdy",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 236,
+      "stats": {
+        "atk": 95,
+        "def": 321,
+        "spa": 141,
+        "spd": 321,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Hoopa",
+      "level": 85,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "ability": "Magician",
+      "item": "Life Orb",
+      "teraType": "Psychic",
+      "maxhp": 275,
+      "stats": {
+        "atk": 192,
+        "def": 151,
+        "spa": 304,
+        "spd": 270,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Moltres-Galar",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "ability": "Berserk",
+      "item": "Chesto Berry",
+      "teraType": "Dark",
+      "maxhp": 271,
+      "stats": {
+        "atk": 139,
+        "def": 188,
+        "spa": 204,
+        "spd": 243,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Fiery Wrath",
+          "type": "Dark",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Whimsicott",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 238,
+      "stats": {
+        "atk": 117,
+        "def": 191,
+        "spa": 178,
+        "spd": 174,
+        "spe": 243
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sceptile",
+      "level": 87,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Overgrow",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 264,
+      "stats": {
+        "atk": 152,
+        "def": 163,
+        "spa": 232,
+        "spd": 198,
+        "spe": 259
+      },
+      "moves": [
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Piloswine||Eviolite|ThickFat|iciclecrash,stealthrock,earthquake,iceshard||85,85,85,85,85,85|M|||85|,,,,,Poison]Carbink||ChestoBerry|Sturdy|irondefense,bodypress,moonblast,rest||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Hoopa||LifeOrb|Magician|shadowball,nastyplot,psyshock,focusblast||85,,85,85,85,85|N|,0,,,,||85|,,,,,Psychic]Moltres|MoltresGalar|ChestoBerry|Berserk|hurricane,fierywrath,nastyplot,rest||81,,85,85,85,85|N|,0,,,,||79|,,,,,Dark]Whimsicott||Leftovers|Prankster|substitute,moonblast,leechseed,encore||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Sceptile||Leftovers|Overgrow|focusblast,substitute,leechseed,gigadrain||85,,85,85,85,85|F|,0,,,,||87|,,,,,Steel",
   "ai": "Braviary||HeavyDutyBoots|Defiant|closecombat,roost,bulkup,bravebird||85,85,85,85,85,85|M|||85|,,,,,Steel]Overqwil||LoadedDice|Intimidate|scaleshot,gunkshot,crunch,swordsdance||85,85,85,85,85,85|F|||82|,,,,,Dragon]Appletun||Leftovers|ThickFat|recover,leechseed,dracometeor,appleacid||85,,85,85,85,85|F|,0,,,,||92|,,,,,Steel]Bellossom||Leftovers|Chlorophyll|strengthsap,gigadrain,quiverdance,terablast||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Golduck||LifeOrb|CloudNine|icebeam,nastyplot,grassknot,hydropump||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water]Glimmora||HeavyDutyBoots|ToxicDebris|sludgewave,stealthrock,earthpower,mortalspin||85,85,85,85,85,85|M|||75|,,,,,Ground",
   "curation": {

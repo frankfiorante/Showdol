@@ -19,6 +19,252 @@
     "Walking Wake",
     "Dodrio"
   ],
+  "playerSets": [
+    {
+      "species": "Dusknoir",
+      "level": 89,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Frisk",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 225,
+      "stats": {
+        "atk": 229,
+        "def": 291,
+        "spa": 166,
+        "spd": 291,
+        "spe": 131
+      },
+      "moves": [
+        {
+          "name": "Focus Punch",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Scream Tail",
+      "level": 84,
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 330,
+      "stats": {
+        "atk": 114,
+        "def": 215,
+        "spa": 157,
+        "spd": 241,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Forretress",
+      "level": 84,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "ability": "Sturdy",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 263,
+      "stats": {
+        "atk": 199,
+        "def": 283,
+        "spa": 149,
+        "spd": 149,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Phione",
+      "level": 91,
+      "types": [
+        "Water"
+      ],
+      "ability": "Hydration",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 293,
+      "stats": {
+        "atk": 150,
+        "def": 197,
+        "spa": 197,
+        "spd": 197,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Take Heart",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Walking Wake",
+      "level": 79,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 286,
+      "stats": {
+        "atk": 136,
+        "def": 189,
+        "spa": 243,
+        "spd": 177,
+        "spe": 218
+      },
+      "moves": [
+        {
+          "name": "Hydro Steam",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Sunny Day",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dodrio",
+      "level": 85,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Early Bird",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 241,
+      "stats": {
+        "atk": 236,
+        "def": 168,
+        "spa": 151,
+        "spd": 151,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Drill Run",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Dusknoir||Leftovers|Frisk|focuspunch,substitute,poltergeist,painsplit||85,85,85,85,85,85|M|||89|,,,,,Fighting]Scream Tail||Leftovers|Protosynthesis|protect,encore,dazzlinggleam,wish||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison]Forretress||Leftovers|Sturdy|ironhead,rapidspin,stealthrock,thunderwave||85,85,85,85,85,85|M|||84|,,,,,Water]Phione||Leftovers|Hydration|icebeam,scald,takeheart,grassknot||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Walking Wake||LifeOrb|Protosynthesis|hydrosteam,dracometeor,flamethrower,sunnyday||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Dodrio||ChoiceBand|EarlyBird|quickattack,drillrun,bravebird,doubleedge||85,85,85,85,85,85|F|||85|,,,,,Ground",
   "ai": "Iron Jugulis||ChoiceSpecs|QuarkDrive|darkpulse,hurricane,hydropump,earthpower||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Great Tusk||Leftovers|Protosynthesis|headlongrush,closecombat,stealthrock,rapidspin||85,85,85,85,85,85|N|||77|,,,,,Ground]Luvdisc||HeavyDutyBoots|SwiftSwim|endeavor,substitute,surf,flipturn||81,85,85,85,85,85|F||||,,,,,Ground]Lilligant||LifeOrb|OwnTempo|alluringvoice,quiverdance,sleeppowder,petaldance||85,,85,85,85,85|F|,0,,,,||86|,,,,,Grass]Iron Hands||Leftovers|QuarkDrive|swordsdance,thunderpunch,icepunch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Flying]Florges|FlorgesBlue|Leftovers|FlowerVeil|synthesis,calmmind,moonblast,terablast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground",
   "curation": {

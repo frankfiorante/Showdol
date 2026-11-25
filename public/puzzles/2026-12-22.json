@@ -19,6 +19,253 @@
     "Venusaur",
     "Hitmontop"
   ],
+  "playerSets": [
+    {
+      "species": "Dragapult",
+      "level": 77,
+      "types": [
+        "Dragon",
+        "Ghost"
+      ],
+      "ability": "Clear Body",
+      "item": "Life Orb",
+      "teraType": "Ghost",
+      "maxhp": 262,
+      "stats": {
+        "atk": 229,
+        "def": 160,
+        "spa": 199,
+        "spd": 160,
+        "spe": 263
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Dragon Darts",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Drednaw",
+      "level": 81,
+      "types": [
+        "Water",
+        "Rock"
+      ],
+      "ability": "Strong Jaw",
+      "item": "White Herb",
+      "teraType": "Dark",
+      "maxhp": 278,
+      "stats": {
+        "atk": 233,
+        "def": 192,
+        "spa": 124,
+        "spd": 157,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Wigglytuff",
+      "level": 96,
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "ability": "Competitive",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 424,
+      "stats": {
+        "atk": 139,
+        "def": 141,
+        "spa": 218,
+        "spd": 150,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Walking Wake",
+      "level": 79,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 286,
+      "stats": {
+        "atk": 136,
+        "def": 189,
+        "spa": 243,
+        "spd": 177,
+        "spe": 218
+      },
+      "moves": [
+        {
+          "name": "Hydro Steam",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Sunny Day",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Venusaur",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 272,
+      "stats": {
+        "atk": 142,
+        "def": 188,
+        "spa": 216,
+        "spd": 216,
+        "spe": 183
+      },
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hitmontop",
+      "level": 88,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Technician",
+      "item": "Leftovers",
+      "teraType": "Ice",
+      "maxhp": 231,
+      "stats": {
+        "atk": 217,
+        "def": 217,
+        "spa": 112,
+        "spd": 244,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Dragapult||LifeOrb|ClearBody|dragondance,dragondarts,terablast,fireblast||85,85,85,85,85,85|F|||77|,,,,,Ghost]Drednaw||WhiteHerb|StrongJaw|shellsmash,liquidation,crunch,stoneedge||85,85,85,85,85,85|F|||81|,,,,,Dark]Wigglytuff||Leftovers|Competitive|protect,wish,alluringvoice,thunderwave||85,,85,85,85,85|F|,0,,,,||96|,,,,,Steel]Walking Wake||LifeOrb|Protosynthesis|hydrosteam,sunnyday,flamethrower,dracometeor||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Venusaur||Leftovers|Chlorophyll|sludgebomb,sleeppowder,leechseed,substitute||85,,85,85,85,85|M|,0,,,,||84|,,,,,Water]Hitmontop||Leftovers|Technician|tripleaxel,closecombat,rapidspin,bulkup||85,85,85,85,85,85|M|||88|,,,,,Ice",
   "ai": "Dragalge||Leftovers|Adaptability|toxicspikes,sludgewave,focusblast,dracometeor||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting]Chi-Yu||HeavyDutyBoots|BeadsofRuin|nastyplot,fireblast,darkpulse,willowisp||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Skuntank||LifeOrb|Aftermath|taunt,knockoff,gunkshot,suckerpunch||85,85,85,85,85,85|F|||84|,,,,,Poison]Jumpluff|||Infiltrator|sleeppowder,acrobatics,encore,strengthsap||81,85,85,85,85,85|F|||87|,,,,,Steel]Tatsugiri||HeavyDutyBoots|StormDrain|nastyplot,dracometeor,rapidspin,surf||85,85,85,85,85,85|M|||87|,,,,,Water]Poliwrath||Leftovers|WaterAbsorb|knockoff,bulkup,liquidation,drainpunch||85,85,85,85,85,85|M|||88|,,,,,Steel",
   "curation": {

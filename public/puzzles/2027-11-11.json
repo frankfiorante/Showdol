@@ -19,6 +19,253 @@
     "Ogerpon-Hearthflame",
     "Okidogi"
   ],
+  "playerSets": [
+    {
+      "species": "Miraidon",
+      "level": 65,
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "ability": "Hadron Engine",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 238,
+      "stats": {
+        "atk": 115,
+        "def": 168,
+        "spa": 214,
+        "spd": 188,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Electro Drift",
+          "type": "Electric",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Amoonguss",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Regenerator",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 321,
+      "stats": {
+        "atk": 144,
+        "def": 162,
+        "spa": 187,
+        "spd": 178,
+        "spe": 96
+      },
+      "moves": [
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Smeargle",
+      "level": 95,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Wide Lens",
+      "teraType": "Ghost",
+      "maxhp": 258,
+      "stats": {
+        "atk": 92,
+        "def": 120,
+        "spa": 92,
+        "spd": 139,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Power Trip",
+          "type": "Dark",
+          "pp": 16
+        },
+        {
+          "name": "Population Bomb",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Camerupt",
+      "level": 91,
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "ability": "Solid Rock",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 275,
+      "stats": {
+        "atk": 234,
+        "def": 179,
+        "spa": 243,
+        "spd": 188,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ogerpon-Hearthflame",
+      "level": 74,
+      "types": [
+        "Grass",
+        "Fire"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Hearthflame Mask",
+      "teraType": "Fire",
+      "maxhp": 239,
+      "stats": {
+        "atk": 221,
+        "def": 167,
+        "spa": 132,
+        "spd": 185,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Ivy Cudgel",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Okidogi",
+      "level": 77,
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 262,
+      "stats": {
+        "atk": 242,
+        "def": 222,
+        "spa": 134,
+        "spd": 177,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Miraidon||LifeOrb|HadronEngine|calmmind,dragonpulse,dracometeor,electrodrift||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Amoonguss||Leftovers|Regenerator|spore,sludgebomb,gigadrain,toxic||85,,85,85,85,85|F|,0,,,,||82|,,,,,Steel]Smeargle||WideLens|Technician|powertrip,populationbomb,shellsmash,spore||85,85,85,85,85,85|F|||95|,,,,,Ghost]Camerupt||Leftovers|SolidRock|willowisp,overheat,stealthrock,earthquake||85,85,85,85,85,85|F|||91|,,,,,Water]Ogerpon|OgerponHearthflame|HearthflameMask|MoldBreaker|swordsdance,hornleech,ivycudgel,trailblaze||77,85,85,85,85,85|F|||74|,,,,,Fire]Okidogi||AssaultVest|ToxicChain|knockoff,gunkshot,psychicfangs,drainpunch||85,85,85,85,85,85|M|||77|,,,,,Dark",
   "ai": "Oinkologne||Leftovers|ThickFat|highhorsepower,lashout,curse,bodyslam||85,85,85,85,85,85|M|||92|,,,,,Ground]Carbink||Leftovers|ClearBody|rockpolish,irondefense,moonblast,bodypress||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Chansey||Eviolite|NaturalCure|softboiled,stealthrock,thunderwave,seismictoss||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ghost]Excadrill||AssaultVest|MoldBreaker|rapidspin,ironhead,rockslide,earthquake||85,85,85,85,85,85|F|||79|,,,,,Water]Tinkaton||Leftovers|MoldBreaker|knockoff,gigatonhammer,thunderwave,playrough||85,85,85,85,85,85|F|||82|,,,,,Water]Malamar||ChestoBerry|Contrary|knockoff,superpower,psychocut,rest||85,85,85,85,85,85|M|||82|,,,,,Steel",
   "curation": {

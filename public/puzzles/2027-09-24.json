@@ -19,6 +19,250 @@
     "Politoed",
     "Ceruledge"
   ],
+  "playerSets": [
+    {
+      "species": "Groudon",
+      "level": 72,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Drought",
+      "item": "Leftovers",
+      "teraType": "Fire",
+      "maxhp": 263,
+      "stats": {
+        "atk": 258,
+        "def": 244,
+        "spa": 186,
+        "spd": 172,
+        "spe": 172
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Precipice Blades",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Vigoroth",
+      "level": 85,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Vital Spirit",
+      "item": "Eviolite",
+      "teraType": "Ground",
+      "maxhp": 275,
+      "stats": {
+        "atk": 185,
+        "def": 185,
+        "spa": 142,
+        "spd": 142,
+        "spe": 202
+      },
+      "moves": [
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Persian",
+      "level": 92,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Silk Scarf",
+      "teraType": "Normal",
+      "maxhp": 269,
+      "stats": {
+        "atk": 181,
+        "def": 163,
+        "spa": 172,
+        "spd": 172,
+        "spe": 264
+      },
+      "moves": [
+        {
+          "name": "Fake Out",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Coalossal",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 341,
+      "stats": {
+        "atk": 193,
+        "def": 264,
+        "spa": 193,
+        "spd": 211,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Politoed",
+      "level": 88,
+      "types": [
+        "Water"
+      ],
+      "ability": "Drizzle",
+      "item": "Chesto Berry",
+      "teraType": "Steel",
+      "maxhp": 302,
+      "stats": {
+        "atk": 137,
+        "def": 182,
+        "spa": 209,
+        "spd": 226,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Haze",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Ceruledge",
+      "level": 78,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "ability": "Weak Armor",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 245,
+      "stats": {
+        "atk": 240,
+        "def": 170,
+        "spa": 139,
+        "spd": 201,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Bitter Blade",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Groudon||Leftovers|Drought|swordsdance,precipiceblades,stoneedge,heatcrash||85,85,85,85,85,85|N|||72|,,,,,Fire]Vigoroth||Eviolite|VitalSpirit|slackoff,bodyslam,bulkup,earthquake||85,85,85,85,85,85|F|||85|,,,,,Ground]Persian||SilkScarf|Technician|fakeout,uturn,knockoff,doubleedge||85,85,85,85,85,85|M|||92|,,,,,Normal]Coalossal||HeavyDutyBoots|FlameBody|stealthrock,stoneedge,rapidspin,flamethrower||85,85,85,85,85,85|M|||89|,,,,,Water]Politoed||ChestoBerry|Drizzle|haze,icebeam,rest,hydropump||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Ceruledge||HeavyDutyBoots|WeakArmor|poltergeist,closecombat,swordsdance,bitterblade||85,85,85,85,85,85|F|||78|,,,,,Fire",
   "ai": "Polteageist||WhiteHerb|CursedBody|shadowball,storedpower,shellsmash,terablast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Orthworm||Leftovers|EarthEater|stealthrock,shedtail,bodypress,heavyslam||85,85,85,85,85,85|M|||88|,,,,,Electric]Tauros||LifeOrb|SheerForce|closecombat,throatchop,earthquake,bodyslam||85,85,85,85,85,85|M|||82|,,,,,Normal]Iron Treads||AssaultVest|QuarkDrive|ironhead,knockoff,rapidspin,earthquake||85,85,85,85,85,85|N|||77|,,,,,Water]Heracross||FlameOrb|Guts|closecombat,trailblaze,knockoff,facade||85,85,85,85,85,85|M|||80|,,,,,Normal]Latias||SoulDew|Levitate|psyshock,dracometeor,calmmind,recover||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel",
   "curation": {

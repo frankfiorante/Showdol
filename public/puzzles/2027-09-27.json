@@ -19,6 +19,253 @@
     "Gholdengo",
     "Sandaconda"
   ],
+  "playerSets": [
+    {
+      "species": "Crabominable",
+      "level": 90,
+      "types": [
+        "Fighting",
+        "Ice"
+      ],
+      "ability": "Iron Fist",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 321,
+      "stats": {
+        "atk": 289,
+        "def": 190,
+        "spa": 163,
+        "spd": 172,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Ice Hammer",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Giratina",
+      "level": 75,
+      "types": [
+        "Ghost",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 349,
+      "stats": {
+        "atk": 155,
+        "def": 224,
+        "spa": 194,
+        "spd": 224,
+        "spe": 179
+      },
+      "moves": [
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Venomoth",
+      "level": 84,
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Poison",
+      "maxhp": 255,
+      "stats": {
+        "atk": 114,
+        "def": 149,
+        "spa": 199,
+        "spd": 174,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Grafaiai",
+      "level": 86,
+      "types": [
+        "Poison",
+        "Normal"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 249,
+      "stats": {
+        "atk": 213,
+        "def": 161,
+        "spa": 187,
+        "spd": 173,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Parting Shot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Gholdengo",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "ability": "Good as Gold",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 261,
+      "stats": {
+        "atk": 97,
+        "def": 191,
+        "spa": 249,
+        "spd": 185,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Make It Rain",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sandaconda",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 258,
+      "stats": {
+        "atk": 228,
+        "def": 258,
+        "spa": 157,
+        "spd": 166,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Glare",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Crabominable||ChoiceBand|IronFist|closecombat,knockoff,earthquake,icehammer||85,85,85,85,85,85|F|||90|,,,,,Fighting]Giratina||Leftovers|Pressure|sleeptalk,dragonpulse,calmmind,rest||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fairy]Venomoth||HeavyDutyBoots|TintedLens|quiverdance,sleeppowder,bugbuzz,sludgewave||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Grafaiai||HeavyDutyBoots|Prankster|partingshot,knockoff,gunkshot,encore||85,85,85,85,85,85|M|||86|,,,,,Dark]Gholdengo||Leftovers|GoodasGold|makeitrain,shadowball,thunderwave,recover||85,,85,85,85,85|N|,0,,,,||77|,,,,,Steel]Sandaconda||Leftovers|ShedSkin|stoneedge,rest,glare,earthquake||85,85,85,85,85,85|F|||84|,,,,,Dragon",
   "ai": "Shiftry||HeavyDutyBoots|WindRider|knockoff,leafstorm,defog,suckerpunch||85,85,85,85,85,85|F|||89|,,,,,Poison]Hitmonchan||LifeOrb|IronFist|icepunch,drainpunch,knockoff,swordsdance||85,85,85,85,85,85|M|||87|,,,,,Dark]Illumise||HeavyDutyBoots|Prankster|roost,encore,bugbuzz,thunderwave||85,,85,85,85,85|F|,0,,,,||91|,,,,,Water]Piloswine||Eviolite|ThickFat|stealthrock,earthquake,iciclecrash,roar||85,85,85,85,85,85|F|||85|,,,,,Dragon]Fezandipiti||Leftovers|ToxicChain|gunkshot,terablast,playrough,swordsdance||85,85,85,85,85,85|M|||82|,,,,,Ground]Magcargo||HeavyDutyBoots|FlameBody|yawn,powergem,lavaplume,recover||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass",
   "curation": {

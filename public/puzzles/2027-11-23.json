@@ -19,6 +19,253 @@
     "Conkeldurr",
     "Swanna"
   ],
+  "playerSets": [
+    {
+      "species": "Iron Bundle",
+      "level": 78,
+      "types": [
+        "Ice",
+        "Water"
+      ],
+      "ability": "Quark Drive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ice",
+      "maxhp": 215,
+      "stats": {
+        "atk": 129,
+        "def": 223,
+        "spa": 239,
+        "spd": 139,
+        "spe": 257
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Farigiraf",
+      "level": 89,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 358,
+      "stats": {
+        "atk": 211,
+        "def": 175,
+        "spa": 247,
+        "spd": 175,
+        "spe": 158
+      },
+      "moves": [
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Forretress",
+      "level": 84,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "ability": "Sturdy",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 263,
+      "stats": {
+        "atk": 199,
+        "def": 283,
+        "spa": 149,
+        "spd": 149,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Staraptor",
+      "level": 79,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Band",
+      "teraType": "Flying",
+      "maxhp": 263,
+      "stats": {
+        "atk": 235,
+        "def": 156,
+        "spa": 125,
+        "spd": 140,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Conkeldurr",
+      "level": 80,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Guts",
+      "item": "Flame Orb",
+      "teraType": "Normal",
+      "maxhp": 299,
+      "stats": {
+        "atk": 270,
+        "def": 198,
+        "spa": 134,
+        "spd": 150,
+        "spe": 118
+      },
+      "moves": [
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Swanna",
+      "level": 89,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Hydration",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 206,
+        "def": 163,
+        "spa": 206,
+        "spd": 163,
+        "spe": 225
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Iron Bundle||HeavyDutyBoots|QuarkDrive|icebeam,hydropump,freezedry,encore||85,,85,85,85,85|N|,0,,,,||78|,,,,,Ice]Farigiraf||Leftovers|SapSipper|psychicnoise,bodyslam,wish,protect||85,85,85,85,85,85|M|||89|,,,,,Ground]Forretress||Leftovers|Sturdy|rapidspin,thunderwave,ironhead,stealthrock||85,85,85,85,85,85|M|||84|,,,,,Water]Staraptor||ChoiceBand|Reckless|closecombat,uturn,quickattack,bravebird||81,85,85,85,85,85|M|||79|,,,,,Flying]Conkeldurr||FlameOrb|Guts|facade,knockoff,closecombat,machpunch||85,85,85,85,85,85|M|||80|,,,,,Normal]Swanna||HeavyDutyBoots|Hydration|hydropump,roost,knockoff,bravebird||85,85,85,85,85,85|F|||89|,,,,,Ground",
   "ai": "Chien-Pao||HeavyDutyBoots|SwordofRuin|throatchop,iciclecrash,swordsdance,iceshard||85,85,85,85,85,85|N|||72|,,,,,Ice]Palafin||ChoiceBand|ZerotoHero|closecombat,flipturn,wavecrash,jetpunch||85,85,85,85,85,85|M|||77|,,,,,Fighting]Hawlucha||WhiteHerb|Unburden|swordsdance,bravebird,stoneedge,closecombat||85,85,85,85,85,85|F|||80|,,,,,Flying]Golem||CustapBerry|Sturdy|explosion,stoneedge,earthquake,stealthrock||85,85,85,85,85,85|M|||87|,,,,,Steel]Goodra|GoodraHisui|AssaultVest|SapSipper|heavyslam,hydropump,dragontail,dracometeor||85,85,85,85,85,85|M|||82|,,,,,Water]Lokix||SilverPowder|TintedLens|knockoff,firstimpression,uturn,suckerpunch||85,85,85,85,85,85|F|||82|,,,,,Bug",
   "curation": {

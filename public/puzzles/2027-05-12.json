@@ -19,6 +19,252 @@
     "Altaria",
     "Gurdurr"
   ],
+  "playerSets": [
+    {
+      "species": "Araquanid",
+      "level": 82,
+      "types": [
+        "Water",
+        "Bug"
+      ],
+      "ability": "Water Bubble",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 246,
+      "stats": {
+        "atk": 162,
+        "def": 198,
+        "spa": 129,
+        "spd": 264,
+        "spe": 116
+      },
+      "moves": [
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Piloswine",
+      "level": 85,
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "ability": "Thick Fat",
+      "item": "Eviolite",
+      "teraType": "Dragon",
+      "maxhp": 309,
+      "stats": {
+        "atk": 219,
+        "def": 185,
+        "spa": 151,
+        "spd": 151,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Regirock",
+      "level": 83,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Clear Body",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 268,
+      "stats": {
+        "atk": 214,
+        "def": 380,
+        "spa": 131,
+        "spd": 214,
+        "spe": 131
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Chesnaught",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Bulletproof",
+      "item": "Rocky Helmet",
+      "teraType": "Steel",
+      "maxhp": 285,
+      "stats": {
+        "atk": 228,
+        "def": 253,
+        "spa": 173,
+        "spd": 174,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Altaria",
+      "level": 89,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "ability": "Natural Cure",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 278,
+      "stats": {
+        "atk": 175,
+        "def": 211,
+        "spa": 175,
+        "spd": 238,
+        "spe": 193
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Gurdurr",
+      "level": 85,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Guts",
+      "item": "Eviolite",
+      "teraType": "Steel",
+      "maxhp": 283,
+      "stats": {
+        "atk": 227,
+        "def": 193,
+        "spa": 117,
+        "spd": 134,
+        "spe": 117
+      },
+      "moves": [
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Araquanid||HeavyDutyBoots|WaterBubble|leechlife,stickyweb,hydropump,liquidation||85,85,85,85,85,85|M|||82|,,,,,Water]Piloswine||Eviolite|ThickFat|stealthrock,iceshard,iciclecrash,earthquake||85,85,85,85,85,85|M|||85|,,,,,Dragon]Regirock||Leftovers|ClearBody|stoneedge,thunderwave,irondefense,bodypress||85,85,85,85,85,85|N|||83|,,,,,Fighting]Chesnaught||RockyHelmet|Bulletproof|knockoff,synthesis,woodhammer,bodypress||85,85,85,85,85,85|M|||84|,,,,,Steel]Altaria||HeavyDutyBoots|NaturalCure|dragondance,earthquake,roost,bravebird||85,85,85,85,85,85|M|||89|,,,,,Steel]Gurdurr||Eviolite|Guts|machpunch,bulkup,drainpunch,knockoff||85,85,85,85,85,85|M|||85|,,,,,Steel",
   "ai": "Wugtrio||ChoiceBand|Gooey|aquajet,liquidation,throatchop,stompingtantrum||85,85,85,85,85,85|F|||91|,,,,,Water]Dipplin||Eviolite|StickyHold|dragonpulse,gigadrain,dragontail,recover||85,85,85,85,85,85|F|||88|,,,,,Steel]Basculin||ChoiceBand|Adaptability|flipturn,wavecrash,aquajet,doubleedge||85,85,85,85,85,85|M|||86|,,,,,Water]Sneasler||ChoiceBand|PoisonTouch|closecombat,direclaw,throatchop,uturn||85,85,85,85,85,85|M|||74|,,,,,Fighting]Darkrai||LifeOrb|BadDreams|nastyplot,sludgebomb,focusblast,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison]Zangoose||ToxicOrb|ToxicBoost|knockoff,closecombat,facade,swordsdance||85,85,85,85,85,85|F|||85|,,,,,Normal",
   "curation": {

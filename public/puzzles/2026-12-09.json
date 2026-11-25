@@ -19,6 +19,253 @@
     "Typhlosion",
     "Solgaleo"
   ],
+  "playerSets": [
+    {
+      "species": "Enamorus-Therian",
+      "level": 83,
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "ability": "Overcoat",
+      "item": "Weakness Policy",
+      "teraType": "Ground",
+      "maxhp": 259,
+      "stats": {
+        "atk": 239,
+        "def": 230,
+        "spa": 272,
+        "spd": 214,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Toucannon",
+      "level": 88,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Skill Link",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 284,
+      "stats": {
+        "atk": 261,
+        "def": 182,
+        "spa": 182,
+        "spd": 182,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Beak Blast",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        },
+        {
+          "name": "Boomburst",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Sneasler",
+      "level": 74,
+      "types": [
+        "Fighting",
+        "Poison"
+      ],
+      "ability": "Unburden",
+      "item": "White Herb",
+      "teraType": "Flying",
+      "maxhp": 240,
+      "stats": {
+        "atk": 235,
+        "def": 132,
+        "spa": 102,
+        "spd": 161,
+        "spe": 221
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Dire Claw",
+          "type": "Poison",
+          "pp": 24
+        },
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Hydrapple",
+      "level": 83,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Regenerator",
+      "item": "Choice Specs",
+      "teraType": "Dragon",
+      "maxhp": 312,
+      "stats": {
+        "atk": 137,
+        "def": 230,
+        "spa": 247,
+        "spd": 180,
+        "spe": 121
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Fickle Beam",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Typhlosion",
+      "level": 84,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Blaze",
+      "item": "Choice Specs",
+      "teraType": "Fire",
+      "maxhp": 267,
+      "stats": {
+        "atk": 146,
+        "def": 179,
+        "spa": 231,
+        "spd": 191,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Scorching Sands",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Eruption",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Solgaleo",
+      "level": 74,
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "ability": "Full Metal Body",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 325,
+      "stats": {
+        "atk": 246,
+        "def": 201,
+        "spa": 210,
+        "spd": 175,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Sunsteel Strike",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Roar",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Enamorus|EnamorusTherian|WeaknessPolicy|Overcoat|superpower,moonblast,agility,earthpower||85,85,85,85,85,85|F|||83|,,,,,Ground]Toucannon||HeavyDutyBoots|SkillLink|beakblast,roost,bulletseed,boomburst||85,85,85,85,85,85|F|||88|,,,,,Steel]Sneasler||WhiteHerb|Unburden|closecombat,swordsdance,direclaw,acrobatics||85,85,85,85,85,85|M|||74|,,,,,Flying]Hydrapple||ChoiceSpecs|Regenerator|earthpower,ficklebeam,leafstorm,dracometeor||85,,85,85,85,85|M|,0,,,,||83|,,,,,Dragon]Typhlosion||ChoiceSpecs|Blaze|scorchingsands,eruption,focusblast,fireblast||81,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Solgaleo||Leftovers|FullMetalBody|morningsun,earthquake,sunsteelstrike,roar||85,85,85,85,85,85|N|||74|,,,,,Water",
   "ai": "Flygon||ChoiceScarf|Levitate|outrage,uturn,stoneedge,earthquake||85,85,85,85,85,85|F|||82|,,,,,Rock]Chien-Pao||HeavyDutyBoots|SwordofRuin|iceshard,swordsdance,iciclecrash,throatchop||85,85,85,85,85,85|N|||72|,,,,,Dark]Glastrier||HeavyDutyBoots|ChillingNeigh|highhorsepower,iciclecrash,swordsdance,heavyslam||85,85,85,85,85,85|N|||86|,,,,,Ground]Regigigas||Leftovers|SlowStart|rest,knockoff,sleeptalk,bodyslam||85,85,85,85,85,85|N|||84|,,,,,Ghost]Florges|FlorgesOrange|Leftovers|FlowerVeil|calmmind,protect,moonblast,wish||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Klefki||Leftovers|Prankster|spikes,dazzlinggleam,foulplay,thunderwave||85,,85,85,85,85|M|,0,,,,||84|,,,,,Flying",
   "curation": {

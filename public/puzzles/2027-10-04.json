@@ -19,6 +19,254 @@
     "Pawmot",
     "Tatsugiri"
   ],
+  "playerSets": [
+    {
+      "species": "Chandelure",
+      "level": 83,
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "ability": "Flash Fire",
+      "item": "Choice Scarf",
+      "teraType": "Ghost",
+      "maxhp": 235,
+      "stats": {
+        "atk": 96,
+        "def": 197,
+        "spa": 288,
+        "spd": 197,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Yanmega",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Choice Specs",
+      "teraType": "Bug",
+      "maxhp": 275,
+      "stats": {
+        "atk": 172,
+        "def": 188,
+        "spa": 237,
+        "spd": 139,
+        "spe": 203
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Braviary-Hisui",
+      "level": 85,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 326,
+      "stats": {
+        "atk": 146,
+        "def": 168,
+        "spa": 239,
+        "spd": 168,
+        "spe": 159
+      },
+      "moves": [
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Heat Wave",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Munkidori",
+      "level": 79,
+      "types": [
+        "Poison",
+        "Psychic"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 269,
+      "stats": {
+        "atk": 123,
+        "def": 150,
+        "spa": 251,
+        "spd": 188,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Pawmot",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Fighting"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Leppa Berry",
+      "teraType": "Electric",
+      "maxhp": 243,
+      "stats": {
+        "atk": 230,
+        "def": 158,
+        "spa": 158,
+        "spd": 142,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Revival Blessing",
+          "type": "Normal",
+          "pp": 1
+        },
+        {
+          "name": "Double Shock",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Nuzzle",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Tatsugiri",
+      "level": 87,
+      "types": [
+        "Dragon",
+        "Water"
+      ],
+      "ability": "Storm Drain",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 260,
+      "stats": {
+        "atk": 137,
+        "def": 154,
+        "spa": 259,
+        "spd": 215,
+        "spe": 192
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Chandelure||ChoiceScarf|FlashFire|trick,fireblast,energyball,shadowball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Yanmega||ChoiceSpecs|TintedLens|gigadrain,uturn,bugbuzz,airslash||85,85,85,85,85,85|F|||82|,,,,,Bug]Braviary|BraviaryHisui|LifeOrb|SheerForce|agility,hurricane,psychic,heatwave||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Munkidori||LifeOrb|ToxicChain|nastyplot,psyshock,sludgewave,focusblast||85,,85,85,85,85|M|,0,,,,||79|,,,,,Poison]Pawmot||LeppaBerry|VoltAbsorb|revivalblessing,doubleshock,closecombat,nuzzle||85,85,85,85,85,85|M|||80|,,,,,Electric]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,rapidspin,surf,nastyplot||85,85,85,85,85,85|M|||87|,,,,,Steel",
   "ai": "Sableye||Leftovers|Prankster|recover,willowisp,knockoff,encore||85,85,85,85,85,85|M|||87|,,,,,Poison]Terapagos||HeavyDutyBoots|TeraShift|rapidspin,earthpower,terastarstorm,calmmind||85,85,85,85,85,85|M|||77|,,,,,Stellar]Bruxish||LifeOrb|StrongJaw|psychicfangs,aquajet,wavecrash,swordsdance||85,85,85,85,85,85|M|||85|,,,,,Psychic]Registeel||Leftovers|ClearBody|irondefense,ironhead,bodypress,thunderwave||85,85,85,85,85,85|N|||81|,,,,,Fighting]Meowstic||Leftovers|Prankster|alluringvoice,thunderwave,yawn,psychicnoise||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Golurk||LifeOrb|NoGuard|earthquake,stealthrock,poltergeist,dynamicpunch||85,85,85,85,85,85|N|||87|,,,,,Fighting",
   "curation": {

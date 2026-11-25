@@ -19,6 +19,253 @@
     "Sawsbuck-Autumn",
     "Wigglytuff"
   ],
+  "playerSets": [
+    {
+      "species": "Sceptile",
+      "level": 87,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Overgrow",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 264,
+      "stats": {
+        "atk": 198,
+        "def": 163,
+        "spa": 232,
+        "spd": 198,
+        "spe": 259
+      },
+      "moves": [
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Shed Tail",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Incineroar",
+      "level": 82,
+      "types": [
+        "Fire",
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 290,
+      "stats": {
+        "atk": 236,
+        "def": 195,
+        "spa": 178,
+        "spd": 195,
+        "spe": 146
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Probopass",
+      "level": 91,
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "ability": "Magnet Pull",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 257,
+      "stats": {
+        "atk": 105,
+        "def": 316,
+        "spa": 188,
+        "spd": 325,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Power Gem",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Frosmoth",
+      "level": 82,
+      "types": [
+        "Ice",
+        "Bug"
+      ],
+      "ability": "Ice Scales",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 146,
+        "spa": 252,
+        "spd": 195,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Sawsbuck-Autumn",
+      "level": 88,
+      "types": [
+        "Normal",
+        "Grass"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 284,
+      "stats": {
+        "atk": 226,
+        "def": 173,
+        "spa": 156,
+        "spd": 173,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Headbutt",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Wigglytuff",
+      "level": 96,
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "ability": "Competitive",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 424,
+      "stats": {
+        "atk": 139,
+        "def": 141,
+        "spa": 218,
+        "spd": 150,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Sceptile||LifeOrb|Overgrow|rockslide,shedtail,leafstorm,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Incineroar||HeavyDutyBoots|Intimidate|knockoff,closecombat,flareblitz,willowisp||85,85,85,85,85,85|M|||82|,,,,,Fighting]Probopass||ChestoBerry|MagnetPull|irondefense,rest,bodypress,powergem||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fighting]Frosmoth||HeavyDutyBoots|IceScales|terablast,gigadrain,icebeam,quiverdance||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Sawsbuck|SawsbuckAutumn|LifeOrb|SereneGrace|hornleech,highhorsepower,headbutt,swordsdance||85,85,85,85,85,85|M|||88|,,,,,Normal]Wigglytuff||Leftovers|Competitive|dazzlinggleam,fireblast,wish,protect||85,,85,85,85,85|M|,0,,,,||96|,,,,,Steel",
   "ai": "Crawdaunt||LifeOrb|Adaptability|aquajet,crabhammer,dragondance,knockoff||85,85,85,85,85,85|M|||84|,,,,,Water]Misdreavus||Eviolite|Levitate|calmmind,shadowball,drainingkiss,willowisp||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Pawmot||LeppaBerry|VoltAbsorb|nuzzle,revivalblessing,closecombat,doubleshock||85,85,85,85,85,85|M|||80|,,,,,Electric]Zekrom||Leftovers|Teravolt|outrage,boltstrike,dragondance,substitute||85,85,85,85,85,85|N|||71|,,,,,Fairy]Polteageist|PolteageistAntique|WhiteHerb|CursedBody|strengthsap,storedpower,shellsmash,shadowball||85,,85,85,85,85|N|,0,,,,||78|,,,,,Psychic]Espathra||ChoiceSpecs|SpeedBoost|shadowball,luminacrash,uturn,dazzlinggleam||85,85,85,85,85,85|M|||80|,,,,,Fairy",
   "curation": {

@@ -19,6 +19,252 @@
     "Mewtwo",
     "Weavile"
   ],
+  "playerSets": [
+    {
+      "species": "Kingdra",
+      "level": 84,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Swift Swim",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 263,
+      "stats": {
+        "atk": 208,
+        "def": 208,
+        "spa": 208,
+        "spd": 208,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Rain Dance",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Raichu-Alola",
+      "level": 87,
+      "types": [
+        "Electric",
+        "Psychic"
+      ],
+      "ability": "Surge Surfer",
+      "item": "Choice Specs",
+      "teraType": "Fairy",
+      "maxhp": 246,
+      "stats": {
+        "atk": 152,
+        "def": 137,
+        "spa": 215,
+        "spd": 198,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Maushold",
+      "level": 76,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Wide Lens",
+      "teraType": "Ghost",
+      "maxhp": 238,
+      "stats": {
+        "atk": 158,
+        "def": 150,
+        "spa": 143,
+        "spd": 158,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Bite",
+          "type": "Dark",
+          "pp": 40
+        },
+        {
+          "name": "Tidy Up",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Population Bomb",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Iron Hands",
+      "level": 79,
+      "types": [
+        "Fighting",
+        "Electric"
+      ],
+      "ability": "Quark Drive",
+      "item": "Assault Vest",
+      "teraType": "Fighting",
+      "maxhp": 373,
+      "stats": {
+        "atk": 267,
+        "def": 216,
+        "spa": 125,
+        "spd": 153,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mewtwo",
+      "level": 72,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 272,
+      "stats": {
+        "atk": 163,
+        "def": 172,
+        "spa": 264,
+        "spd": 172,
+        "spe": 229
+      },
+      "moves": [
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Psystrike",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Weavile",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Ice"
+      ],
+      "ability": "Pickpocket",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ice",
+      "maxhp": 240,
+      "stats": {
+        "atk": 235,
+        "def": 148,
+        "spa": 117,
+        "spd": 180,
+        "spe": 243
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Low Kick",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Kingdra||LifeOrb|SwiftSwim|dracometeor,hurricane,raindance,wavecrash||85,85,85,85,85,85|F|||84|,,,,,Water]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|surf,alluringvoice,psychic,thunderbolt||85,,85,85,85,85|M|,0,,,,||87|,,,,,Fairy]Maushold||WideLens|Technician|bite,tidyup,populationbomb,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Iron Hands||AssaultVest|QuarkDrive|voltswitch,heavyslam,wildcharge,closecombat||85,85,85,85,85,85|N|||79|,,,,,Fighting]Mewtwo||LifeOrb|Pressure|aurasphere,nastyplot,darkpulse,psystrike||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fighting]Weavile||HeavyDutyBoots|Pickpocket|knockoff,lowkick,swordsdance,tripleaxel||85,85,85,85,85,85|F|||79|,,,,,Ice",
   "ai": "Pachirisu||AssaultVest|VoltAbsorb|nuzzle,uturn,superfang,thunderbolt||85,85,85,85,85,85|F|||96|,,,,,Flying]Uxie||Leftovers|Levitate|psyshock,nastyplot,drainingkiss,encore||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy]Vaporeon||Leftovers|WaterAbsorb|wish,calmmind,scald,protect||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Tyranitar||Leftovers|SandStream|stoneedge,earthquake,thunderwave,knockoff||85,85,85,85,85,85|M|||78|,,,,,Ghost]Clefable||Leftovers|Unaware|fireblast,moonlight,moonblast,calmmind||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fire]Hypno||Leftovers|Insomnia|encore,knockoff,toxic,psychicnoise||85,85,85,85,85,85|M|||95|,,,,,Dark",
   "curation": {

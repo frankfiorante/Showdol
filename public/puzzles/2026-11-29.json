@@ -19,6 +19,253 @@
     "Klefki",
     "Hawlucha"
   ],
+  "playerSets": [
+    {
+      "species": "Dewgong",
+      "level": 94,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Thick Fat",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Poison",
+      "maxhp": 322,
+      "stats": {
+        "atk": 185,
+        "def": 204,
+        "spa": 185,
+        "spd": 232,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Gouging Fire",
+      "level": 74,
+      "types": [
+        "Fire",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 277,
+      "stats": {
+        "atk": 213,
+        "def": 222,
+        "spa": 139,
+        "spd": 181,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Wugtrio",
+      "level": 91,
+      "types": [
+        "Water"
+      ],
+      "ability": "Gooey",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 212,
+      "stats": {
+        "atk": 234,
+        "def": 143,
+        "spa": 143,
+        "spd": 179,
+        "spe": 270
+      },
+      "moves": [
+        {
+          "name": "Stomping Tantrum",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Armarouge",
+      "level": 80,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ability": "Weak Armor",
+      "item": "Choice Specs",
+      "teraType": "Grass",
+      "maxhp": 267,
+      "stats": {
+        "atk": 101,
+        "def": 206,
+        "spa": 246,
+        "spd": 174,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Armor Cannon",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Klefki",
+      "level": 84,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 233,
+      "stats": {
+        "atk": 183,
+        "def": 201,
+        "spa": 183,
+        "spd": 194,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Magnet Rise",
+          "type": "Electric",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hawlucha",
+      "level": 80,
+      "types": [
+        "Fighting",
+        "Flying"
+      ],
+      "ability": "Unburden",
+      "item": "White Herb",
+      "teraType": "Flying",
+      "maxhp": 256,
+      "stats": {
+        "atk": 193,
+        "def": 166,
+        "spa": 165,
+        "spd": 147,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Dewgong||HeavyDutyBoots|ThickFat|knockoff,surf,tripleaxel,encore||85,85,85,85,85,85|M|||94|,,,,,Poison]Gouging Fire||HeavyDutyBoots|Protosynthesis|dragondance,outrage,heatcrash,earthquake||85,85,85,85,85,85|N|||74|,,,,,Ground]Wugtrio||ChoiceBand|Gooey|stompingtantrum,throatchop,liquidation,aquajet||85,85,85,85,85,85|M|||91|,,,,,Ground]Armarouge||ChoiceSpecs|WeakArmor|energyball,psyshock,armorcannon,focusblast||85,,85,85,85,85|F|,0,,,,||80|,,,,,Grass]Klefki||Leftovers|Prankster|spikes,playrough,thunderwave,magnetrise||85,85,85,85,85,85|F|||84|,,,,,Water]Hawlucha||WhiteHerb|Unburden|swordsdance,stoneedge,bravebird,closecombat||85,85,85,85,85,85|M|||80|,,,,,Flying",
   "ai": "Ursaring||ToxicOrb|QuickFeet|facade,swordsdance,closecombat,throatchop||85,85,85,85,85,85|F|||84|,,,,,Normal]Jolteon||HeavyDutyBoots|VoltAbsorb|voltswitch,thunderbolt,alluringvoice,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Electric]Vivillon|VivillonModern|HeavyDutyBoots|CompoundEyes|hurricane,sleeppowder,quiverdance,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Araquanid||HeavyDutyBoots|WaterBubble|stickyweb,liquidation,leechlife,hydropump||85,85,85,85,85,85|M|||82|,,,,,Water]Veluza||SitrusBerry|Sharpness|nightslash,aquacutter,psychocut,filletaway||85,85,85,85,85,85|F|||85|,,,,,Dark]Porygon2||Eviolite|Download|recover,terablast,shadowball,thunderwave||85,85,85,85,85,85|N|||81|,,,,,Fighting",
   "curation": {

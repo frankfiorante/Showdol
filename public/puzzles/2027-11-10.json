@@ -19,6 +19,252 @@
     "Raging Bolt",
     "Meganium"
   ],
+  "playerSets": [
+    {
+      "species": "Cobalion",
+      "level": 80,
+      "types": [
+        "Steel",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 277,
+      "stats": {
+        "atk": 149,
+        "def": 253,
+        "spa": 190,
+        "spd": 161,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Vacuum Wave",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ceruledge",
+      "level": 78,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "ability": "Weak Armor",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 245,
+      "stats": {
+        "atk": 240,
+        "def": 170,
+        "spa": 139,
+        "spd": 201,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Bitter Blade",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Deoxys-Speed",
+      "level": 82,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 216,
+      "stats": {
+        "atk": 203,
+        "def": 195,
+        "spa": 203,
+        "spd": 195,
+        "spe": 342
+      },
+      "moves": [
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psycho Boost",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Veluza",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Sharpness",
+      "item": "Sitrus Berry",
+      "teraType": "Psychic",
+      "maxhp": 292,
+      "stats": {
+        "atk": 222,
+        "def": 173,
+        "spa": 181,
+        "spd": 159,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Aqua Cutter",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Fillet Away",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Raging Bolt",
+      "level": 78,
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 323,
+      "stats": {
+        "atk": 118,
+        "def": 187,
+        "spa": 259,
+        "spd": 184,
+        "spe": 162
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Thunderclap",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Meganium",
+      "level": 90,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Overgrow",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 290,
+      "stats": {
+        "atk": 199,
+        "def": 231,
+        "spa": 201,
+        "spd": 231,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Cobalion||Leftovers|Justified|vacuumwave,flashcannon,calmmind,aurasphere||85,,85,85,85,85|N|,0,,,,||80|,,,,,Fighting]Ceruledge||HeavyDutyBoots|WeakArmor|swordsdance,poltergeist,closecombat,bitterblade||85,85,85,85,85,85|M|||78|,,,,,Fire]Deoxys|DeoxysSpeed|Leftovers|Pressure|superpower,psychoboost,stealthrock,spikes||85,85,85,85,85,85|N|||82|,,,,,Fighting]Veluza||SitrusBerry|Sharpness|nightslash,aquacutter,psychocut,filletaway||85,85,85,85,85,85|F|||85|,,,,,Psychic]Raging Bolt||Leftovers|Protosynthesis|thunderbolt,thunderclap,calmmind,dracometeor||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fairy]Meganium||Leftovers|Overgrow|encore,synthesis,energyball,knockoff||85,85,85,85,85,85|F|||90|,,,,,Steel",
   "ai": "Duraludon||Eviolite|LightMetal|flashcannon,bodypress,dracometeor,dragontail||85,85,85,85,85,85|F|||82|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|bravebird,defog,roost,hydropump||85,85,85,85,85,85|F|||89|,,,,,Ground]Flygon||ChoiceBand|Levitate|outrage,stoneedge,uturn,earthquake||85,85,85,85,85,85|F|||82|,,,,,Ground]Ho-Oh||HeavyDutyBoots|Regenerator|sacredfire,recover,bravebird,earthquake||85,85,85,85,85,85|N|||71|,,,,,Ground]Dewgong||HeavyDutyBoots|ThickFat|encore,icebeam,hydropump,knockoff||85,85,85,85,85,85|F|||94|,,,,,Dragon]Krookodile||Leftovers|Intimidate|bulkup,earthquake,knockoff,gunkshot||85,85,85,85,85,85|M|||79|,,,,,Poison",
   "curation": {

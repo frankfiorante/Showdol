@@ -19,6 +19,251 @@
     "Garchomp",
     "Wugtrio"
   ],
+  "playerSets": [
+    {
+      "species": "Koraidon",
+      "level": 64,
+      "types": [
+        "Fighting",
+        "Dragon"
+      ],
+      "ability": "Orichalcum Pulse",
+      "item": "Choice Band",
+      "teraType": "Fire",
+      "maxhp": 235,
+      "stats": {
+        "atk": 211,
+        "def": 185,
+        "spa": 147,
+        "spd": 166,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Gothitelle",
+      "level": 90,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Shadow Tag",
+      "item": "Choice Scarf",
+      "teraType": "Ghost",
+      "maxhp": 272,
+      "stats": {
+        "atk": 104,
+        "def": 222,
+        "spa": 222,
+        "spd": 249,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Quaquaval",
+      "level": 79,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Moxie",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 264,
+      "stats": {
+        "atk": 235,
+        "def": 172,
+        "spa": 180,
+        "spd": 164,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Aqua Step",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ursaring",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Quick Feet",
+      "item": "Toxic Orb",
+      "teraType": "Normal",
+      "maxhp": 288,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 174,
+        "spd": 174,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Garchomp",
+      "level": 74,
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "ability": "Rough Skin",
+      "item": "Rocky Helmet",
+      "teraType": "Steel",
+      "maxhp": 282,
+      "stats": {
+        "atk": 235,
+        "def": 184,
+        "spa": 161,
+        "spd": 169,
+        "spe": 194
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Wugtrio",
+      "level": 91,
+      "types": [
+        "Water"
+      ],
+      "ability": "Gooey",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 212,
+      "stats": {
+        "atk": 234,
+        "def": 143,
+        "spa": 143,
+        "spd": 179,
+        "spe": 270
+      },
+      "moves": [
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Stomping Tantrum",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Koraidon||ChoiceBand|OrichalcumPulse|closecombat,uturn,outrage,flareblitz||85,85,85,85,85,85|N|||64|,,,,,Fire]Gothitelle||ChoiceScarf|ShadowTag|psychic,trick,focusblast,darkpulse||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ghost]Quaquaval||Leftovers|Moxie|aquastep,roost,closecombat,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Steel]Ursaring||ToxicOrb|QuickFeet|facade,closecombat,crunch,swordsdance||85,85,85,85,85,85|M|||84|,,,,,Normal]Garchomp||RockyHelmet|RoughSkin|earthquake,outrage,spikes,stealthrock||85,85,85,85,85,85|F|||74|,,,,,Steel]Wugtrio||ChoiceBand|Gooey|throatchop,liquidation,aquajet,stompingtantrum||85,85,85,85,85,85|M|||91|,,,,,Ground",
   "ai": "Kleavor||ChoiceScarf|Sharpness|xscissor,stoneaxe,closecombat,uturn||85,85,85,85,85,85|M|||78|,,,,,Rock]Politoed||ChoiceSpecs|Drizzle|hydropump,icebeam,weatherball,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Water]Cramorant||HeavyDutyBoots|GulpMissile|bravebird,roost,surf,defog||85,85,85,85,85,85|M|||86|,,,,,Ground]Dragonite||HeavyDutyBoots|Multiscale|outrage,dragondance,ironhead,earthquake||85,85,85,85,85,85|F|||74|,,,,,Steel]Whimsicott||Leftovers|Prankster|encore,substitute,leechseed,moonblast||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Meowstic||LightClay|Prankster|reflect,yawn,psychicnoise,lightscreen||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy",
   "curation": {

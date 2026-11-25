@@ -19,6 +19,252 @@
     "Typhlosion",
     "Glastrier"
   ],
+  "playerSets": [
+    {
+      "species": "Basculegion",
+      "level": 80,
+      "types": [
+        "Water",
+        "Ghost"
+      ],
+      "ability": "Adaptability",
+      "item": "Assault Vest",
+      "teraType": "Water",
+      "maxhp": 323,
+      "stats": {
+        "atk": 225,
+        "def": 150,
+        "spa": 174,
+        "spd": 166,
+        "spe": 171
+      },
+      "moves": [
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Rotom-Wash",
+      "level": 82,
+      "types": [
+        "Electric",
+        "Water"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 216,
+      "stats": {
+        "atk": 111,
+        "def": 223,
+        "spa": 219,
+        "spd": 223,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Fezandipiti",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Fairy"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 196,
+        "def": 182,
+        "spa": 162,
+        "spd": 252,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Hoopa",
+      "level": 85,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "ability": "Magician",
+      "item": "Life Orb",
+      "teraType": "Psychic",
+      "maxhp": 275,
+      "stats": {
+        "atk": 192,
+        "def": 151,
+        "spa": 304,
+        "spd": 270,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Typhlosion",
+      "level": 84,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Blaze",
+      "item": "Choice Scarf",
+      "teraType": "Fire",
+      "maxhp": 267,
+      "stats": {
+        "atk": 146,
+        "def": 179,
+        "spa": 231,
+        "spd": 191,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Scorching Sands",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Eruption",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Glastrier",
+      "level": 86,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Chilling Neigh",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 312,
+      "stats": {
+        "atk": 299,
+        "def": 273,
+        "spa": 161,
+        "spd": 238,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Basculegion||AssaultVest|Adaptability|wavecrash,shadowball,aquajet,flipturn||85,85,85,85,85,85|M|||80|,,,,,Water]Rotom|RotomWash|Leftovers|Levitate|thunderbolt,nastyplot,willowisp,hydropump||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Fezandipiti||Leftovers|ToxicChain|gunkshot,terablast,playrough,swordsdance||85,85,85,85,85,85|M|||82|,,,,,Ground]Hoopa||LifeOrb|Magician|shadowball,psyshock,nastyplot,focusblast||85,,85,85,85,85|N|,0,,,,||85|,,,,,Psychic]Typhlosion||ChoiceScarf|Blaze|scorchingsands,eruption,fireblast,focusblast||81,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Glastrier||HeavyDutyBoots|ChillingNeigh|iciclecrash,closecombat,swordsdance,highhorsepower||85,85,85,85,85,85|N|||86|,,,,,Ground",
   "ai": "Lycanroc|LycanrocMidnight|LifeOrb|NoGuard|closecombat,swordsdance,stoneedge,suckerpunch||85,85,85,85,85,85|M|||88|,,,,,Fighting]Rampardos||ChoiceScarf|SheerForce|headsmash,earthquake,rockslide,firepunch||85,85,85,85,85,85|M|||90|,,,,,Fire]Revavroom||LifeOrb|Filter|gunkshot,shiftgear,ironhead,highhorsepower||85,85,85,85,85,85|M|||79|,,,,,Ground]Cinccino||LoadedDice|Technician|bulletseed,uturn,tailslap,tripleaxel||85,85,85,85,85,85|F|||83|,,,,,Grass]Misdreavus||Eviolite|Levitate|calmmind,willowisp,drainingkiss,shadowball||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Exeggutor|ExeggutorAlola|SitrusBerry|Harvest|gigadrain,flamethrower,calmmind,dragonpulse||85,,85,85,85,85|F|,0,,,,||89|,,,,,Steel",
   "curation": {

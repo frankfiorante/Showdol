@@ -19,6 +19,253 @@
     "Iron Thorns",
     "Azumarill"
   ],
+  "playerSets": [
+    {
+      "species": "Shaymin-Sky",
+      "level": 73,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "ability": "Serene Grace",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 155,
+        "def": 152,
+        "spa": 218,
+        "spd": 152,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Seed Flare",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Oricorio-Pa'u",
+      "level": 87,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Dancer",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 272,
+      "stats": {
+        "atk": 126,
+        "def": 172,
+        "spa": 220,
+        "spd": 172,
+        "spe": 212
+      },
+      "moves": [
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Revelation Dance",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Greninja-Bond",
+      "level": 80,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Battle Bond",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 246,
+      "stats": {
+        "atk": 198,
+        "def": 153,
+        "spa": 211,
+        "spd": 160,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mewtwo",
+      "level": 72,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 272,
+      "stats": {
+        "atk": 163,
+        "def": 172,
+        "spa": 264,
+        "spd": 172,
+        "spe": 229
+      },
+      "moves": [
+        {
+          "name": "Psystrike",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Iron Thorns",
+      "level": 81,
+      "types": [
+        "Rock",
+        "Electric"
+      ],
+      "ability": "Quark Drive",
+      "item": "Booster Energy",
+      "teraType": "Flying",
+      "maxhp": 295,
+      "stats": {
+        "atk": 264,
+        "def": 225,
+        "spa": 160,
+        "spd": 183,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Azumarill",
+      "level": 82,
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "ability": "Huge Power",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 298,
+      "stats": {
+        "atk": 129,
+        "def": 178,
+        "spa": 146,
+        "spd": 178,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Shaymin|ShayminSky|Leftovers|SereneGrace|airslash,substitute,leechseed,seedflare||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Oricorio|OricorioPau|HeavyDutyBoots|Dancer|hurricane,revelationdance,roost,quiverdance||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Greninja|GreninjaBond|LifeOrb|BattleBond|hydropump,gunkshot,darkpulse,icebeam||85,85,85,85,85,85|M|||80|,,,,,Water]Mewtwo||LifeOrb|Pressure|psystrike,fireblast,nastyplot,aurasphere||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire]Iron Thorns||BoosterEnergy|QuarkDrive|wildcharge,stoneedge,earthquake,dragondance||85,85,85,85,85,85|N|||81|,,,,,Flying]Azumarill||ChoiceBand|HugePower|knockoff,liquidation,playrough,aquajet||85,85,85,85,85,85|M|||82|,,,,,Water",
   "ai": "Drifblim||SitrusBerry|Unburden|airslash,shadowball,strengthsap,calmmind||73,,85,85,85,85|F|,0,,,,||86|,,,,,Fairy]Krookodile||LifeOrb|Intimidate|stoneedge,stealthrock,knockoff,earthquake||85,85,85,85,85,85|F|||79|,,,,,Ground]Eternatus||RockyHelmet|Pressure|dynamaxcannon,toxic,recover,flamethrower||85,,85,85,85,85|N|,0,,,,||69|,,,,,Dragon]Salazzle||HeavyDutyBoots|Corrosion|terablast,sludgewave,nastyplot,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Beartic||ChoiceBand|SlushRush|iciclecrash,closecombat,earthquake,aquajet||85,85,85,85,85,85|M|||91|,,,,,Fighting]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderwave,thunderbolt,voltswitch,scald||85,,85,85,85,85|M|,0,,,,||89|,,,,,Flying",
   "curation": {

@@ -38,7 +38,7 @@ function fail(msg: string): never {
   process.exit(1);
 }
 
-let wins = 0, forfeits = 0, rejected = 0, turns = 0;
+let wins = 0, forfeits = 0, rejected = 0, turns = 0, hintChecks = 0;
 const t0 = performance.now();
 for (let i = 0; i < n; i++) {
   const pz = puzzles[i % puzzles.length];
@@ -57,6 +57,22 @@ for (let i = 0; i < n; i++) {
     if (v.foe.team.length > 6) fail(`foe team > 6 on ${pz.date}: ${v.foe.team.map(f => f.name + '/' + f.species).join(', ')}`);
     for (const f of v.foe.team) if (!foeNames.has(f.name)) fail(`foe ${f.name} not on AI team`);
     if (v.foe.active && v.foe.active.maxhp !== 100) fail('foe HP should be a percentage');
+    // The tooltip's public estimates must contain the real hidden values.
+    const shown = v.foe.active, real = s.sim.sides[1].active[0];
+    // Illusion disguises the Pokémon on purpose; Transform is checked (its Speed is exact).
+    if (shown && real && !real.fainted && real.species.name === shown.species && !real.illusion) {
+      hintChecks++;
+      const spe = real.storedStats.spe;
+      if (!shown.speed || spe < shown.speed.min || spe > shown.speed.max) {
+        fail(`${shown.species} speed ${spe} outside ${shown.speed?.min}-${shown.speed?.max} on ${pz.date}`);
+      }
+      if (real.transformed && shown.speed?.min !== spe) fail(`transformed ${real.name}: speed ${spe} vs exact ${shown.speed?.min}`);
+      // Transform copies the target's ability; otherwise compare the set's own ability.
+      const realAbility = s.sim.dex.abilities.get(real.transformed ? real.ability : real.baseAbility).name;
+      if (shown.possibleAbilities && !shown.possibleAbilities.includes(realAbility)) {
+        fail(`${shown.species} ability ${realAbility} not in ${shown.possibleAbilities.join('/')} on ${pz.date}`);
+      }
+    }
     if (v.turn >= forfeitAt) { step = s.forfeit(); break; }
     try {
       step = s.choose(pickChoice(v, rng));
@@ -96,4 +112,5 @@ for (let i = 0; i < n; i++) {
 }
 const ms = performance.now() - t0;
 console.log(`${n} battles: player won ${wins}, forfeits ${forfeits}, avg turns ${(turns / n).toFixed(1)}, rejected choices ${rejected}`);
+console.log(`foe speed/ability estimates contained the real values in ${hintChecks} checks`);
 console.log(`resumes identical; ${(ms / n).toFixed(1)} ms per battle incl. replay`);

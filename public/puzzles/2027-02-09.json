@@ -19,6 +19,251 @@
     "Haxorus",
     "Girafarig"
   ],
+  "playerSets": [
+    {
+      "species": "Suicune",
+      "level": 82,
+      "types": [
+        "Water"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 298,
+      "stats": {
+        "atk": 128,
+        "def": 236,
+        "spa": 195,
+        "spd": 236,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Stonjourner",
+      "level": 91,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Power Spot",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 330,
+      "stats": {
+        "atk": 279,
+        "def": 298,
+        "spa": 88,
+        "spd": 88,
+        "spe": 179
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Noivern",
+      "level": 82,
+      "types": [
+        "Flying",
+        "Dragon"
+      ],
+      "ability": "Infiltrator",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 274,
+      "stats": {
+        "atk": 119,
+        "def": 178,
+        "spa": 206,
+        "spd": 178,
+        "spe": 249
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Slowking-Galar",
+      "level": 85,
+      "types": [
+        "Poison",
+        "Psychic"
+      ],
+      "ability": "Regenerator",
+      "item": "Assault Vest",
+      "teraType": "Fairy",
+      "maxhp": 300,
+      "stats": {
+        "atk": 115,
+        "def": 185,
+        "spa": 236,
+        "spd": 236,
+        "spe": 100
+      },
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Future Sight",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Haxorus",
+      "level": 78,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Lum Berry",
+      "teraType": "Steel",
+      "maxhp": 247,
+      "stats": {
+        "atk": 274,
+        "def": 185,
+        "spa": 139,
+        "spd": 154,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Girafarig",
+      "level": 89,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Eviolite",
+      "teraType": "Electric",
+      "maxhp": 269,
+      "stats": {
+        "atk": 147,
+        "def": 166,
+        "spa": 211,
+        "spd": 166,
+        "spe": 202
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Suicune||Leftovers|Pressure|calmmind,substitute,icebeam,scald||85,,85,85,85,85|N|,0,,,,||82|,,,,,Dragon]Stonjourner||LifeOrb|PowerSpot|earthquake,stoneedge,stealthrock,heatcrash||85,85,85,85,85,85|M|||91|,,,,,Fire]Noivern||HeavyDutyBoots|Infiltrator|dracometeor,hurricane,flamethrower,roost||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fire]Slowking|SlowkingGalar|AssaultVest|Regenerator|surf,psychicnoise,futuresight,sludgebomb||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fairy]Haxorus||LumBerry|MoldBreaker|earthquake,outrage,dragondance,ironhead||85,85,85,85,85,85|M|||78|,,,,,Steel]Girafarig||Eviolite|SapSipper|psyshock,hypervoice,thunderbolt,nastyplot||85,,85,85,85,85|M|,0,,,,||89|,,,,,Electric",
   "ai": "Magearna||ChoiceScarf|SoulHeart|fleurcannon,flashcannon,voltswitch,aurasphere||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Ambipom||ChoiceBand|Technician|lowkick,doubleedge,knockoff,tripleaxel||85,85,85,85,85,85|M|||84|,,,,,Ice]Shaymin|ShayminSky|HeavyDutyBoots|SereneGrace|airslash,seedflare,earthpower,synthesis||85,,85,85,85,85|N|,0,,,,||73|,,,,,Water]Seviper||Leftovers|ShedSkin|gunkshot,trailblaze,swordsdance,earthquake||85,85,85,85,85,85|F|||93|,,,,,Grass]Fezandipiti||Leftovers|ToxicChain|gunkshot,playrough,swordsdance,terablast||85,85,85,85,85,85|M|||82|,,,,,Ground]Falinks||LifeOrb|Defiant|knockoff,ironhead,closecombat,noretreat||85,85,85,85,85,85|N|||84|,,,,,Steel",
   "curation": {

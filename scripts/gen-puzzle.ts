@@ -23,6 +23,7 @@ import {Teams, type PRNGSeed} from '@pkmn/sim';
 import {TeamGenerators} from '@pkmn/randoms';
 import {FORMAT, type PuzzleFile} from '@/engine/puzzle';
 import {evaluateMatchup, myShard, shardMap} from './lib/matchup';
+import {playerSetInfo} from '@/engine/player-sets';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const outDir = join(root, 'public', 'puzzles');
@@ -47,6 +48,7 @@ export function generatePuzzle(date: string, reroll = 0): PuzzleFile {
     reroll,
     seeds,
     playerSpecies: player.map(set => set.species),
+    playerSets: playerSetInfo(Teams.pack(player)),
     player: Teams.pack(player),
     ai: Teams.pack(gen(seeds.ai)),
   };
@@ -134,6 +136,19 @@ if (process.argv.includes('--check')) {
   mkdirSync(outDir, {recursive: true});
   const todo = dates.filter(d => force || !existsSync(fileFor(d)));
   const kept = dates.length - todo.length;
+  // Existing days keep their teams and curation; only fill in fields derived from their own packed team.
+  let backfilled = 0;
+  for (const date of dates.filter(d => !todo.includes(d))) {
+    const saved: PuzzleFile = JSON.parse(readFileSync(fileFor(date), 'utf8'));
+    if (saved.playerSets) continue;
+    // Insert right after playerSpecies, leaving every other field where it was.
+    const updated = Object.fromEntries(
+      Object.entries(saved).flatMap(([k, v]) => (k === 'playerSpecies' ? [[k, v], ['playerSets', playerSetInfo(saved.player)]] : [[k, v]])),
+    );
+    writeFileSync(fileFor(date), JSON.stringify(updated, null, 2) + '\n');
+    backfilled++;
+  }
+  if (backfilled) console.log(`added playerSets to ${backfilled} existing file(s)`);
   if (todo.length) {
     const jobs = Math.min(todo.length, Number(arg('jobs') ?? Math.max(1, availableParallelism() - 1)));
     const t0 = performance.now();

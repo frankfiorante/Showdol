@@ -19,6 +19,251 @@
     "Mightyena",
     "Zacian"
   ],
+  "playerSets": [
+    {
+      "species": "Weezing",
+      "level": 88,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 258,
+      "stats": {
+        "atk": 163,
+        "def": 261,
+        "spa": 200,
+        "spd": 173,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Scyther",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Technician",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 249,
+      "stats": {
+        "atk": 228,
+        "def": 178,
+        "spa": 137,
+        "spd": 178,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Dual Wingbeat",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Gliscor",
+      "level": 76,
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "ability": "Poison Heal",
+      "item": "Toxic Orb",
+      "teraType": "Water",
+      "maxhp": 239,
+      "stats": {
+        "atk": 188,
+        "def": 234,
+        "spa": 112,
+        "spd": 158,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Baxcalibur",
+      "level": 75,
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "ability": "Thermal Exchange",
+      "item": "Loaded Dice",
+      "teraType": "Dragon",
+      "maxhp": 295,
+      "stats": {
+        "atk": 261,
+        "def": 182,
+        "spa": 156,
+        "spd": 173,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mightyena",
+      "level": 96,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Choice Band",
+      "teraType": "Fairy",
+      "maxhp": 290,
+      "stats": {
+        "atk": 227,
+        "def": 189,
+        "spa": 170,
+        "spd": 170,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Poison Fang",
+          "type": "Poison",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zacian",
+      "level": 64,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Intrepid Sword",
+      "item": "Rusted Sword",
+      "teraType": "Fighting",
+      "maxhp": 225,
+      "stats": {
+        "atk": 191,
+        "def": 185,
+        "spa": 140,
+        "spd": 185,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Behemoth Blade",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Weezing||Leftovers|Levitate|painsplit,willowisp,fireblast,sludgebomb||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Scyther||HeavyDutyBoots|Technician|closecombat,uturn,defog,dualwingbeat||85,85,85,85,85,85|M|||82|,,,,,Fighting]Gliscor||ToxicOrb|PoisonHeal|knockoff,earthquake,toxicspikes,protect||85,85,85,85,85,85|M|||76|,,,,,Water]Baxcalibur||LoadedDice|ThermalExchange|iciclespear,swordsdance,scaleshot,earthquake||81,85,85,85,85,85|F|||75|,,,,,Dragon]Mightyena||ChoiceBand|Intimidate|poisonfang,suckerpunch,crunch,playrough||85,85,85,85,85,85|F|||96|,,,,,Fairy]Zacian||RustedSword|IntrepidSword|behemothblade,closecombat,playrough,swordsdance||85,85,85,85,85,85|N|||64|,,,,,Fighting",
   "ai": "Regieleki||Magnet|Transistor|explosion,rapidspin,thunderbolt,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Electric]Infernape||LifeOrb|Blaze|knockoff,closecombat,machpunch,overheat||85,85,85,85,85,85|F|||82|,,,,,Fighting]Dragapult||ChoiceSpecs|Infiltrator|dracometeor,fireblast,uturn,shadowball||85,85,85,85,85,85|M|||77|,,,,,Ghost]Hypno||Leftovers|Insomnia|toxic,protect,psychicnoise,focusblast||85,,85,85,85,85|M|,0,,,,||95|,,,,,Dark]Cacturne||LifeOrb|WaterAbsorb|seedbomb,swordsdance,knockoff,suckerpunch||85,85,85,85,85,85|M|||92|,,,,,Dark]Basculegion||AssaultVest|Adaptability|aquajet,wavecrash,shadowball,flipturn||85,85,85,85,85,85|M|||80|,,,,,Water",
   "curation": {

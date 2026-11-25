@@ -19,6 +19,251 @@
     "Snorlax",
     "Venusaur"
   ],
+  "playerSets": [
+    {
+      "species": "Mimikyu",
+      "level": 79,
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "ability": "Disguise",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 216,
+      "stats": {
+        "atk": 188,
+        "def": 172,
+        "spa": 125,
+        "spd": 211,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cetitan",
+      "level": 82,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Thick Fat",
+      "item": "Sitrus Berry",
+      "teraType": "Ice",
+      "maxhp": 412,
+      "stats": {
+        "atk": 232,
+        "def": 154,
+        "spa": 121,
+        "spd": 137,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Belly Drum",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Carbink",
+      "level": 90,
+      "types": [
+        "Rock",
+        "Fairy"
+      ],
+      "ability": "Sturdy",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 236,
+      "stats": {
+        "atk": 95,
+        "def": 321,
+        "spa": 141,
+        "spd": 321,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Rock Polish",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hypno",
+      "level": 95,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Insomnia",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 315,
+      "stats": {
+        "atk": 193,
+        "def": 187,
+        "spa": 193,
+        "spd": 272,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Snorlax",
+      "level": 82,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Thick Fat",
+      "item": "Chesto Berry",
+      "teraType": "Ground",
+      "maxhp": 397,
+      "stats": {
+        "atk": 228,
+        "def": 154,
+        "spa": 154,
+        "spd": 228,
+        "spe": 96
+      },
+      "moves": [
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Venusaur",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 272,
+      "stats": {
+        "atk": 142,
+        "def": 188,
+        "spa": 216,
+        "spd": 216,
+        "spe": 183
+      },
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Mimikyu||LifeOrb|Disguise|shadowsneak,drainpunch,swordsdance,playrough||85,85,85,85,85,85|M|||79|,,,,,Fairy]Cetitan||SitrusBerry|ThickFat|bellydrum,iceshard,earthquake,icespinner||81,85,85,85,85,85|M|||82|,,,,,Ice]Carbink||Leftovers|Sturdy|irondefense,rockpolish,moonblast,bodypress||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Hypno||Leftovers|Insomnia|toxic,psychicnoise,knockoff,encore||85,85,85,85,85,85|M|||95|,,,,,Dark]Snorlax||ChestoBerry|ThickFat|rest,earthquake,bodyslam,curse||85,85,85,85,85,85|F|||82|,,,,,Ground]Venusaur||Leftovers|Chlorophyll|sludgebomb,substitute,leechseed,sleeppowder||85,,85,85,85,85|M|,0,,,,||84|,,,,,Water",
   "ai": "Porygon-Z||ChoiceScarf|Download|shadowball,thunderbolt,triattack,icebeam||85,,85,85,85,85|N|,0,,,,||83|,,,,,Ghost]Tornadus|TornadusTherian|HeavyDutyBoots|Regenerator|bleakwindstorm,focusblast,nastyplot,grassknot||85,,85,85,85,85|M|,0,,,,||79|,,,,,Fighting]Meowscarada||LifeOrb|Protean|flowertrick,tripleaxel,toxicspikes,knockoff||85,85,85,85,85,85|M|||78|,,,,,Grass]Meganium||Leftovers|Overgrow|knockoff,synthesis,encore,energyball||85,85,85,85,85,85|F|||90|,,,,,Poison]Probopass||ChestoBerry|MagnetPull|irondefense,powergem,bodypress,rest||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fighting]Raikou||HeavyDutyBoots|Pressure|thunderbolt,scald,voltswitch,calmmind||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water",
   "curation": {

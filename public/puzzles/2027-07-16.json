@@ -19,6 +19,253 @@
     "Zoroark-Hisui",
     "Virizion"
   ],
+  "playerSets": [
+    {
+      "species": "Poliwrath",
+      "level": 88,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Water Absorb",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 302,
+      "stats": {
+        "atk": 217,
+        "def": 217,
+        "spa": 173,
+        "spd": 209,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Golurk",
+      "level": 87,
+      "types": [
+        "Ground",
+        "Ghost"
+      ],
+      "ability": "No Guard",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 297,
+      "stats": {
+        "atk": 266,
+        "def": 189,
+        "spa": 145,
+        "spd": 189,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Dynamic Punch",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Revavroom",
+      "level": 79,
+      "types": [
+        "Steel",
+        "Poison"
+      ],
+      "ability": "Filter",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 256,
+      "stats": {
+        "atk": 234,
+        "def": 188,
+        "spa": 131,
+        "spd": 151,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Shift Gear",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Milotic",
+      "level": 83,
+      "types": [
+        "Water"
+      ],
+      "ability": "Competitive",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 293,
+      "stats": {
+        "atk": 147,
+        "def": 179,
+        "spa": 214,
+        "spd": 255,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Zoroark-Hisui",
+      "level": 80,
+      "types": [
+        "Normal",
+        "Ghost"
+      ],
+      "ability": "Illusion",
+      "item": "Choice Specs",
+      "teraType": "Fighting",
+      "maxhp": 219,
+      "stats": {
+        "atk": 165,
+        "def": 142,
+        "spa": 246,
+        "spd": 142,
+        "spe": 222
+      },
+      "moves": [
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Bitter Malice",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Virizion",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Rock",
+      "maxhp": 283,
+      "stats": {
+        "atk": 195,
+        "def": 165,
+        "spa": 195,
+        "spd": 259,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Poliwrath||Leftovers|WaterAbsorb|bulkup,drainpunch,knockoff,liquidation||85,85,85,85,85,85|M|||88|,,,,,Steel]Golurk||ChoiceBand|NoGuard|earthquake,poltergeist,dynamicpunch,stoneedge||85,85,85,85,85,85|N|||87|,,,,,Ground]Revavroom||LifeOrb|Filter|highhorsepower,ironhead,gunkshot,shiftgear||85,85,85,85,85,85|M|||79|,,,,,Ground]Milotic||Leftovers|Competitive|dragontail,scald,icebeam,recover||85,85,85,85,85,85|M|||83|,,,,,Dragon]Zoroark|ZoroarkHisui|ChoiceSpecs|Illusion|focusblast,bittermalice,flamethrower,hypervoice||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fighting]Virizion||LifeOrb|Justified|stoneedge,closecombat,leafblade,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock",
   "ai": "Lokix||SilverPowder|TintedLens|knockoff,firstimpression,uturn,suckerpunch||85,85,85,85,85,85|M|||82|,,,,,Bug]Lilligant|LilligantHisui|WideLens|Hustle|leafblade,victorydance,closecombat,sleeppowder||85,85,85,85,85,85|F|||79|,,,,,Fighting]Jirachi||Leftovers|SereneGrace|wish,ironhead,bodyslam,protect||85,85,85,85,85,85|N|||80|,,,,,Water]Okidogi||Leftovers|ToxicChain|bulkup,gunkshot,knockoff,drainpunch||85,85,85,85,85,85|M|||77|,,,,,Dark]Scream Tail||Leftovers|Protosynthesis|wish,protect,thunderwave,dazzlinggleam||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Swampert||Leftovers|Damp|knockoff,stealthrock,yawn,earthquake||85,85,85,85,85,85|F|||82|,,,,,Steel",
   "curation": {

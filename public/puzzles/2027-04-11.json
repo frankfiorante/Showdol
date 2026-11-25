@@ -19,6 +19,252 @@
     "Magearna-Original",
     "Cinccino"
   ],
+  "playerSets": [
+    {
+      "species": "Staraptor",
+      "level": 79,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Scarf",
+      "teraType": "Flying",
+      "maxhp": 263,
+      "stats": {
+        "atk": 235,
+        "def": 156,
+        "spa": 125,
+        "spd": 140,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Veluza",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Sharpness",
+      "item": "Choice Scarf",
+      "teraType": "Water",
+      "maxhp": 292,
+      "stats": {
+        "atk": 222,
+        "def": 173,
+        "spa": 181,
+        "spd": 159,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Aqua Cutter",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Thundurus",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 258,
+      "stats": {
+        "atk": 230,
+        "def": 158,
+        "spa": 246,
+        "spd": 174,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Goodra",
+      "level": 85,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Assault Vest",
+      "teraType": "Water",
+      "maxhp": 292,
+      "stats": {
+        "atk": 175,
+        "def": 168,
+        "spa": 236,
+        "spd": 304,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Magearna-Original",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Soul-Heart",
+      "item": "Leftovers",
+      "teraType": "Flying",
+      "maxhp": 250,
+      "stats": {
+        "atk": 151,
+        "def": 222,
+        "spa": 245,
+        "spd": 222,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Shift Gear",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Fleur Cannon",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cinccino",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Loaded Dice",
+      "teraType": "Ice",
+      "maxhp": 260,
+      "stats": {
+        "atk": 205,
+        "def": 147,
+        "spa": 156,
+        "spd": 147,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Tail Slap",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        }
+      ]
+    }
+  ],
   "player": "Staraptor||ChoiceScarf|Reckless|bravebird,uturn,closecombat,doubleedge||81,85,85,85,85,85|M|||79|,,,,,Flying]Veluza||ChoiceScarf|Sharpness|nightslash,flipturn,aquacutter,psychocut||85,85,85,85,85,85|M|||85|,,,,,Water]Thundurus||HeavyDutyBoots|Prankster|knockoff,sludgewave,thunderwave,thunderbolt||85,85,85,85,85,85|M|||80|,,,,,Electric]Goodra||AssaultVest|SapSipper|sludgebomb,scald,dracometeor,fireblast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Water]Magearna|MagearnaOriginal|Leftovers|SoulHeart|calmmind,shiftgear,fleurcannon,flashcannon||85,,85,85,85,85|N|,0,,,,||77|,,,,,Flying]Cinccino||LoadedDice|Technician|uturn,tripleaxel,tailslap,bulletseed||85,85,85,85,85,85|F|||83|,,,,,Ice",
   "ai": "Maushold|MausholdFour|WideLens|Technician|tidyup,populationbomb,bite,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Hippowdon||RockyHelmet|SandStream|whirlwind,slackoff,stealthrock,earthquake||85,85,85,85,85,85|F|||82|,,,,,Rock]Kingambit||Leftovers|SupremeOverlord|kowtowcleave,swordsdance,ironhead,suckerpunch||85,85,85,85,85,85|F|||74|,,,,,Flying]Golduck||Leftovers|CloudNine|hydropump,icebeam,nastyplot,grassknot||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water]Terapagos||ChestoBerry|TeraShift|rest,calmmind,terastarstorm,earthpower||85,,85,85,85,85|F|,0,,,,||77|,,,,,Stellar]Whimsicott||Leftovers|Prankster|leechseed,moonblast,encore,substitute||85,,85,85,85,85|F|,0,,,,||84|,,,,,Steel",
   "curation": {

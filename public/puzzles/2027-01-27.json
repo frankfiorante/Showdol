@@ -19,6 +19,236 @@
     "Furret",
     "Ditto"
   ],
+  "playerSets": [
+    {
+      "species": "Rotom",
+      "level": 88,
+      "types": [
+        "Electric",
+        "Ghost"
+      ],
+      "ability": "Levitate",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 231,
+      "stats": {
+        "atk": 93,
+        "def": 186,
+        "spa": 217,
+        "spd": 186,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Ceruledge",
+      "level": 78,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "ability": "Weak Armor",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 245,
+      "stats": {
+        "atk": 240,
+        "def": 170,
+        "spa": 139,
+        "spd": 201,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Bitter Blade",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mew",
+      "level": 82,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Synchronize",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 298,
+      "stats": {
+        "atk": 169,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Toxtricity",
+      "level": 82,
+      "types": [
+        "Electric",
+        "Poison"
+      ],
+      "ability": "Punk Rock",
+      "item": "Choice Specs",
+      "teraType": "Normal",
+      "maxhp": 257,
+      "stats": {
+        "atk": 165,
+        "def": 162,
+        "spa": 234,
+        "spd": 162,
+        "spe": 170
+      },
+      "moves": [
+        {
+          "name": "Boomburst",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Overdrive",
+          "type": "Electric",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Furret",
+      "level": 94,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Frisk",
+      "item": "Choice Band",
+      "teraType": "Normal",
+      "maxhp": 312,
+      "stats": {
+        "atk": 196,
+        "def": 174,
+        "spa": 138,
+        "spd": 157,
+        "spe": 223
+      },
+      "moves": [
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ditto",
+      "level": 87,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Imposter",
+      "item": "Choice Scarf",
+      "teraType": "Steel",
+      "maxhp": 225,
+      "stats": {
+        "atk": 133,
+        "def": 133,
+        "spa": 133,
+        "spd": 133,
+        "spe": 133
+      },
+      "moves": [
+        {
+          "name": "Transform",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Rotom||LifeOrb|Levitate|thunderbolt,willowisp,nastyplot,shadowball||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Ceruledge||HeavyDutyBoots|WeakArmor|poltergeist,swordsdance,bitterblade,closecombat||85,85,85,85,85,85|M|||78|,,,,,Fighting]Mew||Leftovers|Synchronize|psychic,willowisp,encore,stealthrock||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Toxtricity||ChoiceSpecs|PunkRock|boomburst,sludgewave,voltswitch,overdrive||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Furret||ChoiceBand|Frisk|trick,doubleedge,uturn,knockoff||85,85,85,85,85,85|M|||94|,,,,,Normal]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Steel",
   "ai": "Roaring Moon||ChoiceBand|Protosynthesis|outrage,uturn,knockoff,ironhead||85,85,85,85,85,85|N|||72|,,,,,Dark]Arboliva||SitrusBerry|Harvest|protect,hypervoice,leechseed,substitute||77,,85,85,85,85|M|,0,,,,||91|,,,,,Poison]Talonflame||HeavyDutyBoots|FlameBody|bravebird,uturn,roost,overheat||85,85,85,85,85,85|M|||83|,,,,,Dragon]Bellibolt||Leftovers|Electromorphosis|muddywater,slackoff,thunderbolt,voltswitch||85,,85,85,85,85|M|,0,,,,||84|,,,,,Electric]Rabsca||HeavyDutyBoots|Synchronize|revivalblessing,bugbuzz,recover,psychic||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Victreebel||LifeOrb|Chlorophyll|weatherball,powerwhip,sludgewave,sunnyday||85,85,85,85,85,85|F|||90|,,,,,Fire",
   "curation": {

@@ -19,6 +19,252 @@
     "Lapras",
     "Goodra"
   ],
+  "playerSets": [
+    {
+      "species": "Fezandipiti",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Fairy"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 196,
+        "def": 182,
+        "spa": 162,
+        "spd": 252,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Lucario",
+      "level": 84,
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 255,
+      "stats": {
+        "atk": 233,
+        "def": 166,
+        "spa": 241,
+        "spd": 166,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Meteor Mash",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Clodsire",
+      "level": 81,
+      "types": [
+        "Poison",
+        "Ground"
+      ],
+      "ability": "Unaware",
+      "item": "Leftovers",
+      "teraType": "Flying",
+      "maxhp": 343,
+      "stats": {
+        "atk": 168,
+        "def": 144,
+        "spa": 120,
+        "spd": 209,
+        "spe": 79
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Slaking",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Truant",
+      "item": "Choice Band",
+      "teraType": "Normal",
+      "maxhp": 389,
+      "stats": {
+        "atk": 317,
+        "def": 216,
+        "spa": 208,
+        "spd": 157,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Giga Impact",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lapras",
+      "level": 87,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Water Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 368,
+      "stats": {
+        "atk": 152,
+        "def": 189,
+        "spa": 198,
+        "spd": 215,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Sparkling Aria",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Goodra",
+      "level": 85,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Assault Vest",
+      "teraType": "Steel",
+      "maxhp": 292,
+      "stats": {
+        "atk": 175,
+        "def": 168,
+        "spa": 236,
+        "spd": 304,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Fezandipiti||Leftovers|ToxicChain|swordsdance,gunkshot,playrough,terablast||85,85,85,85,85,85|M|||82|,,,,,Ground]Lucario||LifeOrb|Justified|meteormash,extremespeed,swordsdance,closecombat||85,85,85,85,85,85|F|||84|,,,,,Normal]Clodsire||Leftovers|Unaware|recover,spikes,earthquake,toxic||85,85,85,85,85,85|F|||81|,,,,,Flying]Slaking||ChoiceBand|Truant|earthquake,gigaimpact,doubleedge,knockoff||85,85,85,85,85,85|M|||84|,,,,,Normal]Lapras||HeavyDutyBoots|WaterAbsorb|sparklingaria,sleeptalk,rest,freezedry||85,,85,85,85,85|F|,0,,,,||87|,,,,,Ghost]Goodra||AssaultVest|SapSipper|dracometeor,sludgebomb,fireblast,scald||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel",
   "ai": "Articuno||HeavyDutyBoots|Pressure|uturn,roost,bravebird,freezedry||85,85,85,85,85,85|N|||86|,,,,,Ground]Azumarill||ChoiceBand|HugePower|aquajet,playrough,knockoff,liquidation||85,85,85,85,85,85|F|||82|,,,,,Water]Salazzle||HeavyDutyBoots|Corrosion|terablast,sludgewave,nastyplot,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Volcanion||HeavyDutyBoots|WaterAbsorb|earthpower,steameruption,haze,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Girafarig||Eviolite|SapSipper|psyshock,hypervoice,nastyplot,thunderbolt||85,,85,85,85,85|M|,0,,,,||89|,,,,,Normal]Blissey||Leftovers|NaturalCure|healbell,softboiled,thunderwave,seismictoss||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy",
   "curation": {

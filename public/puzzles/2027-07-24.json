@@ -19,6 +19,252 @@
     "Coalossal",
     "Wugtrio"
   ],
+  "playerSets": [
+    {
+      "species": "Roaring Moon",
+      "level": 72,
+      "types": [
+        "Dragon",
+        "Dark"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 270,
+      "stats": {
+        "atk": 242,
+        "def": 144,
+        "spa": 121,
+        "spd": 187,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Leavanny",
+      "level": 86,
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "ability": "Swarm",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Rock",
+      "maxhp": 269,
+      "stats": {
+        "atk": 226,
+        "def": 187,
+        "spa": 170,
+        "spd": 187,
+        "spe": 207
+      },
+      "moves": [
+        {
+          "name": "Lunge",
+          "type": "Bug",
+          "pp": 24
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Flamigo",
+      "level": 82,
+      "types": [
+        "Flying",
+        "Fighting"
+      ],
+      "ability": "Scrappy",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 236,
+        "def": 169,
+        "spa": 170,
+        "spd": 152,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Deoxys-Defense",
+      "level": 84,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 221,
+      "stats": {
+        "atk": 166,
+        "def": 317,
+        "spa": 166,
+        "spd": 317,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Teleport",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Coalossal",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 341,
+      "stats": {
+        "atk": 193,
+        "def": 264,
+        "spa": 193,
+        "spd": 211,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Wugtrio",
+      "level": 91,
+      "types": [
+        "Water"
+      ],
+      "ability": "Gooey",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 212,
+      "stats": {
+        "atk": 234,
+        "def": 143,
+        "spa": 143,
+        "spd": 179,
+        "spe": 270
+      },
+      "moves": [
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Stomping Tantrum",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Roaring Moon||ChoiceBand|Protosynthesis|outrage,uturn,ironhead,knockoff||85,85,85,85,85,85|N|||72|,,,,,Dark]Leavanny||HeavyDutyBoots|Swarm|lunge,stickyweb,knockoff,leafblade||85,85,85,85,85,85|F|||86|,,,,,Rock]Flamigo||LifeOrb|Scrappy|closecombat,bravebird,swordsdance,roost||85,85,85,85,85,85|M|||82|,,,,,Fighting]Deoxys|DeoxysDefense|Leftovers|Pressure|recover,knockoff,psychicnoise,teleport||85,85,85,85,85,85|N|||84|,,,,,Steel]Coalossal||HeavyDutyBoots|FlameBody|rapidspin,spikes,flamethrower,stoneedge||85,85,85,85,85,85|F|||89|,,,,,Water]Wugtrio||ChoiceBand|Gooey|liquidation,aquajet,stompingtantrum,throatchop||85,85,85,85,85,85|M|||91|,,,,,Water",
   "ai": "Roaring Moon||ChoiceBand|Protosynthesis|knockoff,ironhead,uturn,outrage||85,85,85,85,85,85|N|||72|,,,,,Dragon]Metagross||Leftovers|ClearBody|psychicfangs,stealthrock,knockoff,heavyslam||85,85,85,85,85,85|N|||79|,,,,,Water]Staraptor||ChoiceBand|Reckless|closecombat,quickattack,bravebird,doubleedge||81,85,85,85,85,85|M|||79|,,,,,Fighting]Hitmonlee||WhiteHerb|Unburden|knockoff,closecombat,stoneedge,swordsdance||85,85,85,85,85,85|M|||85|,,,,,Dark]Comfey||Leftovers|Triage|drainingkiss,calmmind,terablast,synthesis||85,,85,85,85,85|M|,0,,,,||85|,,,,,Ground]Mudsdale||Leftovers|Stamina|stoneedge,heavyslam,earthquake,roar||85,85,85,85,85,85|F|||83|,,,,,Steel",
   "curation": {

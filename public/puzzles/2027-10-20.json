@@ -19,6 +19,253 @@
     "Ogerpon-Cornerstone",
     "Sandaconda"
   ],
+  "playerSets": [
+    {
+      "species": "Hatterene",
+      "level": 85,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "ability": "Magic Bounce",
+      "item": "Assault Vest",
+      "teraType": "Steel",
+      "maxhp": 236,
+      "stats": {
+        "atk": 202,
+        "def": 210,
+        "spa": 280,
+        "spd": 224,
+        "spe": 98
+      },
+      "moves": [
+        {
+          "name": "Mystical Fire",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Nuzzle",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Abomasnow",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "ability": "Snow Warning",
+      "item": "Light Clay",
+      "teraType": "Ghost",
+      "maxhp": 287,
+      "stats": {
+        "atk": 203,
+        "def": 174,
+        "spa": 203,
+        "spd": 191,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "pp": 8
+        },
+        {
+          "name": "Aurora Veil",
+          "type": "Ice",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Munkidori",
+      "level": 79,
+      "types": [
+        "Poison",
+        "Psychic"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 269,
+      "stats": {
+        "atk": 164,
+        "def": 150,
+        "spa": 251,
+        "spd": 188,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Talonflame",
+      "level": 83,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 265,
+      "stats": {
+        "atk": 182,
+        "def": 166,
+        "spa": 171,
+        "spd": 162,
+        "spe": 257
+      },
+      "moves": [
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Ogerpon-Cornerstone",
+      "level": 76,
+      "types": [
+        "Grass",
+        "Rock"
+      ],
+      "ability": "Sturdy",
+      "item": "Cornerstone Mask",
+      "teraType": "Rock",
+      "maxhp": 247,
+      "stats": {
+        "atk": 226,
+        "def": 172,
+        "spa": 135,
+        "spd": 190,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Ivy Cudgel",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Sandaconda",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 258,
+      "stats": {
+        "atk": 228,
+        "def": 258,
+        "spa": 157,
+        "spd": 166,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Glare",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Hatterene||AssaultVest|MagicBounce|mysticalfire,psychicnoise,drainingkiss,nuzzle||85,85,85,85,85,85|F|||85|,,,,,Steel]Abomasnow||LightClay|SnowWarning|earthquake,woodhammer,blizzard,auroraveil||77,85,85,85,85,85|F|||84|,,,,,Ghost]Munkidori||AssaultVest|ToxicChain|focusblast,psychicnoise,uturn,sludgewave||85,85,85,85,85,85|M|||79|,,,,,Dark]Talonflame||HeavyDutyBoots|FlameBody|overheat,roost,defog,bravebird||85,85,85,85,85,85|F|||83|,,,,,Ground]Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|superpower,ivycudgel,swordsdance,hornleech||85,85,85,85,85,85|F|||76|,,,,,Rock]Sandaconda||Leftovers|ShedSkin|earthquake,glare,rest,stoneedge||85,85,85,85,85,85|F|||84|,,,,,Dragon",
   "ai": "Glastrier||HeavyDutyBoots|ChillingNeigh|iciclecrash,heavyslam,closecombat,swordsdance||85,85,85,85,85,85|N|||86|,,,,,Fighting]Talonflame||HeavyDutyBoots|GaleWings|swordsdance,flareblitz,bravebird,terablast||85,85,85,85,85,85|M|||83|,,,,,Ground]Tinkaton||Leftovers|MoldBreaker|stealthrock,gigatonhammer,playrough,encore||85,85,85,85,85,85|F|||82|,,,,,Water]Samurott|SamurottHisui|ChoiceBand|Sharpness|razorshell,suckerpunch,flipturn,ceaselessedge||85,85,85,85,85,85|F|||77|,,,,,Water]Grafaiai||HeavyDutyBoots|Prankster|knockoff,encore,gunkshot,partingshot||85,85,85,85,85,85|F|||86|,,,,,Dark]Gyarados||HeavyDutyBoots|Intimidate|earthquake,stoneedge,waterfall,dragondance||85,85,85,85,85,85|M|||79|,,,,,Ground",
   "curation": {

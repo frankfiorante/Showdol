@@ -19,6 +19,251 @@
     "Rampardos",
     "Honchkrow"
   ],
+  "playerSets": [
+    {
+      "species": "Luxray",
+      "level": 88,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Intimidate",
+      "item": "Assault Vest",
+      "teraType": "Fairy",
+      "maxhp": 284,
+      "stats": {
+        "atk": 261,
+        "def": 189,
+        "spa": 217,
+        "spd": 189,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Ice Fang",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Venusaur",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Overgrow",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 272,
+      "stats": {
+        "atk": 142,
+        "def": 188,
+        "spa": 216,
+        "spd": 216,
+        "spe": 183
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Torkoal",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Drought",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 297,
+        "spa": 200,
+        "spd": 173,
+        "spe": 85
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Lava Plume",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Solar Beam",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Crawdaunt",
+      "level": 84,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Adaptability",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 243,
+      "stats": {
+        "atk": 250,
+        "def": 191,
+        "spa": 199,
+        "spd": 141,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Crabhammer",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Rampardos",
+      "level": 90,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Sheer Force",
+      "item": "Choice Scarf",
+      "teraType": "Rock",
+      "maxhp": 321,
+      "stats": {
+        "atk": 348,
+        "def": 159,
+        "spa": 168,
+        "spd": 141,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Head Smash",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Honchkrow",
+      "level": 86,
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "ability": "Moxie",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 312,
+      "stats": {
+        "atk": 264,
+        "def": 139,
+        "spa": 230,
+        "spd": 139,
+        "spe": 171
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Lash Out",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Luxray||AssaultVest|Intimidate|voltswitch,icefang,playrough,wildcharge||85,85,85,85,85,85|M|||88|,,,,,Fairy]Venusaur||Leftovers|Overgrow|substitute,gigadrain,leechseed,sludgebomb||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Torkoal||HeavyDutyBoots|Drought|stealthrock,rapidspin,lavaplume,solarbeam||85,85,85,85,85,85|M|||88|,,,,,Dragon]Crawdaunt||LifeOrb|Adaptability|closecombat,knockoff,dragondance,crabhammer||85,85,85,85,85,85|F|||84|,,,,,Fighting]Rampardos||ChoiceScarf|SheerForce|rockslide,headsmash,earthquake,firepunch||85,85,85,85,85,85|M|||90|,,,,,Rock]Honchkrow||HeavyDutyBoots|Moxie|thunderwave,bravebird,suckerpunch,lashout||85,85,85,85,85,85|M|||86|,,,,,Dark",
   "ai": "Salazzle||Leftovers|Corrosion|protect,substitute,toxic,flamethrower||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Exeggutor||SitrusBerry|Harvest|sludgebomb,substitute,leechseed,psychic||77,,85,85,85,85|M|,0,,,,||89|,,,,,Steel]Whimsicott||Leftovers|Prankster|leechseed,moonblast,substitute,encore||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Lugia||HeavyDutyBoots|Multiscale|calmmind,aeroblast,earthpower,recover||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Corviknight||Leftovers|MirrorArmor|roost,defog,bravebird,uturn||85,85,85,85,85,85|F|||80|,,,,,Dragon]Overqwil||LoadedDice|Intimidate|swordsdance,crunch,gunkshot,scaleshot||85,85,85,85,85,85|F|||82|,,,,,Dragon",
   "curation": {

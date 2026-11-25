@@ -19,6 +19,252 @@
     "Kleavor",
     "Froslass"
   ],
+  "playerSets": [
+    {
+      "species": "Coalossal",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 341,
+      "stats": {
+        "atk": 193,
+        "def": 264,
+        "spa": 193,
+        "spd": 211,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    },
+    {
+      "species": "Chansey",
+      "level": 85,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Natural Cure",
+      "item": "Eviolite",
+      "teraType": "Fairy",
+      "maxhp": 564,
+      "stats": {
+        "atk": 13,
+        "def": 57,
+        "spa": 108,
+        "spd": 227,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Soft-Boiled",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Seismic Toss",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Heal Bell",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Zapdos-Galar",
+      "level": 77,
+      "types": [
+        "Fighting",
+        "Flying"
+      ],
+      "ability": "Defiant",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 265,
+      "stats": {
+        "atk": 237,
+        "def": 183,
+        "spa": 175,
+        "spd": 183,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Ampharos",
+      "level": 88,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Static",
+      "item": "Assault Vest",
+      "teraType": "Fairy",
+      "maxhp": 302,
+      "stats": {
+        "atk": 137,
+        "def": 200,
+        "spa": 253,
+        "spd": 209,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Kleavor",
+      "level": 78,
+      "types": [
+        "Bug",
+        "Rock"
+      ],
+      "ability": "Sharpness",
+      "item": "Choice Scarf",
+      "teraType": "Bug",
+      "maxhp": 237,
+      "stats": {
+        "atk": 256,
+        "def": 193,
+        "spa": 115,
+        "spd": 154,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "X-Scissor",
+          "type": "Bug",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Stone Axe",
+          "type": "Rock",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Froslass",
+      "level": 87,
+      "types": [
+        "Ice",
+        "Ghost"
+      ],
+      "ability": "Cursed Body",
+      "item": "Wide Lens",
+      "teraType": "Ghost",
+      "maxhp": 263,
+      "stats": {
+        "atk": 189,
+        "def": 172,
+        "spa": 189,
+        "spd": 172,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Destiny Bond",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Coalossal||HeavyDutyBoots|FlameBody|spikes,flamethrower,stoneedge,rapidspin||85,85,85,85,85,85|F|||89|,,,,,Water]Chansey||Eviolite|NaturalCure|softboiled,seismictoss,healbell,thunderwave||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Zapdos|ZapdosGalar|ChoiceBand|Defiant|bravebird,uturn,knockoff,closecombat||85,85,85,85,85,85|N||S|77|,,,,,Dark]Ampharos||AssaultVest|Static|voltswitch,discharge,focusblast,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fairy]Kleavor||ChoiceScarf|Sharpness|xscissor,closecombat,uturn,stoneaxe||85,85,85,85,85,85|F|||78|,,,,,Bug]Froslass||WideLens|CursedBody|taunt,destinybond,poltergeist,tripleaxel||81,85,85,85,85,85|F|||87|,,,,,Ghost",
   "ai": "Zebstrika||LifeOrb|SapSipper|supercellslam,voltswitch,highhorsepower,overheat||85,85,85,85,85,85|M|||87|,,,,,Ground]Blastoise||WhiteHerb|Torrent|hydropump,shellsmash,icebeam,terablast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Hitmonlee||WhiteHerb|Unburden|closecombat,swordsdance,knockoff,stoneedge||85,85,85,85,85,85|M|||85|,,,,,Dark]Kommo-o||LoadedDice|Soundproof|closecombat,swordsdance,ironhead,scaleshot||85,85,85,85,85,85|F|||77|,,,,,Steel]Granbull||Leftovers|Intimidate|thunderwave,playrough,earthquake,roar||85,85,85,85,85,85|F|||88|,,,,,Ground]Iron Crown||Leftovers|QuarkDrive|tachyoncutter,focusblast,psyshock,calmmind||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting",
   "curation": {

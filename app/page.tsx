@@ -12,6 +12,7 @@ import {expireAbandoned, homeState, type HomeState} from '@/game/lock';
 import {finishRecord, loadSave, writeSave, type GameRecord, type SaveData} from '@/game/storage';
 import {BattleScreen, ResultSummary} from '@/ui/BattleScreen';
 import {Sprite} from '@/ui/Sprite';
+import {viewFromSet, WithPokemonTip} from '@/ui/PokemonTip';
 import {randomSeed, useBattle} from '@/ui/useBattle';
 
 /** Updates every second so the countdown runs and midnight is noticed. */
@@ -234,17 +235,33 @@ function HomeCard({home, puzzle, puzzleError, loading, countdown, firstTime, onP
         <h2 className="card-title">Your team</h2>
         {team ? (
           <ol className="team-grid">
-            {team.map(s => (
-              <li key={s}>
-                <Sprite species={s} size={72} />
-                <span className="small">{s}</span>
-              </li>
-            ))}
+            {team.map((s, i) => {
+              const set = puzzle?.playerSets?.[i];
+              const member = (
+                <>
+                  <Sprite species={s} size={72} />
+                  <span className="small">{s}</span>
+                </>
+              );
+              return (
+                <li key={s}>
+                  {set ? (
+                    <WithPokemonTip p={viewFromSet(set, i)} tapToggle tabIndex={0} role="button"
+                      aria-label={`Details: ${s}`} className="team-member">
+                      {member}
+                    </WithPokemonTip>
+                  ) : member}
+                </li>
+              );
+            })}
           </ol>
         ) : (
           <p className="muted">{puzzleError ?? 'Loading…'}</p>
         )}
-        <p className="muted small">The opponent&apos;s team stays hidden until each Pokémon appears.</p>
+        <p className="muted small">
+          {puzzle?.playerSets && 'Tap or hover a Pokémon to see its set. '}
+          The opponent&apos;s team stays hidden until each Pokémon appears.
+        </p>
         <button
           className="primary wide"
           disabled={!puzzle || loading}

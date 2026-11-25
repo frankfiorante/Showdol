@@ -19,6 +19,250 @@
     "Passimian",
     "Altaria"
   ],
+  "playerSets": [
+    {
+      "species": "Porygon-Z",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Adaptability",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 277,
+      "stats": {
+        "atk": 137,
+        "def": 164,
+        "spa": 272,
+        "spd": 172,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Sableye",
+      "level": 87,
+      "types": [
+        "Dark",
+        "Ghost"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 229,
+      "stats": {
+        "atk": 180,
+        "def": 180,
+        "spa": 163,
+        "spd": 163,
+        "spe": 137
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Muk",
+      "level": 86,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Poison Touch",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 321,
+      "stats": {
+        "atk": 230,
+        "def": 178,
+        "spa": 161,
+        "spd": 221,
+        "spe": 135
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Registeel",
+      "level": 81,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Clear Body",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 262,
+      "stats": {
+        "atk": 168,
+        "def": 290,
+        "spa": 168,
+        "spd": 290,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Passimian",
+      "level": 83,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Defiant",
+      "item": "Choice Scarf",
+      "teraType": "Poison",
+      "maxhp": 302,
+      "stats": {
+        "atk": 247,
+        "def": 197,
+        "spa": 114,
+        "spd": 147,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Altaria",
+      "level": 89,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "ability": "Natural Cure",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 175,
+        "def": 211,
+        "spa": 175,
+        "spd": 238,
+        "spe": 193
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Porygon-Z||LifeOrb|Adaptability|shadowball,agility,nastyplot,terablast||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fighting]Sableye||Leftovers|Prankster|encore,thunderwave,knockoff,recover||85,85,85,85,85,85|M|||87|,,,,,Poison]Muk||AssaultVest|PoisonTouch|drainpunch,gunkshot,shadowsneak,knockoff||85,85,85,85,85,85|F|||86|,,,,,Dark]Registeel||Leftovers|ClearBody|thunderwave,bodypress,irondefense,ironhead||85,85,85,85,85,85|N|||81|,,,,,Fighting]Passimian||ChoiceScarf|Defiant|gunkshot,knockoff,closecombat,rockslide||85,85,85,85,85,85|F|||83|,,,,,Poison]Altaria||HeavyDutyBoots|NaturalCure|roost,earthquake,dragondance,bravebird||85,85,85,85,85,85|F|||89|,,,,,Ground",
   "ai": "Roaring Moon||ChoiceBand|Protosynthesis|knockoff,ironhead,uturn,outrage||85,85,85,85,85,85|N|||72|,,,,,Dragon]Gyarados||HeavyDutyBoots|Moxie|earthquake,dragondance,terablast,waterfall||85,85,85,85,85,85|F|||79|,,,,,Flying]Enamorus|EnamorusTherian|WeaknessPolicy|Overcoat|agility,mysticalfire,earthpower,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground]Araquanid||HeavyDutyBoots|WaterBubble|stickyweb,liquidation,leechlife,hydropump||85,85,85,85,85,85|F|||82|,,,,,Ground]Indeedee|IndeedeeF|ChoiceScarf|PsychicSurge|hypervoice,psychic,dazzlinggleam,healingwish||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Morpeko||HeavyDutyBoots|HungerSwitch|aurawheel,rapidspin,protect,partingshot||85,85,85,85,85,85|F|||88|,,,,,Electric",
   "curation": {

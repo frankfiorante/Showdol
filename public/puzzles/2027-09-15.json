@@ -19,6 +19,253 @@
     "Gengar",
     "Uxie"
   ],
+  "playerSets": [
+    {
+      "species": "Weavile",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Ice"
+      ],
+      "ability": "Pickpocket",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 240,
+      "stats": {
+        "atk": 235,
+        "def": 148,
+        "spa": 117,
+        "spd": 180,
+        "spe": 243
+      },
+      "moves": [
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Low Kick",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Drednaw",
+      "level": 81,
+      "types": [
+        "Water",
+        "Rock"
+      ],
+      "ability": "Strong Jaw",
+      "item": "White Herb",
+      "teraType": "Dark",
+      "maxhp": 278,
+      "stats": {
+        "atk": 233,
+        "def": 192,
+        "spa": 124,
+        "spd": 157,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Coalossal",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 341,
+      "stats": {
+        "atk": 193,
+        "def": 264,
+        "spa": 193,
+        "spd": 211,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    },
+    {
+      "species": "Dragonite",
+      "level": 74,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "ability": "Multiscale",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 257,
+      "stats": {
+        "atk": 241,
+        "def": 184,
+        "spa": 191,
+        "spd": 191,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Gengar",
+      "level": 81,
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "ability": "Cursed Body",
+      "item": "Choice Specs",
+      "teraType": "Dark",
+      "maxhp": 230,
+      "stats": {
+        "atk": 110,
+        "def": 144,
+        "spa": 257,
+        "spd": 168,
+        "spe": 225
+      },
+      "moves": [
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Uxie",
+      "level": 83,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Electric",
+      "maxhp": 260,
+      "stats": {
+        "atk": 172,
+        "def": 263,
+        "spa": 172,
+        "spd": 263,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Weavile||HeavyDutyBoots|Pickpocket|tripleaxel,knockoff,swordsdance,lowkick||85,85,85,85,85,85|M|||79|,,,,,Fighting]Drednaw||WhiteHerb|StrongJaw|crunch,liquidation,shellsmash,stoneedge||85,85,85,85,85,85|F|||81|,,,,,Dark]Coalossal||HeavyDutyBoots|FlameBody|stoneedge,overheat,willowisp,rapidspin||85,85,85,85,85,85|F|||89|,,,,,Grass]Dragonite||HeavyDutyBoots|Multiscale|earthquake,dragondance,ironhead,outrage||85,85,85,85,85,85|F|||74|,,,,,Steel]Gengar||ChoiceSpecs|CursedBody|sludgewave,trick,shadowball,focusblast||85,,85,85,85,85|M|,0,,,,||81|,,,,,Dark]Uxie||Leftovers|Levitate|thunderwave,psychicnoise,knockoff,stealthrock||85,85,85,85,85,85|N|||83|,,,,,Electric",
   "ai": "Clodsire||Leftovers|WaterAbsorb|spikes,earthquake,recover,gunkshot||85,85,85,85,85,85|M|||81|,,,,,Flying]Mandibuzz||HeavyDutyBoots|Overcoat|defog,roost,foulplay,toxic||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Arbok||LifeOrb|Intimidate|toxicspikes,suckerpunch,earthquake,gunkshot||85,85,85,85,85,85|F|||87|,,,,,Ground]Meowscarada||ChoiceBand|Protean|tripleaxel,flowertrick,uturn,knockoff||85,85,85,85,85,85|F|||78|,,,,,Grass]Piloswine||Eviolite|ThickFat|iciclecrash,stealthrock,roar,earthquake||85,85,85,85,85,85|M|||85|,,,,,Dragon]Perrserker||ChoiceBand|ToughClaws|ironhead,uturn,knockoff,closecombat||85,85,85,85,85,85|M|||89|,,,,,Fighting",
   "curation": {

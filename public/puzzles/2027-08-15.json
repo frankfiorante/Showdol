@@ -19,6 +19,252 @@
     "Dugtrio-Alola",
     "Floatzel"
   ],
+  "playerSets": [
+    {
+      "species": "Miraidon",
+      "level": 65,
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "ability": "Hadron Engine",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 238,
+      "stats": {
+        "atk": 115,
+        "def": 168,
+        "spa": 214,
+        "spd": 188,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Electro Drift",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mew",
+      "level": 82,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Synchronize",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 298,
+      "stats": {
+        "atk": 169,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Morpeko",
+      "level": 88,
+      "types": [
+        "Electric",
+        "Dark"
+      ],
+      "ability": "Hunger Switch",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 245,
+      "stats": {
+        "atk": 217,
+        "def": 152,
+        "spa": 173,
+        "spd": 152,
+        "spe": 221
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Parting Shot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Aura Wheel",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    },
+    {
+      "species": "Hoopa-Unbound",
+      "level": 80,
+      "types": [
+        "Psychic",
+        "Dark"
+      ],
+      "ability": "Magician",
+      "item": "Choice Scarf",
+      "teraType": "Fighting",
+      "maxhp": 259,
+      "stats": {
+        "atk": 302,
+        "def": 142,
+        "spa": 318,
+        "spd": 254,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Hyperspace Fury",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dugtrio-Alola",
+      "level": 84,
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "ability": "Tangling Hair",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 196,
+      "stats": {
+        "atk": 216,
+        "def": 149,
+        "spa": 132,
+        "spd": 166,
+        "spe": 233
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Floatzel",
+      "level": 86,
+      "types": [
+        "Water"
+      ],
+      "ability": "Water Veil",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 286,
+      "stats": {
+        "atk": 230,
+        "def": 144,
+        "spa": 195,
+        "spd": 135,
+        "spe": 247
+      },
+      "moves": [
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Miraidon||LifeOrb|HadronEngine|electrodrift,dracometeor,calmmind,dragonpulse||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Mew||LifeOrb|Synchronize|psychic,nastyplot,hydropump,aurasphere||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water]Morpeko||HeavyDutyBoots|HungerSwitch|protect,partingshot,aurawheel,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Electric]Hoopa|HoopaUnbound|ChoiceScarf|Magician|psychic,focusblast,trick,hyperspacefury||85,85,85,85,85,85|N|||80|,,,,,Fighting]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|earthquake,stealthrock,ironhead,suckerpunch||85,85,85,85,85,85|M|||84|,,,,,Steel]Floatzel||Leftovers|WaterVeil|taunt,bulkup,icespinner,wavecrash||85,85,85,85,85,85|M|||86|,,,,,Water",
   "ai": "Iron Valiant||LifeOrb|QuarkDrive|knockoff,spiritbreak,swordsdance,closecombat||85,85,85,85,85,85|N|||78|,,,,,Fighting]Drifblim||HeavyDutyBoots|Aftermath|airslash,defog,strengthsap,shadowball||85,,85,85,85,85|F|,0,,,,||86|,,,,,Dark]Zebstrika||LifeOrb|SapSipper|voltswitch,overheat,supercellslam,highhorsepower||85,85,85,85,85,85|F|||87|,,,,,Ground]Iron Bundle||HeavyDutyBoots|QuarkDrive|hydropump,icebeam,freezedry,encore||85,,85,85,85,85|N|,0,,,,||78|,,,,,Ice]Furret||ChoiceBand|Frisk|uturn,trick,knockoff,doubleedge||85,85,85,85,85,85|F|||94|,,,,,Ghost]Slowking|SlowkingGalar|Leftovers|Regenerator|fireblast,psychicnoise,slackoff,sludgebomb||85,,85,85,85,85|M|,0,,,,||85|,,,,,Dark",
   "curation": {

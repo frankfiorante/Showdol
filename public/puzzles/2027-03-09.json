@@ -19,6 +19,253 @@
     "Hitmonlee",
     "Dragalge"
   ],
+  "playerSets": [
+    {
+      "species": "Abomasnow",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "ability": "Snow Warning",
+      "item": "Light Clay",
+      "teraType": "Water",
+      "maxhp": 287,
+      "stats": {
+        "atk": 203,
+        "def": 174,
+        "spa": 203,
+        "spd": 191,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "pp": 8
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Aurora Veil",
+          "type": "Ice",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Mamoswine",
+      "level": 81,
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "ability": "Thick Fat",
+      "item": "Choice Band",
+      "teraType": "Ice",
+      "maxhp": 311,
+      "stats": {
+        "atk": 257,
+        "def": 176,
+        "spa": 160,
+        "spd": 144,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Venomoth",
+      "level": 84,
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 255,
+      "stats": {
+        "atk": 114,
+        "def": 149,
+        "spa": 199,
+        "spd": 174,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Crawdaunt",
+      "level": 84,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Adaptability",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 243,
+      "stats": {
+        "atk": 250,
+        "def": 191,
+        "spa": 199,
+        "spd": 141,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Crabhammer",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Hitmonlee",
+      "level": 85,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 223,
+      "stats": {
+        "atk": 253,
+        "def": 139,
+        "spa": 108,
+        "spd": 236,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "High Jump Kick",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Dragalge",
+      "level": 88,
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "ability": "Adaptability",
+      "item": "Choice Specs",
+      "teraType": "Fighting",
+      "maxhp": 258,
+      "stats": {
+        "atk": 182,
+        "def": 209,
+        "spa": 221,
+        "spd": 267,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Abomasnow||LightClay|SnowWarning|earthquake,blizzard,iceshard,auroraveil||77,85,85,85,85,85|F|||84|,,,,,Water]Mamoswine||ChoiceBand|ThickFat|iciclecrash,knockoff,iceshard,earthquake||85,85,85,85,85,85|F|||81|,,,,,Ice]Venomoth||HeavyDutyBoots|TintedLens|quiverdance,sludgewave,sleeppowder,bugbuzz||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Crawdaunt||LifeOrb|Adaptability|crabhammer,dragondance,knockoff,closecombat||85,85,85,85,85,85|F|||84|,,,,,Fighting]Hitmonlee||ChoiceBand|Reckless|knockoff,highjumpkick,machpunch,poisonjab||81,85,85,85,85,85|M|||85|,,,,,Fighting]Dragalge||ChoiceSpecs|Adaptability|flipturn,dracometeor,sludgewave,focusblast||85,85,85,85,85,85|M|||88|,,,,,Fighting",
   "ai": "Dodrio||HeavyDutyBoots|EarlyBird|drillrun,swordsdance,knockoff,bravebird||85,85,85,85,85,85|F|||85|,,,,,Ground]Dondozo||Leftovers|Unaware|curse,sleeptalk,rest,wavecrash||85,85,85,85,85,85|M|||78|,,,,,Dragon]Sneasler||ChoiceBand|PoisonTouch|closecombat,throatchop,uturn,direclaw||85,85,85,85,85,85|F|||74|,,,,,Dark]Glastrier||HeavyDutyBoots|ChillingNeigh|iciclecrash,closecombat,swordsdance,heavyslam||85,85,85,85,85,85|N|||86|,,,,,Fighting]Enamorus||Leftovers|CuteCharm|moonblast,calmmind,earthpower,substitute||85,,85,85,85,85|F|,0,,,,||79|,,,,,Ground]Carbink||ChestoBerry|Sturdy|moonblast,bodypress,irondefense,rest||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting",
   "curation": {

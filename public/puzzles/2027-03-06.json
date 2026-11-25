@@ -19,6 +19,236 @@
     "Ditto",
     "Brute Bonnet"
   ],
+  "playerSets": [
+    {
+      "species": "Groudon",
+      "level": 72,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Drought",
+      "item": "Leftovers",
+      "teraType": "Fire",
+      "maxhp": 263,
+      "stats": {
+        "atk": 258,
+        "def": 244,
+        "spa": 186,
+        "spd": 172,
+        "spe": 172
+      },
+      "moves": [
+        {
+          "name": "Precipice Blades",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Heatran",
+      "level": 79,
+      "types": [
+        "Fire",
+        "Steel"
+      ],
+      "ability": "Flash Fire",
+      "item": "Air Balloon",
+      "teraType": "Grass",
+      "maxhp": 273,
+      "stats": {
+        "atk": 188,
+        "def": 213,
+        "spa": 251,
+        "spd": 213,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Lava Plume",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Magmortar",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 275,
+      "stats": {
+        "atk": 217,
+        "def": 168,
+        "spa": 270,
+        "spd": 217,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Gastrodon-East",
+      "level": 86,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Storm Drain",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 331,
+      "stats": {
+        "atk": 192,
+        "def": 166,
+        "spa": 207,
+        "spd": 190,
+        "spe": 116
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Clear Smog",
+          "type": "Poison",
+          "pp": 24
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Ditto",
+      "level": 87,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Imposter",
+      "item": "Choice Scarf",
+      "teraType": "Ghost",
+      "maxhp": 225,
+      "stats": {
+        "atk": 133,
+        "def": 133,
+        "spa": 133,
+        "spd": 133,
+        "spe": 133
+      },
+      "moves": [
+        {
+          "name": "Transform",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Brute Bonnet",
+      "level": 79,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 305,
+      "stats": {
+        "atk": 246,
+        "def": 202,
+        "spa": 170,
+        "spd": 202,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Groudon||Leftovers|Drought|precipiceblades,swordsdance,thunderwave,heatcrash||85,85,85,85,85,85|N|||72|,,,,,Fire]Heatran||AirBalloon|FlashFire|earthpower,lavaplume,stealthrock,heavyslam||85,85,85,85,85,85|M|||79|,,,,,Grass]Magmortar||HeavyDutyBoots|FlameBody|fireblast,knockoff,thunderbolt,taunt||85,85,85,85,85,85|F|||88|,,,,,Electric]Gastrodon|GastrodonEast|Leftovers|StormDrain|recover,earthquake,clearsmog,surf||85,85,85,85,85,85|F|||86|,,,,,Poison]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost]Brute Bonnet||Leftovers|Protosynthesis|closecombat,suckerpunch,crunch,spore||85,85,85,85,85,85|N|||79|,,,,,Poison",
   "ai": "Meloetta||LifeOrb|SereneGrace|relicsong,tripleaxel,knockoff,closecombat||85,85,85,85,85,85|N|||82|,,,,,Dark]Charizard||HeavyDutyBoots|Blaze|earthquake,flareblitz,dragondance,outrage||85,85,85,85,85,85|F|||85|,,,,,Ground]Meowstic|MeowsticF|LifeOrb|Competitive|alluringvoice,psychic,thunderbolt,nastyplot||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fairy]Rotom|RotomMow|Leftovers|Levitate|voltswitch,willowisp,thunderbolt,leafstorm||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|throatchop,closecombat,stoneedge,ironhead||85,85,85,85,85,85|M|||82|,,,,,Steel]Ceruledge||HeavyDutyBoots|WeakArmor|poltergeist,swordsdance,shadowsneak,bitterblade||85,85,85,85,85,85|F|||78|,,,,,Fire",
   "curation": {

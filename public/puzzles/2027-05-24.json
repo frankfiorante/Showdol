@@ -19,6 +19,253 @@
     "Crabominable",
     "Meloetta"
   ],
+  "playerSets": [
+    {
+      "species": "Articuno",
+      "level": 86,
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "ability": "Pressure",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 295,
+      "stats": {
+        "atk": 195,
+        "def": 221,
+        "spa": 213,
+        "spd": 264,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Galvantula",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "ability": "Compound Eyes",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 249,
+      "stats": {
+        "atk": 131,
+        "def": 146,
+        "spa": 206,
+        "spd": 146,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Thunder",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Heatran",
+      "level": 79,
+      "types": [
+        "Fire",
+        "Steel"
+      ],
+      "ability": "Flash Fire",
+      "item": "Air Balloon",
+      "teraType": "Grass",
+      "maxhp": 273,
+      "stats": {
+        "atk": 188,
+        "def": 213,
+        "spa": 251,
+        "spd": 213,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Magma Storm",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ambipom",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Silk Scarf",
+      "teraType": "Normal",
+      "maxhp": 263,
+      "stats": {
+        "atk": 216,
+        "def": 159,
+        "spa": 149,
+        "spd": 159,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Low Kick",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Fake Out",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Crabominable",
+      "level": 90,
+      "types": [
+        "Fighting",
+        "Ice"
+      ],
+      "ability": "Iron Fist",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 321,
+      "stats": {
+        "atk": 289,
+        "def": 190,
+        "spa": 163,
+        "spd": 172,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Ice Hammer",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Meloetta",
+      "level": 82,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 298,
+      "stats": {
+        "atk": 173,
+        "def": 173,
+        "spa": 257,
+        "spd": 257,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Relic Song",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Articuno||HeavyDutyBoots|Pressure|roost,freezedry,bravebird,uturn||85,85,85,85,85,85|N|||86|,,,,,Steel]Galvantula||HeavyDutyBoots|CompoundEyes|energyball,stickyweb,thunder,bugbuzz||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric]Heatran||AirBalloon|FlashFire|magmastorm,heavyslam,stealthrock,earthpower||85,85,85,85,85,85|F|||79|,,,,,Grass]Ambipom||SilkScarf|Technician|doubleedge,lowkick,knockoff,fakeout||85,85,85,85,85,85|F|||84|,,,,,Normal]Crabominable||ChoiceBand|IronFist|gunkshot,icehammer,closecombat,earthquake||85,85,85,85,85,85|M|||90|,,,,,Fighting]Meloetta||LifeOrb|SereneGrace|closecombat,knockoff,relicsong,tripleaxel||85,85,85,85,85,85|N|||82|,,,,,Fighting",
   "ai": "Iron Treads||Leftovers|QuarkDrive|stealthrock,rapidspin,ironhead,earthquake||85,85,85,85,85,85|N|||77|,,,,,Water]Avalugg||HeavyDutyBoots|Sturdy|curse,avalanche,recover,bodypress||85,85,85,85,85,85|M|||88|,,,,,Fighting]Bellossom||Leftovers|Chlorophyll|gigadrain,strengthsap,terablast,quiverdance||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Ampharos||AssaultVest|Static|thunderbolt,voltswitch,dazzlinggleam,dragontail||85,85,85,85,85,85|M|||88|,,,,,Fairy]Chi-Yu||ChoiceScarf|BeadsofRuin|psychic,flamethrower,overheat,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Gallade||ChoiceScarf|Sharpness|nightslash,leafblade,sacredsword,psychocut||85,85,85,85,85,85|M|||80|,,,,,Dark",
   "curation": {

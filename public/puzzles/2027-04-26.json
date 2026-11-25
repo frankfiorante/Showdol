@@ -19,6 +19,251 @@
     "Kleavor",
     "Meganium"
   ],
+  "playerSets": [
+    {
+      "species": "Golem",
+      "level": 87,
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "ability": "Sturdy",
+      "item": "Weakness Policy",
+      "teraType": "Grass",
+      "maxhp": 281,
+      "stats": {
+        "atk": 259,
+        "def": 276,
+        "spa": 145,
+        "spd": 163,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Rock Polish",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Koraidon",
+      "level": 64,
+      "types": [
+        "Fighting",
+        "Dragon"
+      ],
+      "ability": "Orichalcum Pulse",
+      "item": "Loaded Dice",
+      "teraType": "Fire",
+      "maxhp": 235,
+      "stats": {
+        "atk": 211,
+        "def": 185,
+        "spa": 147,
+        "spd": 166,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Collision Course",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Magmortar",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 275,
+      "stats": {
+        "atk": 217,
+        "def": 168,
+        "spa": 270,
+        "spd": 217,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Tauros",
+      "level": 82,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 257,
+      "stats": {
+        "atk": 211,
+        "def": 203,
+        "spa": 113,
+        "spd": 162,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Kleavor",
+      "level": 78,
+      "types": [
+        "Bug",
+        "Rock"
+      ],
+      "ability": "Sharpness",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Rock",
+      "maxhp": 237,
+      "stats": {
+        "atk": 256,
+        "def": 193,
+        "spa": 115,
+        "spd": 154,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Stone Axe",
+          "type": "Rock",
+          "pp": 24
+        },
+        {
+          "name": "X-Scissor",
+          "type": "Bug",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Meganium",
+      "level": 90,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Overgrow",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 290,
+      "stats": {
+        "atk": 199,
+        "def": 231,
+        "spa": 201,
+        "spd": 231,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Golem||WeaknessPolicy|Sturdy|earthquake,stoneedge,rockpolish,explosion||85,85,85,85,85,85|F|||87|,,,,,Grass]Koraidon||LoadedDice|OrichalcumPulse|flareblitz,swordsdance,collisioncourse,scaleshot||85,85,85,85,85,85|N|||64|,,,,,Fire]Magmortar||HeavyDutyBoots|FlameBody|focusblast,willowisp,fireblast,knockoff||85,85,85,85,85,85|M|||88|,,,,,Fighting]Tauros||LifeOrb|SheerForce|zenheadbutt,bodyslam,closecombat,throatchop||85,85,85,85,85,85|M|||82|,,,,,Normal]Kleavor||HeavyDutyBoots|Sharpness|swordsdance,closecombat,stoneaxe,xscissor||85,85,85,85,85,85|M|||78|,,,,,Rock]Meganium||Leftovers|Overgrow|energyball,knockoff,synthesis,encore||85,85,85,85,85,85|M|||90|,,,,,Poison",
   "ai": "Cinderace||HeavyDutyBoots|Libero|willowisp,courtchange,uturn,pyroball||85,85,85,85,85,85|M|||77|,,,,,Grass]Noctowl||HeavyDutyBoots|TintedLens|roost,hypervoice,defog,hurricane||85,,85,85,85,85|F|,0,,,,||95|,,,,,Normal]Wigglytuff||Leftovers|Competitive|thunderwave,dazzlinggleam,wish,protect||85,,85,85,85,85|F|,0,,,,||96|,,,,,Poison]Spidops||HeavyDutyBoots|Stakeout|circlethrow,uturn,knockoff,stickyweb||85,85,85,85,85,85|M|||96|,,,,,Ghost]Dialga||Leftovers|Pressure|heavyslam,stealthrock,thunderwave,dracometeor||85,85,85,85,85,85|N|||73|,,,,,Steel]Zarude||ChoiceBand|LeafGuard|powerwhip,knockoff,closecombat,uturn||85,85,85,85,85,85|N|||77|,,,,,Dark",
   "curation": {

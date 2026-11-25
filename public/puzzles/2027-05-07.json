@@ -19,6 +19,252 @@
     "Magcargo",
     "Smeargle"
   ],
+  "playerSets": [
+    {
+      "species": "Slither Wing",
+      "level": 81,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 270,
+      "stats": {
+        "atk": 265,
+        "def": 175,
+        "spa": 184,
+        "spd": 217,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Leafeon",
+      "level": 88,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 258,
+      "stats": {
+        "atk": 244,
+        "def": 279,
+        "spa": 156,
+        "spd": 165,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Incineroar",
+      "level": 82,
+      "types": [
+        "Fire",
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 290,
+      "stats": {
+        "atk": 236,
+        "def": 195,
+        "spa": 178,
+        "spd": 195,
+        "spe": 146
+      },
+      "moves": [
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Venomoth",
+      "level": 84,
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 255,
+      "stats": {
+        "atk": 114,
+        "def": 149,
+        "spa": 199,
+        "spd": 174,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Magcargo",
+      "level": 95,
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 268,
+      "stats": {
+        "atk": 100,
+        "def": 282,
+        "spa": 225,
+        "spd": 206,
+        "spe": 111
+      },
+      "moves": [
+        {
+          "name": "Lava Plume",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Power Gem",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Smeargle",
+      "level": 95,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Wide Lens",
+      "teraType": "Normal",
+      "maxhp": 258,
+      "stats": {
+        "atk": 92,
+        "def": 120,
+        "spa": 92,
+        "spd": 139,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Population Bomb",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Power Trip",
+          "type": "Dark",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Slither Wing||HeavyDutyBoots|Protosynthesis|closecombat,morningsun,uturn,willowisp||85,85,85,85,85,85|N|||81|,,,,,Steel]Leafeon||LifeOrb|Chlorophyll|leafblade,swordsdance,knockoff,doubleedge||85,85,85,85,85,85|M|||88|,,,,,Dark]Incineroar||HeavyDutyBoots|Intimidate|trailblaze,knockoff,swordsdance,flareblitz||85,85,85,85,85,85|F|||82|,,,,,Grass]Venomoth||HeavyDutyBoots|TintedLens|quiverdance,sleeppowder,sludgewave,bugbuzz||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Magcargo||HeavyDutyBoots|FlameBody|lavaplume,yawn,recover,powergem||85,,85,85,85,85|F|,0,,,,||95|,,,,,Dragon]Smeargle||WideLens|Technician|shellsmash,populationbomb,spore,powertrip||85,85,85,85,85,85|M|||95|,,,,,Normal",
   "ai": "Wyrdeer||AssaultVest|Intimidate|psychicnoise,earthquake,bodyslam,megahorn||85,85,85,85,85,85|F|||87|,,,,,Ground]Slither Wing||HeavyDutyBoots|Protosynthesis|uturn,morningsun,closecombat,willowisp||85,85,85,85,85,85|N|||81|,,,,,Steel]Deoxys|DeoxysAttack|LifeOrb|Pressure|knockoff,icebeam,psychoboost,superpower||85,85,85,85,85,85|N|||72|,,,,,Fighting]Gastrodon||Leftovers|StormDrain|stealthrock,surf,earthquake,recover||85,85,85,85,85,85|F|||86|,,,,,Poison]Jolteon||HeavyDutyBoots|VoltAbsorb|alluringvoice,calmmind,thunderbolt,voltswitch||85,,85,85,85,85|F|,0,,,,||84|,,,,,Electric]Haxorus||LoadedDice|MoldBreaker|swordsdance,closecombat,ironhead,scaleshot||85,85,85,85,85,85|F|||78|,,,,,Steel",
   "curation": {

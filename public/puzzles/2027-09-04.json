@@ -19,6 +19,250 @@
     "Cresselia",
     "Maushold"
   ],
+  "playerSets": [
+    {
+      "species": "Mimikyu",
+      "level": 79,
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "ability": "Disguise",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 216,
+      "stats": {
+        "atk": 188,
+        "def": 172,
+        "spa": 125,
+        "spd": 211,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Umbreon",
+      "level": 84,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Synchronize",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 297,
+      "stats": {
+        "atk": 114,
+        "def": 233,
+        "spa": 149,
+        "spd": 267,
+        "spe": 157
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Blastoise",
+      "level": 80,
+      "types": [
+        "Water"
+      ],
+      "ability": "Torrent",
+      "item": "White Herb",
+      "teraType": "Steel",
+      "maxhp": 258,
+      "stats": {
+        "atk": 179,
+        "def": 206,
+        "spa": 182,
+        "spd": 214,
+        "spe": 171
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Rhydon",
+      "level": 85,
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "ability": "Lightning Rod",
+      "item": "Eviolite",
+      "teraType": "Water",
+      "maxhp": 317,
+      "stats": {
+        "atk": 270,
+        "def": 253,
+        "spa": 125,
+        "spd": 125,
+        "spe": 117
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cresselia",
+      "level": 80,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 323,
+      "stats": {
+        "atk": 117,
+        "def": 222,
+        "spa": 166,
+        "spd": 238,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Moonlight",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Maushold",
+      "level": 76,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Wide Lens",
+      "teraType": "Ghost",
+      "maxhp": 238,
+      "stats": {
+        "atk": 158,
+        "def": 150,
+        "spa": 143,
+        "spd": 158,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Tidy Up",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Bite",
+          "type": "Dark",
+          "pp": 40
+        },
+        {
+          "name": "Population Bomb",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Mimikyu||LifeOrb|Disguise|drainpunch,shadowsneak,swordsdance,playrough||85,85,85,85,85,85|M|||79|,,,,,Fighting]Umbreon||Leftovers|Synchronize|wish,protect,toxic,foulplay||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Blastoise||WhiteHerb|Torrent|earthquake,shellsmash,hydropump,icebeam||85,85,85,85,85,85|M|||80|,,,,,Steel]Rhydon||Eviolite|LightningRod|swordsdance,earthquake,stoneedge,megahorn||85,85,85,85,85,85|F|||85|,,,,,Water]Cresselia||Leftovers|Levitate|calmmind,psyshock,moonlight,moonblast||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fairy]Maushold||WideLens|Technician|tidyup,encore,bite,populationbomb||85,85,85,85,85,85|N|||76|,,,,,Ghost",
   "ai": "Altaria||HeavyDutyBoots|NaturalCure|earthquake,bravebird,dragondance,roost||85,85,85,85,85,85|M|||89|,,,,,Ground]Toucannon||HeavyDutyBoots|KeenEye|boomburst,beakblast,knockoff,roost||85,85,85,85,85,85|F|||88|,,,,,Steel]Barraskewda||ChoiceBand|SwiftSwim|flipturn,waterfall,throatchop,closecombat||85,85,85,85,85,85|F|||81|,,,,,Fighting]Hippowdon||Leftovers|SandStream|curse,earthquake,stoneedge,slackoff||85,85,85,85,85,85|M|||82|,,,,,Rock]Mew||LifeOrb|Synchronize|swordsdance,closecombat,knockoff,psychicfangs||85,85,85,85,85,85|N|||82|,,,,,Fighting]Clefable||Leftovers|Unaware|fireblast,calmmind,moonblast,moonlight||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire",
   "curation": {

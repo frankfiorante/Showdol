@@ -19,6 +19,253 @@
     "Hydreigon",
     "Blastoise"
   ],
+  "playerSets": [
+    {
+      "species": "Gyarados",
+      "level": 79,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 280,
+      "stats": {
+        "atk": 243,
+        "def": 170,
+        "spa": 140,
+        "spd": 204,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Waterfall",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Skeledirge",
+      "level": 79,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "ability": "Unaware",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fairy",
+      "maxhp": 294,
+      "stats": {
+        "atk": 123,
+        "def": 204,
+        "spa": 219,
+        "spd": 164,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Torch Song",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Hex",
+          "type": "Ghost",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zarude-Dada",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Grass"
+      ],
+      "ability": "Leaf Guard",
+      "item": "Choice Band",
+      "teraType": "Grass",
+      "maxhp": 288,
+      "stats": {
+        "atk": 229,
+        "def": 206,
+        "spa": 152,
+        "spd": 191,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dialga",
+      "level": 73,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Assault Vest",
+      "teraType": "Flying",
+      "maxhp": 266,
+      "stats": {
+        "atk": 218,
+        "def": 218,
+        "spa": 261,
+        "spd": 188,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hydreigon",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Specs",
+      "teraType": "Dragon",
+      "maxhp": 275,
+      "stats": {
+        "atk": 211,
+        "def": 188,
+        "spa": 243,
+        "spd": 188,
+        "spe": 200
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Blastoise",
+      "level": 80,
+      "types": [
+        "Water"
+      ],
+      "ability": "Torrent",
+      "item": "White Herb",
+      "teraType": "Ground",
+      "maxhp": 258,
+      "stats": {
+        "atk": 179,
+        "def": 206,
+        "spa": 182,
+        "spd": 214,
+        "spe": 171
+      },
+      "moves": [
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Gyarados||HeavyDutyBoots|Intimidate|earthquake,dragondance,waterfall,stoneedge||85,85,85,85,85,85|M|||79|,,,,,Ground]Skeledirge||HeavyDutyBoots|Unaware|slackoff,willowisp,torchsong,hex||85,,85,85,85,85|M|,0,,,,||79|,,,,,Fairy]Zarude|ZarudeDada|ChoiceBand|LeafGuard|knockoff,uturn,powerwhip,closecombat||85,85,85,85,85,85|N|||77|,,,,,Grass]Dialga||AssaultVest|Pressure|dracometeor,heavyslam,fireblast,dragontail||85,85,85,85,85,85|N|||73|,,,,,Flying]Hydreigon||ChoiceSpecs|Levitate|dracometeor,uturn,fireblast,darkpulse||85,85,85,85,85,85|M|||79|,,,,,Dragon]Blastoise||WhiteHerb|Torrent|shellsmash,icebeam,earthquake,hydropump||85,85,85,85,85,85|F|||80|,,,,,Ground",
   "ai": "Regieleki||Magnet|Transistor|thunderbolt,explosion,voltswitch,rapidspin||85,85,85,85,85,85|N|||79|,,,,,Electric]Moltres|MoltresGalar|ChestoBerry|Berserk|nastyplot,rest,fierywrath,hurricane||81,,85,85,85,85|N|,0,,,,||79|,,,,,Steel]Dedenne||SitrusBerry|CheekPouch|dazzlinggleam,nuzzle,thunderbolt,uturn||85,85,85,85,85,85|M|||88|,,,,,Flying]Abomasnow||LightClay|SnowWarning|auroraveil,blizzard,iceshard,earthquake||77,85,85,85,85,85|M|||84|,,,,,Ghost]Entei||ChoiceBand|InnerFocus|sacredfire,stompingtantrum,flareblitz,extremespeed||85,85,85,85,85,85|N|||78|,,,,,Normal]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost",
   "curation": {

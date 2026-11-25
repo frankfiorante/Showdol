@@ -19,6 +19,254 @@
     "Reshiram",
     "Urshifu-Rapid-Strike"
   ],
+  "playerSets": [
+    {
+      "species": "Iron Crown",
+      "level": 78,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Quark Drive",
+      "item": "Choice Specs",
+      "teraType": "Fighting",
+      "maxhp": 268,
+      "stats": {
+        "atk": 117,
+        "def": 201,
+        "spa": 235,
+        "spd": 214,
+        "spe": 198
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Tachyon Cutter",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Oricorio-Pom-Pom",
+      "level": 82,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Dancer",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 257,
+      "stats": {
+        "atk": 119,
+        "def": 162,
+        "spa": 208,
+        "spd": 162,
+        "spe": 200
+      },
+      "moves": [
+        {
+          "name": "Revelation Dance",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ludicolo",
+      "level": 90,
+      "types": [
+        "Water",
+        "Grass"
+      ],
+      "ability": "Swift Swim",
+      "item": "Choice Specs",
+      "teraType": "Water",
+      "maxhp": 290,
+      "stats": {
+        "atk": 131,
+        "def": 177,
+        "spa": 213,
+        "spd": 231,
+        "spe": 177
+      },
+      "moves": [
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Yanmega",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Choice Specs",
+      "teraType": "Bug",
+      "maxhp": 275,
+      "stats": {
+        "atk": 172,
+        "def": 188,
+        "spa": 237,
+        "spd": 139,
+        "spe": 203
+      },
+      "moves": [
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Reshiram",
+      "level": 76,
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "ability": "Turboblaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 277,
+      "stats": {
+        "atk": 187,
+        "def": 196,
+        "spa": 272,
+        "spd": 226,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Blue Flare",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Urshifu-Rapid-Strike",
+      "level": 75,
+      "types": [
+        "Fighting",
+        "Water"
+      ],
+      "ability": "Unseen Fist",
+      "item": "Choice Scarf",
+      "teraType": "Water",
+      "maxhp": 274,
+      "stats": {
+        "atk": 239,
+        "def": 194,
+        "spa": 138,
+        "spd": 134,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Surging Strikes",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Iron Crown||ChoiceSpecs|QuarkDrive|psyshock,tachyoncutter,voltswitch,focusblast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Oricorio|OricorioPomPom|HeavyDutyBoots|Dancer|revelationdance,quiverdance,roost,hurricane||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Ludicolo||ChoiceSpecs|SwiftSwim|leafstorm,gigadrain,icebeam,hydropump||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water]Yanmega||ChoiceSpecs|TintedLens|bugbuzz,uturn,gigadrain,airslash||85,85,85,85,85,85|F|||82|,,,,,Bug]Reshiram||HeavyDutyBoots|Turboblaze|dracometeor,willowisp,earthpower,blueflare||85,,85,85,85,85|N|,0,,,,||76|,,,,,Fire]Urshifu|UrshifuRapidStrike|ChoiceScarf|UnseenFist|surgingstrikes,icespinner,uturn,closecombat||85,85,85,85,85,85|F|||75|,,,,,Water",
   "ai": "Dondozo||Leftovers|Unaware|sleeptalk,rest,wavecrash,curse||85,85,85,85,85,85|M|||78|,,,,,Dragon]Copperajah||ChoiceBand|HeavyMetal|heavyslam,knockoff,supercellslam,heatcrash||81,85,85,85,85,85|F|||86|,,,,,Fire]Frosmoth||HeavyDutyBoots|IceScales|quiverdance,bugbuzz,terablast,icebeam||85,,85,85,85,85|M|,0,,,,||82|,,,,,Ground]Toxtricity||ChoiceScarf|PunkRock|sludgewave,overdrive,boomburst,voltswitch||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Umbreon||Leftovers|Synchronize|foulplay,protect,toxic,wish||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Thundurus|ThundurusTherian|HeavyDutyBoots|VoltAbsorb|nastyplot,sludgewave,focusblast,thunderbolt||85,,85,85,85,85|M|,0,,,,||80|,,,,,Poison",
   "curation": {

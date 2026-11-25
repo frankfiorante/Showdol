@@ -19,6 +19,250 @@
     "Blissey",
     "Hitmonlee"
   ],
+  "playerSets": [
+    {
+      "species": "Vaporeon",
+      "level": 86,
+      "types": [
+        "Water"
+      ],
+      "ability": "Water Absorb",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 364,
+      "stats": {
+        "atk": 161,
+        "def": 152,
+        "spa": 238,
+        "spd": 213,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Sudowoodo",
+      "level": 94,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Rock Head",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 284,
+      "stats": {
+        "atk": 241,
+        "def": 270,
+        "spa": 110,
+        "spd": 176,
+        "spe": 110
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Head Smash",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Tinkaton",
+      "level": 82,
+      "types": [
+        "Fairy",
+        "Steel"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 274,
+      "stats": {
+        "atk": 170,
+        "def": 173,
+        "spa": 162,
+        "spd": 219,
+        "spe": 201
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Gigaton Hammer",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Araquanid",
+      "level": 82,
+      "types": [
+        "Water",
+        "Bug"
+      ],
+      "ability": "Water Bubble",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 246,
+      "stats": {
+        "atk": 162,
+        "def": 198,
+        "spa": 129,
+        "spd": 264,
+        "spe": 116
+      },
+      "moves": [
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Mirror Coat",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Blissey",
+      "level": 85,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Natural Cure",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 572,
+      "stats": {
+        "atk": 22,
+        "def": 66,
+        "spa": 176,
+        "spd": 278,
+        "spe": 142
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Seismic Toss",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Heal Bell",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Soft-Boiled",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Hitmonlee",
+      "level": 85,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Unburden",
+      "item": "White Herb",
+      "teraType": "Fighting",
+      "maxhp": 224,
+      "stats": {
+        "atk": 253,
+        "def": 139,
+        "spa": 108,
+        "spd": 236,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Vaporeon||Leftovers|WaterAbsorb|flipturn,scald,wish,protect||85,85,85,85,85,85|M|||86|,,,,,Poison]Sudowoodo||Leftovers|RockHead|stealthrock,woodhammer,headsmash,suckerpunch||85,85,85,85,85,85|F|||94|,,,,,Grass]Tinkaton||Leftovers|MoldBreaker|knockoff,playrough,gigatonhammer,swordsdance||85,85,85,85,85,85|F|||82|,,,,,Steel]Araquanid||HeavyDutyBoots|WaterBubble|leechlife,stickyweb,liquidation,mirrorcoat||85,85,85,85,85,85|F|||82|,,,,,Steel]Blissey||Leftovers|NaturalCure|thunderwave,seismictoss,healbell,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Hitmonlee||WhiteHerb|Unburden|closecombat,swordsdance,knockoff,poisonjab||85,85,85,85,85,85|M|||85|,,,,,Fighting",
   "ai": "Landorus|LandorusTherian|Leftovers|Intimidate|uturn,earthquake,taunt,stoneedge||85,85,85,85,85,85|M|||76|,,,,,Ground]Hoopa|HoopaUnbound|AssaultVest|Magician|gunkshot,focusblast,hyperspacefury,psychic||85,85,85,85,85,85|N|||80|,,,,,Poison]Lugia||HeavyDutyBoots|Multiscale|calmmind,recover,psychicnoise,aeroblast||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Venusaur||Leftovers|Chlorophyll|synthesis,sludgebomb,toxic,knockoff||85,85,85,85,85,85|F|||84|,,,,,Dark]Hitmontop||AssaultVest|Intimidate|rapidspin,suckerpunch,closecombat,stoneedge||85,85,85,85,85,85|M|||88|,,,,,Steel]Pachirisu||AssaultVest|VoltAbsorb|nuzzle,uturn,superfang,thunderbolt||85,85,85,85,85,85|F|||96|,,,,,Flying",
   "curation": {

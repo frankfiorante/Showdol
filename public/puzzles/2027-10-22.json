@@ -19,6 +19,252 @@
     "Snorlax",
     "Thundurus-Therian"
   ],
+  "playerSets": [
+    {
+      "species": "Ninetales-Alola",
+      "level": 78,
+      "types": [
+        "Ice",
+        "Fairy"
+      ],
+      "ability": "Snow Warning",
+      "item": "Light Clay",
+      "teraType": "Steel",
+      "maxhp": 242,
+      "stats": {
+        "atk": 109,
+        "def": 162,
+        "spa": 171,
+        "spd": 201,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Aurora Veil",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "pp": 8
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Blastoise",
+      "level": 80,
+      "types": [
+        "Water"
+      ],
+      "ability": "Torrent",
+      "item": "White Herb",
+      "teraType": "Grass",
+      "maxhp": 258,
+      "stats": {
+        "atk": 137,
+        "def": 206,
+        "spa": 182,
+        "spd": 214,
+        "spe": 171
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Meowscarada",
+      "level": 78,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Protean",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 247,
+      "stats": {
+        "atk": 217,
+        "def": 154,
+        "spa": 171,
+        "spd": 154,
+        "spe": 237
+      },
+      "moves": [
+        {
+          "name": "Flower Trick",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Excadrill",
+      "level": 79,
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 303,
+      "stats": {
+        "atk": 259,
+        "def": 140,
+        "spa": 125,
+        "spd": 148,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Snorlax",
+      "level": 82,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Thick Fat",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 397,
+      "stats": {
+        "atk": 228,
+        "def": 154,
+        "spa": 154,
+        "spd": 228,
+        "spe": 96
+      },
+      "moves": [
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Thundurus-Therian",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Choice Specs",
+      "teraType": "Poison",
+      "maxhp": 258,
+      "stats": {
+        "atk": 173,
+        "def": 158,
+        "spa": 278,
+        "spd": 174,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Ninetales|NinetalesAlola|LightClay|SnowWarning|freezedry,auroraveil,blizzard,moonblast||85,,85,85,85,85|F|,0,,,,||78|,,,,,Steel]Blastoise||WhiteHerb|Torrent|hydropump,icebeam,shellsmash,terablast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Meowscarada||LifeOrb|Protean|flowertrick,knockoff,tripleaxel,toxicspikes||85,85,85,85,85,85|F|||78|,,,,,Grass]Excadrill||Leftovers|MoldBreaker|earthquake,rapidspin,ironhead,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Grass]Snorlax||Leftovers|ThickFat|curse,sleeptalk,bodyslam,rest||85,85,85,85,85,85|F|||82|,,,,,Fairy]Thundurus|ThundurusTherian|ChoiceSpecs|VoltAbsorb|thunderbolt,psychic,sludgewave,voltswitch||85,,85,85,85,85|M|,0,,,,||80|,,,,,Poison",
   "ai": "Urshifu||ChoiceBand|UnseenFist|closecombat,suckerpunch,poisonjab,wickedblow||85,85,85,85,85,85|F|||74|,,,,,Fighting]Lurantis||Leftovers|Contrary|superpower,synthesis,leafstorm,defog||85,85,85,85,85,85|F|||87|,,,,,Fighting]Forretress||Leftovers|Sturdy|stealthrock,ironhead,spikes,bodypress||85,85,85,85,85,85|F|||84|,,,,,Fighting]Hitmontop||ChoiceBand|Intimidate|stoneedge,suckerpunch,closecombat,earthquake||85,85,85,85,85,85|M|||88|,,,,,Steel]Polteageist||WhiteHerb|CursedBody|shadowball,strengthsap,shellsmash,terablast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Veluza||SitrusBerry|Sharpness|filletaway,psychocut,nightslash,aquacutter||85,85,85,85,85,85|M|||85|,,,,,Psychic",
   "curation": {

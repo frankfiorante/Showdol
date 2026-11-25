@@ -19,6 +19,252 @@
     "Jumpluff",
     "Zapdos-Galar"
   ],
+  "playerSets": [
+    {
+      "species": "Minun",
+      "level": 95,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 268,
+      "stats": {
+        "atk": 81,
+        "def": 149,
+        "spa": 196,
+        "spd": 215,
+        "spe": 234
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Rotom-Wash",
+      "level": 82,
+      "types": [
+        "Electric",
+        "Water"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 216,
+      "stats": {
+        "atk": 111,
+        "def": 223,
+        "spa": 219,
+        "spd": 223,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Walking Wake",
+      "level": 79,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Choice Specs",
+      "teraType": "Fire",
+      "maxhp": 286,
+      "stats": {
+        "atk": 177,
+        "def": 189,
+        "spa": 243,
+        "spd": 177,
+        "spe": 218
+      },
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Coalossal",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 341,
+      "stats": {
+        "atk": 193,
+        "def": 264,
+        "spa": 193,
+        "spd": 211,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Jumpluff",
+      "level": 87,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "ability": "Infiltrator",
+      "teraType": "Steel",
+      "maxhp": 271,
+      "stats": {
+        "atk": 145,
+        "def": 172,
+        "spa": 145,
+        "spd": 215,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zapdos-Galar",
+      "level": 77,
+      "types": [
+        "Fighting",
+        "Flying"
+      ],
+      "ability": "Defiant",
+      "item": "Choice Band",
+      "teraType": "Steel",
+      "maxhp": 265,
+      "stats": {
+        "atk": 237,
+        "def": 183,
+        "spa": 175,
+        "spd": 183,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Minun||LifeOrb|VoltAbsorb|encore,nastyplot,grassknot,thunderbolt||85,,85,85,85,85|F|,0,,,,||95|,,,,,Electric]Rotom|RotomWash|Leftovers|Levitate|hydropump,painsplit,willowisp,discharge||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Walking Wake||ChoiceSpecs|Protosynthesis|flamethrower,dracometeor,flipturn,hydropump||85,85,85,85,85,85|N|||79|,,,,,Fire]Coalossal||HeavyDutyBoots|FlameBody|willowisp,overheat,rapidspin,stoneedge||85,85,85,85,85,85|M|||89|,,,,,Grass]Jumpluff|||Infiltrator|uturn,acrobatics,sleeppowder,strengthsap||81,85,85,85,85,85|M|||87|,,,,,Steel]Zapdos|ZapdosGalar|ChoiceBand|Defiant|knockoff,closecombat,uturn,bravebird||85,85,85,85,85,85|N|||77|,,,,,Steel",
   "ai": "Quagsire||Leftovers|Unaware|recover,toxic,earthquake,icebeam||85,85,85,85,85,85|F|||84|,,,,,Poison]Frosmoth||HeavyDutyBoots|IceScales|icebeam,hurricane,bugbuzz,quiverdance||85,,85,85,85,85|M|,0,,,,||82|,,,,,Water]Staraptor||ChoiceBand|Reckless|uturn,doubleedge,bravebird,closecombat||81,85,85,85,85,85|M|||79|,,,,,Flying]Poliwrath||AssaultVest|WaterAbsorb|circlethrow,liquidation,closecombat,knockoff||85,85,85,85,85,85|M|||88|,,,,,Dark]Sudowoodo||ChoiceBand|RockHead|woodhammer,headsmash,earthquake,suckerpunch||85,85,85,85,85,85|M|||94|,,,,,Rock]Dialga|DialgaOrigin|AdamantCrystal|Pressure|fireblast,dragontail,flashcannon,dracometeor||85,85,85,85,85,85|N|||73|,,,,,Dragon",
   "curation": {

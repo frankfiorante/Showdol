@@ -19,6 +19,254 @@
     "Decidueye",
     "Meloetta"
   ],
+  "playerSets": [
+    {
+      "species": "Forretress",
+      "level": 84,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "ability": "Sturdy",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 263,
+      "stats": {
+        "atk": 199,
+        "def": 283,
+        "spa": 149,
+        "spd": 149,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    },
+    {
+      "species": "Sandy Shocks",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Ground"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 267,
+      "stats": {
+        "atk": 134,
+        "def": 201,
+        "spa": 240,
+        "spd": 182,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Lugia",
+      "level": 73,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Multiscale",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 275,
+      "stats": {
+        "atk": 136,
+        "def": 232,
+        "spa": 174,
+        "spd": 267,
+        "spe": 203
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Aeroblast",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Pawmot",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Fighting"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 243,
+      "stats": {
+        "atk": 230,
+        "def": 158,
+        "spa": 158,
+        "spd": 142,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Double Shock",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Revival Blessing",
+          "type": "Normal",
+          "pp": 1
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Decidueye",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "ability": "Overgrow",
+      "item": "Assault Vest",
+      "teraType": "Grass",
+      "maxhp": 281,
+      "stats": {
+        "atk": 239,
+        "def": 182,
+        "spa": 226,
+        "spd": 226,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Spirit Shackle",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Meloetta",
+      "level": 82,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 298,
+      "stats": {
+        "atk": 173,
+        "def": 173,
+        "spa": 257,
+        "spd": 257,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Relic Song",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Forretress||Leftovers|Sturdy|ironhead,bodypress,spikes,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Fighting]Sandy Shocks||HeavyDutyBoots|Protosynthesis|thunderwave,earthpower,voltswitch,thunderbolt||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass]Lugia||HeavyDutyBoots|Multiscale|earthpower,aeroblast,recover,calmmind||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Pawmot||LifeOrb|VoltAbsorb|closecombat,doubleshock,revivalblessing,knockoff||85,85,85,85,85,85|F|||80|,,,,,Electric]Decidueye||AssaultVest|Overgrow|spiritshackle,leafstorm,uturn,knockoff||85,85,85,85,85,85|F|||88|,,,,,Grass]Meloetta||LifeOrb|SereneGrace|closecombat,relicsong,tripleaxel,knockoff||85,85,85,85,85,85|N|||82|,,,,,Dark",
   "ai": "Toxtricity||ThroatSpray|PunkRock|overdrive,shiftgear,boomburst,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Normal]Azumarill||ChoiceBand|HugePower|playrough,liquidation,aquajet,knockoff||85,85,85,85,85,85|M|||82|,,,,,Water]Donphan||AssaultVest|Sturdy|earthquake,icespinner,rapidspin,iceshard||85,85,85,85,85,85|F|||84|,,,,,Dragon]Espeon||LifeOrb|MagicBounce|alluringvoice,morningsun,psyshock,shadowball||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Mamoswine||ChoiceBand|ThickFat|earthquake,iceshard,iciclecrash,knockoff||85,85,85,85,85,85|M|||81|,,,,,Ice]Pelipper||HeavyDutyBoots|Drizzle|hurricane,uturn,roost,surf||85,85,85,85,85,85|M|||86|,,,,,Ground",
   "curation": {

@@ -19,6 +19,253 @@
     "Gogoat",
     "Ribombee"
   ],
+  "playerSets": [
+    {
+      "species": "Chi-Yu",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "ability": "Beads of Ruin",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 211,
+      "stats": {
+        "atk": 128,
+        "def": 168,
+        "spa": 252,
+        "spd": 229,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Overqwil",
+      "level": 82,
+      "types": [
+        "Dark",
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 274,
+      "stats": {
+        "atk": 236,
+        "def": 203,
+        "spa": 154,
+        "spd": 154,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Pawmot",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Fighting"
+      ],
+      "ability": "Iron Fist",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 243,
+      "stats": {
+        "atk": 230,
+        "def": 158,
+        "spa": 158,
+        "spd": 142,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Double Shock",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Revival Blessing",
+          "type": "Normal",
+          "pp": 1
+        }
+      ]
+    },
+    {
+      "species": "Abomasnow",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "ability": "Snow Warning",
+      "item": "Light Clay",
+      "teraType": "Ghost",
+      "maxhp": 287,
+      "stats": {
+        "atk": 203,
+        "def": 174,
+        "spa": 203,
+        "spd": 191,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "pp": 8
+        },
+        {
+          "name": "Aurora Veil",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Gogoat",
+      "level": 88,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 360,
+      "stats": {
+        "atk": 226,
+        "def": 159,
+        "spa": 221,
+        "spd": 193,
+        "spe": 170
+      },
+      "moves": [
+        {
+          "name": "Milk Drink",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ribombee",
+      "level": 83,
+      "types": [
+        "Bug",
+        "Fairy"
+      ],
+      "ability": "Shield Dust",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 235,
+      "stats": {
+        "atk": 96,
+        "def": 147,
+        "spa": 205,
+        "spd": 164,
+        "spe": 254
+      },
+      "moves": [
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass",
+          "pp": 48
+        }
+      ]
+    }
+  ],
   "player": "Chi-Yu||HeavyDutyBoots|BeadsofRuin|willowisp,fireblast,nastyplot,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Overqwil||LifeOrb|Intimidate|swordsdance,crunch,gunkshot,liquidation||85,85,85,85,85,85|M|||82|,,,,,Water]Pawmot||LifeOrb|IronFist|doubleshock,closecombat,icepunch,revivalblessing||85,85,85,85,85,85|M|||80|,,,,,Electric]Abomasnow||LightClay|SnowWarning|woodhammer,blizzard,auroraveil,earthquake||77,85,85,85,85,85|F|||84|,,,,,Ghost]Gogoat||Leftovers|SapSipper|milkdrink,earthquake,bulkup,hornleech||85,85,85,85,85,85|F|||88|,,,,,Ground]Ribombee||HeavyDutyBoots|ShieldDust|bugbuzz,moonblast,stickyweb,stunspore||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost",
   "ai": "Brute Bonnet||Leftovers|Protosynthesis|crunch,suckerpunch,closecombat,spore||85,85,85,85,85,85|N|||79|,,,,,Fighting]Vileplume||Leftovers|EffectSpore|sludgebomb,strengthsap,gigadrain,sleeppowder||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Luxray||FlameOrb|Guts|supercellslam,playrough,facade,trailblaze||81,85,85,85,85,85|F|||88|,,,,,Normal]Zangoose||ToxicOrb|ToxicBoost|swordsdance,facade,quickattack,knockoff||85,85,85,85,85,85|F|||85|,,,,,Normal]Furret||ChoiceBand|Frisk|doubleedge,knockoff,uturn,trick||85,85,85,85,85,85|M|||94|,,,,,Normal]Pachirisu||AssaultVest|VoltAbsorb|superfang,thunderbolt,uturn,nuzzle||85,85,85,85,85,85|M|||96|,,,,,Flying",
   "curation": {

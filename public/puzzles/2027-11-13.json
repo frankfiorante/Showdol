@@ -19,6 +19,253 @@
     "Zarude",
     "Mesprit"
   ],
+  "playerSets": [
+    {
+      "species": "Clodsire",
+      "level": 81,
+      "types": [
+        "Poison",
+        "Ground"
+      ],
+      "ability": "Unaware",
+      "item": "Leftovers",
+      "teraType": "Flying",
+      "maxhp": 343,
+      "stats": {
+        "atk": 168,
+        "def": 144,
+        "spa": 120,
+        "spd": 209,
+        "spe": 79
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Garchomp",
+      "level": 74,
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "ability": "Rough Skin",
+      "item": "Rocky Helmet",
+      "teraType": "Steel",
+      "maxhp": 282,
+      "stats": {
+        "atk": 235,
+        "def": 184,
+        "spa": 161,
+        "spd": 169,
+        "spe": 194
+      },
+      "moves": [
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Skarmory",
+      "level": 80,
+      "types": [
+        "Steel",
+        "Flying"
+      ],
+      "ability": "Sturdy",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 235,
+      "stats": {
+        "atk": 174,
+        "def": 270,
+        "spa": 110,
+        "spd": 158,
+        "spe": 158
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Whirlwind",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dedenne",
+      "level": 88,
+      "types": [
+        "Electric",
+        "Fairy"
+      ],
+      "ability": "Cheek Pouch",
+      "item": "Sitrus Berry",
+      "teraType": "Flying",
+      "maxhp": 261,
+      "stats": {
+        "atk": 152,
+        "def": 151,
+        "spa": 193,
+        "spd": 168,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Nuzzle",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Super Fang",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zarude",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Grass"
+      ],
+      "ability": "Leaf Guard",
+      "item": "Choice Band",
+      "teraType": "Grass",
+      "maxhp": 288,
+      "stats": {
+        "atk": 229,
+        "def": 206,
+        "spa": 152,
+        "spd": 191,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mesprit",
+      "level": 85,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 275,
+      "stats": {
+        "atk": 227,
+        "def": 227,
+        "spa": 227,
+        "spd": 227,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Clodsire||Leftovers|Unaware|recover,earthquake,toxic,spikes||85,85,85,85,85,85|F|||81|,,,,,Flying]Garchomp||RockyHelmet|RoughSkin|dragontail,spikes,outrage,earthquake||85,85,85,85,85,85|F|||74|,,,,,Steel]Skarmory||Leftovers|Sturdy|stealthrock,whirlwind,bravebird,roost||85,85,85,85,85,85|M|||80|,,,,,Dragon]Dedenne||SitrusBerry|CheekPouch|thunderbolt,nuzzle,dazzlinggleam,superfang||85,85,85,85,85,85|F|||88|,,,,,Flying]Zarude||ChoiceBand|LeafGuard|knockoff,uturn,closecombat,powerwhip||85,85,85,85,85,85|N|||77|,,,,,Grass]Mesprit||Leftovers|Levitate|uturn,psychicnoise,encore,thunderwave||85,85,85,85,85,85|N|||85|,,,,,Dark",
   "ai": "Piloswine||Eviolite|ThickFat|roar,stealthrock,iciclecrash,earthquake||85,85,85,85,85,85|M|||85|,,,,,Poison]Dodrio||HeavyDutyBoots|EarlyBird|doubleedge,swordsdance,bravebird,knockoff||85,85,85,85,85,85|F|||85|,,,,,Flying]Volcanion||AssaultVest|WaterAbsorb|flamecharge,steameruption,earthpower,flamethrower||81,85,85,85,85,85|N|||79|,,,,,Water]Ribombee||HeavyDutyBoots|ShieldDust|moonblast,stickyweb,stunspore,bugbuzz||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Deoxys||LifeOrb|Pressure|superpower,knockoff,psychoboost,icebeam||85,85,85,85,85,85|N|||74|,,,,,Dark]Uxie||Leftovers|Levitate|psychicnoise,drainingkiss,encore,nastyplot||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy",
   "curation": {

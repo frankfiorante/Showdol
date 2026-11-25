@@ -19,6 +19,251 @@
     "Cramorant",
     "Hariyama"
   ],
+  "playerSets": [
+    {
+      "species": "Cinderace",
+      "level": 77,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Libero",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 249,
+      "stats": {
+        "atk": 223,
+        "def": 160,
+        "spa": 145,
+        "spd": 160,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "Pyro Ball",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Court Change",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "High Jump Kick",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Ludicolo",
+      "level": 90,
+      "types": [
+        "Water",
+        "Grass"
+      ],
+      "ability": "Swift Swim",
+      "item": "Choice Specs",
+      "teraType": "Water",
+      "maxhp": 290,
+      "stats": {
+        "atk": 131,
+        "def": 177,
+        "spa": 213,
+        "spd": 231,
+        "spe": 177
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Deoxys-Attack",
+      "level": 72,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 191,
+      "stats": {
+        "atk": 301,
+        "def": 71,
+        "spa": 301,
+        "spd": 71,
+        "spe": 258
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psycho Boost",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Clodsire",
+      "level": 81,
+      "types": [
+        "Poison",
+        "Ground"
+      ],
+      "ability": "Water Absorb",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 343,
+      "stats": {
+        "atk": 168,
+        "def": 144,
+        "spa": 120,
+        "spd": 209,
+        "spe": 79
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cramorant",
+      "level": 86,
+      "types": [
+        "Flying",
+        "Water"
+      ],
+      "ability": "Gulp Missile",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 261,
+      "stats": {
+        "atk": 195,
+        "def": 144,
+        "spa": 195,
+        "spd": 213,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Hariyama",
+      "level": 87,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Guts",
+      "item": "Flame Orb",
+      "teraType": "Normal",
+      "maxhp": 392,
+      "stats": {
+        "atk": 259,
+        "def": 154,
+        "spa": 119,
+        "spd": 154,
+        "spe": 137
+      },
+      "moves": [
+        {
+          "name": "Bullet Punch",
+          "type": "Steel",
+          "pp": 48
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Cinderace||HeavyDutyBoots|Libero|pyroball,courtchange,highjumpkick,gunkshot||81,85,85,85,85,85|F|||77|,,,,,Fighting]Ludicolo||ChoiceSpecs|SwiftSwim|hydropump,gigadrain,icebeam,leafstorm||85,,85,85,85,85|F|,0,,,,||90|,,,,,Water]Deoxys|DeoxysAttack|LifeOrb|Pressure|icebeam,knockoff,psychoboost,superpower||85,85,85,85,85,85|N|||72|,,,,,Fighting]Clodsire||Leftovers|WaterAbsorb|recover,gunkshot,spikes,earthquake||85,85,85,85,85,85|F|||81|,,,,,Steel]Cramorant||HeavyDutyBoots|GulpMissile|defog,roost,bravebird,surf||85,85,85,85,85,85|M|||86|,,,,,Ground]Hariyama||FlameOrb|Guts|bulletpunch,facade,knockoff,closecombat||85,85,85,85,85,85|M|||87|,,,,,Normal",
   "ai": "Metagross||WeaknessPolicy|ClearBody|earthquake,heavyslam,psychicfangs,agility||85,85,85,85,85,85|N|||79|,,,,,Ground]Hitmontop||Leftovers|Technician|tripleaxel,closecombat,rapidspin,bulkup||85,85,85,85,85,85|M|||88|,,,,,Ice]Volbeat||HeavyDutyBoots|Prankster|encore,lunge,thunderwave,roost||85,85,85,85,85,85|M|||90|,,,,,Steel]Lokix||LifeOrb|TintedLens|suckerpunch,knockoff,leechlife,swordsdance||85,85,85,85,85,85|F|||82|,,,,,Dark]Oinkologne|OinkologneF|Leftovers|ThickFat|bodyslam,lashout,highhorsepower,curse||85,85,85,85,85,85|F|||91|,,,,,Ground]Iron Thorns||BoosterEnergy|QuarkDrive|earthquake,wildcharge,stoneedge,dragondance||85,85,85,85,85,85|N|||81|,,,,,Grass",
   "curation": {

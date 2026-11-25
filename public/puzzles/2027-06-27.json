@@ -19,6 +19,249 @@
     "Reuniclus",
     "Suicune"
   ],
+  "playerSets": [
+    {
+      "species": "Lanturn",
+      "level": 89,
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 367,
+      "stats": {
+        "atk": 108,
+        "def": 154,
+        "spa": 186,
+        "spd": 186,
+        "spe": 170
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Mightyena",
+      "level": 96,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 290,
+      "stats": {
+        "atk": 227,
+        "def": 189,
+        "spa": 170,
+        "spd": 170,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sudowoodo",
+      "level": 94,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Rock Head",
+      "item": "Leftovers",
+      "teraType": "Rock",
+      "maxhp": 284,
+      "stats": {
+        "atk": 241,
+        "def": 270,
+        "spa": 110,
+        "spd": 176,
+        "spe": 110
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Head Smash",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Komala",
+      "level": 87,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Comatose",
+      "item": "Assault Vest",
+      "teraType": "Ghost",
+      "maxhp": 255,
+      "stats": {
+        "atk": 250,
+        "def": 163,
+        "spa": 180,
+        "spd": 215,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Reuniclus",
+      "level": 88,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Magic Guard",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 337,
+      "stats": {
+        "atk": 119,
+        "def": 182,
+        "spa": 270,
+        "spd": 200,
+        "spe": 103
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Suicune",
+      "level": 82,
+      "types": [
+        "Water"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 298,
+      "stats": {
+        "atk": 128,
+        "def": 236,
+        "spa": 195,
+        "spd": 236,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Lanturn||HeavyDutyBoots|VoltAbsorb|thunderbolt,voltswitch,thunderwave,scald||85,,85,85,85,85|M|,0,,,,||89|,,,,,Flying]Mightyena||Leftovers|Intimidate|taunt,playrough,crunch,suckerpunch||85,85,85,85,85,85|M|||96|,,,,,Fairy]Sudowoodo||Leftovers|RockHead|earthquake,stealthrock,headsmash,woodhammer||85,85,85,85,85,85|M|||94|,,,,,Rock]Komala||AssaultVest|Comatose|knockoff,earthquake,rapidspin,bodyslam||85,85,85,85,85,85|M|||87|,,,,,Ghost]Reuniclus||LifeOrb|MagicGuard|recover,focusblast,psychic,calmmind||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fighting]Suicune||Leftovers|Pressure|substitute,scald,icebeam,calmmind||85,,85,85,85,85|N|,0,,,,||82|,,,,,Dragon",
   "ai": "Masquerain||HeavyDutyBoots|Intimidate|bugbuzz,hurricane,hydropump,quiverdance||85,,85,85,85,85|M|,0,,,,||87|,,,,,Water]Heracross||FlameOrb|Guts|knockoff,trailblaze,facade,closecombat||85,85,85,85,85,85|F|||80|,,,,,Normal]Skarmory||Leftovers|Sturdy|bravebird,irondefense,bodypress,roost||85,85,85,85,85,85|F|||80|,,,,,Fighting]Bruxish||LifeOrb|StrongJaw|psychicfangs,swordsdance,aquajet,wavecrash||85,85,85,85,85,85|M|||85|,,,,,Psychic]Garchomp||LoadedDice|RoughSkin|earthquake,swordsdance,ironhead,scaleshot||85,85,85,85,85,85|F|||74|,,,,,Steel]Glimmora||AirBalloon|ToxicDebris|earthpower,powergem,stealthrock,sludgewave||85,,85,85,85,85|M|,0,,,,||75|,,,,,Ground",
   "curation": {

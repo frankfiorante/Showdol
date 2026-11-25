@@ -19,6 +19,252 @@
     "Zapdos",
     "Malamar"
   ],
+  "playerSets": [
+    {
+      "species": "Plusle",
+      "level": 95,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Lightning Rod",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 268,
+      "stats": {
+        "atk": 100,
+        "def": 130,
+        "spa": 215,
+        "spd": 196,
+        "spe": 234
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Pelipper",
+      "level": 86,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Drizzle",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 243,
+      "stats": {
+        "atk": 135,
+        "def": 221,
+        "spa": 213,
+        "spd": 170,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Rillaboom",
+      "level": 79,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Grassy Surge",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 288,
+      "stats": {
+        "atk": 243,
+        "def": 188,
+        "spa": 140,
+        "spd": 156,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Grassy Glide",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Great Tusk",
+      "level": 77,
+      "types": [
+        "Ground",
+        "Fighting"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 304,
+      "stats": {
+        "atk": 246,
+        "def": 246,
+        "spa": 126,
+        "spd": 126,
+        "spe": 179
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Zapdos",
+      "level": 78,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Static",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 268,
+      "stats": {
+        "atk": 145,
+        "def": 178,
+        "spa": 240,
+        "spd": 185,
+        "spe": 201
+      },
+      "moves": [
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Heat Wave",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Malamar",
+      "level": 82,
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "ability": "Contrary",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 275,
+      "stats": {
+        "atk": 198,
+        "def": 191,
+        "spa": 159,
+        "spd": 170,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Plusle||LifeOrb|LightningRod|thunderbolt,nastyplot,grassknot,encore||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass]Pelipper||HeavyDutyBoots|Drizzle|surf,knockoff,roost,hurricane||85,85,85,85,85,85|F|||86|,,,,,Water]Rillaboom||LifeOrb|GrassySurge|highhorsepower,woodhammer,swordsdance,grassyglide||85,85,85,85,85,85|F|||79|,,,,,Grass]Great Tusk||Leftovers|Protosynthesis|bulkup,closecombat,earthquake,stoneedge||85,85,85,85,85,85|N|||77|,,,,,Steel]Zapdos||HeavyDutyBoots|Static|hurricane,roost,discharge,heatwave||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Malamar||Leftovers|Contrary|superpower,knockoff,sleeptalk,rest||85,85,85,85,85,85|F|||82|,,,,,Poison",
   "ai": "Salamence||HeavyDutyBoots|Moxie|earthquake,dualwingbeat,dragondance,outrage||85,85,85,85,85,85|M|||77|,,,,,Ground]Yanmega||HeavyDutyBoots|SpeedBoost|terablast,protect,airslash,bugbuzz||85,,85,85,85,85|M|,0,,,,||82|,,,,,Ground]Ninetales||HeavyDutyBoots|Drought|nastyplot,scorchingsands,solarbeam,fireblast||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fire]Jolteon||LifeOrb|VoltAbsorb|thunderbolt,alluringvoice,shadowball,calmmind||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fairy]Gallade||LifeOrb|Sharpness|psychocut,agility,sacredsword,nightslash||85,85,85,85,85,85|M|||80|,,,,,Fighting]Stonjourner||LifeOrb|PowerSpot|stoneedge,stealthrock,earthquake,heatcrash||85,85,85,85,85,85|M|||91|,,,,,Ground",
   "curation": {

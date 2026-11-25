@@ -19,6 +19,254 @@
     "Galvantula",
     "Houndoom"
   ],
+  "playerSets": [
+    {
+      "species": "Scrafty",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 244,
+      "stats": {
+        "atk": 197,
+        "def": 239,
+        "spa": 122,
+        "spd": 239,
+        "spe": 144
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Exeggutor-Alola",
+      "level": 89,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Steel",
+      "maxhp": 314,
+      "stats": {
+        "atk": 191,
+        "def": 202,
+        "spa": 273,
+        "spd": 184,
+        "spe": 131
+      },
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Minior-Yellow",
+      "level": 79,
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "ability": "Shields Down",
+      "item": "White Herb",
+      "teraType": "Ground",
+      "maxhp": 224,
+      "stats": {
+        "atk": 204,
+        "def": 140,
+        "spa": 204,
+        "spd": 140,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Power Gem",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hawlucha",
+      "level": 80,
+      "types": [
+        "Fighting",
+        "Flying"
+      ],
+      "ability": "Unburden",
+      "item": "White Herb",
+      "teraType": "Fighting",
+      "maxhp": 256,
+      "stats": {
+        "atk": 193,
+        "def": 166,
+        "spa": 165,
+        "spd": 147,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Galvantula",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "ability": "Compound Eyes",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 249,
+      "stats": {
+        "atk": 131,
+        "def": 146,
+        "spa": 206,
+        "spd": 146,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Thunder",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Houndoom",
+      "level": 87,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "ability": "Flash Fire",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 272,
+      "stats": {
+        "atk": 161,
+        "def": 137,
+        "spa": 241,
+        "spd": 189,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Scrafty||Leftovers|Intimidate|knockoff,drainpunch,dragondance,poisonjab||85,85,85,85,85,85|M|||83|,,,,,Poison]Exeggutor|ExeggutorAlola|SitrusBerry|Harvest|flamethrower,calmmind,dragonpulse,gigadrain||85,,85,85,85,85|M|,0,,,,||89|,,,,,Steel]Minior|MiniorYellow|WhiteHerb|ShieldsDown|powergem,shellsmash,acrobatics,earthquake||85,85,85,85,85,85|N|||79|,,,,,Ground]Hawlucha||WhiteHerb|Unburden|closecombat,bravebird,acrobatics,swordsdance||85,85,85,85,85,85|M|||80|,,,,,Fighting]Galvantula||HeavyDutyBoots|CompoundEyes|voltswitch,bugbuzz,thunder,stickyweb||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Houndoom||HeavyDutyBoots|FlashFire|sludgebomb,nastyplot,fireblast,darkpulse||85,,85,85,85,85|F|,0,,,,||87|,,,,,Dark",
   "ai": "Heracross||ChoiceBand|Moxie|megahorn,stoneedge,closecombat,earthquake||85,85,85,85,85,85|M|||80|,,,,,Bug]Vespiquen||HeavyDutyBoots|Pressure|toxicspikes,roost,hurricane,spikes||85,,85,85,85,85|F|,0,,,,||99|,,,,,Steel]Gengar||ChoiceSpecs|CursedBody|shadowball,trick,sludgewave,focusblast||85,,85,85,85,85|M|,0,,,,||81|,,,,,Dark]Greninja|GreninjaBond|LifeOrb|BattleBond|darkpulse,icebeam,hydropump,gunkshot||85,85,85,85,85,85|M|||80|,,,,,Poison]Gastrodon||Leftovers|StormDrain|recover,stealthrock,surf,earthquake||85,85,85,85,85,85|M|||86|,,,,,Poison]Trevenant||LifeOrb|NaturalCure|woodhammer,poltergeist,willowisp,drainpunch||85,85,85,85,85,85|F|||89|,,,,,Fighting",
   "curation": {

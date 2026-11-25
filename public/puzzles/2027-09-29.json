@@ -19,6 +19,237 @@
     "Bruxish",
     "Virizion"
   ],
+  "playerSets": [
+    {
+      "species": "Medicham",
+      "level": 86,
+      "types": [
+        "Fighting",
+        "Psychic"
+      ],
+      "ability": "Pure Power",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 243,
+      "stats": {
+        "atk": 152,
+        "def": 178,
+        "spa": 152,
+        "spd": 178,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Kilowattrel",
+      "level": 83,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 252,
+      "stats": {
+        "atk": 164,
+        "def": 147,
+        "spa": 222,
+        "spd": 147,
+        "spe": 255
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Raikou",
+      "level": 82,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 282,
+      "stats": {
+        "atk": 144,
+        "def": 170,
+        "spa": 236,
+        "spd": 211,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Ditto",
+      "level": 87,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Imposter",
+      "item": "Choice Scarf",
+      "teraType": "Ghost",
+      "maxhp": 225,
+      "stats": {
+        "atk": 133,
+        "def": 133,
+        "spa": 133,
+        "spd": 133,
+        "spe": 133
+      },
+      "moves": [
+        {
+          "name": "Transform",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bruxish",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Strong Jaw",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 254,
+      "stats": {
+        "atk": 227,
+        "def": 168,
+        "spa": 168,
+        "spd": 168,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Virizion",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Rock",
+      "maxhp": 283,
+      "stats": {
+        "atk": 195,
+        "def": 165,
+        "spa": 195,
+        "spd": 259,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Medicham||ChoiceBand|PurePower|poisonjab,icepunch,closecombat,zenheadbutt||85,85,85,85,85,85|M|||86|,,,,,Fighting]Kilowattrel||HeavyDutyBoots|VoltAbsorb|thunderbolt,uturn,roost,hurricane||85,85,85,85,85,85|F|||83|,,,,,Water]Raikou||Leftovers|Pressure|calmmind,thunderbolt,substitute,scald||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost]Bruxish||LifeOrb|StrongJaw|crunch,psychicfangs,swordsdance,wavecrash||85,85,85,85,85,85|M|||85|,,,,,Dark]Virizion||LifeOrb|Justified|stoneedge,closecombat,leafblade,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock",
   "ai": "Umbreon||Leftovers|Synchronize|foulplay,wish,toxic,protect||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Quaquaval||LifeOrb|Moxie|aquastep,closecombat,swordsdance,encore||85,85,85,85,85,85|F|||79|,,,,,Fighting]Minun||LifeOrb|VoltAbsorb|grassknot,thunderbolt,nastyplot,alluringvoice||85,,85,85,85,85|M|,0,,,,||95|,,,,,Fairy]Minior|MiniorBlue|WhiteHerb|ShieldsDown|earthquake,shellsmash,powergem,acrobatics||85,85,85,85,85,85|N|||79|,,,,,Water]Meloetta||LifeOrb|SereneGrace|closecombat,tripleaxel,relicsong,knockoff||85,85,85,85,85,85|N|||82|,,,,,Dark]Iron Moth||HeavyDutyBoots|QuarkDrive|sludgewave,uturn,toxicspikes,fierydance||85,85,85,85,85,85|N|||78|,,,,,Fire",
   "curation": {

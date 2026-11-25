@@ -19,6 +19,250 @@
     "Uxie",
     "Malamar"
   ],
+  "playerSets": [
+    {
+      "species": "Ambipom",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Choice Band",
+      "teraType": "Ice",
+      "maxhp": 263,
+      "stats": {
+        "atk": 216,
+        "def": 159,
+        "spa": 149,
+        "spd": 159,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Zamazenta",
+      "level": 68,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Dauntless Shield",
+      "item": "Rusted Shield",
+      "teraType": "Fighting",
+      "maxhp": 238,
+      "stats": {
+        "atk": 203,
+        "def": 196,
+        "spa": 149,
+        "spd": 196,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Coalossal",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 341,
+      "stats": {
+        "atk": 193,
+        "def": 264,
+        "spa": 193,
+        "spd": 211,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Seviper",
+      "level": 93,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Infiltrator",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 287,
+      "stats": {
+        "atk": 239,
+        "def": 164,
+        "spa": 239,
+        "spd": 164,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Uxie",
+      "level": 83,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 260,
+      "stats": {
+        "atk": 129,
+        "def": 263,
+        "spa": 172,
+        "spd": 263,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Malamar",
+      "level": 82,
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "ability": "Contrary",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 275,
+      "stats": {
+        "atk": 198,
+        "def": 191,
+        "spa": 159,
+        "spd": 170,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Ambipom||ChoiceBand|Technician|tripleaxel,doubleedge,uturn,knockoff||85,85,85,85,85,85|F|||84|,,,,,Ice]Zamazenta||RustedShield|DauntlessShield|irondefense,stoneedge,bodypress,heavyslam||85,85,85,85,85,85|N|||68|,,,,,Fighting]Coalossal||HeavyDutyBoots|FlameBody|stoneedge,flamethrower,rapidspin,willowisp||85,85,85,85,85,85|M|||89|,,,,,Water]Seviper||Leftovers|Infiltrator|earthquake,trailblaze,swordsdance,gunkshot||85,85,85,85,85,85|M|||93|,,,,,Grass]Uxie||Leftovers|Levitate|substitute,psychicnoise,nastyplot,drainingkiss||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy]Malamar||Leftovers|Contrary|rest,superpower,sleeptalk,knockoff||85,85,85,85,85,85|F|||82|,,,,,Poison",
   "ai": "Dragonite||HeavyDutyBoots|Multiscale|roost,earthquake,outrage,dragondance||85,85,85,85,85,85|M|||74|,,,,,Ground]Milotic||Leftovers|Competitive|scald,recover,dragontail,icebeam||85,85,85,85,85,85|M|||83|,,,,,Dragon]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,defog,hydropump||85,85,85,85,85,85|F|||89|,,,,,Ground]Jolteon||Leftovers|VoltAbsorb|substitute,terablast,calmmind,thunderbolt||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice]Cresselia||Leftovers|Levitate|calmmind,moonblast,moonlight,psyshock||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fairy]Ninetales||HeavyDutyBoots|Drought|nastyplot,fireblast,solarbeam,scorchingsands||85,,85,85,85,85|M|,0,,,,||85|,,,,,Grass",
   "curation": {

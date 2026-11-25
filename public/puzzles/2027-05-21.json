@@ -19,6 +19,254 @@
     "Salazzle",
     "Dialga"
   ],
+  "playerSets": [
+    {
+      "species": "Dewgong",
+      "level": 94,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Thick Fat",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 322,
+      "stats": {
+        "atk": 185,
+        "def": 204,
+        "spa": 185,
+        "spd": 232,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Staraptor",
+      "level": 79,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Band",
+      "teraType": "Flying",
+      "maxhp": 263,
+      "stats": {
+        "atk": 235,
+        "def": 156,
+        "spa": 125,
+        "spd": 140,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Whimsicott",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 238,
+      "stats": {
+        "atk": 161,
+        "def": 191,
+        "spa": 178,
+        "spd": 174,
+        "spe": 243
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass",
+          "pp": 48
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Gardevoir",
+      "level": 83,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "ability": "Trace",
+      "item": "Choice Scarf",
+      "teraType": "Fairy",
+      "maxhp": 249,
+      "stats": {
+        "atk": 112,
+        "def": 156,
+        "spa": 255,
+        "spd": 239,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Salazzle",
+      "level": 83,
+      "types": [
+        "Poison",
+        "Fire"
+      ],
+      "ability": "Corrosion",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 147,
+        "spa": 232,
+        "spd": 147,
+        "spe": 242
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dialga",
+      "level": 73,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 218,
+        "def": 218,
+        "spa": 261,
+        "spd": 188,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Dewgong||HeavyDutyBoots|ThickFat|encore,tripleaxel,knockoff,surf||85,85,85,85,85,85|F|||94|,,,,,Steel]Staraptor||ChoiceBand|Reckless|closecombat,quickattack,bravebird,uturn||81,85,85,85,85,85|M|||79|,,,,,Flying]Whimsicott||HeavyDutyBoots|Prankster|gigadrain,moonblast,stunspore,uturn||85,85,85,85,85,85|M|||84|,,,,,Steel]Gardevoir||ChoiceScarf|Trace|psychic,moonblast,focusblast,trick||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy]Salazzle||HeavyDutyBoots|Corrosion|fireblast,nastyplot,sludgewave,terablast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Dialga||Leftovers|Pressure|heavyslam,fireblast,thunderwave,dracometeor||85,85,85,85,85,85|N|||73|,,,,,Steel",
   "ai": "Noivern||HeavyDutyBoots|Infiltrator|dracometeor,defog,hurricane,flamethrower||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fire]Gardevoir||ChoiceScarf|Trace|moonblast,psyshock,mysticalfire,trick||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fire]Carbink||Leftovers|Sturdy|bodypress,moonblast,irondefense,rockpolish||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Grafaiai||AssaultVest|PoisonTouch|superfang,knockoff,gunkshot,uturn||85,85,85,85,85,85|M|||86|,,,,,Dark]Leafeon||LifeOrb|Chlorophyll|doubleedge,leafblade,knockoff,swordsdance||85,85,85,85,85,85|M|||88|,,,,,Normal]Arbok||Leftovers|Intimidate|trailblaze,earthquake,gunkshot,coil||85,85,85,85,85,85|M|||87|,,,,,Ground",
   "curation": {

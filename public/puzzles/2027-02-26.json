@@ -19,6 +19,252 @@
     "Zebstrika",
     "Necrozma-Dawn-Wings"
   ],
+  "playerSets": [
+    {
+      "species": "Palkia-Origin",
+      "level": 72,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Lustrous Globe",
+      "teraType": "Fire",
+      "maxhp": 249,
+      "stats": {
+        "atk": 149,
+        "def": 186,
+        "spa": 258,
+        "spd": 215,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Spacial Rend",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Cobalion",
+      "level": 80,
+      "types": [
+        "Steel",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 277,
+      "stats": {
+        "atk": 190,
+        "def": 253,
+        "spa": 190,
+        "spd": 161,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Zekrom",
+      "level": 71,
+      "types": [
+        "Dragon",
+        "Electric"
+      ],
+      "ability": "Teravolt",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 259,
+      "stats": {
+        "atk": 254,
+        "def": 212,
+        "spa": 212,
+        "spd": 183,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Bolt Strike",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cresselia",
+      "level": 80,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 323,
+      "stats": {
+        "atk": 117,
+        "def": 222,
+        "spa": 166,
+        "spd": 238,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Moonlight",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Zebstrika",
+      "level": 87,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 272,
+      "stats": {
+        "atk": 224,
+        "def": 159,
+        "spa": 189,
+        "spd": 159,
+        "spe": 252
+      },
+      "moves": [
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Necrozma-Dawn-Wings",
+      "level": 76,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "ability": "Prism Armor",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 272,
+      "stats": {
+        "atk": 216,
+        "def": 210,
+        "spa": 283,
+        "spd": 237,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Moongeist Beam",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Photon Geyser",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Brick Break",
+          "type": "Fighting",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Palkia|PalkiaOrigin|LustrousGlobe|Pressure|thunderwave,fireblast,spacialrend,hydropump||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire]Cobalion||LifeOrb|Justified|closecombat,ironhead,stoneedge,swordsdance||85,85,85,85,85,85|N|||80|,,,,,Fighting]Zekrom||Leftovers|Teravolt|boltstrike,dragondance,substitute,outrage||85,85,85,85,85,85|N|||71|,,,,,Grass]Cresselia||Leftovers|Levitate|thunderbolt,psyshock,moonlight,calmmind||85,,85,85,85,85|F|,0,,,,||80|,,,,,Steel]Zebstrika||LifeOrb|SapSipper|supercellslam,highhorsepower,voltswitch,overheat||85,85,85,85,85,85|M|||87|,,,,,Ground]Necrozma|NecrozmaDawnWings|LifeOrb|PrismArmor|dragondance,moongeistbeam,photongeyser,brickbreak||85,85,85,85,85,85|N|||76|,,,,,Fighting",
   "ai": "Porygon-Z||ChoiceScarf|Adaptability|thunderbolt,trick,shadowball,triattack||85,,85,85,85,85|N|,0,,,,||83|,,,,,Ghost]Victreebel||LifeOrb|Chlorophyll|sludgewave,strengthsap,suckerpunch,powerwhip||85,85,85,85,85,85|F|||90|,,,,,Grass]Glalie||HeavyDutyBoots|InnerFocus|spikes,freezedry,earthquake,taunt||85,85,85,85,85,85|M|||96|,,,,,Ground]Hydreigon||ChoiceSpecs|Levitate|dracometeor,fireblast,uturn,darkpulse||85,85,85,85,85,85|F|||79|,,,,,Fire]Scyther||HeavyDutyBoots|Technician|swordsdance,bugbite,dualwingbeat,closecombat||85,85,85,85,85,85|F|||82|,,,,,Fighting]Azumarill||SitrusBerry|HugePower|playrough,aquajet,bellydrum,liquidation||85,85,85,85,85,85|F|||82|,,,,,Water",
   "curation": {

@@ -19,6 +19,250 @@
     "Bellibolt",
     "Dachsbun"
   ],
+  "playerSets": [
+    {
+      "species": "Perrserker",
+      "level": 89,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Tough Claws",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 247,
+        "def": 229,
+        "spa": 140,
+        "spd": 158,
+        "spe": 140
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Kommo-o",
+      "level": 77,
+      "types": [
+        "Dragon",
+        "Fighting"
+      ],
+      "ability": "Soundproof",
+      "item": "Throat Spray",
+      "teraType": "Steel",
+      "maxhp": 242,
+      "stats": {
+        "atk": 214,
+        "def": 237,
+        "spa": 199,
+        "spd": 206,
+        "spe": 175
+      },
+      "moves": [
+        {
+          "name": "Clanging Scales",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Clangorous Soul",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Spectrier",
+      "level": 75,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Grim Neigh",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 274,
+      "stats": {
+        "atk": 102,
+        "def": 134,
+        "spa": 261,
+        "spd": 164,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zoroark-Hisui",
+      "level": 80,
+      "types": [
+        "Normal",
+        "Ghost"
+      ],
+      "ability": "Illusion",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 219,
+      "stats": {
+        "atk": 206,
+        "def": 142,
+        "spa": 246,
+        "spd": 142,
+        "spe": 222
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bellibolt",
+      "level": 84,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Electromorphosis",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 320,
+      "stats": {
+        "atk": 112,
+        "def": 201,
+        "spa": 221,
+        "spd": 188,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Muddy Water",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dachsbun",
+      "level": 92,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Well-Baked Body",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 254,
+      "stats": {
+        "atk": 200,
+        "def": 264,
+        "spa": 144,
+        "spd": 200,
+        "spe": 227
+      },
+      "moves": [
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Perrserker||LifeOrb|ToughClaws|closecombat,knockoff,ironhead,stealthrock||85,85,85,85,85,85|M|||89|,,,,,Fighting]Kommo-o||ThroatSpray|Soundproof|clangingscales,ironhead,drainpunch,clangoroussoul||85,85,85,85,85,85|F|||77|,,,,,Steel]Spectrier||LifeOrb|GrimNeigh|shadowball,willowisp,nastyplot,terablast||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Zoroark|ZoroarkHisui|LifeOrb|Illusion|willowisp,poltergeist,focusblast,hypervoice||85,85,85,85,85,85|F|||80|,,,,,Fighting]Bellibolt||Leftovers|Electromorphosis|slackoff,thunderbolt,muddywater,toxic||85,,85,85,85,85|M|,0,,,,||84|,,,,,Water]Dachsbun||Leftovers|WellBakedBody|yawn,playrough,protect,wish||85,85,85,85,85,85|F|||92|,,,,,Steel",
   "ai": "Copperajah||ChoiceBand|HeavyMetal|stoneedge,heavyslam,earthquake,supercellslam||81,85,85,85,85,85|M|||86|,,,,,Flying]Lokix||LifeOrb|TintedLens|leechlife,swordsdance,knockoff,suckerpunch||85,85,85,85,85,85|M|||82|,,,,,Dark]Flutter Mane||LifeOrb|Protosynthesis|moonblast,thunderbolt,shadowball,calmmind||85,,85,85,85,85|N|,0,,,,||74|,,,,,Electric]Sneasler||ChoiceBand|PoisonTouch|throatchop,uturn,direclaw,closecombat||85,85,85,85,85,85|F|||74|,,,,,Fighting]Chandelure||ChoiceScarf|FlashFire|shadowball,trick,energyball,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Wo-Chien||Leftovers|TabletsofRuin|knockoff,protect,leechseed,ruination||85,85,85,85,85,85|N|||83|,,,,,Poison",
   "curation": {

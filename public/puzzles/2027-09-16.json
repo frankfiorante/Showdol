@@ -19,6 +19,252 @@
     "Bellibolt",
     "Armarouge"
   ],
+  "playerSets": [
+    {
+      "species": "Magearna-Original",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Soul-Heart",
+      "item": "Choice Scarf",
+      "teraType": "Fairy",
+      "maxhp": 250,
+      "stats": {
+        "atk": 151,
+        "def": 222,
+        "spa": 245,
+        "spd": 222,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Fleur Cannon",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ting-Lu",
+      "level": 78,
+      "types": [
+        "Dark",
+        "Ground"
+      ],
+      "ability": "Vessel of Ruin",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 370,
+      "stats": {
+        "atk": 217,
+        "def": 240,
+        "spa": 131,
+        "spd": 170,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Payback",
+          "type": "Dark",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cinccino",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Loaded Dice",
+      "teraType": "Normal",
+      "maxhp": 260,
+      "stats": {
+        "atk": 205,
+        "def": 147,
+        "spa": 156,
+        "spd": 147,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "Tail Slap",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Weavile",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Ice"
+      ],
+      "ability": "Pickpocket",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 240,
+      "stats": {
+        "atk": 235,
+        "def": 148,
+        "spa": 117,
+        "spd": 180,
+        "spe": 243
+      },
+      "moves": [
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bellibolt",
+      "level": 84,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Electromorphosis",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 320,
+      "stats": {
+        "atk": 112,
+        "def": 201,
+        "spa": 221,
+        "spd": 188,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Muddy Water",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Armarouge",
+      "level": 80,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ability": "Weak Armor",
+      "item": "Power Herb",
+      "teraType": "Fire",
+      "maxhp": 267,
+      "stats": {
+        "atk": 101,
+        "def": 206,
+        "spa": 246,
+        "spd": 174,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Meteor Beam",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Armor Cannon",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Magearna|MagearnaOriginal|ChoiceScarf|SoulHeart|aurasphere,flashcannon,fleurcannon,voltswitch||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fairy]Ting-Lu||Leftovers|VesselofRuin|earthquake,stealthrock,heavyslam,payback||85,85,85,85,85,85|N|||78|,,,,,Ghost]Cinccino||LoadedDice|Technician|tailslap,tripleaxel,bulletseed,uturn||85,85,85,85,85,85|F|||83|,,,,,Normal]Weavile||HeavyDutyBoots|Pickpocket|iceshard,swordsdance,knockoff,tripleaxel||85,85,85,85,85,85|M|||79|,,,,,Dark]Bellibolt||Leftovers|Electromorphosis|thunderbolt,voltswitch,muddywater,slackoff||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Armarouge||PowerHerb|WeakArmor|energyball,meteorbeam,psyshock,armorcannon||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fire",
   "ai": "Dudunsparce||Leftovers|Rattled|roost,calmmind,shadowball,boomburst||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Scrafty||Leftovers|Intimidate|drainpunch,poisonjab,knockoff,dragondance||85,85,85,85,85,85|M|||83|,,,,,Poison]Rhydon||Eviolite|LightningRod|stealthrock,megahorn,stoneedge,earthquake||85,85,85,85,85,85|M|||85|,,,,,Grass]Miraidon||LifeOrb|HadronEngine|dracometeor,electrodrift,calmmind,dragonpulse||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Noctowl||HeavyDutyBoots|TintedLens|hypervoice,hurricane,calmmind,roost||85,,85,85,85,85|F|,0,,,,||95|,,,,,Ground]Ariados||HeavyDutyBoots|Swarm|poisonjab,megahorn,knockoff,stickyweb||85,85,85,85,85,85|M|||95|,,,,,Ghost",
   "curation": {

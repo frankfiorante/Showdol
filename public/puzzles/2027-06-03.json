@@ -19,6 +19,251 @@
     "Rotom-Wash",
     "Sudowoodo"
   ],
+  "playerSets": [
+    {
+      "species": "Salamence",
+      "level": 77,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 273,
+      "stats": {
+        "atk": 252,
+        "def": 168,
+        "spa": 214,
+        "spd": 168,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Dual Wingbeat",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Flamigo",
+      "level": 82,
+      "types": [
+        "Flying",
+        "Fighting"
+      ],
+      "ability": "Scrappy",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 236,
+        "def": 169,
+        "spa": 170,
+        "spd": 152,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Mismagius",
+      "level": 86,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Specs",
+      "teraType": "Electric",
+      "maxhp": 243,
+      "stats": {
+        "atk": 108,
+        "def": 152,
+        "spa": 230,
+        "spd": 230,
+        "spe": 230
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Mystical Fire",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Granbull",
+      "level": 88,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 302,
+      "stats": {
+        "atk": 261,
+        "def": 182,
+        "spa": 156,
+        "spd": 156,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Rotom-Wash",
+      "level": 82,
+      "types": [
+        "Electric",
+        "Water"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Scarf",
+      "teraType": "Steel",
+      "maxhp": 216,
+      "stats": {
+        "atk": 111,
+        "def": 223,
+        "spa": 219,
+        "spd": 223,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sudowoodo",
+      "level": 94,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Rock Head",
+      "item": "Choice Band",
+      "teraType": "Rock",
+      "maxhp": 284,
+      "stats": {
+        "atk": 241,
+        "def": 270,
+        "spa": 110,
+        "spd": 176,
+        "spe": 110
+      },
+      "moves": [
+        {
+          "name": "Head Smash",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Salamence||HeavyDutyBoots|Intimidate|dragondance,outrage,roost,dualwingbeat||85,85,85,85,85,85|F|||77|,,,,,Steel]Flamigo||ChoiceBand|Scrappy|throatchop,closecombat,bravebird,uturn||85,85,85,85,85,85|M|||82|,,,,,Fighting]Mismagius||ChoiceSpecs|Levitate|thunderbolt,shadowball,dazzlinggleam,mysticalfire||85,,85,85,85,85|M|,0,,,,||86|,,,,,Electric]Granbull||Leftovers|Intimidate|thunderwave,earthquake,encore,playrough||85,85,85,85,85,85|M|||88|,,,,,Ground]Rotom|RotomWash|ChoiceScarf|Levitate|thunderbolt,voltswitch,trick,hydropump||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Sudowoodo||ChoiceBand|RockHead|headsmash,earthquake,suckerpunch,woodhammer||85,85,85,85,85,85|M|||94|,,,,,Rock",
   "ai": "Klawf||LumBerry|AngerShell|stoneedge,swordsdance,highhorsepower,crabhammer||85,85,85,85,85,85|M|||90|,,,,,Ground]Regigigas||Leftovers|SlowStart|knockoff,bodyslam,substitute,protect||85,85,85,85,85,85|N|||84|,,,,,Ghost]Mimikyu||LifeOrb|Disguise|shadowclaw,playrough,shadowsneak,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Fairy]Arboliva||Leftovers|SeedSower|earthpower,hypervoice,energyball,strengthsap||85,,85,85,85,85|F|,0,,,,||91|,,,,,Ground]Misdreavus||Eviolite|Levitate|willowisp,calmmind,shadowball,drainingkiss||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Donphan||Leftovers|Sturdy|iceshard,stealthrock,earthquake,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Steel",
   "curation": {

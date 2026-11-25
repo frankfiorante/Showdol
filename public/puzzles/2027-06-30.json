@@ -19,6 +19,251 @@
     "Alcremie-Lemon-Cream",
     "Regigigas"
   ],
+  "playerSets": [
+    {
+      "species": "Deoxys-Speed",
+      "level": 82,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 216,
+      "stats": {
+        "atk": 160,
+        "def": 195,
+        "spa": 203,
+        "spd": 195,
+        "spe": 342
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psycho Boost",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dipplin",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Sticky Hold",
+      "item": "Eviolite",
+      "teraType": "Steel",
+      "maxhp": 284,
+      "stats": {
+        "atk": 191,
+        "def": 244,
+        "spa": 217,
+        "spd": 191,
+        "spe": 121
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Noctowl",
+      "level": 95,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 344,
+      "stats": {
+        "atk": 100,
+        "def": 149,
+        "spa": 217,
+        "spd": 236,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Zarude-Dada",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Grass"
+      ],
+      "ability": "Leaf Guard",
+      "item": "Choice Band",
+      "teraType": "Grass",
+      "maxhp": 288,
+      "stats": {
+        "atk": 229,
+        "def": 206,
+        "spa": 152,
+        "spd": 191,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Alcremie-Lemon-Cream",
+      "level": 90,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Aroma Veil",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 263,
+      "stats": {
+        "atk": 113,
+        "def": 186,
+        "spa": 249,
+        "spd": 269,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Regigigas",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Slow Start",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 322,
+      "stats": {
+        "atk": 317,
+        "def": 233,
+        "spa": 183,
+        "spd": 233,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Deoxys|DeoxysSpeed|LifeOrb|Pressure|nastyplot,psychoboost,darkpulse,focusblast||85,,85,85,85,85|N|,0,,,,||82|,,,,,Dark]Dipplin||Eviolite|StickyHold|recover,dragonpulse,gigadrain,suckerpunch||85,85,85,85,85,85|F|||88|,,,,,Steel]Noctowl||HeavyDutyBoots|TintedLens|hurricane,hypervoice,calmmind,roost||85,,85,85,85,85|M|,0,,,,||95|,,,,,Steel]Zarude|ZarudeDada|ChoiceBand|LeafGuard|closecombat,uturn,powerwhip,knockoff||85,85,85,85,85,85|N|||77|,,,,,Grass]Alcremie|AlcremieLemonCream|Leftovers|AromaVeil|alluringvoice,recover,calmmind,psyshock||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Regigigas||Leftovers|SlowStart|bodyslam,knockoff,rest,sleeptalk||85,85,85,85,85,85|N|||84|,,,,,Ghost",
   "ai": "Weezing|WeezingGalar|Leftovers|Levitate|strangesteam,gunkshot,fireblast,defog||85,85,85,85,85,85|M|||86|,,,,,Steel]Alomomola||RockyHelmet|Regenerator|scald,protect,wish,flipturn||85,85,85,85,85,85|M|||87|,,,,,Steel]Cryogonal||HeavyDutyBoots|Levitate|terablast,rapidspin,recover,icebeam||85,85,85,85,85,85|N|||89|,,,,,Electric]Magmortar||ChoiceSpecs|FlameBody|fireblast,focusblast,thunderbolt,scorchingsands||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting]Gouging Fire||HeavyDutyBoots|Protosynthesis|heatcrash,morningsun,outrage,dragondance||85,85,85,85,85,85|N|||74|,,,,,Fairy]Hydreigon||ChoiceSpecs|Levitate|flashcannon,dracometeor,uturn,darkpulse||85,85,85,85,85,85|F|||79|,,,,,Dragon",
   "curation": {

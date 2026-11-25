@@ -19,6 +19,250 @@
     "Comfey",
     "Gyarados"
   ],
+  "playerSets": [
+    {
+      "species": "Sawsbuck",
+      "level": 88,
+      "types": [
+        "Normal",
+        "Grass"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 284,
+      "stats": {
+        "atk": 226,
+        "def": 173,
+        "spa": 156,
+        "spd": 173,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Headbutt",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Hitmonchan",
+      "level": 87,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Iron Fist",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 229,
+      "stats": {
+        "atk": 232,
+        "def": 187,
+        "spa": 111,
+        "spd": 241,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Stonjourner",
+      "level": 91,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Power Spot",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 330,
+      "stats": {
+        "atk": 279,
+        "def": 298,
+        "spa": 88,
+        "spd": 88,
+        "spe": 179
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Regieleki",
+      "level": 79,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Transistor",
+      "item": "Magnet",
+      "teraType": "Electric",
+      "maxhp": 256,
+      "stats": {
+        "atk": 204,
+        "def": 125,
+        "spa": 204,
+        "spd": 125,
+        "spe": 362
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Comfey",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Triage",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 225,
+      "stats": {
+        "atk": 93,
+        "def": 202,
+        "spa": 188,
+        "spd": 236,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Stored Power",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Gyarados",
+      "level": 79,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Moxie",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 280,
+      "stats": {
+        "atk": 243,
+        "def": 170,
+        "spa": 140,
+        "spd": 204,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Waterfall",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Sawsbuck||LifeOrb|SereneGrace|swordsdance,hornleech,highhorsepower,headbutt||85,85,85,85,85,85|F|||88|,,,,,Normal]Hitmonchan||LifeOrb|IronFist|knockoff,drainpunch,machpunch,swordsdance||85,85,85,85,85,85|M|||87|,,,,,Dark]Stonjourner||LifeOrb|PowerSpot|stealthrock,earthquake,heatcrash,stoneedge||85,85,85,85,85,85|M|||91|,,,,,Ground]Regieleki||Magnet|Transistor|rapidspin,voltswitch,explosion,thunderbolt||85,85,85,85,85,85|N|||79|,,,,,Electric]Comfey||Leftovers|Triage|gigadrain,drainingkiss,calmmind,storedpower||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Gyarados||HeavyDutyBoots|Moxie|dragondance,earthquake,stoneedge,waterfall||85,85,85,85,85,85|M|||79|,,,,,Ground",
   "ai": "Whimsicott||Leftovers|Prankster|substitute,moonblast,encore,leechseed||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Lycanroc|LycanrocDusk|ChoiceBand|ToughClaws|closecombat,throatchop,accelerock,stoneedge||85,85,85,85,85,85|M|||81|,,,,,Fighting]Zebstrika||LifeOrb|SapSipper|voltswitch,overheat,highhorsepower,supercellslam||85,85,85,85,85,85|F|||87|,,,,,Ground]Azumarill||ChoiceBand|HugePower|icespinner,playrough,liquidation,aquajet||85,85,85,85,85,85|F|||82|,,,,,Water]Archaludon||Leftovers|Stamina|bodypress,flashcannon,dracometeor,thunderwave||85,,85,85,85,85|F|,0,,,,||77|,,,,,Fighting]Toedscruel||AssaultVest|MyceliumMight|rapidspin,gigadrain,earthpower,knockoff||85,85,85,85,85,85|M|||87|,,,,,Water",
   "curation": {

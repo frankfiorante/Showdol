@@ -19,6 +19,251 @@
     "Mew",
     "Smeargle"
   ],
+  "playerSets": [
+    {
+      "species": "Cramorant",
+      "level": 86,
+      "types": [
+        "Flying",
+        "Water"
+      ],
+      "ability": "Gulp Missile",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 261,
+      "stats": {
+        "atk": 195,
+        "def": 144,
+        "spa": 195,
+        "spd": 213,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Glaceon",
+      "level": 94,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Ice Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 275,
+      "stats": {
+        "atk": 117,
+        "def": 260,
+        "spa": 298,
+        "spd": 232,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Tropius",
+      "level": 91,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Ground",
+      "maxhp": 328,
+      "stats": {
+        "atk": 176,
+        "def": 203,
+        "spa": 183,
+        "spd": 210,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Dual Wingbeat",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Lunala",
+      "level": 70,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "ability": "Shadow Shield",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 308,
+      "stats": {
+        "atk": 163,
+        "def": 166,
+        "spa": 233,
+        "spd": 191,
+        "spe": 177
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Moongeist Beam",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Moonlight",
+          "type": "Fairy",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mew",
+      "level": 82,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Synchronize",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 298,
+      "stats": {
+        "atk": 211,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Smeargle",
+      "level": 95,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Own Tempo",
+      "item": "Focus Sash",
+      "teraType": "Ghost",
+      "maxhp": 258,
+      "stats": {
+        "atk": 92,
+        "def": 120,
+        "spa": 92,
+        "spd": 139,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Whirlwind",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Ceaseless Edge",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Cramorant||HeavyDutyBoots|GulpMissile|bravebird,roost,surf,defog||85,85,85,85,85,85|M|||86|,,,,,Ground]Glaceon||HeavyDutyBoots|IceBody|freezedry,protect,wish,calmmind||85,,85,85,85,85|M|,0,,,,||94|,,,,,Water]Tropius||SitrusBerry|Harvest|dragondance,leafblade,dualwingbeat,earthquake||85,85,85,85,85,85|M|||91|,,,,,Ground]Lunala||Leftovers|ShadowShield|calmmind,focusblast,moongeistbeam,moonlight||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fighting]Mew||LifeOrb|Synchronize|swordsdance,psychicfangs,leechlife,closecombat||85,85,85,85,85,85|N|||82|,,,,,Fighting]Smeargle||FocusSash|OwnTempo|whirlwind,ceaselessedge,spore,stickyweb||85,85,85,85,85,85|F|||95|,,,,,Ghost",
   "ai": "Typhlosion|TyphlosionHisui|HeavyDutyBoots|Blaze|focusblast,calmmind,fireblast,shadowball||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fighting]Vikavolt||HeavyDutyBoots|Levitate|discharge,bugbuzz,stickyweb,voltswitch||85,,85,85,85,85|M|,0,,,,||83|,,,,,Electric]Dragalge||AssaultVest|Adaptability|focusblast,dracometeor,dragontail,sludgewave||85,85,85,85,85,85|M|||88|,,,,,Fighting]Lanturn||Leftovers|VoltAbsorb|scald,thunderbolt,icebeam,thunderwave||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Floatzel||ChoiceBand|WaterVeil|icespinner,flipturn,crunch,wavecrash||85,85,85,85,85,85|F|||86|,,,,,Water]Houndstone||ChoiceBand|Fluffy|bodypress,trick,shadowsneak,poltergeist||85,85,85,85,85,85|F|||86|,,,,,Fighting",
   "curation": {

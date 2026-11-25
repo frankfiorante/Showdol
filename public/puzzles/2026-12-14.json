@@ -19,6 +19,251 @@
     "Banette",
     "Sinistcha"
   ],
+  "playerSets": [
+    {
+      "species": "Farigiraf",
+      "level": 89,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 358,
+      "stats": {
+        "atk": 211,
+        "def": 175,
+        "spa": 247,
+        "spd": 175,
+        "spe": 158
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Kricketune",
+      "level": 99,
+      "types": [
+        "Bug"
+      ],
+      "ability": "Technician",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 312,
+      "stats": {
+        "atk": 224,
+        "def": 157,
+        "spa": 165,
+        "spd": 157,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Pounce",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Palkia-Origin",
+      "level": 72,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Lustrous Globe",
+      "teraType": "Dragon",
+      "maxhp": 249,
+      "stats": {
+        "atk": 149,
+        "def": 186,
+        "spa": 258,
+        "spd": 215,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Spacial Rend",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Gurdurr",
+      "level": 85,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Guts",
+      "item": "Eviolite",
+      "teraType": "Steel",
+      "maxhp": 283,
+      "stats": {
+        "atk": 227,
+        "def": 193,
+        "spa": 117,
+        "spd": 134,
+        "spe": 117
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Banette",
+      "level": 93,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Cursed Body",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 270,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 207,
+        "spd": 170,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sinistcha",
+      "level": 83,
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "ability": "Heatproof",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 254,
+      "stats": {
+        "atk": 104,
+        "def": 224,
+        "spa": 249,
+        "spd": 180,
+        "spe": 164
+      },
+      "moves": [
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Matcha Gotcha",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Farigiraf||Leftovers|SapSipper|wish,psychicnoise,bodyslam,protect||85,85,85,85,85,85|F|||89|,,,,,Ground]Kricketune||HeavyDutyBoots|Technician|pounce,taunt,stickyweb,knockoff||85,85,85,85,85,85|M|||99|,,,,,Ghost]Palkia|PalkiaOrigin|LustrousGlobe|Pressure|thunderwave,spacialrend,hydropump,fireblast||85,,85,85,85,85|N|,0,,,,||72|,,,,,Dragon]Gurdurr||Eviolite|Guts|bulkup,machpunch,drainpunch,knockoff||85,85,85,85,85,85|M|||85|,,,,,Steel]Banette||LifeOrb|CursedBody|gunkshot,shadowsneak,swordsdance,poltergeist||85,85,85,85,85,85|F|||93|,,,,,Poison]Sinistcha||Leftovers|Heatproof|strengthsap,shadowball,calmmind,matchagotcha||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel",
   "ai": "Vileplume||Leftovers|EffectSpore|leechseed,sludgebomb,gigadrain,strengthsap||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Iron Moth||HeavyDutyBoots|QuarkDrive|energyball,toxicspikes,sludgewave,fireblast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Gholdengo||ChoiceScarf|GoodasGold|focusblast,shadowball,makeitrain,trick||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fighting]Espeon||LifeOrb|MagicBounce|shadowball,alluringvoice,morningsun,psychic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Staraptor||ChoiceBand|Reckless|uturn,bravebird,closecombat,quickattack||81,85,85,85,85,85|F|||79|,,,,,Flying]Sandaconda||Leftovers|ShedSkin|glare,stoneedge,coil,earthquake||85,85,85,85,85,85|M|||84|,,,,,Dragon",
   "curation": {

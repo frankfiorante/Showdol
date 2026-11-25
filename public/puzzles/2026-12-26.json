@@ -19,6 +19,253 @@
     "Morpeko",
     "Noctowl"
   ],
+  "playerSets": [
+    {
+      "species": "Malamar",
+      "level": 82,
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "ability": "Contrary",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 275,
+      "stats": {
+        "atk": 198,
+        "def": 191,
+        "spa": 159,
+        "spd": 170,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Deoxys-Attack",
+      "level": 72,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 191,
+      "stats": {
+        "atk": 301,
+        "def": 71,
+        "spa": 301,
+        "spd": 71,
+        "spe": 258
+      },
+      "moves": [
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psycho Boost",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Squawkabilly-Blue",
+      "level": 85,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Guts",
+      "item": "Flame Orb",
+      "teraType": "Normal",
+      "maxhp": 278,
+      "stats": {
+        "atk": 212,
+        "def": 135,
+        "spa": 125,
+        "spd": 135,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Flygon",
+      "level": 82,
+      "types": [
+        "Ground",
+        "Dragon"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Scarf",
+      "teraType": "Ground",
+      "maxhp": 265,
+      "stats": {
+        "atk": 211,
+        "def": 178,
+        "spa": 178,
+        "spd": 178,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Morpeko",
+      "level": 88,
+      "types": [
+        "Electric",
+        "Dark"
+      ],
+      "ability": "Hunger Switch",
+      "item": "Leftovers",
+      "teraType": "Electric",
+      "maxhp": 245,
+      "stats": {
+        "atk": 217,
+        "def": 152,
+        "spa": 173,
+        "spd": 152,
+        "spe": 221
+      },
+      "moves": [
+        {
+          "name": "Aura Wheel",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Noctowl",
+      "level": 95,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 344,
+      "stats": {
+        "atk": 100,
+        "def": 149,
+        "spa": 217,
+        "spd": 236,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Malamar||Leftovers|Contrary|rest,sleeptalk,superpower,knockoff||85,85,85,85,85,85|M|||82|,,,,,Steel]Deoxys|DeoxysAttack|LifeOrb|Pressure|extremespeed,superpower,psychoboost,knockoff||85,85,85,85,85,85|N|||72|,,,,,Dark]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|facade,bravebird,uturn,quickattack||85,85,85,85,85,85|F|||85|,,,,,Normal]Flygon||ChoiceScarf|Levitate|outrage,stoneedge,earthquake,uturn||85,85,85,85,85,85|F|||82|,,,,,Ground]Morpeko||Leftovers|HungerSwitch|aurawheel,rapidspin,knockoff,protect||85,85,85,85,85,85|F|||88|,,,,,Electric]Noctowl||HeavyDutyBoots|TintedLens|roost,hypervoice,nastyplot,hurricane||85,,85,85,85,85|M|,0,,,,||95|,,,,,Steel",
   "ai": "Goodra||AssaultVest|SapSipper|dracometeor,earthquake,dragontail,scald||85,85,85,85,85,85|F|||85|,,,,,Water]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,facade,bravebird,uturn||85,85,85,85,85,85|F|||85|,,,,,Normal]Groudon||Leftovers|Drought|precipiceblades,stoneedge,heatcrash,stealthrock||85,85,85,85,85,85|N|||72|,,,,,Fire]Klawf||SitrusBerry|AngerShell|stoneedge,crabhammer,highhorsepower,swordsdance||85,85,85,85,85,85|M|||90|,,,,,Ground]Blaziken||LifeOrb|SpeedBoost|knockoff,flareblitz,swordsdance,closecombat||85,85,85,85,85,85|F|||76|,,,,,Dark]Misdreavus||Eviolite|Levitate|calmmind,drainingkiss,shadowball,willowisp||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy",
   "curation": {

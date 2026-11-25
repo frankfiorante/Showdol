@@ -19,6 +19,252 @@
     "Drifblim",
     "Groudon"
   ],
+  "playerSets": [
+    {
+      "species": "Palossand",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Ground"
+      ],
+      "ability": "Water Compaction",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 296,
+      "stats": {
+        "atk": 138,
+        "def": 247,
+        "spa": 229,
+        "spd": 184,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Shore Up",
+          "type": "Ground",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Raichu-Alola",
+      "level": 87,
+      "types": [
+        "Electric",
+        "Psychic"
+      ],
+      "ability": "Surge Surfer",
+      "item": "Choice Specs",
+      "teraType": "Grass",
+      "maxhp": 246,
+      "stats": {
+        "atk": 152,
+        "def": 137,
+        "spa": 215,
+        "spd": 198,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Weezing",
+      "level": 88,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 258,
+      "stats": {
+        "atk": 209,
+        "def": 261,
+        "spa": 200,
+        "spd": 173,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Talonflame",
+      "level": 83,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 265,
+      "stats": {
+        "atk": 182,
+        "def": 166,
+        "spa": 171,
+        "spd": 162,
+        "spe": 257
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Drifblim",
+      "level": 86,
+      "types": [
+        "Ghost",
+        "Flying"
+      ],
+      "ability": "Aftermath",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 398,
+      "stats": {
+        "atk": 142,
+        "def": 125,
+        "spa": 204,
+        "spd": 142,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Groudon",
+      "level": 72,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Drought",
+      "item": "Leftovers",
+      "teraType": "Fire",
+      "maxhp": 263,
+      "stats": {
+        "atk": 258,
+        "def": 244,
+        "spa": 186,
+        "spd": 172,
+        "spe": 172
+      },
+      "moves": [
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Precipice Blades",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Palossand||Leftovers|WaterCompaction|earthpower,shoreup,stealthrock,shadowball||85,,85,85,85,85|F|,0,,,,||89|,,,,,Water]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|psychic,surf,grassknot,thunderbolt||85,,85,85,85,85|F|,0,,,,||87|,,,,,Grass]Weezing||Leftovers|Levitate|toxicspikes,painsplit,gunkshot,fireblast||85,85,85,85,85,85|M|||88|,,,,,Steel]Talonflame||HeavyDutyBoots|FlameBody|bravebird,roost,willowisp,overheat||85,85,85,85,85,85|M|||83|,,,,,Ground]Drifblim||HeavyDutyBoots|Aftermath|defog,airslash,shadowball,strengthsap||85,,85,85,85,85|M|,0,,,,||86|,,,,,Steel]Groudon||Leftovers|Drought|heatcrash,precipiceblades,swordsdance,stoneedge||85,85,85,85,85,85|N|||72|,,,,,Fire",
   "ai": "Vespiquen||HeavyDutyBoots|Pressure|uturn,hurricane,spikes,roost||85,85,85,85,85,85|F|||99|,,,,,Steel]Terapagos||ChestoBerry|TeraShift|darkpulse,rest,calmmind,terastarstorm||85,,85,85,85,85|F|,0,,,,||77|,,,,,Stellar]Scizor||LifeOrb|Technician|bulletpunch,knockoff,closecombat,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Steel]Luxray||FlameOrb|Guts|playrough,trailblaze,facade,supercellslam||81,85,85,85,85,85|F|||88|,,,,,Normal]Grumpig||Leftovers|ThickFat|nastyplot,earthpower,psychic,dazzlinggleam||85,,85,85,85,85|M|,0,,,,||92|,,,,,Fairy]Trevenant||SitrusBerry|Harvest|drainpunch,protect,poltergeist,toxic||85,85,85,85,85,85|M|||89|,,,,,Steel",
   "curation": {

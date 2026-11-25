@@ -19,6 +19,252 @@
     "Toxapex",
     "Arcanine"
   ],
+  "playerSets": [
+    {
+      "species": "Pincurchin",
+      "level": 100,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Electric Surge",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 258,
+      "stats": {
+        "atk": 207,
+        "def": 247,
+        "spa": 239,
+        "spd": 227,
+        "spe": 87
+      },
+      "moves": [
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Wyrdeer",
+      "level": 87,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 321,
+      "stats": {
+        "atk": 232,
+        "def": 175,
+        "spa": 232,
+        "spd": 180,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Sawsbuck-Winter",
+      "level": 88,
+      "types": [
+        "Normal",
+        "Grass"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 284,
+      "stats": {
+        "atk": 226,
+        "def": 173,
+        "spa": 156,
+        "spd": 173,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Headbutt",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Crabominable",
+      "level": 90,
+      "types": [
+        "Fighting",
+        "Ice"
+      ],
+      "ability": "Iron Fist",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 321,
+      "stats": {
+        "atk": 289,
+        "def": 190,
+        "spa": 163,
+        "spd": 172,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Ice Hammer",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Toxapex",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Water"
+      ],
+      "ability": "Regenerator",
+      "item": "Rocky Helmet",
+      "teraType": "Grass",
+      "maxhp": 216,
+      "stats": {
+        "atk": 150,
+        "def": 296,
+        "spa": 134,
+        "spd": 280,
+        "spe": 105
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Haze",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Arcanine",
+      "level": 84,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Normal",
+      "maxhp": 288,
+      "stats": {
+        "atk": 233,
+        "def": 183,
+        "spa": 216,
+        "spd": 183,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Roar",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Pincurchin||Leftovers|ElectricSurge|toxicspikes,scald,recover,thunderbolt||85,,85,85,85,85|M|,0,,,,|||,,,,,Water]Wyrdeer||Leftovers|Intimidate|earthquake,psychicnoise,bodyslam,thunderwave||85,85,85,85,85,85|F|||87|,,,,,Ground]Sawsbuck|SawsbuckWinter|LifeOrb|SereneGrace|hornleech,swordsdance,highhorsepower,headbutt||85,85,85,85,85,85|M|||88|,,,,,Normal]Crabominable||ChoiceBand|IronFist|knockoff,icehammer,drainpunch,gunkshot||85,85,85,85,85,85|F|||90|,,,,,Fighting]Toxapex||RockyHelmet|Regenerator|recover,haze,liquidation,toxic||85,85,85,85,85,85|M|||82|,,,,,Grass]Arcanine||HeavyDutyBoots|Intimidate|roar,extremespeed,morningsun,flareblitz||85,85,85,85,85,85|M|||84|,,,,,Normal",
   "ai": "Ampharos||AssaultVest|Static|voltswitch,dazzlinggleam,dragontail,thunderbolt||85,85,85,85,85,85|M|||88|,,,,,Fairy]Toxapex||Leftovers|Regenerator|liquidation,recover,toxicspikes,haze||85,85,85,85,85,85|F|||82|,,,,,Flying]Rhyperior||WeaknessPolicy|SolidRock|stoneedge,earthquake,rockpolish,megahorn||85,85,85,85,85,85|F|||82|,,,,,Rock]Wyrdeer||Leftovers|Intimidate|megahorn,thunderwave,psychicnoise,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Malamar||Leftovers|Contrary|sleeptalk,knockoff,rest,superpower||85,85,85,85,85,85|F|||82|,,,,,Fighting]Vespiquen||HeavyDutyBoots|Pressure|uturn,hurricane,toxic,roost||85,85,85,85,85,85|F|||99|,,,,,Steel",
   "curation": {

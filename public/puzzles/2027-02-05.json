@@ -19,6 +19,252 @@
     "Shaymin",
     "Mamoswine"
   ],
+  "playerSets": [
+    {
+      "species": "Mimikyu",
+      "level": 79,
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "ability": "Disguise",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 216,
+      "stats": {
+        "atk": 188,
+        "def": 172,
+        "spa": 125,
+        "spd": 211,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Claw",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Malamar",
+      "level": 82,
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "ability": "Contrary",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 275,
+      "stats": {
+        "atk": 198,
+        "def": 191,
+        "spa": 159,
+        "spd": 170,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Falinks",
+      "level": 84,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Defiant",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 246,
+      "stats": {
+        "atk": 216,
+        "def": 216,
+        "spa": 166,
+        "spd": 149,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "No Retreat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Grimmsnarl",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 293,
+      "stats": {
+        "atk": 247,
+        "def": 156,
+        "spa": 205,
+        "spd": 172,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Spirit Break",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Shaymin",
+      "level": 82,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Natural Cure",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 298,
+      "stats": {
+        "atk": 169,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Seed Flare",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mamoswine",
+      "level": 81,
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "ability": "Thick Fat",
+      "item": "Choice Band",
+      "teraType": "Ice",
+      "maxhp": 311,
+      "stats": {
+        "atk": 257,
+        "def": 176,
+        "spa": 160,
+        "spd": 144,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        }
+      ]
+    }
+  ],
   "player": "Mimikyu||LifeOrb|Disguise|swordsdance,shadowsneak,playrough,shadowclaw||85,85,85,85,85,85|M|||79|,,,,,Fairy]Malamar||ChestoBerry|Contrary|knockoff,superpower,psychocut,rest||85,85,85,85,85,85|M|||82|,,,,,Fighting]Falinks||LifeOrb|Defiant|knockoff,noretreat,closecombat,ironhead||85,85,85,85,85,85|N|||84|,,,,,Steel]Grimmsnarl||Leftovers|Prankster|spiritbreak,thunderwave,suckerpunch,taunt||85,85,85,85,85,85|M|||83|,,,,,Steel]Shaymin||Leftovers|NaturalCure|airslash,synthesis,seedflare,earthpower||85,,85,85,85,85|N|,0,,,,||82|,,,,,Ground]Mamoswine||ChoiceBand|ThickFat|iciclecrash,earthquake,knockoff,iceshard||85,85,85,85,85,85|M|||81|,,,,,Ice",
   "ai": "Vigoroth||Eviolite|VitalSpirit|bodyslam,slackoff,earthquake,bulkup||85,85,85,85,85,85|M|||85|,,,,,Ground]Crawdaunt||LifeOrb|Adaptability|aquajet,dragondance,knockoff,crabhammer||85,85,85,85,85,85|F|||84|,,,,,Water]Regidrago||LifeOrb|DragonsMaw|earthquake,dragonclaw,dragondance,terablast||85,85,85,85,85,85|N|||77|,,,,,Steel]Bellossom||Leftovers|Chlorophyll|strengthsap,quiverdance,sludgebomb,gigadrain||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Gliscor||ToxicOrb|PoisonHeal|protect,knockoff,earthquake,toxicspikes||85,85,85,85,85,85|F|||76|,,,,,Water]Alcremie|AlcremieMintCream|Leftovers|AromaVeil|calmmind,recover,psyshock,alluringvoice||85,,85,85,85,85|F|,0,,,,||90|,,,,,Poison",
   "curation": {

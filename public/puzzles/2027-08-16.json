@@ -19,6 +19,253 @@
     "Iron Valiant",
     "Brute Bonnet"
   ],
+  "playerSets": [
+    {
+      "species": "Landorus",
+      "level": 75,
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 257,
+      "stats": {
+        "atk": 192,
+        "def": 179,
+        "spa": 216,
+        "spd": 164,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Volcarona",
+      "level": 77,
+      "types": [
+        "Bug",
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 257,
+      "stats": {
+        "atk": 97,
+        "def": 145,
+        "spa": 252,
+        "spd": 206,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Fiery Dance",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Floatzel",
+      "level": 86,
+      "types": [
+        "Water"
+      ],
+      "ability": "Water Veil",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 286,
+      "stats": {
+        "atk": 230,
+        "def": 144,
+        "spa": 195,
+        "spd": 135,
+        "spe": 247
+      },
+      "moves": [
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Bisharp",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Steel"
+      ],
+      "ability": "Defiant",
+      "item": "Eviolite",
+      "teraType": "Ghost",
+      "maxhp": 232,
+      "stats": {
+        "atk": 243,
+        "def": 204,
+        "spa": 140,
+        "spd": 156,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Iron Valiant",
+      "level": 78,
+      "types": [
+        "Fairy",
+        "Fighting"
+      ],
+      "ability": "Quark Drive",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 244,
+      "stats": {
+        "atk": 248,
+        "def": 185,
+        "spa": 232,
+        "spd": 139,
+        "spe": 226
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Spirit Break",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Brute Bonnet",
+      "level": 79,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 305,
+      "stats": {
+        "atk": 246,
+        "def": 202,
+        "spa": 170,
+        "spd": 202,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Seed Bomb",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Landorus||LifeOrb|SheerForce|earthpower,stealthrock,sludgewave,psychic||85,,85,85,85,85|M|,0,,,,||75|,,,,,Poison]Volcarona||HeavyDutyBoots|FlameBody|bugbuzz,fierydance,terablast,quiverdance||85,,85,85,85,85|M|,0,,,,||77|,,,,,Water]Floatzel||ChoiceBand|WaterVeil|wavecrash,icespinner,crunch,flipturn||85,85,85,85,85,85|F|||86|,,,,,Water]Bisharp||Eviolite|Defiant|ironhead,swordsdance,suckerpunch,throatchop||85,85,85,85,85,85|F|||79|,,,,,Ghost]Iron Valiant||LifeOrb|QuarkDrive|closecombat,spiritbreak,knockoff,swordsdance||85,85,85,85,85,85|N|||78|,,,,,Dark]Brute Bonnet||Leftovers|Protosynthesis|suckerpunch,spore,crunch,seedbomb||85,85,85,85,85,85|N|||79|,,,,,Poison",
   "ai": "Raichu|RaichuAlola|LifeOrb|SurgeSurfer|surf,thunderbolt,nastyplot,psyshock||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Ursaluna|UrsalunaBloodmoon|Leftovers|MindsEye|bloodmoon,vacuumwave,calmmind,moonlight||85,,85,85,85,85|M|,0,,,,||79|,,,,,Poison]Magmortar||HeavyDutyBoots|FlameBody|thunderbolt,focusblast,fireblast,willowisp||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fighting]Lunala||Leftovers|ShadowShield|psyshock,calmmind,moonlight,moongeistbeam||85,,85,85,85,85|N|,0,,,,||70|,,,,,Dark]Moltres||HeavyDutyBoots|FlameBody|bravebird,fireblast,roost,scorchingsands||85,85,85,85,85,85|N|||81|,,,,,Ground]Lapras||HeavyDutyBoots|WaterAbsorb|sparklingaria,freezedry,sleeptalk,rest||85,,85,85,85,85|F|,0,,,,||87|,,,,,Ghost",
   "curation": {

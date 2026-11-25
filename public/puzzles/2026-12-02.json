@@ -19,6 +19,252 @@
     "Kingambit",
     "Persian"
   ],
+  "playerSets": [
+    {
+      "species": "Mamoswine",
+      "level": 81,
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "ability": "Thick Fat",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 311,
+      "stats": {
+        "atk": 257,
+        "def": 176,
+        "spa": 160,
+        "spd": 144,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Wigglytuff",
+      "level": 96,
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "ability": "Competitive",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 424,
+      "stats": {
+        "atk": 189,
+        "def": 141,
+        "spa": 218,
+        "spd": 150,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Pachirisu",
+      "level": 96,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Assault Vest",
+      "teraType": "Flying",
+      "maxhp": 271,
+      "stats": {
+        "atk": 141,
+        "def": 189,
+        "spa": 141,
+        "spd": 227,
+        "spe": 237
+      },
+      "moves": [
+        {
+          "name": "Nuzzle",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Super Fang",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Toxicroak",
+      "level": 84,
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "ability": "Dry Skin",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 277,
+      "stats": {
+        "atk": 226,
+        "def": 157,
+        "spa": 193,
+        "spd": 157,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Kingambit",
+      "level": 74,
+      "types": [
+        "Dark",
+        "Steel"
+      ],
+      "ability": "Supreme Overlord",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 270,
+      "stats": {
+        "atk": 243,
+        "def": 221,
+        "spa": 132,
+        "spd": 169,
+        "spe": 117
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Kowtow Cleave",
+          "type": "Dark",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Persian",
+      "level": 92,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Silk Scarf",
+      "teraType": "Normal",
+      "maxhp": 269,
+      "stats": {
+        "atk": 181,
+        "def": 163,
+        "spa": 172,
+        "spd": 172,
+        "spe": 264
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Fake Out",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Mamoswine||ChoiceBand|ThickFat|knockoff,iciclecrash,iceshard,earthquake||85,85,85,85,85,85|F|||81|,,,,,Ground]Wigglytuff||Leftovers|Competitive|wish,protect,knockoff,dazzlinggleam||85,85,85,85,85,85|M|||96|,,,,,Steel]Pachirisu||AssaultVest|VoltAbsorb|nuzzle,uturn,superfang,thunderbolt||85,85,85,85,85,85|F|||96|,,,,,Flying]Toxicroak||ChoiceBand|DrySkin|gunkshot,closecombat,suckerpunch,knockoff||85,85,85,85,85,85|M|||84|,,,,,Dark]Kingambit||Leftovers|SupremeOverlord|swordsdance,suckerpunch,ironhead,kowtowcleave||85,85,85,85,85,85|M|||74|,,,,,Dark]Persian||SilkScarf|Technician|knockoff,doubleedge,uturn,fakeout||85,85,85,85,85,85|M|||92|,,,,,Normal",
   "ai": "Quaquaval||Leftovers|Moxie|closecombat,roost,aquastep,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Steel]Zacian||ChoiceBand|IntrepidSword|wildcharge,playrough,psychicfangs,closecombat||85,85,85,85,85,85|N|||69|,,,,,Fighting]Zapdos||HeavyDutyBoots|Static|roost,thunderbolt,hurricane,heatwave||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Volbeat||HeavyDutyBoots|Prankster|uturn,roost,thunderwave,encore||85,85,85,85,85,85|M|||90|,,,,,Steel]Blissey||Leftovers|NaturalCure|healbell,softboiled,thunderwave,seismictoss||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Iron Leaves||ChoiceBand|QuarkDrive|closecombat,psyblade,leafblade,megahorn||85,85,85,85,85,85|N|||80|,,,,,Fighting",
   "curation": {

@@ -19,6 +19,253 @@
     "Rabsca",
     "Gliscor"
   ],
+  "playerSets": [
+    {
+      "species": "Spiritomb",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Dark"
+      ],
+      "ability": "Infiltrator",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 234,
+      "stats": {
+        "atk": 215,
+        "def": 243,
+        "spa": 215,
+        "spd": 243,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Dialga-Origin",
+      "level": 73,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Adamant Crystal",
+      "teraType": "Dragon",
+      "maxhp": 266,
+      "stats": {
+        "atk": 188,
+        "def": 218,
+        "spa": 261,
+        "spd": 218,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Rillaboom",
+      "level": 79,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Grassy Surge",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 288,
+      "stats": {
+        "atk": 243,
+        "def": 188,
+        "spa": 140,
+        "spd": 156,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Grassy Glide",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bisharp",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Steel"
+      ],
+      "ability": "Defiant",
+      "item": "Eviolite",
+      "teraType": "Flying",
+      "maxhp": 232,
+      "stats": {
+        "atk": 243,
+        "def": 204,
+        "spa": 140,
+        "spd": 156,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Rabsca",
+      "level": 91,
+      "types": [
+        "Bug",
+        "Psychic"
+      ],
+      "ability": "Synchronize",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 284,
+      "stats": {
+        "atk": 96,
+        "def": 207,
+        "spa": 261,
+        "spd": 234,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Revival Blessing",
+          "type": "Normal",
+          "pp": 1
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Gliscor",
+      "level": 76,
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "ability": "Poison Heal",
+      "item": "Toxic Orb",
+      "teraType": "Water",
+      "maxhp": 239,
+      "stats": {
+        "atk": 188,
+        "def": 234,
+        "spa": 112,
+        "spd": 158,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Spiritomb||Leftovers|Infiltrator|willowisp,shadowsneak,poltergeist,foulplay||85,85,85,85,85,85|F|||89|,,,,,Ghost]Dialga|DialgaOrigin|AdamantCrystal|Pressure|heavyslam,fireblast,dracometeor,thunderwave||85,85,85,85,85,85|N|||73|,,,,,Dragon]Rillaboom||LifeOrb|GrassySurge|grassyglide,woodhammer,swordsdance,highhorsepower||85,85,85,85,85,85|F|||79|,,,,,Grass]Bisharp||Eviolite|Defiant|suckerpunch,ironhead,throatchop,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Flying]Rabsca||HeavyDutyBoots|Synchronize|psychic,bugbuzz,revivalblessing,recover||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Gliscor||ToxicOrb|PoisonHeal|toxicspikes,knockoff,earthquake,protect||85,85,85,85,85,85|F|||76|,,,,,Water",
   "ai": "Feraligatr||LifeOrb|SheerForce|icepunch,liquidation,dragondance,trailblaze||85,85,85,85,85,85|F|||79|,,,,,Water]Lumineon||HeavyDutyBoots|StormDrain|uturn,icebeam,hydropump,encore||85,85,85,85,85,85|F|||93|,,,,,Steel]Azelf||LifeOrb|Levitate|psyshock,nastyplot,dazzlinggleam,fireblast||85,,85,85,85,85|N|,0,,,,||82|,,,,,Psychic]Leafeon||Leftovers|Chlorophyll|substitute,doubleedge,leafblade,swordsdance||85,85,85,85,85,85|F|||88|,,,,,Normal]Hawlucha||WhiteHerb|Unburden|stoneedge,closecombat,acrobatics,swordsdance||85,85,85,85,85,85|F|||80|,,,,,Fighting]Pincurchin||Leftovers|ElectricSurge|curse,recover,zingzap,liquidation||85,85,85,85,85,85|F||||,,,,,Water",
   "curation": {

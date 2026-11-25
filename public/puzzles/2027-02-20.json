@@ -19,6 +19,253 @@
     "Virizion",
     "Wyrdeer"
   ],
+  "playerSets": [
+    {
+      "species": "Vaporeon",
+      "level": 86,
+      "types": [
+        "Water"
+      ],
+      "ability": "Water Absorb",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 364,
+      "stats": {
+        "atk": 116,
+        "def": 152,
+        "spa": 238,
+        "spd": 213,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Roar",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Abomasnow",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "ability": "Snow Warning",
+      "item": "Light Clay",
+      "teraType": "Ghost",
+      "maxhp": 287,
+      "stats": {
+        "atk": 203,
+        "def": 174,
+        "spa": 203,
+        "spd": 191,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "pp": 8
+        },
+        {
+          "name": "Aurora Veil",
+          "type": "Ice",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Terrakion",
+      "level": 79,
+      "types": [
+        "Rock",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 273,
+      "stats": {
+        "atk": 249,
+        "def": 188,
+        "spa": 159,
+        "spd": 188,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Baxcalibur",
+      "level": 75,
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "ability": "Thermal Exchange",
+      "item": "Loaded Dice",
+      "teraType": "Dragon",
+      "maxhp": 295,
+      "stats": {
+        "atk": 261,
+        "def": 182,
+        "spa": 156,
+        "spd": 173,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Virizion",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Rock",
+      "maxhp": 283,
+      "stats": {
+        "atk": 195,
+        "def": 165,
+        "spa": 195,
+        "spd": 259,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Wyrdeer",
+      "level": 87,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 321,
+      "stats": {
+        "atk": 232,
+        "def": 175,
+        "spa": 232,
+        "spd": 180,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Vaporeon||Leftovers|WaterAbsorb|roar,scald,wish,protect||85,,85,85,85,85|F|,0,,,,||86|,,,,,Poison]Abomasnow||LightClay|SnowWarning|earthquake,woodhammer,blizzard,auroraveil||77,85,85,85,85,85|F|||84|,,,,,Ghost]Terrakion||ChoiceBand|Justified|stoneedge,quickattack,closecombat,earthquake||85,85,85,85,85,85|N|||79|,,,,,Ground]Baxcalibur||LoadedDice|ThermalExchange|iciclespear,earthquake,swordsdance,scaleshot||81,85,85,85,85,85|M|||75|,,,,,Dragon]Virizion||LifeOrb|Justified|stoneedge,closecombat,swordsdance,leafblade||85,85,85,85,85,85|N|||82|,,,,,Rock]Wyrdeer||Leftovers|Intimidate|psychicnoise,bodyslam,thunderwave,earthquake||85,85,85,85,85,85|M|||87|,,,,,Ground",
   "ai": "Ambipom||ChoiceBand|Technician|lowkick,knockoff,tripleaxel,doubleedge||85,85,85,85,85,85|F|||84|,,,,,Ice]Coalossal||HeavyDutyBoots|FlameBody|flamethrower,rapidspin,spikes,stoneedge||85,85,85,85,85,85|F|||89|,,,,,Ghost]Dipplin||Eviolite|StickyHold|suckerpunch,dragonpulse,gigadrain,recover||85,85,85,85,85,85|M|||88|,,,,,Steel]Scovillain||ChoiceSpecs|Chlorophyll|energyball,overheat,leafstorm,flamethrower||85,,85,85,85,85|M|,0,,,,||91|,,,,,Fire]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,bravebird,protect,facade||85,85,85,85,85,85|M|||85|,,,,,Normal]Gholdengo||Leftovers|GoodasGold|shadowball,nastyplot,makeitrain,recover||85,,85,85,85,85|N|,0,,,,||77|,,,,,Steel",
   "curation": {

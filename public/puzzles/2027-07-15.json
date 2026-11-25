@@ -19,6 +19,252 @@
     "Amoonguss",
     "Arceus-Fighting"
   ],
+  "playerSets": [
+    {
+      "species": "Trevenant",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "ability": "Natural Cure",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 296,
+      "stats": {
+        "atk": 247,
+        "def": 186,
+        "spa": 166,
+        "spd": 197,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mudsdale",
+      "level": 83,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Stamina",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 302,
+      "stats": {
+        "atk": 255,
+        "def": 214,
+        "spa": 139,
+        "spd": 189,
+        "spe": 106
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Qwilfish",
+      "level": 86,
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 252,
+      "stats": {
+        "atk": 213,
+        "def": 195,
+        "spa": 144,
+        "spd": 144,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Tyranitar",
+      "level": 78,
+      "types": [
+        "Rock",
+        "Dark"
+      ],
+      "ability": "Sand Stream",
+      "item": "Leftovers",
+      "teraType": "Rock",
+      "maxhp": 284,
+      "stats": {
+        "atk": 254,
+        "def": 217,
+        "spa": 193,
+        "spd": 201,
+        "spe": 140
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Amoonguss",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Regenerator",
+      "item": "Rocky Helmet",
+      "teraType": "Water",
+      "maxhp": 321,
+      "stats": {
+        "atk": 187,
+        "def": 162,
+        "spa": 187,
+        "spd": 178,
+        "spe": 96
+      },
+      "moves": [
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Stomping Tantrum",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Arceus-Fighting",
+      "level": 70,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Multitype",
+      "item": "Fist Plate",
+      "teraType": "Steel",
+      "maxhp": 284,
+      "stats": {
+        "atk": 173,
+        "def": 209,
+        "spa": 209,
+        "spd": 209,
+        "spe": 209
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Stored Power",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Cosmic Power",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Trevenant||LifeOrb|NaturalCure|rest,hornleech,poltergeist,drainpunch||85,85,85,85,85,85|M|||89|,,,,,Fighting]Mudsdale||Leftovers|Stamina|stealthrock,heavyslam,earthquake,stoneedge||85,85,85,85,85,85|M|||83|,,,,,Steel]Qwilfish||HeavyDutyBoots|Intimidate|toxic,painsplit,flipturn,gunkshot||85,85,85,85,85,85|F|||86|,,,,,Dark]Tyranitar||Leftovers|SandStream|thunderwave,stoneedge,dragontail,knockoff||85,85,85,85,85,85|F|||78|,,,,,Rock]Amoonguss||RockyHelmet|Regenerator|spore,stompingtantrum,gigadrain,sludgebomb||85,85,85,85,85,85|M|||82|,,,,,Water]Arceus|ArceusFighting|FistPlate|Multitype|recover,bodypress,storedpower,cosmicpower||85,,85,85,85,85|N|,0,,,,||70|,,,,,Steel",
   "ai": "Slither Wing||HeavyDutyBoots|Protosynthesis|morningsun,uturn,closecombat,willowisp||85,85,85,85,85,85|N|||81|,,,,,Steel]Forretress||Leftovers|Sturdy|stealthrock,toxicspikes,ironhead,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Water]Espeon||LifeOrb|MagicBounce|calmmind,morningsun,alluringvoice,psychic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fairy]Feraligatr||LifeOrb|SheerForce|dragondance,icepunch,liquidation,trailblaze||85,85,85,85,85,85|F|||79|,,,,,Water]Sableye||Leftovers|Prankster|encore,knockoff,recover,willowisp||85,85,85,85,85,85|F|||87|,,,,,Steel]Suicune||Leftovers|Pressure|scald,sleeptalk,rest,calmmind||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel",
   "curation": {

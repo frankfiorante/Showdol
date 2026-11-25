@@ -30,10 +30,11 @@ pnpm start        # serves out/
 | `pnpm build` | Static export to `out/` |
 | `pnpm typecheck` | TypeScript check |
 | `pnpm gen:puzzle` | Generates and curates puzzle files (today by default). Takes `--from YYYY-MM-DD --days N`, plus `--battles`, `--min`, `--max` and `--rerolls` for curation. `--check` verifies existing files still regenerate to the same teams. Never changes an existing day's file unless given `--force` |
-| `pnpm session:check` | Plays battles through `BattleSession` with a random player, checking invariants and resuming each one from a random save point. Takes `--n 300` and `--print` |
+| `pnpm session:check` | Plays battles through `BattleSession` with a random player, checking invariants (including that the opponent tooltip's Speed and ability estimates contain the real values) and resuming each one from a random save point. Takes `--n 300` and `--print` |
 | `pnpm ai:check random\|mirror\|duel` | AI harness: AI vs random bot (both sides), AI vs AI on each day's matchup, or variant weights (`--weights '{"setup":60}'`) vs the defaults with paired seeds |
 | `pnpm ai:watch YYYY-MM-DD` | Prints a compact log of one AI-vs-AI battle on that day's matchup |
 | `pnpm sprites:fetch` | Downloads any missing sprites for species Gen 9 Random Battle can roll into `public/sprites/gen5/` and rewrites the index (`--dry-run` lists them) |
+| `pnpm hints:gen` | Rewrites `src/data/randbats-hints.json`: each species' possible abilities and Speed spread, for the opponent tooltip. Rerun after upgrading `@pkmn/randoms` |
 | `pnpm daily:check` | Unit checks for dates, puzzle numbers, the save format, the daily lock, stats, share text and export/import (runs in a time zone with daylight saving time) |
 | `pnpm spike:bots` | Random bot vs random bot on a puzzle, in Node. Takes `--date`, `--n` and `--replay` |
 | `pnpm spike:size` | JS bundle sizes after a build: what loads up front and what loads on demand |

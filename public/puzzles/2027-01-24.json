@@ -19,6 +19,248 @@
     "Lumineon",
     "Banette"
   ],
+  "playerSets": [
+    {
+      "species": "Palafin",
+      "level": 77,
+      "types": [
+        "Water"
+      ],
+      "ability": "Zero to Hero",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 281,
+      "stats": {
+        "atk": 152,
+        "def": 155,
+        "spa": 126,
+        "spd": 140,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Jet Punch",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Volbeat",
+      "level": 90,
+      "types": [
+        "Bug"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 263,
+      "stats": {
+        "atk": 183,
+        "def": 186,
+        "spa": 136,
+        "spd": 204,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Cresselia",
+      "level": 80,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 323,
+      "stats": {
+        "atk": 117,
+        "def": 222,
+        "spa": 166,
+        "spd": 238,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Moonlight",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Sudowoodo",
+      "level": 94,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Rock Head",
+      "item": "Leftovers",
+      "teraType": "Rock",
+      "maxhp": 284,
+      "stats": {
+        "atk": 241,
+        "def": 270,
+        "spa": 110,
+        "spd": 176,
+        "spe": 110
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Head Smash",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lumineon",
+      "level": 93,
+      "types": [
+        "Water"
+      ],
+      "ability": "Storm Drain",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 279,
+      "stats": {
+        "atk": 181,
+        "def": 194,
+        "spa": 181,
+        "spd": 213,
+        "spe": 222
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Banette",
+      "level": 93,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Insomnia",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 270,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 207,
+        "spd": 170,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Palafin||ChoiceBand|ZerotoHero|jetpunch,wavecrash,flipturn,closecombat||85,85,85,85,85,85|M|||77|,,,,,Water]Volbeat||HeavyDutyBoots|Prankster|uturn,roost,encore,thunderwave||85,85,85,85,85,85|M|||90|,,,,,Steel]Cresselia||Leftovers|Levitate|calmmind,psyshock,moonlight,moonblast||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fairy]Sudowoodo||Leftovers|RockHead|suckerpunch,headsmash,woodhammer,stealthrock||85,85,85,85,85,85|F|||94|,,,,,Rock]Lumineon||HeavyDutyBoots|StormDrain|icebeam,encore,hydropump,uturn||85,85,85,85,85,85|F|||93|,,,,,Dragon]Banette||LifeOrb|Insomnia|gunkshot,thunderwave,shadowsneak,poltergeist||85,85,85,85,85,85|F|||93|,,,,,Poison",
   "ai": "Iron Bundle||ChoiceSpecs|QuarkDrive|hydropump,freezedry,flipturn,icebeam||85,85,85,85,85,85|N|||78|,,,,,Ice]Terrakion||ChoiceBand|Justified|earthquake,closecombat,stoneedge,quickattack||85,85,85,85,85,85|N|||79|,,,,,Ground]Baxcalibur||HeavyDutyBoots|ThermalExchange|iciclecrash,glaiverush,earthquake,dragondance||85,85,85,85,85,85|F|||75|,,,,,Ground]Solgaleo||Leftovers|FullMetalBody|morningsun,closecombat,sunsteelstrike,psychicfangs||85,85,85,85,85,85|N|||74|,,,,,Water]Zebstrika||LifeOrb|SapSipper|overheat,voltswitch,highhorsepower,supercellslam||85,85,85,85,85,85|F|||87|,,,,,Ground]Garchomp||LoadedDice|RoughSkin|scaleshot,firefang,earthquake,swordsdance||85,85,85,85,85,85|F|||74|,,,,,Fire",
   "curation": {

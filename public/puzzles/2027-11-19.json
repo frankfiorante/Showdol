@@ -19,6 +19,252 @@
     "Oranguru",
     "Walking Wake"
   ],
+  "playerSets": [
+    {
+      "species": "Lucario",
+      "level": 84,
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "ability": "Justified",
+      "item": "Choice Band",
+      "teraType": "Normal",
+      "maxhp": 255,
+      "stats": {
+        "atk": 233,
+        "def": 166,
+        "spa": 241,
+        "spd": 166,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Meteor Mash",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Furret",
+      "level": 94,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Frisk",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 312,
+      "stats": {
+        "atk": 196,
+        "def": 174,
+        "spa": 138,
+        "spd": 157,
+        "spe": 223
+      },
+      "moves": [
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Brick Break",
+          "type": "Fighting",
+          "pp": 24
+        },
+        {
+          "name": "Tidy Up",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Arbok",
+      "level": 87,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 246,
+      "stats": {
+        "atk": 215,
+        "def": 170,
+        "spa": 163,
+        "spd": 187,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Klefki",
+      "level": 84,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 233,
+      "stats": {
+        "atk": 183,
+        "def": 201,
+        "spa": 183,
+        "spd": 194,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Magnet Rise",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Oranguru",
+      "level": 92,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Inner Focus",
+      "item": "Leftovers",
+      "teraType": "Psychic",
+      "maxhp": 315,
+      "stats": {
+        "atk": 115,
+        "def": 200,
+        "spa": 218,
+        "spd": 255,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Walking Wake",
+      "level": 79,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 286,
+      "stats": {
+        "atk": 136,
+        "def": 189,
+        "spa": 243,
+        "spd": 177,
+        "spe": 218
+      },
+      "moves": [
+        {
+          "name": "Hydro Steam",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Sunny Day",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Lucario||ChoiceBand|Justified|stoneedge,extremespeed,closecombat,meteormash||85,85,85,85,85,85|F|||84|,,,,,Normal]Furret||LifeOrb|Frisk|doubleedge,knockoff,brickbreak,tidyup||85,85,85,85,85,85|M|||94|,,,,,Normal]Arbok||Leftovers|Intimidate|coil,earthquake,trailblaze,gunkshot||85,85,85,85,85,85|F|||87|,,,,,Grass]Klefki||Leftovers|Prankster|spikes,playrough,magnetrise,thunderwave||85,85,85,85,85,85|F|||84|,,,,,Water]Oranguru||Leftovers|InnerFocus|psyshock,thunderbolt,focusblast,nastyplot||85,,85,85,85,85|F|,0,,,,||92|,,,,,Psychic]Walking Wake||LifeOrb|Protosynthesis|hydrosteam,flamethrower,sunnyday,dracometeor||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire",
   "ai": "Cacturne||LifeOrb|WaterAbsorb|suckerpunch,knockoff,seedbomb,swordsdance||85,85,85,85,85,85|M|||92|,,,,,Poison]Torterra||LoadedDice|Overgrow|shellsmash,bulletseed,headlongrush,rockblast||85,85,85,85,85,85|M|||78|,,,,,Rock]Klefki||Leftovers|Prankster|spikes,thunderwave,magnetrise,playrough||85,85,85,85,85,85|M|||84|,,,,,Water]Smeargle||WideLens|Technician|spore,shellsmash,powertrip,populationbomb||85,85,85,85,85,85|M|||95|,,,,,Normal]Barraskewda||ChoiceBand|SwiftSwim|poisonjab,waterfall,closecombat,flipturn||85,85,85,85,85,85|F|||81|,,,,,Fighting]Blastoise||WhiteHerb|Torrent|shellsmash,terablast,icebeam,hydropump||85,,85,85,85,85|F|,0,,,,||80|,,,,,Grass",
   "curation": {

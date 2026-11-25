@@ -19,6 +19,251 @@
     "Furret",
     "Espeon"
   ],
+  "playerSets": [
+    {
+      "species": "Kilowattrel",
+      "level": 83,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 252,
+      "stats": {
+        "atk": 164,
+        "def": 147,
+        "spa": 222,
+        "spd": 147,
+        "spe": 255
+      },
+      "moves": [
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Meowstic",
+      "level": 89,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 277,
+      "stats": {
+        "atk": 90,
+        "def": 186,
+        "spa": 199,
+        "spd": 195,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Staraptor",
+      "level": 79,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 263,
+      "stats": {
+        "atk": 235,
+        "def": 156,
+        "spa": 125,
+        "spd": 140,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Crawdaunt",
+      "level": 84,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Adaptability",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 243,
+      "stats": {
+        "atk": 250,
+        "def": 191,
+        "spa": 199,
+        "spd": 141,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Crabhammer",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Furret",
+      "level": 94,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Frisk",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 312,
+      "stats": {
+        "atk": 196,
+        "def": 174,
+        "spa": 138,
+        "spd": 157,
+        "spe": 223
+      },
+      "moves": [
+        {
+          "name": "Brick Break",
+          "type": "Fighting",
+          "pp": 24
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Tidy Up",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Espeon",
+      "level": 84,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Magic Bounce",
+      "item": "Life Orb",
+      "teraType": "Psychic",
+      "maxhp": 246,
+      "stats": {
+        "atk": 114,
+        "def": 149,
+        "spa": 267,
+        "spd": 208,
+        "spe": 233
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Kilowattrel||HeavyDutyBoots|VoltAbsorb|discharge,hurricane,roost,uturn||85,85,85,85,85,85|M|||83|,,,,,Steel]Meowstic||Leftovers|Prankster|alluringvoice,thunderwave,yawn,psychicnoise||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Staraptor||ChoiceBand|Reckless|uturn,quickattack,bravebird,closecombat||81,85,85,85,85,85|F|||79|,,,,,Fighting]Crawdaunt||LifeOrb|Adaptability|crabhammer,knockoff,aquajet,dragondance||85,85,85,85,85,85|M|||84|,,,,,Water]Furret||LifeOrb|Frisk|brickbreak,doubleedge,knockoff,tidyup||85,85,85,85,85,85|F|||94|,,,,,Normal]Espeon||LifeOrb|MagicBounce|calmmind,alluringvoice,psyshock,morningsun||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic",
   "ai": "Ursaring||ToxicOrb|QuickFeet|facade,crunch,closecombat,swordsdance||85,85,85,85,85,85|M|||84|,,,,,Normal]Revavroom||LifeOrb|Filter|ironhead,highhorsepower,gunkshot,shiftgear||85,85,85,85,85,85|M|||79|,,,,,Ground]Empoleon||Leftovers|Competitive|flipturn,surf,knockoff,roost||85,85,85,85,85,85|F|||84|,,,,,Grass]Iron Boulder||BoosterEnergy|QuarkDrive|closecombat,zenheadbutt,swordsdance,mightycleave||85,85,85,85,85,85|N|||77|,,,,,Fighting]Victreebel||LifeOrb|Chlorophyll|weatherball,sludgewave,sunnyday,powerwhip||85,85,85,85,85,85|F|||90|,,,,,Fire]Lurantis||AssaultVest|Contrary|leechlife,knockoff,leafstorm,superpower||85,85,85,85,85,85|M|||87|,,,,,Steel",
   "curation": {

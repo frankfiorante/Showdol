@@ -19,6 +19,252 @@
     "Toxtricity",
     "Masquerain"
   ],
+  "playerSets": [
+    {
+      "species": "Golduck",
+      "level": 90,
+      "types": [
+        "Water"
+      ],
+      "ability": "Cloud Nine",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 290,
+      "stats": {
+        "atk": 152,
+        "def": 192,
+        "spa": 222,
+        "spd": 195,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Snorlax",
+      "level": 82,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Thick Fat",
+      "item": "Chesto Berry",
+      "teraType": "Poison",
+      "maxhp": 397,
+      "stats": {
+        "atk": 228,
+        "def": 154,
+        "spa": 154,
+        "spd": 228,
+        "spe": 96
+      },
+      "moves": [
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Scream Tail",
+      "level": 84,
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 330,
+      "stats": {
+        "atk": 114,
+        "def": 215,
+        "spa": 157,
+        "spd": 241,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Okidogi",
+      "level": 77,
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 262,
+      "stats": {
+        "atk": 242,
+        "def": 222,
+        "spa": 134,
+        "spd": 177,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Toxtricity",
+      "level": 82,
+      "types": [
+        "Electric",
+        "Poison"
+      ],
+      "ability": "Punk Rock",
+      "item": "Choice Scarf",
+      "teraType": "Normal",
+      "maxhp": 257,
+      "stats": {
+        "atk": 165,
+        "def": 162,
+        "spa": 234,
+        "spd": 162,
+        "spe": 170
+      },
+      "moves": [
+        {
+          "name": "Overdrive",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Boomburst",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Masquerain",
+      "level": 87,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 264,
+      "stats": {
+        "atk": 109,
+        "def": 158,
+        "spa": 224,
+        "spd": 192,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Golduck||LifeOrb|CloudNine|hydropump,icebeam,nastyplot,grassknot||85,,85,85,85,85|F|,0,,,,||90|,,,,,Water]Snorlax||ChestoBerry|ThickFat|curse,bodyslam,crunch,rest||85,85,85,85,85,85|M|||82|,,,,,Poison]Scream Tail||Leftovers|Protosynthesis|thunderwave,protect,wish,dazzlinggleam||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison]Okidogi||AssaultVest|ToxicChain|knockoff,highhorsepower,gunkshot,drainpunch||85,85,85,85,85,85|M|||77|,,,,,Dark]Toxtricity||ChoiceScarf|PunkRock|overdrive,boomburst,sludgewave,voltswitch||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Masquerain||HeavyDutyBoots|Intimidate|hydropump,hurricane,bugbuzz,quiverdance||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water",
   "ai": "Sawsbuck|SawsbuckWinter|LifeOrb|SapSipper|doubleedge,highhorsepower,swordsdance,hornleech||85,85,85,85,85,85|M|||88|,,,,,Normal]Avalugg|AvaluggHisui|HeavyDutyBoots|Sturdy|recover,stoneedge,avalanche,bodypress||85,85,85,85,85,85|F|||91|,,,,,Poison]Breloom||LifeOrb|Technician|swordsdance,machpunch,spore,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Fighting]Regirock||Leftovers|ClearBody|stealthrock,stoneedge,thunderwave,bodypress||85,85,85,85,85,85|N|||83|,,,,,Fighting]Regidrago||LumBerry|DragonsMaw|outrage,earthquake,dracometeor,dragondance||85,85,85,85,85,85|N|||77|,,,,,Dragon]Metagross||ChoiceBand|ClearBody|bulletpunch,knockoff,heavyslam,earthquake||85,85,85,85,85,85|N|||79|,,,,,Water",
   "curation": {

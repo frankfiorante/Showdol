@@ -19,6 +19,253 @@
     "Banette",
     "Meloetta"
   ],
+  "playerSets": [
+    {
+      "species": "Pecharunt",
+      "level": 77,
+      "types": [
+        "Poison",
+        "Ghost"
+      ],
+      "ability": "Poison Puppeteer",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 262,
+      "stats": {
+        "atk": 140,
+        "def": 291,
+        "spa": 180,
+        "spd": 180,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Malignant Chain",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Talonflame",
+      "level": 83,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 265,
+      "stats": {
+        "atk": 182,
+        "def": 166,
+        "spa": 171,
+        "spd": 162,
+        "spe": 257
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Cyclizar",
+      "level": 84,
+      "types": [
+        "Dragon",
+        "Normal"
+      ],
+      "ability": "Regenerator",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 255,
+      "stats": {
+        "atk": 208,
+        "def": 157,
+        "spa": 191,
+        "spd": 157,
+        "spe": 251
+      },
+      "moves": [
+        {
+          "name": "Shed Tail",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lanturn",
+      "level": 89,
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 367,
+      "stats": {
+        "atk": 108,
+        "def": 154,
+        "spa": 186,
+        "spd": 186,
+        "spe": 170
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Banette",
+      "level": 93,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Insomnia",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 270,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 207,
+        "spd": 170,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Meloetta",
+      "level": 82,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Leftovers",
+      "teraType": "Psychic",
+      "maxhp": 298,
+      "stats": {
+        "atk": 131,
+        "def": 173,
+        "spa": 257,
+        "spd": 257,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Pecharunt||Leftovers|PoisonPuppeteer|shadowball,nastyplot,recover,malignantchain||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Talonflame||HeavyDutyBoots|FlameBody|roost,overheat,bravebird,taunt||85,85,85,85,85,85|M|||83|,,,,,Ground]Cyclizar||HeavyDutyBoots|Regenerator|shedtail,dracometeor,rapidspin,knockoff||85,85,85,85,85,85|F|||84|,,,,,Dragon]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderwave,scald,thunderbolt,voltswitch||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Banette||LifeOrb|Insomnia|shadowsneak,poltergeist,swordsdance,gunkshot||85,85,85,85,85,85|M|||93|,,,,,Poison]Meloetta||Leftovers|SereneGrace|psyshock,calmmind,hypervoice,focusblast||85,,85,85,85,85|N|,0,,,,||82|,,,,,Psychic",
   "ai": "Azumarill||ChoiceBand|HugePower|aquajet,liquidation,playrough,superpower||85,85,85,85,85,85|F|||82|,,,,,Water]Zamazenta||Leftovers|DauntlessShield|bodypress,irondefense,stoneedge,ironhead||85,85,85,85,85,85|N|||71|,,,,,Steel]Pelipper||ChoiceSpecs|Drizzle|uturn,weatherball,hurricane,hydropump||85,85,85,85,85,85|M|||86|,,,,,Water]Furret||ChoiceBand|Frisk|uturn,doubleedge,knockoff,trick||85,85,85,85,85,85|F|||94|,,,,,Normal]Galvantula||HeavyDutyBoots|CompoundEyes|stickyweb,bugbuzz,voltswitch,thunder||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Tsareena||HeavyDutyBoots|QueenlyMajesty|powerwhip,knockoff,synthesis,rapidspin||85,85,85,85,85,85|F|||87|,,,,,Steel",
   "curation": {

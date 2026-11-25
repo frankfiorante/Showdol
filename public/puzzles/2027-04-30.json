@@ -19,6 +19,252 @@
     "Arboliva",
     "Haxorus"
   ],
+  "playerSets": [
+    {
+      "species": "Heatran",
+      "level": 79,
+      "types": [
+        "Fire",
+        "Steel"
+      ],
+      "ability": "Flash Fire",
+      "item": "Air Balloon",
+      "teraType": "Flying",
+      "maxhp": 273,
+      "stats": {
+        "atk": 188,
+        "def": 213,
+        "spa": 251,
+        "spd": 213,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Magma Storm",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Beartic",
+      "level": 91,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Slush Rush",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 321,
+      "stats": {
+        "atk": 288,
+        "def": 197,
+        "spa": 179,
+        "spd": 197,
+        "spe": 143
+      },
+      "moves": [
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dodrio",
+      "level": 85,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Early Bird",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 241,
+      "stats": {
+        "atk": 236,
+        "def": 168,
+        "spa": 151,
+        "spd": 151,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Drill Run",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Charizard",
+      "level": 85,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Blaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 271,
+      "stats": {
+        "atk": 192,
+        "def": 181,
+        "spa": 234,
+        "spd": 193,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Arboliva",
+      "level": 91,
+      "types": [
+        "Grass",
+        "Normal"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Poison",
+      "maxhp": 288,
+      "stats": {
+        "atk": 130,
+        "def": 216,
+        "spa": 279,
+        "spd": 250,
+        "spe": 123
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Haxorus",
+      "level": 78,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Lum Berry",
+      "teraType": "Steel",
+      "maxhp": 247,
+      "stats": {
+        "atk": 274,
+        "def": 185,
+        "spa": 139,
+        "spd": 154,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Heatran||AirBalloon|FlashFire|magmastorm,heavyslam,earthpower,stealthrock||85,85,85,85,85,85|F|||79|,,,,,Flying]Beartic||ChoiceBand|SlushRush|aquajet,iciclecrash,closecombat,earthquake||85,85,85,85,85,85|M|||91|,,,,,Fighting]Dodrio||ChoiceBand|EarlyBird|drillrun,doubleedge,knockoff,bravebird||85,85,85,85,85,85|F|||85|,,,,,Ground]Charizard||HeavyDutyBoots|Blaze|flareblitz,earthquake,swordsdance,outrage||85,85,85,85,85,85|M|||85|,,,,,Dragon]Arboliva||SitrusBerry|Harvest|protect,substitute,leechseed,hypervoice||77,,85,85,85,85|M|,0,,,,||91|,,,,,Poison]Haxorus||LumBerry|MoldBreaker|closecombat,dragondance,ironhead,outrage||85,85,85,85,85,85|F|||78|,,,,,Steel",
   "ai": "Maushold|MausholdFour|WideLens|Technician|bite,populationbomb,tidyup,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Eelektross||AssaultVest|Levitate|uturn,discharge,knockoff,flamethrower||85,85,85,85,85,85|F|||87|,,,,,Steel]Jumpluff|||Infiltrator|acrobatics,encore,uturn,strengthsap||81,85,85,85,85,85|M|||87|,,,,,Steel]Braviary|BraviaryHisui|LifeOrb|SheerForce|heatwave,psychic,agility,hurricane||85,,85,85,85,85|M|,0,,,,||85|,,,,,Psychic]Tauros||LifeOrb|SheerForce|earthquake,bodyslam,closecombat,throatchop||85,85,85,85,85,85|M|||82|,,,,,Fighting]Cinderace||ChoiceBand|Libero|gunkshot,highjumpkick,uturn,pyroball||81,85,85,85,85,85|M|||77|,,,,,Fire",
   "curation": {

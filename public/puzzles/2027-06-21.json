@@ -19,6 +19,254 @@
     "Chandelure",
     "Leavanny"
   ],
+  "playerSets": [
+    {
+      "species": "Fezandipiti",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Fairy"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 196,
+        "def": 182,
+        "spa": 162,
+        "spd": 252,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Quagsire",
+      "level": 84,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Unaware",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 297,
+      "stats": {
+        "atk": 191,
+        "def": 191,
+        "spa": 157,
+        "spd": 157,
+        "spe": 107
+      },
+      "moves": [
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Krookodile",
+      "level": 79,
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Choice Scarf",
+      "teraType": "Poison",
+      "maxhp": 280,
+      "stats": {
+        "atk": 230,
+        "def": 172,
+        "spa": 148,
+        "spd": 156,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Braviary-Hisui",
+      "level": 85,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 326,
+      "stats": {
+        "atk": 146,
+        "def": 168,
+        "spa": 239,
+        "spd": 168,
+        "spe": 159
+      },
+      "moves": [
+        {
+          "name": "Heat Wave",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Chandelure",
+      "level": 83,
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "ability": "Flash Fire",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 235,
+      "stats": {
+        "atk": 96,
+        "def": 197,
+        "spa": 288,
+        "spd": 197,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Leavanny",
+      "level": 86,
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Loaded Dice",
+      "teraType": "Rock",
+      "maxhp": 269,
+      "stats": {
+        "atk": 226,
+        "def": 187,
+        "spa": 170,
+        "spd": 187,
+        "spe": 207
+      },
+      "moves": [
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Fezandipiti||Leftovers|ToxicChain|terablast,playrough,gunkshot,swordsdance||85,85,85,85,85,85|M|||82|,,,,,Ground]Quagsire||Leftovers|Unaware|spikes,toxic,recover,earthquake||85,85,85,85,85,85|M|||84|,,,,,Poison]Krookodile||ChoiceScarf|Intimidate|knockoff,stoneedge,earthquake,gunkshot||85,85,85,85,85,85|F|||79|,,,,,Poison]Braviary|BraviaryHisui|LifeOrb|SheerForce|heatwave,agility,psychic,hurricane||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fairy]Chandelure||HeavyDutyBoots|FlashFire|shadowball,energyball,calmmind,fireblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Grass]Leavanny||LoadedDice|Chlorophyll|tripleaxel,bulletseed,stickyweb,knockoff||85,85,85,85,85,85|F|||86|,,,,,Rock",
   "ai": "Perrserker||LifeOrb|ToughClaws|knockoff,ironhead,closecombat,stealthrock||85,85,85,85,85,85|M|||89|,,,,,Fighting]Latios||SoulDew|Levitate|aurasphere,recover,dracometeor,lusterpurge||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Walking Wake||LifeOrb|Protosynthesis|dracometeor,sunnyday,hydrosteam,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Samurott||LifeOrb|Torrent|knockoff,liquidation,swordsdance,aquajet||85,85,85,85,85,85|F|||88|,,,,,Dark]Farigiraf||Leftovers|SapSipper|protect,wish,bodyslam,psychicnoise||85,85,85,85,85,85|M|||89|,,,,,Fairy]Zebstrika||LifeOrb|SapSipper|voltswitch,overheat,highhorsepower,supercellslam||85,85,85,85,85,85|M|||87|,,,,,Ground",
   "curation": {

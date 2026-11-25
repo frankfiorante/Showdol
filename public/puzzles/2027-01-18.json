@@ -19,6 +19,236 @@
     "Regidrago",
     "Ditto"
   ],
+  "playerSets": [
+    {
+      "species": "Entei",
+      "level": 78,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Inner Focus",
+      "item": "Choice Band",
+      "teraType": "Fire",
+      "maxhp": 307,
+      "stats": {
+        "atk": 224,
+        "def": 178,
+        "spa": 185,
+        "spd": 162,
+        "spe": 201
+      },
+      "moves": [
+        {
+          "name": "Sacred Fire",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Infernape",
+      "level": 82,
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "ability": "Blaze",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 259,
+      "stats": {
+        "atk": 218,
+        "def": 164,
+        "spa": 218,
+        "spd": 164,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Rabsca",
+      "level": 91,
+      "types": [
+        "Bug",
+        "Psychic"
+      ],
+      "ability": "Synchronize",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 284,
+      "stats": {
+        "atk": 96,
+        "def": 207,
+        "spa": 261,
+        "spd": 234,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Revival Blessing",
+          "type": "Normal",
+          "pp": 1
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Clodsire",
+      "level": 81,
+      "types": [
+        "Poison",
+        "Ground"
+      ],
+      "ability": "Unaware",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 343,
+      "stats": {
+        "atk": 168,
+        "def": 144,
+        "spa": 120,
+        "spd": 209,
+        "spe": 79
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Regidrago",
+      "level": 77,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Dragon's Maw",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 435,
+      "stats": {
+        "atk": 199,
+        "def": 122,
+        "spa": 199,
+        "spd": 122,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Claw",
+          "type": "Dragon",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ditto",
+      "level": 87,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Imposter",
+      "item": "Choice Scarf",
+      "teraType": "Steel",
+      "maxhp": 225,
+      "stats": {
+        "atk": 133,
+        "def": 133,
+        "spa": 133,
+        "spd": 133,
+        "spe": 133
+      },
+      "moves": [
+        {
+          "name": "Transform",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Entei||ChoiceBand|InnerFocus|sacredfire,stoneedge,extremespeed,flareblitz||85,85,85,85,85,85|N|||78|,,,,,Fire]Infernape||LifeOrb|Blaze|stoneedge,closecombat,grassknot,overheat||85,85,85,85,85,85|M|||82|,,,,,Fire]Rabsca||HeavyDutyBoots|Synchronize|bugbuzz,earthpower,revivalblessing,psychic||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Clodsire||Leftovers|Unaware|earthquake,poisonjab,spikes,recover||85,85,85,85,85,85|F|||81|,,,,,Steel]Regidrago||LifeOrb|DragonsMaw|earthquake,dragonclaw,terablast,dragondance||85,85,85,85,85,85|N|||77|,,,,,Steel]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Steel",
   "ai": "Decidueye|DecidueyeHisui|Leftovers|Scrappy|knockoff,leafblade,roost,triplearrows||85,85,85,85,85,85|F|||87|,,,,,Steel]Mismagius||Leftovers|Levitate|shadowball,substitute,terablast,nastyplot||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fighting]Zamazenta||ChoiceBand|DauntlessShield|crunch,stoneedge,ironhead,closecombat||85,85,85,85,85,85|N|||71|,,,,,Dark]Weavile||ChoiceBand|Pickpocket|lowkick,tripleaxel,iceshard,knockoff||81,85,85,85,85,85|M|||79|,,,,,Dark]Persian||ChoiceBand|Limber|doubleedge,uturn,knockoff,switcheroo||85,85,85,85,85,85|M|||92|,,,,,Ghost]Magmortar||HeavyDutyBoots|FlameBody|fireblast,thunderbolt,willowisp,knockoff||85,85,85,85,85,85|F|||88|,,,,,Electric",
   "curation": {

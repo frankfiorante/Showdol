@@ -19,6 +19,253 @@
     "Iron Treads",
     "Falinks"
   ],
+  "playerSets": [
+    {
+      "species": "Chi-Yu",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "ability": "Beads of Ruin",
+      "item": "Choice Scarf",
+      "teraType": "Dark",
+      "maxhp": 211,
+      "stats": {
+        "atk": 128,
+        "def": 168,
+        "spa": 252,
+        "spd": 229,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Oricorio-Pom-Pom",
+      "level": 82,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Dancer",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 257,
+      "stats": {
+        "atk": 119,
+        "def": 162,
+        "spa": 208,
+        "spd": 162,
+        "spe": 200
+      },
+      "moves": [
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Revelation Dance",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Ting-Lu",
+      "level": 78,
+      "types": [
+        "Dark",
+        "Ground"
+      ],
+      "ability": "Vessel of Ruin",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 370,
+      "stats": {
+        "atk": 217,
+        "def": 240,
+        "spa": 131,
+        "spd": 170,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Whirlwind",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Venomoth",
+      "level": 84,
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Poison",
+      "maxhp": 255,
+      "stats": {
+        "atk": 114,
+        "def": 149,
+        "spa": 199,
+        "spd": 174,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Iron Treads",
+      "level": 77,
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "ability": "Quark Drive",
+      "item": "Assault Vest",
+      "teraType": "Dragon",
+      "maxhp": 265,
+      "stats": {
+        "atk": 217,
+        "def": 229,
+        "spa": 155,
+        "spd": 152,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    },
+    {
+      "species": "Falinks",
+      "level": 84,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Defiant",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 246,
+      "stats": {
+        "atk": 216,
+        "def": 216,
+        "spa": 166,
+        "spd": 149,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "No Retreat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Chi-Yu||ChoiceScarf|BeadsofRuin|darkpulse,flamethrower,overheat,psychic||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Oricorio|OricorioPomPom|HeavyDutyBoots|Dancer|quiverdance,roost,hurricane,revelationdance||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Ting-Lu||Leftovers|VesselofRuin|earthquake,whirlwind,stealthrock,throatchop||85,85,85,85,85,85|N|||78|,,,,,Poison]Venomoth||HeavyDutyBoots|TintedLens|sleeppowder,quiverdance,sludgewave,bugbuzz||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Iron Treads||AssaultVest|QuarkDrive|earthquake,knockoff,ironhead,rapidspin||85,85,85,85,85,85|N|||77|,,,,,Dragon]Falinks||LifeOrb|Defiant|noretreat,closecombat,ironhead,knockoff||85,85,85,85,85,85|N|||84|,,,,,Dark",
   "ai": "Ribombee||FocusSash|ShieldDust|stunspore,stickyweb,bugbuzz,moonblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Haxorus||LumBerry|MoldBreaker|ironhead,closecombat,dragondance,outrage||85,85,85,85,85,85|F|||78|,,,,,Steel]Primarina||Leftovers|LiquidVoice|moonblast,calmmind,drainingkiss,psychicnoise||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel]Abomasnow||LightClay|SnowWarning|earthquake,blizzard,woodhammer,auroraveil||77,85,85,85,85,85|F|||84|,,,,,Water]Salamence||HeavyDutyBoots|Intimidate|earthquake,dragondance,outrage,dualwingbeat||85,85,85,85,85,85|M|||77|,,,,,Ground]Girafarig||Eviolite|SapSipper|thunderbolt,psyshock,hypervoice,nastyplot||85,,85,85,85,85|M|,0,,,,||89|,,,,,Normal",
   "curation": {

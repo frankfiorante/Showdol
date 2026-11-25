@@ -19,6 +19,253 @@
     "Abomasnow",
     "Articuno-Galar"
   ],
+  "playerSets": [
+    {
+      "species": "Cyclizar",
+      "level": 84,
+      "types": [
+        "Dragon",
+        "Normal"
+      ],
+      "ability": "Regenerator",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 255,
+      "stats": {
+        "atk": 208,
+        "def": 157,
+        "spa": 191,
+        "spd": 157,
+        "spe": 251
+      },
+      "moves": [
+        {
+          "name": "Shed Tail",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Minun",
+      "level": 95,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 268,
+      "stats": {
+        "atk": 81,
+        "def": 149,
+        "spa": 196,
+        "spd": 215,
+        "spe": 234
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Tinkaton",
+      "level": 82,
+      "types": [
+        "Fairy",
+        "Steel"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 274,
+      "stats": {
+        "atk": 170,
+        "def": 173,
+        "spa": 162,
+        "spd": 219,
+        "spe": 201
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Gigaton Hammer",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Incineroar",
+      "level": 82,
+      "types": [
+        "Fire",
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 290,
+      "stats": {
+        "atk": 236,
+        "def": 195,
+        "spa": 178,
+        "spd": 195,
+        "spe": 146
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Abomasnow",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "ability": "Snow Warning",
+      "item": "Light Clay",
+      "teraType": "Water",
+      "maxhp": 287,
+      "stats": {
+        "atk": 203,
+        "def": 174,
+        "spa": 203,
+        "spd": 191,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Aurora Veil",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Articuno-Galar",
+      "level": 84,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Competitive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 288,
+      "stats": {
+        "atk": 147,
+        "def": 191,
+        "spa": 258,
+        "spd": 216,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Cyclizar||HeavyDutyBoots|Regenerator|shedtail,rapidspin,taunt,dracometeor||85,85,85,85,85,85|F|||84|,,,,,Steel]Minun||LifeOrb|VoltAbsorb|nastyplot,thunderbolt,alluringvoice,encore||85,,85,85,85,85|F|,0,,,,||95|,,,,,Electric]Tinkaton||Leftovers|MoldBreaker|playrough,swordsdance,gigatonhammer,protect||85,85,85,85,85,85|F|||82|,,,,,Steel]Incineroar||HeavyDutyBoots|Intimidate|closecombat,flareblitz,willowisp,knockoff||85,85,85,85,85,85|M|||82|,,,,,Fighting]Abomasnow||LightClay|SnowWarning|earthquake,auroraveil,iceshard,blizzard||77,85,85,85,85,85|M|||84|,,,,,Water]Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|recover,calmmind,hurricane,psyshock||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel",
   "ai": "Florges|FlorgesWhite|Leftovers|FlowerVeil|moonblast,calmmind,wish,protect||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Mabosstiff||ChoiceScarf|Stakeout|wildcharge,crunch,playrough,psychicfangs||85,85,85,85,85,85|M|||86|,,,,,Dark]Hitmonlee||ChoiceScarf|Reckless|highjumpkick,poisonjab,stoneedge,knockoff||81,85,85,85,85,85|M|||85|,,,,,Fighting]Vivillon|VivillonMonsoon|HeavyDutyBoots|CompoundEyes|sleeppowder,quiverdance,hurricane,terablast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ground]Grumpig||Leftovers|ThickFat|shadowball,psychic,focusblast,nastyplot||85,,85,85,85,85|M|,0,,,,||92|,,,,,Fighting]Typhlosion|TyphlosionHisui|HeavyDutyBoots|Blaze|fireblast,calmmind,willowisp,shadowball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fire",
   "curation": {

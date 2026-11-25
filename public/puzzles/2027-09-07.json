@@ -19,6 +19,251 @@
     "Squawkabilly-Yellow",
     "Hariyama"
   ],
+  "playerSets": [
+    {
+      "species": "Weezing",
+      "level": 88,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 258,
+      "stats": {
+        "atk": 163,
+        "def": 261,
+        "spa": 200,
+        "spd": 173,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Rhydon",
+      "level": 85,
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "ability": "Lightning Rod",
+      "item": "Eviolite",
+      "teraType": "Flying",
+      "maxhp": 317,
+      "stats": {
+        "atk": 270,
+        "def": 253,
+        "spa": 125,
+        "spd": 125,
+        "spe": 117
+      },
+      "moves": [
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Toucannon",
+      "level": 88,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Keen Eye",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 284,
+      "stats": {
+        "atk": 261,
+        "def": 182,
+        "spa": 182,
+        "spd": 182,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Boomburst",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Beak Blast",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Flareon",
+      "level": 90,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Guts",
+      "item": "Toxic Orb",
+      "teraType": "Normal",
+      "maxhp": 263,
+      "stats": {
+        "atk": 285,
+        "def": 159,
+        "spa": 222,
+        "spd": 249,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Squawkabilly-Yellow",
+      "level": 89,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Hustle",
+      "item": "Choice Band",
+      "teraType": "Normal",
+      "maxhp": 291,
+      "stats": {
+        "atk": 222,
+        "def": 142,
+        "spa": 131,
+        "spd": 142,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Hariyama",
+      "level": 87,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Thick Fat",
+      "item": "Assault Vest",
+      "teraType": "Steel",
+      "maxhp": 392,
+      "stats": {
+        "atk": 259,
+        "def": 154,
+        "spa": 119,
+        "spd": 154,
+        "spe": 137
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Bullet Punch",
+          "type": "Steel",
+          "pp": 48
+        }
+      ]
+    }
+  ],
   "player": "Weezing||Leftovers|Levitate|toxicspikes,fireblast,sludgebomb,painsplit||85,,85,85,85,85|M|,0,,,,||88|,,,,,Steel]Rhydon||Eviolite|LightningRod|megahorn,swordsdance,stoneedge,earthquake||85,85,85,85,85,85|M|||85|,,,,,Flying]Toucannon||HeavyDutyBoots|KeenEye|roost,uturn,boomburst,beakblast||85,85,85,85,85,85|M|||88|,,,,,Steel]Flareon||ToxicOrb|Guts|trailblaze,flareblitz,quickattack,facade||85,85,85,85,85,85|M|||90|,,,,,Normal]Squawkabilly|SquawkabillyYellow|ChoiceBand|Hustle|bravebird,foulplay,doubleedge,quickattack||85,85,85,85,85,85|M|||89|,,,,,Normal]Hariyama||AssaultVest|ThickFat|closecombat,heavyslam,knockoff,bulletpunch||85,85,85,85,85,85|M|||87|,,,,,Steel",
   "ai": "Espeon||ChoiceSpecs|MagicBounce|psyshock,trick,shadowball,alluringvoice||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fairy]Calyrex||Leftovers|Unnerve|calmmind,psyshock,leechseed,gigadrain||85,,85,85,85,85|N|,0,,,,||93|,,,,,Steel]Houndoom||HeavyDutyBoots|FlashFire|sludgebomb,darkpulse,suckerpunch,fireblast||85,85,85,85,85,85|F|||87|,,,,,Fire]Probopass||Leftovers|MagnetPull|powergem,bodypress,irondefense,flashcannon||85,,85,85,85,85|M|,0,,,,||91|,,,,,Fighting]Electivire||LifeOrb|MotorDrive|earthquake,supercellslam,knockoff,voltswitch||85,85,85,85,85,85|F|||84|,,,,,Ground]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|roost,quiverdance,hurricane,revelationdance||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fighting",
   "curation": {

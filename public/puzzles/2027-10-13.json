@@ -19,6 +19,252 @@
     "Ursaring",
     "Palossand"
   ],
+  "playerSets": [
+    {
+      "species": "Rampardos",
+      "level": 90,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 321,
+      "stats": {
+        "atk": 348,
+        "def": 159,
+        "spa": 168,
+        "spd": 141,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Mandibuzz",
+      "level": 85,
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "ability": "Overcoat",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 326,
+      "stats": {
+        "atk": 115,
+        "def": 227,
+        "spa": 142,
+        "spd": 210,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Oricorio-Pa'u",
+      "level": 87,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Dancer",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 272,
+      "stats": {
+        "atk": 126,
+        "def": 172,
+        "spa": 220,
+        "spd": 172,
+        "spe": 212
+      },
+      "moves": [
+        {
+          "name": "Revelation Dance",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Empoleon",
+      "level": 84,
+      "types": [
+        "Water",
+        "Steel"
+      ],
+      "ability": "Competitive",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 278,
+      "stats": {
+        "atk": 149,
+        "def": 196,
+        "spa": 235,
+        "spd": 218,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ursaring",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Guts",
+      "item": "Eviolite",
+      "teraType": "Ghost",
+      "maxhp": 288,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 174,
+        "spd": 174,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Palossand",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Ground"
+      ],
+      "ability": "Water Compaction",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 296,
+      "stats": {
+        "atk": 138,
+        "def": 247,
+        "spa": 229,
+        "spd": 184,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Shore Up",
+          "type": "Ground",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Rampardos||LifeOrb|SheerForce|rockslide,firepunch,earthquake,zenheadbutt||85,85,85,85,85,85|M|||90|,,,,,Fire]Mandibuzz||HeavyDutyBoots|Overcoat|roost,toxic,defog,foulplay||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Oricorio|OricorioPau|HeavyDutyBoots|Dancer|revelationdance,quiverdance,hurricane,roost||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ground]Empoleon||Leftovers|Competitive|roost,yawn,surf,stealthrock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Grass]Ursaring||Eviolite|Guts|bodyslam,sleeptalk,rest,throatchop||85,85,85,85,85,85|F|||84|,,,,,Ghost]Palossand||Leftovers|WaterCompaction|sludgebomb,shadowball,earthpower,shoreup||85,,85,85,85,85|F|,0,,,,||89|,,,,,Poison",
   "ai": "Vivillon|VivillonSandstorm|HeavyDutyBoots|CompoundEyes|sleeppowder,bugbuzz,quiverdance,hurricane||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Hariyama||AssaultVest|ThickFat|heavyslam,closecombat,knockoff,bulletpunch||85,85,85,85,85,85|F|||87|,,,,,Steel]Virizion||LifeOrb|Justified|closecombat,swordsdance,stoneedge,leafblade||85,85,85,85,85,85|N|||82|,,,,,Rock]Goodra|GoodraHisui|AssaultVest|SapSipper|heavyslam,knockoff,earthquake,dracometeor||85,85,85,85,85,85|F|||82|,,,,,Ground]Kyogre||Leftovers|Drizzle|originpulse,icebeam,thunder,calmmind||85,,85,85,85,85|N|,0,,,,||71|,,,,,Steel]Regice||HeavyDutyBoots|ClearBody|thunderwave,bodypress,thunderbolt,icebeam||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric",
   "curation": {

@@ -19,6 +19,253 @@
     "Glaceon",
     "Gyarados"
   ],
+  "playerSets": [
+    {
+      "species": "Gardevoir",
+      "level": 83,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "ability": "Trace",
+      "item": "Choice Scarf",
+      "teraType": "Fighting",
+      "maxhp": 249,
+      "stats": {
+        "atk": 112,
+        "def": 156,
+        "spa": 255,
+        "spd": 239,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Bastiodon",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "ability": "Soundproof",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 252,
+      "stats": {
+        "atk": 97,
+        "def": 350,
+        "spa": 134,
+        "spd": 296,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Chi-Yu",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "ability": "Beads of Ruin",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 211,
+      "stats": {
+        "atk": 128,
+        "def": 168,
+        "spa": 252,
+        "spd": 229,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Magearna-Original",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Soul-Heart",
+      "item": "Leftovers",
+      "teraType": "Flying",
+      "maxhp": 250,
+      "stats": {
+        "atk": 151,
+        "def": 222,
+        "spa": 245,
+        "spd": 222,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Shift Gear",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Fleur Cannon",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Glaceon",
+      "level": 94,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Ice Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 275,
+      "stats": {
+        "atk": 117,
+        "def": 260,
+        "spa": 298,
+        "spd": 232,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Mud Shot",
+          "type": "Ground",
+          "pp": 24
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Gyarados",
+      "level": 79,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 280,
+      "stats": {
+        "atk": 243,
+        "def": 170,
+        "spa": 140,
+        "spd": 204,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Waterfall",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Gardevoir||ChoiceScarf|Trace|moonblast,psyshock,trick,focusblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fighting]Bastiodon||ChestoBerry|Soundproof|foulplay,rest,irondefense,bodypress||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fighting]Chi-Yu||HeavyDutyBoots|BeadsofRuin|nastyplot,psychic,fireblast,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Magearna|MagearnaOriginal|Leftovers|SoulHeart|flashcannon,shiftgear,fleurcannon,calmmind||85,,85,85,85,85|N|,0,,,,||77|,,,,,Flying]Glaceon||HeavyDutyBoots|IceBody|wish,protect,mudshot,freezedry||85,,85,85,85,85|F|,0,,,,||94|,,,,,Ground]Gyarados||HeavyDutyBoots|Intimidate|earthquake,waterfall,stoneedge,dragondance||85,85,85,85,85,85|M|||79|,,,,,Ground",
   "ai": "Dragonite||HeavyDutyBoots|Multiscale|outrage,dragondance,earthquake,ironhead||85,85,85,85,85,85|F|||74|,,,,,Steel]Sawsbuck|SawsbuckAutumn|LifeOrb|SereneGrace|hornleech,highhorsepower,headbutt,swordsdance||85,85,85,85,85,85|F|||88|,,,,,Normal]Mienshao||ChoiceBand|Reckless|highjumpkick,stoneedge,knockoff,poisonjab||81,85,85,85,85,85|F|||83|,,,,,Fighting]Hippowdon||Leftovers|SandStream|curse,slackoff,earthquake,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Rock]Hariyama||AssaultVest|ThickFat|headlongrush,knockoff,closecombat,heavyslam||85,85,85,85,85,85|F|||87|,,,,,Steel]Komala||AssaultVest|Comatose|knockoff,earthquake,bodyslam,rapidspin||85,85,85,85,85,85|F|||87|,,,,,Ghost",
   "curation": {

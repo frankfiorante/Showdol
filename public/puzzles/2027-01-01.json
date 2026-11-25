@@ -19,6 +19,251 @@
     "Cryogonal",
     "Flareon"
   ],
+  "playerSets": [
+    {
+      "species": "Zekrom",
+      "level": 71,
+      "types": [
+        "Dragon",
+        "Electric"
+      ],
+      "ability": "Teravolt",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 259,
+      "stats": {
+        "atk": 254,
+        "def": 212,
+        "spa": 212,
+        "spd": 183,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Bolt Strike",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Giratina-Origin",
+      "level": 72,
+      "types": [
+        "Ghost",
+        "Dragon"
+      ],
+      "ability": "Levitate",
+      "item": "Griseous Core",
+      "teraType": "Steel",
+      "maxhp": 335,
+      "stats": {
+        "atk": 215,
+        "def": 186,
+        "spa": 215,
+        "spd": 186,
+        "spe": 172
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Raichu-Alola",
+      "level": 87,
+      "types": [
+        "Electric",
+        "Psychic"
+      ],
+      "ability": "Surge Surfer",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 246,
+      "stats": {
+        "atk": 152,
+        "def": 137,
+        "spa": 215,
+        "spd": 198,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Avalugg",
+      "level": 88,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Sturdy",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 310,
+      "stats": {
+        "atk": 256,
+        "def": 374,
+        "spa": 128,
+        "spd": 131,
+        "spe": 100
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Avalanche",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cryogonal",
+      "level": 89,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Poison",
+      "maxhp": 287,
+      "stats": {
+        "atk": 94,
+        "def": 140,
+        "spa": 220,
+        "spd": 291,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Haze",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Flareon",
+      "level": 90,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Guts",
+      "item": "Toxic Orb",
+      "teraType": "Normal",
+      "maxhp": 263,
+      "stats": {
+        "atk": 285,
+        "def": 159,
+        "spa": 222,
+        "spd": 249,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Zekrom||Leftovers|Teravolt|boltstrike,substitute,dragondance,outrage||85,85,85,85,85,85|N|||71|,,,,,Steel]Giratina|GiratinaOrigin|GriseousCore|Levitate|dracometeor,defog,poltergeist,dragontail||85,85,85,85,85,85|N|||72|,,,,,Steel]Raichu|RaichuAlola|LifeOrb|SurgeSurfer|thunderbolt,psyshock,focusblast,nastyplot||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Avalugg||HeavyDutyBoots|Sturdy|recover,bodypress,curse,avalanche||85,85,85,85,85,85|M|||88|,,,,,Fighting]Cryogonal||HeavyDutyBoots|Levitate|recover,freezedry,haze,flashcannon||85,,85,85,85,85|N|,0,,,,||89|,,,,,Poison]Flareon||ToxicOrb|Guts|flareblitz,willowisp,facade,trailblaze||85,85,85,85,85,85|M|||90|,,,,,Normal",
   "ai": "Clefable||Leftovers|Unaware|moonlight,stealthrock,thunderwave,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Poison]Spiritomb||Leftovers|Infiltrator|poltergeist,painsplit,toxic,foulplay||85,85,85,85,85,85|M|||89|,,,,,Poison]Drifblim||SitrusBerry|Unburden|strengthsap,airslash,calmmind,shadowball||73,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy]Venomoth||HeavyDutyBoots|TintedLens|sludgewave,sleeppowder,quiverdance,bugbuzz||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Scovillain||ChoiceSpecs|Chlorophyll|energyball,flamethrower,overheat,leafstorm||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire]Heracross||ChoiceBand|Moxie|closecombat,megahorn,earthquake,stoneedge||85,85,85,85,85,85|F|||80|,,,,,Rock",
   "curation": {

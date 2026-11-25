@@ -19,6 +19,251 @@
     "Porygon-Z",
     "Veluza"
   ],
+  "playerSets": [
+    {
+      "species": "Sandy Shocks",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Ground"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 267,
+      "stats": {
+        "atk": 134,
+        "def": 201,
+        "spa": 240,
+        "spd": 182,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Bronzong",
+      "level": 88,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 261,
+      "stats": {
+        "atk": 207,
+        "def": 254,
+        "spa": 189,
+        "spd": 254,
+        "spe": 108
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Hypnosis",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bellossom",
+      "level": 84,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Leftovers",
+      "teraType": "Rock",
+      "maxhp": 263,
+      "stats": {
+        "atk": 139,
+        "def": 208,
+        "spa": 199,
+        "spd": 216,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Banette",
+      "level": 93,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Cursed Body",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 270,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 207,
+        "spd": 170,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Porygon-Z",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Download",
+      "item": "Choice Scarf",
+      "teraType": "Ghost",
+      "maxhp": 277,
+      "stats": {
+        "atk": 137,
+        "def": 164,
+        "spa": 272,
+        "spd": 172,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Tri Attack",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Veluza",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Sharpness",
+      "item": "Sitrus Berry",
+      "teraType": "Water",
+      "maxhp": 292,
+      "stats": {
+        "atk": 222,
+        "def": 173,
+        "spa": 181,
+        "spd": 159,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Fillet Away",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Aqua Cutter",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Sandy Shocks||HeavyDutyBoots|Protosynthesis|earthpower,spikes,voltswitch,thunderbolt||85,,85,85,85,85|N|,0,,,,||80|,,,,,Ground]Bronzong||Leftovers|Levitate|ironhead,hypnosis,psychicnoise,earthquake||85,85,85,85,85,85|N|||88|,,,,,Water]Bellossom||Leftovers|Chlorophyll|quiverdance,strengthsap,terablast,gigadrain||85,,85,85,85,85|F|,0,,,,||84|,,,,,Rock]Banette||LifeOrb|CursedBody|shadowsneak,poltergeist,gunkshot,swordsdance||85,85,85,85,85,85|F|||93|,,,,,Poison]Porygon-Z||ChoiceScarf|Download|shadowball,trick,triattack,icebeam||85,,85,85,85,85|N|,0,,,,||83|,,,,,Ghost]Veluza||SitrusBerry|Sharpness|psychocut,filletaway,nightslash,aquacutter||85,85,85,85,85,85|M|||85|,,,,,Water",
   "ai": "Spectrier||Leftovers|GrimNeigh|drainingkiss,shadowball,nastyplot,substitute||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fairy]Hitmontop||Leftovers|Technician|tripleaxel,bulkup,closecombat,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Ice]Furret||LifeOrb|Frisk|brickbreak,tidyup,doubleedge,knockoff||85,85,85,85,85,85|M|||94|,,,,,Ghost]Mabosstiff||ChoiceScarf|Stakeout|crunch,wildcharge,playrough,psychicfangs||85,85,85,85,85,85|M|||86|,,,,,Fairy]Terapagos||ChestoBerry|TeraShift|rest,earthpower,terastarstorm,calmmind||85,,85,85,85,85|M|,0,,,,||77|,,,,,Stellar]Gliscor||ToxicOrb|PoisonHeal|substitute,toxic,protect,earthquake||85,85,85,85,85,85|M|||76|,,,,,Water",
   "curation": {

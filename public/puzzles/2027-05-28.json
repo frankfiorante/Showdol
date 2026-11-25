@@ -19,6 +19,252 @@
     "Feraligatr",
     "Tropius"
   ],
+  "playerSets": [
+    {
+      "species": "Brambleghast",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "ability": "Wind Rider",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 240,
+      "stats": {
+        "atk": 253,
+        "def": 173,
+        "spa": 191,
+        "spd": 173,
+        "spe": 209
+      },
+      "moves": [
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Pawmot",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Fighting"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Leppa Berry",
+      "teraType": "Electric",
+      "maxhp": 243,
+      "stats": {
+        "atk": 230,
+        "def": 158,
+        "spa": 158,
+        "spd": 142,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Revival Blessing",
+          "type": "Normal",
+          "pp": 1
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Double Shock",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Nuzzle",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Duraludon",
+      "level": 82,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Light Metal",
+      "item": "Eviolite",
+      "teraType": "Fighting",
+      "maxhp": 249,
+      "stats": {
+        "atk": 160,
+        "def": 236,
+        "spa": 244,
+        "spd": 129,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Luxray",
+      "level": 88,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Guts",
+      "item": "Flame Orb",
+      "teraType": "Normal",
+      "maxhp": 283,
+      "stats": {
+        "atk": 261,
+        "def": 189,
+        "spa": 217,
+        "spd": 189,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Feraligatr",
+      "level": 79,
+      "types": [
+        "Water"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 264,
+      "stats": {
+        "atk": 211,
+        "def": 204,
+        "spa": 170,
+        "spd": 177,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Tropius",
+      "level": 91,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Ground",
+      "maxhp": 328,
+      "stats": {
+        "atk": 176,
+        "def": 203,
+        "spa": 183,
+        "spd": 210,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Dual Wingbeat",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Brambleghast||Leftovers|WindRider|powerwhip,substitute,poltergeist,leechseed||85,85,85,85,85,85|F|||88|,,,,,Steel]Pawmot||LeppaBerry|VoltAbsorb|revivalblessing,closecombat,doubleshock,nuzzle||85,85,85,85,85,85|M|||80|,,,,,Electric]Duraludon||Eviolite|LightMetal|dracometeor,bodypress,stealthrock,flashcannon||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fighting]Luxray||FlameOrb|Guts|trailblaze,supercellslam,facade,throatchop||81,85,85,85,85,85|F|||88|,,,,,Normal]Feraligatr||LifeOrb|SheerForce|trailblaze,liquidation,dragondance,icepunch||85,85,85,85,85,85|M|||79|,,,,,Water]Tropius||SitrusBerry|Harvest|earthquake,dualwingbeat,dragondance,leafblade||85,85,85,85,85,85|F|||91|,,,,,Ground",
   "ai": "Lilligant||LifeOrb|OwnTempo|alluringvoice,petaldance,sleeppowder,quiverdance||85,,85,85,85,85|F|,0,,,,||86|,,,,,Grass]Trevenant||LifeOrb|NaturalCure|rest,hornleech,drainpunch,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Fighting]Salamence||HeavyDutyBoots|Moxie|outrage,dragondance,dualwingbeat,roost||85,85,85,85,85,85|F|||77|,,,,,Steel]Toxtricity||ThroatSpray|PunkRock|gunkshot,boomburst,shiftgear,overdrive||85,85,85,85,85,85|M|||82|,,,,,Normal]Qwilfish||HeavyDutyBoots|Intimidate|thunderwave,gunkshot,painsplit,flipturn||85,85,85,85,85,85|M|||86|,,,,,Dark]Camerupt||Leftovers|SolidRock|overheat,willowisp,stealthrock,earthquake||85,85,85,85,85,85|M|||91|,,,,,Grass",
   "curation": {

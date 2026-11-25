@@ -19,6 +19,252 @@
     "Dudunsparce",
     "Landorus-Therian"
   ],
+  "playerSets": [
+    {
+      "species": "Reshiram",
+      "level": 76,
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "ability": "Turboblaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 277,
+      "stats": {
+        "atk": 226,
+        "def": 196,
+        "spa": 272,
+        "spd": 226,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Blue Flare",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Alomomola",
+      "level": 87,
+      "types": [
+        "Water"
+      ],
+      "ability": "Regenerator",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 429,
+      "stats": {
+        "atk": 180,
+        "def": 189,
+        "spa": 119,
+        "spd": 128,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Tinkaton",
+      "level": 82,
+      "types": [
+        "Fairy",
+        "Steel"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 274,
+      "stats": {
+        "atk": 170,
+        "def": 173,
+        "spa": 162,
+        "spd": 219,
+        "spe": 201
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Gigaton Hammer",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Heracross",
+      "level": 80,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Moxie",
+      "item": "Choice Scarf",
+      "teraType": "Bug",
+      "maxhp": 259,
+      "stats": {
+        "atk": 246,
+        "def": 166,
+        "spa": 110,
+        "spd": 198,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dudunsparce",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Serene Grace",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 343,
+      "stats": {
+        "atk": 214,
+        "def": 180,
+        "spa": 189,
+        "spd": 172,
+        "spe": 139
+      },
+      "moves": [
+        {
+          "name": "Glare",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Headbutt",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Landorus-Therian",
+      "level": 76,
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 260,
+      "stats": {
+        "atk": 264,
+        "def": 181,
+        "spa": 204,
+        "spd": 166,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Reshiram||HeavyDutyBoots|Turboblaze|blueflare,dracometeor,dragontail,earthpower||85,85,85,85,85,85|N|||76|,,,,,Ground]Alomomola||Leftovers|Regenerator|wish,scald,protect,flipturn||85,85,85,85,85,85|M|||87|,,,,,Poison]Tinkaton||Leftovers|MoldBreaker|swordsdance,gigatonhammer,protect,playrough||85,85,85,85,85,85|F|||82|,,,,,Steel]Heracross||ChoiceScarf|Moxie|knockoff,earthquake,closecombat,megahorn||85,85,85,85,85,85|M|||80|,,,,,Bug]Dudunsparce||Leftovers|SereneGrace|glare,earthquake,roost,headbutt||85,85,85,85,85,85|F|||83|,,,,,Ground]Landorus|LandorusTherian|Leftovers|Intimidate|stealthrock,earthquake,uturn,taunt||85,85,85,85,85,85|M|||76|,,,,,Ground",
   "ai": "Cyclizar||HeavyDutyBoots|Regenerator|taunt,rapidspin,dracometeor,shedtail||85,85,85,85,85,85|F|||84|,,,,,Steel]Uxie||Leftovers|Levitate|uturn,yawn,psychicnoise,knockoff||85,85,85,85,85,85|N|||83|,,,,,Steel]Porygon2||Eviolite|Download|thunderwave,shadowball,recover,terablast||85,85,85,85,85,85|N|||81|,,,,,Fairy]Toxtricity||ThroatSpray|PunkRock|gunkshot,boomburst,shiftgear,overdrive||85,85,85,85,85,85|M|||82|,,,,,Normal]Slowbro||Leftovers|Regenerator|scald,psyshock,slackoff,thunderwave||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Eiscue||SitrusBerry|IceFace|bellydrum,icespinner,zenheadbutt,liquidation||81,85,85,85,85,85|F|||88|,,,,,Water",
   "curation": {

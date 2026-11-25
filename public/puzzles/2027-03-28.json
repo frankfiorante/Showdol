@@ -19,6 +19,252 @@
     "Grimmsnarl",
     "Sudowoodo"
   ],
+  "playerSets": [
+    {
+      "species": "Articuno-Galar",
+      "level": 84,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Competitive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 288,
+      "stats": {
+        "atk": 147,
+        "def": 191,
+        "spa": 258,
+        "spd": 216,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Polteageist-Antique",
+      "level": 78,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Cursed Body",
+      "item": "White Herb",
+      "teraType": "Psychic",
+      "maxhp": 222,
+      "stats": {
+        "atk": 106,
+        "def": 146,
+        "spa": 254,
+        "spd": 223,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Stored Power",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Vikavolt",
+      "level": 83,
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 263,
+      "stats": {
+        "atk": 121,
+        "def": 197,
+        "spa": 288,
+        "spd": 172,
+        "spe": 119
+      },
+      "moves": [
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Iron Boulder",
+      "level": 77,
+      "types": [
+        "Rock",
+        "Psychic"
+      ],
+      "ability": "Quark Drive",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 265,
+      "stats": {
+        "atk": 229,
+        "def": 168,
+        "spa": 149,
+        "spd": 211,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Mighty Cleave",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Grimmsnarl",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 293,
+      "stats": {
+        "atk": 247,
+        "def": 156,
+        "spa": 205,
+        "spd": 172,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Spirit Break",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Sudowoodo",
+      "level": 94,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Rock Head",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 284,
+      "stats": {
+        "atk": 241,
+        "def": 270,
+        "spa": 110,
+        "spd": 176,
+        "spe": 110
+      },
+      "moves": [
+        {
+          "name": "Head Smash",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|recover,calmmind,psyshock,hurricane||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Polteageist|PolteageistAntique|WhiteHerb|CursedBody|shadowball,storedpower,shellsmash,strengthsap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Psychic]Vikavolt||HeavyDutyBoots|Levitate|bugbuzz,energyball,stickyweb,discharge||85,,85,85,85,85|M|,0,,,,||83|,,,,,Electric]Iron Boulder||LifeOrb|QuarkDrive|closecombat,swordsdance,zenheadbutt,mightycleave||85,85,85,85,85,85|N|||77|,,,,,Fighting]Grimmsnarl||Leftovers|Prankster|taunt,thunderwave,suckerpunch,spiritbreak||85,85,85,85,85,85|M|||83|,,,,,Poison]Sudowoodo||Leftovers|RockHead|headsmash,woodhammer,stealthrock,suckerpunch||85,85,85,85,85,85|F|||94|,,,,,Grass",
   "ai": "Mewtwo||LifeOrb|Pressure|aurasphere,psystrike,nastyplot,darkpulse||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fighting]Ursaluna||FlameOrb|Guts|throatchop,headlongrush,swordsdance,facade||85,85,85,85,85,85|F|||79|,,,,,Normal]Torkoal||HeavyDutyBoots|Drought|solarbeam,lavaplume,rapidspin,yawn||85,85,85,85,85,85|F|||88|,,,,,Grass]Toedscruel||Leftovers|MyceliumMight|earthpower,spore,toxic,gigadrain||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Virizion||LifeOrb|Justified|leafblade,stoneedge,closecombat,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock]Glimmora||PowerHerb|ToxicDebris|energyball,meteorbeam,sludgewave,earthpower||85,,85,85,85,85|M|,0,,,,||75|,,,,,Grass",
   "curation": {

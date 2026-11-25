@@ -19,6 +19,252 @@
     "Zekrom",
     "Lycanroc"
   ],
+  "playerSets": [
+    {
+      "species": "Indeedee",
+      "level": 84,
+      "types": [
+        "Psychic",
+        "Normal"
+      ],
+      "ability": "Psychic Surge",
+      "item": "Life Orb",
+      "teraType": "Psychic",
+      "maxhp": 238,
+      "stats": {
+        "atk": 114,
+        "def": 141,
+        "spa": 225,
+        "spd": 208,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Expanding Force",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Tatsugiri",
+      "level": 87,
+      "types": [
+        "Dragon",
+        "Water"
+      ],
+      "ability": "Storm Drain",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 260,
+      "stats": {
+        "atk": 137,
+        "def": 154,
+        "spa": 259,
+        "spd": 215,
+        "spe": 192
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Jumpluff",
+      "level": 87,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "ability": "Infiltrator",
+      "teraType": "Steel",
+      "maxhp": 271,
+      "stats": {
+        "atk": 145,
+        "def": 172,
+        "spa": 145,
+        "spd": 215,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Hoopa",
+      "level": 85,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "ability": "Magician",
+      "item": "Life Orb",
+      "teraType": "Ghost",
+      "maxhp": 275,
+      "stats": {
+        "atk": 192,
+        "def": 151,
+        "spa": 304,
+        "spd": 270,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Zekrom",
+      "level": 71,
+      "types": [
+        "Dragon",
+        "Electric"
+      ],
+      "ability": "Teravolt",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 259,
+      "stats": {
+        "atk": 254,
+        "def": 212,
+        "spa": 212,
+        "spd": 183,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Bolt Strike",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Lycanroc",
+      "level": 86,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Sand Rush",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 247,
+        "def": 161,
+        "spa": 144,
+        "spd": 161,
+        "spe": 242
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Accelerock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Indeedee||LifeOrb|PsychicSurge|expandingforce,calmmind,hypervoice,shadowball||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,hydropump,rapidspin,nastyplot||85,85,85,85,85,85|F|||87|,,,,,Steel]Jumpluff|||Infiltrator|sleeppowder,uturn,strengthsap,acrobatics||81,85,85,85,85,85|F|||87|,,,,,Steel]Hoopa||LifeOrb|Magician|nastyplot,psychic,focusblast,shadowball||85,,85,85,85,85|N|,0,,,,||85|,,,,,Ghost]Zekrom||Leftovers|Teravolt|outrage,boltstrike,dragondance,substitute||85,85,85,85,85,85|N|||71|,,,,,Fairy]Lycanroc||LifeOrb|SandRush|swordsdance,accelerock,closecombat,stoneedge||85,85,85,85,85,85|F|||86|,,,,,Fighting",
   "ai": "Bombirdier||ChoiceBand|RockyPayload|bravebird,knockoff,stoneedge,suckerpunch||85,85,85,85,85,85|M|||85|,,,,,Rock]Sandy Shocks||Leftovers|Protosynthesis|spikes,thunderbolt,thunderwave,earthpower||85,,85,85,85,85|N|,0,,,,||80|,,,,,Electric]Great Tusk||AssaultVest|Protosynthesis|rapidspin,headlongrush,stoneedge,closecombat||85,85,85,85,85,85|N|||77|,,,,,Ground]Politoed||ChoiceSpecs|Drizzle|weatherball,focusblast,icebeam,hydropump||85,,85,85,85,85|M|,0,,,,||88|,,,,,Water]Plusle||LifeOrb|LightningRod|alluringvoice,thunderbolt,grassknot,nastyplot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Fairy]Reshiram||HeavyDutyBoots|Turboblaze|dracometeor,willowisp,earthpower,blueflare||85,,85,85,85,85|N|,0,,,,||76|,,,,,Fire",
   "curation": {

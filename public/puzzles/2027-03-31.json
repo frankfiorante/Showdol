@@ -19,6 +19,252 @@
     "Swanna",
     "Jolteon"
   ],
+  "playerSets": [
+    {
+      "species": "Vikavolt",
+      "level": 83,
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 263,
+      "stats": {
+        "atk": 121,
+        "def": 197,
+        "spa": 288,
+        "spd": 172,
+        "spe": 119
+      },
+      "moves": [
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Probopass",
+      "level": 91,
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "ability": "Magnet Pull",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 257,
+      "stats": {
+        "atk": 105,
+        "def": 316,
+        "spa": 188,
+        "spd": 325,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Palossand",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Ground"
+      ],
+      "ability": "Water Compaction",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 296,
+      "stats": {
+        "atk": 138,
+        "def": 247,
+        "spa": 229,
+        "spd": 184,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Shore Up",
+          "type": "Ground",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mew",
+      "level": 82,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Synchronize",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 298,
+      "stats": {
+        "atk": 211,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Swanna",
+      "level": 89,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Hydration",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 206,
+        "def": 163,
+        "spa": 206,
+        "spd": 163,
+        "spe": 225
+      },
+      "moves": [
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Jolteon",
+      "level": 84,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fairy",
+      "maxhp": 246,
+      "stats": {
+        "atk": 114,
+        "def": 149,
+        "spa": 233,
+        "spd": 208,
+        "spe": 267
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Vikavolt||HeavyDutyBoots|Levitate|stickyweb,thunderbolt,energyball,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Probopass||Leftovers|MagnetPull|irondefense,flashcannon,bodypress,thunderwave||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fighting]Palossand||Leftovers|WaterCompaction|shadowball,earthpower,stealthrock,shoreup||85,,85,85,85,85|F|,0,,,,||89|,,,,,Poison]Mew||LifeOrb|Synchronize|knockoff,psychicfangs,swordsdance,closecombat||85,85,85,85,85,85|N|||82|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|defog,hydropump,roost,bravebird||85,85,85,85,85,85|M|||89|,,,,,Ground]Jolteon||HeavyDutyBoots|VoltAbsorb|thunderbolt,alluringvoice,calmmind,voltswitch||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fairy",
   "ai": "Qwilfish|QwilfishHisui|Eviolite|Intimidate|toxicspikes,gunkshot,crunch,spikes||85,85,85,85,85,85|M|||83|,,,,,Flying]Raikou||Leftovers|Pressure|calmmind,scald,substitute,thunderbolt||85,,85,85,85,85|N|,0,,,,||82|,,,,,Water]Wugtrio||ChoiceBand|Gooey|aquajet,stompingtantrum,throatchop,liquidation||85,85,85,85,85,85|M|||91|,,,,,Ground]Azelf||LifeOrb|Levitate|explosion,psychic,encore,fireblast||85,85,85,85,85,85|N|||82|,,,,,Fire]Lycanroc||ChoiceBand|SandRush|closecombat,stoneedge,crunch,psychicfangs||85,85,85,85,85,85|F|||86|,,,,,Fighting]Ambipom||SilkScarf|Technician|knockoff,fakeout,lowkick,doubleedge||85,85,85,85,85,85|F|||84|,,,,,Normal",
   "curation": {

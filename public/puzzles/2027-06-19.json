@@ -19,6 +19,251 @@
     "Arbok",
     "Scrafty"
   ],
+  "playerSets": [
+    {
+      "species": "Cinccino",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Loaded Dice",
+      "teraType": "Normal",
+      "maxhp": 260,
+      "stats": {
+        "atk": 205,
+        "def": 147,
+        "spa": 156,
+        "spd": 147,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Tail Slap",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hitmonlee",
+      "level": 85,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 223,
+      "stats": {
+        "atk": 253,
+        "def": 139,
+        "spa": 108,
+        "spd": 236,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "High Jump Kick",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bruxish",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Strong Jaw",
+      "item": "Choice Scarf",
+      "teraType": "Psychic",
+      "maxhp": 254,
+      "stats": {
+        "atk": 227,
+        "def": 168,
+        "spa": 168,
+        "spd": 168,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Sawsbuck-Winter",
+      "level": 88,
+      "types": [
+        "Normal",
+        "Grass"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 284,
+      "stats": {
+        "atk": 226,
+        "def": 173,
+        "spa": 156,
+        "spd": 173,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Headbutt",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Arbok",
+      "level": 87,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 246,
+      "stats": {
+        "atk": 215,
+        "def": 170,
+        "spa": 163,
+        "spd": 187,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Glare",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Scrafty",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 244,
+      "stats": {
+        "atk": 197,
+        "def": 239,
+        "spa": 122,
+        "spd": 239,
+        "spe": 144
+      },
+      "moves": [
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Cinccino||LoadedDice|Technician|tripleaxel,bulletseed,uturn,tailslap||85,85,85,85,85,85|M|||83|,,,,,Normal]Hitmonlee||ChoiceBand|Reckless|knockoff,machpunch,poisonjab,highjumpkick||81,85,85,85,85,85|M|||85|,,,,,Fighting]Bruxish||ChoiceScarf|StrongJaw|flipturn,wavecrash,crunch,psychicfangs||85,85,85,85,85,85|F|||85|,,,,,Psychic]Sawsbuck|SawsbuckWinter|LifeOrb|SereneGrace|swordsdance,headbutt,hornleech,highhorsepower||85,85,85,85,85,85|F|||88|,,,,,Normal]Arbok||Leftovers|Intimidate|knockoff,glare,toxicspikes,gunkshot||85,85,85,85,85,85|M|||87|,,,,,Dark]Scrafty||Leftovers|Intimidate|poisonjab,dragondance,knockoff,drainpunch||85,85,85,85,85,85|M|||83|,,,,,Poison",
   "ai": "Wigglytuff||Leftovers|Competitive|alluringvoice,wish,protect,thunderwave||85,,85,85,85,85|M|,0,,,,||96|,,,,,Poison]Grimmsnarl||Leftovers|Prankster|spiritbreak,taunt,suckerpunch,partingshot||85,85,85,85,85,85|M|||83|,,,,,Steel]Solgaleo||WeaknessPolicy|FullMetalBody|flamecharge,psychic,sunsteelstrike,earthquake||85,85,85,85,85,85|N|||74|,,,,,Ground]Tornadus||ChoiceSpecs|Defiant|heatwave,bleakwindstorm,uturn,grassknot||81,85,85,85,85,85|M|||82|,,,,,Flying]Vespiquen||HeavyDutyBoots|Pressure|airslash,roost,uturn,toxic||85,85,85,85,85,85|F|||99|,,,,,Steel]Necrozma||LifeOrb|PrismArmor|earthquake,knockoff,photongeyser,swordsdance||85,85,85,85,85,85|N|||80|,,,,,Ground",
   "curation": {

@@ -19,6 +19,251 @@
     "Heracross",
     "Gholdengo"
   ],
+  "playerSets": [
+    {
+      "species": "Mightyena",
+      "level": 96,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Assault Vest",
+      "teraType": "Fairy",
+      "maxhp": 290,
+      "stats": {
+        "atk": 227,
+        "def": 189,
+        "spa": 170,
+        "spd": 170,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Poison Fang",
+          "type": "Poison",
+          "pp": 24
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Super Fang",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Wyrdeer",
+      "level": 87,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 321,
+      "stats": {
+        "atk": 232,
+        "def": 175,
+        "spa": 232,
+        "spd": 180,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Shaymin",
+      "level": 82,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Natural Cure",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 298,
+      "stats": {
+        "atk": 169,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Seed Flare",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Conkeldurr",
+      "level": 80,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Guts",
+      "item": "Flame Orb",
+      "teraType": "Normal",
+      "maxhp": 299,
+      "stats": {
+        "atk": 270,
+        "def": 198,
+        "spa": 134,
+        "spd": 150,
+        "spe": 118
+      },
+      "moves": [
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Heracross",
+      "level": 80,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Moxie",
+      "item": "Choice Band",
+      "teraType": "Bug",
+      "maxhp": 259,
+      "stats": {
+        "atk": 246,
+        "def": 166,
+        "spa": 110,
+        "spd": 198,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Gholdengo",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "ability": "Good as Gold",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 261,
+      "stats": {
+        "atk": 97,
+        "def": 191,
+        "spa": 249,
+        "spd": 185,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Make It Rain",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Mightyena||AssaultVest|Intimidate|poisonfang,playrough,throatchop,superfang||85,85,85,85,85,85|M|||96|,,,,,Fairy]Wyrdeer||Leftovers|Intimidate|thunderwave,bodyslam,earthquake,psychicnoise||85,85,85,85,85,85|F|||87|,,,,,Ground]Shaymin||Leftovers|NaturalCure|airslash,substitute,leechseed,seedflare||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Conkeldurr||FlameOrb|Guts|machpunch,knockoff,closecombat,facade||85,85,85,85,85,85|M|||80|,,,,,Normal]Heracross||ChoiceBand|Moxie|earthquake,closecombat,stoneedge,megahorn||85,85,85,85,85,85|F|||80|,,,,,Bug]Gholdengo||Leftovers|GoodasGold|nastyplot,recover,makeitrain,shadowball||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water",
   "ai": "Garganacl||Leftovers|PurifyingSalt|irondefense,recover,saltcure,bodypress||85,85,85,85,85,85|F|||80|,,,,,Dragon]Cinderace||HeavyDutyBoots|Libero|courtchange,pyroball,willowisp,uturn||85,85,85,85,85,85|M|||77|,,,,,Grass]Annihilape||Leftovers|Defiant|ragefist,bulkup,drainpunch,taunt||85,85,85,85,85,85|M|||76|,,,,,Water]Weezing||Leftovers|Levitate|fireblast,sludgebomb,willowisp,painsplit||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Mamoswine||LifeOrb|ThickFat|earthquake,iciclecrash,iceshard,stealthrock||85,85,85,85,85,85|M|||81|,,,,,Ground]Florges|FlorgesOrange|Leftovers|FlowerVeil|calmmind,wish,protect,moonblast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
   "curation": {

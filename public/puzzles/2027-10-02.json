@@ -19,6 +19,251 @@
     "Cetitan",
     "Chimecho"
   ],
+  "playerSets": [
+    {
+      "species": "Raichu-Alola",
+      "level": 87,
+      "types": [
+        "Electric",
+        "Psychic"
+      ],
+      "ability": "Surge Surfer",
+      "item": "Choice Specs",
+      "teraType": "Fairy",
+      "maxhp": 246,
+      "stats": {
+        "atk": 152,
+        "def": 137,
+        "spa": 215,
+        "spd": 198,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Alcremie-Ruby-Cream",
+      "level": 90,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Aroma Veil",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 263,
+      "stats": {
+        "atk": 113,
+        "def": 186,
+        "spa": 249,
+        "spd": 269,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Morpeko",
+      "level": 88,
+      "types": [
+        "Electric",
+        "Dark"
+      ],
+      "ability": "Hunger Switch",
+      "item": "Leftovers",
+      "teraType": "Electric",
+      "maxhp": 245,
+      "stats": {
+        "atk": 217,
+        "def": 152,
+        "spa": 173,
+        "spd": 152,
+        "spe": 221
+      },
+      "moves": [
+        {
+          "name": "Aura Wheel",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Goodra-Hisui",
+      "level": 82,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Assault Vest",
+      "teraType": "Dragon",
+      "maxhp": 265,
+      "stats": {
+        "atk": 211,
+        "def": 211,
+        "spa": 228,
+        "spd": 293,
+        "spe": 146
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cetitan",
+      "level": 82,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Thick Fat",
+      "item": "Sitrus Berry",
+      "teraType": "Ice",
+      "maxhp": 412,
+      "stats": {
+        "atk": 232,
+        "def": 154,
+        "spa": 121,
+        "spd": 137,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Belly Drum",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Chimecho",
+      "level": 93,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 290,
+      "stats": {
+        "atk": 98,
+        "def": 202,
+        "spa": 230,
+        "spd": 220,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|thunderbolt,alluringvoice,psychic,surf||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fairy]Alcremie|AlcremieRubyCream|Leftovers|AromaVeil|recover,calmmind,alluringvoice,terablast||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground]Morpeko||Leftovers|HungerSwitch|aurawheel,rapidspin,knockoff,protect||85,85,85,85,85,85|M|||88|,,,,,Electric]Goodra|GoodraHisui|AssaultVest|SapSipper|earthquake,knockoff,dracometeor,heavyslam||85,85,85,85,85,85|F|||82|,,,,,Dragon]Cetitan||SitrusBerry|ThickFat|bellydrum,icespinner,iceshard,earthquake||81,85,85,85,85,85|M|||82|,,,,,Ice]Chimecho||Leftovers|Levitate|recover,dazzlinggleam,psychicnoise,calmmind||85,,85,85,85,85|F|,0,,,,||93|,,,,,Steel",
   "ai": "Primarina||Leftovers|LiquidVoice|calmmind,psychicnoise,drainingkiss,moonblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Blastoise||WhiteHerb|Torrent|icebeam,hydropump,shellsmash,earthquake||85,85,85,85,85,85|F|||80|,,,,,Steel]Porygon2||Eviolite|Download|shadowball,terablast,recover,thunderwave||85,85,85,85,85,85|N|||81|,,,,,Fairy]Registeel||Leftovers|ClearBody|ironhead,irondefense,thunderwave,bodypress||85,85,85,85,85,85|N|||81|,,,,,Fighting]Charizard||HeavyDutyBoots|Blaze|earthquake,hurricane,flamethrower,willowisp||85,85,85,85,85,85|F|||85|,,,,,Dragon]Piloswine||Eviolite|ThickFat|earthquake,iciclecrash,iceshard,stealthrock||85,85,85,85,85,85|F|||85|,,,,,Poison",
   "curation": {

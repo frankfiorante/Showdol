@@ -19,6 +19,251 @@
     "Mightyena",
     "Excadrill"
   ],
+  "playerSets": [
+    {
+      "species": "Slither Wing",
+      "level": 81,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 270,
+      "stats": {
+        "atk": 265,
+        "def": 175,
+        "spa": 184,
+        "spd": 217,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Torterra",
+      "level": 78,
+      "types": [
+        "Grass",
+        "Ground"
+      ],
+      "ability": "Overgrow",
+      "item": "Loaded Dice",
+      "teraType": "Water",
+      "maxhp": 276,
+      "stats": {
+        "atk": 215,
+        "def": 209,
+        "spa": 162,
+        "spd": 178,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Headlong Rush",
+          "type": "Ground",
+          "pp": 8
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Rock Blast",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Arbok",
+      "level": 87,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 246,
+      "stats": {
+        "atk": 215,
+        "def": 170,
+        "spa": 163,
+        "spd": 187,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hitmonlee",
+      "level": 85,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Scarf",
+      "teraType": "Fighting",
+      "maxhp": 223,
+      "stats": {
+        "atk": 253,
+        "def": 139,
+        "spa": 108,
+        "spd": 236,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "High Jump Kick",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mightyena",
+      "level": 96,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Choice Band",
+      "teraType": "Poison",
+      "maxhp": 290,
+      "stats": {
+        "atk": 227,
+        "def": 189,
+        "spa": 170,
+        "spd": 170,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Poison Fang",
+          "type": "Poison",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Excadrill",
+      "level": 79,
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Assault Vest",
+      "teraType": "Grass",
+      "maxhp": 303,
+      "stats": {
+        "atk": 259,
+        "def": 140,
+        "spa": 125,
+        "spd": 148,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Slither Wing||HeavyDutyBoots|Protosynthesis|uturn,willowisp,closecombat,morningsun||85,85,85,85,85,85|N|||81|,,,,,Steel]Torterra||LoadedDice|Overgrow|headlongrush,shellsmash,rockblast,bulletseed||85,85,85,85,85,85|F|||78|,,,,,Water]Arbok||Leftovers|Intimidate|suckerpunch,coil,gunkshot,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Hitmonlee||ChoiceScarf|Reckless|knockoff,stoneedge,poisonjab,highjumpkick||81,85,85,85,85,85|M|||85|,,,,,Fighting]Mightyena||ChoiceBand|Intimidate|playrough,poisonfang,suckerpunch,throatchop||85,85,85,85,85,85|F|||96|,,,,,Poison]Excadrill||AssaultVest|MoldBreaker|rapidspin,rockslide,earthquake,ironhead||85,85,85,85,85,85|F|||79|,,,,,Grass",
   "ai": "Amoonguss||Leftovers|Regenerator|spore,stompingtantrum,sludgebomb,gigadrain||85,85,85,85,85,85|F|||82|,,,,,Water]Scovillain||ChoiceScarf|Chlorophyll|overheat,leafstorm,flamethrower,energyball||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire]Kingambit||Leftovers|SupremeOverlord|swordsdance,kowtowcleave,suckerpunch,ironhead||85,85,85,85,85,85|F|||74|,,,,,Ghost]Groudon||Leftovers|Drought|heatcrash,precipiceblades,stealthrock,roar||85,85,85,85,85,85|N|||72|,,,,,Fire]Hitmontop||Leftovers|Technician|rapidspin,closecombat,tripleaxel,bulkup||85,85,85,85,85,85|M|||88|,,,,,Ice]Galvantula||HeavyDutyBoots|CompoundEyes|thunder,stickyweb,bugbuzz,energyball||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric",
   "curation": {

@@ -19,6 +19,253 @@
     "Ting-Lu",
     "Exeggutor-Alola"
   ],
+  "playerSets": [
+    {
+      "species": "Iron Crown",
+      "level": 78,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Quark Drive",
+      "item": "Choice Specs",
+      "teraType": "Fighting",
+      "maxhp": 268,
+      "stats": {
+        "atk": 117,
+        "def": 201,
+        "spa": 235,
+        "spd": 214,
+        "spe": 198
+      },
+      "moves": [
+        {
+          "name": "Tachyon Cutter",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Azumarill",
+      "level": 82,
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "ability": "Huge Power",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 298,
+      "stats": {
+        "atk": 129,
+        "def": 178,
+        "spa": 146,
+        "spd": 178,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Orthworm",
+      "level": 88,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Earth Eater",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 305,
+        "spa": 156,
+        "spd": 147,
+        "spe": 165
+      },
+      "moves": [
+        {
+          "name": "Iron Tail",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Calyrex-Shadow",
+      "level": 64,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "ability": "As One (Spectrier)",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 235,
+      "stats": {
+        "atk": 113,
+        "def": 140,
+        "spa": 249,
+        "spd": 166,
+        "spe": 230
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Astral Barrage",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Pollen Puff",
+          "type": "Bug",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ting-Lu",
+      "level": 78,
+      "types": [
+        "Dark",
+        "Ground"
+      ],
+      "ability": "Vessel of Ruin",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 370,
+      "stats": {
+        "atk": 217,
+        "def": 240,
+        "spa": 131,
+        "spd": 170,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Whirlwind",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Exeggutor-Alola",
+      "level": 89,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Frisk",
+      "item": "Choice Specs",
+      "teraType": "Fire",
+      "maxhp": 314,
+      "stats": {
+        "atk": 191,
+        "def": 202,
+        "spa": 273,
+        "spd": 184,
+        "spe": 131
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Iron Crown||ChoiceSpecs|QuarkDrive|tachyoncutter,focusblast,voltswitch,psyshock||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Azumarill||ChoiceBand|HugePower|playrough,aquajet,liquidation,knockoff||85,85,85,85,85,85|F|||82|,,,,,Water]Orthworm||ChestoBerry|EarthEater|irontail,bodypress,rest,coil||85,85,85,85,85,85|F|||88|,,,,,Fighting]Calyrex|CalyrexShadow|LifeOrb|AsOneSpectrier|psyshock,astralbarrage,pollenpuff,nastyplot||85,,85,85,85,85|N|,0,,,,||64|,,,,,Dark]Ting-Lu||Leftovers|VesselofRuin|throatchop,earthquake,whirlwind,stealthrock||85,85,85,85,85,85|N|||78|,,,,,Poison]Exeggutor|ExeggutorAlola|ChoiceSpecs|Frisk|gigadrain,flamethrower,dracometeor,leafstorm||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fire",
   "ai": "Skeledirge||HeavyDutyBoots|Unaware|torchsong,willowisp,hex,slackoff||85,,85,85,85,85|F|,0,,,,||79|,,,,,Water]Greninja||LifeOrb|Protean|darkpulse,grassknot,toxicspikes,hydropump||85,,85,85,85,85|M|,0,,,,||80|,,,,,Water]Toxapex||RockyHelmet|Regenerator|haze,liquidation,recover,toxic||85,85,85,85,85,85|M|||82|,,,,,Steel]Zapdos||HeavyDutyBoots|Static|hurricane,roost,discharge,uturn||85,85,85,85,85,85|N|||78|,,,,,Steel]Vespiquen||HeavyDutyBoots|Pressure|spikes,roost,hurricane,toxic||85,,85,85,85,85|F|,0,,,,||99|,,,,,Steel]Lunala||Leftovers|ShadowShield|moongeistbeam,moonlight,calmmind,psyshock||85,,85,85,85,85|N|,0,,,,||70|,,,,,Dark",
   "curation": {

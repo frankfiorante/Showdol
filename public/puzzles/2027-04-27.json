@@ -19,6 +19,252 @@
     "Incineroar",
     "Shaymin"
   ],
+  "playerSets": [
+    {
+      "species": "Kilowattrel",
+      "level": 83,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 252,
+      "stats": {
+        "atk": 164,
+        "def": 147,
+        "spa": 222,
+        "spd": 147,
+        "spe": 255
+      },
+      "moves": [
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Keldeo-Resolute",
+      "level": 79,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 273,
+      "stats": {
+        "atk": 118,
+        "def": 188,
+        "spa": 249,
+        "spd": 188,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Secret Sword",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Pincurchin",
+      "level": 100,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Electric Surge",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 258,
+      "stats": {
+        "atk": 259,
+        "def": 247,
+        "spa": 239,
+        "spd": 227,
+        "spe": 87
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Zing Zap",
+          "type": "Electric",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Quaquaval",
+      "level": 79,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Moxie",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 264,
+      "stats": {
+        "atk": 235,
+        "def": 172,
+        "spa": 180,
+        "spd": 164,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Aqua Step",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Incineroar",
+      "level": 82,
+      "types": [
+        "Fire",
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Assault Vest",
+      "teraType": "Fighting",
+      "maxhp": 290,
+      "stats": {
+        "atk": 236,
+        "def": 195,
+        "spa": 178,
+        "spd": 195,
+        "spe": 146
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Shaymin",
+      "level": 82,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Natural Cure",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 298,
+      "stats": {
+        "atk": 169,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Seed Flare",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Kilowattrel||HeavyDutyBoots|VoltAbsorb|discharge,roost,uturn,hurricane||85,85,85,85,85,85|M|||83|,,,,,Steel]Keldeo|KeldeoResolute|Leftovers|Justified|secretsword,substitute,surf,calmmind||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel]Pincurchin||Leftovers|ElectricSurge|recover,curse,liquidation,zingzap||85,85,85,85,85,85|M||||,,,,,Water]Quaquaval||Leftovers|Moxie|aquastep,roost,rapidspin,closecombat||85,85,85,85,85,85|F|||79|,,,,,Steel]Incineroar||AssaultVest|Intimidate|knockoff,closecombat,uturn,overheat||85,85,85,85,85,85|M|||82|,,,,,Fighting]Shaymin||Leftovers|NaturalCure|synthesis,airslash,seedflare,earthpower||85,,85,85,85,85|N|,0,,,,||82|,,,,,Ground",
   "ai": "Mienshao||AssaultVest|Regenerator|closecombat,knockoff,fakeout,uturn||85,85,85,85,85,85|M|||83|,,,,,Steel]Dodrio||ChoiceBand|EarlyBird|knockoff,drillrun,quickattack,bravebird||85,85,85,85,85,85|M|||85|,,,,,Flying]Emboar||AssaultVest|Reckless|scald,flareblitz,wildcharge,closecombat||85,85,85,85,85,85|F|||84|,,,,,Electric]Wyrdeer||Leftovers|Intimidate|earthquake,thunderwave,psychicnoise,bodyslam||85,85,85,85,85,85|F|||87|,,,,,Ground]Sylveon||Leftovers|Pixilate|calmmind,wish,protect,hypervoice||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Iron Thorns||BoosterEnergy|QuarkDrive|wildcharge,dragondance,stoneedge,earthquake||85,85,85,85,85,85|N|||81|,,,,,Rock",
   "curation": {

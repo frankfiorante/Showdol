@@ -19,6 +19,253 @@
     "Mimikyu",
     "Lycanroc"
   ],
+  "playerSets": [
+    {
+      "species": "Swanna",
+      "level": 89,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Hydration",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 206,
+        "def": 163,
+        "spa": 206,
+        "spd": 163,
+        "spe": 225
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Talonflame",
+      "level": 83,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 265,
+      "stats": {
+        "atk": 182,
+        "def": 166,
+        "spa": 171,
+        "spd": 162,
+        "spe": 257
+      },
+      "moves": [
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Walking Wake",
+      "level": 79,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 286,
+      "stats": {
+        "atk": 136,
+        "def": 189,
+        "spa": 243,
+        "spd": 177,
+        "spe": 218
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Sunny Day",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Steam",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Slowking-Galar",
+      "level": 85,
+      "types": [
+        "Poison",
+        "Psychic"
+      ],
+      "ability": "Regenerator",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 300,
+      "stats": {
+        "atk": 115,
+        "def": 185,
+        "spa": 236,
+        "spd": 236,
+        "spe": 100
+      },
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Chilly Reception",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mimikyu",
+      "level": 79,
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "ability": "Disguise",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 216,
+      "stats": {
+        "atk": 188,
+        "def": 172,
+        "spa": 125,
+        "spd": 211,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Lycanroc",
+      "level": 86,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Sand Rush",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 247,
+        "def": 161,
+        "spa": 144,
+        "spd": 161,
+        "spe": 242
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Swanna||HeavyDutyBoots|Hydration|roost,hydropump,defog,bravebird||85,85,85,85,85,85|F|||89|,,,,,Ground]Talonflame||HeavyDutyBoots|FlameBody|flareblitz,bravebird,swordsdance,terablast||85,85,85,85,85,85|F|||83|,,,,,Ground]Walking Wake||LifeOrb|Protosynthesis|dracometeor,flamethrower,sunnyday,hydrosteam||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Slowking|SlowkingGalar|HeavyDutyBoots|Regenerator|sludgebomb,chillyreception,slackoff,psyshock||85,,85,85,85,85|F|,0,,,,||85|,,,,,Dark]Mimikyu||LifeOrb|Disguise|playrough,drainpunch,swordsdance,shadowsneak||85,85,85,85,85,85|M|||79|,,,,,Fighting]Lycanroc||LifeOrb|SandRush|stealthrock,closecombat,stoneedge,psychicfangs||85,85,85,85,85,85|F|||86|,,,,,Fighting",
   "ai": "Swalot||AssaultVest|LiquidOoze|knockoff,clearsmog,earthquake,sludgebomb||85,85,85,85,85,85|M|||90|,,,,,Dark]Mudsdale||Leftovers|Stamina|earthquake,stealthrock,roar,heavyslam||85,85,85,85,85,85|M|||83|,,,,,Steel]Tyranitar||AssaultVest|SandStream|earthquake,stoneedge,knockoff,icebeam||85,85,85,85,85,85|M|||78|,,,,,Ghost]Blastoise||WhiteHerb|Torrent|hydropump,icebeam,terablast,shellsmash||85,,85,85,85,85|F|,0,,,,||80|,,,,,Electric]Okidogi||Leftovers|ToxicChain|gunkshot,drainpunch,knockoff,bulkup||85,85,85,85,85,85|M|||77|,,,,,Dark]Deoxys|DeoxysSpeed|LifeOrb|Pressure|superpower,psychoboost,knockoff,spikes||85,85,85,85,85,85|N|||82|,,,,,Fighting",
   "curation": {

@@ -19,6 +19,250 @@
     "Brambleghast",
     "Palafin"
   ],
+  "playerSets": [
+    {
+      "species": "Hitmonchan",
+      "level": 87,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Iron Fist",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 229,
+      "stats": {
+        "atk": 232,
+        "def": 187,
+        "spa": 111,
+        "spd": 241,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Copperajah",
+      "level": 86,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 350,
+      "stats": {
+        "atk": 273,
+        "def": 168,
+        "spa": 187,
+        "spd": 168,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hypno",
+      "level": 95,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Insomnia",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 315,
+      "stats": {
+        "atk": 193,
+        "def": 187,
+        "spa": 193,
+        "spd": 272,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Latias",
+      "level": 79,
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Soul Dew",
+      "teraType": "Steel",
+      "maxhp": 256,
+      "stats": {
+        "atk": 131,
+        "def": 188,
+        "spa": 219,
+        "spd": 251,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Brambleghast",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "ability": "Wind Rider",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 240,
+      "stats": {
+        "atk": 253,
+        "def": 173,
+        "spa": 191,
+        "spd": 173,
+        "spe": 209
+      },
+      "moves": [
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Palafin",
+      "level": 77,
+      "types": [
+        "Water"
+      ],
+      "ability": "Zero to Hero",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 281,
+      "stats": {
+        "atk": 152,
+        "def": 155,
+        "spa": 126,
+        "spd": 140,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Jet Punch",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Hitmonchan||Leftovers|IronFist|drainpunch,swordsdance,rapidspin,knockoff||85,85,85,85,85,85|M|||87|,,,,,Fighting]Copperajah||LifeOrb|SheerForce|earthquake,ironhead,playrough,rockslide||85,85,85,85,85,85|F|||86|,,,,,Fairy]Hypno||Leftovers|Insomnia|encore,psychicnoise,knockoff,toxic||85,85,85,85,85,85|M|||95|,,,,,Dark]Latias||SoulDew|Levitate|psyshock,recover,dracometeor,calmmind||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Brambleghast||Leftovers|WindRider|poltergeist,strengthsap,powerwhip,spikes||85,85,85,85,85,85|M|||88|,,,,,Steel]Palafin||Leftovers|ZerotoHero|icepunch,wavecrash,jetpunch,bulkup||85,85,85,85,85,85|F|||77|,,,,,Dragon",
   "ai": "Wo-Chien||Leftovers|TabletsofRuin|leechseed,protect,knockoff,ruination||85,85,85,85,85,85|N|||83|,,,,,Poison]Gastrodon||Leftovers|StormDrain|sludgebomb,earthquake,surf,recover||85,85,85,85,85,85|M|||86|,,,,,Poison]Barraskewda||ChoiceBand|SwiftSwim|psychicfangs,closecombat,flipturn,waterfall||85,85,85,85,85,85|F|||81|,,,,,Fighting]Bellibolt||Leftovers|Electromorphosis|voltswitch,muddywater,slackoff,thunderbolt||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Copperajah||LifeOrb|SheerForce|superpower,ironhead,earthquake,playrough||85,85,85,85,85,85|F|||86|,,,,,Fairy]Electrode|ElectrodeHisui|Leftovers|Soundproof|thunderbolt,gigadrain,substitute,leechseed||85,,85,85,85,85|N|,0,,,,||87|,,,,,Poison",
   "curation": {

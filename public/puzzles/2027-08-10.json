@@ -19,6 +19,252 @@
     "Miraidon",
     "Scizor"
   ],
+  "playerSets": [
+    {
+      "species": "Bellossom",
+      "level": 84,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 263,
+      "stats": {
+        "atk": 139,
+        "def": 208,
+        "spa": 199,
+        "spd": 216,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Araquanid",
+      "level": 82,
+      "types": [
+        "Water",
+        "Bug"
+      ],
+      "ability": "Water Bubble",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 246,
+      "stats": {
+        "atk": 162,
+        "def": 198,
+        "spa": 129,
+        "spd": 264,
+        "spe": 116
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Espeon",
+      "level": 84,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Magic Bounce",
+      "item": "Choice Specs",
+      "teraType": "Psychic",
+      "maxhp": 246,
+      "stats": {
+        "atk": 114,
+        "def": 149,
+        "spa": 267,
+        "spd": 208,
+        "spe": 233
+      },
+      "moves": [
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Toedscruel",
+      "level": 87,
+      "types": [
+        "Ground",
+        "Grass"
+      ],
+      "ability": "Mycelium Might",
+      "item": "Assault Vest",
+      "teraType": "Water",
+      "maxhp": 281,
+      "stats": {
+        "atk": 172,
+        "def": 163,
+        "spa": 189,
+        "spd": 259,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Miraidon",
+      "level": 65,
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "ability": "Hadron Engine",
+      "item": "Choice Specs",
+      "teraType": "Electric",
+      "maxhp": 238,
+      "stats": {
+        "atk": 115,
+        "def": 168,
+        "spa": 214,
+        "spd": 188,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Electro Drift",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Scizor",
+      "level": 79,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "ability": "Technician",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 240,
+      "stats": {
+        "atk": 251,
+        "def": 204,
+        "spa": 132,
+        "spd": 172,
+        "spe": 148
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Bullet Punch",
+          "type": "Steel",
+          "pp": 48
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Bellossom||Leftovers|Chlorophyll|strengthsap,moonblast,gigadrain,quiverdance||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fairy]Araquanid||HeavyDutyBoots|WaterBubble|hydropump,liquidation,stickyweb,leechlife||85,85,85,85,85,85|M|||82|,,,,,Steel]Espeon||ChoiceSpecs|MagicBounce|alluringvoice,trick,shadowball,psychic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Toedscruel||AssaultVest|MyceliumMight|rapidspin,knockoff,earthpower,gigadrain||85,85,85,85,85,85|F|||87|,,,,,Water]Miraidon||ChoiceSpecs|HadronEngine|electrodrift,overheat,voltswitch,dracometeor||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Scizor||LifeOrb|Technician|swordsdance,bulletpunch,knockoff,bugbite||85,85,85,85,85,85|M|||79|,,,,,Steel",
   "ai": "Altaria||HeavyDutyBoots|NaturalCure|earthquake,dragondance,roost,bravebird||85,85,85,85,85,85|M|||89|,,,,,Ground]Sawsbuck||LifeOrb|SereneGrace|highhorsepower,hornleech,swordsdance,headbutt||85,85,85,85,85,85|M|||88|,,,,,Normal]Torkoal||HeavyDutyBoots|Drought|rapidspin,yawn,fireblast,solarbeam||85,85,85,85,85,85|F|||88|,,,,,Grass]Carbink||ChestoBerry|Sturdy|moonblast,irondefense,rest,bodypress||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Fezandipiti||Leftovers|ToxicChain|playrough,swordsdance,gunkshot,terablast||85,85,85,85,85,85|M|||82|,,,,,Ground]Virizion||LifeOrb|Justified|stoneedge,leafblade,closecombat,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock",
   "curation": {

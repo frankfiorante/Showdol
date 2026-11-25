@@ -19,6 +19,251 @@
     "Coalossal",
     "Hydrapple"
   ],
+  "playerSets": [
+    {
+      "species": "Shaymin",
+      "level": 82,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Natural Cure",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 298,
+      "stats": {
+        "atk": 169,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Seed Flare",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Mudsdale",
+      "level": 83,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Stamina",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 302,
+      "stats": {
+        "atk": 255,
+        "def": 214,
+        "spa": 139,
+        "spd": 189,
+        "spe": 106
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Roar",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Regieleki",
+      "level": 79,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Transistor",
+      "item": "Magnet",
+      "teraType": "Ice",
+      "maxhp": 256,
+      "stats": {
+        "atk": 204,
+        "def": 125,
+        "spa": 204,
+        "spd": 125,
+        "spe": 362
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Scream Tail",
+      "level": 84,
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 330,
+      "stats": {
+        "atk": 114,
+        "def": 215,
+        "spa": 157,
+        "spd": 241,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Coalossal",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 341,
+      "stats": {
+        "atk": 193,
+        "def": 264,
+        "spa": 193,
+        "spd": 211,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Hydrapple",
+      "level": 83,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Regenerator",
+      "item": "Choice Specs",
+      "teraType": "Steel",
+      "maxhp": 312,
+      "stats": {
+        "atk": 137,
+        "def": 230,
+        "spa": 247,
+        "spd": 180,
+        "spe": 121
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Fickle Beam",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Shaymin||Leftovers|NaturalCure|seedflare,earthpower,synthesis,airslash||85,,85,85,85,85|N|,0,,,,||82|,,,,,Ground]Mudsdale||Leftovers|Stamina|earthquake,stealthrock,heavyslam,roar||85,85,85,85,85,85|M|||83|,,,,,Steel]Regieleki||Magnet|Transistor|rapidspin,voltswitch,terablast,thunderbolt||85,85,85,85,85,85|N|||79|,,,,,Ice]Scream Tail||Leftovers|Protosynthesis|protect,wish,dazzlinggleam,encore||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Coalossal||HeavyDutyBoots|FlameBody|flamethrower,spikes,stoneedge,willowisp||85,85,85,85,85,85|M|||89|,,,,,Water]Hydrapple||ChoiceSpecs|Regenerator|earthpower,dracometeor,ficklebeam,leafstorm||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel",
   "ai": "Greedent||SitrusBerry|CheekPouch|swordsdance,earthquake,knockoff,bodyslam||85,85,85,85,85,85|F|||86|,,,,,Ghost]Zamazenta||RustedShield|DauntlessShield|bodypress,heavyslam,irondefense,stoneedge||85,85,85,85,85,85|N|||68|,,,,,Ghost]Torterra||LoadedDice|Overgrow|rockblast,shellsmash,headlongrush,bulletseed||85,85,85,85,85,85|M|||78|,,,,,Water]Rotom|RotomMow|Leftovers|Levitate|willowisp,voltswitch,thunderbolt,leafstorm||85,,85,85,85,85|N|,0,,,,||87|,,,,,Grass]Seviper||ChoiceScarf|Infiltrator|flamethrower,gunkshot,gigadrain,switcheroo||85,85,85,85,85,85|F|||93|,,,,,Fire]Mightyena||ChoiceBand|Intimidate|suckerpunch,poisonfang,crunch,playrough||85,85,85,85,85,85|F|||96|,,,,,Fairy",
   "curation": {

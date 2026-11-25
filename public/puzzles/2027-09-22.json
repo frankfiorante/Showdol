@@ -19,6 +19,253 @@
     "Greninja-Bond",
     "Trevenant"
   ],
+  "playerSets": [
+    {
+      "species": "Bisharp",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Steel"
+      ],
+      "ability": "Defiant",
+      "item": "Eviolite",
+      "teraType": "Flying",
+      "maxhp": 232,
+      "stats": {
+        "atk": 243,
+        "def": 204,
+        "spa": 140,
+        "spd": 156,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Pachirisu",
+      "level": 96,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 271,
+      "stats": {
+        "atk": 141,
+        "def": 189,
+        "spa": 141,
+        "spd": 227,
+        "spe": 237
+      },
+      "moves": [
+        {
+          "name": "Super Fang",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Reshiram",
+      "level": 76,
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "ability": "Turboblaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 277,
+      "stats": {
+        "atk": 226,
+        "def": 196,
+        "spa": 272,
+        "spd": 226,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Altaria",
+      "level": 89,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "ability": "Natural Cure",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 278,
+      "stats": {
+        "atk": 175,
+        "def": 211,
+        "spa": 175,
+        "spd": 238,
+        "spe": 193
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Greninja-Bond",
+      "level": 80,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Battle Bond",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 246,
+      "stats": {
+        "atk": 198,
+        "def": 153,
+        "spa": 211,
+        "spd": 160,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Trevenant",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Dark",
+      "maxhp": 296,
+      "stats": {
+        "atk": 247,
+        "def": 186,
+        "spa": 166,
+        "spd": 197,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Bisharp||Eviolite|Defiant|ironhead,swordsdance,throatchop,suckerpunch||85,85,85,85,85,85|M|||79|,,,,,Flying]Pachirisu||HeavyDutyBoots|VoltAbsorb|superfang,discharge,uturn,encore||85,85,85,85,85,85|F|||96|,,,,,Flying]Reshiram||HeavyDutyBoots|Turboblaze|outrage,dragondance,stoneedge,flareblitz||85,85,85,85,85,85|N|||76|,,,,,Fire]Altaria||HeavyDutyBoots|NaturalCure|roost,willowisp,bravebird,defog||85,85,85,85,85,85|M|||89|,,,,,Steel]Greninja|GreninjaBond|LifeOrb|BattleBond|gunkshot,icebeam,darkpulse,hydropump||85,85,85,85,85,85|M|||80|,,,,,Water]Trevenant||SitrusBerry|Harvest|poltergeist,drainpunch,protect,toxic||85,85,85,85,85,85|F|||89|,,,,,Dark",
   "ai": "Oricorio|OricorioPomPom|HeavyDutyBoots|Dancer|revelationdance,hurricane,roost,quiverdance||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Appletun||Leftovers|ThickFat|recover,leechseed,appleacid,dracometeor||85,,85,85,85,85|F|,0,,,,||92|,,,,,Steel]Perrserker||LifeOrb|ToughClaws|knockoff,stealthrock,ironhead,closecombat||85,85,85,85,85,85|F|||89|,,,,,Fighting]Entei||ChoiceBand|InnerFocus|flareblitz,sacredfire,stompingtantrum,extremespeed||85,85,85,85,85,85|N|||78|,,,,,Fire]Vivillon|VivillonArchipelago|HeavyDutyBoots|CompoundEyes|sleeppowder,hurricane,terablast,quiverdance||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ground]Falinks||LifeOrb|Defiant|noretreat,knockoff,ironhead,closecombat||85,85,85,85,85,85|N|||84|,,,,,Dark",
   "curation": {

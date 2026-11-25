@@ -19,6 +19,252 @@
     "Zarude",
     "Alcremie-Matcha-Cream"
   ],
+  "playerSets": [
+    {
+      "species": "Magcargo",
+      "level": 95,
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "ability": "Weak Armor",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 268,
+      "stats": {
+        "atk": 100,
+        "def": 282,
+        "spa": 225,
+        "spd": 206,
+        "spe": 111
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Power Gem",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bronzong",
+      "level": 88,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 261,
+      "stats": {
+        "atk": 207,
+        "def": 254,
+        "spa": 189,
+        "spd": 254,
+        "spe": 108
+      },
+      "moves": [
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Chandelure",
+      "level": 83,
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "ability": "Flash Fire",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 235,
+      "stats": {
+        "atk": 96,
+        "def": 197,
+        "spa": 288,
+        "spd": 197,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Cinccino",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Loaded Dice",
+      "teraType": "Grass",
+      "maxhp": 260,
+      "stats": {
+        "atk": 205,
+        "def": 147,
+        "spa": 156,
+        "spd": 147,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Tidy Up",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Tail Slap",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Zarude",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Grass"
+      ],
+      "ability": "Leaf Guard",
+      "item": "Choice Band",
+      "teraType": "Grass",
+      "maxhp": 288,
+      "stats": {
+        "atk": 229,
+        "def": 206,
+        "spa": 152,
+        "spd": 191,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Alcremie-Matcha-Cream",
+      "level": 90,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Aroma Veil",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 263,
+      "stats": {
+        "atk": 113,
+        "def": 186,
+        "spa": 249,
+        "spd": 269,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Magcargo||HeavyDutyBoots|WeakArmor|fireblast,powergem,shellsmash,earthpower||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass]Bronzong||Leftovers|Levitate|psychicnoise,ironhead,earthquake,stealthrock||85,85,85,85,85,85|N|||88|,,,,,Water]Chandelure||Leftovers|FlashFire|calmmind,shadowball,substitute,fireblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Cinccino||LoadedDice|Technician|tripleaxel,tidyup,tailslap,bulletseed||85,85,85,85,85,85|F|||83|,,,,,Grass]Zarude||ChoiceBand|LeafGuard|uturn,powerwhip,closecombat,knockoff||85,85,85,85,85,85|N|||77|,,,,,Grass]Alcremie|AlcremieMatchaCream|Leftovers|AromaVeil|calmmind,alluringvoice,recover,psyshock||85,,85,85,85,85|F|,0,,,,||90|,,,,,Poison",
   "ai": "Roaring Moon||ChoiceBand|Protosynthesis|outrage,knockoff,ironhead,uturn||85,85,85,85,85,85|N|||72|,,,,,Steel]Swanna||HeavyDutyBoots|Hydration|hydropump,roost,bravebird,defog||85,85,85,85,85,85|F|||89|,,,,,Ground]Oinkologne|OinkologneF|Leftovers|ThickFat|bodyslam,curse,highhorsepower,lashout||85,85,85,85,85,85|F|||91|,,,,,Ground]Masquerain||HeavyDutyBoots|Intimidate|bugbuzz,hydropump,quiverdance,hurricane||85,,85,85,85,85|M|,0,,,,||87|,,,,,Water]Haxorus||LumBerry|MoldBreaker|ironhead,outrage,closecombat,dragondance||85,85,85,85,85,85|M|||78|,,,,,Steel]Houndstone||ChoiceBand|Fluffy|shadowsneak,bodypress,playrough,poltergeist||85,85,85,85,85,85|M|||86|,,,,,Fighting",
   "curation": {

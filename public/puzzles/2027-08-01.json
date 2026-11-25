@@ -19,6 +19,252 @@
     "Sandaconda",
     "Glalie"
   ],
+  "playerSets": [
+    {
+      "species": "Ho-Oh",
+      "level": 71,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Regenerator",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 268,
+      "stats": {
+        "atk": 226,
+        "def": 169,
+        "spa": 198,
+        "spd": 260,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Sacred Fire",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Chesnaught",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Bulletproof",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 285,
+      "stats": {
+        "atk": 228,
+        "def": 253,
+        "spa": 173,
+        "spd": 174,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Muk-Alola",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Dark"
+      ],
+      "ability": "Poison Touch",
+      "item": "Assault Vest",
+      "teraType": "Fighting",
+      "maxhp": 306,
+      "stats": {
+        "atk": 219,
+        "def": 170,
+        "spa": 154,
+        "spd": 211,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Magnezone",
+      "level": 84,
+      "types": [
+        "Electric",
+        "Steel"
+      ],
+      "ability": "Analytic",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 255,
+      "stats": {
+        "atk": 122,
+        "def": 241,
+        "spa": 267,
+        "spd": 199,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Sandaconda",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 258,
+      "stats": {
+        "atk": 228,
+        "def": 258,
+        "spa": 157,
+        "spd": 166,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Glalie",
+      "level": 96,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Inner Focus",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 309,
+      "stats": {
+        "atk": 208,
+        "def": 208,
+        "spa": 208,
+        "spd": 208,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Ho-Oh||HeavyDutyBoots|Regenerator|sacredfire,recover,bravebird,earthquake||85,85,85,85,85,85|N|||71|,,,,,Steel]Chesnaught||Leftovers|Bulletproof|bodypress,trailblaze,irondefense,synthesis||85,85,85,85,85,85|M|||84|,,,,,Steel]Muk|MukAlola|AssaultVest|PoisonTouch|gunkshot,icepunch,knockoff,drainpunch||85,85,85,85,85,85|M|||82|,,,,,Fighting]Magnezone||Leftovers|Analytic|thunderbolt,bodypress,flashcannon,irondefense||85,,85,85,85,85|N|,0,,,,||84|,,,,,Fighting]Sandaconda||Leftovers|ShedSkin|rest,stoneedge,coil,earthquake||85,85,85,85,85,85|M|||84|,,,,,Steel]Glalie||HeavyDutyBoots|InnerFocus|earthquake,spikes,freezedry,taunt||85,85,85,85,85,85|F|||96|,,,,,Water",
   "ai": "Reuniclus||LifeOrb|MagicGuard|recover,psychic,calmmind,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Masquerain||HeavyDutyBoots|Intimidate|hurricane,quiverdance,hydropump,bugbuzz||85,,85,85,85,85|M|,0,,,,||87|,,,,,Water]Kilowattrel||HeavyDutyBoots|VoltAbsorb|uturn,roost,hurricane,thunderbolt||85,85,85,85,85,85|F|||83|,,,,,Water]Iron Hands||AssaultVest|QuarkDrive|wildcharge,voltswitch,heavyslam,closecombat||85,85,85,85,85,85|N|||79|,,,,,Fighting]Iron Leaves||ChoiceBand|QuarkDrive|psyblade,megahorn,leafblade,closecombat||85,85,85,85,85,85|N|||80|,,,,,Fighting]Scovillain||ChoiceSpecs|Chlorophyll|flamethrower,energyball,overheat,leafstorm||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire",
   "curation": {

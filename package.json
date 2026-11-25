@@ -15,7 +15,8 @@
     "daily:check": "TZ=America/Chicago tsx scripts/daily-check.ts",
     "ai:check": "tsx scripts/ai-check.ts",
     "ai:watch": "tsx scripts/watch-battle.ts",
-    "sprites:fetch": "tsx scripts/fetch-sprites.ts"
+    "sprites:fetch": "tsx scripts/fetch-sprites.ts",
+    "hints:gen": "tsx scripts/gen-hints.ts"
   },
   "dependencies": {
     "@pkmn/client": "0.7.4",

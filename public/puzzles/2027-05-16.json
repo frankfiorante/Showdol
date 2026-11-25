@@ -19,6 +19,249 @@
     "Lumineon",
     "Metagross"
   ],
+  "playerSets": [
+    {
+      "species": "Ogerpon",
+      "level": 80,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Defiant",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 259,
+      "stats": {
+        "atk": 238,
+        "def": 181,
+        "spa": 142,
+        "spd": 200,
+        "spe": 222
+      },
+      "moves": [
+        {
+          "name": "Ivy Cudgel",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Comfey",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Triage",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 225,
+      "stats": {
+        "atk": 93,
+        "def": 202,
+        "spa": 188,
+        "spd": 236,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Stored Power",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Spidops",
+      "level": 96,
+      "types": [
+        "Bug"
+      ],
+      "ability": "Stakeout",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 271,
+      "stats": {
+        "atk": 206,
+        "def": 231,
+        "spa": 154,
+        "spd": 220,
+        "spe": 122
+      },
+      "moves": [
+        {
+          "name": "Circle Throw",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Meowstic-F",
+      "level": 89,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Competitive",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 277,
+      "stats": {
+        "atk": 90,
+        "def": 186,
+        "spa": 199,
+        "spd": 195,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lumineon",
+      "level": 93,
+      "types": [
+        "Water"
+      ],
+      "ability": "Storm Drain",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 279,
+      "stats": {
+        "atk": 133,
+        "def": 194,
+        "spa": 181,
+        "spd": 213,
+        "spe": 222
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Metagross",
+      "level": 79,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Clear Body",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 256,
+      "stats": {
+        "atk": 259,
+        "def": 251,
+        "spa": 196,
+        "spd": 188,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Bullet Punch",
+          "type": "Steel",
+          "pp": 48
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Ogerpon||Leftovers|Defiant|ivycudgel,synthesis,encore,knockoff||85,85,85,85,85,85|F|||80|,,,,,Grass]Comfey||Leftovers|Triage|storedpower,drainingkiss,calmmind,gigadrain||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Spidops||HeavyDutyBoots|Stakeout|circlethrow,uturn,stickyweb,knockoff||85,85,85,85,85,85|F|||96|,,,,,Ghost]Meowstic|MeowsticF|LifeOrb|Competitive|darkpulse,alluringvoice,psyshock,nastyplot||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fairy]Lumineon||LifeOrb|StormDrain|encore,icebeam,hydropump,alluringvoice||85,,85,85,85,85|M|,0,,,,||93|,,,,,Fairy]Metagross||ChoiceBand|ClearBody|earthquake,bulletpunch,heavyslam,psychicfangs||85,85,85,85,85,85|N|||79|,,,,,Water",
   "ai": "Minun||LifeOrb|VoltAbsorb|alluringvoice,encore,nastyplot,thunderbolt||85,,85,85,85,85|F|,0,,,,||95|,,,,,Fairy]Garchomp||RockyHelmet|RoughSkin|dragontail,stealthrock,outrage,earthquake||85,85,85,85,85,85|F|||74|,,,,,Ground]Clawitzer||AssaultVest|MegaLauncher|dragonpulse,darkpulse,waterpulse,uturn||85,85,85,85,85,85|M|||87|,,,,,Dragon]Iron Moth||HeavyDutyBoots|QuarkDrive|sludgewave,energyball,fierydance,toxicspikes||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Slither Wing||HeavyDutyBoots|Protosynthesis|closecombat,uturn,morningsun,willowisp||85,85,85,85,85,85|N|||81|,,,,,Fire]Forretress||Leftovers|Sturdy|rapidspin,toxicspikes,ironhead,voltswitch||85,85,85,85,85,85|F|||84|,,,,,Water",
   "curation": {

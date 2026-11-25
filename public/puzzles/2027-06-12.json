@@ -19,6 +19,252 @@
     "Beartic",
     "Iron Moth"
   ],
+  "playerSets": [
+    {
+      "species": "Eternatus",
+      "level": 69,
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 308,
+      "stats": {
+        "atk": 122,
+        "def": 171,
+        "spa": 240,
+        "spd": 171,
+        "spe": 220
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Dynamax Cannon",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Masquerain",
+      "level": 87,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 264,
+      "stats": {
+        "atk": 109,
+        "def": 158,
+        "spa": 224,
+        "spd": 192,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Passimian",
+      "level": 83,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Defiant",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 302,
+      "stats": {
+        "atk": 247,
+        "def": 197,
+        "spa": 114,
+        "spd": 147,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Ogerpon-Cornerstone",
+      "level": 76,
+      "types": [
+        "Grass",
+        "Rock"
+      ],
+      "ability": "Sturdy",
+      "item": "Cornerstone Mask",
+      "teraType": "Rock",
+      "maxhp": 247,
+      "stats": {
+        "atk": 226,
+        "def": 172,
+        "spa": 135,
+        "spd": 190,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Ivy Cudgel",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Beartic",
+      "level": 91,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Swift Swim",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 321,
+      "stats": {
+        "atk": 288,
+        "def": 197,
+        "spa": 179,
+        "spd": 197,
+        "spe": 143
+      },
+      "moves": [
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Iron Moth",
+      "level": 78,
+      "types": [
+        "Fire",
+        "Poison"
+      ],
+      "ability": "Quark Drive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 253,
+      "stats": {
+        "atk": 114,
+        "def": 139,
+        "spa": 263,
+        "spd": 217,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Eternatus||Leftovers|Pressure|recover,dynamaxcannon,sludgebomb,fireblast||85,,85,85,85,85|N|,0,,,,||69|,,,,,Dragon]Masquerain||HeavyDutyBoots|Intimidate|hurricane,bugbuzz,quiverdance,hydropump||85,,85,85,85,85|M|,0,,,,||87|,,,,,Water]Passimian||Leftovers|Defiant|bulkup,drainpunch,knockoff,gunkshot||85,85,85,85,85,85|F|||83|,,,,,Dark]Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|superpower,swordsdance,ivycudgel,hornleech||85,85,85,85,85,85|F|||76|,,,,,Rock]Beartic||HeavyDutyBoots|SwiftSwim|iciclecrash,swordsdance,closecombat,aquajet||85,85,85,85,85,85|M|||91|,,,,,Fighting]Iron Moth||HeavyDutyBoots|QuarkDrive|energyball,morningsun,fireblast,sludgewave||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass",
   "ai": "Seviper||ChoiceScarf|Infiltrator|switcheroo,flamethrower,knockoff,gunkshot||85,85,85,85,85,85|M|||93|,,,,,Dark]Dewgong||HeavyDutyBoots|ThickFat|icebeam,encore,knockoff,surf||85,85,85,85,85,85|M|||94|,,,,,Dragon]Kyurem|KyuremBlack|LoadedDice|Teravolt|dragondance,scaleshot,terablast,iciclespear||85,85,85,85,85,85|N|||71|,,,,,Ground]Delphox||ChoiceScarf|Blaze|fireblast,focusblast,grassknot,psyshock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Cobalion||Leftovers|Justified|swordsdance,closecombat,taunt,ironhead||85,85,85,85,85,85|N|||80|,,,,,Fighting]Iron Valiant||LifeOrb|QuarkDrive|encore,moonblast,closecombat,knockoff||85,85,85,85,85,85|N|||78|,,,,,Fighting",
   "curation": {

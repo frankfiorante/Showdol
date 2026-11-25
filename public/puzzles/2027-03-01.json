@@ -19,6 +19,252 @@
     "Sandaconda",
     "Mesprit"
   ],
+  "playerSets": [
+    {
+      "species": "Gholdengo",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "ability": "Good as Gold",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 261,
+      "stats": {
+        "atk": 97,
+        "def": 191,
+        "spa": 249,
+        "spd": 185,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Make It Rain",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Wo-Chien",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Grass"
+      ],
+      "ability": "Tablets of Ruin",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 277,
+      "stats": {
+        "atk": 189,
+        "def": 214,
+        "spa": 205,
+        "spd": 272,
+        "spe": 164
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Ruination",
+          "type": "Dark",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hydreigon",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Specs",
+      "teraType": "Steel",
+      "maxhp": 275,
+      "stats": {
+        "atk": 170,
+        "def": 188,
+        "spa": 243,
+        "spd": 188,
+        "spe": 200
+      },
+      "moves": [
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dedenne",
+      "level": 88,
+      "types": [
+        "Electric",
+        "Fairy"
+      ],
+      "ability": "Cheek Pouch",
+      "item": "Sitrus Berry",
+      "teraType": "Flying",
+      "maxhp": 261,
+      "stats": {
+        "atk": 152,
+        "def": 151,
+        "spa": 193,
+        "spd": 168,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Nuzzle",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Sandaconda",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 258,
+      "stats": {
+        "atk": 228,
+        "def": 258,
+        "spa": 157,
+        "spd": 166,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mesprit",
+      "level": 85,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Scarf",
+      "teraType": "Fairy",
+      "maxhp": 275,
+      "stats": {
+        "atk": 183,
+        "def": 227,
+        "spa": 227,
+        "spd": 227,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Gholdengo||Leftovers|GoodasGold|shadowball,makeitrain,focusblast,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fighting]Wo-Chien||Leftovers|TabletsofRuin|knockoff,ruination,protect,leechseed||85,85,85,85,85,85|N|||83|,,,,,Poison]Hydreigon||ChoiceSpecs|Levitate|flashcannon,fireblast,darkpulse,dracometeor||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Dedenne||SitrusBerry|CheekPouch|thunderbolt,dazzlinggleam,nuzzle,uturn||85,85,85,85,85,85|F|||88|,,,,,Flying]Sandaconda||Leftovers|ShedSkin|earthquake,coil,rest,stoneedge||85,85,85,85,85,85|M|||84|,,,,,Dragon]Mesprit||ChoiceScarf|Levitate|dazzlinggleam,psychic,thunderbolt,icebeam||85,,85,85,85,85|N|,0,,,,||85|,,,,,Fairy",
   "ai": "Sandy Shocks||HeavyDutyBoots|Protosynthesis|earthpower,voltswitch,stealthrock,thunderbolt||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|ironhead,closecombat,throatchop,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Dark]Serperior||LifeOrb|Contrary|glare,leafstorm,synthesis,dragonpulse||85,,85,85,85,85|M|,0,,,,||79|,,,,,Dragon]Bombirdier||HeavyDutyBoots|BigPecks|roost,bravebird,suckerpunch,knockoff||85,85,85,85,85,85|M|||85|,,,,,Steel]Iron Hands||AssaultVest|QuarkDrive|heavyslam,voltswitch,closecombat,wildcharge||85,85,85,85,85,85|N|||79|,,,,,Electric]Abomasnow||LightClay|SnowWarning|earthquake,blizzard,auroraveil,iceshard||77,85,85,85,85,85|M|||84|,,,,,Water",
   "curation": {

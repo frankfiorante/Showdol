@@ -19,6 +19,253 @@
     "Zekrom",
     "Delphox"
   ],
+  "playerSets": [
+    {
+      "species": "Overqwil",
+      "level": 82,
+      "types": [
+        "Dark",
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 274,
+      "stats": {
+        "atk": 236,
+        "def": 203,
+        "spa": 154,
+        "spd": 154,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Virizion",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Rock",
+      "maxhp": 283,
+      "stats": {
+        "atk": 195,
+        "def": 165,
+        "spa": 195,
+        "spd": 259,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Quaquaval",
+      "level": 79,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Moxie",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 264,
+      "stats": {
+        "atk": 235,
+        "def": 172,
+        "spa": 180,
+        "spd": 164,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Aqua Step",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Porygon2",
+      "level": 81,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Download",
+      "item": "Eviolite",
+      "teraType": "Fairy",
+      "maxhp": 270,
+      "stats": {
+        "atk": 176,
+        "def": 192,
+        "spa": 217,
+        "spd": 201,
+        "spe": 144
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Zekrom",
+      "level": 71,
+      "types": [
+        "Dragon",
+        "Electric"
+      ],
+      "ability": "Teravolt",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 259,
+      "stats": {
+        "atk": 254,
+        "def": 212,
+        "spa": 212,
+        "spd": 183,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Bolt Strike",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Delphox",
+      "level": 84,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ability": "Blaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 263,
+      "stats": {
+        "atk": 120,
+        "def": 169,
+        "spa": 240,
+        "spd": 216,
+        "spe": 223
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Overqwil||ChoiceBand|Intimidate|liquidation,aquajet,crunch,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Water]Virizion||LifeOrb|Justified|closecombat,swordsdance,stoneedge,leafblade||85,85,85,85,85,85|N|||82|,,,,,Rock]Quaquaval||Leftovers|Moxie|rapidspin,roost,aquastep,closecombat||85,85,85,85,85,85|F|||79|,,,,,Steel]Porygon2||Eviolite|Download|recover,thunderwave,terablast,shadowball||85,85,85,85,85,85|N|||81|,,,,,Fairy]Zekrom||Leftovers|Teravolt|substitute,boltstrike,dragondance,outrage||85,85,85,85,85,85|N|||71|,,,,,Grass]Delphox||HeavyDutyBoots|Blaze|psyshock,fireblast,grassknot,nastyplot||85,,85,85,85,85|F|,0,,,,||84|,,,,,Grass",
   "ai": "Ludicolo||LifeOrb|SwiftSwim|hydropump,icebeam,gigadrain,raindance||85,,85,85,85,85|M|,0,,,,||90|,,,,,Water]Zarude|ZarudeDada|Leftovers|LeafGuard|swordsdance,knockoff,synthesis,powerwhip||85,85,85,85,85,85|N|||77|,,,,,Dark]Glaceon||HeavyDutyBoots|IceBody|wish,mudshot,protect,freezedry||85,,85,85,85,85|F|,0,,,,||94|,,,,,Ground]Tentacruel||AssaultVest|LiquidOoze|sludgebomb,rapidspin,surf,knockoff||85,85,85,85,85,85|F|||84|,,,,,Grass]Garchomp||LoadedDice|RoughSkin|earthquake,scaleshot,ironhead,swordsdance||85,85,85,85,85,85|M|||74|,,,,,Steel]Meloetta||LifeOrb|SereneGrace|tripleaxel,knockoff,relicsong,closecombat||85,85,85,85,85,85|N|||82|,,,,,Dark",
   "curation": {

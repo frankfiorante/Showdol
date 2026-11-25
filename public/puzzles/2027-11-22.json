@@ -19,6 +19,236 @@
     "Sandaconda",
     "Dusknoir"
   ],
+  "playerSets": [
+    {
+      "species": "Mamoswine",
+      "level": 81,
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "ability": "Thick Fat",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 311,
+      "stats": {
+        "atk": 257,
+        "def": 176,
+        "spa": 160,
+        "spd": 144,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Honchkrow",
+      "level": 86,
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "ability": "Moxie",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 312,
+      "stats": {
+        "atk": 264,
+        "def": 139,
+        "spa": 230,
+        "spd": 139,
+        "spe": 171
+      },
+      "moves": [
+        {
+          "name": "Heat Wave",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Forretress",
+      "level": 84,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "ability": "Sturdy",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 263,
+      "stats": {
+        "atk": 199,
+        "def": 283,
+        "spa": 149,
+        "spd": 149,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ditto",
+      "level": 87,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Imposter",
+      "item": "Choice Scarf",
+      "teraType": "Ghost",
+      "maxhp": 225,
+      "stats": {
+        "atk": 133,
+        "def": 133,
+        "spa": 133,
+        "spd": 133,
+        "spe": 133
+      },
+      "moves": [
+        {
+          "name": "Transform",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Sandaconda",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 258,
+      "stats": {
+        "atk": 228,
+        "def": 258,
+        "spa": 157,
+        "spd": 166,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dusknoir",
+      "level": 89,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Frisk",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 225,
+      "stats": {
+        "atk": 229,
+        "def": 291,
+        "spa": 166,
+        "spd": 291,
+        "spe": 131
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Focus Punch",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Mamoswine||ChoiceBand|ThickFat|iceshard,knockoff,iciclecrash,earthquake||85,85,85,85,85,85|M|||81|,,,,,Ground]Honchkrow||HeavyDutyBoots|Moxie|heatwave,uturn,suckerpunch,bravebird||85,85,85,85,85,85|F|||86|,,,,,Flying]Forretress||Leftovers|Sturdy|rapidspin,ironhead,toxicspikes,stealthrock||85,85,85,85,85,85|M|||84|,,,,,Water]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost]Sandaconda||Leftovers|ShedSkin|coil,rest,earthquake,stoneedge||85,85,85,85,85,85|F|||84|,,,,,Steel]Dusknoir||Leftovers|Frisk|substitute,poltergeist,painsplit,focuspunch||85,85,85,85,85,85|F|||89|,,,,,Fighting",
   "ai": "Dedenne||SitrusBerry|CheekPouch|nuzzle,uturn,dazzlinggleam,thunderbolt||85,85,85,85,85,85|F|||88|,,,,,Flying]Frosmoth||HeavyDutyBoots|IceScales|quiverdance,gigadrain,bugbuzz,icebeam||85,,85,85,85,85|M|,0,,,,||82|,,,,,Water]Infernape||LifeOrb|IronFist|machpunch,closecombat,overheat,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Fighting]Cinccino||LoadedDice|Technician|tripleaxel,tailslap,uturn,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Ice]Crabominable||AssaultVest|IronFist|earthquake,knockoff,icehammer,drainpunch||85,85,85,85,85,85|F|||90|,,,,,Ground]Farigiraf||Leftovers|SapSipper|wish,psychicnoise,bodyslam,protect||85,85,85,85,85,85|M|||89|,,,,,Water",
   "curation": {

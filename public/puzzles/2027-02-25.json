@@ -19,6 +19,252 @@
     "Zekrom",
     "Wyrdeer"
   ],
+  "playerSets": [
+    {
+      "species": "Sunflora",
+      "level": 100,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 312,
+      "stats": {
+        "atk": 155,
+        "def": 167,
+        "spa": 267,
+        "spd": 227,
+        "spe": 117
+      },
+      "moves": [
+        {
+          "name": "Solar Beam",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Weather Ball",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Sunny Day",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Shiftry",
+      "level": 89,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Wind Rider",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 305,
+      "stats": {
+        "atk": 229,
+        "def": 158,
+        "spa": 211,
+        "spd": 158,
+        "spe": 193
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Necrozma-Dusk-Mane",
+      "level": 69,
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "ability": "Prism Armor",
+      "item": "Weakness Policy",
+      "teraType": "Steel",
+      "maxhp": 248,
+      "stats": {
+        "atk": 257,
+        "def": 216,
+        "spa": 196,
+        "spd": 191,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Sunsteel Strike",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Ambipom",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Choice Band",
+      "teraType": "Ice",
+      "maxhp": 263,
+      "stats": {
+        "atk": 216,
+        "def": 159,
+        "spa": 149,
+        "spd": 159,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zekrom",
+      "level": 71,
+      "types": [
+        "Dragon",
+        "Electric"
+      ],
+      "ability": "Teravolt",
+      "item": "Leftovers",
+      "teraType": "Electric",
+      "maxhp": 259,
+      "stats": {
+        "atk": 254,
+        "def": 212,
+        "spa": 212,
+        "spd": 183,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Bolt Strike",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Wyrdeer",
+      "level": 87,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 321,
+      "stats": {
+        "atk": 232,
+        "def": 175,
+        "spa": 232,
+        "spd": 180,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Sunflora||LifeOrb|Chlorophyll|solarbeam,weatherball,earthpower,sunnyday||85,,85,85,85,85|M|,0,,,,|||,,,,,Fire]Shiftry||LifeOrb|WindRider|suckerpunch,knockoff,swordsdance,leafblade||85,85,85,85,85,85|F|||89|,,,,,Poison]Necrozma|NecrozmaDuskMane|WeaknessPolicy|PrismArmor|earthquake,dragondance,sunsteelstrike,morningsun||85,85,85,85,85,85|N|||69|,,,,,Steel]Ambipom||ChoiceBand|Technician|uturn,knockoff,doubleedge,tripleaxel||85,85,85,85,85,85|M|||84|,,,,,Ice]Zekrom||Leftovers|Teravolt|boltstrike,outrage,substitute,dragondance||85,85,85,85,85,85|N|||71|,,,,,Electric]Wyrdeer||Leftovers|Intimidate|thunderwave,earthquake,megahorn,psychicnoise||85,85,85,85,85,85|M|||87|,,,,,Ground",
   "ai": "Rampardos||ChoiceScarf|SheerForce|headsmash,rockslide,firepunch,earthquake||85,85,85,85,85,85|M|||90|,,,,,Ground]Sceptile||LifeOrb|Overgrow|focusblast,leafstorm,rockslide,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Lugia||HeavyDutyBoots|Multiscale|aeroblast,earthpower,calmmind,recover||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Ting-Lu||AssaultVest|VesselofRuin|ruination,earthquake,heavyslam,payback||85,85,85,85,85,85|N|||78|,,,,,Steel]Kingdra||LifeOrb|SwiftSwim|raindance,wavecrash,hurricane,dracometeor||85,85,85,85,85,85|M|||84|,,,,,Water]Plusle||LifeOrb|LightningRod|grassknot,nastyplot,alluringvoice,thunderbolt||85,,85,85,85,85|M|,0,,,,||95|,,,,,Electric",
   "curation": {

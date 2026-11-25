@@ -19,6 +19,251 @@
     "Scream Tail",
     "Orthworm"
   ],
+  "playerSets": [
+    {
+      "species": "Iron Boulder",
+      "level": 77,
+      "types": [
+        "Rock",
+        "Psychic"
+      ],
+      "ability": "Quark Drive",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 265,
+      "stats": {
+        "atk": 229,
+        "def": 168,
+        "spa": 149,
+        "spd": 211,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Mighty Cleave",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Hippowdon",
+      "level": 82,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sand Stream",
+      "item": "Rocky Helmet",
+      "teraType": "Steel",
+      "maxhp": 311,
+      "stats": {
+        "atk": 231,
+        "def": 241,
+        "spa": 159,
+        "spd": 165,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Whirlwind",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Iron Bundle",
+      "level": 78,
+      "types": [
+        "Ice",
+        "Water"
+      ],
+      "ability": "Quark Drive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ice",
+      "maxhp": 215,
+      "stats": {
+        "atk": 129,
+        "def": 223,
+        "spa": 239,
+        "spd": 139,
+        "spe": 257
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Plusle",
+      "level": 95,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Lightning Rod",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 268,
+      "stats": {
+        "atk": 100,
+        "def": 130,
+        "spa": 215,
+        "spd": 196,
+        "spe": 234
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Scream Tail",
+      "level": 84,
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 330,
+      "stats": {
+        "atk": 157,
+        "def": 215,
+        "spa": 157,
+        "spd": 241,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Orthworm",
+      "level": 88,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Earth Eater",
+      "item": "Leftovers",
+      "teraType": "Electric",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 305,
+        "spa": 156,
+        "spd": 147,
+        "spe": 165
+      },
+      "moves": [
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Shed Tail",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Iron Boulder||LifeOrb|QuarkDrive|closecombat,swordsdance,mightycleave,zenheadbutt||85,85,85,85,85,85|N|||77|,,,,,Fighting]Hippowdon||RockyHelmet|SandStream|earthquake,whirlwind,stealthrock,slackoff||85,85,85,85,85,85|M|||82|,,,,,Steel]Iron Bundle||HeavyDutyBoots|QuarkDrive|icebeam,hydropump,freezedry,encore||85,,85,85,85,85|N|,0,,,,||78|,,,,,Ice]Plusle||LifeOrb|LightningRod|encore,thunderbolt,grassknot,nastyplot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Grass]Scream Tail||Leftovers|Protosynthesis|wish,thunderwave,protect,playrough||85,85,85,85,85,85|N|||84|,,,,,Poison]Orthworm||Leftovers|EarthEater|heavyslam,bodypress,shedtail,spikes||85,85,85,85,85,85|M|||88|,,,,,Electric",
   "ai": "Tatsugiri||HeavyDutyBoots|StormDrain|nastyplot,dracometeor,rapidspin,surf||85,85,85,85,85,85|M|||87|,,,,,Water]Volcarona||HeavyDutyBoots|FlameBody|fierydance,bugbuzz,terablast,quiverdance||85,,85,85,85,85|M|,0,,,,||77|,,,,,Ground]Snorlax||ChestoBerry|ThickFat|rest,bodyslam,curse,earthquake||85,85,85,85,85,85|M|||82|,,,,,Ground]Rhydon||Eviolite|LightningRod|megahorn,stoneedge,earthquake,stealthrock||85,85,85,85,85,85|M|||85|,,,,,Dragon]Roaring Moon||ChoiceBand|Protosynthesis|outrage,ironhead,uturn,knockoff||85,85,85,85,85,85|N|||72|,,,,,Dark]Reuniclus||LifeOrb|MagicGuard|calmmind,psychic,recover,focusblast||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fighting",
   "curation": {

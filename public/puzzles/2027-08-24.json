@@ -19,6 +19,252 @@
     "Fezandipiti",
     "Latios"
   ],
+  "playerSets": [
+    {
+      "species": "Swanna",
+      "level": 89,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Hydration",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 206,
+        "def": 163,
+        "spa": 206,
+        "spd": 163,
+        "spe": 225
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Hippowdon",
+      "level": 82,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sand Stream",
+      "item": "Rocky Helmet",
+      "teraType": "Rock",
+      "maxhp": 311,
+      "stats": {
+        "atk": 231,
+        "def": 241,
+        "spa": 159,
+        "spd": 165,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Perrserker",
+      "level": 89,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Tough Claws",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 247,
+        "def": 229,
+        "spa": 140,
+        "spd": 158,
+        "spe": 140
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lucario",
+      "level": 84,
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "ability": "Inner Focus",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 255,
+      "stats": {
+        "atk": 189,
+        "def": 166,
+        "spa": 241,
+        "spd": 166,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Vacuum Wave",
+          "type": "Fighting",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Fezandipiti",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Fairy"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 278,
+      "stats": {
+        "atk": 196,
+        "def": 182,
+        "spa": 162,
+        "spd": 252,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Beat Up",
+          "type": "Dark",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Latios",
+      "level": 78,
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Soul Dew",
+      "teraType": "Steel",
+      "maxhp": 253,
+      "stats": {
+        "atk": 145,
+        "def": 170,
+        "spa": 248,
+        "spd": 217,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Swanna||HeavyDutyBoots|Hydration|hydropump,defog,roost,bravebird||85,85,85,85,85,85|M|||89|,,,,,Ground]Hippowdon||RockyHelmet|SandStream|earthquake,stoneedge,stealthrock,slackoff||85,85,85,85,85,85|F|||82|,,,,,Rock]Perrserker||ChoiceBand|ToughClaws|ironhead,knockoff,closecombat,uturn||85,85,85,85,85,85|M|||89|,,,,,Fighting]Lucario||LifeOrb|InnerFocus|nastyplot,focusblast,flashcannon,vacuumwave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fighting]Fezandipiti||Leftovers|ToxicChain|moonblast,gunkshot,roost,beatup||85,85,85,85,85,85|M|||82|,,,,,Dark]Latios||SoulDew|Levitate|recover,psyshock,calmmind,dracometeor||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel",
   "ai": "Oinkologne||Leftovers|ThickFat|lashout,curse,bodyslam,highhorsepower||85,85,85,85,85,85|M|||92|,,,,,Ground]Brambleghast||HeavyDutyBoots|WindRider|strengthsap,poltergeist,rapidspin,powerwhip||85,85,85,85,85,85|F|||88|,,,,,Steel]Ursaluna|UrsalunaBloodmoon|Leftovers|MindsEye|moonlight,vacuumwave,calmmind,bloodmoon||85,,85,85,85,85|M|,0,,,,||79|,,,,,Normal]Floatzel||Leftovers|WaterVeil|wavecrash,icespinner,bulkup,taunt||85,85,85,85,85,85|F|||86|,,,,,Water]Hydrapple||ChoiceSpecs|Regenerator|dracometeor,ficklebeam,leafstorm,earthpower||85,,85,85,85,85|M|,0,,,,||83|,,,,,Dragon]Terrakion||LifeOrb|Justified|closecombat,stoneedge,earthquake,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Fighting",
   "curation": {

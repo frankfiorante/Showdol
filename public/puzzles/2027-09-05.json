@@ -19,6 +19,250 @@
     "Vaporeon",
     "Chansey"
   ],
+  "playerSets": [
+    {
+      "species": "Morpeko",
+      "level": 88,
+      "types": [
+        "Electric",
+        "Dark"
+      ],
+      "ability": "Hunger Switch",
+      "item": "Leftovers",
+      "teraType": "Electric",
+      "maxhp": 245,
+      "stats": {
+        "atk": 217,
+        "def": 152,
+        "spa": 173,
+        "spd": 152,
+        "spe": 221
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Aura Wheel",
+          "type": "Electric",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Leavanny",
+      "level": 86,
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "ability": "Swarm",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Rock",
+      "maxhp": 269,
+      "stats": {
+        "atk": 226,
+        "def": 187,
+        "spa": 170,
+        "spd": 187,
+        "spe": 207
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Lunge",
+          "type": "Bug",
+          "pp": 24
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Regigigas",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Slow Start",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 322,
+      "stats": {
+        "atk": 317,
+        "def": 233,
+        "spa": 183,
+        "spd": 233,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mesprit",
+      "level": 85,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 275,
+      "stats": {
+        "atk": 227,
+        "def": 227,
+        "spa": 227,
+        "spd": 227,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Vaporeon",
+      "level": 86,
+      "types": [
+        "Water"
+      ],
+      "ability": "Water Absorb",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 364,
+      "stats": {
+        "atk": 116,
+        "def": 152,
+        "spa": 238,
+        "spd": 213,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Chansey",
+      "level": 85,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Natural Cure",
+      "item": "Eviolite",
+      "teraType": "Fairy",
+      "maxhp": 564,
+      "stats": {
+        "atk": 13,
+        "def": 57,
+        "spa": 108,
+        "spd": 227,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Seismic Toss",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Soft-Boiled",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Heal Bell",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Morpeko||Leftovers|HungerSwitch|protect,rapidspin,knockoff,aurawheel||85,85,85,85,85,85|M|||88|,,,,,Electric]Leavanny||HeavyDutyBoots|Swarm|knockoff,lunge,stickyweb,leafblade||85,85,85,85,85,85|M|||86|,,,,,Rock]Regigigas||Leftovers|SlowStart|substitute,bodyslam,knockoff,protect||85,85,85,85,85,85|N|||84|,,,,,Poison]Mesprit||Leftovers|Levitate|stealthrock,drainpunch,psychicnoise,thunderbolt||85,85,85,85,85,85|N|||85|,,,,,Fighting]Vaporeon||Leftovers|WaterAbsorb|scald,protect,icebeam,wish||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Chansey||Eviolite|NaturalCure|seismictoss,softboiled,healbell,thunderwave||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy",
   "ai": "Snorlax||Leftovers|ThickFat|rest,bodyslam,curse,sleeptalk||85,85,85,85,85,85|F|||82|,,,,,Poison]Bastiodon||ChestoBerry|Soundproof|foulplay,rest,irondefense,bodypress||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Zamazenta||ChestoBerry|DauntlessShield|ironhead,rest,irondefense,bodypress||85,85,85,85,85,85|N|||71|,,,,,Steel]Sudowoodo||Leftovers|RockHead|stealthrock,headsmash,woodhammer,earthquake||85,85,85,85,85,85|F|||94|,,,,,Grass]Masquerain||HeavyDutyBoots|Intimidate|hydropump,stickyweb,stunspore,hurricane||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ground]Blastoise||WhiteHerb|Torrent|hydropump,shellsmash,terablast,icebeam||85,,85,85,85,85|F|,0,,,,||80|,,,,,Grass",
   "curation": {

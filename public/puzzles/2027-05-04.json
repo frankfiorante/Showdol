@@ -19,6 +19,251 @@
     "Grumpig",
     "Umbreon"
   ],
+  "playerSets": [
+    {
+      "species": "Registeel",
+      "level": 81,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Clear Body",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 262,
+      "stats": {
+        "atk": 168,
+        "def": 290,
+        "spa": 168,
+        "spd": 290,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Gastrodon-East",
+      "level": 86,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Storm Drain",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 331,
+      "stats": {
+        "atk": 192,
+        "def": 166,
+        "spa": 207,
+        "spd": 190,
+        "spe": 116
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Bronzong",
+      "level": 88,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Electric",
+      "maxhp": 261,
+      "stats": {
+        "atk": 207,
+        "def": 254,
+        "spa": 189,
+        "spd": 254,
+        "spe": 108
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Hypnosis",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ursaluna",
+      "level": 79,
+      "types": [
+        "Ground",
+        "Normal"
+      ],
+      "ability": "Guts",
+      "item": "Flame Orb",
+      "teraType": "Normal",
+      "maxhp": 335,
+      "stats": {
+        "atk": 267,
+        "def": 211,
+        "spa": 117,
+        "spd": 172,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Headlong Rush",
+          "type": "Ground",
+          "pp": 8
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Grumpig",
+      "level": 92,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Thick Fat",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 297,
+      "stats": {
+        "atk": 87,
+        "def": 172,
+        "spa": 218,
+        "spd": 255,
+        "spe": 200
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Umbreon",
+      "level": 84,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Synchronize",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 297,
+      "stats": {
+        "atk": 114,
+        "def": 233,
+        "spa": 149,
+        "spd": 267,
+        "spe": 157
+      },
+      "moves": [
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Registeel||Leftovers|ClearBody|stealthrock,bodypress,ironhead,thunderwave||85,85,85,85,85,85|N|||81|,,,,,Fighting]Gastrodon|GastrodonEast|Leftovers|StormDrain|earthquake,recover,sludgebomb,surf||85,85,85,85,85,85|M|||86|,,,,,Poison]Bronzong||Leftovers|Levitate|ironhead,hypnosis,earthquake,psychic||85,85,85,85,85,85|N|||88|,,,,,Electric]Ursaluna||FlameOrb|Guts|crunch,facade,headlongrush,trailblaze||85,85,85,85,85,85|M|||79|,,,,,Normal]Grumpig||Leftovers|ThickFat|nastyplot,psyshock,focusblast,shadowball||85,,85,85,85,85|F|,0,,,,||92|,,,,,Fighting]Umbreon||Leftovers|Synchronize|foulplay,toxic,protect,wish||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison",
   "ai": "Chi-Yu||ChoiceSpecs|BeadsofRuin|flamethrower,psychic,darkpulse,overheat||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Kilowattrel||HeavyDutyBoots|VoltAbsorb|uturn,roost,discharge,hurricane||85,85,85,85,85,85|M|||83|,,,,,Water]Porygon2||Eviolite|Download|shadowball,terablast,thunderwave,recover||85,85,85,85,85,85|N|||81|,,,,,Fairy]Archaludon||LumBerry|Stamina|ironhead,earthquake,swordsdance,outrage||85,85,85,85,85,85|F|||77|,,,,,Ground]Vivillon|VivillonSavanna|HeavyDutyBoots|CompoundEyes|quiverdance,hurricane,bugbuzz,sleeppowder||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Arceus|ArceusWater|SplashPlate|Multitype|icebeam,calmmind,judgment,recover||85,,85,85,85,85|N|,0,,,,||71|,,,,,Steel",
   "curation": {

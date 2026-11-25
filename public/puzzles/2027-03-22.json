@@ -19,6 +19,250 @@
     "Sylveon",
     "Scizor"
   ],
+  "playerSets": [
+    {
+      "species": "Persian-Alola",
+      "level": 86,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Fur Coat",
+      "item": "Leftovers",
+      "teraType": "Electric",
+      "maxhp": 252,
+      "stats": {
+        "atk": 108,
+        "def": 152,
+        "spa": 178,
+        "spd": 161,
+        "spe": 247
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Hypnosis",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Magmortar",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 275,
+      "stats": {
+        "atk": 217,
+        "def": 168,
+        "spa": 270,
+        "spd": 217,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Swalot",
+      "level": 90,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Liquid Ooze",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 326,
+      "stats": {
+        "atk": 183,
+        "def": 201,
+        "spa": 183,
+        "spd": 201,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hydrapple",
+      "level": 83,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Regenerator",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 312,
+      "stats": {
+        "atk": 137,
+        "def": 230,
+        "spa": 247,
+        "spd": 180,
+        "spe": 121
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Fickle Beam",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sylveon",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Pixilate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 300,
+      "stats": {
+        "atk": 115,
+        "def": 159,
+        "spa": 236,
+        "spd": 270,
+        "spe": 151
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Scizor",
+      "level": 79,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "ability": "Technician",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 240,
+      "stats": {
+        "atk": 251,
+        "def": 204,
+        "spa": 132,
+        "spd": 172,
+        "spe": 148
+      },
+      "moves": [
+        {
+          "name": "Bug Bite",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Bullet Punch",
+          "type": "Steel",
+          "pp": 48
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Persian|PersianAlola|Leftovers|FurCoat|nastyplot,darkpulse,thunderbolt,hypnosis||85,,85,85,85,85|F|,0,,,,||86|,,,,,Electric]Magmortar||HeavyDutyBoots|FlameBody|thunderbolt,fireblast,earthquake,willowisp||85,85,85,85,85,85|F|||88|,,,,,Water]Swalot||Leftovers|LiquidOoze|knockoff,gunkshot,swordsdance,earthquake||85,85,85,85,85,85|M|||90|,,,,,Ground]Hydrapple||LifeOrb|Regenerator|earthpower,nastyplot,gigadrain,ficklebeam||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Sylveon||Leftovers|Pixilate|protect,wish,hypervoice,calmmind||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Scizor||LifeOrb|Technician|bugbite,bulletpunch,closecombat,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Steel",
   "ai": "Haxorus||LumBerry|MoldBreaker|outrage,ironhead,earthquake,dragondance||85,85,85,85,85,85|M|||78|,,,,,Steel]Pachirisu||AssaultVest|VoltAbsorb|nuzzle,superfang,thunderbolt,uturn||85,85,85,85,85,85|M|||96|,,,,,Flying]Farigiraf||Leftovers|SapSipper|wish,bodyslam,psychicnoise,protect||85,85,85,85,85,85|M|||89|,,,,,Ground]Gardevoir||LifeOrb|Trace|calmmind,psyshock,moonblast,mysticalfire||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire]Kleavor||HeavyDutyBoots|Sharpness|stoneaxe,closecombat,xscissor,defog||85,85,85,85,85,85|M|||78|,,,,,Rock]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,nastyplot,recover,shadowball||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark",
   "curation": {

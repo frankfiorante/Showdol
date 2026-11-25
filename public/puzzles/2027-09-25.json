@@ -19,6 +19,252 @@
     "Urshifu",
     "Iron Valiant"
   ],
+  "playerSets": [
+    {
+      "species": "Manaphy",
+      "level": 78,
+      "types": [
+        "Water"
+      ],
+      "ability": "Hydration",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 284,
+      "stats": {
+        "atk": 161,
+        "def": 201,
+        "spa": 201,
+        "spd": 201,
+        "spe": 201
+      },
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Tail Glow",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Bastiodon",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "ability": "Soundproof",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 252,
+      "stats": {
+        "atk": 97,
+        "def": 350,
+        "spa": 134,
+        "spd": 296,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Tsareena",
+      "level": 87,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Queenly Majesty",
+      "item": "Assault Vest",
+      "teraType": "Fighting",
+      "maxhp": 267,
+      "stats": {
+        "atk": 259,
+        "def": 220,
+        "spa": 137,
+        "spd": 220,
+        "spe": 175
+      },
+      "moves": [
+        {
+          "name": "High Jump Kick",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zoroark-Hisui",
+      "level": 80,
+      "types": [
+        "Normal",
+        "Ghost"
+      ],
+      "ability": "Illusion",
+      "item": "Choice Specs",
+      "teraType": "Normal",
+      "maxhp": 219,
+      "stats": {
+        "atk": 165,
+        "def": 142,
+        "spa": 246,
+        "spd": 142,
+        "spe": 222
+      },
+      "moves": [
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Bitter Malice",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Urshifu",
+      "level": 74,
+      "types": [
+        "Fighting",
+        "Dark"
+      ],
+      "ability": "Unseen Fist",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 270,
+      "stats": {
+        "atk": 235,
+        "def": 191,
+        "spa": 136,
+        "spd": 132,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Wicked Blow",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Iron Valiant",
+      "level": 78,
+      "types": [
+        "Fairy",
+        "Fighting"
+      ],
+      "ability": "Quark Drive",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 244,
+      "stats": {
+        "atk": 248,
+        "def": 185,
+        "spa": 232,
+        "spd": 139,
+        "spe": 226
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Manaphy||Leftovers|Hydration|surf,energyball,icebeam,tailglow||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Bastiodon||ChestoBerry|Soundproof|irondefense,bodypress,foulplay,rest||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Tsareena||AssaultVest|QueenlyMajesty|highjumpkick,tripleaxel,rapidspin,powerwhip||85,85,85,85,85,85|F|||87|,,,,,Fighting]Zoroark|ZoroarkHisui|ChoiceSpecs|Illusion|hypervoice,trick,bittermalice,focusblast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Normal]Urshifu||LifeOrb|UnseenFist|swordsdance,poisonjab,closecombat,wickedblow||85,85,85,85,85,85|F|||74|,,,,,Poison]Iron Valiant||LifeOrb|QuarkDrive|closecombat,moonblast,knockoff,encore||85,85,85,85,85,85|N|||78|,,,,,Steel",
   "ai": "Jumpluff|||Infiltrator|leechseed,acrobatics,substitute,strengthsap||81,85,85,85,85,85|F|||87|,,,,,Steel]Cetitan||SitrusBerry|ThickFat|icespinner,earthquake,iceshard,bellydrum||81,85,85,85,85,85|F|||82|,,,,,Ice]Girafarig||Eviolite|SapSipper|hypervoice,thunderbolt,nastyplot,psyshock||85,,85,85,85,85|M|,0,,,,||89|,,,,,Electric]Spidops||HeavyDutyBoots|Stakeout|stickyweb,uturn,knockoff,spikes||85,85,85,85,85,85|F|||96|,,,,,Ghost]Banette||LifeOrb|Insomnia|gunkshot,shadowsneak,poltergeist,swordsdance||85,85,85,85,85,85|M|||93|,,,,,Poison]Mew||LifeOrb|Synchronize|knockoff,swordsdance,psychicfangs,closecombat||85,85,85,85,85,85|N|||82|,,,,,Fighting",
   "curation": {

@@ -19,6 +19,251 @@
     "Dondozo",
     "Articuno-Galar"
   ],
+  "playerSets": [
+    {
+      "species": "Palafin",
+      "level": 77,
+      "types": [
+        "Water"
+      ],
+      "ability": "Zero to Hero",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 281,
+      "stats": {
+        "atk": 152,
+        "def": 155,
+        "spa": 126,
+        "spd": 140,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Jet Punch",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Houndstone",
+      "level": 86,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Fluffy",
+      "item": "Assault Vest",
+      "teraType": "Fighting",
+      "maxhp": 264,
+      "stats": {
+        "atk": 223,
+        "def": 221,
+        "spa": 135,
+        "spd": 216,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Slither Wing",
+      "level": 81,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Life Orb",
+      "teraType": "Bug",
+      "maxhp": 270,
+      "stats": {
+        "atk": 265,
+        "def": 175,
+        "spa": 184,
+        "spd": 217,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "First Impression",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Magearna-Original",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Soul-Heart",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 250,
+      "stats": {
+        "atk": 151,
+        "def": 222,
+        "spa": 245,
+        "spd": 222,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Shift Gear",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Fleur Cannon",
+          "type": "Fairy",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dondozo",
+      "level": 78,
+      "types": [
+        "Water"
+      ],
+      "ability": "Unaware",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 362,
+      "stats": {
+        "atk": 201,
+        "def": 224,
+        "spa": 146,
+        "spd": 146,
+        "spe": 100
+      },
+      "moves": [
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Articuno-Galar",
+      "level": 84,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Competitive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 288,
+      "stats": {
+        "atk": 147,
+        "def": 191,
+        "spa": 258,
+        "spd": 216,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Palafin||Leftovers|ZerotoHero|wavecrash,icepunch,bulkup,jetpunch||85,85,85,85,85,85|M|||77|,,,,,Steel]Houndstone||AssaultVest|Fluffy|playrough,bodypress,poltergeist,shadowsneak||85,85,85,85,85,85|F|||86|,,,,,Fighting]Slither Wing||LifeOrb|Protosynthesis|earthquake,wildcharge,closecombat,firstimpression||85,85,85,85,85,85|N|||81|,,,,,Bug]Magearna|MagearnaOriginal|Leftovers|SoulHeart|flashcannon,calmmind,shiftgear,fleurcannon||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Dondozo||Leftovers|Unaware|rest,curse,wavecrash,sleeptalk||85,85,85,85,85,85|F|||78|,,,,,Dragon]Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|calmmind,hurricane,recover,psyshock||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel",
   "ai": "Luxray||FlameOrb|Guts|facade,trailblaze,supercellslam,throatchop||81,85,85,85,85,85|F|||88|,,,,,Normal]Rhyperior||WeaknessPolicy|SolidRock|megahorn,rockpolish,earthquake,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Bug]Dunsparce||Eviolite|SereneGrace|earthquake,roost,coil,bodyslam||85,85,85,85,85,85|F|||86|,,,,,Ground]Lucario||LifeOrb|InnerFocus|nastyplot,aurasphere,flashcannon,vacuumwave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fighting]Volcarona||HeavyDutyBoots|Swarm|quiverdance,bugbuzz,fierydance,gigadrain||85,,85,85,85,85|M|,0,,,,||77|,,,,,Fire]Rillaboom||ChoiceBand|GrassySurge|knockoff,woodhammer,grassyglide,uturn||85,85,85,85,85,85|M|||79|,,,,,Grass",
   "curation": {

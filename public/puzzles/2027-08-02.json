@@ -19,6 +19,254 @@
     "Flutter Mane",
     "Palkia"
   ],
+  "playerSets": [
+    {
+      "species": "Enamorus",
+      "level": 79,
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "ability": "Cute Charm",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 247,
+      "stats": {
+        "atk": 186,
+        "def": 156,
+        "spa": 259,
+        "spd": 172,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Cloyster",
+      "level": 80,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Skill Link",
+      "item": "White Herb",
+      "teraType": "Ground",
+      "maxhp": 211,
+      "stats": {
+        "atk": 198,
+        "def": 334,
+        "spa": 182,
+        "spd": 118,
+        "spe": 158
+      },
+      "moves": [
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Drill Run",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Rock Blast",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Masquerain",
+      "level": 87,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 264,
+      "stats": {
+        "atk": 109,
+        "def": 158,
+        "spa": 224,
+        "spd": 192,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Overqwil",
+      "level": 82,
+      "types": [
+        "Dark",
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 274,
+      "stats": {
+        "atk": 236,
+        "def": 203,
+        "spa": 154,
+        "spd": 154,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Flutter Mane",
+      "level": 74,
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Choice Specs",
+      "teraType": "Fairy",
+      "maxhp": 203,
+      "stats": {
+        "atk": 86,
+        "def": 124,
+        "spa": 243,
+        "spd": 243,
+        "spe": 243
+      },
+      "moves": [
+        {
+          "name": "Mystical Fire",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Palkia",
+      "level": 75,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Choice Scarf",
+      "teraType": "Dragon",
+      "maxhp": 259,
+      "stats": {
+        "atk": 185,
+        "def": 194,
+        "spa": 269,
+        "spd": 224,
+        "spe": 194
+      },
+      "moves": [
+        {
+          "name": "Spacial Rend",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Enamorus||Leftovers|CuteCharm|moonblast,earthpower,substitute,calmmind||85,,85,85,85,85|F|,0,,,,||79|,,,,,Ground]Cloyster||WhiteHerb|SkillLink|iciclespear,drillrun,rockblast,shellsmash||85,85,85,85,85,85|F|||80|,,,,,Ground]Masquerain||HeavyDutyBoots|Intimidate|hydropump,hurricane,stickyweb,stunspore||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Overqwil||ChoiceBand|Intimidate|gunkshot,crunch,liquidation,aquajet||85,85,85,85,85,85|F|||82|,,,,,Water]Flutter Mane||ChoiceSpecs|Protosynthesis|mysticalfire,moonblast,psyshock,shadowball||85,,85,85,85,85|N|,0,,,,||74|,,,,,Fairy]Palkia||ChoiceScarf|Pressure|spacialrend,hydropump,dracometeor,fireblast||85,,85,85,85,85|N|,0,,,,||75|,,,,,Dragon",
   "ai": "Clawitzer||ChoiceSpecs|MegaLauncher|aurasphere,waterpulse,darkpulse,icebeam||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Ludicolo||LifeOrb|SwiftSwim|hydropump,gigadrain,icebeam,raindance||85,,85,85,85,85|M|,0,,,,||90|,,,,,Grass]Jumpluff|||Infiltrator|leechseed,substitute,acrobatics,strengthsap||81,85,85,85,85,85|M|||87|,,,,,Steel]Alcremie|AlcremieSaltedCream|Leftovers|AromaVeil|alluringvoice,calmmind,recover,psyshock||85,,85,85,85,85|F|,0,,,,||90|,,,,,Poison]Oricorio||HeavyDutyBoots|Dancer|roost,revelationdance,quiverdance,hurricane||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ground]Garganacl||Leftovers|PurifyingSalt|recover,stealthrock,saltcure,bodypress||85,85,85,85,85,85|F|||80|,,,,,Dragon",
   "curation": {

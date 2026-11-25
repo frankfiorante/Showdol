@@ -19,6 +19,253 @@
     "Feraligatr",
     "Enamorus"
   ],
+  "playerSets": [
+    {
+      "species": "Bastiodon",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "ability": "Soundproof",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 252,
+      "stats": {
+        "atk": 97,
+        "def": 350,
+        "spa": 134,
+        "spd": 296,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Gengar",
+      "level": 81,
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "ability": "Cursed Body",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 230,
+      "stats": {
+        "atk": 110,
+        "def": 144,
+        "spa": 257,
+        "spd": 168,
+        "spe": 225
+      },
+      "moves": [
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Flutter Mane",
+      "level": 74,
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Choice Specs",
+      "teraType": "Fairy",
+      "maxhp": 203,
+      "stats": {
+        "atk": 86,
+        "def": 124,
+        "spa": 243,
+        "spd": 243,
+        "spe": 243
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Pawmot",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Fighting"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Leppa Berry",
+      "teraType": "Electric",
+      "maxhp": 243,
+      "stats": {
+        "atk": 230,
+        "def": 158,
+        "spa": 158,
+        "spd": 142,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Nuzzle",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Double Shock",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Revival Blessing",
+          "type": "Normal",
+          "pp": 1
+        }
+      ]
+    },
+    {
+      "species": "Feraligatr",
+      "level": 79,
+      "types": [
+        "Water"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Dragon",
+      "maxhp": 264,
+      "stats": {
+        "atk": 211,
+        "def": 204,
+        "spa": 170,
+        "spd": 177,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Enamorus",
+      "level": 79,
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "ability": "Contrary",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 247,
+      "stats": {
+        "atk": 227,
+        "def": 156,
+        "spa": 259,
+        "spd": 172,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Bastiodon||ChestoBerry|Soundproof|foulplay,rest,irondefense,bodypress||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Gengar||LifeOrb|CursedBody|focusblast,shadowball,sludgewave,encore||85,,85,85,85,85|F|,0,,,,||81|,,,,,Fighting]Flutter Mane||ChoiceSpecs|Protosynthesis|psyshock,shadowball,thunderbolt,moonblast||85,,85,85,85,85|N|,0,,,,||74|,,,,,Fairy]Pawmot||LeppaBerry|VoltAbsorb|nuzzle,closecombat,doubleshock,revivalblessing||85,85,85,85,85,85|F|||80|,,,,,Electric]Feraligatr||LifeOrb|SheerForce|dragondance,icepunch,liquidation,crunch||85,85,85,85,85,85|M|||79|,,,,,Dragon]Enamorus||Leftovers|Contrary|superpower,substitute,zenheadbutt,playrough||85,85,85,85,85,85|F|||79|,,,,,Fighting",
   "ai": "Blastoise||WhiteHerb|Torrent|hydropump,icebeam,shellsmash,terablast||85,,85,85,85,85|M|,0,,,,||80|,,,,,Electric]Chansey||Eviolite|NaturalCure|seismictoss,stealthrock,thunderwave,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ghost]Scream Tail||Leftovers|Protosynthesis|thunderwave,dazzlinggleam,protect,wish||85,,85,85,85,85|N|,0,,,,||84|,,,,,Poison]Toedscruel||Leftovers|MyceliumMight|earthpower,rapidspin,leafstorm,toxic||85,85,85,85,85,85|F|||87|,,,,,Water]Carbink||ChestoBerry|ClearBody|bodypress,rest,moonblast,irondefense||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Arceus||LifeOrb|Multitype|swordsdance,extremespeed,earthquake,recover||85,85,85,85,85,85|N|||68|,,,,,Normal",
   "curation": {

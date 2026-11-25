@@ -19,6 +19,251 @@
     "Iron Jugulis",
     "Kommo-o"
   ],
+  "playerSets": [
+    {
+      "species": "Hitmonchan",
+      "level": 87,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Iron Fist",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 229,
+      "stats": {
+        "atk": 232,
+        "def": 187,
+        "spa": 111,
+        "spd": 241,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Magcargo",
+      "level": 95,
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 268,
+      "stats": {
+        "atk": 100,
+        "def": 282,
+        "spa": 225,
+        "spd": 206,
+        "spe": 111
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Lava Plume",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Arceus-Electric",
+      "level": 70,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Multitype",
+      "item": "Zap Plate",
+      "teraType": "Ice",
+      "maxhp": 284,
+      "stats": {
+        "atk": 173,
+        "def": 209,
+        "spa": 209,
+        "spd": 209,
+        "spe": 209
+      },
+      "moves": [
+        {
+          "name": "Judgment",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Magmortar",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 275,
+      "stats": {
+        "atk": 217,
+        "def": 168,
+        "spa": 270,
+        "spd": 217,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Scorching Sands",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Iron Jugulis",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "ability": "Quark Drive",
+      "item": "Choice Specs",
+      "teraType": "Ground",
+      "maxhp": 271,
+      "stats": {
+        "atk": 128,
+        "def": 177,
+        "spa": 232,
+        "spd": 168,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Kommo-o",
+      "level": 77,
+      "types": [
+        "Dragon",
+        "Fighting"
+      ],
+      "ability": "Soundproof",
+      "item": "Throat Spray",
+      "teraType": "Steel",
+      "maxhp": 242,
+      "stats": {
+        "atk": 214,
+        "def": 237,
+        "spa": 199,
+        "spd": 206,
+        "spe": 175
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Clanging Scales",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Clangorous Soul",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Hitmonchan||Leftovers|IronFist|drainpunch,knockoff,rapidspin,encore||85,85,85,85,85,85|M|||87|,,,,,Steel]Magcargo||HeavyDutyBoots|FlameBody|recover,stealthrock,yawn,lavaplume||85,,85,85,85,85|M|,0,,,,||95|,,,,,Dragon]Arceus|ArceusElectric|ZapPlate|Multitype|judgment,calmmind,icebeam,recover||85,,85,85,85,85|N|,0,,,,||70|,,,,,Ice]Magmortar||HeavyDutyBoots|FlameBody|thunderbolt,fireblast,scorchingsands,knockoff||85,85,85,85,85,85|M|||88|,,,,,Electric]Iron Jugulis||ChoiceSpecs|QuarkDrive|hurricane,darkpulse,hydropump,earthpower||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Kommo-o||ThroatSpray|Soundproof|drainpunch,ironhead,clangingscales,clangoroussoul||85,85,85,85,85,85|M|||77|,,,,,Steel",
   "ai": "Golem|GolemAlola|ChoiceBand|Galvanize|explosion,stoneedge,earthquake,doubleedge||85,85,85,85,85,85|M|||93|,,,,,Grass]Raikou||HeavyDutyBoots|Pressure|thunderbolt,calmmind,voltswitch,scald||85,,85,85,85,85|N|,0,,,,||82|,,,,,Electric]Venusaur||Leftovers|Chlorophyll|sludgebomb,substitute,leechseed,sleeppowder||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Zangoose||ToxicOrb|ToxicBoost|knockoff,quickattack,facade,swordsdance||85,85,85,85,85,85|F|||85|,,,,,Normal]Gyarados||HeavyDutyBoots|Intimidate|stoneedge,earthquake,dragondance,waterfall||85,85,85,85,85,85|F|||79|,,,,,Ground]Spectrier||Leftovers|GrimNeigh|nastyplot,drainingkiss,shadowball,substitute||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fairy",
   "curation": {

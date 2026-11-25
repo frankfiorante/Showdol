@@ -19,6 +19,252 @@
     "Samurott-Hisui",
     "Kyurem-Black"
   ],
+  "playerSets": [
+    {
+      "species": "Fezandipiti",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Fairy"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 196,
+        "def": 182,
+        "spa": 162,
+        "spd": 252,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Granbull",
+      "level": 88,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 302,
+      "stats": {
+        "atk": 261,
+        "def": 182,
+        "spa": 156,
+        "spd": 156,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Electivire",
+      "level": 84,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Motor Drive",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 263,
+      "stats": {
+        "atk": 255,
+        "def": 161,
+        "spa": 208,
+        "spd": 191,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bisharp",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Steel"
+      ],
+      "ability": "Defiant",
+      "item": "Eviolite",
+      "teraType": "Flying",
+      "maxhp": 232,
+      "stats": {
+        "atk": 243,
+        "def": 204,
+        "spa": 140,
+        "spd": 156,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Samurott-Hisui",
+      "level": 77,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Sharpness",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 265,
+      "stats": {
+        "atk": 211,
+        "def": 168,
+        "spa": 199,
+        "spd": 145,
+        "spe": 175
+      },
+      "moves": [
+        {
+          "name": "Razor Shell",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Ceaseless Edge",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Kyurem-Black",
+      "level": 71,
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "ability": "Teravolt",
+      "item": "Loaded Dice",
+      "teraType": "Electric",
+      "maxhp": 295,
+      "stats": {
+        "atk": 283,
+        "def": 183,
+        "spa": 212,
+        "spd": 169,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Fusion Bolt",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        }
+      ]
+    }
+  ],
   "player": "Fezandipiti||Leftovers|ToxicChain|swordsdance,playrough,terablast,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Ground]Granbull||Leftovers|Intimidate|earthquake,playrough,thunderwave,encore||85,85,85,85,85,85|F|||88|,,,,,Ground]Electivire||LifeOrb|MotorDrive|bulkup,icepunch,supercellslam,earthquake||85,85,85,85,85,85|M|||84|,,,,,Ground]Bisharp||Eviolite|Defiant|throatchop,ironhead,swordsdance,suckerpunch||85,85,85,85,85,85|F|||79|,,,,,Flying]Samurott|SamurottHisui|ChoiceBand|Sharpness|razorshell,flipturn,suckerpunch,ceaselessedge||85,85,85,85,85,85|F|||77|,,,,,Water]Kyurem|KyuremBlack|LoadedDice|Teravolt|dragondance,scaleshot,fusionbolt,iciclespear||85,85,85,85,85,85|N|||71|,,,,,Electric",
   "ai": "Dunsparce||Eviolite|SereneGrace|roost,coil,bodyslam,earthquake||85,85,85,85,85,85|M|||86|,,,,,Ghost]Blaziken||LifeOrb|SpeedBoost|flareblitz,knockoff,closecombat,swordsdance||85,85,85,85,85,85|M|||76|,,,,,Dark]Dachsbun||Leftovers|WellBakedBody|playrough,protect,wish,bodypress||85,85,85,85,85,85|F|||92|,,,,,Steel]Glastrier||HeavyDutyBoots|ChillingNeigh|swordsdance,iciclecrash,heavyslam,highhorsepower||85,85,85,85,85,85|N|||86|,,,,,Ground]Luxray||FlameOrb|Guts|supercellslam,trailblaze,throatchop,facade||81,85,85,85,85,85|M|||88|,,,,,Normal]Salazzle||HeavyDutyBoots|Corrosion|fireblast,terablast,sludgewave,nastyplot||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass",
   "curation": {

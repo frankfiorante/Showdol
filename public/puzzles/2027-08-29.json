@@ -19,6 +19,251 @@
     "Landorus",
     "Kyurem"
   ],
+  "playerSets": [
+    {
+      "species": "Golduck",
+      "level": 90,
+      "types": [
+        "Water"
+      ],
+      "ability": "Cloud Nine",
+      "item": "Choice Specs",
+      "teraType": "Grass",
+      "maxhp": 290,
+      "stats": {
+        "atk": 199,
+        "def": 192,
+        "spa": 222,
+        "spd": 195,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Zebstrika",
+      "level": 87,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 272,
+      "stats": {
+        "atk": 224,
+        "def": 159,
+        "spa": 189,
+        "spd": 159,
+        "spe": 252
+      },
+      "moves": [
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mamoswine",
+      "level": 81,
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "ability": "Thick Fat",
+      "item": "Choice Band",
+      "teraType": "Ice",
+      "maxhp": 311,
+      "stats": {
+        "atk": 257,
+        "def": 176,
+        "spa": 160,
+        "spd": 144,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Phione",
+      "level": 91,
+      "types": [
+        "Water"
+      ],
+      "ability": "Hydration",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 293,
+      "stats": {
+        "atk": 150,
+        "def": 197,
+        "spa": 197,
+        "spd": 197,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Take Heart",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Landorus",
+      "level": 75,
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 257,
+      "stats": {
+        "atk": 231,
+        "def": 179,
+        "spa": 216,
+        "spd": 164,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Kyurem",
+      "level": 77,
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "ability": "Pressure",
+      "item": "Loaded Dice",
+      "teraType": "Ground",
+      "maxhp": 319,
+      "stats": {
+        "atk": 245,
+        "def": 183,
+        "spa": 245,
+        "spd": 183,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        }
+      ]
+    }
+  ],
   "player": "Golduck||ChoiceSpecs|CloudNine|icebeam,flipturn,hydropump,grassknot||85,85,85,85,85,85|M|||90|,,,,,Grass]Zebstrika||LifeOrb|SapSipper|overheat,voltswitch,supercellslam,highhorsepower||85,85,85,85,85,85|F|||87|,,,,,Ground]Mamoswine||ChoiceBand|ThickFat|iceshard,earthquake,iciclecrash,knockoff||85,85,85,85,85,85|M|||81|,,,,,Ice]Phione||Leftovers|Hydration|takeheart,icebeam,scald,grassknot||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Landorus||LifeOrb|SheerForce|sludgewave,focusblast,rockslide,earthpower||85,85,85,85,85,85|M|||75|,,,,,Poison]Kyurem||LoadedDice|Pressure|terablast,dragondance,scaleshot,iciclespear||85,85,85,85,85,85|N|||77|,,,,,Ground",
   "ai": "Greedent||SitrusBerry|CheekPouch|earthquake,bodyslam,knockoff,swordsdance||85,85,85,85,85,85|M|||86|,,,,,Ghost]Smeargle||WideLens|Technician|powertrip,shellsmash,populationbomb,spore||85,85,85,85,85,85|F|||95|,,,,,Ghost]Fezandipiti||Leftovers|ToxicChain|gunkshot,beatup,moonblast,roost||85,85,85,85,85,85|M|||82|,,,,,Dark]Slowbro||AssaultVest|Regenerator|psychicnoise,futuresight,scald,fireblast||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fairy]Okidogi||Leftovers|ToxicChain|drainpunch,bulkup,knockoff,gunkshot||85,85,85,85,85,85|M|||77|,,,,,Dark]Zamazenta||RustedShield|DauntlessShield|stoneedge,bodypress,irondefense,heavyslam||85,85,85,85,85,85|N|||68|,,,,,Ghost",
   "curation": {

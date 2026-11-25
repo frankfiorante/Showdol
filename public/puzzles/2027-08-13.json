@@ -19,6 +19,251 @@
     "Registeel",
     "Annihilape"
   ],
+  "playerSets": [
+    {
+      "species": "Enamorus",
+      "level": 79,
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "ability": "Cute Charm",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 247,
+      "stats": {
+        "atk": 186,
+        "def": 156,
+        "spa": 259,
+        "spd": 172,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Mystical Fire",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Weavile",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Ice"
+      ],
+      "ability": "Pickpocket",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 240,
+      "stats": {
+        "atk": 235,
+        "def": 148,
+        "spa": 117,
+        "spd": 180,
+        "spe": 243
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Low Kick",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Minun",
+      "level": 95,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 268,
+      "stats": {
+        "atk": 81,
+        "def": 149,
+        "spa": 196,
+        "spd": 215,
+        "spe": 234
+      },
+      "moves": [
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Meowstic-F",
+      "level": 89,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Competitive",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 277,
+      "stats": {
+        "atk": 90,
+        "def": 186,
+        "spa": 199,
+        "spd": 195,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Registeel",
+      "level": 81,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Clear Body",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 262,
+      "stats": {
+        "atk": 168,
+        "def": 290,
+        "spa": 168,
+        "spd": 290,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Annihilape",
+      "level": 76,
+      "types": [
+        "Fighting",
+        "Ghost"
+      ],
+      "ability": "Defiant",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 292,
+      "stats": {
+        "atk": 219,
+        "def": 166,
+        "spa": 120,
+        "spd": 181,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Rage Fist",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Enamorus||HeavyDutyBoots|CuteCharm|moonblast,earthpower,calmmind,mysticalfire||85,,85,85,85,85|F|,0,,,,||79|,,,,,Ground]Weavile||HeavyDutyBoots|Pickpocket|swordsdance,knockoff,lowkick,tripleaxel||85,85,85,85,85,85|F|||79|,,,,,Dark]Minun||LifeOrb|VoltAbsorb|grassknot,nastyplot,thunderbolt,alluringvoice||85,,85,85,85,85|M|,0,,,,||95|,,,,,Grass]Meowstic|MeowsticF|LifeOrb|Competitive|darkpulse,nastyplot,psychic,thunderbolt||85,,85,85,85,85|F|,0,,,,||89|,,,,,Dark]Registeel||Leftovers|ClearBody|thunderwave,ironhead,bodypress,irondefense||85,85,85,85,85,85|N|||81|,,,,,Fighting]Annihilape||Leftovers|Defiant|gunkshot,bulkup,ragefist,drainpunch||85,85,85,85,85,85|M|||76|,,,,,Water",
   "ai": "Raging Bolt||AssaultVest|Protosynthesis|dracometeor,voltswitch,thunderbolt,thunderclap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Terrakion||ChoiceBand|Justified|earthquake,quickattack,stoneedge,closecombat||85,85,85,85,85,85|N|||79|,,,,,Fighting]Cobalion||LifeOrb|Justified|swordsdance,stoneedge,ironhead,closecombat||85,85,85,85,85,85|N|||80|,,,,,Fighting]Brute Bonnet||Leftovers|Protosynthesis|spore,suckerpunch,crunch,seedbomb||85,85,85,85,85,85|N|||79|,,,,,Poison]Arceus|ArceusFlying|SkyPlate|Multitype|recover,calmmind,judgment,earthpower||81,,85,85,85,85|N|,0,,,,||69|,,,,,Steel]Kricketune||HeavyDutyBoots|Technician|knockoff,stickyweb,pounce,taunt||85,85,85,85,85,85|M|||99|,,,,,Ghost",
   "curation": {

@@ -19,6 +19,251 @@
     "Ampharos",
     "Meowscarada"
   ],
+  "playerSets": [
+    {
+      "species": "Dunsparce",
+      "level": 86,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Serene Grace",
+      "item": "Eviolite",
+      "teraType": "Ghost",
+      "maxhp": 312,
+      "stats": {
+        "atk": 170,
+        "def": 170,
+        "spa": 161,
+        "spd": 161,
+        "spe": 127
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Iron Jugulis",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "ability": "Quark Drive",
+      "item": "Power Herb",
+      "teraType": "Ground",
+      "maxhp": 271,
+      "stats": {
+        "atk": 128,
+        "def": 177,
+        "spa": 232,
+        "spd": 168,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Meteor Beam",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Porygon2",
+      "level": 81,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Download",
+      "item": "Eviolite",
+      "teraType": "Electric",
+      "maxhp": 270,
+      "stats": {
+        "atk": 134,
+        "def": 192,
+        "spa": 217,
+        "spd": 201,
+        "spe": 144
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Tri Attack",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Glimmora",
+      "level": 75,
+      "types": [
+        "Rock",
+        "Poison"
+      ],
+      "ability": "Toxic Debris",
+      "item": "Power Herb",
+      "teraType": "Grass",
+      "maxhp": 248,
+      "stats": {
+        "atk": 87,
+        "def": 179,
+        "spa": 239,
+        "spd": 165,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Meteor Beam",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ampharos",
+      "level": 88,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Static",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 302,
+      "stats": {
+        "atk": 137,
+        "def": 200,
+        "spa": 253,
+        "spd": 209,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Meowscarada",
+      "level": 78,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Protean",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 247,
+      "stats": {
+        "atk": 217,
+        "def": 154,
+        "spa": 171,
+        "spd": 154,
+        "spe": 237
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Flower Trick",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Dunsparce||Eviolite|SereneGrace|roost,earthquake,coil,bodyslam||85,85,85,85,85,85|M|||86|,,,,,Ghost]Iron Jugulis||PowerHerb|QuarkDrive|darkpulse,earthpower,meteorbeam,hurricane||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Porygon2||Eviolite|Download|icebeam,recover,triattack,discharge||85,,85,85,85,85|N|,0,,,,||81|,,,,,Electric]Glimmora||PowerHerb|ToxicDebris|meteorbeam,energyball,earthpower,sludgewave||85,,85,85,85,85|M|,0,,,,||75|,,,,,Grass]Ampharos||LifeOrb|Static|thunderbolt,focusblast,dazzlinggleam,agility||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fairy]Meowscarada||ChoiceBand|Protean|knockoff,flowertrick,tripleaxel,uturn||85,85,85,85,85,85|M|||78|,,,,,Dark",
   "ai": "Magearna||WeaknessPolicy|SoulHeart|shiftgear,terablast,fleurcannon,ironhead||85,85,85,85,85,85|N|||77|,,,,,Ground]Arceus|ArceusGhost|SpookyPlate|Multitype|focusblast,recover,willowisp,judgment||85,,85,85,85,85|N|,0,,,,||69|,,,,,Fighting]Kleavor||HeavyDutyBoots|Sharpness|xscissor,defog,stoneaxe,closecombat||85,85,85,85,85,85|F|||78|,,,,,Fighting]Farigiraf||Leftovers|SapSipper|protect,bodyslam,psychicnoise,wish||85,85,85,85,85,85|M|||89|,,,,,Ground]Great Tusk||ChoiceBand|Protosynthesis|stoneedge,closecombat,knockoff,headlongrush||85,85,85,85,85,85|N|||77|,,,,,Ground]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,knockoff,hydropump||85,85,85,85,85,85|M|||89|,,,,,Ground",
   "curation": {

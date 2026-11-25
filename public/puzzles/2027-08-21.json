@@ -19,6 +19,252 @@
     "Heatran",
     "Deoxys"
   ],
+  "playerSets": [
+    {
+      "species": "Glastrier",
+      "level": 86,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Chilling Neigh",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 312,
+      "stats": {
+        "atk": 299,
+        "def": 273,
+        "spa": 161,
+        "spd": 238,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Kyurem",
+      "level": 77,
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "ability": "Pressure",
+      "item": "Loaded Dice",
+      "teraType": "Ground",
+      "maxhp": 319,
+      "stats": {
+        "atk": 245,
+        "def": 183,
+        "spa": 245,
+        "spd": 183,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Fezandipiti",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Fairy"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 278,
+      "stats": {
+        "atk": 196,
+        "def": 182,
+        "spa": 162,
+        "spd": 252,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Tropius",
+      "level": 91,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Steel",
+      "maxhp": 328,
+      "stats": {
+        "atk": 128,
+        "def": 203,
+        "spa": 183,
+        "spd": 210,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Heatran",
+      "level": 79,
+      "types": [
+        "Fire",
+        "Steel"
+      ],
+      "ability": "Flash Fire",
+      "item": "Air Balloon",
+      "teraType": "Grass",
+      "maxhp": 273,
+      "stats": {
+        "atk": 188,
+        "def": 213,
+        "spa": 251,
+        "spd": 213,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Lava Plume",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Deoxys",
+      "level": 74,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Life Orb",
+      "teraType": "Psychic",
+      "maxhp": 196,
+      "stats": {
+        "atk": 265,
+        "def": 117,
+        "spa": 265,
+        "spd": 117,
+        "spe": 265
+      },
+      "moves": [
+        {
+          "name": "Psycho Boost",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Glastrier||HeavyDutyBoots|ChillingNeigh|iciclecrash,closecombat,heavyslam,swordsdance||85,85,85,85,85,85|N|||86|,,,,,Steel]Kyurem||LoadedDice|Pressure|terablast,dragondance,scaleshot,iciclespear||85,85,85,85,85,85|N|||77|,,,,,Ground]Fezandipiti||Leftovers|ToxicChain|gunkshot,roost,uturn,moonblast||85,85,85,85,85,85|M|||82|,,,,,Water]Tropius||SitrusBerry|Harvest|substitute,leechseed,protect,airslash||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Heatran||AirBalloon|FlashFire|earthpower,heavyslam,lavaplume,stealthrock||85,85,85,85,85,85|F|||79|,,,,,Grass]Deoxys||LifeOrb|Pressure|psychoboost,superpower,knockoff,extremespeed||85,85,85,85,85,85|N|||74|,,,,,Psychic",
   "ai": "Charizard||HeavyDutyBoots|Blaze|flareblitz,swordsdance,earthquake,outrage||85,85,85,85,85,85|M|||85|,,,,,Ground]Florges|FlorgesYellow|Leftovers|FlowerVeil|calmmind,protect,moonblast,wish||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Lumineon||LifeOrb|StormDrain|hydropump,icebeam,alluringvoice,encore||85,,85,85,85,85|M|,0,,,,||93|,,,,,Fairy]Misdreavus||Eviolite|Levitate|shadowball,drainingkiss,calmmind,willowisp||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Klefki||Leftovers|Prankster|spikes,thunderwave,foulplay,dazzlinggleam||85,,85,85,85,85|M|,0,,,,||84|,,,,,Water]Rillaboom||ChoiceBand|GrassySurge|uturn,woodhammer,highhorsepower,grassyglide||85,85,85,85,85,85|F|||79|,,,,,Grass",
   "curation": {

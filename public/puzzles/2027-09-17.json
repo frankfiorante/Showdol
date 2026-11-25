@@ -19,6 +19,253 @@
     "Azumarill",
     "Torkoal"
   ],
+  "playerSets": [
+    {
+      "species": "Jirachi",
+      "level": 80,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 291,
+      "stats": {
+        "atk": 206,
+        "def": 206,
+        "spa": 206,
+        "spd": 206,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Torterra",
+      "level": 78,
+      "types": [
+        "Grass",
+        "Ground"
+      ],
+      "ability": "Overgrow",
+      "item": "Loaded Dice",
+      "teraType": "Water",
+      "maxhp": 276,
+      "stats": {
+        "atk": 215,
+        "def": 209,
+        "spa": 162,
+        "spd": 178,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Rock Blast",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        },
+        {
+          "name": "Headlong Rush",
+          "type": "Ground",
+          "pp": 8
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Vileplume",
+      "level": 85,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Effect Spore",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 141,
+        "def": 193,
+        "spa": 236,
+        "spd": 202,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Crawdaunt",
+      "level": 84,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Adaptability",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 243,
+      "stats": {
+        "atk": 250,
+        "def": 191,
+        "spa": 199,
+        "spd": 141,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Crabhammer",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Azumarill",
+      "level": 82,
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "ability": "Huge Power",
+      "item": "Sitrus Berry",
+      "teraType": "Water",
+      "maxhp": 298,
+      "stats": {
+        "atk": 129,
+        "def": 178,
+        "spa": 146,
+        "spd": 178,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Belly Drum",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Torkoal",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Drought",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 297,
+        "spa": 200,
+        "spd": 173,
+        "spe": 85
+      },
+      "moves": [
+        {
+          "name": "Lava Plume",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    }
+  ],
   "player": "Jirachi||Leftovers|SereneGrace|protect,wish,ironhead,psychic||85,85,85,85,85,85|N|||80|,,,,,Water]Torterra||LoadedDice|Overgrow|rockblast,bulletseed,headlongrush,shellsmash||85,85,85,85,85,85|F|||78|,,,,,Water]Vileplume||Leftovers|EffectSpore|strengthsap,gigadrain,leechseed,sludgebomb||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Crawdaunt||LifeOrb|Adaptability|dragondance,closecombat,crabhammer,knockoff||85,85,85,85,85,85|M|||84|,,,,,Fighting]Azumarill||SitrusBerry|HugePower|bellydrum,aquajet,liquidation,playrough||85,85,85,85,85,85|F|||82|,,,,,Water]Torkoal||HeavyDutyBoots|Drought|lavaplume,yawn,stealthrock,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Dragon",
   "ai": "Lokix||SilverPowder|TintedLens|suckerpunch,firstimpression,knockoff,uturn||85,85,85,85,85,85|M|||82|,,,,,Bug]Mewtwo||LifeOrb|Unnerve|aurasphere,fireblast,nastyplot,psystrike||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic]Rotom|RotomWash|ChoiceScarf|Levitate|trick,thunderbolt,hydropump,voltswitch||85,,85,85,85,85|N|,0,,,,||82|,,,,,Electric]Magearna||Leftovers|SoulHeart|flashcannon,painsplit,voltswitch,fleurcannon||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fairy]Qwilfish|QwilfishHisui|Eviolite|Intimidate|gunkshot,spikes,crunch,taunt||85,85,85,85,85,85|F|||83|,,,,,Poison]Lugia||HeavyDutyBoots|Multiscale|aeroblast,psychicnoise,recover,calmmind||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel",
   "curation": {

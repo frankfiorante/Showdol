@@ -19,6 +19,251 @@
     "Eiscue",
     "Alcremie-Mint-Cream"
   ],
+  "playerSets": [
+    {
+      "species": "Exeggutor",
+      "level": 89,
+      "types": [
+        "Grass",
+        "Psychic"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Steel",
+      "maxhp": 312,
+      "stats": {
+        "atk": 174,
+        "def": 202,
+        "spa": 273,
+        "spd": 184,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ting-Lu",
+      "level": 78,
+      "types": [
+        "Dark",
+        "Ground"
+      ],
+      "ability": "Vessel of Ruin",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 370,
+      "stats": {
+        "atk": 217,
+        "def": 240,
+        "spa": 131,
+        "spd": 170,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Cinderace",
+      "level": 77,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Libero",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 249,
+      "stats": {
+        "atk": 223,
+        "def": 160,
+        "spa": 145,
+        "spd": 160,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "High Jump Kick",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Pyro Ball",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Glimmora",
+      "level": 75,
+      "types": [
+        "Rock",
+        "Poison"
+      ],
+      "ability": "Toxic Debris",
+      "item": "Power Herb",
+      "teraType": "Grass",
+      "maxhp": 248,
+      "stats": {
+        "atk": 87,
+        "def": 179,
+        "spa": 239,
+        "spd": 165,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Meteor Beam",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Eiscue",
+      "level": 88,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Ice Face",
+      "item": "Sitrus Berry",
+      "teraType": "Ground",
+      "maxhp": 274,
+      "stats": {
+        "atk": 191,
+        "def": 244,
+        "spa": 165,
+        "spd": 209,
+        "spe": 138
+      },
+      "moves": [
+        {
+          "name": "Belly Drum",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Alcremie-Mint-Cream",
+      "level": 90,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Aroma Veil",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 263,
+      "stats": {
+        "atk": 113,
+        "def": 186,
+        "spa": 249,
+        "spd": 269,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Exeggutor||SitrusBerry|Harvest|substitute,calmmind,psychic,gigadrain||77,,85,85,85,85|F|,0,,,,||89|,,,,,Steel]Ting-Lu||Leftovers|VesselofRuin|spikes,earthquake,throatchop,stealthrock||85,85,85,85,85,85|N|||78|,,,,,Ghost]Cinderace||ChoiceBand|Libero|highjumpkick,pyroball,gunkshot,uturn||81,85,85,85,85,85|F|||77|,,,,,Fighting]Glimmora||PowerHerb|ToxicDebris|meteorbeam,sludgewave,earthpower,energyball||85,,85,85,85,85|M|,0,,,,||75|,,,,,Grass]Eiscue||SitrusBerry|IceFace|bellydrum,terablast,icespinner,liquidation||81,85,85,85,85,85|F|||88|,,,,,Ground]Alcremie|AlcremieMintCream|Leftovers|AromaVeil|alluringvoice,psyshock,calmmind,recover||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel",
   "ai": "Squawkabilly|SquawkabillyYellow|ChoiceBand|Hustle|foulplay,doubleedge,quickattack,bravebird||85,85,85,85,85,85|M|||89|,,,,,Normal]Vivillon|VivillonRiver|HeavyDutyBoots|CompoundEyes|hurricane,terablast,sleeppowder,quiverdance||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground]Iron Valiant||LifeOrb|QuarkDrive|knockoff,closecombat,spiritbreak,swordsdance||85,85,85,85,85,85|N|||78|,,,,,Fighting]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Steel]Crawdaunt||LifeOrb|Adaptability|knockoff,crabhammer,dragondance,aquajet||85,85,85,85,85,85|M|||84|,,,,,Water]Sandaconda||Leftovers|ShedSkin|earthquake,rest,coil,stoneedge||85,85,85,85,85,85|M|||84|,,,,,Dragon",
   "curation": {

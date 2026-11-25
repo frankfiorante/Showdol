@@ -19,6 +19,252 @@
     "Ursaluna-Bloodmoon",
     "Terrakion"
   ],
+  "playerSets": [
+    {
+      "species": "Vileplume",
+      "level": 85,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Effect Spore",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 141,
+        "def": 193,
+        "spa": 236,
+        "spd": 202,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Cinccino",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Loaded Dice",
+      "teraType": "Grass",
+      "maxhp": 260,
+      "stats": {
+        "atk": 205,
+        "def": 147,
+        "spa": 156,
+        "spd": 147,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Tail Slap",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cramorant",
+      "level": 86,
+      "types": [
+        "Flying",
+        "Water"
+      ],
+      "ability": "Gulp Missile",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 261,
+      "stats": {
+        "atk": 195,
+        "def": 144,
+        "spa": 195,
+        "spd": 213,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Vaporeon",
+      "level": 86,
+      "types": [
+        "Water"
+      ],
+      "ability": "Water Absorb",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 364,
+      "stats": {
+        "atk": 116,
+        "def": 152,
+        "spa": 238,
+        "spd": 213,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ursaluna-Bloodmoon",
+      "level": 79,
+      "types": [
+        "Ground",
+        "Normal"
+      ],
+      "ability": "Mind's Eye",
+      "item": "Leftovers",
+      "teraType": "Normal",
+      "maxhp": 308,
+      "stats": {
+        "atk": 115,
+        "def": 235,
+        "spa": 259,
+        "spd": 148,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Vacuum Wave",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Moonlight",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Blood Moon",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Terrakion",
+      "level": 79,
+      "types": [
+        "Rock",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 273,
+      "stats": {
+        "atk": 249,
+        "def": 188,
+        "spa": 159,
+        "spd": 188,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Vileplume||Leftovers|EffectSpore|gigadrain,sludgebomb,strengthsap,sleeppowder||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Cinccino||LoadedDice|Technician|bulletseed,uturn,tripleaxel,tailslap||85,85,85,85,85,85|F|||83|,,,,,Grass]Cramorant||HeavyDutyBoots|GulpMissile|roost,defog,bravebird,surf||85,85,85,85,85,85|F|||86|,,,,,Ground]Vaporeon||Leftovers|WaterAbsorb|calmmind,scald,wish,protect||85,,85,85,85,85|F|,0,,,,||86|,,,,,Ghost]Ursaluna|UrsalunaBloodmoon|Leftovers|MindsEye|vacuumwave,moonlight,bloodmoon,calmmind||85,,85,85,85,85|M|,0,,,,||79|,,,,,Normal]Terrakion||LifeOrb|Justified|swordsdance,closecombat,earthquake,stoneedge||85,85,85,85,85,85|N|||79|,,,,,Ground",
   "ai": "Rhyperior||AssaultVest|SolidRock|stoneedge,earthquake,dragontail,icepunch||85,85,85,85,85,85|M|||82|,,,,,Steel]Emboar||AssaultVest|Reckless|closecombat,flareblitz,knockoff,wildcharge||85,85,85,85,85,85|M|||84|,,,,,Electric]Yanmega||ChoiceSpecs|TintedLens|gigadrain,bugbuzz,uturn,airslash||85,85,85,85,85,85|M|||82|,,,,,Bug]Excadrill||Leftovers|MoldBreaker|swordsdance,ironhead,rapidspin,earthquake||85,85,85,85,85,85|M|||79|,,,,,Water]Regidrago||LifeOrb|DragonsMaw|earthquake,terablast,dragonclaw,dragondance||85,85,85,85,85,85|N|||77|,,,,,Steel]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,hydropump,knockoff||85,85,85,85,85,85|M|||89|,,,,,Ground",
   "curation": {

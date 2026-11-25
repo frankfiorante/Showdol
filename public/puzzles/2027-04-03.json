@@ -19,6 +19,251 @@
     "Glastrier",
     "Trevenant"
   ],
+  "playerSets": [
+    {
+      "species": "Forretress",
+      "level": 84,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "ability": "Sturdy",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 263,
+      "stats": {
+        "atk": 199,
+        "def": 283,
+        "spa": 149,
+        "spd": 149,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ursaluna-Bloodmoon",
+      "level": 79,
+      "types": [
+        "Ground",
+        "Normal"
+      ],
+      "ability": "Mind's Eye",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 308,
+      "stats": {
+        "atk": 115,
+        "def": 235,
+        "spa": 259,
+        "spd": 148,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Moonlight",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Blood Moon",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Umbreon",
+      "level": 84,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Synchronize",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 297,
+      "stats": {
+        "atk": 114,
+        "def": 233,
+        "spa": 149,
+        "spd": 267,
+        "spe": 157
+      },
+      "moves": [
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Jolteon",
+      "level": 84,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Leftovers",
+      "teraType": "Ice",
+      "maxhp": 246,
+      "stats": {
+        "atk": 114,
+        "def": 149,
+        "spa": 233,
+        "spd": 208,
+        "spe": 267
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Glastrier",
+      "level": 86,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Chilling Neigh",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 312,
+      "stats": {
+        "atk": 299,
+        "def": 273,
+        "spa": 161,
+        "spd": 238,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Trevenant",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "ability": "Natural Cure",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 296,
+      "stats": {
+        "atk": 247,
+        "def": 186,
+        "spa": 166,
+        "spd": 197,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Forretress||Leftovers|Sturdy|ironhead,rapidspin,voltswitch,toxicspikes||85,85,85,85,85,85|F|||84|,,,,,Water]Ursaluna|UrsalunaBloodmoon|Leftovers|MindsEye|moonlight,calmmind,bloodmoon,earthpower||85,,85,85,85,85|M|,0,,,,||79|,,,,,Poison]Umbreon||Leftovers|Synchronize|foulplay,protect,wish,toxic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Jolteon||Leftovers|VoltAbsorb|substitute,calmmind,terablast,thunderbolt||85,,85,85,85,85|F|,0,,,,||84|,,,,,Ice]Glastrier||HeavyDutyBoots|ChillingNeigh|swordsdance,heavyslam,iciclecrash,closecombat||85,85,85,85,85,85|N|||86|,,,,,Steel]Trevenant||LifeOrb|NaturalCure|hornleech,rest,drainpunch,poltergeist||85,85,85,85,85,85|M|||89|,,,,,Fighting",
   "ai": "Feraligatr||LifeOrb|SheerForce|crunch,dragondance,liquidation,icepunch||85,85,85,85,85,85|M|||79|,,,,,Dark]Dragapult||HeavyDutyBoots|Infiltrator|willowisp,dragondarts,uturn,hex||85,85,85,85,85,85|M|||77|,,,,,Fairy]Kricketune||HeavyDutyBoots|Technician|taunt,stickyweb,pounce,knockoff||85,85,85,85,85,85|M|||99|,,,,,Ghost]Sandaconda||LoadedDice|ShedSkin|coil,earthquake,scaleshot,rockblast||85,85,85,85,85,85|F|||84|,,,,,Dragon]Snorlax||ChestoBerry|ThickFat|rest,curse,bodyslam,earthquake||85,85,85,85,85,85|M|||82|,,,,,Ground]Rotom|RotomWash|ChoiceScarf|Levitate|trick,voltswitch,thunderbolt,hydropump||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel",
   "curation": {

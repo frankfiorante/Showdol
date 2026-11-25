@@ -19,6 +19,250 @@
     "Mismagius",
     "Copperajah"
   ],
+  "playerSets": [
+    {
+      "species": "Ursaring",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Quick Feet",
+      "item": "Toxic Orb",
+      "teraType": "Normal",
+      "maxhp": 288,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 174,
+        "spd": 174,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Gastrodon",
+      "level": 86,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Storm Drain",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 331,
+      "stats": {
+        "atk": 192,
+        "def": 166,
+        "spa": 207,
+        "spd": 190,
+        "spe": 116
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Feraligatr",
+      "level": 79,
+      "types": [
+        "Water"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 264,
+      "stats": {
+        "atk": 211,
+        "def": 204,
+        "spa": 170,
+        "spd": 177,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Talonflame",
+      "level": 83,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Gale Wings",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 265,
+      "stats": {
+        "atk": 182,
+        "def": 166,
+        "spa": 171,
+        "spd": 162,
+        "spe": 257
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mismagius",
+      "level": 86,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Levitate",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 243,
+      "stats": {
+        "atk": 108,
+        "def": 152,
+        "spa": 230,
+        "spd": 230,
+        "spe": 230
+      },
+      "moves": [
+        {
+          "name": "Mystical Fire",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Copperajah",
+      "level": 86,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 350,
+      "stats": {
+        "atk": 273,
+        "def": 168,
+        "spa": 187,
+        "spd": 168,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Ursaring||ToxicOrb|QuickFeet|closecombat,swordsdance,throatchop,facade||85,85,85,85,85,85|F|||84|,,,,,Normal]Gastrodon||Leftovers|StormDrain|recover,surf,earthquake,stealthrock||85,85,85,85,85,85|M|||86|,,,,,Steel]Feraligatr||LifeOrb|SheerForce|crunch,dragondance,liquidation,icepunch||85,85,85,85,85,85|F|||79|,,,,,Dark]Talonflame||HeavyDutyBoots|GaleWings|bravebird,flareblitz,swordsdance,terablast||85,85,85,85,85,85|M|||83|,,,,,Ground]Mismagius||LifeOrb|Levitate|mysticalfire,nastyplot,shadowball,dazzlinggleam||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy]Copperajah||LifeOrb|SheerForce|rockslide,ironhead,playrough,superpower||85,85,85,85,85,85|M|||86|,,,,,Fairy",
   "ai": "Terrakion||LifeOrb|Justified|stoneedge,swordsdance,closecombat,earthquake||85,85,85,85,85,85|N|||79|,,,,,Fighting]Haxorus||LumBerry|MoldBreaker|outrage,earthquake,dragondance,ironhead||85,85,85,85,85,85|M|||78|,,,,,Steel]Phione||Leftovers|Hydration|icebeam,takeheart,grassknot,scald||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Rillaboom||LifeOrb|GrassySurge|swordsdance,grassyglide,highhorsepower,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Kricketune||HeavyDutyBoots|Technician|pounce,stickyweb,taunt,knockoff||85,85,85,85,85,85|F|||99|,,,,,Ghost]Raging Bolt||AssaultVest|Protosynthesis|discharge,dracometeor,voltswitch,thunderclap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric",
   "curation": {

@@ -19,6 +19,249 @@
     "Florges-Orange",
     "Suicune"
   ],
+  "playerSets": [
+    {
+      "species": "Scrafty",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 244,
+      "stats": {
+        "atk": 197,
+        "def": 239,
+        "spa": 122,
+        "spd": 239,
+        "spe": 144
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Clawitzer",
+      "level": 87,
+      "types": [
+        "Water"
+      ],
+      "ability": "Mega Launcher",
+      "item": "Choice Specs",
+      "teraType": "Dragon",
+      "maxhp": 265,
+      "stats": {
+        "atk": 177,
+        "def": 203,
+        "spa": 259,
+        "spd": 205,
+        "spe": 152
+      },
+      "moves": [
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Water Pulse",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Banette",
+      "level": 93,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Insomnia",
+      "item": "Life Orb",
+      "teraType": "Ghost",
+      "maxhp": 270,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 207,
+        "spd": 170,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Mismagius",
+      "level": 86,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 243,
+      "stats": {
+        "atk": 108,
+        "def": 152,
+        "spa": 230,
+        "spd": 230,
+        "spe": 230
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Florges-Orange",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Flower Veil",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 271,
+      "stats": {
+        "atk": 115,
+        "def": 164,
+        "spa": 239,
+        "spd": 311,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Suicune",
+      "level": 82,
+      "types": [
+        "Water"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 298,
+      "stats": {
+        "atk": 128,
+        "def": 236,
+        "spa": 195,
+        "spd": 236,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Scrafty||Leftovers|Intimidate|drainpunch,knockoff,poisonjab,dragondance||85,85,85,85,85,85|M|||83|,,,,,Poison]Clawitzer||ChoiceSpecs|MegaLauncher|aurasphere,uturn,dragonpulse,waterpulse||85,85,85,85,85,85|F|||87|,,,,,Dragon]Banette||LifeOrb|Insomnia|thunderwave,poltergeist,gunkshot,shadowsneak||85,85,85,85,85,85|F|||93|,,,,,Ghost]Mismagius||Leftovers|Levitate|terablast,shadowball,nastyplot,substitute||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fighting]Florges|FlorgesOrange|Leftovers|FlowerVeil|calmmind,moonblast,wish,protect||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Suicune||Leftovers|Pressure|calmmind,scald,rest,sleeptalk||85,,85,85,85,85|N|,0,,,,||82|,,,,,Dragon",
   "ai": "Sudowoodo||Leftovers|RockHead|woodhammer,headsmash,suckerpunch,stealthrock||85,85,85,85,85,85|M|||94|,,,,,Grass]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|ironhead,earthquake,throatchop,closecombat||85,85,85,85,85,85|M|||82|,,,,,Steel]Avalugg||HeavyDutyBoots|Sturdy|rapidspin,avalanche,bodypress,recover||85,85,85,85,85,85|F|||88|,,,,,Fighting]Vikavolt||HeavyDutyBoots|Levitate|stickyweb,energyball,bugbuzz,thunderbolt||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Bastiodon||ChestoBerry|Soundproof|foulplay,bodypress,rest,irondefense||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fighting]Mismagius||ChoiceSpecs|Levitate|thunderbolt,shadowball,trick,mysticalfire||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fire",
   "curation": {

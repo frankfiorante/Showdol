@@ -19,6 +19,252 @@
     "Metagross",
     "Persian-Alola"
   ],
+  "playerSets": [
+    {
+      "species": "Donphan",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sturdy",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 288,
+      "stats": {
+        "atk": 250,
+        "def": 250,
+        "spa": 149,
+        "spd": 149,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Vikavolt",
+      "level": 83,
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 263,
+      "stats": {
+        "atk": 121,
+        "def": 197,
+        "spa": 288,
+        "spd": 172,
+        "spe": 119
+      },
+      "moves": [
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Volcanion",
+      "level": 79,
+      "types": [
+        "Fire",
+        "Water"
+      ],
+      "ability": "Water Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 256,
+      "stats": {
+        "atk": 178,
+        "def": 235,
+        "spa": 251,
+        "spd": 188,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Steam Eruption",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Haze",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Cloyster",
+      "level": 80,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Skill Link",
+      "item": "White Herb",
+      "teraType": "Rock",
+      "maxhp": 211,
+      "stats": {
+        "atk": 198,
+        "def": 334,
+        "spa": 182,
+        "spd": 118,
+        "spe": 158
+      },
+      "moves": [
+        {
+          "name": "Rock Blast",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Metagross",
+      "level": 79,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Clear Body",
+      "item": "Weakness Policy",
+      "teraType": "Ground",
+      "maxhp": 256,
+      "stats": {
+        "atk": 259,
+        "def": 251,
+        "spa": 196,
+        "spd": 188,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Persian-Alola",
+      "level": 86,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Fur Coat",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 252,
+      "stats": {
+        "atk": 108,
+        "def": 152,
+        "spa": 178,
+        "spd": 161,
+        "spe": 247
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Donphan||Leftovers|Sturdy|earthquake,stealthrock,rapidspin,iceshard||85,85,85,85,85,85|M|||84|,,,,,Dragon]Vikavolt||HeavyDutyBoots|Levitate|energyball,stickyweb,discharge,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Volcanion||HeavyDutyBoots|WaterAbsorb|earthpower,steameruption,haze,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Ground]Cloyster||WhiteHerb|SkillLink|rockblast,iciclespear,hydropump,shellsmash||85,85,85,85,85,85|M|||80|,,,,,Rock]Metagross||WeaknessPolicy|ClearBody|heavyslam,psychicfangs,earthquake,agility||85,85,85,85,85,85|N|||79|,,,,,Ground]Persian|PersianAlola|LifeOrb|FurCoat|thunderbolt,darkpulse,terablast,nastyplot||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy",
   "ai": "Klefki||Leftovers|Prankster|spikes,thunderwave,foulplay,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Registeel||ChestoBerry|ClearBody|ironhead,bodypress,irondefense,rest||85,85,85,85,85,85|N|||81|,,,,,Fighting]Alcremie|AlcremieRubySwirl|Leftovers|AromaVeil|recover,alluringvoice,psyshock,calmmind||85,,85,85,85,85|F|,0,,,,||90|,,,,,Poison]Iron Bundle||ChoiceSpecs|QuarkDrive|freezedry,hydropump,icebeam,flipturn||85,85,85,85,85,85|N|||78|,,,,,Ice]Tsareena||LifeOrb|QueenlyMajesty|knockoff,highjumpkick,synthesis,powerwhip||85,85,85,85,85,85|F|||87|,,,,,Fighting]Meowstic||LightClay|Prankster|lightscreen,psychicnoise,alluringvoice,reflect||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy",
   "curation": {

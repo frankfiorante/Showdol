@@ -19,6 +19,251 @@
     "Kingdra",
     "Thundurus"
   ],
+  "playerSets": [
+    {
+      "species": "Trevenant",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "ability": "Natural Cure",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 296,
+      "stats": {
+        "atk": 247,
+        "def": 186,
+        "spa": 166,
+        "spd": 197,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Malamar",
+      "level": 82,
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "ability": "Contrary",
+      "item": "Chesto Berry",
+      "teraType": "Steel",
+      "maxhp": 275,
+      "stats": {
+        "atk": 198,
+        "def": 191,
+        "spa": 159,
+        "spd": 170,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Regieleki",
+      "level": 79,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Transistor",
+      "item": "Magnet",
+      "teraType": "Ice",
+      "maxhp": 256,
+      "stats": {
+        "atk": 204,
+        "def": 125,
+        "spa": 204,
+        "spd": 125,
+        "spe": 362
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lilligant",
+      "level": 86,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Own Tempo",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 261,
+      "stats": {
+        "atk": 108,
+        "def": 178,
+        "spa": 238,
+        "spd": 178,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Petal Dance",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Kingdra",
+      "level": 84,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Sniper",
+      "item": "Lum Berry",
+      "teraType": "Water",
+      "maxhp": 263,
+      "stats": {
+        "atk": 208,
+        "def": 208,
+        "spa": 208,
+        "spd": 208,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Waterfall",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Thundurus",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Defiant",
+      "teraType": "Steel",
+      "maxhp": 258,
+      "stats": {
+        "atk": 230,
+        "def": 158,
+        "spa": 246,
+        "spd": 174,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Trevenant||LifeOrb|NaturalCure|drainpunch,woodhammer,willowisp,poltergeist||85,85,85,85,85,85|M|||89|,,,,,Fighting]Malamar||ChestoBerry|Contrary|knockoff,superpower,rest,psychocut||85,85,85,85,85,85|F|||82|,,,,,Steel]Regieleki||Magnet|Transistor|terablast,rapidspin,thunderbolt,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Ice]Lilligant||LifeOrb|OwnTempo|alluringvoice,petaldance,quiverdance,sleeppowder||85,,85,85,85,85|F|,0,,,,||86|,,,,,Grass]Kingdra||LumBerry|Sniper|dragondance,wavecrash,waterfall,outrage||85,85,85,85,85,85|M|||84|,,,,,Water]Thundurus|||Defiant|acrobatics,grassknot,uturn,thunderbolt||85,85,85,85,85,85|M|||80|,,,,,Steel",
   "ai": "Ho-Oh||HeavyDutyBoots|Regenerator|sacredfire,bravebird,recover,earthquake||85,85,85,85,85,85|N|||71|,,,,,Steel]Rotom|RotomFan|HeavyDutyBoots|Levitate|airslash,nastyplot,thunderbolt,thunderwave||85,,85,85,85,85|N|,0,,,,||86|,,,,,Electric]Scrafty||Leftovers|Intimidate|knockoff,poisonjab,dragondance,drainpunch||85,85,85,85,85,85|M|||83|,,,,,Poison]Magnezone||Leftovers|Analytic|flashcannon,irondefense,bodypress,discharge||85,,85,85,85,85|N|,0,,,,||84|,,,,,Fighting]Flygon||LumBerry|Levitate|outrage,dragondance,earthquake,stoneedge||85,85,85,85,85,85|F|||82|,,,,,Rock]Exeggutor||SitrusBerry|Harvest|leechseed,substitute,psychicnoise,protect||77,,85,85,85,85|F|,0,,,,||89|,,,,,Steel",
   "curation": {

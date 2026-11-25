@@ -19,6 +19,252 @@
     "Swanna",
     "Galvantula"
   ],
+  "playerSets": [
+    {
+      "species": "Flapple",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Hustle",
+      "item": "Choice Band",
+      "teraType": "Dragon",
+      "maxhp": 266,
+      "stats": {
+        "atk": 244,
+        "def": 191,
+        "spa": 217,
+        "spd": 156,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Grav Apple",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Bellossom",
+      "level": 84,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 263,
+      "stats": {
+        "atk": 139,
+        "def": 208,
+        "spa": 199,
+        "spd": 216,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Blastoise",
+      "level": 80,
+      "types": [
+        "Water"
+      ],
+      "ability": "Torrent",
+      "item": "White Herb",
+      "teraType": "Steel",
+      "maxhp": 258,
+      "stats": {
+        "atk": 179,
+        "def": 206,
+        "spa": 182,
+        "spd": 214,
+        "spe": 171
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Chien-Pao",
+      "level": 72,
+      "types": [
+        "Dark",
+        "Ice"
+      ],
+      "ability": "Sword of Ruin",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ice",
+      "maxhp": 234,
+      "stats": {
+        "atk": 215,
+        "def": 157,
+        "spa": 172,
+        "spd": 136,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sacred Sword",
+          "type": "Fighting",
+          "pp": 24
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Swanna",
+      "level": 89,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Hydration",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 206,
+        "def": 163,
+        "spa": 206,
+        "spd": 163,
+        "spe": 225
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Galvantula",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "ability": "Compound Eyes",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 249,
+      "stats": {
+        "atk": 131,
+        "def": 146,
+        "spa": 206,
+        "spd": 146,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Thunder",
+          "type": "Electric",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Flapple||ChoiceBand|Hustle|gravapple,outrage,suckerpunch,uturn||85,85,85,85,85,85|F|||88|,,,,,Dragon]Bellossom||Leftovers|Chlorophyll|strengthsap,quiverdance,moonblast,gigadrain||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fairy]Blastoise||WhiteHerb|Torrent|earthquake,hydropump,icebeam,shellsmash||85,85,85,85,85,85|F|||80|,,,,,Steel]Chien-Pao||HeavyDutyBoots|SwordofRuin|swordsdance,throatchop,sacredsword,iciclecrash||85,85,85,85,85,85|N|||72|,,,,,Ice]Swanna||HeavyDutyBoots|Hydration|hydropump,bravebird,roost,defog||85,85,85,85,85,85|M|||89|,,,,,Ground]Galvantula||HeavyDutyBoots|CompoundEyes|stickyweb,energyball,bugbuzz,thunder||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric",
   "ai": "Pincurchin||Leftovers|ElectricSurge|scald,recover,spikes,thunderbolt||85,,85,85,85,85|F|,0,,,,|||,,,,,Water]Plusle||LifeOrb|LightningRod|alluringvoice,grassknot,nastyplot,thunderbolt||85,,85,85,85,85|F|,0,,,,||95|,,,,,Electric]Vileplume||Leftovers|EffectSpore|sleeppowder,gigadrain,sludgebomb,strengthsap||85,,85,85,85,85|M|,0,,,,||85|,,,,,Water]Breloom||LifeOrb|Technician|rocktomb,bulletseed,machpunch,swordsdance||85,85,85,85,85,85|M|||83|,,,,,Fighting]Enamorus|EnamorusTherian|ChoiceSpecs|Overcoat|mysticalfire,psychic,moonblast,earthpower||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground]Azelf||LifeOrb|Levitate|stealthrock,psychic,fireblast,explosion||85,85,85,85,85,85|N|||82|,,,,,Fire",
   "curation": {

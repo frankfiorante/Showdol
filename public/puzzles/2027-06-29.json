@@ -19,6 +19,251 @@
     "Flareon",
     "Veluza"
   ],
+  "playerSets": [
+    {
+      "species": "Meowscarada",
+      "level": 78,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Protean",
+      "item": "Focus Sash",
+      "teraType": "Grass",
+      "maxhp": 247,
+      "stats": {
+        "atk": 217,
+        "def": 154,
+        "spa": 171,
+        "spd": 154,
+        "spe": 237
+      },
+      "moves": [
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Flower Trick",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Decidueye",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "ability": "Overgrow",
+      "item": "Life Orb",
+      "teraType": "Ghost",
+      "maxhp": 281,
+      "stats": {
+        "atk": 239,
+        "def": 182,
+        "spa": 226,
+        "spd": 226,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Houndstone",
+      "level": 86,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Fluffy",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 264,
+      "stats": {
+        "atk": 223,
+        "def": 221,
+        "spa": 135,
+        "spd": 216,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Pachirisu",
+      "level": 96,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 271,
+      "stats": {
+        "atk": 141,
+        "def": 189,
+        "spa": 141,
+        "spd": 227,
+        "spe": 237
+      },
+      "moves": [
+        {
+          "name": "Super Fang",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Flareon",
+      "level": 90,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Guts",
+      "item": "Toxic Orb",
+      "teraType": "Normal",
+      "maxhp": 263,
+      "stats": {
+        "atk": 285,
+        "def": 159,
+        "spa": 222,
+        "spd": 249,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Veluza",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Sharpness",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 292,
+      "stats": {
+        "atk": 222,
+        "def": 173,
+        "spa": 181,
+        "spd": 159,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Aqua Cutter",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Meowscarada||FocusSash|Protean|tripleaxel,toxicspikes,flowertrick,knockoff||85,85,85,85,85,85|F|||78|,,,,,Grass]Decidueye||LifeOrb|Overgrow|shadowsneak,poltergeist,leafblade,swordsdance||85,85,85,85,85,85|M|||88|,,,,,Ghost]Houndstone||Leftovers|Fluffy|sleeptalk,poltergeist,bodypress,rest||85,85,85,85,85,85|M|||86|,,,,,Fighting]Pachirisu||HeavyDutyBoots|VoltAbsorb|superfang,encore,uturn,discharge||85,85,85,85,85,85|M|||96|,,,,,Flying]Flareon||ToxicOrb|Guts|quickattack,trailblaze,facade,flareblitz||85,85,85,85,85,85|M|||90|,,,,,Normal]Veluza||ChoiceBand|Sharpness|psychocut,nightslash,aquajet,aquacutter||85,85,85,85,85,85|M|||85|,,,,,Water",
   "ai": "Latios||SoulDew|Levitate|calmmind,recover,psyshock,dracometeor||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Hawlucha||WhiteHerb|Unburden|closecombat,swordsdance,bravebird,acrobatics||85,85,85,85,85,85|F|||80|,,,,,Fighting]Leafeon||LifeOrb|Chlorophyll|swordsdance,knockoff,leafblade,doubleedge||85,85,85,85,85,85|F|||88|,,,,,Normal]Maushold|MausholdFour|WideLens|Technician|populationbomb,tidyup,bite,encore||85,85,85,85,85,85|N|||76|,,,,,Ghost]Cramorant||HeavyDutyBoots|GulpMissile|bravebird,defog,roost,surf||85,85,85,85,85,85|F|||86|,,,,,Ground]Dugtrio|DugtrioAlola|LifeOrb|TanglingHair|suckerpunch,ironhead,swordsdance,earthquake||85,85,85,85,85,85|F|||84|,,,,,Ground",
   "curation": {

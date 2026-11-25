@@ -19,6 +19,251 @@
     "Toxapex",
     "Regirock"
   ],
+  "playerSets": [
+    {
+      "species": "Cryogonal",
+      "level": 89,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 287,
+      "stats": {
+        "atk": 140,
+        "def": 140,
+        "spa": 220,
+        "spd": 291,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Politoed",
+      "level": 88,
+      "types": [
+        "Water"
+      ],
+      "ability": "Drizzle",
+      "item": "Choice Specs",
+      "teraType": "Water",
+      "maxhp": 302,
+      "stats": {
+        "atk": 137,
+        "def": 182,
+        "spa": 209,
+        "spd": 226,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Weather Ball",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Delphox",
+      "level": 84,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ability": "Blaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 263,
+      "stats": {
+        "atk": 120,
+        "def": 169,
+        "spa": 240,
+        "spd": 216,
+        "spe": 223
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Vikavolt",
+      "level": 83,
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 263,
+      "stats": {
+        "atk": 121,
+        "def": 197,
+        "spa": 288,
+        "spd": 172,
+        "spe": 119
+      },
+      "moves": [
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Toxapex",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Water"
+      ],
+      "ability": "Regenerator",
+      "item": "Leftovers",
+      "teraType": "Flying",
+      "maxhp": 216,
+      "stats": {
+        "atk": 150,
+        "def": 296,
+        "spa": 134,
+        "spd": 280,
+        "spe": 105
+      },
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Haze",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Regirock",
+      "level": 83,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Clear Body",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 268,
+      "stats": {
+        "atk": 214,
+        "def": 380,
+        "spa": 131,
+        "spd": 214,
+        "spe": 131
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Cryogonal||HeavyDutyBoots|Levitate|terablast,icebeam,rapidspin,recover||85,85,85,85,85,85|N|||89|,,,,,Electric]Politoed||ChoiceSpecs|Drizzle|icebeam,weatherball,focusblast,hydropump||85,,85,85,85,85|M|,0,,,,||88|,,,,,Water]Delphox||HeavyDutyBoots|Blaze|fireblast,psyshock,nastyplot,grassknot||85,,85,85,85,85|F|,0,,,,||84|,,,,,Grass]Vikavolt||HeavyDutyBoots|Levitate|energyball,bugbuzz,thunderbolt,stickyweb||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Toxapex||Leftovers|Regenerator|toxic,recover,haze,liquidation||85,85,85,85,85,85|M|||82|,,,,,Flying]Regirock||Leftovers|ClearBody|stoneedge,bodypress,thunderwave,irondefense||85,85,85,85,85,85|N|||83|,,,,,Fighting",
   "ai": "Lapras||ChoiceSpecs|WaterAbsorb|icebeam,hydropump,sparklingaria,freezedry||81,,85,85,85,85|F|,0,,,,||87|,,,,,Ice]Enamorus||Leftovers|Contrary|zenheadbutt,substitute,superpower,playrough||85,85,85,85,85,85|F|||79|,,,,,Fighting]Iron Hands||AssaultVest|QuarkDrive|wildcharge,closecombat,heavyslam,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Lumineon||LifeOrb|StormDrain|icebeam,alluringvoice,encore,hydropump||85,,85,85,85,85|M|,0,,,,||93|,,,,,Water]Arcanine||HeavyDutyBoots|Intimidate|closecombat,roar,flareblitz,morningsun||85,85,85,85,85,85|M|||84|,,,,,Fighting]Hydreigon||ChoiceSpecs|Levitate|uturn,darkpulse,dracometeor,fireblast||85,85,85,85,85,85|F|||79|,,,,,Fire",
   "curation": {

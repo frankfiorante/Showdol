@@ -19,6 +19,252 @@
     "Tauros",
     "Solgaleo"
   ],
+  "playerSets": [
+    {
+      "species": "Persian",
+      "level": 92,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Limber",
+      "item": "Choice Band",
+      "teraType": "Normal",
+      "maxhp": 269,
+      "stats": {
+        "atk": 181,
+        "def": 163,
+        "spa": 172,
+        "spd": 172,
+        "spe": 264
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Switcheroo",
+          "type": "Dark",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Delphox",
+      "level": 84,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ability": "Blaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 263,
+      "stats": {
+        "atk": 120,
+        "def": 169,
+        "spa": 240,
+        "spd": 216,
+        "spe": 223
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Swanna",
+      "level": 89,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Hydration",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 206,
+        "def": 163,
+        "spa": 206,
+        "spd": 163,
+        "spe": 225
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Raging Bolt",
+      "level": 78,
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Booster Energy",
+      "teraType": "Fairy",
+      "maxhp": 323,
+      "stats": {
+        "atk": 118,
+        "def": 187,
+        "spa": 259,
+        "spd": 184,
+        "spe": 162
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Thunderclap",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Tauros",
+      "level": 82,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 257,
+      "stats": {
+        "atk": 211,
+        "def": 203,
+        "spa": 113,
+        "spd": 162,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Solgaleo",
+      "level": 74,
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "ability": "Full Metal Body",
+      "item": "Rocky Helmet",
+      "teraType": "Water",
+      "maxhp": 325,
+      "stats": {
+        "atk": 246,
+        "def": 201,
+        "spa": 210,
+        "spd": 175,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Sunsteel Strike",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Roar",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Persian||ChoiceBand|Limber|uturn,doubleedge,switcheroo,knockoff||85,85,85,85,85,85|F|||92|,,,,,Normal]Delphox||HeavyDutyBoots|Blaze|nastyplot,focusblast,fireblast,psyshock||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|bravebird,roost,defog,hydropump||85,85,85,85,85,85|M|||89|,,,,,Ground]Raging Bolt||BoosterEnergy|Protosynthesis|calmmind,thunderclap,dragonpulse,thunderbolt||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fairy]Tauros||LifeOrb|SheerForce|bodyslam,closecombat,zenheadbutt,throatchop||85,85,85,85,85,85|M|||82|,,,,,Normal]Solgaleo||RockyHelmet|FullMetalBody|morningsun,sunsteelstrike,roar,closecombat||85,85,85,85,85,85|N|||74|,,,,,Water",
   "ai": "Swanna||HeavyDutyBoots|Hydration|roost,bravebird,hydropump,defog||85,85,85,85,85,85|M|||89|,,,,,Ground]Pyroar||HeavyDutyBoots|Unnerve|hypervoice,willowisp,fireblast,taunt||85,,85,85,85,85|M|,0,,,,||88|,,,,,Fire]Vespiquen||HeavyDutyBoots|Pressure|roost,spikes,toxicspikes,hurricane||85,,85,85,85,85|F|,0,,,,||99|,,,,,Steel]Oranguru||ChoiceSpecs|InnerFocus|hypervoice,focusblast,psyshock,trick||85,,85,85,85,85|F|,0,,,,||92|,,,,,Normal]Lucario||LifeOrb|InnerFocus|nastyplot,flashcannon,focusblast,vacuumwave||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fighting]Zebstrika||LifeOrb|SapSipper|overheat,voltswitch,highhorsepower,supercellslam||85,85,85,85,85,85|M|||87|,,,,,Ground",
   "curation": {

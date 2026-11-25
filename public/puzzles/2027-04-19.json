@@ -19,6 +19,253 @@
     "Archaludon",
     "Keldeo-Resolute"
   ],
+  "playerSets": [
+    {
+      "species": "Bruxish",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Strong Jaw",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 254,
+      "stats": {
+        "atk": 227,
+        "def": 168,
+        "spa": 168,
+        "spd": 168,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Brambleghast",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "ability": "Wind Rider",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 240,
+      "stats": {
+        "atk": 253,
+        "def": 173,
+        "spa": 191,
+        "spd": 173,
+        "spe": 209
+      },
+      "moves": [
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Misdreavus",
+      "level": 90,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Levitate",
+      "item": "Eviolite",
+      "teraType": "Fairy",
+      "maxhp": 254,
+      "stats": {
+        "atk": 113,
+        "def": 159,
+        "spa": 204,
+        "spd": 204,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Ting-Lu",
+      "level": 78,
+      "types": [
+        "Dark",
+        "Ground"
+      ],
+      "ability": "Vessel of Ruin",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 370,
+      "stats": {
+        "atk": 217,
+        "def": 240,
+        "spa": 131,
+        "spd": 170,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Payback",
+          "type": "Dark",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Ruination",
+          "type": "Dark",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Archaludon",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Stamina",
+      "item": "Lum Berry",
+      "teraType": "Ground",
+      "maxhp": 265,
+      "stats": {
+        "atk": 206,
+        "def": 245,
+        "spa": 237,
+        "spd": 145,
+        "spe": 175
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Keldeo-Resolute",
+      "level": 79,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 273,
+      "stats": {
+        "atk": 118,
+        "def": 188,
+        "spa": 249,
+        "spd": 188,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Secret Sword",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Bruxish||ChoiceBand|StrongJaw|wavecrash,aquajet,crunch,psychicfangs||85,85,85,85,85,85|F|||85|,,,,,Dark]Brambleghast||Leftovers|WindRider|poltergeist,spikes,strengthsap,powerwhip||85,85,85,85,85,85|F|||88|,,,,,Steel]Misdreavus||Eviolite|Levitate|drainingkiss,shadowball,calmmind,willowisp||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Ting-Lu||Leftovers|VesselofRuin|payback,earthquake,stealthrock,ruination||85,85,85,85,85,85|N|||78|,,,,,Ghost]Archaludon||LumBerry|Stamina|ironhead,outrage,earthquake,swordsdance||85,85,85,85,85,85|F|||77|,,,,,Ground]Keldeo|KeldeoResolute|Leftovers|Justified|surf,calmmind,secretsword,substitute||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel",
   "ai": "Rotom|RotomMow|Leftovers|Levitate|thunderbolt,nastyplot,willowisp,leafstorm||85,,85,85,85,85|N|,0,,,,||87|,,,,,Grass]Garchomp||LoadedDice|RoughSkin|earthquake,scaleshot,firefang,swordsdance||85,85,85,85,85,85|M|||74|,,,,,Fire]Swalot||Leftovers|LiquidOoze|sludgebomb,toxicspikes,earthquake,knockoff||85,85,85,85,85,85|M|||90|,,,,,Dark]Perrserker||ChoiceBand|ToughClaws|uturn,closecombat,knockoff,ironhead||85,85,85,85,85,85|M|||89|,,,,,Fighting]Empoleon||Leftovers|Competitive|icebeam,roost,yawn,surf||85,,85,85,85,85|F|,0,,,,||84|,,,,,Flying]Eiscue||SitrusBerry|IceFace|bellydrum,liquidation,icespinner,zenheadbutt||81,85,85,85,85,85|M|||88|,,,,,Water",
   "curation": {

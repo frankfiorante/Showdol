@@ -19,6 +19,253 @@
     "Mamoswine",
     "Eelektross"
   ],
+  "playerSets": [
+    {
+      "species": "Dewgong",
+      "level": 94,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Thick Fat",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 322,
+      "stats": {
+        "atk": 185,
+        "def": 204,
+        "spa": 185,
+        "spd": 232,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Miraidon",
+      "level": 65,
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "ability": "Hadron Engine",
+      "item": "Choice Specs",
+      "teraType": "Electric",
+      "maxhp": 238,
+      "stats": {
+        "atk": 115,
+        "def": 168,
+        "spa": 214,
+        "spd": 188,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Electro Drift",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Drednaw",
+      "level": 81,
+      "types": [
+        "Water",
+        "Rock"
+      ],
+      "ability": "Shell Armor",
+      "item": "White Herb",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 233,
+        "def": 192,
+        "spa": 124,
+        "spd": 157,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Oricorio-Sensu",
+      "level": 85,
+      "types": [
+        "Ghost",
+        "Flying"
+      ],
+      "ability": "Dancer",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 266,
+      "stats": {
+        "atk": 124,
+        "def": 168,
+        "spa": 215,
+        "spd": 168,
+        "spe": 207
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Revelation Dance",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Mamoswine",
+      "level": 81,
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "ability": "Thick Fat",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 311,
+      "stats": {
+        "atk": 257,
+        "def": 176,
+        "spa": 160,
+        "spd": 144,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Eelektross",
+      "level": 87,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 290,
+      "stats": {
+        "atk": 250,
+        "def": 189,
+        "spa": 232,
+        "spd": 189,
+        "spe": 137
+      },
+      "moves": [
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Dewgong||HeavyDutyBoots|ThickFat|encore,surf,knockoff,icebeam||85,85,85,85,85,85|M|||94|,,,,,Grass]Miraidon||ChoiceSpecs|HadronEngine|voltswitch,overheat,electrodrift,dracometeor||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Drednaw||WhiteHerb|ShellArmor|stoneedge,shellsmash,earthquake,liquidation||85,85,85,85,85,85|F|||81|,,,,,Ground]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|roost,revelationdance,hurricane,quiverdance||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fighting]Mamoswine||ChoiceBand|ThickFat|iciclecrash,iceshard,earthquake,knockoff||85,85,85,85,85,85|M|||81|,,,,,Ground]Eelektross||Leftovers|Levitate|firepunch,coil,supercellslam,drainpunch||85,85,85,85,85,85|M|||87|,,,,,Fighting",
   "ai": "Hydreigon||ChoiceSpecs|Levitate|flashcannon,fireblast,dracometeor,darkpulse||85,,85,85,85,85|F|,0,,,,||79|,,,,,Dark]Rhyperior||WeaknessPolicy|SolidRock|rockpolish,icepunch,earthquake,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Ground]Victreebel||LifeOrb|Chlorophyll|sludgewave,sunnyday,weatherball,powerwhip||85,85,85,85,85,85|M|||90|,,,,,Fire]Magmortar||HeavyDutyBoots|FlameBody|knockoff,thunderbolt,fireblast,earthquake||85,85,85,85,85,85|M|||88|,,,,,Electric]Magearna|MagearnaOriginal|Leftovers|SoulHeart|aurasphere,flashcannon,fleurcannon,thunderwave||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Uxie||Leftovers|Levitate|substitute,psychicnoise,nastyplot,drainingkiss||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy",
   "curation": {

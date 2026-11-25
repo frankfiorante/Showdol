@@ -19,6 +19,252 @@
     "Perrserker",
     "Thundurus-Therian"
   ],
+  "playerSets": [
+    {
+      "species": "Golurk",
+      "level": 87,
+      "types": [
+        "Ground",
+        "Ghost"
+      ],
+      "ability": "No Guard",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 297,
+      "stats": {
+        "atk": 266,
+        "def": 189,
+        "spa": 145,
+        "spd": 189,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Spectrier",
+      "level": 75,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Grim Neigh",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 274,
+      "stats": {
+        "atk": 102,
+        "def": 134,
+        "spa": 261,
+        "spd": 164,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lugia",
+      "level": 73,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Multiscale",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 275,
+      "stats": {
+        "atk": 136,
+        "def": 232,
+        "spa": 174,
+        "spd": 267,
+        "spe": 203
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Aeroblast",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Venomoth",
+      "level": 84,
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 255,
+      "stats": {
+        "atk": 114,
+        "def": 149,
+        "spa": 199,
+        "spd": 174,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Perrserker",
+      "level": 89,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Tough Claws",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 247,
+        "def": 229,
+        "spa": 140,
+        "spd": 158,
+        "spe": 140
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Thundurus-Therian",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Choice Scarf",
+      "teraType": "Psychic",
+      "maxhp": 258,
+      "stats": {
+        "atk": 173,
+        "def": 158,
+        "spa": 278,
+        "spd": 174,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Golurk||LifeOrb|NoGuard|stoneedge,earthquake,stealthrock,poltergeist||85,85,85,85,85,85|N|||87|,,,,,Ground]Spectrier||Leftovers|GrimNeigh|substitute,shadowball,terablast,nastyplot||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Lugia||HeavyDutyBoots|Multiscale|earthpower,aeroblast,calmmind,recover||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Venomoth||HeavyDutyBoots|TintedLens|quiverdance,bugbuzz,sleeppowder,sludgewave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Steel]Perrserker||ChoiceBand|ToughClaws|uturn,knockoff,closecombat,ironhead||85,85,85,85,85,85|M|||89|,,,,,Fighting]Thundurus|ThundurusTherian|ChoiceScarf|VoltAbsorb|psychic,thunderbolt,grassknot,sludgewave||85,,85,85,85,85|M|,0,,,,||80|,,,,,Psychic",
   "ai": "Lilligant|LilligantHisui|LifeOrb|Hustle|sleeppowder,leafblade,closecombat,victorydance||85,85,85,85,85,85|F|||79|,,,,,Steel]Empoleon||Leftovers|Competitive|icebeam,surf,yawn,roost||85,,85,85,85,85|M|,0,,,,||84|,,,,,Flying]Pecharunt||Leftovers|PoisonPuppeteer|nastyplot,recover,shadowball,malignantchain||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Weavile||HeavyDutyBoots|Pickpocket|tripleaxel,lowkick,knockoff,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Fighting]Greninja||LifeOrb|Protean|gunkshot,grassknot,hydropump,darkpulse||85,85,85,85,85,85|M|||80|,,,,,Poison]Volbeat||HeavyDutyBoots|Prankster|encore,roost,uturn,thunderwave||85,85,85,85,85,85|M|||90|,,,,,Water",
   "curation": {

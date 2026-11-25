@@ -19,6 +19,252 @@
     "Spectrier",
     "Tauros-Paldea-Blaze"
   ],
+  "playerSets": [
+    {
+      "species": "Gallade",
+      "level": 80,
+      "types": [
+        "Psychic",
+        "Fighting"
+      ],
+      "ability": "Sharpness",
+      "item": "Choice Scarf",
+      "teraType": "Dark",
+      "maxhp": 240,
+      "stats": {
+        "atk": 246,
+        "def": 150,
+        "spa": 150,
+        "spd": 230,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Sacred Sword",
+          "type": "Fighting",
+          "pp": 24
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Chi-Yu",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "ability": "Beads of Ruin",
+      "item": "Choice Scarf",
+      "teraType": "Dark",
+      "maxhp": 211,
+      "stats": {
+        "atk": 128,
+        "def": 168,
+        "spa": 252,
+        "spd": 229,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Dodrio",
+      "level": 85,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Early Bird",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 241,
+      "stats": {
+        "atk": 236,
+        "def": 168,
+        "spa": 151,
+        "spd": 151,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Drill Run",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Porygon2",
+      "level": 81,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Download",
+      "item": "Eviolite",
+      "teraType": "Ghost",
+      "maxhp": 270,
+      "stats": {
+        "atk": 134,
+        "def": 192,
+        "spa": 217,
+        "spd": 201,
+        "spe": 144
+      },
+      "moves": [
+        {
+          "name": "Tri Attack",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Spectrier",
+      "level": 75,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Grim Neigh",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 274,
+      "stats": {
+        "atk": 102,
+        "def": 134,
+        "spa": 261,
+        "spd": 164,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Tauros-Paldea-Blaze",
+      "level": 81,
+      "types": [
+        "Fighting",
+        "Fire"
+      ],
+      "ability": "Cud Chew",
+      "item": "Sitrus Berry",
+      "teraType": "Water",
+      "maxhp": 252,
+      "stats": {
+        "atk": 225,
+        "def": 217,
+        "spa": 95,
+        "spd": 160,
+        "spe": 209
+      },
+      "moves": [
+        {
+          "name": "Raging Bull",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Gallade||ChoiceScarf|Sharpness|nightslash,psychocut,sacredsword,leafblade||85,85,85,85,85,85|M|||80|,,,,,Dark]Chi-Yu||ChoiceScarf|BeadsofRuin|overheat,flamethrower,psychic,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Dodrio||HeavyDutyBoots|EarlyBird|drillrun,bravebird,knockoff,swordsdance||85,85,85,85,85,85|M|||85|,,,,,Ground]Porygon2||Eviolite|Download|triattack,icebeam,recover,discharge||85,,85,85,85,85|N|,0,,,,||81|,,,,,Ghost]Spectrier||Leftovers|GrimNeigh|substitute,nastyplot,shadowball,terablast||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Tauros|TaurosPaldeaBlaze|SitrusBerry|CudChew|ragingbull,bulkup,substitute,closecombat||73,85,85,85,85,85|M|||81|,,,,,Water",
   "ai": "Sandslash||Leftovers|SandRush|earthquake,rapidspin,spikes,stoneedge||85,85,85,85,85,85|F|||89|,,,,,Dragon]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Steel]Girafarig||Eviolite|SapSipper|hypervoice,nastyplot,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||89|,,,,,Normal]Cresselia||Leftovers|Levitate|psyshock,moonblast,calmmind,moonlight||85,,85,85,85,85|F|,0,,,,||80|,,,,,Poison]Dachsbun||Leftovers|WellBakedBody|playrough,bodypress,protect,wish||85,85,85,85,85,85|M|||92|,,,,,Steel]Luvdisc||HeavyDutyBoots|SwiftSwim|endeavor,surf,substitute,flipturn||81,85,85,85,85,85|M||||,,,,,Ghost",
   "curation": {

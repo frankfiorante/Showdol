@@ -19,6 +19,252 @@
     "Dondozo",
     "Ludicolo"
   ],
+  "playerSets": [
+    {
+      "species": "Abomasnow",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "ability": "Snow Warning",
+      "item": "Light Clay",
+      "teraType": "Ghost",
+      "maxhp": 287,
+      "stats": {
+        "atk": 203,
+        "def": 174,
+        "spa": 203,
+        "spd": 191,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "pp": 8
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Aurora Veil",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Zacian",
+      "level": 64,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Intrepid Sword",
+      "item": "Rusted Sword",
+      "teraType": "Fighting",
+      "maxhp": 225,
+      "stats": {
+        "atk": 191,
+        "def": 185,
+        "spa": 140,
+        "spd": 185,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Behemoth Blade",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Skeledirge",
+      "level": 79,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "ability": "Unaware",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fairy",
+      "maxhp": 294,
+      "stats": {
+        "atk": 164,
+        "def": 204,
+        "spa": 219,
+        "spd": 164,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Flame Charge",
+          "type": "Fire",
+          "pp": 32
+        },
+        {
+          "name": "Torch Song",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Necrozma-Dawn-Wings",
+      "level": 76,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "ability": "Prism Armor",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 272,
+      "stats": {
+        "atk": 216,
+        "def": 210,
+        "spa": 283,
+        "spd": 237,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Brick Break",
+          "type": "Fighting",
+          "pp": 24
+        },
+        {
+          "name": "Moongeist Beam",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Photon Geyser",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Dondozo",
+      "level": 78,
+      "types": [
+        "Water"
+      ],
+      "ability": "Unaware",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 362,
+      "stats": {
+        "atk": 201,
+        "def": 224,
+        "spa": 146,
+        "spd": 146,
+        "spe": 100
+      },
+      "moves": [
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ludicolo",
+      "level": 90,
+      "types": [
+        "Water",
+        "Grass"
+      ],
+      "ability": "Swift Swim",
+      "item": "Choice Specs",
+      "teraType": "Water",
+      "maxhp": 290,
+      "stats": {
+        "atk": 131,
+        "def": 177,
+        "spa": 213,
+        "spd": 231,
+        "spe": 177
+      },
+      "moves": [
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Abomasnow||LightClay|SnowWarning|blizzard,iceshard,auroraveil,woodhammer||77,85,85,85,85,85|F|||84|,,,,,Ghost]Zacian||RustedSword|IntrepidSword|behemothblade,closecombat,playrough,swordsdance||85,85,85,85,85,85|N|||64|,,,,,Fighting]Skeledirge||HeavyDutyBoots|Unaware|flamecharge,torchsong,shadowball,slackoff||85,85,85,85,85,85|M|||79|,,,,,Fairy]Necrozma|NecrozmaDawnWings|LifeOrb|PrismArmor|brickbreak,moongeistbeam,photongeyser,dragondance||85,85,85,85,85,85|N|||76|,,,,,Fighting]Dondozo||Leftovers|Unaware|sleeptalk,rest,wavecrash,curse||85,85,85,85,85,85|F|||78|,,,,,Fairy]Ludicolo||ChoiceSpecs|SwiftSwim|leafstorm,icebeam,hydropump,gigadrain||85,,85,85,85,85|F|,0,,,,||90|,,,,,Water",
   "ai": "Dudunsparce|DudunsparceThreeSegment|Leftovers|Rattled|calmmind,shadowball,roost,boomburst||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Sinistcha|SinistchaMasterpiece|Leftovers|Heatproof|shadowball,strengthsap,calmmind,matchagotcha||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Rayquaza||HeavyDutyBoots|AirLock|earthquake,dragonascent,extremespeed,swordsdance||85,85,85,85,85,85|N|||72|,,,,,Normal]Qwilfish|QwilfishHisui|Eviolite|Intimidate|taunt,spikes,crunch,gunkshot||85,85,85,85,85,85|M|||83|,,,,,Poison]Mewtwo||LifeOrb|Pressure|fireblast,darkpulse,psystrike,nastyplot||85,,85,85,85,85|N|,0,,,,||72|,,,,,Dark]Arcanine||HeavyDutyBoots|Intimidate|extremespeed,morningsun,closecombat,flareblitz||85,85,85,85,85,85|M|||84|,,,,,Fighting",
   "curation": {

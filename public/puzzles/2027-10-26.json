@@ -19,6 +19,252 @@
     "Moltres",
     "Magnezone"
   ],
+  "playerSets": [
+    {
+      "species": "Zoroark-Hisui",
+      "level": 80,
+      "types": [
+        "Normal",
+        "Ghost"
+      ],
+      "ability": "Illusion",
+      "item": "Choice Specs",
+      "teraType": "Fighting",
+      "maxhp": 219,
+      "stats": {
+        "atk": 165,
+        "def": 142,
+        "spa": 246,
+        "spd": 142,
+        "spe": 222
+      },
+      "moves": [
+        {
+          "name": "Bitter Malice",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Porygon-Z",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Adaptability",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 277,
+      "stats": {
+        "atk": 137,
+        "def": 164,
+        "spa": 272,
+        "spd": 172,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Pelipper",
+      "level": 86,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Drizzle",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 243,
+      "stats": {
+        "atk": 135,
+        "def": 221,
+        "spa": 213,
+        "spd": 170,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Luxray",
+      "level": 88,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Intimidate",
+      "item": "Assault Vest",
+      "teraType": "Fairy",
+      "maxhp": 284,
+      "stats": {
+        "atk": 261,
+        "def": 189,
+        "spa": 217,
+        "spd": 189,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Ice Fang",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Moltres",
+      "level": 81,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 278,
+      "stats": {
+        "atk": 209,
+        "def": 192,
+        "spa": 249,
+        "spd": 184,
+        "spe": 192
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Magnezone",
+      "level": 84,
+      "types": [
+        "Electric",
+        "Steel"
+      ],
+      "ability": "Analytic",
+      "item": "Assault Vest",
+      "teraType": "Flying",
+      "maxhp": 255,
+      "stats": {
+        "atk": 122,
+        "def": 241,
+        "spa": 267,
+        "spd": 199,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Zoroark|ZoroarkHisui|ChoiceSpecs|Illusion|bittermalice,trick,hypervoice,focusblast||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fighting]Porygon-Z||LifeOrb|Adaptability|agility,shadowball,terablast,nastyplot||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fighting]Pelipper||HeavyDutyBoots|Drizzle|roost,uturn,surf,hurricane||85,85,85,85,85,85|F|||86|,,,,,Water]Luxray||AssaultVest|Intimidate|playrough,voltswitch,icefang,wildcharge||85,85,85,85,85,85|F|||88|,,,,,Fairy]Moltres||HeavyDutyBoots|FlameBody|roost,willowisp,fireblast,bravebird||85,85,85,85,85,85|N|||81|,,,,,Dragon]Magnezone||AssaultVest|Analytic|voltswitch,flashcannon,thunderbolt,bodypress||85,,85,85,85,85|N|,0,,,,||84|,,,,,Flying",
   "ai": "Rabsca||HeavyDutyBoots|Synchronize|revivalblessing,recover,psychic,bugbuzz||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Tyranitar||WeaknessPolicy|SandStream|dragondance,knockoff,stoneedge,earthquake||85,85,85,85,85,85|F|||78|,,,,,Ghost]Luvdisc||HeavyDutyBoots|SwiftSwim|substitute,surf,flipturn,endeavor||81,85,85,85,85,85|M||||,,,,,Ghost]Crabominable||ChoiceBand|IronFist|knockoff,earthquake,drainpunch,icehammer||85,85,85,85,85,85|M|||90|,,,,,Ground]Galvantula||HeavyDutyBoots|CompoundEyes|bugbuzz,stickyweb,thunder,energyball||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Passimian||ChoiceBand|Defiant|earthquake,knockoff,closecombat,gunkshot||85,85,85,85,85,85|F|||83|,,,,,Dark",
   "curation": {

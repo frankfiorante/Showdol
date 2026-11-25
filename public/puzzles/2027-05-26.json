@@ -19,6 +19,253 @@
     "Salazzle",
     "Vivillon-Sun"
   ],
+  "playerSets": [
+    {
+      "species": "Ambipom",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Silk Scarf",
+      "teraType": "Normal",
+      "maxhp": 263,
+      "stats": {
+        "atk": 216,
+        "def": 159,
+        "spa": 149,
+        "spd": 159,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Fake Out",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Low Kick",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Hawlucha",
+      "level": 80,
+      "types": [
+        "Fighting",
+        "Flying"
+      ],
+      "ability": "Unburden",
+      "item": "White Herb",
+      "teraType": "Fighting",
+      "maxhp": 256,
+      "stats": {
+        "atk": 193,
+        "def": 166,
+        "spa": 165,
+        "spd": 147,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Tentacruel",
+      "level": 84,
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "ability": "Liquid Ooze",
+      "item": "Assault Vest",
+      "teraType": "Grass",
+      "maxhp": 272,
+      "stats": {
+        "atk": 166,
+        "def": 157,
+        "spa": 183,
+        "spd": 250,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Sandslash-Alola",
+      "level": 88,
+      "types": [
+        "Ice",
+        "Steel"
+      ],
+      "ability": "Slush Rush",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 275,
+      "stats": {
+        "atk": 226,
+        "def": 261,
+        "spa": 94,
+        "spd": 165,
+        "spe": 165
+      },
+      "moves": [
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Salazzle",
+      "level": 83,
+      "types": [
+        "Poison",
+        "Fire"
+      ],
+      "ability": "Corrosion",
+      "item": "Leftovers",
+      "teraType": "Flying",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 147,
+        "spa": 232,
+        "spd": 147,
+        "spe": 242
+      },
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Vivillon-Sun",
+      "level": 83,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Compound Eyes",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 268,
+      "stats": {
+        "atk": 91,
+        "def": 131,
+        "spa": 197,
+        "spd": 131,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Ambipom||SilkScarf|Technician|fakeout,doubleedge,knockoff,lowkick||85,85,85,85,85,85|M|||84|,,,,,Normal]Hawlucha||WhiteHerb|Unburden|encore,closecombat,bravebird,swordsdance||85,85,85,85,85,85|F|||80|,,,,,Fighting]Tentacruel||AssaultVest|LiquidOoze|rapidspin,surf,sludgebomb,flipturn||85,85,85,85,85,85|F|||84|,,,,,Grass]Sandslash|SandslashAlola|Leftovers|SlushRush|spikes,ironhead,earthquake,tripleaxel||85,85,85,85,85,85|F|||88|,,,,,Water]Salazzle||Leftovers|Corrosion|flamethrower,toxic,substitute,protect||85,,85,85,85,85|F|,0,,,,||83|,,,,,Flying]Vivillon|VivillonSun|HeavyDutyBoots|CompoundEyes|terablast,sleeppowder,quiverdance,hurricane||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground",
   "ai": "Terrakion||LifeOrb|Justified|closecombat,stoneedge,earthquake,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Ground]Basculegion|BasculegionF|AssaultVest|Adaptability|wavecrash,shadowball,hydropump,flipturn||85,85,85,85,85,85|F|||83|,,,,,Water]Emboar||ChoiceScarf|Reckless|headsmash,wildcharge,closecombat,flareblitz||85,85,85,85,85,85|M|||84|,,,,,Fire]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,partingshot,shadowball,recover||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Flygon||LumBerry|Levitate|stoneedge,earthquake,dragondance,outrage||85,85,85,85,85,85|M|||82|,,,,,Ground]Iron Bundle||HeavyDutyBoots|QuarkDrive|hydropump,freezedry,flipturn,encore||85,85,85,85,85,85|N|||78|,,,,,Water",
   "curation": {

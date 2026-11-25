@@ -19,6 +19,251 @@
     "Overqwil",
     "Rotom-Mow"
   ],
+  "playerSets": [
+    {
+      "species": "Uxie",
+      "level": 83,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 260,
+      "stats": {
+        "atk": 129,
+        "def": 263,
+        "spa": 172,
+        "spd": 263,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cinderace",
+      "level": 77,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Libero",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 249,
+      "stats": {
+        "atk": 223,
+        "def": 160,
+        "spa": 145,
+        "spd": 160,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "Pyro Ball",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "High Jump Kick",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Court Change",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Whiscash",
+      "level": 88,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Oblivious",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 337,
+      "stats": {
+        "atk": 188,
+        "def": 179,
+        "spa": 184,
+        "spd": 175,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Granbull",
+      "level": 88,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 302,
+      "stats": {
+        "atk": 261,
+        "def": 182,
+        "spa": 156,
+        "spd": 156,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Overqwil",
+      "level": 82,
+      "types": [
+        "Dark",
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Loaded Dice",
+      "teraType": "Dragon",
+      "maxhp": 274,
+      "stats": {
+        "atk": 236,
+        "def": 203,
+        "spa": 154,
+        "spd": 154,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Rotom-Mow",
+      "level": 87,
+      "types": [
+        "Electric",
+        "Grass"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Electric",
+      "maxhp": 229,
+      "stats": {
+        "atk": 118,
+        "def": 236,
+        "spa": 232,
+        "spd": 236,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Uxie||Leftovers|Levitate|nastyplot,substitute,psychicnoise,drainingkiss||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fairy]Cinderace||HeavyDutyBoots|Libero|pyroball,highjumpkick,gunkshot,courtchange||81,85,85,85,85,85|M|||77|,,,,,Fighting]Whiscash||Leftovers|Oblivious|hydropump,stealthrock,earthquake,icebeam||85,85,85,85,85,85|F|||88|,,,,,Steel]Granbull||Leftovers|Intimidate|encore,playrough,thunderwave,earthquake||85,85,85,85,85,85|M|||88|,,,,,Ground]Overqwil||LoadedDice|Intimidate|gunkshot,swordsdance,crunch,scaleshot||85,85,85,85,85,85|M|||82|,,,,,Dragon]Rotom|RotomMow|Leftovers|Levitate|thunderbolt,voltswitch,willowisp,leafstorm||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric",
   "ai": "Houndoom||HeavyDutyBoots|FlashFire|fireblast,sludgebomb,nastyplot,darkpulse||85,,85,85,85,85|M|,0,,,,||87|,,,,,Dark]Dedenne||SitrusBerry|CheekPouch|nuzzle,uturn,thunderbolt,dazzlinggleam||85,85,85,85,85,85|M|||88|,,,,,Flying]Rampardos||LifeOrb|SheerForce|rockslide,zenheadbutt,earthquake,firepunch||85,85,85,85,85,85|M|||90|,,,,,Psychic]Gurdurr||Eviolite|Guts|machpunch,bulkup,knockoff,drainpunch||85,85,85,85,85,85|F|||85|,,,,,Steel]Lumineon||HeavyDutyBoots|StormDrain|uturn,encore,hydropump,icebeam||85,85,85,85,85,85|F|||93|,,,,,Ground]Ogerpon|OgerponHearthflame|HearthflameMask|MoldBreaker|knockoff,swordsdance,ivycudgel,powerwhip||77,85,85,85,85,85|F|||74|,,,,,Fire",
   "curation": {

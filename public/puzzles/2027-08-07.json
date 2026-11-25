@@ -19,6 +19,250 @@
     "Iron Valiant",
     "Mightyena"
   ],
+  "playerSets": [
+    {
+      "species": "Mew",
+      "level": 82,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Synchronize",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 298,
+      "stats": {
+        "atk": 211,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Hippowdon",
+      "level": 82,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sand Stream",
+      "item": "Leftovers",
+      "teraType": "Rock",
+      "maxhp": 311,
+      "stats": {
+        "atk": 231,
+        "def": 241,
+        "spa": 159,
+        "spd": 165,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Meowstic-F",
+      "level": 89,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Competitive",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 277,
+      "stats": {
+        "atk": 90,
+        "def": 186,
+        "spa": 199,
+        "spd": 195,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Primarina",
+      "level": 83,
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "ability": "Torrent",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 268,
+      "stats": {
+        "atk": 127,
+        "def": 171,
+        "spa": 257,
+        "spd": 240,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Sparkling Aria",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Iron Valiant",
+      "level": 78,
+      "types": [
+        "Fairy",
+        "Fighting"
+      ],
+      "ability": "Quark Drive",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 244,
+      "stats": {
+        "atk": 248,
+        "def": 185,
+        "spa": 232,
+        "spd": 139,
+        "spe": 226
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mightyena",
+      "level": 96,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 290,
+      "stats": {
+        "atk": 227,
+        "def": 189,
+        "spa": 170,
+        "spd": 170,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Mew||Leftovers|Synchronize|encore,psychicnoise,willowisp,uturn||85,85,85,85,85,85|N|||82|,,,,,Fairy]Hippowdon||Leftovers|SandStream|stoneedge,earthquake,slackoff,curse||85,85,85,85,85,85|F|||82|,,,,,Rock]Meowstic|MeowsticF|LifeOrb|Competitive|darkpulse,nastyplot,thunderbolt,psyshock||85,,85,85,85,85|F|,0,,,,||89|,,,,,Electric]Primarina||Leftovers|Torrent|calmmind,psychic,sparklingaria,drainingkiss||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Iron Valiant||LifeOrb|QuarkDrive|calmmind,moonblast,closecombat,psychic||85,85,85,85,85,85|N|||78|,,,,,Steel]Mightyena||Leftovers|Intimidate|throatchop,taunt,playrough,suckerpunch||85,85,85,85,85,85|M|||96|,,,,,Fairy",
   "ai": "Beartic||HeavyDutyBoots|SlushRush|swordsdance,snowscape,iciclecrash,closecombat||85,85,85,85,85,85|F|||91|,,,,,Fighting]Komala||AssaultVest|Comatose|knockoff,bodyslam,rapidspin,uturn||85,85,85,85,85,85|M|||87|,,,,,Ghost]Falinks||LifeOrb|Defiant|closecombat,noretreat,knockoff,ironhead||85,85,85,85,85,85|N|||84|,,,,,Dark]Lycanroc||LifeOrb|SandRush|closecombat,stoneedge,taunt,psychicfangs||85,85,85,85,85,85|M|||86|,,,,,Fighting]Flareon||ToxicOrb|Guts|flareblitz,trailblaze,quickattack,facade||85,85,85,85,85,85|F|||90|,,,,,Normal]Dachsbun||Leftovers|WellBakedBody|wish,bodypress,protect,playrough||85,85,85,85,85,85|M|||92|,,,,,Steel",
   "curation": {

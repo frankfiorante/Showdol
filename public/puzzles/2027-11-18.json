@@ -19,6 +19,253 @@
     "Zebstrika",
     "Armarouge"
   ],
+  "playerSets": [
+    {
+      "species": "Primarina",
+      "level": 83,
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "ability": "Torrent",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 268,
+      "stats": {
+        "atk": 127,
+        "def": 171,
+        "spa": 257,
+        "spd": 240,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Sparkling Aria",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Wigglytuff",
+      "level": 96,
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "ability": "Competitive",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 424,
+      "stats": {
+        "atk": 139,
+        "def": 141,
+        "spa": 218,
+        "spd": 150,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Meloetta",
+      "level": 82,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 298,
+      "stats": {
+        "atk": 173,
+        "def": 173,
+        "spa": 257,
+        "spd": 257,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Relic Song",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Amoonguss",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Regenerator",
+      "item": "Rocky Helmet",
+      "teraType": "Water",
+      "maxhp": 321,
+      "stats": {
+        "atk": 144,
+        "def": 162,
+        "spa": 187,
+        "spd": 178,
+        "spe": 96
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Clear Smog",
+          "type": "Poison",
+          "pp": 24
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Zebstrika",
+      "level": 87,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 272,
+      "stats": {
+        "atk": 224,
+        "def": 159,
+        "spa": 189,
+        "spd": 159,
+        "spe": 252
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Armarouge",
+      "level": 80,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ability": "Weak Armor",
+      "item": "Power Herb",
+      "teraType": "Grass",
+      "maxhp": 267,
+      "stats": {
+        "atk": 101,
+        "def": 206,
+        "spa": 246,
+        "spd": 174,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Armor Cannon",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Meteor Beam",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Primarina||Leftovers|Torrent|sparklingaria,calmmind,psychic,drainingkiss||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Wigglytuff||Leftovers|Competitive|dazzlinggleam,protect,wish,fireblast||85,,85,85,85,85|M|,0,,,,||96|,,,,,Poison]Meloetta||LifeOrb|SereneGrace|tripleaxel,closecombat,knockoff,relicsong||85,85,85,85,85,85|N|||82|,,,,,Fighting]Amoonguss||RockyHelmet|Regenerator|gigadrain,sludgebomb,clearsmog,spore||85,,85,85,85,85|F|,0,,,,||82|,,,,,Water]Zebstrika||LifeOrb|SapSipper|voltswitch,supercellslam,highhorsepower,overheat||85,85,85,85,85,85|F|||87|,,,,,Ground]Armarouge||PowerHerb|WeakArmor|psyshock,armorcannon,meteorbeam,energyball||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass",
   "ai": "Brute Bonnet||Leftovers|Protosynthesis|suckerpunch,closecombat,spore,crunch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Furret||ChoiceBand|Frisk|knockoff,uturn,doubleedge,trick||85,85,85,85,85,85|M|||94|,,,,,Normal]Infernape||LifeOrb|Blaze|flareblitz,stoneedge,swordsdance,closecombat||85,85,85,85,85,85|M|||82|,,,,,Fighting]Chesnaught||Leftovers|Bulletproof|woodhammer,bodypress,spikes,synthesis||85,85,85,85,85,85|F|||84|,,,,,Steel]Blissey||Leftovers|NaturalCure|softboiled,seismictoss,thunderwave,healbell||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Lunala||Leftovers|ShadowShield|moonlight,focusblast,moongeistbeam,calmmind||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fighting",
   "curation": {

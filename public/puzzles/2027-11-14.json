@@ -19,6 +19,251 @@
     "Eternatus",
     "Illumise"
   ],
+  "playerSets": [
+    {
+      "species": "Comfey",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Triage",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 225,
+      "stats": {
+        "atk": 93,
+        "def": 202,
+        "spa": 188,
+        "spd": 236,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Rotom",
+      "level": 88,
+      "types": [
+        "Electric",
+        "Ghost"
+      ],
+      "ability": "Levitate",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 231,
+      "stats": {
+        "atk": 93,
+        "def": 186,
+        "spa": 217,
+        "spd": 186,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Regidrago",
+      "level": 77,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Dragon's Maw",
+      "item": "Lum Berry",
+      "teraType": "Dragon",
+      "maxhp": 435,
+      "stats": {
+        "atk": 199,
+        "def": 122,
+        "spa": 199,
+        "spd": 122,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Decidueye",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "ability": "Overgrow",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 281,
+      "stats": {
+        "atk": 239,
+        "def": 182,
+        "spa": 226,
+        "spd": 226,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Spirit Shackle",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Eternatus",
+      "level": 69,
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Power Herb",
+      "teraType": "Dragon",
+      "maxhp": 308,
+      "stats": {
+        "atk": 122,
+        "def": 171,
+        "spa": 240,
+        "spd": 171,
+        "spe": 220
+      },
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Dynamax Cannon",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Meteor Beam",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Illumise",
+      "level": 91,
+      "types": [
+        "Bug"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 90,
+        "def": 188,
+        "spa": 185,
+        "spd": 207,
+        "spe": 207
+      },
+      "moves": [
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Comfey||Leftovers|Triage|drainingkiss,calmmind,encore,terablast||85,,85,85,85,85|M|,0,,,,||85|,,,,,Ground]Rotom||LifeOrb|Levitate|thunderbolt,willowisp,shadowball,voltswitch||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Regidrago||LumBerry|DragonsMaw|dracometeor,earthquake,outrage,dragondance||85,85,85,85,85,85|N|||77|,,,,,Dragon]Decidueye||HeavyDutyBoots|Overgrow|spiritshackle,leafstorm,roost,uturn||85,85,85,85,85,85|M|||88|,,,,,Ghost]Eternatus||PowerHerb|Pressure|sludgebomb,dynamaxcannon,meteorbeam,fireblast||85,,85,85,85,85|N|,0,,,,||69|,,,,,Dragon]Illumise||HeavyDutyBoots|Prankster|bugbuzz,thunderwave,roost,encore||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel",
   "ai": "Umbreon||Leftovers|Synchronize|protect,wish,toxic,foulplay||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Vespiquen||HeavyDutyBoots|Pressure|hurricane,spikes,roost,toxic||85,,85,85,85,85|F|,0,,,,||99|,,,,,Steel]Beartic||ChoiceBand|SwiftSwim|aquajet,earthquake,closecombat,iciclecrash||85,85,85,85,85,85|M|||91|,,,,,Ground]Arceus|ArceusFire|FlamePlate|Multitype|swordsdance,recover,earthquake,flareblitz||81,85,85,85,85,85|N|||72|,,,,,Fire]Infernape||LifeOrb|Blaze|stoneedge,gunkshot,closecombat,overheat||85,85,85,85,85,85|M|||82|,,,,,Fire]Girafarig||Eviolite|SapSipper|thunderbolt,nastyplot,psyshock,hypervoice||85,,85,85,85,85|M|,0,,,,||89|,,,,,Electric",
   "curation": {

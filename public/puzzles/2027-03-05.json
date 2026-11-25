@@ -19,6 +19,252 @@
     "Dewgong",
     "Pincurchin"
   ],
+  "playerSets": [
+    {
+      "species": "Slither Wing",
+      "level": 81,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 270,
+      "stats": {
+        "atk": 265,
+        "def": 175,
+        "spa": 184,
+        "spd": 217,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "First Impression",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Bellossom",
+      "level": 84,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 263,
+      "stats": {
+        "atk": 139,
+        "def": 208,
+        "spa": 199,
+        "spd": 216,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Crabominable",
+      "level": 90,
+      "types": [
+        "Fighting",
+        "Ice"
+      ],
+      "ability": "Iron Fist",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 321,
+      "stats": {
+        "atk": 289,
+        "def": 190,
+        "spa": 163,
+        "spd": 172,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Ice Hammer",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Eternatus",
+      "level": 69,
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Rocky Helmet",
+      "teraType": "Fire",
+      "maxhp": 308,
+      "stats": {
+        "atk": 122,
+        "def": 171,
+        "spa": 240,
+        "spd": 171,
+        "spe": 220
+      },
+      "moves": [
+        {
+          "name": "Dynamax Cannon",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dewgong",
+      "level": 94,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Thick Fat",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 322,
+      "stats": {
+        "atk": 185,
+        "def": 204,
+        "spa": 185,
+        "spd": 232,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Pincurchin",
+      "level": 100,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Electric Surge",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 258,
+      "stats": {
+        "atk": 259,
+        "def": 247,
+        "spa": 239,
+        "spd": 227,
+        "spe": 87
+      },
+      "moves": [
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Zing Zap",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Slither Wing||LifeOrb|Protosynthesis|wildcharge,firstimpression,flareblitz,closecombat||85,85,85,85,85,85|N|||81|,,,,,Fire]Bellossom||Leftovers|Chlorophyll|strengthsap,gigadrain,sludgebomb,quiverdance||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Crabominable||ChoiceBand|IronFist|icehammer,earthquake,closecombat,gunkshot||85,85,85,85,85,85|M|||90|,,,,,Ground]Eternatus||RockyHelmet|Pressure|dynamaxcannon,recover,fireblast,sludgebomb||85,,85,85,85,85|N|,0,,,,||69|,,,,,Fire]Dewgong||HeavyDutyBoots|ThickFat|surf,encore,tripleaxel,knockoff||85,85,85,85,85,85|M|||94|,,,,,Ground]Pincurchin||Leftovers|ElectricSurge|liquidation,recover,zingzap,curse||85,85,85,85,85,85|M||||,,,,,Water",
   "ai": "Rotom|RotomHeat|HeavyDutyBoots|Levitate|painsplit,overheat,discharge,willowisp||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Raging Bolt||Leftovers|Protosynthesis|thunderclap,thunderbolt,dracometeor,calmmind||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Kingdra||LumBerry|Sniper|ironhead,outrage,wavecrash,dragondance||85,85,85,85,85,85|M|||84|,,,,,Steel]Infernape||ChoiceScarf|Blaze|closecombat,flareblitz,uturn,knockoff||85,85,85,85,85,85|M|||82|,,,,,Fire]Tropius||SitrusBerry|Harvest|airslash,protect,leechseed,substitute||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Spiritomb||Leftovers|Infiltrator|foulplay,suckerpunch,poltergeist,toxic||85,85,85,85,85,85|M|||89|,,,,,Ghost",
   "curation": {

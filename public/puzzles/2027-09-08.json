@@ -19,6 +19,251 @@
     "Primarina",
     "Porygon-Z"
   ],
+  "playerSets": [
+    {
+      "species": "Mesprit",
+      "level": 85,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Scarf",
+      "teraType": "Electric",
+      "maxhp": 275,
+      "stats": {
+        "atk": 183,
+        "def": 227,
+        "spa": 227,
+        "spd": 227,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Veluza",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Sharpness",
+      "item": "Sitrus Berry",
+      "teraType": "Water",
+      "maxhp": 292,
+      "stats": {
+        "atk": 222,
+        "def": 173,
+        "spa": 181,
+        "spd": 159,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Fillet Away",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Cutter",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Frosmoth",
+      "level": 82,
+      "types": [
+        "Ice",
+        "Bug"
+      ],
+      "ability": "Ice Scales",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 146,
+        "spa": 252,
+        "spd": 195,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Vigoroth",
+      "level": 85,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Vital Spirit",
+      "item": "Eviolite",
+      "teraType": "Ground",
+      "maxhp": 275,
+      "stats": {
+        "atk": 185,
+        "def": 185,
+        "spa": 142,
+        "spd": 142,
+        "spe": 202
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Primarina",
+      "level": 83,
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "ability": "Liquid Voice",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 268,
+      "stats": {
+        "atk": 127,
+        "def": 171,
+        "spa": 257,
+        "spd": 240,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Porygon-Z",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Adaptability",
+      "item": "Choice Scarf",
+      "teraType": "Electric",
+      "maxhp": 277,
+      "stats": {
+        "atk": 137,
+        "def": 164,
+        "spa": 272,
+        "spd": 172,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Tri Attack",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Mesprit||ChoiceScarf|Levitate|trick,psychic,thunderbolt,icebeam||85,,85,85,85,85|N|,0,,,,||85|,,,,,Electric]Veluza||SitrusBerry|Sharpness|filletaway,aquacutter,psychocut,nightslash||85,85,85,85,85,85|F|||85|,,,,,Water]Frosmoth||HeavyDutyBoots|IceScales|quiverdance,icebeam,bugbuzz,terablast||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Vigoroth||Eviolite|VitalSpirit|bulkup,slackoff,earthquake,bodyslam||85,85,85,85,85,85|F|||85|,,,,,Ground]Primarina||Leftovers|LiquidVoice|calmmind,moonblast,drainingkiss,psychicnoise||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Porygon-Z||ChoiceScarf|Adaptability|trick,thunderbolt,triattack,shadowball||85,,85,85,85,85|N|,0,,,,||83|,,,,,Electric",
   "ai": "Metagross||WeaknessPolicy|ClearBody|earthquake,heavyslam,knockoff,agility||85,85,85,85,85,85|N|||79|,,,,,Ground]Dudunsparce|DudunsparceThreeSegment|Leftovers|Rattled|earthquake,roost,boomburst,toxic||85,85,85,85,85,85|F|||83|,,,,,Ground]Okidogi||AssaultVest|ToxicChain|gunkshot,knockoff,psychicfangs,drainpunch||85,85,85,85,85,85|M|||77|,,,,,Dark]Azumarill||SitrusBerry|HugePower|playrough,aquajet,liquidation,bellydrum||85,85,85,85,85,85|M|||82|,,,,,Water]Chi-Yu||ChoiceSpecs|BeadsofRuin|darkpulse,psychic,flamethrower,overheat||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Arboliva||Leftovers|SeedSower|energyball,hypervoice,strengthsap,earthpower||85,,85,85,85,85|M|,0,,,,||91|,,,,,Ground",
   "curation": {

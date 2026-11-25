@@ -19,6 +19,250 @@
     "Dusknoir",
     "Seviper"
   ],
+  "playerSets": [
+    {
+      "species": "Oranguru",
+      "level": 92,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Inner Focus",
+      "item": "Leftovers",
+      "teraType": "Psychic",
+      "maxhp": 315,
+      "stats": {
+        "atk": 115,
+        "def": 200,
+        "spa": 218,
+        "spd": 255,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Palafin",
+      "level": 77,
+      "types": [
+        "Water"
+      ],
+      "ability": "Zero to Hero",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 281,
+      "stats": {
+        "atk": 152,
+        "def": 155,
+        "spa": 126,
+        "spd": 140,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Jet Punch",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Lanturn",
+      "level": 89,
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 367,
+      "stats": {
+        "atk": 108,
+        "def": 154,
+        "spa": 186,
+        "spd": 186,
+        "spe": 170
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Regieleki",
+      "level": 79,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Transistor",
+      "item": "Magnet",
+      "teraType": "Ice",
+      "maxhp": 256,
+      "stats": {
+        "atk": 204,
+        "def": 125,
+        "spa": 204,
+        "spd": 125,
+        "spe": 362
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dusknoir",
+      "level": 89,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Frisk",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 225,
+      "stats": {
+        "atk": 229,
+        "def": 291,
+        "spa": 166,
+        "spd": 291,
+        "spe": 131
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Seviper",
+      "level": 93,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 287,
+      "stats": {
+        "atk": 239,
+        "def": 164,
+        "spa": 239,
+        "spd": 164,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Oranguru||Leftovers|InnerFocus|thunderbolt,nastyplot,psyshock,focusblast||85,,85,85,85,85|F|,0,,,,||92|,,,,,Psychic]Palafin||Leftovers|ZerotoHero|icepunch,bulkup,drainpunch,jetpunch||85,85,85,85,85,85|M|||77|,,,,,Dragon]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderbolt,scald,thunderwave,voltswitch||85,,85,85,85,85|M|,0,,,,||89|,,,,,Flying]Regieleki||Magnet|Transistor|thunderbolt,rapidspin,voltswitch,terablast||85,85,85,85,85,85|N|||79|,,,,,Ice]Dusknoir||Leftovers|Frisk|shadowsneak,painsplit,willowisp,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Fairy]Seviper||Leftovers|ShedSkin|trailblaze,earthquake,gunkshot,swordsdance||85,85,85,85,85,85|F|||93|,,,,,Grass",
   "ai": "Palossand||Leftovers|WaterCompaction|shoreup,earthpower,sludgebomb,shadowball||85,,85,85,85,85|F|,0,,,,||89|,,,,,Poison]Tinkaton||Leftovers|MoldBreaker|playrough,knockoff,swordsdance,gigatonhammer||85,85,85,85,85,85|F|||82|,,,,,Steel]Ting-Lu||Leftovers|VesselofRuin|earthquake,stealthrock,ruination,payback||85,85,85,85,85,85|N|||78|,,,,,Poison]Skarmory||Leftovers|Sturdy|bravebird,bodypress,irondefense,roost||85,85,85,85,85,85|F|||80|,,,,,Fighting]Sawsbuck||LifeOrb|SapSipper|doubleedge,highhorsepower,hornleech,swordsdance||85,85,85,85,85,85|F|||88|,,,,,Normal]Clefable||Leftovers|Unaware|moonblast,moonlight,calmmind,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel",
   "curation": {

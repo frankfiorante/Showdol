@@ -19,6 +19,252 @@
     "Ogerpon-Wellspring",
     "Pecharunt"
   ],
+  "playerSets": [
+    {
+      "species": "Basculegion-F",
+      "level": 83,
+      "types": [
+        "Water",
+        "Ghost"
+      ],
+      "ability": "Adaptability",
+      "item": "Choice Specs",
+      "teraType": "Water",
+      "maxhp": 335,
+      "stats": {
+        "atk": 200,
+        "def": 156,
+        "spa": 214,
+        "spd": 172,
+        "spe": 177
+      },
+      "moves": [
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Glastrier",
+      "level": 86,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Chilling Neigh",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 312,
+      "stats": {
+        "atk": 299,
+        "def": 273,
+        "spa": 161,
+        "spd": 238,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lurantis",
+      "level": 87,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Contrary",
+      "item": "Assault Vest",
+      "teraType": "Water",
+      "maxhp": 264,
+      "stats": {
+        "atk": 232,
+        "def": 206,
+        "spa": 189,
+        "spd": 206,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Frosmoth",
+      "level": 82,
+      "types": [
+        "Ice",
+        "Bug"
+      ],
+      "ability": "Ice Scales",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 146,
+        "spa": 252,
+        "spd": 195,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ogerpon-Wellspring",
+      "level": 76,
+      "types": [
+        "Grass",
+        "Water"
+      ],
+      "ability": "Water Absorb",
+      "item": "Wellspring Mask",
+      "teraType": "Water",
+      "maxhp": 247,
+      "stats": {
+        "atk": 226,
+        "def": 172,
+        "spa": 135,
+        "spd": 190,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Ivy Cudgel",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Pecharunt",
+      "level": 77,
+      "types": [
+        "Poison",
+        "Ghost"
+      ],
+      "ability": "Poison Puppeteer",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 262,
+      "stats": {
+        "atk": 140,
+        "def": 291,
+        "spa": 180,
+        "spd": 180,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Malignant Chain",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Basculegion|BasculegionF|ChoiceSpecs|Adaptability|flipturn,icebeam,shadowball,hydropump||85,85,85,85,85,85|F|||83|,,,,,Water]Glastrier||HeavyDutyBoots|ChillingNeigh|iciclecrash,highhorsepower,closecombat,swordsdance||85,85,85,85,85,85|N|||86|,,,,,Fighting]Lurantis||AssaultVest|Contrary|knockoff,superpower,leafstorm,leechlife||85,85,85,85,85,85|M|||87|,,,,,Water]Frosmoth||HeavyDutyBoots|IceScales|quiverdance,terablast,icebeam,bugbuzz||85,,85,85,85,85|M|,0,,,,||82|,,,,,Ground]Ogerpon|OgerponWellspring|WellspringMask|WaterAbsorb|encore,ivycudgel,synthesis,woodhammer||85,85,85,85,85,85|F|||76|,,,,,Water]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,nastyplot,recover,shadowball||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark",
   "ai": "Glastrier||HeavyDutyBoots|ChillingNeigh|closecombat,iciclecrash,swordsdance,heavyslam||85,85,85,85,85,85|N|||86|,,,,,Steel]Latios||SoulDew|Levitate|psyshock,dracometeor,calmmind,recover||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Trevenant||SitrusBerry|Harvest|drainpunch,poltergeist,toxic,protect||85,85,85,85,85,85|F|||89|,,,,,Fairy]Sunflora||ChoiceSpecs|Chlorophyll|sludgebomb,leafstorm,earthpower,dazzlinggleam||85,,85,85,85,85|M|,0,,,,|||,,,,,Ground]Charizard||HeavyDutyBoots|Blaze|outrage,earthquake,flareblitz,swordsdance||85,85,85,85,85,85|M|||85|,,,,,Ground]Annihilape||ChestoBerry|Defiant|ragefist,bulkup,rest,drainpunch||85,85,85,85,85,85|F|||76|,,,,,Water",
   "curation": {

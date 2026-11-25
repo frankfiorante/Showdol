@@ -19,6 +19,252 @@
     "Drifblim",
     "Gumshoos"
   ],
+  "playerSets": [
+    {
+      "species": "Sawsbuck-Autumn",
+      "level": 88,
+      "types": [
+        "Normal",
+        "Grass"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 284,
+      "stats": {
+        "atk": 226,
+        "def": 173,
+        "spa": 156,
+        "spd": 173,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Urshifu-Rapid-Strike",
+      "level": 75,
+      "types": [
+        "Fighting",
+        "Water"
+      ],
+      "ability": "Unseen Fist",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 274,
+      "stats": {
+        "atk": 239,
+        "def": 194,
+        "spa": 138,
+        "spd": 134,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Surging Strikes",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Minior-Yellow",
+      "level": 79,
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "ability": "Shields Down",
+      "item": "White Herb",
+      "teraType": "Steel",
+      "maxhp": 224,
+      "stats": {
+        "atk": 204,
+        "def": 140,
+        "spa": 204,
+        "spd": 140,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Power Gem",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Hitmontop",
+      "level": 88,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Technician",
+      "item": "Leftovers",
+      "teraType": "Ice",
+      "maxhp": 231,
+      "stats": {
+        "atk": 217,
+        "def": 217,
+        "spa": 112,
+        "spd": 244,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Drifblim",
+      "level": 86,
+      "types": [
+        "Ghost",
+        "Flying"
+      ],
+      "ability": "Unburden",
+      "item": "Sitrus Berry",
+      "teraType": "Dark",
+      "maxhp": 396,
+      "stats": {
+        "atk": 142,
+        "def": 125,
+        "spa": 204,
+        "spd": 142,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Gumshoos",
+      "level": 95,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Adaptability",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 321,
+      "stats": {
+        "atk": 263,
+        "def": 168,
+        "spa": 158,
+        "spd": 168,
+        "spe": 139
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Sawsbuck|SawsbuckAutumn|LifeOrb|SapSipper|highhorsepower,swordsdance,doubleedge,hornleech||85,85,85,85,85,85|F|||88|,,,,,Ground]Urshifu|UrshifuRapidStrike|ChoiceBand|UnseenFist|icespinner,surgingstrikes,closecombat,aquajet||85,85,85,85,85,85|M|||75|,,,,,Water]Minior|MiniorYellow|WhiteHerb|ShieldsDown|acrobatics,earthquake,powergem,shellsmash||85,85,85,85,85,85|N|||79|,,,,,Steel]Hitmontop||Leftovers|Technician|closecombat,rapidspin,bulkup,tripleaxel||85,85,85,85,85,85|M|||88|,,,,,Ice]Drifblim||SitrusBerry|Unburden|airslash,strengthsap,shadowball,calmmind||73,,85,85,85,85|F|,0,,,,||86|,,,,,Dark]Gumshoos||ChoiceBand|Adaptability|earthquake,knockoff,doubleedge,uturn||85,85,85,85,85,85|M|||95|,,,,,Ground",
   "ai": "Baxcalibur||ChoiceBand|ThermalExchange|glaiverush,iciclecrash,iceshard,earthquake||81,85,85,85,85,85|M|||75|,,,,,Ground]Komala||AssaultVest|Comatose|rapidspin,knockoff,bodyslam,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ghost]Greninja||LifeOrb|Protean|gunkshot,darkpulse,toxicspikes,hydropump||85,85,85,85,85,85|M|||80|,,,,,Dark]Thundurus|||Defiant|thunderbolt,uturn,acrobatics,focusblast||85,85,85,85,85,85|M|||80|,,,,,Steel]Noivern||HeavyDutyBoots|Infiltrator|roost,dracometeor,flamethrower,hurricane||85,,85,85,85,85|F|,0,,,,||82|,,,,,Fire]Lumineon||LifeOrb|StormDrain|alluringvoice,encore,hydropump,icebeam||85,,85,85,85,85|F|,0,,,,||93|,,,,,Fairy",
   "curation": {

@@ -19,6 +19,252 @@
     "Gastrodon-East",
     "Cinccino"
   ],
+  "playerSets": [
+    {
+      "species": "Salazzle",
+      "level": 83,
+      "types": [
+        "Poison",
+        "Fire"
+      ],
+      "ability": "Corrosion",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 147,
+        "spa": 232,
+        "spd": 147,
+        "spe": 242
+      },
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Spidops",
+      "level": 96,
+      "types": [
+        "Bug"
+      ],
+      "ability": "Stakeout",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 271,
+      "stats": {
+        "atk": 206,
+        "def": 231,
+        "spa": 154,
+        "spd": 220,
+        "spe": 122
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Circle Throw",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Wo-Chien",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Grass"
+      ],
+      "ability": "Tablets of Ruin",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 277,
+      "stats": {
+        "atk": 189,
+        "def": 214,
+        "spa": 205,
+        "spd": 272,
+        "spe": 164
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Houndoom",
+      "level": 87,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "ability": "Flash Fire",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Poison",
+      "maxhp": 272,
+      "stats": {
+        "atk": 206,
+        "def": 137,
+        "spa": 241,
+        "spd": 189,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Gastrodon-East",
+      "level": 86,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Storm Drain",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 331,
+      "stats": {
+        "atk": 192,
+        "def": 166,
+        "spa": 207,
+        "spd": 190,
+        "spe": 116
+      },
+      "moves": [
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Cinccino",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Loaded Dice",
+      "teraType": "Grass",
+      "maxhp": 260,
+      "stats": {
+        "atk": 205,
+        "def": 147,
+        "spa": 156,
+        "spd": 147,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Tail Slap",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Salazzle||Leftovers|Corrosion|toxic,substitute,protect,flamethrower||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Spidops||HeavyDutyBoots|Stakeout|uturn,knockoff,stickyweb,circlethrow||85,85,85,85,85,85|F|||96|,,,,,Ghost]Wo-Chien||Leftovers|TabletsofRuin|knockoff,gigadrain,protect,leechseed||85,85,85,85,85,85|N|||83|,,,,,Poison]Houndoom||HeavyDutyBoots|FlashFire|sludgebomb,darkpulse,suckerpunch,fireblast||85,85,85,85,85,85|M|||87|,,,,,Poison]Gastrodon|GastrodonEast|Leftovers|StormDrain|spikes,earthquake,icebeam,recover||85,85,85,85,85,85|F|||86|,,,,,Steel]Cinccino||LoadedDice|Technician|uturn,tailslap,bulletseed,tripleaxel||85,85,85,85,85,85|M|||83|,,,,,Grass",
   "ai": "Wigglytuff||Leftovers|Competitive|protect,wish,knockoff,dazzlinggleam||85,85,85,85,85,85|F|||96|,,,,,Steel]Grimmsnarl||Leftovers|Prankster|thunderwave,partingshot,suckerpunch,spiritbreak||85,85,85,85,85,85|M|||83|,,,,,Steel]Tentacruel||Leftovers|LiquidOoze|sludgebomb,rapidspin,toxicspikes,surf||85,85,85,85,85,85|M|||84|,,,,,Flying]Zangoose||ToxicOrb|ToxicBoost|swordsdance,knockoff,facade,closecombat||85,85,85,85,85,85|F|||85|,,,,,Normal]Misdreavus||Eviolite|Levitate|drainingkiss,willowisp,shadowball,calmmind||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Froslass||WideLens|CursedBody|spikes,destinybond,tripleaxel,poltergeist||81,85,85,85,85,85|F|||87|,,,,,Ghost",
   "curation": {

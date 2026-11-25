@@ -19,6 +19,254 @@
     "Kingdra",
     "Calyrex"
   ],
+  "playerSets": [
+    {
+      "species": "Abomasnow",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "ability": "Snow Warning",
+      "item": "Light Clay",
+      "teraType": "Ghost",
+      "maxhp": 287,
+      "stats": {
+        "atk": 203,
+        "def": 174,
+        "spa": 203,
+        "spd": 191,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "pp": 8
+        },
+        {
+          "name": "Aurora Veil",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Spiritomb",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Dark"
+      ],
+      "ability": "Infiltrator",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 234,
+      "stats": {
+        "atk": 215,
+        "def": 243,
+        "spa": 215,
+        "spd": 243,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Staraptor",
+      "level": 79,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 263,
+      "stats": {
+        "atk": 235,
+        "def": 156,
+        "spa": 125,
+        "spd": 140,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Crabominable",
+      "level": 90,
+      "types": [
+        "Fighting",
+        "Ice"
+      ],
+      "ability": "Iron Fist",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 321,
+      "stats": {
+        "atk": 289,
+        "def": 190,
+        "spa": 163,
+        "spd": 172,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Ice Hammer",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Kingdra",
+      "level": 84,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Sniper",
+      "item": "Lum Berry",
+      "teraType": "Water",
+      "maxhp": 263,
+      "stats": {
+        "atk": 208,
+        "def": 208,
+        "spa": 208,
+        "spd": 208,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Waterfall",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Calyrex",
+      "level": 93,
+      "types": [
+        "Psychic",
+        "Grass"
+      ],
+      "ability": "Unnerve",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 337,
+      "stats": {
+        "atk": 153,
+        "def": 202,
+        "spa": 202,
+        "spd": 202,
+        "spe": 202
+      },
+      "moves": [
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Abomasnow||LightClay|SnowWarning|earthquake,blizzard,auroraveil,woodhammer||77,85,85,85,85,85|F|||84|,,,,,Ghost]Spiritomb||Leftovers|Infiltrator|willowisp,foulplay,suckerpunch,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Poison]Staraptor||ChoiceBand|Reckless|doubleedge,bravebird,closecombat,quickattack||81,85,85,85,85,85|M|||79|,,,,,Fighting]Crabominable||ChoiceBand|IronFist|gunkshot,icehammer,closecombat,earthquake||85,85,85,85,85,85|F|||90|,,,,,Ground]Kingdra||LumBerry|Sniper|outrage,wavecrash,dragondance,waterfall||85,85,85,85,85,85|F|||84|,,,,,Water]Calyrex||Leftovers|Unnerve|leechseed,gigadrain,calmmind,psyshock||85,,85,85,85,85|N|,0,,,,||93|,,,,,Steel",
   "ai": "Gardevoir||LifeOrb|Trace|moonblast,focusblast,psychic,calmmind||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy]Typhlosion|TyphlosionHisui|ChoiceScarf|Blaze|fireblast,shadowball,focusblast,eruption||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire]Salamence||HeavyDutyBoots|Moxie|dragondance,dualwingbeat,outrage,earthquake||85,85,85,85,85,85|M|||77|,,,,,Ground]Slaking||ChoiceBand|Truant|doubleedge,earthquake,knockoff,gigaimpact||85,85,85,85,85,85|M|||84|,,,,,Ghost]Spiritomb||Leftovers|Infiltrator|poltergeist,painsplit,toxic,foulplay||85,85,85,85,85,85|M|||89|,,,,,Ghost]Zacian||ChoiceBand|IntrepidSword|playrough,closecombat,psychicfangs,wildcharge||85,85,85,85,85,85|N|||69|,,,,,Fighting",
   "curation": {

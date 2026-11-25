@@ -19,6 +19,252 @@
     "Articuno-Galar",
     "Pecharunt"
   ],
+  "playerSets": [
+    {
+      "species": "Calyrex-Ice",
+      "level": 72,
+      "types": [
+        "Psychic",
+        "Ice"
+      ],
+      "ability": "As One (Glastrier)",
+      "item": "Weakness Policy",
+      "teraType": "Fighting",
+      "maxhp": 263,
+      "stats": {
+        "atk": 280,
+        "def": 258,
+        "spa": 164,
+        "spd": 229,
+        "spe": 114
+      },
+      "moves": [
+        {
+          "name": "Glacial Lance",
+          "type": "Ice",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Grimmsnarl",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Light Clay",
+      "teraType": "Steel",
+      "maxhp": 293,
+      "stats": {
+        "atk": 247,
+        "def": 156,
+        "spa": 205,
+        "spd": 172,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Parting Shot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Spirit Break",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Reflect",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Light Screen",
+          "type": "Psychic",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Serperior",
+      "level": 79,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Contrary",
+      "item": "Life Orb",
+      "teraType": "Dragon",
+      "maxhp": 248,
+      "stats": {
+        "atk": 123,
+        "def": 196,
+        "spa": 164,
+        "spd": 196,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Glare",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Umbreon",
+      "level": 84,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Synchronize",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 297,
+      "stats": {
+        "atk": 114,
+        "def": 233,
+        "spa": 149,
+        "spd": 267,
+        "spe": 157
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Articuno-Galar",
+      "level": 84,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Competitive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 288,
+      "stats": {
+        "atk": 147,
+        "def": 191,
+        "spa": 258,
+        "spd": 216,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Pecharunt",
+      "level": 77,
+      "types": [
+        "Poison",
+        "Ghost"
+      ],
+      "ability": "Poison Puppeteer",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 262,
+      "stats": {
+        "atk": 140,
+        "def": 291,
+        "spa": 180,
+        "spd": 180,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Malignant Chain",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Parting Shot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Calyrex|CalyrexIce|WeaknessPolicy|AsOneGlastrier|glaciallance,closecombat,highhorsepower,agility||85,85,85,85,85,85|N|||72|,,,,,Fighting]Grimmsnarl||LightClay|Prankster|partingshot,spiritbreak,reflect,lightscreen||85,85,85,85,85,85|M|||83|,,,,,Steel]Serperior||LifeOrb|Contrary|synthesis,leafstorm,glare,dragonpulse||85,,85,85,85,85|M|,0,,,,||79|,,,,,Dragon]Umbreon||Leftovers|Synchronize|protect,foulplay,wish,toxic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|hurricane,calmmind,psyshock,recover||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,shadowball,recover,partingshot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark",
   "ai": "Sandslash||Leftovers|SandRush|earthquake,spikes,knockoff,rapidspin||85,85,85,85,85,85|F|||89|,,,,,Dragon]Phione||Leftovers|Hydration|grassknot,scald,icebeam,takeheart||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Milotic||Leftovers|Competitive|scald,icebeam,dragontail,recover||85,85,85,85,85,85|M|||83|,,,,,Dragon]Zacian||LifeOrb|IntrepidSword|playrough,swordsdance,closecombat,crunch||85,85,85,85,85,85|N|||69|,,,,,Fighting]Mismagius||ChoiceSpecs|Levitate|mysticalfire,dazzlinggleam,shadowball,energyball||85,,85,85,85,85|M|,0,,,,||86|,,,,,Ghost]Spectrier||LifeOrb|GrimNeigh|shadowball,nastyplot,darkpulse,drainingkiss||85,,85,85,85,85|N|,0,,,,||75|,,,,,Dark",
   "curation": {

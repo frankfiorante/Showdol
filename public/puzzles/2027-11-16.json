@@ -19,6 +19,251 @@
     "Diancie",
     "Regirock"
   ],
+  "playerSets": [
+    {
+      "species": "Deoxys",
+      "level": 74,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 196,
+      "stats": {
+        "atk": 265,
+        "def": 117,
+        "spa": 265,
+        "spd": 117,
+        "spe": 265
+      },
+      "moves": [
+        {
+          "name": "Psycho Boost",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Haxorus",
+      "level": 78,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Lum Berry",
+      "teraType": "Steel",
+      "maxhp": 247,
+      "stats": {
+        "atk": 274,
+        "def": 185,
+        "spa": 139,
+        "spd": 154,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Amoonguss",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Regenerator",
+      "item": "Rocky Helmet",
+      "teraType": "Water",
+      "maxhp": 321,
+      "stats": {
+        "atk": 187,
+        "def": 162,
+        "spa": 187,
+        "spd": 178,
+        "spe": 96
+      },
+      "moves": [
+        {
+          "name": "Stomping Tantrum",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Toedscruel",
+      "level": 87,
+      "types": [
+        "Ground",
+        "Grass"
+      ],
+      "ability": "Mycelium Might",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 281,
+      "stats": {
+        "atk": 172,
+        "def": 163,
+        "spa": 189,
+        "spd": 259,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    },
+    {
+      "species": "Diancie",
+      "level": 82,
+      "types": [
+        "Rock",
+        "Fairy"
+      ],
+      "ability": "Clear Body",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 216,
+      "stats": {
+        "atk": 211,
+        "def": 293,
+        "spa": 211,
+        "spd": 293,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Diamond Storm",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Regirock",
+      "level": 83,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Clear Body",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 268,
+      "stats": {
+        "atk": 214,
+        "def": 380,
+        "spa": 131,
+        "spd": 214,
+        "spe": 131
+      },
+      "moves": [
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Deoxys||LifeOrb|Pressure|psychoboost,superpower,icebeam,knockoff||85,85,85,85,85,85|N|||74|,,,,,Fighting]Haxorus||LumBerry|MoldBreaker|outrage,closecombat,dragondance,ironhead||85,85,85,85,85,85|M|||78|,,,,,Steel]Amoonguss||RockyHelmet|Regenerator|stompingtantrum,sludgebomb,spore,gigadrain||85,85,85,85,85,85|F|||82|,,,,,Water]Toedscruel||Leftovers|MyceliumMight|leafstorm,spore,earthpower,rapidspin||85,85,85,85,85,85|M|||87|,,,,,Water]Diancie||Leftovers|ClearBody|drainingkiss,diamondstorm,calmmind,earthpower||85,85,85,85,85,85|N|||82|,,,,,Water]Regirock||ChestoBerry|ClearBody|curse,bodypress,stoneedge,rest||85,85,85,85,85,85|N|||83|,,,,,Fighting",
   "ai": "Electrode|ElectrodeHisui|LifeOrb|Soundproof|gigadrain,taunt,voltswitch,thunderbolt||85,,85,85,85,85|N|,0,,,,||87|,,,,,Grass]Volcanion||AssaultVest|WaterAbsorb|sludgebomb,flamecharge,steameruption,flamethrower||81,85,85,85,85,85|N|||79|,,,,,Fire]Dipplin||Eviolite|StickyHold|recover,dragonpulse,gigadrain,dragontail||85,85,85,85,85,85|M|||88|,,,,,Steel]Zacian||LifeOrb|IntrepidSword|playrough,swordsdance,closecombat,wildcharge||85,85,85,85,85,85|N|||69|,,,,,Fighting]Darkrai||LifeOrb|BadDreams|hypnosis,darkpulse,nastyplot,sludgebomb||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison]Dugtrio||LifeOrb|ArenaTrap|earthquake,swordsdance,stoneedge,suckerpunch||85,85,85,85,85,85|M|||84|,,,,,Dark",
   "curation": {

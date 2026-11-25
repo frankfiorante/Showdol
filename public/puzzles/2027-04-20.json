@@ -19,6 +19,250 @@
     "Rhyperior",
     "Copperajah"
   ],
+  "playerSets": [
+    {
+      "species": "Mesprit",
+      "level": 85,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 275,
+      "stats": {
+        "atk": 227,
+        "def": 227,
+        "spa": 227,
+        "spd": 227,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Flapple",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Hustle",
+      "item": "Choice Band",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 244,
+        "def": 191,
+        "spa": 217,
+        "spd": 156,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Grav Apple",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Banette",
+      "level": 93,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Cursed Body",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 270,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 207,
+        "spd": 170,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Sceptile",
+      "level": 87,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Overgrow",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 264,
+      "stats": {
+        "atk": 198,
+        "def": 163,
+        "spa": 232,
+        "spd": 198,
+        "spe": 259
+      },
+      "moves": [
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Shed Tail",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Rhyperior",
+      "level": 82,
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "ability": "Solid Rock",
+      "item": "Choice Band",
+      "teraType": "Steel",
+      "maxhp": 323,
+      "stats": {
+        "atk": 277,
+        "def": 260,
+        "spa": 137,
+        "spd": 137,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Copperajah",
+      "level": 86,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 350,
+      "stats": {
+        "atk": 273,
+        "def": 168,
+        "spa": 187,
+        "spd": 168,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Mesprit||Leftovers|Levitate|psychicnoise,thunderwave,knockoff,uturn||85,85,85,85,85,85|N|||85|,,,,,Steel]Flapple||ChoiceBand|Hustle|gravapple,uturn,suckerpunch,outrage||85,85,85,85,85,85|F|||88|,,,,,Steel]Banette||LifeOrb|CursedBody|thunderwave,gunkshot,poltergeist,shadowsneak||85,85,85,85,85,85|M|||93|,,,,,Poison]Sceptile||LifeOrb|Overgrow|leafstorm,focusblast,earthquake,shedtail||85,85,85,85,85,85|M|||87|,,,,,Steel]Rhyperior||ChoiceBand|SolidRock|icepunch,megahorn,earthquake,stoneedge||85,85,85,85,85,85|F|||82|,,,,,Steel]Copperajah||LifeOrb|SheerForce|superpower,playrough,ironhead,stealthrock||85,85,85,85,85,85|F|||86|,,,,,Fairy",
   "ai": "Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|quiverdance,roost,revelationdance,hurricane||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fighting]Vileplume||Leftovers|EffectSpore|strengthsap,sludgebomb,gigadrain,sleeppowder||85,,85,85,85,85|F|,0,,,,||85|,,,,,Water]Arceus||LifeOrb|Multitype|shadowclaw,swordsdance,extremespeed,earthquake||85,85,85,85,85,85|N|||68|,,,,,Ghost]Vespiquen||HeavyDutyBoots|Pressure|uturn,hurricane,toxicspikes,roost||85,85,85,85,85,85|F|||99|,,,,,Steel]Sylveon||Leftovers|Pixilate|calmmind,hypervoice,wish,protect||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Cinderace||HeavyDutyBoots|Libero|pyroball,uturn,willowisp,courtchange||85,85,85,85,85,85|M|||77|,,,,,Grass",
   "curation": {

@@ -19,6 +19,249 @@
     "Mewtwo",
     "Volbeat"
   ],
+  "playerSets": [
+    {
+      "species": "Jirachi",
+      "level": 80,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Assault Vest",
+      "teraType": "Fighting",
+      "maxhp": 291,
+      "stats": {
+        "atk": 206,
+        "def": 206,
+        "spa": 206,
+        "spd": 206,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Basculin-Blue-Striped",
+      "level": 86,
+      "types": [
+        "Water"
+      ],
+      "ability": "Adaptability",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 261,
+      "stats": {
+        "atk": 207,
+        "def": 161,
+        "spa": 187,
+        "spd": 144,
+        "spe": 218
+      },
+      "moves": [
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Barraskewda",
+      "level": 81,
+      "types": [
+        "Water"
+      ],
+      "ability": "Swift Swim",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 231,
+      "stats": {
+        "atk": 246,
+        "def": 144,
+        "spa": 144,
+        "spd": 128,
+        "spe": 267
+      },
+      "moves": [
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Waterfall",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ninetales",
+      "level": 85,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Drought",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 263,
+      "stats": {
+        "atk": 134,
+        "def": 176,
+        "spa": 186,
+        "spd": 219,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Solar Beam",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Scorching Sands",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mewtwo",
+      "level": 72,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Unnerve",
+      "item": "Life Orb",
+      "teraType": "Psychic",
+      "maxhp": 272,
+      "stats": {
+        "atk": 163,
+        "def": 172,
+        "spa": 264,
+        "spd": 172,
+        "spe": 229
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Psystrike",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Volbeat",
+      "level": 90,
+      "types": [
+        "Bug"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 263,
+      "stats": {
+        "atk": 183,
+        "def": 186,
+        "spa": 136,
+        "spd": 204,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Lunge",
+          "type": "Bug",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Jirachi||AssaultVest|SereneGrace|uturn,ironhead,drainpunch,bodyslam||85,85,85,85,85,85|N|||80|,,,,,Fighting]Basculin|BasculinBlueStriped|ChoiceBand|Adaptability|flipturn,wavecrash,aquajet,doubleedge||85,85,85,85,85,85|M|||86|,,,,,Water]Barraskewda||ChoiceBand|SwiftSwim|psychicfangs,waterfall,closecombat,flipturn||85,85,85,85,85,85|M|||81|,,,,,Fighting]Ninetales||HeavyDutyBoots|Drought|nastyplot,solarbeam,scorchingsands,fireblast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Grass]Mewtwo||LifeOrb|Unnerve|nastyplot,recover,psystrike,darkpulse||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic]Volbeat||HeavyDutyBoots|Prankster|thunderwave,lunge,roost,encore||85,85,85,85,85,85|M|||90|,,,,,Water",
   "ai": "Vigoroth||Eviolite|VitalSpirit|slackoff,bodyslam,knockoff,bulkup||85,85,85,85,85,85|M|||85|,,,,,Ghost]Meowstic|MeowsticF|LifeOrb|Competitive|nastyplot,darkpulse,psyshock,thunderbolt||85,,85,85,85,85|F|,0,,,,||89|,,,,,Dark]Tinkaton||Leftovers|MoldBreaker|playrough,knockoff,gigatonhammer,swordsdance||85,85,85,85,85,85|F|||82|,,,,,Steel]Toedscruel||Leftovers|MyceliumMight|leafstorm,rapidspin,earthpower,toxic||85,85,85,85,85,85|F|||87|,,,,,Water]Miraidon||LifeOrb|HadronEngine|dragonpulse,calmmind,electrodrift,dracometeor||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Phione||Leftovers|Hydration|takeheart,rest,sleeptalk,scald||85,,85,85,85,85|N|,0,,,,||91|,,,,,Steel",
   "curation": {

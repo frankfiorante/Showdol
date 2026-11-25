@@ -19,6 +19,252 @@
     "Sandy Shocks",
     "Bellibolt"
   ],
+  "playerSets": [
+    {
+      "species": "Ting-Lu",
+      "level": 78,
+      "types": [
+        "Dark",
+        "Ground"
+      ],
+      "ability": "Vessel of Ruin",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 370,
+      "stats": {
+        "atk": 217,
+        "def": 240,
+        "spa": 131,
+        "spd": 170,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Whirlwind",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Pelipper",
+      "level": 86,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Drizzle",
+      "item": "Choice Specs",
+      "teraType": "Water",
+      "maxhp": 243,
+      "stats": {
+        "atk": 135,
+        "def": 221,
+        "spa": 213,
+        "spd": 170,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Weather Ball",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Typhlosion-Hisui",
+      "level": 83,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "ability": "Blaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 257,
+      "stats": {
+        "atk": 144,
+        "def": 177,
+        "spa": 245,
+        "spd": 189,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mewtwo",
+      "level": 72,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 272,
+      "stats": {
+        "atk": 163,
+        "def": 172,
+        "spa": 264,
+        "spd": 172,
+        "spe": 229
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Psystrike",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sandy Shocks",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Ground"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 267,
+      "stats": {
+        "atk": 134,
+        "def": 201,
+        "spa": 240,
+        "spd": 182,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Bellibolt",
+      "level": 84,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Electromorphosis",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 320,
+      "stats": {
+        "atk": 112,
+        "def": 201,
+        "spa": 221,
+        "spd": 188,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Muddy Water",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Ting-Lu||Leftovers|VesselofRuin|earthquake,throatchop,whirlwind,stealthrock||85,85,85,85,85,85|N|||78|,,,,,Poison]Pelipper||ChoiceSpecs|Drizzle|weatherball,hurricane,hydropump,uturn||85,85,85,85,85,85|M|||86|,,,,,Water]Typhlosion|TyphlosionHisui|HeavyDutyBoots|Blaze|willowisp,shadowball,calmmind,fireblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Mewtwo||LifeOrb|Pressure|nastyplot,darkpulse,psystrike,fireblast||85,,85,85,85,85|N|,0,,,,||72|,,,,,Dark]Sandy Shocks||HeavyDutyBoots|Protosynthesis|thunderbolt,voltswitch,earthpower,spikes||85,,85,85,85,85|N|,0,,,,||80|,,,,,Grass]Bellibolt||Leftovers|Electromorphosis|toxic,thunderbolt,muddywater,slackoff||85,,85,85,85,85|M|,0,,,,||84|,,,,,Water",
   "ai": "Gouging Fire||HeavyDutyBoots|Protosynthesis|earthquake,outrage,heatcrash,dragondance||85,85,85,85,85,85|N|||74|,,,,,Ground]Krookodile||Leftovers|Intimidate|knockoff,earthquake,gunkshot,bulkup||85,85,85,85,85,85|M|||79|,,,,,Poison]Iron Jugulis||ChoiceSpecs|QuarkDrive|uturn,darkpulse,hurricane,hydropump||85,85,85,85,85,85|N|||77|,,,,,Dark]Raichu||AssaultVest|LightningRod|nuzzle,grassknot,thunderbolt,focusblast||85,85,85,85,85,85|M|||88|,,,,,Grass]Wyrdeer||AssaultVest|Intimidate|psychicnoise,bodyslam,megahorn,earthquake||85,85,85,85,85,85|M|||87|,,,,,Ground]Piloswine||Eviolite|ThickFat|iciclecrash,stealthrock,iceshard,earthquake||85,85,85,85,85,85|M|||85|,,,,,Poison",
   "curation": {

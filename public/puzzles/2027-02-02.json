@@ -19,6 +19,253 @@
     "Farigiraf",
     "Greninja-Bond"
   ],
+  "playerSets": [
+    {
+      "species": "Skarmory",
+      "level": 80,
+      "types": [
+        "Steel",
+        "Flying"
+      ],
+      "ability": "Sturdy",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 235,
+      "stats": {
+        "atk": 174,
+        "def": 270,
+        "spa": 110,
+        "spd": 158,
+        "spe": 158
+      },
+      "moves": [
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Houndstone",
+      "level": 86,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Fluffy",
+      "item": "Assault Vest",
+      "teraType": "Fighting",
+      "maxhp": 264,
+      "stats": {
+        "atk": 223,
+        "def": 221,
+        "spa": 135,
+        "spd": 216,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Metagross",
+      "level": 79,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Clear Body",
+      "item": "Weakness Policy",
+      "teraType": "Ground",
+      "maxhp": 256,
+      "stats": {
+        "atk": 259,
+        "def": 251,
+        "spa": 196,
+        "spd": 188,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Azumarill",
+      "level": 82,
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "ability": "Huge Power",
+      "item": "Sitrus Berry",
+      "teraType": "Water",
+      "maxhp": 298,
+      "stats": {
+        "atk": 129,
+        "def": 178,
+        "spa": 146,
+        "spd": 178,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Belly Drum",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Farigiraf",
+      "level": 89,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 358,
+      "stats": {
+        "atk": 211,
+        "def": 175,
+        "spa": 247,
+        "spd": 175,
+        "spe": 158
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Greninja-Bond",
+      "level": 80,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Battle Bond",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 246,
+      "stats": {
+        "atk": 198,
+        "def": 153,
+        "spa": 211,
+        "spd": 160,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Skarmory||Leftovers|Sturdy|bodypress,roost,irondefense,bravebird||85,85,85,85,85,85|F|||80|,,,,,Fighting]Houndstone||AssaultVest|Fluffy|shadowsneak,playrough,poltergeist,bodypress||85,85,85,85,85,85|F|||86|,,,,,Fighting]Metagross||WeaknessPolicy|ClearBody|heavyslam,earthquake,psychicfangs,agility||85,85,85,85,85,85|N|||79|,,,,,Ground]Azumarill||SitrusBerry|HugePower|bellydrum,playrough,liquidation,aquajet||85,85,85,85,85,85|F|||82|,,,,,Water]Farigiraf||Leftovers|SapSipper|protect,bodyslam,psychicnoise,wish||85,85,85,85,85,85|F|||89|,,,,,Water]Greninja|GreninjaBond|LifeOrb|BattleBond|hydropump,gunkshot,icebeam,darkpulse||85,85,85,85,85,85|M|||80|,,,,,Poison",
   "ai": "Minun||LifeOrb|VoltAbsorb|nastyplot,thunderbolt,encore,alluringvoice||85,,85,85,85,85|F|,0,,,,||95|,,,,,Fairy]Smeargle||FocusSash|OwnTempo|ceaselessedge,stickyweb,stealthrock,spore||85,85,85,85,85,85|M|||95|,,,,,Ghost]Moltres||HeavyDutyBoots|FlameBody|bravebird,roost,uturn,fireblast||85,85,85,85,85,85|N|||81|,,,,,Steel]Gogoat||Leftovers|SapSipper|milkdrink,bulkup,rockslide,hornleech||85,85,85,85,85,85|F|||88|,,,,,Water]Emboar||ChoiceBand|Reckless|knockoff,headsmash,flareblitz,closecombat||85,85,85,85,85,85|M|||84|,,,,,Fire]Lunala||Leftovers|ShadowShield|moongeistbeam,psyshock,moonlight,calmmind||85,,85,85,85,85|N|,0,,,,||70|,,,,,Dark",
   "curation": {

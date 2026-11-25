@@ -19,6 +19,251 @@
     "Dachsbun",
     "Hydreigon"
   ],
+  "playerSets": [
+    {
+      "species": "Arceus-Ground",
+      "level": 70,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Multitype",
+      "item": "Earth Plate",
+      "teraType": "Steel",
+      "maxhp": 284,
+      "stats": {
+        "atk": 209,
+        "def": 209,
+        "spa": 209,
+        "spd": 209,
+        "spe": 209
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Blissey",
+      "level": 85,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Natural Cure",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 572,
+      "stats": {
+        "atk": 22,
+        "def": 66,
+        "spa": 176,
+        "spd": 278,
+        "spe": 142
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Seismic Toss",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Soft-Boiled",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Iron Boulder",
+      "level": 77,
+      "types": [
+        "Rock",
+        "Psychic"
+      ],
+      "ability": "Quark Drive",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 265,
+      "stats": {
+        "atk": 229,
+        "def": 168,
+        "spa": 149,
+        "spd": 211,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Mighty Cleave",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Chesnaught",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Bulletproof",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 285,
+      "stats": {
+        "atk": 228,
+        "def": 253,
+        "spa": 173,
+        "spd": 174,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Dachsbun",
+      "level": 92,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Well-Baked Body",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 254,
+      "stats": {
+        "atk": 200,
+        "def": 264,
+        "spa": 144,
+        "spd": 200,
+        "spe": 227
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hydreigon",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Specs",
+      "teraType": "Dragon",
+      "maxhp": 275,
+      "stats": {
+        "atk": 170,
+        "def": 188,
+        "spa": 243,
+        "spd": 188,
+        "spe": 200
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Arceus|ArceusGround|EarthPlate|Multitype|stoneedge,dragondance,earthquake,recover||85,85,85,85,85,85|N|||70|,,,,,Steel]Blissey||Leftovers|NaturalCure|stealthrock,thunderwave,seismictoss,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ghost]Iron Boulder||LifeOrb|QuarkDrive|swordsdance,zenheadbutt,closecombat,mightycleave||85,85,85,85,85,85|N|||77|,,,,,Fighting]Chesnaught||Leftovers|Bulletproof|synthesis,trailblaze,bodypress,irondefense||85,85,85,85,85,85|M|||84|,,,,,Steel]Dachsbun||Leftovers|WellBakedBody|playrough,yawn,protect,wish||85,85,85,85,85,85|M|||92|,,,,,Steel]Hydreigon||ChoiceSpecs|Levitate|fireblast,flashcannon,darkpulse,dracometeor||85,,85,85,85,85|M|,0,,,,||79|,,,,,Dragon",
   "ai": "Medicham||ChoiceBand|PurePower|icepunch,closecombat,bulletpunch,zenheadbutt||85,85,85,85,85,85|M|||86|,,,,,Fighting]Weezing||Leftovers|Levitate|fireblast,painsplit,sludgebomb,willowisp||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Poliwrath||LifeOrb|SwiftSwim|knockoff,closecombat,liquidation,raindance||85,85,85,85,85,85|F|||88|,,,,,Fighting]Abomasnow||LightClay|SnowWarning|auroraveil,woodhammer,earthquake,blizzard||77,85,85,85,85,85|F|||84|,,,,,Ghost]Cloyster||WhiteHerb|SkillLink|shellsmash,hydropump,iciclespear,rockblast||85,85,85,85,85,85|F|||80|,,,,,Rock]Azelf||Leftovers|Levitate|stealthrock,psychic,knockoff,encore||85,85,85,85,85,85|N|||82|,,,,,Dark",
   "curation": {

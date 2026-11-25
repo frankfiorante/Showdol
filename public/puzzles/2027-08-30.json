@@ -19,6 +19,251 @@
     "Regidrago",
     "Torterra"
   ],
+  "playerSets": [
+    {
+      "species": "Grafaiai",
+      "level": 86,
+      "types": [
+        "Poison",
+        "Normal"
+      ],
+      "ability": "Poison Touch",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 249,
+      "stats": {
+        "atk": 213,
+        "def": 161,
+        "spa": 187,
+        "spd": 173,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Low Kick",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Volbeat",
+      "level": 90,
+      "types": [
+        "Bug"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 263,
+      "stats": {
+        "atk": 183,
+        "def": 186,
+        "spa": 136,
+        "spd": 204,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Lunge",
+          "type": "Bug",
+          "pp": 24
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Cinccino",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Loaded Dice",
+      "teraType": "Ice",
+      "maxhp": 260,
+      "stats": {
+        "atk": 205,
+        "def": 147,
+        "spa": 156,
+        "spd": 147,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "Tail Slap",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Frosmoth",
+      "level": 82,
+      "types": [
+        "Ice",
+        "Bug"
+      ],
+      "ability": "Ice Scales",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 146,
+        "spa": 252,
+        "spd": 195,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Regidrago",
+      "level": 77,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Dragon's Maw",
+      "item": "Choice Scarf",
+      "teraType": "Dragon",
+      "maxhp": 435,
+      "stats": {
+        "atk": 199,
+        "def": 122,
+        "spa": 199,
+        "spd": 122,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Energy",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Torterra",
+      "level": 78,
+      "types": [
+        "Grass",
+        "Ground"
+      ],
+      "ability": "Overgrow",
+      "item": "Loaded Dice",
+      "teraType": "Ground",
+      "maxhp": 276,
+      "stats": {
+        "atk": 215,
+        "def": 209,
+        "spa": 162,
+        "spd": 178,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Headlong Rush",
+          "type": "Ground",
+          "pp": 8
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Rock Blast",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        }
+      ]
+    }
+  ],
   "player": "Grafaiai||LifeOrb|PoisonTouch|lowkick,knockoff,gunkshot,swordsdance||85,85,85,85,85,85|M|||86|,,,,,Dark]Volbeat||HeavyDutyBoots|Prankster|encore,roost,lunge,thunderwave||85,85,85,85,85,85|M|||90|,,,,,Water]Cinccino||LoadedDice|Technician|tailslap,bulletseed,tripleaxel,uturn||85,85,85,85,85,85|F|||83|,,,,,Ice]Frosmoth||HeavyDutyBoots|IceScales|icebeam,quiverdance,gigadrain,bugbuzz||85,,85,85,85,85|F|,0,,,,||82|,,,,,Water]Regidrago||ChoiceScarf|DragonsMaw|earthquake,dragonenergy,dracometeor,outrage||85,85,85,85,85,85|N|||77|,,,,,Dragon]Torterra||LoadedDice|Overgrow|headlongrush,shellsmash,rockblast,bulletseed||85,85,85,85,85,85|F|||78|,,,,,Ground",
   "ai": "Dachsbun||Leftovers|WellBakedBody|wish,protect,bodypress,playrough||85,85,85,85,85,85|F|||92|,,,,,Steel]Tatsugiri||HeavyDutyBoots|StormDrain|nastyplot,rapidspin,hydropump,dracometeor||85,85,85,85,85,85|F|||87|,,,,,Steel]Lanturn||HeavyDutyBoots|VoltAbsorb|scald,thunderwave,thunderbolt,voltswitch||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Sudowoodo||Leftovers|RockHead|headsmash,stealthrock,woodhammer,earthquake||85,85,85,85,85,85|M|||94|,,,,,Rock]Cyclizar||HeavyDutyBoots|Regenerator|shedtail,knockoff,dracometeor,taunt||85,85,85,85,85,85|M|||84|,,,,,Ghost]Skarmory||Leftovers|Sturdy|whirlwind,spikes,bravebird,roost||85,85,85,85,85,85|F|||80|,,,,,Dragon",
   "curation": {

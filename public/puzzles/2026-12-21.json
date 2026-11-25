@@ -19,6 +19,251 @@
     "Amoonguss",
     "Glastrier"
   ],
+  "playerSets": [
+    {
+      "species": "Flareon",
+      "level": 90,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Guts",
+      "item": "Toxic Orb",
+      "teraType": "Normal",
+      "maxhp": 263,
+      "stats": {
+        "atk": 285,
+        "def": 159,
+        "spa": 222,
+        "spd": 249,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Sableye",
+      "level": 87,
+      "types": [
+        "Dark",
+        "Ghost"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 229,
+      "stats": {
+        "atk": 180,
+        "def": 180,
+        "spa": 163,
+        "spd": 163,
+        "spe": 137
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Zekrom",
+      "level": 71,
+      "types": [
+        "Dragon",
+        "Electric"
+      ],
+      "ability": "Teravolt",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 259,
+      "stats": {
+        "atk": 254,
+        "def": 212,
+        "spa": 212,
+        "spd": 183,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Bolt Strike",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Meowstic-F",
+      "level": 89,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Competitive",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 277,
+      "stats": {
+        "atk": 90,
+        "def": 186,
+        "spa": 199,
+        "spd": 195,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Amoonguss",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Regenerator",
+      "item": "Rocky Helmet",
+      "teraType": "Water",
+      "maxhp": 321,
+      "stats": {
+        "atk": 144,
+        "def": 162,
+        "spa": 187,
+        "spd": 178,
+        "spe": 96
+      },
+      "moves": [
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Glastrier",
+      "level": 86,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Chilling Neigh",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 312,
+      "stats": {
+        "atk": 299,
+        "def": 273,
+        "spa": 161,
+        "spd": 238,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Flareon||ToxicOrb|Guts|facade,trailblaze,quickattack,flareblitz||85,85,85,85,85,85|F|||90|,,,,,Normal]Sableye||Leftovers|Prankster|encore,willowisp,recover,knockoff||85,85,85,85,85,85|F|||87|,,,,,Steel]Zekrom||Leftovers|Teravolt|boltstrike,dragondance,substitute,outrage||85,85,85,85,85,85|N|||71|,,,,,Fairy]Meowstic|MeowsticF|LifeOrb|Competitive|darkpulse,psyshock,thunderbolt,nastyplot||85,,85,85,85,85|F|,0,,,,||89|,,,,,Electric]Amoonguss||RockyHelmet|Regenerator|spore,gigadrain,sludgebomb,toxic||85,,85,85,85,85|M|,0,,,,||82|,,,,,Water]Glastrier||HeavyDutyBoots|ChillingNeigh|heavyslam,swordsdance,closecombat,iciclecrash||85,85,85,85,85,85|N|||86|,,,,,Steel",
   "ai": "Zapdos||HeavyDutyBoots|Static|uturn,thunderbolt,hurricane,roost||85,85,85,85,85,85|N|||78|,,,,,Electric]Blissey||Leftovers|NaturalCure|healbell,seismictoss,softboiled,thunderwave||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Chimecho||Leftovers|Levitate|thunderwave,recover,psychicnoise,knockoff||85,85,85,85,85,85|F|||93|,,,,,Poison]Okidogi||Leftovers|ToxicChain|gunkshot,drainpunch,knockoff,bulkup||85,85,85,85,85,85|M|||77|,,,,,Dark]Gogoat||Leftovers|SapSipper|bulkup,hornleech,milkdrink,rockslide||85,85,85,85,85,85|M|||88|,,,,,Water]Minun||LifeOrb|VoltAbsorb|alluringvoice,thunderbolt,encore,nastyplot||85,,85,85,85,85|F|,0,,,,||95|,,,,,Fairy",
   "curation": {

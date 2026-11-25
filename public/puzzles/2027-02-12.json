@@ -19,6 +19,251 @@
     "Mimikyu",
     "Arboliva"
   ],
+  "playerSets": [
+    {
+      "species": "Magmortar",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 275,
+      "stats": {
+        "atk": 172,
+        "def": 168,
+        "spa": 270,
+        "spd": 217,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Regieleki",
+      "level": 79,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Transistor",
+      "item": "Magnet",
+      "teraType": "Ice",
+      "maxhp": 256,
+      "stats": {
+        "atk": 204,
+        "def": 125,
+        "spa": 204,
+        "spd": 125,
+        "spe": 362
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Arceus-Grass",
+      "level": 73,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Multitype",
+      "item": "Meadow Plate",
+      "teraType": "Fire",
+      "maxhp": 296,
+      "stats": {
+        "atk": 180,
+        "def": 218,
+        "spa": 218,
+        "spd": 218,
+        "spe": 218
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Judgment",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Charizard",
+      "level": 85,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Blaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 271,
+      "stats": {
+        "atk": 192,
+        "def": 181,
+        "spa": 234,
+        "spd": 193,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mimikyu",
+      "level": 79,
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "ability": "Disguise",
+      "item": "Life Orb",
+      "teraType": "Ghost",
+      "maxhp": 216,
+      "stats": {
+        "atk": 188,
+        "def": 172,
+        "spa": 125,
+        "spd": 211,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Claw",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Arboliva",
+      "level": 91,
+      "types": [
+        "Grass",
+        "Normal"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Water",
+      "maxhp": 288,
+      "stats": {
+        "atk": 130,
+        "def": 216,
+        "spa": 279,
+        "spd": 250,
+        "spe": 123
+      },
+      "moves": [
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Magmortar||HeavyDutyBoots|FlameBody|willowisp,thunderbolt,fireblast,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Electric]Regieleki||Magnet|Transistor|thunderbolt,rapidspin,terablast,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Ice]Arceus|ArceusGrass|MeadowPlate|Multitype|calmmind,judgment,recover,fireblast||85,,85,85,85,85|N|,0,,,,||73|,,,,,Fire]Charizard||HeavyDutyBoots|Blaze|swordsdance,flareblitz,earthquake,outrage||85,85,85,85,85,85|F|||85|,,,,,Dragon]Mimikyu||LifeOrb|Disguise|playrough,swordsdance,shadowclaw,shadowsneak||85,85,85,85,85,85|M|||79|,,,,,Ghost]Arboliva||SitrusBerry|Harvest|leechseed,substitute,protect,hypervoice||77,,85,85,85,85|M|,0,,,,||91|,,,,,Water",
   "ai": "Electivire||LifeOrb|MotorDrive|icepunch,bulkup,earthquake,supercellslam||85,85,85,85,85,85|M|||84|,,,,,Flying]Dunsparce||Eviolite|SereneGrace|roost,coil,bodyslam,earthquake||85,85,85,85,85,85|F|||86|,,,,,Ghost]Grumpig||Leftovers|ThickFat|earthpower,psyshock,nastyplot,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||92|,,,,,Ground]Toxapex||Leftovers|Regenerator|liquidation,toxic,haze,recover||85,85,85,85,85,85|M|||82|,,,,,Grass]Blastoise||WhiteHerb|Torrent|shellsmash,icebeam,hydropump,terablast||85,,85,85,85,85|F|,0,,,,||80|,,,,,Grass]Talonflame||HeavyDutyBoots|FlameBody|taunt,roost,overheat,bravebird||85,85,85,85,85,85|F|||83|,,,,,Dragon",
   "curation": {

@@ -19,6 +19,252 @@
     "Dipplin",
     "Dachsbun"
   ],
+  "playerSets": [
+    {
+      "species": "Coalossal",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 341,
+      "stats": {
+        "atk": 193,
+        "def": 264,
+        "spa": 193,
+        "spd": 211,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Fezandipiti",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Fairy"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 278,
+      "stats": {
+        "atk": 196,
+        "def": 182,
+        "spa": 162,
+        "spd": 252,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Beat Up",
+          "type": "Dark",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Perrserker",
+      "level": 89,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Tough Claws",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 247,
+        "def": 229,
+        "spa": 140,
+        "spd": 158,
+        "spe": 140
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Koraidon",
+      "level": 64,
+      "types": [
+        "Fighting",
+        "Dragon"
+      ],
+      "ability": "Orichalcum Pulse",
+      "item": "Choice Band",
+      "teraType": "Fire",
+      "maxhp": 235,
+      "stats": {
+        "atk": 211,
+        "def": 185,
+        "spa": 147,
+        "spd": 166,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dipplin",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Sticky Hold",
+      "item": "Eviolite",
+      "teraType": "Steel",
+      "maxhp": 284,
+      "stats": {
+        "atk": 191,
+        "def": 244,
+        "spa": 217,
+        "spd": 191,
+        "spe": 121
+      },
+      "moves": [
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dachsbun",
+      "level": 92,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Well-Baked Body",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 254,
+      "stats": {
+        "atk": 200,
+        "def": 264,
+        "spa": 144,
+        "spd": 200,
+        "spe": 227
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Coalossal||HeavyDutyBoots|FlameBody|stoneedge,spikes,rapidspin,flamethrower||85,85,85,85,85,85|F|||89|,,,,,Grass]Fezandipiti||Leftovers|ToxicChain|moonblast,beatup,roost,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Dark]Perrserker||LifeOrb|ToughClaws|knockoff,ironhead,closecombat,stealthrock||85,85,85,85,85,85|M|||89|,,,,,Fighting]Koraidon||ChoiceBand|OrichalcumPulse|uturn,flareblitz,outrage,closecombat||85,85,85,85,85,85|N|||64|,,,,,Fire]Dipplin||Eviolite|StickyHold|dragonpulse,gigadrain,suckerpunch,recover||85,85,85,85,85,85|F|||88|,,,,,Steel]Dachsbun||Leftovers|WellBakedBody|playrough,bodypress,wish,protect||85,85,85,85,85,85|F|||92|,,,,,Steel",
   "ai": "Meganium||Leftovers|Overgrow|earthquake,petalblizzard,swordsdance,knockoff||85,85,85,85,85,85|M|||90|,,,,,Water]Sunflora||ChoiceSpecs|Chlorophyll|dazzlinggleam,sludgebomb,earthpower,leafstorm||85,,85,85,85,85|F|,0,,,,|||,,,,,Poison]Zebstrika||LifeOrb|SapSipper|overheat,highhorsepower,voltswitch,supercellslam||85,85,85,85,85,85|M|||87|,,,,,Ground]Dragalge||AssaultVest|Adaptability|dracometeor,sludgewave,dragontail,focusblast||85,85,85,85,85,85|M|||88|,,,,,Fighting]Kingdra||LumBerry|Sniper|wavecrash,waterfall,outrage,dragondance||85,85,85,85,85,85|M|||84|,,,,,Water]Jolteon||Leftovers|VoltAbsorb|terablast,substitute,calmmind,thunderbolt||85,,85,85,85,85|F|,0,,,,||84|,,,,,Ice",
   "curation": {

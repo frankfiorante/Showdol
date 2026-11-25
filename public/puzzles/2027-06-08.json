@@ -19,6 +19,251 @@
     "Leafeon",
     "Hypno"
   ],
+  "playerSets": [
+    {
+      "species": "Morpeko",
+      "level": 88,
+      "types": [
+        "Electric",
+        "Dark"
+      ],
+      "ability": "Hunger Switch",
+      "item": "Leftovers",
+      "teraType": "Electric",
+      "maxhp": 245,
+      "stats": {
+        "atk": 217,
+        "def": 152,
+        "spa": 173,
+        "spd": 152,
+        "spe": 221
+      },
+      "moves": [
+        {
+          "name": "Aura Wheel",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Vespiquen",
+      "level": 99,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Pressure",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 299,
+      "stats": {
+        "atk": 214,
+        "def": 258,
+        "spa": 214,
+        "spd": 258,
+        "spe": 135
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bronzong",
+      "level": 88,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Electric",
+      "maxhp": 261,
+      "stats": {
+        "atk": 207,
+        "def": 254,
+        "spa": 189,
+        "spd": 254,
+        "spe": 108
+      },
+      "moves": [
+        {
+          "name": "Hypnosis",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Donphan",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sturdy",
+      "item": "Choice Band",
+      "teraType": "Steel",
+      "maxhp": 288,
+      "stats": {
+        "atk": 250,
+        "def": 250,
+        "spa": 149,
+        "spd": 149,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Leafeon",
+      "level": 88,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 258,
+      "stats": {
+        "atk": 244,
+        "def": 279,
+        "spa": 156,
+        "spd": 165,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Hypno",
+      "level": 95,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Insomnia",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 315,
+      "stats": {
+        "atk": 193,
+        "def": 187,
+        "spa": 193,
+        "spd": 272,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Morpeko||Leftovers|HungerSwitch|aurawheel,knockoff,rapidspin,protect||85,85,85,85,85,85|F|||88|,,,,,Electric]Vespiquen||HeavyDutyBoots|Pressure|roost,airslash,uturn,toxic||85,85,85,85,85,85|F|||99|,,,,,Steel]Bronzong||Leftovers|Levitate|hypnosis,stealthrock,psychicnoise,earthquake||85,85,85,85,85,85|N|||88|,,,,,Electric]Donphan||ChoiceBand|Sturdy|iceshard,icespinner,earthquake,knockoff||85,85,85,85,85,85|F|||84|,,,,,Steel]Leafeon||LifeOrb|Chlorophyll|swordsdance,doubleedge,leafblade,synthesis||85,85,85,85,85,85|F|||88|,,,,,Normal]Hypno||Leftovers|Insomnia|toxic,knockoff,psychicnoise,encore||85,85,85,85,85,85|F|||95|,,,,,Steel",
   "ai": "Salamence||HeavyDutyBoots|Moxie|dragondance,earthquake,dualwingbeat,outrage||85,85,85,85,85,85|F|||77|,,,,,Ground]Dedenne||SitrusBerry|CheekPouch|dazzlinggleam,thunderbolt,superfang,uturn||85,85,85,85,85,85|F|||88|,,,,,Flying]Hitmontop||AssaultVest|Intimidate|suckerpunch,closecombat,rapidspin,earthquake||85,85,85,85,85,85|M|||88|,,,,,Steel]Iron Hands||Leftovers|QuarkDrive|thunderpunch,drainpunch,icepunch,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Flying]Delibird||HeavyDutyBoots|Hustle|bravebird,drillrun,iceshard,icespinner||85,85,85,85,85,85|F||||,,,,,Ground]Piloswine||Eviolite|ThickFat|iciclecrash,earthquake,roar,stealthrock||85,85,85,85,85,85|M|||85|,,,,,Dragon",
   "curation": {

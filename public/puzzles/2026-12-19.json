@@ -19,6 +19,251 @@
     "Koraidon",
     "Slaking"
   ],
+  "playerSets": [
+    {
+      "species": "Granbull",
+      "level": 88,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 302,
+      "stats": {
+        "atk": 261,
+        "def": 182,
+        "spa": 156,
+        "spd": 156,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mudsdale",
+      "level": 83,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Stamina",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 302,
+      "stats": {
+        "atk": 255,
+        "def": 214,
+        "spa": 139,
+        "spd": 189,
+        "spe": 106
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Roar",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Piloswine",
+      "level": 85,
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "ability": "Thick Fat",
+      "item": "Eviolite",
+      "teraType": "Dragon",
+      "maxhp": 309,
+      "stats": {
+        "atk": 219,
+        "def": 185,
+        "spa": 151,
+        "spd": 151,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Roar",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Reshiram",
+      "level": 76,
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "ability": "Turboblaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 277,
+      "stats": {
+        "atk": 226,
+        "def": 196,
+        "spa": 272,
+        "spd": 226,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Koraidon",
+      "level": 64,
+      "types": [
+        "Fighting",
+        "Dragon"
+      ],
+      "ability": "Orichalcum Pulse",
+      "item": "Choice Band",
+      "teraType": "Fire",
+      "maxhp": 235,
+      "stats": {
+        "atk": 211,
+        "def": 185,
+        "spa": 147,
+        "spd": 166,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Slaking",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Truant",
+      "item": "Choice Band",
+      "teraType": "Normal",
+      "maxhp": 389,
+      "stats": {
+        "atk": 317,
+        "def": 216,
+        "spa": 208,
+        "spd": 157,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Giga Impact",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Granbull||Leftovers|Intimidate|thunderwave,playrough,earthquake,encore||85,85,85,85,85,85|F|||88|,,,,,Ground]Mudsdale||Leftovers|Stamina|stealthrock,heavyslam,roar,earthquake||85,85,85,85,85,85|M|||83|,,,,,Steel]Piloswine||Eviolite|ThickFat|earthquake,iciclecrash,iceshard,roar||85,85,85,85,85,85|F|||85|,,,,,Dragon]Reshiram||HeavyDutyBoots|Turboblaze|flareblitz,outrage,dragondance,stoneedge||85,85,85,85,85,85|N|||76|,,,,,Dragon]Koraidon||ChoiceBand|OrichalcumPulse|flareblitz,outrage,uturn,closecombat||85,85,85,85,85,85|N|||64|,,,,,Fire]Slaking||ChoiceBand|Truant|knockoff,earthquake,doubleedge,gigaimpact||85,85,85,85,85,85|F|||84|,,,,,Normal",
   "ai": "Frosmoth||HeavyDutyBoots|IceScales|gigadrain,icebeam,bugbuzz,quiverdance||85,,85,85,85,85|F|,0,,,,||82|,,,,,Water]Ursaring||Eviolite|Guts|sleeptalk,bodyslam,earthquake,rest||85,85,85,85,85,85|F|||84|,,,,,Ground]Arceus|ArceusRock|StonePlate|Multitype|recover,earthpower,judgment,calmmind||85,,85,85,85,85|N|,0,,,,||74|,,,,,Ground]Reshiram||HeavyDutyBoots|Turboblaze|blueflare,dracometeor,earthpower,dragontail||85,85,85,85,85,85|N|||76|,,,,,Fire]Rabsca||HeavyDutyBoots|Synchronize|revivalblessing,bugbuzz,recover,psychic||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Greedent||SitrusBerry|CheekPouch|bodyslam,earthquake,swordsdance,knockoff||85,85,85,85,85,85|F|||86|,,,,,Ground",
   "curation": {

@@ -19,6 +19,235 @@
     "Leafeon",
     "Chien-Pao"
   ],
+  "playerSets": [
+    {
+      "species": "Regigigas",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Slow Start",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 322,
+      "stats": {
+        "atk": 317,
+        "def": 233,
+        "spa": 183,
+        "spd": 233,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ditto",
+      "level": 87,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Imposter",
+      "item": "Choice Scarf",
+      "teraType": "Steel",
+      "maxhp": 225,
+      "stats": {
+        "atk": 133,
+        "def": 133,
+        "spa": 133,
+        "spd": 133,
+        "spe": 133
+      },
+      "moves": [
+        {
+          "name": "Transform",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dugtrio",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Arena Trap",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 196,
+      "stats": {
+        "atk": 216,
+        "def": 132,
+        "spa": 132,
+        "spd": 166,
+        "spe": 250
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Raging Bolt",
+      "level": 78,
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Booster Energy",
+      "teraType": "Electric",
+      "maxhp": 323,
+      "stats": {
+        "atk": 118,
+        "def": 187,
+        "spa": 259,
+        "spd": 184,
+        "spe": 162
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Thunderclap",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Leafeon",
+      "level": 88,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 258,
+      "stats": {
+        "atk": 244,
+        "def": 279,
+        "spa": 156,
+        "spd": 165,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Chien-Pao",
+      "level": 72,
+      "types": [
+        "Dark",
+        "Ice"
+      ],
+      "ability": "Sword of Ruin",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 234,
+      "stats": {
+        "atk": 215,
+        "def": 157,
+        "spa": 172,
+        "spd": 136,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Sacred Sword",
+          "type": "Fighting",
+          "pp": 24
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Regigigas||Leftovers|SlowStart|bodyslam,substitute,protect,knockoff||85,85,85,85,85,85|N|||84|,,,,,Poison]Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Steel]Dugtrio||ChoiceBand|ArenaTrap|earthquake,throatchop,suckerpunch,stoneedge||85,85,85,85,85,85|M|||84|,,,,,Dark]Raging Bolt||BoosterEnergy|Protosynthesis|thunderbolt,thunderclap,dragonpulse,calmmind||85,,85,85,85,85|N|,0,,,,||78|,,,,,Electric]Leafeon||LifeOrb|Chlorophyll|swordsdance,leafblade,synthesis,doubleedge||85,85,85,85,85,85|M|||88|,,,,,Normal]Chien-Pao||ChoiceBand|SwordofRuin|sacredsword,iceshard,iciclecrash,throatchop||85,85,85,85,85,85|N|||72|,,,,,Fighting",
   "ai": "Mabosstiff||ChoiceScarf|Stakeout|psychicfangs,wildcharge,crunch,playrough||85,85,85,85,85,85|F|||86|,,,,,Fairy]Blaziken||LifeOrb|SpeedBoost|protect,flareblitz,closecombat,swordsdance||85,85,85,85,85,85|F|||76|,,,,,Fighting]Torkoal||HeavyDutyBoots|Drought|solarbeam,lavaplume,stealthrock,earthquake||85,85,85,85,85,85|M|||88|,,,,,Grass]Meloetta||LifeOrb|SereneGrace|closecombat,tripleaxel,knockoff,relicsong||85,85,85,85,85,85|N|||82|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,defog,hydropump||85,85,85,85,85,85|F|||89|,,,,,Ground]Vespiquen||HeavyDutyBoots|Pressure|hurricane,roost,toxic,uturn||85,85,85,85,85,85|F|||99|,,,,,Steel",
   "curation": {

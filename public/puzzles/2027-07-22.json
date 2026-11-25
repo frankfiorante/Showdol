@@ -19,6 +19,252 @@
     "Deoxys-Attack",
     "Gallade"
   ],
+  "playerSets": [
+    {
+      "species": "Brute Bonnet",
+      "level": 79,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 305,
+      "stats": {
+        "atk": 246,
+        "def": 202,
+        "spa": 170,
+        "spd": 202,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Flapple",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Hustle",
+      "item": "Choice Band",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 244,
+        "def": 191,
+        "spa": 217,
+        "spd": 156,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Grav Apple",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Sylveon",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Pixilate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 300,
+      "stats": {
+        "atk": 115,
+        "def": 159,
+        "spa": 236,
+        "spd": 270,
+        "spe": 151
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bastiodon",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "ability": "Soundproof",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 252,
+      "stats": {
+        "atk": 97,
+        "def": 350,
+        "spa": 134,
+        "spd": 296,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Deoxys-Attack",
+      "level": 72,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 191,
+      "stats": {
+        "atk": 301,
+        "def": 71,
+        "spa": 301,
+        "spd": 71,
+        "spe": 258
+      },
+      "moves": [
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psycho Boost",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Gallade",
+      "level": 80,
+      "types": [
+        "Psychic",
+        "Fighting"
+      ],
+      "ability": "Sharpness",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 240,
+      "stats": {
+        "atk": 246,
+        "def": 150,
+        "spa": 150,
+        "spd": 230,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Sacred Sword",
+          "type": "Fighting",
+          "pp": 24
+        },
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        }
+      ]
+    }
+  ],
   "player": "Brute Bonnet||Leftovers|Protosynthesis|closecombat,spore,crunch,suckerpunch||85,85,85,85,85,85|N|||79|,,,,,Poison]Flapple||ChoiceBand|Hustle|uturn,suckerpunch,outrage,gravapple||85,85,85,85,85,85|M|||88|,,,,,Steel]Sylveon||Leftovers|Pixilate|wish,protect,calmmind,hypervoice||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Bastiodon||ChestoBerry|Soundproof|irondefense,foulplay,bodypress,rest||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fighting]Deoxys|DeoxysAttack|LifeOrb|Pressure|extremespeed,knockoff,superpower,psychoboost||85,85,85,85,85,85|N|||72|,,,,,Fighting]Gallade||LifeOrb|Sharpness|psychocut,sacredsword,nightslash,agility||85,85,85,85,85,85|M|||80|,,,,,Fighting",
   "ai": "Malamar||ChestoBerry|Contrary|psychocut,rest,knockoff,superpower||85,85,85,85,85,85|F|||82|,,,,,Poison]Glalie||HeavyDutyBoots|InnerFocus|earthquake,spikes,taunt,freezedry||85,85,85,85,85,85|F|||96|,,,,,Ground]Hydreigon||ChoiceSpecs|Levitate|darkpulse,dracometeor,uturn,fireblast||85,85,85,85,85,85|M|||79|,,,,,Dragon]Dodrio||HeavyDutyBoots|EarlyBird|bravebird,drillrun,swordsdance,knockoff||85,85,85,85,85,85|F|||85|,,,,,Ground]Regigigas||Leftovers|SlowStart|bodyslam,rest,sleeptalk,knockoff||85,85,85,85,85,85|N|||84|,,,,,Ghost]Ribombee||HeavyDutyBoots|ShieldDust|terablast,moonblast,quiverdance,bugbuzz||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground",
   "curation": {

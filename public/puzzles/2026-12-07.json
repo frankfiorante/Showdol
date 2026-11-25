@@ -19,6 +19,253 @@
     "Delibird",
     "Veluza"
   ],
+  "playerSets": [
+    {
+      "species": "Crawdaunt",
+      "level": 84,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Adaptability",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 243,
+      "stats": {
+        "atk": 250,
+        "def": 191,
+        "spa": 199,
+        "spd": 141,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Crabhammer",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Dusknoir",
+      "level": 89,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Frisk",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 225,
+      "stats": {
+        "atk": 229,
+        "def": 291,
+        "spa": 166,
+        "spd": 291,
+        "spe": 131
+      },
+      "moves": [
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Infernape",
+      "level": 82,
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "ability": "Iron Fist",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 259,
+      "stats": {
+        "atk": 218,
+        "def": 164,
+        "spa": 218,
+        "spd": 164,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Baxcalibur",
+      "level": 75,
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "ability": "Thermal Exchange",
+      "item": "Loaded Dice",
+      "teraType": "Ground",
+      "maxhp": 295,
+      "stats": {
+        "atk": 261,
+        "def": 182,
+        "spa": 156,
+        "spd": 173,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Delibird",
+      "level": 100,
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "ability": "Hustle",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 252,
+      "stats": {
+        "atk": 167,
+        "def": 147,
+        "spa": 187,
+        "spd": 147,
+        "spe": 207
+      },
+      "moves": [
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Veluza",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Sharpness",
+      "item": "Sitrus Berry",
+      "teraType": "Psychic",
+      "maxhp": 292,
+      "stats": {
+        "atk": 222,
+        "def": 173,
+        "spa": 181,
+        "spd": 159,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Fillet Away",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Cutter",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Crawdaunt||LifeOrb|Adaptability|aquajet,crabhammer,dragondance,knockoff||85,85,85,85,85,85|M|||84|,,,,,Water]Dusknoir||Leftovers|Frisk|painsplit,willowisp,poltergeist,earthquake||85,85,85,85,85,85|F|||89|,,,,,Dark]Infernape||ChoiceBand|IronFist|closecombat,machpunch,flareblitz,knockoff||85,85,85,85,85,85|F|||82|,,,,,Dark]Baxcalibur||LoadedDice|ThermalExchange|earthquake,iciclespear,swordsdance,scaleshot||81,85,85,85,85,85|F|||75|,,,,,Ground]Delibird||HeavyDutyBoots|Hustle|iceshard,bravebird,spikes,icespinner||85,85,85,85,85,85|F||||,,,,,Flying]Veluza||SitrusBerry|Sharpness|psychocut,nightslash,filletaway,aquacutter||85,85,85,85,85,85|F|||85|,,,,,Psychic",
   "ai": "Slaking||ChoiceBand|Truant|knockoff,gigaimpact,doubleedge,earthquake||85,85,85,85,85,85|M|||84|,,,,,Ghost]Wyrdeer||Leftovers|Intimidate|bodyslam,psychicnoise,thunderwave,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ground]Clodsire||Leftovers|Unaware|recover,toxicspikes,earthquake,poisonjab||85,85,85,85,85,85|M|||81|,,,,,Steel]Miraidon||ChoiceSpecs|HadronEngine|voltswitch,overheat,dracometeor,electrodrift||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Greninja||LifeOrb|Protean|hydropump,uturn,gunkshot,icebeam||85,85,85,85,85,85|M|||80|,,,,,Poison]Gogoat||Leftovers|SapSipper|milkdrink,earthquake,bulkup,hornleech||85,85,85,85,85,85|F|||88|,,,,,Ground",
   "curation": {

@@ -19,6 +19,248 @@
     "Sandaconda",
     "Zebstrika"
   ],
+  "playerSets": [
+    {
+      "species": "Copperajah",
+      "level": 86,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 350,
+      "stats": {
+        "atk": 273,
+        "def": 168,
+        "spa": 187,
+        "spd": 168,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Houndstone",
+      "level": 86,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Fluffy",
+      "item": "Assault Vest",
+      "teraType": "Fairy",
+      "maxhp": 264,
+      "stats": {
+        "atk": 223,
+        "def": 221,
+        "spa": 135,
+        "spd": 216,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Muk",
+      "level": 86,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Poison Touch",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 321,
+      "stats": {
+        "atk": 230,
+        "def": 178,
+        "spa": 161,
+        "spd": 221,
+        "spe": 135
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Dachsbun",
+      "level": 92,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Well-Baked Body",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 254,
+      "stats": {
+        "atk": 200,
+        "def": 264,
+        "spa": 144,
+        "spd": 200,
+        "spe": 227
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Sandaconda",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 258,
+      "stats": {
+        "atk": 228,
+        "def": 258,
+        "spa": 157,
+        "spd": 166,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Zebstrika",
+      "level": 87,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 272,
+      "stats": {
+        "atk": 224,
+        "def": 159,
+        "spa": 189,
+        "spd": 159,
+        "spe": 252
+      },
+      "moves": [
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Copperajah||LifeOrb|SheerForce|rockslide,earthquake,ironhead,playrough||85,85,85,85,85,85|F|||86|,,,,,Fairy]Houndstone||AssaultVest|Fluffy|shadowsneak,playrough,poltergeist,bodypress||85,85,85,85,85,85|M|||86|,,,,,Fairy]Muk||AssaultVest|PoisonTouch|shadowsneak,poisonjab,icepunch,knockoff||85,85,85,85,85,85|M|||86|,,,,,Dark]Dachsbun||Leftovers|WellBakedBody|protect,playrough,yawn,wish||85,85,85,85,85,85|F|||92|,,,,,Steel]Sandaconda||Leftovers|ShedSkin|coil,earthquake,rest,stoneedge||85,85,85,85,85,85|M|||84|,,,,,Steel]Zebstrika||LifeOrb|SapSipper|highhorsepower,overheat,voltswitch,supercellslam||85,85,85,85,85,85|M|||87|,,,,,Ground",
   "ai": "Reuniclus||LifeOrb|MagicGuard|recover,focusblast,psyshock,calmmind||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel]Eiscue||SitrusBerry|IceFace|liquidation,bellydrum,ironhead,icespinner||81,85,85,85,85,85|F|||88|,,,,,Water]Regidrago||ChoiceScarf|DragonsMaw|dracometeor,dragonenergy,outrage,earthquake||85,85,85,85,85,85|N|||77|,,,,,Dragon]Krookodile||Leftovers|Intimidate|gunkshot,knockoff,earthquake,bulkup||85,85,85,85,85,85|F|||79|,,,,,Poison]Iron Boulder||BoosterEnergy|QuarkDrive|zenheadbutt,closecombat,mightycleave,swordsdance||85,85,85,85,85,85|N|||77|,,,,,Fighting]Weezing||Leftovers|Levitate|fireblast,painsplit,toxicspikes,sludgebomb||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel",
   "curation": {

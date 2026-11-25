@@ -19,6 +19,253 @@
     "Grafaiai",
     "Great Tusk"
   ],
+  "playerSets": [
+    {
+      "species": "Wo-Chien",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Grass"
+      ],
+      "ability": "Tablets of Ruin",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 277,
+      "stats": {
+        "atk": 189,
+        "def": 214,
+        "spa": 205,
+        "spd": 272,
+        "spe": 164
+      },
+      "moves": [
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Hatterene",
+      "level": 85,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "ability": "Magic Bounce",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 236,
+      "stats": {
+        "atk": 158,
+        "def": 210,
+        "spa": 280,
+        "spd": 224,
+        "spe": 98
+      },
+      "moves": [
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Mystical Fire",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Arbok",
+      "level": 87,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 246,
+      "stats": {
+        "atk": 215,
+        "def": 170,
+        "spa": 163,
+        "spd": 187,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Carbink",
+      "level": 90,
+      "types": [
+        "Rock",
+        "Fairy"
+      ],
+      "ability": "Clear Body",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 236,
+      "stats": {
+        "atk": 95,
+        "def": 321,
+        "spa": 141,
+        "spd": 321,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Rock Polish",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Grafaiai",
+      "level": 86,
+      "types": [
+        "Poison",
+        "Normal"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 249,
+      "stats": {
+        "atk": 213,
+        "def": 161,
+        "spa": 187,
+        "spd": 173,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Parting Shot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Great Tusk",
+      "level": 77,
+      "types": [
+        "Ground",
+        "Fighting"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Booster Energy",
+      "teraType": "Ground",
+      "maxhp": 304,
+      "stats": {
+        "atk": 246,
+        "def": 246,
+        "spa": 126,
+        "spd": 126,
+        "spe": 179
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Wo-Chien||Leftovers|TabletsofRuin|leechseed,protect,knockoff,stunspore||85,85,85,85,85,85|N|||83|,,,,,Poison]Hatterene||Leftovers|MagicBounce|drainingkiss,psychic,mysticalfire,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Arbok||Leftovers|Intimidate|coil,gunkshot,earthquake,trailblaze||85,85,85,85,85,85|F|||87|,,,,,Ground]Carbink||Leftovers|ClearBody|moonblast,rockpolish,irondefense,bodypress||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Grafaiai||HeavyDutyBoots|Prankster|knockoff,gunkshot,partingshot,encore||85,85,85,85,85,85|M|||86|,,,,,Dark]Great Tusk||BoosterEnergy|Protosynthesis|closecombat,bulkup,earthquake,stoneedge||85,85,85,85,85,85|N|||77|,,,,,Ground",
   "ai": "Inteleon||ChoiceSpecs|Torrent|uturn,hydropump,icebeam,scald||85,85,85,85,85,85|M|||81|,,,,,Water]Enamorus|EnamorusTherian|WeaknessPolicy|Overcoat|mysticalfire,earthpower,moonblast,agility||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ground]Iron Thorns||BoosterEnergy|QuarkDrive|stoneedge,wildcharge,earthquake,dragondance||85,85,85,85,85,85|N|||81|,,,,,Rock]Raging Bolt||Leftovers|Protosynthesis|calmmind,thunderbolt,dracometeor,thunderclap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fairy]Blaziken||LifeOrb|SpeedBoost|flareblitz,swordsdance,closecombat,knockoff||85,85,85,85,85,85|F|||76|,,,,,Dark]Glaceon||HeavyDutyBoots|IceBody|freezedry,protect,mudshot,wish||85,,85,85,85,85|F|,0,,,,||94|,,,,,Ground",
   "curation": {

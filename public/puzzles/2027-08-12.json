@@ -19,6 +19,251 @@
     "Houndstone",
     "Magearna-Original"
   ],
+  "playerSets": [
+    {
+      "species": "Eternatus",
+      "level": 69,
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Power Herb",
+      "teraType": "Dragon",
+      "maxhp": 308,
+      "stats": {
+        "atk": 122,
+        "def": 171,
+        "spa": 240,
+        "spd": 171,
+        "spe": 220
+      },
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Dynamax Cannon",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Meteor Beam",
+          "type": "Rock",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cyclizar",
+      "level": 84,
+      "types": [
+        "Dragon",
+        "Normal"
+      ],
+      "ability": "Regenerator",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fairy",
+      "maxhp": 255,
+      "stats": {
+        "atk": 208,
+        "def": 157,
+        "spa": 191,
+        "spd": 157,
+        "spe": 251
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Shed Tail",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Groudon",
+      "level": 72,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Drought",
+      "item": "Leftovers",
+      "teraType": "Fire",
+      "maxhp": 263,
+      "stats": {
+        "atk": 258,
+        "def": 244,
+        "spa": 186,
+        "spd": 172,
+        "spe": 172
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Precipice Blades",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Porygon-Z",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Adaptability",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 277,
+      "stats": {
+        "atk": 137,
+        "def": 164,
+        "spa": 272,
+        "spd": 172,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Houndstone",
+      "level": 86,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Fluffy",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 264,
+      "stats": {
+        "atk": 223,
+        "def": 221,
+        "spa": 135,
+        "spd": 216,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Magearna-Original",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Soul-Heart",
+      "item": "Leftovers",
+      "teraType": "Flying",
+      "maxhp": 250,
+      "stats": {
+        "atk": 151,
+        "def": 222,
+        "spa": 245,
+        "spd": 222,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Fleur Cannon",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Shift Gear",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Eternatus||PowerHerb|Pressure|sludgebomb,dynamaxcannon,fireblast,meteorbeam||85,,85,85,85,85|N|,0,,,,||69|,,,,,Dragon]Cyclizar||HeavyDutyBoots|Regenerator|rapidspin,taunt,shedtail,dracometeor||85,85,85,85,85,85|F|||84|,,,,,Fairy]Groudon||Leftovers|Drought|stoneedge,swordsdance,heatcrash,precipiceblades||85,85,85,85,85,85|N|||72|,,,,,Fire]Porygon-Z||LifeOrb|Adaptability|agility,nastyplot,shadowball,terablast||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fighting]Houndstone||ChoiceBand|Fluffy|poltergeist,bodypress,shadowsneak,playrough||85,85,85,85,85,85|F|||86|,,,,,Fighting]Magearna|MagearnaOriginal|Leftovers|SoulHeart|fleurcannon,calmmind,flashcannon,shiftgear||85,,85,85,85,85|N|,0,,,,||77|,,,,,Flying",
   "ai": "Leafeon||LifeOrb|Chlorophyll|leafblade,doubleedge,swordsdance,knockoff||85,85,85,85,85,85|M|||88|,,,,,Dark]Kingambit||Leftovers|SupremeOverlord|suckerpunch,swordsdance,kowtowcleave,ironhead||85,85,85,85,85,85|M|||74|,,,,,Flying]Typhlosion||ChoiceSpecs|FlashFire|scorchingsands,fireblast,focusblast,eruption||81,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Skuntank||Leftovers|Aftermath|toxicspikes,taunt,gunkshot,knockoff||85,85,85,85,85,85|F|||84|,,,,,Dark]Cetitan||LifeOrb|SheerForce|iciclecrash,earthquake,liquidation,iceshard||85,85,85,85,85,85|F|||82|,,,,,Water]Palkia|PalkiaOrigin|LustrousGlobe|Pressure|fireblast,thunderwave,hydropump,dracometeor||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire",
   "curation": {

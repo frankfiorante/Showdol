@@ -19,6 +19,252 @@
     "Torkoal",
     "Camerupt"
   ],
+  "playerSets": [
+    {
+      "species": "Miraidon",
+      "level": 65,
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "ability": "Hadron Engine",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 238,
+      "stats": {
+        "atk": 115,
+        "def": 168,
+        "spa": 214,
+        "spd": 188,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Electro Drift",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Mightyena",
+      "level": 96,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 290,
+      "stats": {
+        "atk": 227,
+        "def": 189,
+        "spa": 170,
+        "spd": 170,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Iron Bundle",
+      "level": 78,
+      "types": [
+        "Ice",
+        "Water"
+      ],
+      "ability": "Quark Drive",
+      "item": "Choice Specs",
+      "teraType": "Water",
+      "maxhp": 215,
+      "stats": {
+        "atk": 170,
+        "def": 223,
+        "spa": 239,
+        "spd": 139,
+        "spe": 257
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Breloom",
+      "level": 83,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Technician",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 235,
+      "stats": {
+        "atk": 263,
+        "def": 180,
+        "spa": 147,
+        "spd": 147,
+        "spe": 164
+      },
+      "moves": [
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Torkoal",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Drought",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 297,
+        "spa": 200,
+        "spd": 173,
+        "spe": 85
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Solar Beam",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Camerupt",
+      "level": 91,
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "ability": "Solid Rock",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 275,
+      "stats": {
+        "atk": 234,
+        "def": 179,
+        "spa": 243,
+        "spd": 188,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Roar",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Miraidon||LifeOrb|HadronEngine|electrodrift,dragonpulse,dracometeor,calmmind||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Mightyena||Leftovers|Intimidate|taunt,suckerpunch,playrough,crunch||85,85,85,85,85,85|M|||96|,,,,,Fairy]Iron Bundle||ChoiceSpecs|QuarkDrive|icebeam,freezedry,hydropump,flipturn||85,85,85,85,85,85|N|||78|,,,,,Water]Breloom||LifeOrb|Technician|machpunch,swordsdance,spore,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Fighting]Torkoal||HeavyDutyBoots|Drought|fireblast,solarbeam,stealthrock,earthquake||85,85,85,85,85,85|M|||88|,,,,,Grass]Camerupt||Leftovers|SolidRock|willowisp,roar,overheat,earthquake||85,85,85,85,85,85|F|||91|,,,,,Grass",
   "ai": "Toedscruel||Leftovers|MyceliumMight|earthpower,spore,leafstorm,rapidspin||85,85,85,85,85,85|F|||87|,,,,,Water]Spidops||HeavyDutyBoots|Stakeout|uturn,toxicspikes,knockoff,stickyweb||85,85,85,85,85,85|F|||96|,,,,,Ghost]Duraludon||Eviolite|LightMetal|thunderwave,dracometeor,flashcannon,bodypress||85,,85,85,85,85|F|,0,,,,||82|,,,,,Fighting]Iron Treads||Leftovers|QuarkDrive|stealthrock,voltswitch,ironhead,earthquake||85,85,85,85,85,85|N|||77|,,,,,Water]Jolteon||HeavyDutyBoots|VoltAbsorb|calmmind,thunderbolt,alluringvoice,voltswitch||85,,85,85,85,85|M|,0,,,,||84|,,,,,Electric]Alcremie||Leftovers|AromaVeil|recover,calmmind,alluringvoice,terablast||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground",
   "curation": {

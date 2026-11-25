@@ -19,6 +19,252 @@
     "Hypno",
     "Glimmora"
   ],
+  "playerSets": [
+    {
+      "species": "Okidogi",
+      "level": 77,
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 262,
+      "stats": {
+        "atk": 242,
+        "def": 222,
+        "spa": 134,
+        "spd": 177,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cryogonal",
+      "level": 89,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 287,
+      "stats": {
+        "atk": 140,
+        "def": 140,
+        "spa": 220,
+        "spd": 291,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    },
+    {
+      "species": "Abomasnow",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "ability": "Snow Warning",
+      "item": "Light Clay",
+      "teraType": "Water",
+      "maxhp": 287,
+      "stats": {
+        "atk": 203,
+        "def": 174,
+        "spa": 203,
+        "spd": 191,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Aurora Veil",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Swampert",
+      "level": 82,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Damp",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 298,
+      "stats": {
+        "atk": 228,
+        "def": 195,
+        "spa": 187,
+        "spd": 195,
+        "spe": 146
+      },
+      "moves": [
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Hypno",
+      "level": 95,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Insomnia",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 315,
+      "stats": {
+        "atk": 193,
+        "def": 187,
+        "spa": 193,
+        "spd": 272,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Glimmora",
+      "level": 75,
+      "types": [
+        "Rock",
+        "Poison"
+      ],
+      "ability": "Toxic Debris",
+      "item": "Power Herb",
+      "teraType": "Grass",
+      "maxhp": 248,
+      "stats": {
+        "atk": 87,
+        "def": 179,
+        "spa": 239,
+        "spd": 165,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Meteor Beam",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Okidogi||AssaultVest|ToxicChain|knockoff,gunkshot,drainpunch,highhorsepower||85,85,85,85,85,85|M|||77|,,,,,Dark]Cryogonal||HeavyDutyBoots|Levitate|icebeam,terablast,recover,rapidspin||85,85,85,85,85,85|N|||89|,,,,,Electric]Abomasnow||LightClay|SnowWarning|iceshard,woodhammer,auroraveil,blizzard||77,85,85,85,85,85|M|||84|,,,,,Water]Swampert||Leftovers|Damp|yawn,earthquake,knockoff,stealthrock||85,85,85,85,85,85|F|||82|,,,,,Poison]Hypno||Leftovers|Insomnia|encore,knockoff,psychicnoise,thunderwave||85,85,85,85,85,85|F|||95|,,,,,Steel]Glimmora||PowerHerb|ToxicDebris|sludgewave,energyball,meteorbeam,earthpower||85,,85,85,85,85|F|,0,,,,||75|,,,,,Grass",
   "ai": "Rillaboom||ChoiceBand|GrassySurge|uturn,grassyglide,knockoff,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Zamazenta||ChestoBerry|DauntlessShield|ironhead,rest,irondefense,bodypress||85,85,85,85,85,85|N|||71|,,,,,Steel]Kilowattrel||HeavyDutyBoots|VoltAbsorb|hurricane,roost,uturn,thunderbolt||85,85,85,85,85,85|F|||83|,,,,,Water]Great Tusk||Leftovers|Protosynthesis|headlongrush,closecombat,rapidspin,stealthrock||85,85,85,85,85,85|N|||77|,,,,,Steel]Dachsbun||Leftovers|WellBakedBody|playrough,bodypress,protect,wish||85,85,85,85,85,85|M|||92|,,,,,Steel]Entei||ChoiceBand|InnerFocus|sacredfire,stoneedge,flareblitz,extremespeed||85,85,85,85,85,85|N|||78|,,,,,Normal",
   "curation": {

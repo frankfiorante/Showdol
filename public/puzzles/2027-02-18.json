@@ -19,6 +19,253 @@
     "Latios",
     "Corviknight"
   ],
+  "playerSets": [
+    {
+      "species": "Gouging Fire",
+      "level": 74,
+      "types": [
+        "Fire",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fairy",
+      "maxhp": 277,
+      "stats": {
+        "atk": 213,
+        "def": 222,
+        "spa": 139,
+        "spd": 181,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Lucario",
+      "level": 84,
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "ability": "Inner Focus",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 255,
+      "stats": {
+        "atk": 189,
+        "def": 166,
+        "spa": 241,
+        "spd": 166,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Vacuum Wave",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Iron Leaves",
+      "level": 80,
+      "types": [
+        "Grass",
+        "Psychic"
+      ],
+      "ability": "Quark Drive",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 275,
+      "stats": {
+        "atk": 254,
+        "def": 187,
+        "spa": 158,
+        "spd": 219,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Psyblade",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dunsparce",
+      "level": 86,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Serene Grace",
+      "item": "Eviolite",
+      "teraType": "Ghost",
+      "maxhp": 312,
+      "stats": {
+        "atk": 170,
+        "def": 170,
+        "spa": 161,
+        "spd": 161,
+        "spe": 127
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Latios",
+      "level": 78,
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Soul Dew",
+      "teraType": "Fighting",
+      "maxhp": 253,
+      "stats": {
+        "atk": 145,
+        "def": 170,
+        "spa": 248,
+        "spd": 217,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Luster Purge",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Corviknight",
+      "level": 80,
+      "types": [
+        "Flying",
+        "Steel"
+      ],
+      "ability": "Pressure",
+      "item": "Rocky Helmet",
+      "teraType": "Dragon",
+      "maxhp": 288,
+      "stats": {
+        "atk": 185,
+        "def": 214,
+        "spa": 131,
+        "spd": 182,
+        "spe": 153
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Gouging Fire||HeavyDutyBoots|Protosynthesis|dragondance,outrage,heatcrash,morningsun||85,85,85,85,85,85|N|||74|,,,,,Fairy]Lucario||LifeOrb|InnerFocus|flashcannon,focusblast,vacuumwave,nastyplot||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fighting]Iron Leaves||ChoiceBand|QuarkDrive|leafblade,megahorn,psyblade,closecombat||85,85,85,85,85,85|N|||80|,,,,,Fighting]Dunsparce||Eviolite|SereneGrace|roost,coil,bodyslam,earthquake||85,85,85,85,85,85|F|||86|,,,,,Ghost]Latios||SoulDew|Levitate|recover,aurasphere,lusterpurge,dracometeor||85,,85,85,85,85|M|,0,,,,||78|,,,,,Fighting]Corviknight||RockyHelmet|Pressure|bravebird,roost,bodypress,defog||85,85,85,85,85,85|M|||80|,,,,,Dragon",
   "ai": "Glimmora||PowerHerb|ToxicDebris|meteorbeam,energyball,earthpower,sludgewave||85,,85,85,85,85|M|,0,,,,||75|,,,,,Grass]Passimian||Leftovers|Defiant|bulkup,knockoff,drainpunch,gunkshot||85,85,85,85,85,85|F|||83|,,,,,Steel]Arbok||Leftovers|Intimidate|trailblaze,coil,gunkshot,earthquake||85,85,85,85,85,85|M|||87|,,,,,Grass]Lapras||HeavyDutyBoots|WaterAbsorb|sparklingaria,sleeptalk,rest,freezedry||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ghost]Tinkaton||Leftovers|MoldBreaker|knockoff,playrough,gigatonhammer,swordsdance||85,85,85,85,85,85|F|||82|,,,,,Steel]Manaphy||Leftovers|Hydration|energyball,hydropump,icebeam,tailglow||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water",
   "curation": {

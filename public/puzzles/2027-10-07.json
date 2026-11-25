@@ -19,6 +19,251 @@
     "Orthworm",
     "Iron Hands"
   ],
+  "playerSets": [
+    {
+      "species": "Ogerpon-Cornerstone",
+      "level": 76,
+      "types": [
+        "Grass",
+        "Rock"
+      ],
+      "ability": "Sturdy",
+      "item": "Cornerstone Mask",
+      "teraType": "Rock",
+      "maxhp": 247,
+      "stats": {
+        "atk": 226,
+        "def": 172,
+        "spa": 135,
+        "spd": 190,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Ivy Cudgel",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Wugtrio",
+      "level": 91,
+      "types": [
+        "Water"
+      ],
+      "ability": "Gooey",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 212,
+      "stats": {
+        "atk": 234,
+        "def": 143,
+        "spa": 143,
+        "spd": 179,
+        "spe": 270
+      },
+      "moves": [
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Stomping Tantrum",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Glastrier",
+      "level": 86,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Chilling Neigh",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 312,
+      "stats": {
+        "atk": 299,
+        "def": 273,
+        "spa": 161,
+        "spd": 238,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Grimmsnarl",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 293,
+      "stats": {
+        "atk": 247,
+        "def": 156,
+        "spa": 205,
+        "spd": 172,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Parting Shot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Spirit Break",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Orthworm",
+      "level": 88,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Earth Eater",
+      "item": "Chesto Berry",
+      "teraType": "Electric",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 305,
+        "spa": 156,
+        "spd": 147,
+        "spe": 165
+      },
+      "moves": [
+        {
+          "name": "Iron Tail",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Iron Hands",
+      "level": 79,
+      "types": [
+        "Fighting",
+        "Electric"
+      ],
+      "ability": "Quark Drive",
+      "item": "Assault Vest",
+      "teraType": "Fighting",
+      "maxhp": 373,
+      "stats": {
+        "atk": 267,
+        "def": 216,
+        "spa": 125,
+        "spd": 153,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Thunder Punch",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Fake Out",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|synthesis,ivycudgel,superpower,powerwhip||85,85,85,85,85,85|F|||76|,,,,,Rock]Wugtrio||ChoiceBand|Gooey|throatchop,stompingtantrum,aquajet,liquidation||85,85,85,85,85,85|M|||91|,,,,,Dark]Glastrier||HeavyDutyBoots|ChillingNeigh|iciclecrash,swordsdance,closecombat,highhorsepower||85,85,85,85,85,85|N|||86|,,,,,Ground]Grimmsnarl||Leftovers|Prankster|thunderwave,partingshot,spiritbreak,suckerpunch||85,85,85,85,85,85|M|||83|,,,,,Poison]Orthworm||ChestoBerry|EarthEater|irontail,coil,rest,bodypress||85,85,85,85,85,85|M|||88|,,,,,Electric]Iron Hands||AssaultVest|QuarkDrive|voltswitch,thunderpunch,drainpunch,fakeout||85,85,85,85,85,85|N|||79|,,,,,Fighting",
   "ai": "Shaymin||Leftovers|NaturalCure|seedflare,substitute,leechseed,airslash||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Sudowoodo||ChoiceBand|RockHead|headsmash,suckerpunch,earthquake,woodhammer||85,85,85,85,85,85|M|||94|,,,,,Rock]Crawdaunt||LifeOrb|Adaptability|crabhammer,closecombat,knockoff,dragondance||85,85,85,85,85,85|F|||84|,,,,,Fighting]Bombirdier||ChoiceBand|RockyPayload|stoneedge,bravebird,suckerpunch,knockoff||85,85,85,85,85,85|M|||85|,,,,,Rock]Revavroom||LifeOrb|Filter|highhorsepower,shiftgear,ironhead,gunkshot||85,85,85,85,85,85|F|||79|,,,,,Ground]Delphox||HeavyDutyBoots|Blaze|fireblast,nastyplot,focusblast,psyshock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fighting",
   "curation": {

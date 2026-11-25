@@ -19,6 +19,251 @@
     "Mewtwo",
     "Florges-Blue"
   ],
+  "playerSets": [
+    {
+      "species": "Forretress",
+      "level": 84,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "ability": "Sturdy",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 263,
+      "stats": {
+        "atk": 199,
+        "def": 283,
+        "spa": 149,
+        "spd": 149,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Gouging Fire",
+      "level": 74,
+      "types": [
+        "Fire",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fairy",
+      "maxhp": 277,
+      "stats": {
+        "atk": 213,
+        "def": 222,
+        "spa": 139,
+        "spd": 181,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ariados",
+      "level": 95,
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "ability": "Swarm",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 287,
+      "stats": {
+        "atk": 225,
+        "def": 187,
+        "spa": 168,
+        "spd": 187,
+        "spe": 130
+      },
+      "moves": [
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Registeel",
+      "level": 81,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Clear Body",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 262,
+      "stats": {
+        "atk": 168,
+        "def": 290,
+        "spa": 168,
+        "spd": 290,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mewtwo",
+      "level": 72,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Unnerve",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 272,
+      "stats": {
+        "atk": 163,
+        "def": 172,
+        "spa": 264,
+        "spd": 172,
+        "spe": 229
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Psystrike",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Florges-Blue",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Flower Veil",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 271,
+      "stats": {
+        "atk": 115,
+        "def": 164,
+        "spa": 239,
+        "spd": 311,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Forretress||Leftovers|Sturdy|stealthrock,ironhead,rapidspin,spikes||85,85,85,85,85,85|F|||84|,,,,,Water]Gouging Fire||HeavyDutyBoots|Protosynthesis|morningsun,dragondance,heatcrash,outrage||85,85,85,85,85,85|N|||74|,,,,,Fairy]Ariados||HeavyDutyBoots|Swarm|toxicspikes,poisonjab,megahorn,stickyweb||85,85,85,85,85,85|M|||95|,,,,,Ghost]Registeel||ChestoBerry|ClearBody|ironhead,rest,irondefense,bodypress||85,85,85,85,85,85|N|||81|,,,,,Fighting]Mewtwo||LifeOrb|Unnerve|nastyplot,darkpulse,psystrike,fireblast||85,,85,85,85,85|N|,0,,,,||72|,,,,,Dark]Florges|FlorgesBlue|Leftovers|FlowerVeil|moonblast,terablast,calmmind,synthesis||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground",
   "ai": "Iron Leaves||ChoiceBand|QuarkDrive|megahorn,leafblade,closecombat,psyblade||85,85,85,85,85,85|N|||80|,,,,,Fighting]Honchkrow||HeavyDutyBoots|Moxie|uturn,suckerpunch,heatwave,bravebird||85,85,85,85,85,85|F|||86|,,,,,Flying]Smeargle||FocusSash|OwnTempo|ceaselessedge,spore,whirlwind,stickyweb||85,85,85,85,85,85|F|||95|,,,,,Ghost]Quagsire||Leftovers|Unaware|toxic,earthquake,recover,spikes||85,85,85,85,85,85|F|||84|,,,,,Fairy]Terrakion||LifeOrb|Justified|closecombat,earthquake,stoneedge,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Ground]Salamence||HeavyDutyBoots|Moxie|dualwingbeat,earthquake,outrage,dragondance||85,85,85,85,85,85|M|||77|,,,,,Ground",
   "curation": {

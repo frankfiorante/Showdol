@@ -19,6 +19,251 @@
     "Roaring Moon",
     "Rillaboom"
   ],
+  "playerSets": [
+    {
+      "species": "Necrozma-Dawn-Wings",
+      "level": 76,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "ability": "Prism Armor",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 272,
+      "stats": {
+        "atk": 176,
+        "def": 210,
+        "spa": 283,
+        "spd": 237,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Moonlight",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Photon Geyser",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Moongeist Beam",
+          "type": "Ghost",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Bellibolt",
+      "level": 84,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Electromorphosis",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 320,
+      "stats": {
+        "atk": 112,
+        "def": 201,
+        "spa": 221,
+        "spd": 188,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Muddy Water",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Pawmot",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Fighting"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Leppa Berry",
+      "teraType": "Electric",
+      "maxhp": 243,
+      "stats": {
+        "atk": 230,
+        "def": 158,
+        "spa": 158,
+        "spd": 142,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Nuzzle",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Double Shock",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Revival Blessing",
+          "type": "Normal",
+          "pp": 1
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Magmortar",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 275,
+      "stats": {
+        "atk": 217,
+        "def": 168,
+        "spa": 270,
+        "spd": 217,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Roaring Moon",
+      "level": 72,
+      "types": [
+        "Dragon",
+        "Dark"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Choice Band",
+      "teraType": "Dragon",
+      "maxhp": 270,
+      "stats": {
+        "atk": 242,
+        "def": 144,
+        "spa": 121,
+        "spd": 187,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Rillaboom",
+      "level": 79,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Grassy Surge",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 288,
+      "stats": {
+        "atk": 243,
+        "def": 188,
+        "spa": 140,
+        "spd": 156,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Grassy Glide",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Necrozma|NecrozmaDawnWings|Leftovers|PrismArmor|calmmind,moonlight,photongeyser,moongeistbeam||85,,85,85,85,85|N|,0,,,,||76|,,,,,Fairy]Bellibolt||Leftovers|Electromorphosis|voltswitch,muddywater,thunderbolt,slackoff||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Pawmot||LeppaBerry|VoltAbsorb|nuzzle,doubleshock,revivalblessing,closecombat||85,85,85,85,85,85|M|||80|,,,,,Electric]Magmortar||HeavyDutyBoots|FlameBody|focusblast,fireblast,knockoff,earthquake||85,85,85,85,85,85|M|||88|,,,,,Fighting]Roaring Moon||ChoiceBand|Protosynthesis|ironhead,outrage,knockoff,uturn||85,85,85,85,85,85|N|||72|,,,,,Dragon]Rillaboom||LifeOrb|GrassySurge|highhorsepower,woodhammer,grassyglide,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Grass",
   "ai": "Enamorus|EnamorusTherian|AssaultVest|Overcoat|earthpower,superpower,moonblast,psychic||85,85,85,85,85,85|F|||83|,,,,,Ground]Koraidon||LoadedDice|OrichalcumPulse|flareblitz,collisioncourse,swordsdance,scaleshot||85,85,85,85,85,85|N|||64|,,,,,Fire]Skarmory||RockyHelmet|Sturdy|bravebird,roost,bodypress,stealthrock||85,85,85,85,85,85|F|||80|,,,,,Dragon]Wo-Chien||Leftovers|TabletsofRuin|leechseed,protect,knockoff,gigadrain||85,85,85,85,85,85|N|||83|,,,,,Poison]Mismagius||ChoiceSpecs|Levitate|dazzlinggleam,shadowball,thunderbolt,trick||85,,85,85,85,85|M|,0,,,,||86|,,,,,Electric]Frosmoth||HeavyDutyBoots|IceScales|gigadrain,icebeam,terablast,quiverdance||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground",
   "curation": {

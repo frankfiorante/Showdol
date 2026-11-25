@@ -19,6 +19,252 @@
     "Hawlucha",
     "Wugtrio"
   ],
+  "playerSets": [
+    {
+      "species": "Rhydon",
+      "level": 85,
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "ability": "Lightning Rod",
+      "item": "Eviolite",
+      "teraType": "Water",
+      "maxhp": 317,
+      "stats": {
+        "atk": 270,
+        "def": 253,
+        "spa": 125,
+        "spd": 125,
+        "spe": 117
+      },
+      "moves": [
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Weezing-Galar",
+      "level": 86,
+      "types": [
+        "Poison",
+        "Fairy"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 252,
+      "stats": {
+        "atk": 204,
+        "def": 256,
+        "spa": 195,
+        "spd": 170,
+        "spe": 152
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Strange Steam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Dewgong",
+      "level": 94,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Thick Fat",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 322,
+      "stats": {
+        "atk": 185,
+        "def": 204,
+        "spa": 185,
+        "spd": 232,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lurantis",
+      "level": 87,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Contrary",
+      "item": "Assault Vest",
+      "teraType": "Water",
+      "maxhp": 264,
+      "stats": {
+        "atk": 232,
+        "def": 206,
+        "spa": 189,
+        "spd": 206,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Hawlucha",
+      "level": 80,
+      "types": [
+        "Fighting",
+        "Flying"
+      ],
+      "ability": "Unburden",
+      "item": "White Herb",
+      "teraType": "Flying",
+      "maxhp": 256,
+      "stats": {
+        "atk": 193,
+        "def": 166,
+        "spa": 165,
+        "spd": 147,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Wugtrio",
+      "level": 91,
+      "types": [
+        "Water"
+      ],
+      "ability": "Gooey",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 212,
+      "stats": {
+        "atk": 234,
+        "def": 143,
+        "spa": 143,
+        "spd": 179,
+        "spe": 270
+      },
+      "moves": [
+        {
+          "name": "Stomping Tantrum",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Rhydon||Eviolite|LightningRod|megahorn,stoneedge,swordsdance,earthquake||85,85,85,85,85,85|F|||85|,,,,,Water]Weezing|WeezingGalar|Leftovers|Levitate|gunkshot,strangesteam,defog,willowisp||85,85,85,85,85,85|F|||86|,,,,,Steel]Dewgong||HeavyDutyBoots|ThickFat|surf,tripleaxel,encore,flipturn||85,85,85,85,85,85|F|||94|,,,,,Grass]Lurantis||AssaultVest|Contrary|leechlife,leafstorm,knockoff,superpower||85,85,85,85,85,85|M|||87|,,,,,Water]Hawlucha||WhiteHerb|Unburden|acrobatics,swordsdance,throatchop,closecombat||85,85,85,85,85,85|F|||80|,,,,,Flying]Wugtrio||ChoiceBand|Gooey|stompingtantrum,aquajet,throatchop,liquidation||85,85,85,85,85,85|F|||91|,,,,,Ground",
   "ai": "Brute Bonnet||Leftovers|Protosynthesis|spore,closecombat,suckerpunch,crunch||85,85,85,85,85,85|N|||79|,,,,,Poison]Hitmonlee||WhiteHerb|Unburden|closecombat,swordsdance,knockoff,poisonjab||85,85,85,85,85,85|M|||85|,,,,,Poison]Iron Jugulis||PowerHerb|QuarkDrive|darkpulse,hurricane,meteorbeam,earthpower||85,,85,85,85,85|N|,0,,,,||77|,,,,,Ground]Garganacl||Leftovers|PurifyingSalt|protect,saltcure,recover,earthquake||85,85,85,85,85,85|M|||80|,,,,,Ghost]Galvantula||HeavyDutyBoots|CompoundEyes|bugbuzz,energyball,stickyweb,thunder||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric]Rotom|RotomMow|Leftovers|Levitate|willowisp,voltswitch,leafstorm,thunderbolt||85,,85,85,85,85|N|,0,,,,||87|,,,,,Grass",
   "curation": {

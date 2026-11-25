@@ -19,6 +19,254 @@
     "Metagross",
     "Keldeo-Resolute"
   ],
+  "playerSets": [
+    {
+      "species": "Ludicolo",
+      "level": 90,
+      "types": [
+        "Water",
+        "Grass"
+      ],
+      "ability": "Swift Swim",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 290,
+      "stats": {
+        "atk": 131,
+        "def": 177,
+        "spa": 213,
+        "spd": 231,
+        "spe": 177
+      },
+      "moves": [
+        {
+          "name": "Rain Dance",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Kilowattrel",
+      "level": 83,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 252,
+      "stats": {
+        "atk": 164,
+        "def": 147,
+        "spa": 222,
+        "spd": 147,
+        "spe": 255
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Delphox",
+      "level": 84,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ability": "Blaze",
+      "item": "Choice Scarf",
+      "teraType": "Fire",
+      "maxhp": 263,
+      "stats": {
+        "atk": 120,
+        "def": 169,
+        "spa": 240,
+        "spd": 216,
+        "spe": 223
+      },
+      "moves": [
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Amoonguss",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Regenerator",
+      "item": "Rocky Helmet",
+      "teraType": "Water",
+      "maxhp": 321,
+      "stats": {
+        "atk": 144,
+        "def": 162,
+        "spa": 187,
+        "spd": 178,
+        "spe": 96
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Clear Smog",
+          "type": "Poison",
+          "pp": 24
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Metagross",
+      "level": 79,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Clear Body",
+      "item": "Weakness Policy",
+      "teraType": "Ground",
+      "maxhp": 256,
+      "stats": {
+        "atk": 259,
+        "def": 251,
+        "spa": 196,
+        "spd": 188,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Keldeo-Resolute",
+      "level": 79,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Choice Specs",
+      "teraType": "Water",
+      "maxhp": 273,
+      "stats": {
+        "atk": 118,
+        "def": 188,
+        "spa": 249,
+        "spd": 188,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Secret Sword",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Vacuum Wave",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Ludicolo||LifeOrb|SwiftSwim|raindance,hydropump,icebeam,gigadrain||85,,85,85,85,85|M|,0,,,,||90|,,,,,Grass]Kilowattrel||HeavyDutyBoots|VoltAbsorb|thunderbolt,hurricane,roost,uturn||85,85,85,85,85,85|F|||83|,,,,,Water]Delphox||ChoiceScarf|Blaze|focusblast,psyshock,fireblast,grassknot||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Amoonguss||RockyHelmet|Regenerator|gigadrain,clearsmog,spore,sludgebomb||85,,85,85,85,85|F|,0,,,,||82|,,,,,Water]Metagross||WeaknessPolicy|ClearBody|agility,earthquake,heavyslam,psychicfangs||85,85,85,85,85,85|N|||79|,,,,,Ground]Keldeo|KeldeoResolute|ChoiceSpecs|Justified|secretsword,vacuumwave,hydropump,airslash||85,,85,85,85,85|N|,0,,,,||79|,,,,,Water",
   "ai": "Masquerain||HeavyDutyBoots|Intimidate|bugbuzz,hurricane,quiverdance,hydropump||85,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Jolteon||LifeOrb|VoltAbsorb|calmmind,shadowball,alluringvoice,thunderbolt||85,,85,85,85,85|M|,0,,,,||84|,,,,,Electric]Walking Wake||LifeOrb|Protosynthesis|sunnyday,dracometeor,hydrosteam,flamethrower||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fire]Latios||ChoiceSpecs|Levitate|aurasphere,dracometeor,flipturn,lusterpurge||85,85,85,85,85,85|M|||78|,,,,,Dragon]Solgaleo||WeaknessPolicy|FullMetalBody|knockoff,sunsteelstrike,flamecharge,closecombat||85,85,85,85,85,85|N|||74|,,,,,Dark]Chansey||Eviolite|NaturalCure|thunderwave,healbell,softboiled,seismictoss||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy",
   "curation": {

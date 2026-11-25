@@ -19,6 +19,252 @@
     "Meganium",
     "Ting-Lu"
   ],
+  "playerSets": [
+    {
+      "species": "Pecharunt",
+      "level": 77,
+      "types": [
+        "Poison",
+        "Ghost"
+      ],
+      "ability": "Poison Puppeteer",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 262,
+      "stats": {
+        "atk": 140,
+        "def": 291,
+        "spa": 180,
+        "spd": 180,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Parting Shot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Malignant Chain",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sneasler",
+      "level": 74,
+      "types": [
+        "Fighting",
+        "Poison"
+      ],
+      "ability": "Unburden",
+      "item": "White Herb",
+      "teraType": "Flying",
+      "maxhp": 240,
+      "stats": {
+        "atk": 235,
+        "def": 132,
+        "spa": 102,
+        "spd": 161,
+        "spe": 221
+      },
+      "moves": [
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Dire Claw",
+          "type": "Poison",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Komala",
+      "level": 87,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Comatose",
+      "item": "Assault Vest",
+      "teraType": "Ghost",
+      "maxhp": 255,
+      "stats": {
+        "atk": 250,
+        "def": 163,
+        "spa": 180,
+        "spd": 215,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Skarmory",
+      "level": 80,
+      "types": [
+        "Steel",
+        "Flying"
+      ],
+      "ability": "Sturdy",
+      "item": "Rocky Helmet",
+      "teraType": "Dragon",
+      "maxhp": 235,
+      "stats": {
+        "atk": 174,
+        "def": 270,
+        "spa": 110,
+        "spd": 158,
+        "spe": 158
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Meganium",
+      "level": 90,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Overgrow",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 290,
+      "stats": {
+        "atk": 199,
+        "def": 231,
+        "spa": 201,
+        "spd": 231,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ting-Lu",
+      "level": 78,
+      "types": [
+        "Dark",
+        "Ground"
+      ],
+      "ability": "Vessel of Ruin",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 370,
+      "stats": {
+        "atk": 217,
+        "def": 240,
+        "spa": 131,
+        "spd": 170,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Whirlwind",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Pecharunt||Leftovers|PoisonPuppeteer|partingshot,shadowball,recover,malignantchain||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Sneasler||WhiteHerb|Unburden|acrobatics,swordsdance,closecombat,direclaw||85,85,85,85,85,85|F|||74|,,,,,Flying]Komala||AssaultVest|Comatose|knockoff,uturn,rapidspin,bodyslam||85,85,85,85,85,85|F|||87|,,,,,Ghost]Skarmory||RockyHelmet|Sturdy|roost,bodypress,stealthrock,bravebird||85,85,85,85,85,85|F|||80|,,,,,Dragon]Meganium||Leftovers|Overgrow|knockoff,synthesis,leechseed,energyball||85,85,85,85,85,85|M|||90|,,,,,Poison]Ting-Lu||Leftovers|VesselofRuin|spikes,earthquake,whirlwind,throatchop||85,85,85,85,85,85|N|||78|,,,,,Ghost",
   "ai": "Mismagius||Leftovers|Levitate|shadowball,substitute,terablast,nastyplot||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fighting]Orthworm||Leftovers|EarthEater|heavyslam,spikes,shedtail,bodypress||85,85,85,85,85,85|F|||88|,,,,,Fighting]Feraligatr||LifeOrb|SheerForce|icepunch,dragondance,crunch,liquidation||85,85,85,85,85,85|M|||79|,,,,,Dragon]Araquanid||HeavyDutyBoots|WaterBubble|stickyweb,hydropump,liquidation,leechlife||85,85,85,85,85,85|F|||82|,,,,,Ground]Lugia||HeavyDutyBoots|Multiscale|earthpower,aeroblast,calmmind,recover||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Dudunsparce|DudunsparceThreeSegment|Leftovers|Rattled|roost,calmmind,earthpower,boomburst||85,,85,85,85,85|F|,0,,,,||83|,,,,,Poison",
   "curation": {

@@ -19,6 +19,250 @@
     "Eelektross",
     "Inteleon"
   ],
+  "playerSets": [
+    {
+      "species": "Polteageist",
+      "level": 78,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Cursed Body",
+      "item": "White Herb",
+      "teraType": "Fighting",
+      "maxhp": 222,
+      "stats": {
+        "atk": 106,
+        "def": 146,
+        "spa": 254,
+        "spd": 223,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Armarouge",
+      "level": 80,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ability": "Weak Armor",
+      "item": "Choice Specs",
+      "teraType": "Fighting",
+      "maxhp": 267,
+      "stats": {
+        "atk": 101,
+        "def": 206,
+        "spa": 246,
+        "spd": 174,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Armor Cannon",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Iron Bundle",
+      "level": 78,
+      "types": [
+        "Ice",
+        "Water"
+      ],
+      "ability": "Quark Drive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 215,
+      "stats": {
+        "atk": 170,
+        "def": 223,
+        "spa": 239,
+        "spd": 139,
+        "spe": 257
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Hitmonchan",
+      "level": 87,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Iron Fist",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 229,
+      "stats": {
+        "atk": 232,
+        "def": 187,
+        "spa": 111,
+        "spd": 241,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Eelektross",
+      "level": 87,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 290,
+      "stats": {
+        "atk": 250,
+        "def": 189,
+        "spa": 232,
+        "spd": 189,
+        "spe": 137
+      },
+      "moves": [
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Inteleon",
+      "level": 81,
+      "types": [
+        "Water"
+      ],
+      "ability": "Torrent",
+      "item": "Choice Specs",
+      "teraType": "Water",
+      "maxhp": 246,
+      "stats": {
+        "atk": 184,
+        "def": 152,
+        "spa": 249,
+        "spd": 152,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Polteageist||WhiteHerb|CursedBody|shadowball,terablast,strengthsap,shellsmash||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Armarouge||ChoiceSpecs|WeakArmor|focusblast,energyball,psyshock,armorcannon||85,,85,85,85,85|F|,0,,,,||80|,,,,,Fighting]Iron Bundle||HeavyDutyBoots|QuarkDrive|encore,flipturn,freezedry,hydropump||85,85,85,85,85,85|N|||78|,,,,,Water]Hitmonchan||Leftovers|IronFist|poisonjab,bulkup,knockoff,drainpunch||85,85,85,85,85,85|M|||87|,,,,,Steel]Eelektross||Leftovers|Levitate|coil,knockoff,supercellslam,drainpunch||85,85,85,85,85,85|F|||87|,,,,,Fighting]Inteleon||ChoiceSpecs|Torrent|hydropump,scald,icebeam,uturn||85,85,85,85,85,85|F|||81|,,,,,Water",
   "ai": "Duraludon||Eviolite|LightMetal|bodypress,dracometeor,flashcannon,dragontail||85,85,85,85,85,85|F|||82|,,,,,Fighting]Banette||LifeOrb|Insomnia|swordsdance,poltergeist,gunkshot,shadowsneak||85,85,85,85,85,85|M|||93|,,,,,Poison]Polteageist|PolteageistAntique|WhiteHerb|CursedBody|terablast,shadowball,strengthsap,shellsmash||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Volcarona||HeavyDutyBoots|FlameBody|morningsun,quiverdance,bugbuzz,fireblast||85,,85,85,85,85|M|,0,,,,||77|,,,,,Steel]Metagross||WeaknessPolicy|ClearBody|agility,heavyslam,earthquake,psychicfangs||85,85,85,85,85,85|N|||79|,,,,,Ground]Okidogi||Leftovers|ToxicChain|knockoff,bulkup,drainpunch,gunkshot||85,85,85,85,85,85|M|||77|,,,,,Dark",
   "curation": {

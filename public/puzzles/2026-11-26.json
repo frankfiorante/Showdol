@@ -19,6 +19,252 @@
     "Meloetta",
     "Arceus-Rock"
   ],
+  "playerSets": [
+    {
+      "species": "Bombirdier",
+      "level": 85,
+      "types": [
+        "Flying",
+        "Dark"
+      ],
+      "ability": "Rocky Payload",
+      "item": "Choice Band",
+      "teraType": "Rock",
+      "maxhp": 258,
+      "stats": {
+        "atk": 224,
+        "def": 193,
+        "spa": 151,
+        "spd": 193,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Mudsdale",
+      "level": 83,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Stamina",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 302,
+      "stats": {
+        "atk": 255,
+        "def": 214,
+        "spa": 139,
+        "spd": 189,
+        "spe": 106
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Roar",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Cacturne",
+      "level": 92,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Water Absorb",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 278,
+      "stats": {
+        "atk": 264,
+        "def": 163,
+        "spa": 264,
+        "spd": 163,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Fezandipiti",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Fairy"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 196,
+        "def": 182,
+        "spa": 162,
+        "spd": 252,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Meloetta",
+      "level": 82,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 298,
+      "stats": {
+        "atk": 173,
+        "def": 173,
+        "spa": 257,
+        "spd": 257,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Relic Song",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Arceus-Rock",
+      "level": 74,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Multitype",
+      "item": "Stone Plate",
+      "teraType": "Ground",
+      "maxhp": 300,
+      "stats": {
+        "atk": 221,
+        "def": 221,
+        "spa": 221,
+        "spd": 221,
+        "spe": 221
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Bombirdier||ChoiceBand|RockyPayload|bravebird,stoneedge,uturn,knockoff||85,85,85,85,85,85|M|||85|,,,,,Rock]Mudsdale||Leftovers|Stamina|earthquake,heavyslam,roar,stealthrock||85,85,85,85,85,85|M|||83|,,,,,Steel]Cacturne||LifeOrb|WaterAbsorb|knockoff,leafstorm,focusblast,suckerpunch||85,85,85,85,85,85|F|||92|,,,,,Poison]Fezandipiti||Leftovers|ToxicChain|playrough,swordsdance,terablast,gunkshot||85,85,85,85,85,85|M|||82|,,,,,Ground]Meloetta||LifeOrb|SereneGrace|relicsong,knockoff,closecombat,tripleaxel||85,85,85,85,85,85|N|||82|,,,,,Dark]Arceus|ArceusRock|StonePlate|Multitype|earthquake,stoneedge,dragondance,recover||85,85,85,85,85,85|N|||74|,,,,,Ground",
   "ai": "Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,uturn,facade,bravebird||85,85,85,85,85,85|M|||85|,,,,,Normal]Grafaiai||AssaultVest|PoisonTouch|superfang,uturn,gunkshot,knockoff||85,85,85,85,85,85|M|||86|,,,,,Dark]Spiritomb||Leftovers|Infiltrator|poltergeist,shadowsneak,foulplay,painsplit||85,85,85,85,85,85|M|||89|,,,,,Poison]Chesnaught||Leftovers|Bulletproof|trailblaze,synthesis,irondefense,bodypress||85,85,85,85,85,85|F|||84|,,,,,Steel]Quagsire||Leftovers|Unaware|recover,earthquake,toxic,spikes||85,85,85,85,85,85|M|||84|,,,,,Steel]Tsareena||HeavyDutyBoots|QueenlyMajesty|powerwhip,synthesis,rapidspin,highjumpkick||85,85,85,85,85,85|F|||87|,,,,,Fighting",
   "curation": {

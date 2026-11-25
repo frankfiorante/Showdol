@@ -19,6 +19,253 @@
     "Keldeo-Resolute",
     "Oricorio-Pom-Pom"
   ],
+  "playerSets": [
+    {
+      "species": "Gholdengo",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "ability": "Good as Gold",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 261,
+      "stats": {
+        "atk": 97,
+        "def": 191,
+        "spa": 249,
+        "spd": 185,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Make It Rain",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Grafaiai",
+      "level": 86,
+      "types": [
+        "Poison",
+        "Normal"
+      ],
+      "ability": "Poison Touch",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 249,
+      "stats": {
+        "atk": 213,
+        "def": 161,
+        "spa": 187,
+        "spd": 173,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Low Kick",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Krookodile",
+      "level": 79,
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 280,
+      "stats": {
+        "atk": 230,
+        "def": 172,
+        "spa": 148,
+        "spd": 156,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Umbreon",
+      "level": 84,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Synchronize",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 297,
+      "stats": {
+        "atk": 114,
+        "def": 233,
+        "spa": 149,
+        "spd": 267,
+        "spe": 157
+      },
+      "moves": [
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Keldeo-Resolute",
+      "level": 79,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 273,
+      "stats": {
+        "atk": 118,
+        "def": 188,
+        "spa": 249,
+        "spd": 188,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Secret Sword",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Oricorio-Pom-Pom",
+      "level": 82,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Dancer",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 257,
+      "stats": {
+        "atk": 119,
+        "def": 162,
+        "spa": 208,
+        "spd": 162,
+        "spe": 200
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Revelation Dance",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Gholdengo||Leftovers|GoodasGold|recover,thunderwave,makeitrain,shadowball||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Grafaiai||LifeOrb|PoisonTouch|lowkick,gunkshot,knockoff,swordsdance||85,85,85,85,85,85|F|||86|,,,,,Dark]Krookodile||Leftovers|Intimidate|knockoff,bulkup,earthquake,gunkshot||85,85,85,85,85,85|F|||79|,,,,,Poison]Umbreon||Leftovers|Synchronize|foulplay,toxic,wish,protect||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Keldeo|KeldeoResolute|LifeOrb|Justified|calmmind,hydropump,airslash,secretsword||85,,85,85,85,85|N|,0,,,,||79|,,,,,Water]Oricorio|OricorioPomPom|HeavyDutyBoots|Dancer|roost,hurricane,revelationdance,quiverdance||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground",
   "ai": "Tauros||LifeOrb|SheerForce|bodyslam,closecombat,throatchop,zenheadbutt||85,85,85,85,85,85|M|||82|,,,,,Psychic]Mismagius||Leftovers|Levitate|nastyplot,shadowball,substitute,terablast||85,,85,85,85,85|M|,0,,,,||86|,,,,,Fighting]Sneasler||WhiteHerb|Unburden|acrobatics,swordsdance,direclaw,closecombat||85,85,85,85,85,85|M|||74|,,,,,Flying]Regigigas||Leftovers|SlowStart|rest,knockoff,sleeptalk,bodyslam||85,85,85,85,85,85|N|||84|,,,,,Ghost]Illumise||HeavyDutyBoots|Prankster|thunderwave,bugbuzz,roost,encore||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Zacian||LifeOrb|IntrepidSword|psychicfangs,swordsdance,playrough,closecombat||85,85,85,85,85,85|N|||69|,,,,,Fighting",
   "curation": {

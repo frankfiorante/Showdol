@@ -19,6 +19,253 @@
     "Veluza",
     "Reshiram"
   ],
+  "playerSets": [
+    {
+      "species": "Tyranitar",
+      "level": 78,
+      "types": [
+        "Rock",
+        "Dark"
+      ],
+      "ability": "Sand Stream",
+      "item": "Weakness Policy",
+      "teraType": "Ghost",
+      "maxhp": 284,
+      "stats": {
+        "atk": 254,
+        "def": 217,
+        "spa": 193,
+        "spd": 201,
+        "spe": 140
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Scrafty",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 244,
+      "stats": {
+        "atk": 197,
+        "def": 239,
+        "spa": 122,
+        "spd": 239,
+        "spe": 144
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Lapras",
+      "level": 87,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Water Absorb",
+      "item": "Loaded Dice",
+      "teraType": "Ground",
+      "maxhp": 367,
+      "stats": {
+        "atk": 198,
+        "def": 189,
+        "spa": 198,
+        "spd": 215,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Waterfall",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Zacian",
+      "level": 64,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Intrepid Sword",
+      "item": "Rusted Sword",
+      "teraType": "Fighting",
+      "maxhp": 225,
+      "stats": {
+        "atk": 191,
+        "def": 185,
+        "spa": 140,
+        "spd": 185,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Behemoth Blade",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Veluza",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Sharpness",
+      "item": "Sitrus Berry",
+      "teraType": "Dark",
+      "maxhp": 292,
+      "stats": {
+        "atk": 222,
+        "def": 173,
+        "spa": 181,
+        "spd": 159,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Fillet Away",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Aqua Cutter",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Reshiram",
+      "level": 76,
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "ability": "Turboblaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 277,
+      "stats": {
+        "atk": 226,
+        "def": 196,
+        "spa": 272,
+        "spd": 226,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Tyranitar||WeaknessPolicy|SandStream|knockoff,icepunch,dragondance,stoneedge||85,85,85,85,85,85|M|||78|,,,,,Ghost]Scrafty||Leftovers|ShedSkin|drainpunch,bulkup,knockoff,rest||85,85,85,85,85,85|F|||83|,,,,,Poison]Lapras||LoadedDice|WaterAbsorb|dragondance,earthquake,waterfall,iciclespear||81,85,85,85,85,85|M|||87|,,,,,Ground]Zacian||RustedSword|IntrepidSword|behemothblade,playrough,swordsdance,closecombat||85,85,85,85,85,85|N|||64|,,,,,Fighting]Veluza||SitrusBerry|Sharpness|filletaway,psychocut,nightslash,aquacutter||85,85,85,85,85,85|M|||85|,,,,,Dark]Reshiram||HeavyDutyBoots|Turboblaze|outrage,dragondance,stoneedge,flareblitz||85,85,85,85,85,85|N|||76|,,,,,Fire",
   "ai": "Chi-Yu||HeavyDutyBoots|BeadsofRuin|fireblast,psychic,darkpulse,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Lycanroc||LifeOrb|SandRush|stoneedge,closecombat,taunt,swordsdance||85,85,85,85,85,85|M|||86|,,,,,Fighting]Tropius||SitrusBerry|Harvest|dragondance,earthquake,dualwingbeat,leafblade||85,85,85,85,85,85|F|||91|,,,,,Ground]Lanturn||HeavyDutyBoots|VoltAbsorb|thunderbolt,thunderwave,voltswitch,scald||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Maushold||WideLens|Technician|encore,populationbomb,bite,tidyup||85,85,85,85,85,85|N|||76|,,,,,Ghost]Hippowdon||Leftovers|SandStream|slackoff,earthquake,curse,stoneedge||85,85,85,85,85,85|F|||82|,,,,,Rock",
   "curation": {

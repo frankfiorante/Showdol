@@ -19,6 +19,251 @@
     "Houndoom",
     "Meloetta"
   ],
+  "playerSets": [
+    {
+      "species": "Suicune",
+      "level": 82,
+      "types": [
+        "Water"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 298,
+      "stats": {
+        "atk": 128,
+        "def": 236,
+        "spa": 195,
+        "spd": 236,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Clawitzer",
+      "level": 87,
+      "types": [
+        "Water"
+      ],
+      "ability": "Mega Launcher",
+      "item": "Assault Vest",
+      "teraType": "Dragon",
+      "maxhp": 265,
+      "stats": {
+        "atk": 177,
+        "def": 203,
+        "spa": 259,
+        "spd": 205,
+        "spe": 152
+      },
+      "moves": [
+        {
+          "name": "Water Pulse",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Meganium",
+      "level": 90,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Overgrow",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 290,
+      "stats": {
+        "atk": 199,
+        "def": 231,
+        "spa": 201,
+        "spd": 231,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Petal Blizzard",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Iron Leaves",
+      "level": 80,
+      "types": [
+        "Grass",
+        "Psychic"
+      ],
+      "ability": "Quark Drive",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 275,
+      "stats": {
+        "atk": 254,
+        "def": 187,
+        "spa": 158,
+        "spd": 219,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Psyblade",
+          "type": "Psychic",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Houndoom",
+      "level": 87,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "ability": "Flash Fire",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Poison",
+      "maxhp": 272,
+      "stats": {
+        "atk": 206,
+        "def": 137,
+        "spa": 241,
+        "spd": 189,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Meloetta",
+      "level": 82,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 298,
+      "stats": {
+        "atk": 173,
+        "def": 173,
+        "spa": 257,
+        "spd": 257,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Relic Song",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Suicune||Leftovers|Pressure|protect,calmmind,scald,substitute||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Clawitzer||AssaultVest|MegaLauncher|waterpulse,aurasphere,dragonpulse,uturn||85,85,85,85,85,85|M|||87|,,,,,Dragon]Meganium||Leftovers|Overgrow|knockoff,petalblizzard,swordsdance,earthquake||85,85,85,85,85,85|M|||90|,,,,,Ground]Iron Leaves||LifeOrb|QuarkDrive|swordsdance,closecombat,leafblade,psyblade||85,85,85,85,85,85|N|||80|,,,,,Fighting]Houndoom||HeavyDutyBoots|FlashFire|fireblast,darkpulse,sludgebomb,suckerpunch||85,85,85,85,85,85|M|||87|,,,,,Poison]Meloetta||LifeOrb|SereneGrace|closecombat,knockoff,tripleaxel,relicsong||85,85,85,85,85,85|N|||82|,,,,,Dark",
   "ai": "Arcanine|ArcanineHisui|ChoiceBand|RockHead|extremespeed,closecombat,flareblitz,headsmash||81,85,85,85,85,85|F|||79|,,,,,Normal]Landorus||LifeOrb|SheerForce|rockslide,stealthrock,sludgewave,earthpower||85,85,85,85,85,85|M|||75|,,,,,Poison]Blaziken||LifeOrb|SpeedBoost|swordsdance,closecombat,knockoff,flareblitz||85,85,85,85,85,85|M|||76|,,,,,Dark]Gengar||ChoiceSpecs|CursedBody|sludgewave,shadowball,trick,focusblast||85,,85,85,85,85|M|,0,,,,||81|,,,,,Fighting]Farigiraf||Leftovers|SapSipper|psychicnoise,bodyslam,protect,wish||85,85,85,85,85,85|F|||89|,,,,,Fairy]Gardevoir||ChoiceScarf|Trace|healingwish,mysticalfire,psychic,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Fairy",
   "curation": {

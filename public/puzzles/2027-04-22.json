@@ -19,6 +19,250 @@
     "Ursaring",
     "Florges"
   ],
+  "playerSets": [
+    {
+      "species": "Polteageist-Antique",
+      "level": 78,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Cursed Body",
+      "item": "White Herb",
+      "teraType": "Fighting",
+      "maxhp": 222,
+      "stats": {
+        "atk": 106,
+        "def": 146,
+        "spa": 254,
+        "spd": 223,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ariados",
+      "level": 95,
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "ability": "Swarm",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 287,
+      "stats": {
+        "atk": 225,
+        "def": 187,
+        "spa": 168,
+        "spd": 187,
+        "spe": 130
+      },
+      "moves": [
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Maushold-Four",
+      "level": 76,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Wide Lens",
+      "teraType": "Normal",
+      "maxhp": 238,
+      "stats": {
+        "atk": 158,
+        "def": 150,
+        "spa": 143,
+        "spd": 158,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Population Bomb",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Tidy Up",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Bite",
+          "type": "Dark",
+          "pp": 40
+        }
+      ]
+    },
+    {
+      "species": "Magearna",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Soul-Heart",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 250,
+      "stats": {
+        "atk": 151,
+        "def": 222,
+        "spa": 245,
+        "spd": 222,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Fleur Cannon",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ursaring",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Guts",
+      "item": "Eviolite",
+      "teraType": "Ghost",
+      "maxhp": 288,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 174,
+        "spd": 174,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Florges",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Flower Veil",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 271,
+      "stats": {
+        "atk": 115,
+        "def": 164,
+        "spa": 239,
+        "spd": 311,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Polteageist|PolteageistAntique|WhiteHerb|CursedBody|shellsmash,terablast,shadowball,strengthsap||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Ariados||HeavyDutyBoots|Swarm|poisonjab,stickyweb,suckerpunch,megahorn||85,85,85,85,85,85|F|||95|,,,,,Ghost]Maushold|MausholdFour|WideLens|Technician|populationbomb,encore,tidyup,bite||85,85,85,85,85,85|N|||76|,,,,,Normal]Magearna||Leftovers|SoulHeart|fleurcannon,flashcannon,thunderwave,aurasphere||85,,85,85,85,85|N|,0,,,,||77|,,,,,Water]Ursaring||Eviolite|Guts|sleeptalk,bodyslam,earthquake,rest||85,85,85,85,85,85|M|||84|,,,,,Ghost]Florges||Leftovers|FlowerVeil|protect,calmmind,wish,moonblast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
   "ai": "Mismagius||Leftovers|Levitate|shadowball,terablast,substitute,nastyplot||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fighting]Terrakion||LifeOrb|Justified|earthquake,closecombat,stoneedge,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Fighting]Kingambit||Leftovers|SupremeOverlord|kowtowcleave,suckerpunch,ironhead,swordsdance||85,85,85,85,85,85|M|||74|,,,,,Flying]Vileplume||Leftovers|EffectSpore|leechseed,strengthsap,sludgebomb,gigadrain||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Malamar||Leftovers|Contrary|rest,sleeptalk,knockoff,superpower||85,85,85,85,85,85|F|||82|,,,,,Poison]Revavroom||LifeOrb|Filter|ironhead,highhorsepower,shiftgear,gunkshot||85,85,85,85,85,85|F|||79|,,,,,Ground",
   "curation": {

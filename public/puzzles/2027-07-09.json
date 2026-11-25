@@ -19,6 +19,251 @@
     "Decidueye-Hisui",
     "Pikachu-Original"
   ],
+  "playerSets": [
+    {
+      "species": "Zarude-Dada",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Grass"
+      ],
+      "ability": "Leaf Guard",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 288,
+      "stats": {
+        "atk": 229,
+        "def": 206,
+        "spa": 152,
+        "spd": 191,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Zangoose",
+      "level": 85,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Toxic Boost",
+      "item": "Toxic Orb",
+      "teraType": "Normal",
+      "maxhp": 263,
+      "stats": {
+        "atk": 244,
+        "def": 151,
+        "spa": 151,
+        "spd": 151,
+        "spe": 202
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Iron Moth",
+      "level": 78,
+      "types": [
+        "Fire",
+        "Poison"
+      ],
+      "ability": "Quark Drive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 253,
+      "stats": {
+        "atk": 114,
+        "def": 139,
+        "spa": 263,
+        "spd": 217,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Fiery Dance",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Electivire",
+      "level": 84,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Motor Drive",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 263,
+      "stats": {
+        "atk": 255,
+        "def": 161,
+        "spa": 208,
+        "spd": 191,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Decidueye-Hisui",
+      "level": 87,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Scrappy",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 295,
+      "stats": {
+        "atk": 245,
+        "def": 189,
+        "spa": 215,
+        "spd": 215,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Triple Arrows",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Pikachu-Original",
+      "level": 93,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Lightning Rod",
+      "item": "Light Ball",
+      "teraType": "Water",
+      "maxhp": 216,
+      "stats": {
+        "atk": 155,
+        "def": 127,
+        "spa": 146,
+        "spd": 146,
+        "spe": 220
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Volt Tackle",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Fake Out",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Zarude|ZarudeDada|ChoiceBand|LeafGuard|powerwhip,uturn,knockoff,closecombat||85,85,85,85,85,85|N|||77|,,,,,Dark]Zangoose||ToxicOrb|ToxicBoost|knockoff,closecombat,facade,swordsdance||85,85,85,85,85,85|F|||85|,,,,,Normal]Iron Moth||HeavyDutyBoots|QuarkDrive|energyball,sludgewave,toxicspikes,fierydance||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Electivire||LifeOrb|MotorDrive|bulkup,earthquake,icepunch,supercellslam||85,85,85,85,85,85|F|||84|,,,,,Ground]Decidueye|DecidueyeHisui|Leftovers|Scrappy|uturn,leafblade,roost,triplearrows||85,85,85,85,85,85|M|||87|,,,,,Water]Pikachu|PikachuOriginal|LightBall|LightningRod|knockoff,surf,volttackle,fakeout||85,85,85,85,85,85|M|||93|,,,,,Water",
   "ai": "Chandelure||ChoiceScarf|FlashFire|shadowball,energyball,trick,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Ghost]Flapple||ChoiceBand|Hustle|suckerpunch,gravapple,uturn,outrage||85,85,85,85,85,85|M|||88|,,,,,Steel]Chi-Yu||ChoiceScarf|BeadsofRuin|darkpulse,overheat,flamethrower,psychic||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Zekrom||Leftovers|Teravolt|substitute,outrage,boltstrike,dragondance||85,85,85,85,85,85|N|||71|,,,,,Fairy]Phione||Leftovers|Hydration|scald,grassknot,takeheart,icebeam||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass]Deoxys|DeoxysSpeed|Leftovers|Pressure|stealthrock,spikes,psychoboost,superpower||85,85,85,85,85,85|N|||82|,,,,,Fighting",
   "curation": {

@@ -19,6 +19,253 @@
     "Araquanid",
     "Scizor"
   ],
+  "playerSets": [
+    {
+      "species": "Shiftry",
+      "level": 89,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Wind Rider",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 305,
+      "stats": {
+        "atk": 229,
+        "def": 158,
+        "spa": 211,
+        "spd": 158,
+        "spe": 193
+      },
+      "moves": [
+        {
+          "name": "Low Kick",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Tailwind",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Coalossal",
+      "level": 89,
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 341,
+      "stats": {
+        "atk": 193,
+        "def": 264,
+        "spa": 193,
+        "spd": 211,
+        "spe": 104
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    },
+    {
+      "species": "Trevenant",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "ability": "Natural Cure",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 296,
+      "stats": {
+        "atk": 247,
+        "def": 186,
+        "spa": 166,
+        "spd": 197,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Hypno",
+      "level": 95,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Insomnia",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 315,
+      "stats": {
+        "atk": 193,
+        "def": 187,
+        "spa": 193,
+        "spd": 272,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Araquanid",
+      "level": 82,
+      "types": [
+        "Water",
+        "Bug"
+      ],
+      "ability": "Water Bubble",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 246,
+      "stats": {
+        "atk": 162,
+        "def": 198,
+        "spa": 129,
+        "spd": 264,
+        "spe": 116
+      },
+      "moves": [
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Scizor",
+      "level": 79,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "ability": "Technician",
+      "item": "Choice Band",
+      "teraType": "Dragon",
+      "maxhp": 240,
+      "stats": {
+        "atk": 251,
+        "def": 204,
+        "spa": 132,
+        "spd": 172,
+        "spe": 148
+      },
+      "moves": [
+        {
+          "name": "Bullet Punch",
+          "type": "Steel",
+          "pp": 48
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Shiftry||LifeOrb|WindRider|lowkick,tailwind,leafblade,knockoff||85,85,85,85,85,85|F|||89|,,,,,Fighting]Coalossal||HeavyDutyBoots|FlameBody|willowisp,stoneedge,flamethrower,rapidspin||85,85,85,85,85,85|F|||89|,,,,,Ghost]Trevenant||ChoiceBand|NaturalCure|poltergeist,hornleech,drainpunch,woodhammer||85,85,85,85,85,85|M|||89|,,,,,Fighting]Hypno||Leftovers|Insomnia|psychicnoise,toxic,encore,knockoff||85,85,85,85,85,85|M|||95|,,,,,Fairy]Araquanid||HeavyDutyBoots|WaterBubble|liquidation,leechlife,stickyweb,hydropump||85,85,85,85,85,85|F|||82|,,,,,Steel]Scizor||ChoiceBand|Technician|bulletpunch,uturn,closecombat,knockoff||85,85,85,85,85,85|F|||79|,,,,,Dragon",
   "ai": "Tinkaton||Leftovers|MoldBreaker|playrough,swordsdance,knockoff,gigatonhammer||85,85,85,85,85,85|F|||82|,,,,,Steel]Dodrio||HeavyDutyBoots|EarlyBird|doubleedge,bravebird,swordsdance,drillrun||85,85,85,85,85,85|F|||85|,,,,,Normal]Gallade||ChoiceBand|Sharpness|sacredsword,nightslash,psychocut,leafblade||85,85,85,85,85,85|M|||80|,,,,,Fighting]Gastrodon|GastrodonEast|Leftovers|StormDrain|recover,earthquake,stealthrock,surf||85,85,85,85,85,85|F|||86|,,,,,Poison]Frosmoth||HeavyDutyBoots|IceScales|terablast,quiverdance,icebeam,bugbuzz||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|throatchop,ironhead,earthquake,closecombat||85,85,85,85,85,85|M|||82|,,,,,Fighting",
   "curation": {

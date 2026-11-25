@@ -19,6 +19,251 @@
     "Swanna",
     "Klefki"
   ],
+  "playerSets": [
+    {
+      "species": "Cryogonal",
+      "level": 89,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 287,
+      "stats": {
+        "atk": 140,
+        "def": 140,
+        "spa": 220,
+        "spd": 291,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Scrafty",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 244,
+      "stats": {
+        "atk": 197,
+        "def": 239,
+        "spa": 122,
+        "spd": 239,
+        "spe": 144
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Mewtwo",
+      "level": 72,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Unnerve",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 272,
+      "stats": {
+        "atk": 163,
+        "def": 172,
+        "spa": 264,
+        "spd": 172,
+        "spe": 229
+      },
+      "moves": [
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Psystrike",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Bellossom",
+      "level": 84,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 263,
+      "stats": {
+        "atk": 139,
+        "def": 208,
+        "spa": 199,
+        "spd": 216,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Swanna",
+      "level": 89,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Hydration",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 206,
+        "def": 163,
+        "spa": 206,
+        "spd": 163,
+        "spe": 225
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Klefki",
+      "level": 84,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 233,
+      "stats": {
+        "atk": 183,
+        "def": 201,
+        "spa": 183,
+        "spd": 194,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Magnet Rise",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Cryogonal||HeavyDutyBoots|Levitate|recover,terablast,rapidspin,icebeam||85,85,85,85,85,85|N|||89|,,,,,Electric]Scrafty||Leftovers|Intimidate|dragondance,drainpunch,poisonjab,knockoff||85,85,85,85,85,85|M|||83|,,,,,Poison]Mewtwo||LifeOrb|Unnerve|aurasphere,psystrike,darkpulse,nastyplot||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fighting]Bellossom||Leftovers|Chlorophyll|strengthsap,quiverdance,gigadrain,moonblast||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fairy]Swanna||HeavyDutyBoots|Hydration|bravebird,knockoff,hydropump,roost||85,85,85,85,85,85|M|||89|,,,,,Ground]Klefki||Leftovers|Prankster|playrough,magnetrise,thunderwave,spikes||85,85,85,85,85,85|F|||84|,,,,,Water",
   "ai": "Volbeat||HeavyDutyBoots|Prankster|encore,thunderwave,roost,lunge||85,85,85,85,85,85|M|||90|,,,,,Steel]Tauros|TaurosPaldeaAqua|SitrusBerry|CudChew|closecombat,bulkup,liquidation,substitute||73,85,85,85,85,85|M|||81|,,,,,Water]Garchomp||LoadedDice|RoughSkin|ironhead,swordsdance,earthquake,scaleshot||85,85,85,85,85,85|F|||74|,,,,,Ground]Gardevoir||ChoiceScarf|Trace|mysticalfire,healingwish,moonblast,psyshock||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fairy]Latios||SoulDew|Levitate|dracometeor,lusterpurge,recover,aurasphere||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Jolteon||Leftovers|VoltAbsorb|substitute,terablast,thunderbolt,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice",
   "curation": {

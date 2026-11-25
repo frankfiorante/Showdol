@@ -26,6 +26,25 @@ export interface PokemonView {
   teraType?: string;
   terastallized?: string;
   stats?: Record<string, number>;
+  /** The player's moves with remaining PP; the foe's revealed moves (no PP). */
+  moveDetails?: {name: string; type: string; pp?: number; maxpp?: number}[];
+  /** Foe only, while its ability is unrevealed: what its Random Battle sets can have. */
+  possibleAbilities?: string[];
+  /** Foe only: it used Transform (or Imposter), so species, stats and moves are copies. */
+  transformed?: boolean;
+  /** Foe only: Speed from public info (base stat, level, Random Battle spreads). */
+  speed?: SpeedEstimate;
+}
+
+export interface SpeedEstimate {
+  /** Before items, abilities and other modifiers. */
+  min: number;
+  max: number;
+  /** After the modifiers listed in `modifiers`, if any are known. */
+  modifiedMin?: number;
+  modifiedMax?: number;
+  /** Known modifiers, e.g. "Transformed", "+1", "Paralysis", "Choice Scarf", "Tailwind". */
+  modifiers: string[];
 }
 
 export interface MoveOption {

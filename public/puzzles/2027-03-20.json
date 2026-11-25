@@ -19,6 +19,251 @@
     "Copperajah",
     "Kyogre"
   ],
+  "playerSets": [
+    {
+      "species": "Haxorus",
+      "level": 78,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Loaded Dice",
+      "teraType": "Steel",
+      "maxhp": 247,
+      "stats": {
+        "atk": 274,
+        "def": 185,
+        "spa": 139,
+        "spd": 154,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Gardevoir",
+      "level": 83,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "ability": "Trace",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 249,
+      "stats": {
+        "atk": 112,
+        "def": 156,
+        "spa": 255,
+        "spd": 239,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Mystical Fire",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ludicolo",
+      "level": 90,
+      "types": [
+        "Water",
+        "Grass"
+      ],
+      "ability": "Swift Swim",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 290,
+      "stats": {
+        "atk": 131,
+        "def": 177,
+        "spa": 213,
+        "spd": 231,
+        "spe": 177
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Rain Dance",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Klefki",
+      "level": 84,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 233,
+      "stats": {
+        "atk": 183,
+        "def": 201,
+        "spa": 183,
+        "spd": 194,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Magnet Rise",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Copperajah",
+      "level": 86,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Heavy Metal",
+      "item": "Choice Band",
+      "teraType": "Fire",
+      "maxhp": 350,
+      "stats": {
+        "atk": 273,
+        "def": 168,
+        "spa": 187,
+        "spd": 168,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Kyogre",
+      "level": 71,
+      "types": [
+        "Water"
+      ],
+      "ability": "Drizzle",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 259,
+      "stats": {
+        "atk": 147,
+        "def": 169,
+        "spa": 254,
+        "spd": 240,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Thunder",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Origin Pulse",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Haxorus||LoadedDice|MoldBreaker|closecombat,ironhead,swordsdance,scaleshot||85,85,85,85,85,85|F|||78|,,,,,Steel]Gardevoir||LifeOrb|Trace|psyshock,moonblast,mysticalfire,calmmind||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire]Ludicolo||LifeOrb|SwiftSwim|gigadrain,icebeam,hydropump,raindance||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Klefki||Leftovers|Prankster|playrough,spikes,magnetrise,thunderwave||85,85,85,85,85,85|F|||84|,,,,,Water]Copperajah||ChoiceBand|HeavyMetal|earthquake,heavyslam,knockoff,heatcrash||85,85,85,85,85,85|F|||86|,,,,,Fire]Kyogre||Leftovers|Drizzle|icebeam,calmmind,thunder,originpulse||85,,85,85,85,85|N|,0,,,,||71|,,,,,Steel",
   "ai": "Gastrodon||Leftovers|StormDrain|stealthrock,sludgebomb,earthquake,recover||85,85,85,85,85,85|F|||86|,,,,,Poison]Manaphy||Leftovers|Hydration|icebeam,tailglow,energyball,hydropump||85,,85,85,85,85|N|,0,,,,||78|,,,,,Grass]Frosmoth||HeavyDutyBoots|IceScales|gigadrain,bugbuzz,quiverdance,icebeam||85,,85,85,85,85|M|,0,,,,||82|,,,,,Water]Staraptor||ChoiceScarf|Reckless|bravebird,uturn,doubleedge,closecombat||81,85,85,85,85,85|M|||79|,,,,,Flying]Toxtricity||ChoiceSpecs|PunkRock|boomburst,sludgewave,overdrive,voltswitch||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Froslass||WideLens|CursedBody|tripleaxel,spikes,poltergeist,destinybond||81,85,85,85,85,85|F|||87|,,,,,Ghost",
   "curation": {

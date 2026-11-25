@@ -19,6 +19,252 @@
     "Gothitelle",
     "Revavroom"
   ],
+  "playerSets": [
+    {
+      "species": "Basculegion",
+      "level": 80,
+      "types": [
+        "Water",
+        "Ghost"
+      ],
+      "ability": "Adaptability",
+      "item": "Assault Vest",
+      "teraType": "Water",
+      "maxhp": 323,
+      "stats": {
+        "atk": 225,
+        "def": 150,
+        "spa": 174,
+        "spd": 166,
+        "spe": 171
+      },
+      "moves": [
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Jolteon",
+      "level": 84,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Leftovers",
+      "teraType": "Ice",
+      "maxhp": 246,
+      "stats": {
+        "atk": 114,
+        "def": 149,
+        "spa": 233,
+        "spd": 208,
+        "spe": 267
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Eternatus",
+      "level": 69,
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 308,
+      "stats": {
+        "atk": 122,
+        "def": 171,
+        "spa": 240,
+        "spd": 171,
+        "spe": 220
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Dynamax Cannon",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Squawkabilly-White",
+      "level": 89,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Hustle",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 291,
+      "stats": {
+        "atk": 222,
+        "def": 142,
+        "spa": 131,
+        "spd": 142,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Parting Shot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Gothitelle",
+      "level": 90,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Shadow Tag",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 272,
+      "stats": {
+        "atk": 104,
+        "def": 222,
+        "spa": 222,
+        "spd": 249,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Revavroom",
+      "level": 79,
+      "types": [
+        "Steel",
+        "Poison"
+      ],
+      "ability": "Filter",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 256,
+      "stats": {
+        "atk": 234,
+        "def": 188,
+        "spa": 131,
+        "spd": 151,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Shift Gear",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Basculegion||AssaultVest|Adaptability|wavecrash,aquajet,shadowball,flipturn||85,85,85,85,85,85|M|||80|,,,,,Water]Jolteon||Leftovers|VoltAbsorb|thunderbolt,substitute,calmmind,terablast||85,,85,85,85,85|F|,0,,,,||84|,,,,,Ice]Eternatus||Leftovers|Pressure|recover,dynamaxcannon,toxicspikes,flamethrower||85,,85,85,85,85|N|,0,,,,||69|,,,,,Dragon]Squawkabilly|SquawkabillyWhite|HeavyDutyBoots|Hustle|bravebird,foulplay,partingshot,quickattack||85,85,85,85,85,85|M|||89|,,,,,Flying]Gothitelle||Leftovers|ShadowTag|focusblast,psychicnoise,calmmind,thunderbolt||85,,85,85,85,85|M|,0,,,,||90|,,,,,Steel]Revavroom||LifeOrb|Filter|gunkshot,shiftgear,highhorsepower,ironhead||85,85,85,85,85,85|M|||79|,,,,,Ground",
   "ai": "Clawitzer||ChoiceSpecs|MegaLauncher|waterpulse,uturn,darkpulse,aurasphere||85,85,85,85,85,85|M|||87|,,,,,Dark]Azelf||ChoiceSpecs|Levitate|fireblast,uturn,dazzlinggleam,psychic||85,85,85,85,85,85|N|||82|,,,,,Fairy]Talonflame||HeavyDutyBoots|FlameBody|bravebird,willowisp,overheat,roost||85,85,85,85,85,85|F|||83|,,,,,Dragon]Spiritomb||Leftovers|Infiltrator|poltergeist,foulplay,willowisp,painsplit||85,85,85,85,85,85|F|||89|,,,,,Poison]Honchkrow||HeavyDutyBoots|Moxie|suckerpunch,uturn,heatwave,bravebird||85,85,85,85,85,85|M|||86|,,,,,Dark]Calyrex|CalyrexIce|HeavyDutyBoots|AsOneGlastrier|closecombat,highhorsepower,trickroom,glaciallance||85,85,85,85,85,|N|,,,,,0||72|,,,,,Fighting",
   "curation": {

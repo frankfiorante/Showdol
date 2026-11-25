@@ -19,6 +19,251 @@
     "Palafin",
     "Frosmoth"
   ],
+  "playerSets": [
+    {
+      "species": "Mimikyu",
+      "level": 79,
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "ability": "Disguise",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 216,
+      "stats": {
+        "atk": 188,
+        "def": 172,
+        "spa": 125,
+        "spd": 211,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Phione",
+      "level": 91,
+      "types": [
+        "Water"
+      ],
+      "ability": "Hydration",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 293,
+      "stats": {
+        "atk": 150,
+        "def": 197,
+        "spa": 197,
+        "spd": 197,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Take Heart",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zangoose",
+      "level": 85,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Toxic Boost",
+      "item": "Toxic Orb",
+      "teraType": "Normal",
+      "maxhp": 263,
+      "stats": {
+        "atk": 244,
+        "def": 151,
+        "spa": 151,
+        "spd": 151,
+        "spe": 202
+      },
+      "moves": [
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Emboar",
+      "level": 84,
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Band",
+      "teraType": "Fire",
+      "maxhp": 322,
+      "stats": {
+        "atk": 255,
+        "def": 157,
+        "spa": 216,
+        "spd": 157,
+        "spe": 157
+      },
+      "moves": [
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Head Smash",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Palafin",
+      "level": 77,
+      "types": [
+        "Water"
+      ],
+      "ability": "Zero to Hero",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 281,
+      "stats": {
+        "atk": 152,
+        "def": 155,
+        "spa": 126,
+        "spd": 140,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Jet Punch",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Frosmoth",
+      "level": 82,
+      "types": [
+        "Ice",
+        "Bug"
+      ],
+      "ability": "Ice Scales",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 146,
+        "spa": 252,
+        "spd": 195,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Mimikyu||LifeOrb|Disguise|playrough,swordsdance,drainpunch,shadowsneak||85,85,85,85,85,85|F|||79|,,,,,Fairy]Phione||Leftovers|Hydration|scald,takeheart,rest,sleeptalk||85,,85,85,85,85|N|,0,,,,||91|,,,,,Steel]Zangoose||ToxicOrb|ToxicBoost|facade,closecombat,quickattack,knockoff||85,85,85,85,85,85|F|||85|,,,,,Normal]Emboar||ChoiceBand|Reckless|wildcharge,flareblitz,headsmash,closecombat||85,85,85,85,85,85|M|||84|,,,,,Fire]Palafin||ChoiceBand|ZerotoHero|closecombat,wavecrash,jetpunch,flipturn||85,85,85,85,85,85|M|||77|,,,,,Water]Frosmoth||HeavyDutyBoots|IceScales|gigadrain,bugbuzz,icebeam,quiverdance||85,,85,85,85,85|F|,0,,,,||82|,,,,,Water",
   "ai": "Milotic||Leftovers|Competitive|recover,scald,dragontail,icebeam||85,85,85,85,85,85|M|||83|,,,,,Dragon]Urshifu|UrshifuRapidStrike|LifeOrb|UnseenFist|icespinner,swordsdance,surgingstrikes,closecombat||85,85,85,85,85,85|M|||75|,,,,,Water]Cobalion||Leftovers|Justified|stealthrock,thunderwave,ironhead,bodypress||85,85,85,85,85,85|N|||80|,,,,,Ghost]Jolteon||Leftovers|VoltAbsorb|thunderbolt,substitute,calmmind,terablast||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice]Mightyena||ChoiceBand|Intimidate|throatchop,suckerpunch,poisonfang,playrough||85,85,85,85,85,85|M|||96|,,,,,Fairy]Bombirdier||HeavyDutyBoots|BigPecks|suckerpunch,roost,bravebird,knockoff||85,85,85,85,85,85|M|||85|,,,,,Steel",
   "curation": {

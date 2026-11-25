@@ -19,6 +19,251 @@
     "Florges-White",
     "Raichu-Alola"
   ],
+  "playerSets": [
+    {
+      "species": "Scyther",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Technician",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 249,
+      "stats": {
+        "atk": 228,
+        "def": 178,
+        "spa": 137,
+        "spd": 178,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Dual Wingbeat",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Hitmonlee",
+      "level": 85,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 223,
+      "stats": {
+        "atk": 253,
+        "def": 139,
+        "spa": 108,
+        "spd": 236,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "High Jump Kick",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Darkrai",
+      "level": 77,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Bad Dreams",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 234,
+      "stats": {
+        "atk": 143,
+        "def": 183,
+        "spa": 252,
+        "spd": 183,
+        "spe": 237
+      },
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Quaquaval",
+      "level": 79,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Moxie",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 264,
+      "stats": {
+        "atk": 235,
+        "def": 172,
+        "spa": 180,
+        "spd": 164,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Aqua Step",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Florges-White",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Flower Veil",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 271,
+      "stats": {
+        "atk": 115,
+        "def": 164,
+        "spa": 239,
+        "spd": 311,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Raichu-Alola",
+      "level": 87,
+      "types": [
+        "Electric",
+        "Psychic"
+      ],
+      "ability": "Surge Surfer",
+      "item": "Choice Specs",
+      "teraType": "Grass",
+      "maxhp": 246,
+      "stats": {
+        "atk": 152,
+        "def": 137,
+        "spa": 215,
+        "spd": 198,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Scyther||HeavyDutyBoots|Technician|defog,dualwingbeat,closecombat,uturn||85,85,85,85,85,85|F|||82|,,,,,Fighting]Hitmonlee||ChoiceBand|Reckless|stoneedge,machpunch,knockoff,highjumpkick||81,85,85,85,85,85|M|||85|,,,,,Fighting]Darkrai||LifeOrb|BadDreams|sludgebomb,focusblast,nastyplot,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison]Quaquaval||LifeOrb|Moxie|closecombat,knockoff,aquastep,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Fighting]Florges|FlorgesWhite|Leftovers|FlowerVeil|terablast,synthesis,moonblast,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|psyshock,thunderbolt,grassknot,focusblast||85,,85,85,85,85|M|,0,,,,||87|,,,,,Grass",
   "ai": "Revavroom||LifeOrb|Filter|gunkshot,shiftgear,ironhead,highhorsepower||85,85,85,85,85,85|F|||79|,,,,,Ground]Kricketune||HeavyDutyBoots|Technician|taunt,pounce,stickyweb,knockoff||85,85,85,85,85,85|F|||99|,,,,,Ghost]Blissey||Leftovers|NaturalCure|softboiled,thunderwave,seismictoss,stealthrock||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ghost]Quagsire||Leftovers|Unaware|spikes,recover,earthquake,toxic||85,85,85,85,85,85|F|||84|,,,,,Poison]Arceus|ArceusGrass|MeadowPlate|Multitype|calmmind,icebeam,judgment,earthpower||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Ceruledge||HeavyDutyBoots|WeakArmor|shadowsneak,swordsdance,bitterblade,poltergeist||85,85,85,85,85,85|F|||78|,,,,,Fire",
   "curation": {

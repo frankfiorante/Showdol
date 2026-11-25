@@ -4,6 +4,7 @@ import {useEffect, useRef, useState, type ReactNode} from 'react';
 import type {BattleResult, BattleView, MoveOption, PokemonView, SideView} from '@/engine/view';
 import {STATUS_LABELS, TYPE_COLORS, boostLabel, hpColor, hpPercent, typeStyle} from './format';
 import {Sprite} from './Sprite';
+import {WithPokemonTip} from './PokemonTip';
 import {ShareButton} from './ShareButton';
 import {shareText} from '@/game/share';
 
@@ -88,14 +89,22 @@ function Stage({view}: {view: BattleView}) {
       <div className="stage-row foe-row">
         <InfoBox side={view.foe} foe />
         <div className="platform">
-          {foe && <Sprite key={`foe-${foe.name}-${foe.species}`} species={foe.species} size={96} type={foe.types[0]}
-            hp={foe.hp} className="enter-foe" />}
+          {foe && (
+            <WithPokemonTip p={foe} foe tapToggle tabIndex={0} role="button" aria-label={`Details: opposing ${foe.species}`}>
+              <Sprite key={`foe-${foe.name}-${foe.species}`} species={foe.species} size={96} type={foe.types[0]}
+                hp={foe.hp} className="enter-foe" />
+            </WithPokemonTip>
+          )}
         </div>
       </div>
       <div className="stage-row me-row">
         <div className="platform">
-          {me && <Sprite key={`me-${me.name}-${me.species}`} species={me.species} size={112} back type={me.types[0]}
-            hp={me.hp} className="enter-me" />}
+          {me && (
+            <WithPokemonTip p={me} tapToggle tabIndex={0} role="button" aria-label={`Details: your ${me.species}`}>
+              <Sprite key={`me-${me.name}-${me.species}`} species={me.species} size={112} back type={me.types[0]}
+                hp={me.hp} className="enter-me" />
+            </WithPokemonTip>
+          )}
         </div>
         <InfoBox side={view.me} />
       </div>
@@ -209,19 +218,21 @@ function Controls({view, pending, notice, onChoose, onForfeit}: {
           const slot = switchable.get(p.teamIndex!);
           const pct = hpPercent(p.hp, p.maxhp);
           return (
-            <button key={p.teamIndex} className={`switch ${p.active ? 'is-active' : ''} ${p.fainted ? 'is-fainted' : ''}`}
-              disabled={disabled || slot === undefined} onClick={() => slot && onChoose(`switch ${slot}`)}
-              aria-label={`Switch to ${p.species}, ${p.fainted ? 'fainted' : `${Math.ceil(pct)}% HP`}`}>
-              <Sprite species={p.species} size={40} type={p.types[0]} />
-              <span className="switch-text">
-                <span className="switch-name">{p.species}</span>
-                <span className="switch-hp">
-                  {p.fainted ? 'Fainted' : `${Math.ceil(pct)}%`}
-                  {p.status && !p.fainted ? ` · ${STATUS_LABELS[p.status] ?? p.status}` : ''}
+            <WithPokemonTip key={p.teamIndex} p={p}>
+              <button className={`switch ${p.active ? 'is-active' : ''} ${p.fainted ? 'is-fainted' : ''}`}
+                disabled={disabled || slot === undefined} onClick={() => slot && onChoose(`switch ${slot}`)}
+                aria-label={`Switch to ${p.species}, ${p.fainted ? 'fainted' : `${Math.ceil(pct)}% HP`}`}>
+                <Sprite species={p.species} size={40} type={p.types[0]} />
+                <span className="switch-text">
+                  <span className="switch-name">{p.species}</span>
+                  <span className="switch-hp">
+                    {p.fainted ? 'Fainted' : `${Math.ceil(pct)}%`}
+                    {p.status && !p.fainted ? ` · ${STATUS_LABELS[p.status] ?? p.status}` : ''}
+                  </span>
                 </span>
-              </span>
-              <span className="mini-hp" style={{width: `${pct}%`, background: hpColor(pct)}} />
-            </button>
+                <span className="mini-hp" style={{width: `${pct}%`, background: hpColor(pct)}} />
+              </button>
+            </WithPokemonTip>
           );
         })}
       </div>

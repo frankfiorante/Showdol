@@ -19,6 +19,250 @@
     "Illumise",
     "Heracross"
   ],
+  "playerSets": [
+    {
+      "species": "Stonjourner",
+      "level": 91,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Power Spot",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 330,
+      "stats": {
+        "atk": 279,
+        "def": 298,
+        "spa": 88,
+        "spd": 88,
+        "spe": 179
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Rock Polish",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Banette",
+      "level": 93,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Cursed Body",
+      "item": "Life Orb",
+      "teraType": "Ghost",
+      "maxhp": 270,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 207,
+        "spd": 170,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Iron Boulder",
+      "level": 77,
+      "types": [
+        "Rock",
+        "Psychic"
+      ],
+      "ability": "Quark Drive",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 265,
+      "stats": {
+        "atk": 229,
+        "def": 168,
+        "spa": 149,
+        "spd": 211,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Mighty Cleave",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Ursaring",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Guts",
+      "item": "Eviolite",
+      "teraType": "Ground",
+      "maxhp": 288,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 174,
+        "spd": 174,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Illumise",
+      "level": 91,
+      "types": [
+        "Bug"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 90,
+        "def": 188,
+        "spa": 185,
+        "spd": 207,
+        "spe": 207
+      },
+      "moves": [
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Heracross",
+      "level": 80,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Moxie",
+      "item": "Choice Scarf",
+      "teraType": "Bug",
+      "maxhp": 259,
+      "stats": {
+        "atk": 246,
+        "def": 166,
+        "spa": 110,
+        "spd": 198,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Stonjourner||LifeOrb|PowerSpot|stoneedge,heatcrash,earthquake,rockpolish||85,85,85,85,85,85|M|||91|,,,,,Ground]Banette||LifeOrb|CursedBody|gunkshot,poltergeist,thunderwave,shadowsneak||85,85,85,85,85,85|M|||93|,,,,,Ghost]Iron Boulder||LifeOrb|QuarkDrive|mightycleave,swordsdance,zenheadbutt,closecombat||85,85,85,85,85,85|N|||77|,,,,,Fighting]Ursaring||Eviolite|Guts|rest,sleeptalk,bodyslam,earthquake||85,85,85,85,85,85|F|||84|,,,,,Ground]Illumise||HeavyDutyBoots|Prankster|bugbuzz,thunderwave,encore,roost||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Heracross||ChoiceScarf|Moxie|knockoff,closecombat,stoneedge,megahorn||85,85,85,85,85,85|M|||80|,,,,,Bug",
   "ai": "Swanna||HeavyDutyBoots|Hydration|bravebird,roost,defog,hydropump||85,85,85,85,85,85|M|||89|,,,,,Ground]Chi-Yu||ChoiceSpecs|BeadsofRuin|overheat,psychic,darkpulse,flamethrower||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fire]Deoxys||LifeOrb|Pressure|psychoboost,extremespeed,superpower,knockoff||85,85,85,85,85,85|N|||74|,,,,,Dark]Wugtrio||ChoiceBand|Gooey|throatchop,aquajet,liquidation,stompingtantrum||85,85,85,85,85,85|M|||91|,,,,,Ground]Virizion||LifeOrb|Justified|stoneedge,closecombat,leafblade,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock]Regigigas||Leftovers|SlowStart|protect,knockoff,bodyslam,substitute||85,85,85,85,85,85|N|||84|,,,,,Ghost",
   "curation": {

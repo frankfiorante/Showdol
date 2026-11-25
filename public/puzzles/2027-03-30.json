@@ -19,6 +19,252 @@
     "Snorlax",
     "Mandibuzz"
   ],
+  "playerSets": [
+    {
+      "species": "Lapras",
+      "level": 87,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Water Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 368,
+      "stats": {
+        "atk": 152,
+        "def": 189,
+        "spa": 198,
+        "spd": 215,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Sparkling Aria",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lanturn",
+      "level": 89,
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 367,
+      "stats": {
+        "atk": 108,
+        "def": 154,
+        "spa": 186,
+        "spd": 186,
+        "spe": 170
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Gardevoir",
+      "level": 83,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "ability": "Trace",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 249,
+      "stats": {
+        "atk": 112,
+        "def": 156,
+        "spa": 255,
+        "spd": 239,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Misdreavus",
+      "level": 90,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Levitate",
+      "item": "Eviolite",
+      "teraType": "Fairy",
+      "maxhp": 254,
+      "stats": {
+        "atk": 113,
+        "def": 159,
+        "spa": 204,
+        "spd": 204,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Snorlax",
+      "level": 82,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Thick Fat",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 397,
+      "stats": {
+        "atk": 228,
+        "def": 154,
+        "spa": 154,
+        "spd": 228,
+        "spe": 96
+      },
+      "moves": [
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mandibuzz",
+      "level": 85,
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "ability": "Overcoat",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 326,
+      "stats": {
+        "atk": 159,
+        "def": 227,
+        "spa": 142,
+        "spd": 210,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Lapras||HeavyDutyBoots|WaterAbsorb|sleeptalk,sparklingaria,rest,freezedry||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ghost]Lanturn||HeavyDutyBoots|VoltAbsorb|voltswitch,thunderbolt,thunderwave,scald||85,,85,85,85,85|F|,0,,,,||89|,,,,,Flying]Gardevoir||LifeOrb|Trace|psyshock,focusblast,moonblast,calmmind||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fairy]Misdreavus||Eviolite|Levitate|calmmind,drainingkiss,willowisp,shadowball||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Snorlax||Leftovers|ThickFat|rest,sleeptalk,bodyslam,curse||85,85,85,85,85,85|F|||82|,,,,,Fairy]Mandibuzz||HeavyDutyBoots|Overcoat|roost,knockoff,bravebird,toxic||85,85,85,85,85,85|F|||85|,,,,,Steel",
   "ai": "Hydrapple||ChoiceSpecs|Regenerator|ficklebeam,earthpower,dracometeor,leafstorm||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel]Grafaiai||AssaultVest|PoisonTouch|gunkshot,superfang,knockoff,uturn||85,85,85,85,85,85|M|||86|,,,,,Dark]Politoed||ChoiceSpecs|Drizzle|hydropump,icebeam,focusblast,weatherball||85,,85,85,85,85|F|,0,,,,||88|,,,,,Water]Porygon2||Eviolite|Download|icebeam,discharge,recover,triattack||85,,85,85,85,85|N|,0,,,,||81|,,,,,Poison]Minun||LifeOrb|VoltAbsorb|grassknot,nastyplot,thunderbolt,alluringvoice||85,,85,85,85,85|M|,0,,,,||95|,,,,,Grass]Whimsicott||Leftovers|Prankster|encore,substitute,leechseed,moonblast||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel",
   "curation": {

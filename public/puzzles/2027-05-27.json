@@ -19,6 +19,252 @@
     "Stonjourner",
     "Greninja-Bond"
   ],
+  "playerSets": [
+    {
+      "species": "Diancie",
+      "level": 82,
+      "types": [
+        "Rock",
+        "Fairy"
+      ],
+      "ability": "Clear Body",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 216,
+      "stats": {
+        "atk": 211,
+        "def": 293,
+        "spa": 211,
+        "spd": 293,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Diamond Storm",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Chimecho",
+      "level": 93,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 290,
+      "stats": {
+        "atk": 98,
+        "def": 202,
+        "spa": 230,
+        "spd": 220,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Rotom-Frost",
+      "level": 87,
+      "types": [
+        "Electric",
+        "Ice"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 229,
+      "stats": {
+        "atk": 118,
+        "def": 236,
+        "spa": 232,
+        "spd": 236,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Volcarona",
+      "level": 77,
+      "types": [
+        "Bug",
+        "Fire"
+      ],
+      "ability": "Swarm",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 257,
+      "stats": {
+        "atk": 97,
+        "def": 145,
+        "spa": 252,
+        "spd": 206,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Stonjourner",
+      "level": 91,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Power Spot",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 330,
+      "stats": {
+        "atk": 279,
+        "def": 298,
+        "spa": 88,
+        "spd": 88,
+        "spe": 179
+      },
+      "moves": [
+        {
+          "name": "Rock Polish",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Heat Crash",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Greninja-Bond",
+      "level": 80,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Battle Bond",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 246,
+      "stats": {
+        "atk": 198,
+        "def": 153,
+        "spa": 211,
+        "spd": 160,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Diancie||Leftovers|ClearBody|stealthrock,diamondstorm,bodypress,moonblast||85,85,85,85,85,85|N|||82|,,,,,Fighting]Chimecho||Leftovers|Levitate|calmmind,recover,psyshock,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||93|,,,,,Fairy]Rotom|RotomFrost|HeavyDutyBoots|Levitate|willowisp,thunderbolt,blizzard,nastyplot||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric]Volcarona||HeavyDutyBoots|Swarm|fireblast,quiverdance,bugbuzz,gigadrain||85,,85,85,85,85|M|,0,,,,||77|,,,,,Grass]Stonjourner||LifeOrb|PowerSpot|rockpolish,heatcrash,stoneedge,earthquake||85,85,85,85,85,85|M|||91|,,,,,Fire]Greninja|GreninjaBond|LifeOrb|BattleBond|gunkshot,hydropump,darkpulse,icebeam||85,85,85,85,85,85|M|||80|,,,,,Poison",
   "ai": "Florges||Leftovers|FlowerVeil|synthesis,terablast,moonblast,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground]Scream Tail||Leftovers|Protosynthesis|encore,playrough,protect,wish||85,85,85,85,85,85|N|||84|,,,,,Poison]Poliwrath||Leftovers|WaterAbsorb|bulkup,drainpunch,liquidation,icepunch||85,85,85,85,85,85|M|||88|,,,,,Steel]Arcanine|ArcanineHisui|ChoiceBand|RockHead|flareblitz,headsmash,extremespeed,wildcharge||81,85,85,85,85,85|F|||79|,,,,,Normal]Piloswine||Eviolite|ThickFat|earthquake,iciclecrash,roar,stealthrock||85,85,85,85,85,85|F|||85|,,,,,Poison]Mienshao||LifeOrb|Regenerator|poisonjab,knockoff,closecombat,swordsdance||85,85,85,85,85,85|M|||83|,,,,,Fighting",
   "curation": {

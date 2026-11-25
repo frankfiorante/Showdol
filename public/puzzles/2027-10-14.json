@@ -19,6 +19,250 @@
     "Chandelure",
     "Hippowdon"
   ],
+  "playerSets": [
+    {
+      "species": "Terrakion",
+      "level": 79,
+      "types": [
+        "Rock",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 273,
+      "stats": {
+        "atk": 249,
+        "def": 188,
+        "spa": 159,
+        "spd": 188,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Arceus",
+      "level": 68,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Multitype",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 276,
+      "stats": {
+        "atk": 203,
+        "def": 203,
+        "spa": 203,
+        "spd": 203,
+        "spe": 203
+      },
+      "moves": [
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Claw",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Komala",
+      "level": 87,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Comatose",
+      "item": "Assault Vest",
+      "teraType": "Ghost",
+      "maxhp": 255,
+      "stats": {
+        "atk": 250,
+        "def": 163,
+        "spa": 180,
+        "spd": 215,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    },
+    {
+      "species": "Alomomola",
+      "level": 87,
+      "types": [
+        "Water"
+      ],
+      "ability": "Regenerator",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 429,
+      "stats": {
+        "atk": 180,
+        "def": 189,
+        "spa": 119,
+        "spd": 128,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Chandelure",
+      "level": 83,
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "ability": "Flash Fire",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 235,
+      "stats": {
+        "atk": 96,
+        "def": 197,
+        "spa": 288,
+        "spd": 197,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Hippowdon",
+      "level": 82,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sand Stream",
+      "item": "Leftovers",
+      "teraType": "Rock",
+      "maxhp": 311,
+      "stats": {
+        "atk": 231,
+        "def": 241,
+        "spa": 159,
+        "spd": 165,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Terrakion||LifeOrb|Justified|earthquake,stoneedge,swordsdance,closecombat||85,85,85,85,85,85|N|||79|,,,,,Ground]Arceus||Leftovers|Multitype|extremespeed,swordsdance,shadowclaw,recover||85,85,85,85,85,85|N|||68|,,,,,Ghost]Komala||AssaultVest|Comatose|bodyslam,knockoff,uturn,rapidspin||85,85,85,85,85,85|F|||87|,,,,,Ghost]Alomomola||HeavyDutyBoots|Regenerator|flipturn,scald,protect,wish||85,85,85,85,85,85|M|||87|,,,,,Steel]Chandelure||Leftovers|FlashFire|calmmind,shadowball,substitute,fireblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Hippowdon||Leftovers|SandStream|slackoff,earthquake,curse,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Rock",
   "ai": "Cacturne||LifeOrb|WaterAbsorb|knockoff,leafstorm,toxicspikes,suckerpunch||85,85,85,85,85,85|F|||92|,,,,,Poison]Wigglytuff||Leftovers|Competitive|protect,fireblast,dazzlinggleam,wish||85,,85,85,85,85|F|,0,,,,||96|,,,,,Poison]Scizor||Leftovers|Technician|defog,knockoff,bulletpunch,closecombat||85,85,85,85,85,85|M|||79|,,,,,Dragon]Gliscor||ToxicOrb|PoisonHeal|toxic,earthquake,knockoff,protect||85,85,85,85,85,85|M|||76|,,,,,Water]Staraptor||ChoiceBand|Reckless|closecombat,bravebird,uturn,quickattack||81,85,85,85,85,85|F|||79|,,,,,Fighting]Volcarona||HeavyDutyBoots|Swarm|bugbuzz,gigadrain,fireblast,quiverdance||85,,85,85,85,85|M|,0,,,,||77|,,,,,Fire",
   "curation": {

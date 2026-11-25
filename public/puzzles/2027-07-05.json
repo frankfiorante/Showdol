@@ -19,6 +19,250 @@
     "Perrserker",
     "Chesnaught"
   ],
+  "playerSets": [
+    {
+      "species": "Dudunsparce-Three-Segment",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Rattled",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 343,
+      "stats": {
+        "atk": 214,
+        "def": 180,
+        "spa": 189,
+        "spd": 172,
+        "spe": 139
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Boomburst",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Phione",
+      "level": 91,
+      "types": [
+        "Water"
+      ],
+      "ability": "Hydration",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 293,
+      "stats": {
+        "atk": 150,
+        "def": 197,
+        "spa": 197,
+        "spd": 197,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Take Heart",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Diancie",
+      "level": 82,
+      "types": [
+        "Rock",
+        "Fairy"
+      ],
+      "ability": "Clear Body",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 216,
+      "stats": {
+        "atk": 211,
+        "def": 293,
+        "spa": 211,
+        "spd": 293,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Diamond Storm",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Arceus-Rock",
+      "level": 74,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Multitype",
+      "item": "Stone Plate",
+      "teraType": "Ground",
+      "maxhp": 300,
+      "stats": {
+        "atk": 221,
+        "def": 221,
+        "spa": 221,
+        "spd": 221,
+        "spe": 221
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Perrserker",
+      "level": 89,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Tough Claws",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 247,
+        "def": 229,
+        "spa": 140,
+        "spd": 158,
+        "spe": 140
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Chesnaught",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Bulletproof",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 285,
+      "stats": {
+        "atk": 228,
+        "def": 253,
+        "spa": 173,
+        "spd": 174,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Dudunsparce|DudunsparceThreeSegment|Leftovers|Rattled|earthquake,roost,toxic,boomburst||85,85,85,85,85,85|M|||83|,,,,,Ghost]Phione||Leftovers|Hydration|grassknot,takeheart,icebeam,scald||85,,85,85,85,85|N|,0,,,,||91|,,,,,Steel]Diancie||Leftovers|ClearBody|calmmind,diamondstorm,earthpower,drainingkiss||85,85,85,85,85,85|N|||82|,,,,,Water]Arceus|ArceusRock|StonePlate|Multitype|swordsdance,stoneedge,recover,earthquake||85,85,85,85,85,85|N|||74|,,,,,Ground]Perrserker||LifeOrb|ToughClaws|closecombat,uturn,ironhead,stealthrock||85,85,85,85,85,85|F|||89|,,,,,Fighting]Chesnaught||Leftovers|Bulletproof|trailblaze,bodypress,irondefense,synthesis||85,85,85,85,85,85|F|||84|,,,,,Steel",
   "ai": "Forretress||Leftovers|Sturdy|stealthrock,ironhead,rapidspin,voltswitch||85,85,85,85,85,85|F|||84|,,,,,Water]Talonflame||HeavyDutyBoots|GaleWings|swordsdance,bravebird,terablast,flareblitz||85,85,85,85,85,85|M|||83|,,,,,Ground]Falinks||LifeOrb|Defiant|ironhead,noretreat,knockoff,closecombat||85,85,85,85,85,85|N|||84|,,,,,Steel]Torkoal||HeavyDutyBoots|Drought|yawn,earthquake,lavaplume,solarbeam||85,85,85,85,85,85|F|||88|,,,,,Grass]Pecharunt||Leftovers|PoisonPuppeteer|shadowball,malignantchain,recover,nastyplot||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Gogoat||Leftovers|SapSipper|bulkup,milkdrink,earthquake,hornleech||85,85,85,85,85,85|F|||88|,,,,,Water",
   "curation": {

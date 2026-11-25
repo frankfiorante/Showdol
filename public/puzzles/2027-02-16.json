@@ -19,6 +19,251 @@
     "Seviper",
     "Ting-Lu"
   ],
+  "playerSets": [
+    {
+      "species": "Malamar",
+      "level": 82,
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "ability": "Contrary",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 275,
+      "stats": {
+        "atk": 198,
+        "def": 191,
+        "spa": 159,
+        "spd": 170,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Haxorus",
+      "level": 78,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Lum Berry",
+      "teraType": "Steel",
+      "maxhp": 247,
+      "stats": {
+        "atk": 274,
+        "def": 185,
+        "spa": 139,
+        "spd": 154,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Quagsire",
+      "level": 84,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Unaware",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 297,
+      "stats": {
+        "atk": 191,
+        "def": 191,
+        "spa": 157,
+        "spd": 157,
+        "spe": 107
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Shaymin",
+      "level": 82,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Natural Cure",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 298,
+      "stats": {
+        "atk": 169,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Seed Flare",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Seviper",
+      "level": 93,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 287,
+      "stats": {
+        "atk": 239,
+        "def": 164,
+        "spa": 239,
+        "spd": 164,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ting-Lu",
+      "level": 78,
+      "types": [
+        "Dark",
+        "Ground"
+      ],
+      "ability": "Vessel of Ruin",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 370,
+      "stats": {
+        "atk": 217,
+        "def": 240,
+        "spa": 131,
+        "spd": 170,
+        "spe": 115
+      },
+      "moves": [
+        {
+          "name": "Ruination",
+          "type": "Dark",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Payback",
+          "type": "Dark",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Malamar||Leftovers|Contrary|superpower,sleeptalk,knockoff,rest||85,85,85,85,85,85|M|||82|,,,,,Steel]Haxorus||LumBerry|MoldBreaker|earthquake,outrage,ironhead,dragondance||85,85,85,85,85,85|M|||78|,,,,,Steel]Quagsire||Leftovers|Unaware|earthquake,icebeam,toxic,recover||85,85,85,85,85,85|F|||84|,,,,,Steel]Shaymin||Leftovers|NaturalCure|synthesis,earthpower,seedflare,airslash||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Seviper||Leftovers|ShedSkin|gunkshot,trailblaze,swordsdance,earthquake||85,85,85,85,85,85|F|||93|,,,,,Grass]Ting-Lu||Leftovers|VesselofRuin|ruination,spikes,payback,earthquake||85,85,85,85,85,85|N|||78|,,,,,Poison",
   "ai": "Dewgong||HeavyDutyBoots|ThickFat|flipturn,hydropump,encore,icebeam||85,85,85,85,85,85|F|||94|,,,,,Grass]Altaria||HeavyDutyBoots|NaturalCure|bravebird,dragondance,roost,earthquake||85,85,85,85,85,85|M|||89|,,,,,Ground]Lycanroc|LycanrocMidnight|LifeOrb|NoGuard|playrough,stoneedge,closecombat,swordsdance||85,85,85,85,85,85|M|||88|,,,,,Fighting]Klefki||Leftovers|Prankster|magnetrise,thunderwave,playrough,spikes||85,85,85,85,85,85|M|||84|,,,,,Water]Swanna||HeavyDutyBoots|Hydration|hydropump,roost,defog,bravebird||85,85,85,85,85,85|F|||89|,,,,,Ground]Vileplume||Leftovers|EffectSpore|strengthsap,sleeppowder,sludgebomb,gigadrain||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
   "curation": {

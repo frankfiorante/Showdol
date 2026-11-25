@@ -19,6 +19,252 @@
     "Azumarill",
     "Seviper"
   ],
+  "playerSets": [
+    {
+      "species": "Arbok",
+      "level": 87,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 246,
+      "stats": {
+        "atk": 215,
+        "def": 170,
+        "spa": 163,
+        "spd": 187,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Frosmoth",
+      "level": 82,
+      "types": [
+        "Ice",
+        "Bug"
+      ],
+      "ability": "Ice Scales",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 146,
+        "spa": 252,
+        "spd": 195,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Archaludon",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Stamina",
+      "item": "Lum Berry",
+      "teraType": "Ground",
+      "maxhp": 265,
+      "stats": {
+        "atk": 206,
+        "def": 245,
+        "spa": 237,
+        "spd": 145,
+        "spe": 175
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Lokix",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Dark"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Silver Powder",
+      "teraType": "Bug",
+      "maxhp": 251,
+      "stats": {
+        "atk": 214,
+        "def": 175,
+        "spa": 132,
+        "spd": 137,
+        "spe": 198
+      },
+      "moves": [
+        {
+          "name": "First Impression",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Azumarill",
+      "level": 82,
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "ability": "Huge Power",
+      "item": "Sitrus Berry",
+      "teraType": "Water",
+      "maxhp": 298,
+      "stats": {
+        "atk": 129,
+        "def": 178,
+        "spa": 146,
+        "spd": 178,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Belly Drum",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Seviper",
+      "level": 93,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Infiltrator",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 287,
+      "stats": {
+        "atk": 239,
+        "def": 164,
+        "spa": 239,
+        "spd": 164,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Arbok||Leftovers|Intimidate|gunkshot,trailblaze,earthquake,coil||85,85,85,85,85,85|F|||87|,,,,,Grass]Frosmoth||HeavyDutyBoots|IceScales|hurricane,bugbuzz,quiverdance,icebeam||85,,85,85,85,85|F|,0,,,,||82|,,,,,Water]Archaludon||LumBerry|Stamina|swordsdance,earthquake,outrage,ironhead||85,85,85,85,85,85|M|||77|,,,,,Ground]Lokix||SilverPowder|TintedLens|firstimpression,suckerpunch,knockoff,uturn||85,85,85,85,85,85|M|||82|,,,,,Bug]Azumarill||SitrusBerry|HugePower|bellydrum,playrough,aquajet,liquidation||85,85,85,85,85,85|M|||82|,,,,,Water]Seviper||LifeOrb|Infiltrator|gigadrain,gunkshot,earthquake,knockoff||85,85,85,85,85,85|F|||93|,,,,,Ground",
   "ai": "Hatterene||Leftovers|MagicBounce|drainingkiss,psychic,calmmind,mysticalfire||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Houndstone||AssaultVest|Fluffy|poltergeist,bodypress,shadowsneak,playrough||85,85,85,85,85,85|M|||86|,,,,,Fighting]Tauros|TaurosPaldeaBlaze|ChoiceBand|Intimidate|closecombat,stoneedge,flareblitz,wildcharge||85,85,85,85,85,85|M|||81|,,,,,Fighting]Gurdurr||Eviolite|Guts|knockoff,machpunch,drainpunch,defog||85,85,85,85,85,85|F|||85|,,,,,Steel]Chi-Yu||ChoiceScarf|BeadsofRuin|flamethrower,overheat,psychic,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Mismagius||ChoiceSpecs|Levitate|shadowball,trick,thunderbolt,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||86|,,,,,Fairy",
   "curation": {

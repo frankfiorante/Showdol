@@ -19,6 +19,253 @@
     "Scream Tail",
     "Jirachi"
   ],
+  "playerSets": [
+    {
+      "species": "Whimsicott",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Poison",
+      "maxhp": 238,
+      "stats": {
+        "atk": 161,
+        "def": 191,
+        "spa": 178,
+        "spd": 174,
+        "spe": 243
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Arboliva",
+      "level": 91,
+      "types": [
+        "Grass",
+        "Normal"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Water",
+      "maxhp": 288,
+      "stats": {
+        "atk": 130,
+        "def": 216,
+        "spa": 279,
+        "spd": 250,
+        "spe": 123
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Samurott",
+      "level": 88,
+      "types": [
+        "Water"
+      ],
+      "ability": "Torrent",
+      "item": "Assault Vest",
+      "teraType": "Grass",
+      "maxhp": 310,
+      "stats": {
+        "atk": 226,
+        "def": 200,
+        "spa": 240,
+        "spd": 173,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Cramorant",
+      "level": 86,
+      "types": [
+        "Flying",
+        "Water"
+      ],
+      "ability": "Gulp Missile",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 261,
+      "stats": {
+        "atk": 195,
+        "def": 144,
+        "spa": 195,
+        "spd": 213,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Scream Tail",
+      "level": 84,
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 330,
+      "stats": {
+        "atk": 157,
+        "def": 215,
+        "spa": 157,
+        "spd": 241,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Jirachi",
+      "level": 80,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Choice Scarf",
+      "teraType": "Water",
+      "maxhp": 291,
+      "stats": {
+        "atk": 206,
+        "def": 206,
+        "spa": 206,
+        "spd": 206,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Healing Wish",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Whimsicott||HeavyDutyBoots|Prankster|uturn,encore,moonblast,gigadrain||85,85,85,85,85,85|F|||84|,,,,,Poison]Arboliva||SitrusBerry|Harvest|substitute,hypervoice,protect,leechseed||77,,85,85,85,85|M|,0,,,,||91|,,,,,Water]Samurott||AssaultVest|Torrent|knockoff,hydropump,megahorn,grassknot||85,85,85,85,85,85|M|||88|,,,,,Grass]Cramorant||HeavyDutyBoots|GulpMissile|surf,defog,roost,bravebird||85,85,85,85,85,85|F|||86|,,,,,Ground]Scream Tail||Leftovers|Protosynthesis|protect,playrough,encore,wish||85,85,85,85,85,85|N|||84|,,,,,Steel]Jirachi||ChoiceScarf|SereneGrace|uturn,healingwish,psychic,ironhead||85,85,85,85,85,85|N|||80|,,,,,Water",
   "ai": "Iron Moth||HeavyDutyBoots|QuarkDrive|sludgewave,toxicspikes,fierydance,uturn||85,85,85,85,85,85|N|||78|,,,,,Fire]Ampharos||AssaultVest|Static|dazzlinggleam,voltswitch,focusblast,discharge||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fairy]Pyroar||HeavyDutyBoots|Unnerve|fireblast,willowisp,taunt,hypervoice||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fire]Milotic||Leftovers|Competitive|recover,haze,scald,icebeam||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel]Sableye||Leftovers|Prankster|thunderwave,encore,recover,knockoff||85,85,85,85,85,85|M|||87|,,,,,Steel]Azumarill||ChoiceBand|HugePower|aquajet,playrough,liquidation,icespinner||85,85,85,85,85,85|F|||82|,,,,,Water",
   "curation": {

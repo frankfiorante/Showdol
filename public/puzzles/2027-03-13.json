@@ -19,6 +19,253 @@
     "Calyrex-Ice",
     "Slowking"
   ],
+  "playerSets": [
+    {
+      "species": "Koraidon",
+      "level": 64,
+      "types": [
+        "Fighting",
+        "Dragon"
+      ],
+      "ability": "Orichalcum Pulse",
+      "item": "Choice Band",
+      "teraType": "Fire",
+      "maxhp": 235,
+      "stats": {
+        "atk": 211,
+        "def": 185,
+        "spa": 147,
+        "spd": 166,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Gholdengo",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "ability": "Good as Gold",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 261,
+      "stats": {
+        "atk": 97,
+        "def": 191,
+        "spa": 249,
+        "spd": 185,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Make It Rain",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Dedenne",
+      "level": 88,
+      "types": [
+        "Electric",
+        "Fairy"
+      ],
+      "ability": "Cheek Pouch",
+      "item": "Sitrus Berry",
+      "teraType": "Flying",
+      "maxhp": 261,
+      "stats": {
+        "atk": 152,
+        "def": 151,
+        "spa": 193,
+        "spd": 168,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Nuzzle",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Florges-Yellow",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Flower Veil",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 271,
+      "stats": {
+        "atk": 115,
+        "def": 164,
+        "spa": 239,
+        "spd": 311,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Calyrex-Ice",
+      "level": 72,
+      "types": [
+        "Psychic",
+        "Ice"
+      ],
+      "ability": "As One (Glastrier)",
+      "item": "Weakness Policy",
+      "teraType": "Fighting",
+      "maxhp": 263,
+      "stats": {
+        "atk": 280,
+        "def": 258,
+        "spa": 164,
+        "spd": 229,
+        "spe": 114
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Glacial Lance",
+          "type": "Ice",
+          "pp": 8
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Slowking",
+      "level": 88,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Regenerator",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 310,
+      "stats": {
+        "atk": 137,
+        "def": 191,
+        "spa": 226,
+        "spd": 244,
+        "spe": 103
+      },
+      "moves": [
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Chilly Reception",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Future Sight",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Koraidon||ChoiceBand|OrichalcumPulse|uturn,flareblitz,closecombat,outrage||85,85,85,85,85,85|N|||64|,,,,,Fire]Gholdengo||Leftovers|GoodasGold|makeitrain,shadowball,recover,thunderwave||85,,85,85,85,85|N|,0,,,,||77|,,,,,Steel]Dedenne||SitrusBerry|CheekPouch|uturn,thunderbolt,dazzlinggleam,nuzzle||85,85,85,85,85,85|F|||88|,,,,,Flying]Florges|FlorgesYellow|Leftovers|FlowerVeil|moonblast,terablast,synthesis,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground]Calyrex|CalyrexIce|WeaknessPolicy|AsOneGlastrier|closecombat,glaciallance,highhorsepower,agility||85,85,85,85,85,85|N|||72|,,,,,Fighting]Slowking||HeavyDutyBoots|Regenerator|slackoff,chillyreception,futuresight,scald||85,,85,85,85,85|M|,0,,,,||88|,,,,,Dragon",
   "ai": "Walking Wake||ChoiceSpecs|Protosynthesis|dracometeor,flipturn,hydropump,flamethrower||85,85,85,85,85,85|N|||79|,,,,,Water]Toucannon||HeavyDutyBoots|KeenEye|roost,knockoff,boomburst,beakblast||85,85,85,85,85,85|F|||88|,,,,,Steel]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,defog,hydropump||85,85,85,85,85,85|F|||89|,,,,,Ground]Chien-Pao||HeavyDutyBoots|SwordofRuin|iciclecrash,swordsdance,throatchop,iceshard||85,85,85,85,85,85|N|||72|,,,,,Dark]Raikou||ChoiceSpecs|Pressure|scald,shadowball,voltswitch,thunderbolt||85,,85,85,85,85|N|,0,,,,||82|,,,,,Electric]Alcremie|AlcremieRubyCream|Leftovers|AromaVeil|recover,terablast,calmmind,alluringvoice||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground",
   "curation": {

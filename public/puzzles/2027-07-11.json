@@ -19,6 +19,254 @@
     "Heracross",
     "Swampert"
   ],
+  "playerSets": [
+    {
+      "species": "Reshiram",
+      "level": 76,
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "ability": "Turboblaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 277,
+      "stats": {
+        "atk": 226,
+        "def": 196,
+        "spa": 272,
+        "spd": 226,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Oricorio-Pa'u",
+      "level": 87,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Dancer",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 272,
+      "stats": {
+        "atk": 126,
+        "def": 172,
+        "spa": 220,
+        "spd": 172,
+        "spe": 212
+      },
+      "moves": [
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Revelation Dance",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Bronzong",
+      "level": 88,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 261,
+      "stats": {
+        "atk": 207,
+        "def": 254,
+        "spa": 189,
+        "spd": 254,
+        "spe": 108
+      },
+      "moves": [
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Hypnosis",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lokix",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Dark"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Silver Powder",
+      "teraType": "Bug",
+      "maxhp": 251,
+      "stats": {
+        "atk": 214,
+        "def": 175,
+        "spa": 132,
+        "spd": 137,
+        "spe": 198
+      },
+      "moves": [
+        {
+          "name": "First Impression",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Heracross",
+      "level": 80,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Guts",
+      "item": "Flame Orb",
+      "teraType": "Normal",
+      "maxhp": 259,
+      "stats": {
+        "atk": 246,
+        "def": 166,
+        "spa": 110,
+        "spd": 198,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Swampert",
+      "level": 82,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Torrent",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 298,
+      "stats": {
+        "atk": 228,
+        "def": 195,
+        "spa": 187,
+        "spd": 195,
+        "spe": 146
+      },
+      "moves": [
+        {
+          "name": "Roar",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Reshiram||HeavyDutyBoots|Turboblaze|outrage,dragondance,flareblitz,stoneedge||85,85,85,85,85,85|N|||76|,,,,,Fire]Oricorio|OricorioPau|HeavyDutyBoots|Dancer|hurricane,revelationdance,roost,quiverdance||85,,85,85,85,85|F|,0,,,,||87|,,,,,Ground]Bronzong||Leftovers|Levitate|psychic,ironhead,stealthrock,hypnosis||85,85,85,85,85,85|N|||88|,,,,,Water]Lokix||SilverPowder|TintedLens|firstimpression,suckerpunch,uturn,knockoff||85,85,85,85,85,85|M|||82|,,,,,Bug]Heracross||FlameOrb|Guts|closecombat,trailblaze,knockoff,facade||85,85,85,85,85,85|M|||80|,,,,,Normal]Swampert||Leftovers|Torrent|roar,flipturn,knockoff,earthquake||85,85,85,85,85,85|M|||82|,,,,,Steel",
   "ai": "Oricorio|OricorioPau|HeavyDutyBoots|Dancer|hurricane,roost,quiverdance,revelationdance||85,,85,85,85,85|M|,0,,,,||87|,,,,,Ground]Toxtricity||ThroatSpray|PunkRock|shiftgear,boomburst,gunkshot,overdrive||85,85,85,85,85,85|F|||82|,,,,,Normal]Hydrapple||ChoiceSpecs|Regenerator|leafstorm,earthpower,dracometeor,ficklebeam||85,,85,85,85,85|F|,0,,,,||83|,,,,,Dragon]Jirachi||Leftovers|SereneGrace|bodyslam,protect,wish,ironhead||85,85,85,85,85,85|N|||80|,,,,,Water]Mismagius||Leftovers|Levitate|thunderbolt,shadowball,nastyplot,substitute||85,,85,85,85,85|M|,0,,,,||86|,,,,,Electric]Garganacl||Leftovers|PurifyingSalt|bodypress,recover,saltcure,irondefense||85,85,85,85,85,85|M|||80|,,,,,Dragon",
   "curation": {

@@ -19,6 +19,252 @@
     "Salamence",
     "Reshiram"
   ],
+  "playerSets": [
+    {
+      "species": "Sudowoodo",
+      "level": 94,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Rock Head",
+      "item": "Leftovers",
+      "teraType": "Rock",
+      "maxhp": 284,
+      "stats": {
+        "atk": 241,
+        "def": 270,
+        "spa": 110,
+        "spd": 176,
+        "spe": 110
+      },
+      "moves": [
+        {
+          "name": "Head Smash",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Hatterene",
+      "level": 85,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "ability": "Magic Bounce",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 236,
+      "stats": {
+        "atk": 158,
+        "def": 210,
+        "spa": 280,
+        "spd": 224,
+        "spe": 98
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Mystical Fire",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Grimmsnarl",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 293,
+      "stats": {
+        "atk": 247,
+        "def": 156,
+        "spa": 205,
+        "spd": 172,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Spirit Break",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Parting Shot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Misdreavus",
+      "level": 90,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Levitate",
+      "item": "Eviolite",
+      "teraType": "Fairy",
+      "maxhp": 254,
+      "stats": {
+        "atk": 113,
+        "def": 159,
+        "spa": 204,
+        "spd": 204,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Salamence",
+      "level": 77,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "ability": "Moxie",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 273,
+      "stats": {
+        "atk": 252,
+        "def": 168,
+        "spa": 214,
+        "spd": 168,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Dual Wingbeat",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Reshiram",
+      "level": 76,
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "ability": "Turboblaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 277,
+      "stats": {
+        "atk": 226,
+        "def": 196,
+        "spa": 272,
+        "spd": 226,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Sudowoodo||Leftovers|RockHead|headsmash,stealthrock,woodhammer,suckerpunch||85,85,85,85,85,85|F|||94|,,,,,Rock]Hatterene||Leftovers|MagicBounce|calmmind,drainingkiss,psychic,mysticalfire||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Grimmsnarl||Leftovers|Prankster|suckerpunch,spiritbreak,thunderwave,partingshot||85,85,85,85,85,85|M|||83|,,,,,Steel]Misdreavus||Eviolite|Levitate|shadowball,calmmind,willowisp,drainingkiss||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Salamence||HeavyDutyBoots|Moxie|earthquake,outrage,dragondance,dualwingbeat||85,85,85,85,85,85|F|||77|,,,,,Steel]Reshiram||HeavyDutyBoots|Turboblaze|dragondance,stoneedge,outrage,flareblitz||85,85,85,85,85,85|N|||76|,,,,,Fire",
   "ai": "Qwilfish|QwilfishHisui|Eviolite|Intimidate|taunt,gunkshot,spikes,crunch||85,85,85,85,85,85|M|||83|,,,,,Poison]Iron Thorns||BoosterEnergy|QuarkDrive|wildcharge,dragondance,stoneedge,earthquake||85,85,85,85,85,85|N|||81|,,,,,Flying]Rhydon||Eviolite|LightningRod|swordsdance,megahorn,stoneedge,earthquake||85,85,85,85,85,85|M|||85|,,,,,Water]Oranguru||Leftovers|InnerFocus|nastyplot,focusblast,psyshock,thunderbolt||85,,85,85,85,85|M|,0,,,,||92|,,,,,Psychic]Spiritomb||ChoiceBand|Infiltrator|poltergeist,suckerpunch,shadowsneak,foulplay||85,85,85,85,85,85|M|||89|,,,,,Poison]Alcremie|AlcremieRubyCream|Leftovers|AromaVeil|alluringvoice,terablast,recover,calmmind||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground",
   "curation": {

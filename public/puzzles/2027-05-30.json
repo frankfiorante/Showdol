@@ -19,6 +19,252 @@
     "Sandaconda",
     "Serperior"
   ],
+  "playerSets": [
+    {
+      "species": "Araquanid",
+      "level": 82,
+      "types": [
+        "Water",
+        "Bug"
+      ],
+      "ability": "Water Bubble",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 246,
+      "stats": {
+        "atk": 162,
+        "def": 198,
+        "spa": 129,
+        "spd": 264,
+        "spe": 116
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Urshifu",
+      "level": 74,
+      "types": [
+        "Fighting",
+        "Dark"
+      ],
+      "ability": "Unseen Fist",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 270,
+      "stats": {
+        "atk": 235,
+        "def": 191,
+        "spa": 136,
+        "spd": 132,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Wicked Blow",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Duraludon",
+      "level": 82,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Light Metal",
+      "item": "Eviolite",
+      "teraType": "Fighting",
+      "maxhp": 249,
+      "stats": {
+        "atk": 160,
+        "def": 236,
+        "spa": 244,
+        "spd": 129,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Drifblim",
+      "level": 86,
+      "types": [
+        "Ghost",
+        "Flying"
+      ],
+      "ability": "Unburden",
+      "item": "Sitrus Berry",
+      "teraType": "Dark",
+      "maxhp": 396,
+      "stats": {
+        "atk": 142,
+        "def": 125,
+        "spa": 204,
+        "spd": 142,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Sandaconda",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 258,
+      "stats": {
+        "atk": 228,
+        "def": 258,
+        "spa": 157,
+        "spd": 166,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Glare",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Serperior",
+      "level": 79,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Contrary",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 248,
+      "stats": {
+        "atk": 123,
+        "def": 196,
+        "spa": 164,
+        "spd": 196,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Araquanid||HeavyDutyBoots|WaterBubble|hydropump,leechlife,liquidation,stickyweb||85,85,85,85,85,85|M|||82|,,,,,Water]Urshifu||LifeOrb|UnseenFist|wickedblow,poisonjab,closecombat,swordsdance||85,85,85,85,85,85|F|||74|,,,,,Dark]Duraludon||Eviolite|LightMetal|flashcannon,irondefense,bodypress,dracometeor||85,,85,85,85,85|F|,0,,,,||82|,,,,,Fighting]Drifblim||SitrusBerry|Unburden|calmmind,strengthsap,airslash,shadowball||73,,85,85,85,85|M|,0,,,,||86|,,,,,Dark]Sandaconda||Leftovers|ShedSkin|stoneedge,glare,earthquake,coil||85,85,85,85,85,85|M|||84|,,,,,Steel]Serperior||Leftovers|Contrary|dragonpulse,leafstorm,leechseed,substitute||85,,85,85,85,85|M|,0,,,,||79|,,,,,Water",
   "ai": "Brute Bonnet||Leftovers|Protosynthesis|spore,suckerpunch,crunch,closecombat||85,85,85,85,85,85|N|||79|,,,,,Poison]Deoxys|DeoxysSpeed|Leftovers|Pressure|psychoboost,knockoff,taunt,stealthrock||85,85,85,85,85,85|N|||82|,,,,,Dark]Lurantis||AssaultVest|Contrary|leechlife,superpower,leafstorm,knockoff||85,85,85,85,85,85|F|||87|,,,,,Fighting]Groudon||Leftovers|Drought|heatcrash,swordsdance,thunderwave,precipiceblades||85,85,85,85,85,85|N|||72|,,,,,Fire]Weezing||Leftovers|Levitate|toxicspikes,fireblast,painsplit,gunkshot||85,85,85,85,85,85|F|||88|,,,,,Steel]Magcargo||HeavyDutyBoots|FlameBody|powergem,lavaplume,recover,yawn||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass",
   "curation": {

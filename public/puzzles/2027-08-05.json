@@ -19,6 +19,251 @@
     "Tropius",
     "Bisharp"
   ],
+  "playerSets": [
+    {
+      "species": "Dachsbun",
+      "level": 92,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Well-Baked Body",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 254,
+      "stats": {
+        "atk": 200,
+        "def": 264,
+        "spa": 144,
+        "spd": 200,
+        "spe": 227
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hydreigon",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Specs",
+      "teraType": "Steel",
+      "maxhp": 275,
+      "stats": {
+        "atk": 211,
+        "def": 188,
+        "spa": 243,
+        "spd": 188,
+        "spe": 200
+      },
+      "moves": [
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Milotic",
+      "level": 83,
+      "types": [
+        "Water"
+      ],
+      "ability": "Competitive",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 293,
+      "stats": {
+        "atk": 147,
+        "def": 179,
+        "spa": 214,
+        "spd": 255,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Minun",
+      "level": 95,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 268,
+      "stats": {
+        "atk": 81,
+        "def": 149,
+        "spa": 196,
+        "spd": 215,
+        "spe": 234
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Tropius",
+      "level": 91,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Ground",
+      "maxhp": 328,
+      "stats": {
+        "atk": 176,
+        "def": 203,
+        "spa": 183,
+        "spd": 210,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Dual Wingbeat",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bisharp",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Steel"
+      ],
+      "ability": "Defiant",
+      "item": "Eviolite",
+      "teraType": "Flying",
+      "maxhp": 232,
+      "stats": {
+        "atk": 243,
+        "def": 204,
+        "spa": 140,
+        "spd": 156,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Dachsbun||Leftovers|WellBakedBody|protect,wish,playrough,yawn||85,85,85,85,85,85|M|||92|,,,,,Steel]Hydreigon||ChoiceSpecs|Levitate|flashcannon,uturn,darkpulse,dracometeor||85,85,85,85,85,85|M|||79|,,,,,Steel]Milotic||Leftovers|Competitive|recover,dragontail,scald,icebeam||85,85,85,85,85,85|F|||83|,,,,,Dragon]Minun||LifeOrb|VoltAbsorb|encore,thunderbolt,nastyplot,alluringvoice||85,,85,85,85,85|M|,0,,,,||95|,,,,,Electric]Tropius||SitrusBerry|Harvest|synthesis,earthquake,dragondance,dualwingbeat||85,85,85,85,85,85|F|||91|,,,,,Ground]Bisharp||Eviolite|Defiant|stealthrock,ironhead,throatchop,suckerpunch||85,85,85,85,85,85|M|||79|,,,,,Flying",
   "ai": "Piloswine||Eviolite|ThickFat|iciclecrash,stealthrock,earthquake,iceshard||85,85,85,85,85,85|M|||85|,,,,,Poison]Ariados||HeavyDutyBoots|Swarm|megahorn,toxicspikes,poisonjab,stickyweb||85,85,85,85,85,85|M|||95|,,,,,Ghost]Hydreigon||LifeOrb|Levitate|flashcannon,darkpulse,dracometeor,nastyplot||85,,85,85,85,85|M|,0,,,,||79|,,,,,Steel]Drifblim||SitrusBerry|Unburden|calmmind,airslash,shadowball,strengthsap||73,,85,85,85,85|F|,0,,,,||86|,,,,,Dark]Misdreavus||Eviolite|Levitate|willowisp,drainingkiss,shadowball,calmmind||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Beartic||HeavyDutyBoots|SlushRush|closecombat,earthquake,swordsdance,iciclecrash||85,85,85,85,85,85|M|||91|,,,,,Ground",
   "curation": {

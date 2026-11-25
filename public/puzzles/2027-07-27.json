@@ -19,6 +19,251 @@
     "Breloom",
     "Araquanid"
   ],
+  "playerSets": [
+    {
+      "species": "Copperajah",
+      "level": 86,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 350,
+      "stats": {
+        "atk": 273,
+        "def": 168,
+        "spa": 187,
+        "spd": 168,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mismagius",
+      "level": 86,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Specs",
+      "teraType": "Ghost",
+      "maxhp": 243,
+      "stats": {
+        "atk": 108,
+        "def": 152,
+        "spa": 230,
+        "spd": 230,
+        "spe": 230
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Staraptor",
+      "level": 79,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 263,
+      "stats": {
+        "atk": 235,
+        "def": 156,
+        "spa": 125,
+        "spd": 140,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Houndstone",
+      "level": 86,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Fluffy",
+      "item": "Assault Vest",
+      "teraType": "Fighting",
+      "maxhp": 264,
+      "stats": {
+        "atk": 223,
+        "def": 221,
+        "spa": 135,
+        "spd": 216,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Breloom",
+      "level": 83,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Technician",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 235,
+      "stats": {
+        "atk": 263,
+        "def": 180,
+        "spa": 147,
+        "spd": 147,
+        "spe": 164
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        },
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Araquanid",
+      "level": 82,
+      "types": [
+        "Water",
+        "Bug"
+      ],
+      "ability": "Water Bubble",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 246,
+      "stats": {
+        "atk": 162,
+        "def": 198,
+        "spa": 129,
+        "spd": 264,
+        "spe": 116
+      },
+      "moves": [
+        {
+          "name": "Leech Life",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Copperajah||LifeOrb|SheerForce|ironhead,rockslide,playrough,superpower||85,85,85,85,85,85|M|||86|,,,,,Fairy]Mismagius||ChoiceSpecs|Levitate|shadowball,thunderbolt,trick,dazzlinggleam||85,,85,85,85,85|F|,0,,,,||86|,,,,,Ghost]Staraptor||ChoiceBand|Reckless|quickattack,uturn,closecombat,bravebird||81,85,85,85,85,85|M|||79|,,,,,Fighting]Houndstone||AssaultVest|Fluffy|shadowsneak,bodypress,poltergeist,playrough||85,85,85,85,85,85|F|||86|,,,,,Fighting]Breloom||LifeOrb|Technician|swordsdance,spore,bulletseed,machpunch||85,85,85,85,85,85|M|||83|,,,,,Fighting]Araquanid||HeavyDutyBoots|WaterBubble|leechlife,stickyweb,liquidation,hydropump||85,85,85,85,85,85|F|||82|,,,,,Water",
   "ai": "Hippowdon||RockyHelmet|SandStream|whirlwind,slackoff,earthquake,stealthrock||85,85,85,85,85,85|M|||82|,,,,,Dragon]Sandaconda||Leftovers|ShedSkin|coil,glare,earthquake,stoneedge||85,85,85,85,85,85|F|||84|,,,,,Steel]Gholdengo||Leftovers|GoodasGold|shadowball,nastyplot,focusblast,makeitrain||85,,85,85,85,85|N|,0,,,,||77|,,,,,Fighting]Grafaiai||LifeOrb|PoisonTouch|lowkick,swordsdance,gunkshot,knockoff||85,85,85,85,85,85|M|||86|,,,,,Dark]Spectrier||Leftovers|GrimNeigh|nastyplot,terablast,substitute,shadowball||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fighting]Comfey||Leftovers|Triage|drainingkiss,gigadrain,storedpower,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
   "curation": {

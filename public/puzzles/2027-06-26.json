@@ -19,6 +19,253 @@
     "Pawmot",
     "Noctowl"
   ],
+  "playerSets": [
+    {
+      "species": "Kilowattrel",
+      "level": 83,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Water",
+      "maxhp": 252,
+      "stats": {
+        "atk": 164,
+        "def": 147,
+        "spa": 222,
+        "spd": 147,
+        "spe": 255
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Oranguru",
+      "level": 92,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Inner Focus",
+      "item": "Leftovers",
+      "teraType": "Electric",
+      "maxhp": 315,
+      "stats": {
+        "atk": 115,
+        "def": 200,
+        "spa": 218,
+        "spd": 255,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Trevenant",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Dark",
+      "maxhp": 296,
+      "stats": {
+        "atk": 247,
+        "def": 186,
+        "spa": 166,
+        "spd": 197,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Rampardos",
+      "level": 90,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Psychic",
+      "maxhp": 321,
+      "stats": {
+        "atk": 348,
+        "def": 159,
+        "spa": 168,
+        "spd": 141,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Pawmot",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Fighting"
+      ],
+      "ability": "Iron Fist",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 243,
+      "stats": {
+        "atk": 230,
+        "def": 158,
+        "spa": 158,
+        "spd": 142,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Revival Blessing",
+          "type": "Normal",
+          "pp": 1
+        },
+        {
+          "name": "Double Shock",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Noctowl",
+      "level": 95,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 344,
+      "stats": {
+        "atk": 100,
+        "def": 149,
+        "spa": 217,
+        "spd": 236,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Kilowattrel||HeavyDutyBoots|VoltAbsorb|roost,hurricane,discharge,uturn||85,85,85,85,85,85|F|||83|,,,,,Water]Oranguru||Leftovers|InnerFocus|nastyplot,thunderbolt,focusblast,psyshock||85,,85,85,85,85|M|,0,,,,||92|,,,,,Electric]Trevenant||SitrusBerry|Harvest|protect,toxic,poltergeist,drainpunch||85,85,85,85,85,85|F|||89|,,,,,Dark]Rampardos||LifeOrb|SheerForce|zenheadbutt,firepunch,rockslide,earthquake||85,85,85,85,85,85|F|||90|,,,,,Psychic]Pawmot||LifeOrb|IronFist|closecombat,revivalblessing,doubleshock,icepunch||85,85,85,85,85,85|F|||80|,,,,,Electric]Noctowl||HeavyDutyBoots|TintedLens|hurricane,defog,hypervoice,roost||85,,85,85,85,85|F|,0,,,,||95|,,,,,Steel",
   "ai": "Swampert||Leftovers|Damp|stealthrock,earthquake,knockoff,icebeam||85,85,85,85,85,85|M|||82|,,,,,Steel]Moltres|MoltresGalar|ChestoBerry|Berserk|rest,nastyplot,hurricane,fierywrath||81,,85,85,85,85|N|,0,,,,||79|,,,,,Steel]Calyrex|CalyrexIce|HeavyDutyBoots|AsOneGlastrier|glaciallance,trickroom,highhorsepower,closecombat||85,85,85,85,85,|N|,,,,,0||72|,,,,,Ground]Polteageist||WhiteHerb|CursedBody|shadowball,shellsmash,storedpower,terablast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Goodra|GoodraHisui|AssaultVest|SapSipper|dracometeor,heavyslam,hydropump,dragontail||85,85,85,85,85,85|M|||82|,,,,,Dragon]Rotom|RotomFan|HeavyDutyBoots|Levitate|willowisp,voltswitch,thunderbolt,airslash||85,,85,85,85,85|N|,0,,,,||86|,,,,,Electric",
   "curation": {

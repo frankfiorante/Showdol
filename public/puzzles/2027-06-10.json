@@ -19,6 +19,252 @@
     "Kyurem-Black",
     "Feraligatr"
   ],
+  "playerSets": [
+    {
+      "species": "Hitmonchan",
+      "level": 87,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Iron Fist",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 229,
+      "stats": {
+        "atk": 232,
+        "def": 187,
+        "spa": 111,
+        "spd": 241,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Sinistcha",
+      "level": 83,
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "ability": "Heatproof",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 254,
+      "stats": {
+        "atk": 104,
+        "def": 224,
+        "spa": 249,
+        "spd": 180,
+        "spe": 164
+      },
+      "moves": [
+        {
+          "name": "Matcha Gotcha",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Malamar",
+      "level": 82,
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "ability": "Contrary",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 275,
+      "stats": {
+        "atk": 198,
+        "def": 191,
+        "spa": 159,
+        "spd": 170,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Vespiquen",
+      "level": 99,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Pressure",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 299,
+      "stats": {
+        "atk": 163,
+        "def": 258,
+        "spa": 214,
+        "spd": 258,
+        "spe": 135
+      },
+      "moves": [
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Kyurem-Black",
+      "level": 71,
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "ability": "Teravolt",
+      "item": "Loaded Dice",
+      "teraType": "Ground",
+      "maxhp": 295,
+      "stats": {
+        "atk": 283,
+        "def": 183,
+        "spa": 212,
+        "spd": 169,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Feraligatr",
+      "level": 79,
+      "types": [
+        "Water"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 264,
+      "stats": {
+        "atk": 211,
+        "def": 204,
+        "spa": 170,
+        "spd": 177,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Hitmonchan||Leftovers|IronFist|bulkup,drainpunch,poisonjab,knockoff||85,85,85,85,85,85|M|||87|,,,,,Poison]Sinistcha||Leftovers|Heatproof|matchagotcha,strengthsap,calmmind,shadowball||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Malamar||Leftovers|Contrary|rest,sleeptalk,knockoff,superpower||85,85,85,85,85,85|F|||82|,,,,,Steel]Vespiquen||HeavyDutyBoots|Pressure|toxicspikes,airslash,spikes,roost||85,,85,85,85,85|F|,0,,,,||99|,,,,,Steel]Kyurem|KyuremBlack|LoadedDice|Teravolt|terablast,scaleshot,iciclespear,dragondance||85,85,85,85,85,85|N|||71|,,,,,Ground]Feraligatr||LifeOrb|SheerForce|dragondance,icepunch,liquidation,trailblaze||85,85,85,85,85,85|M|||79|,,,,,Water",
   "ai": "Blastoise||WhiteHerb|Torrent|hydropump,shellsmash,terablast,icebeam||85,,85,85,85,85|M|,0,,,,||80|,,,,,Electric]Ribombee||HeavyDutyBoots|ShieldDust|stickyweb,moonblast,uturn,stunspore||85,85,85,85,85,85|M|||83|,,,,,Ghost]Hoopa||LifeOrb|Magician|focusblast,shadowball,psychic,nastyplot||85,,85,85,85,85|N|,0,,,,||85|,,,,,Psychic]Inteleon||ChoiceSpecs|Torrent|hydropump,scald,uturn,icebeam||85,85,85,85,85,85|F|||81|,,,,,Water]Indeedee||LifeOrb|PsychicSurge|expandingforce,dazzlinggleam,hypervoice,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic]Torkoal||HeavyDutyBoots|Drought|rapidspin,stealthrock,lavaplume,yawn||85,85,85,85,85,85|F|||88|,,,,,Dragon",
   "curation": {

@@ -19,6 +19,251 @@
     "Tatsugiri",
     "Samurott"
   ],
+  "playerSets": [
+    {
+      "species": "Mudsdale",
+      "level": 83,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Stamina",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 302,
+      "stats": {
+        "atk": 255,
+        "def": 214,
+        "spa": 139,
+        "spd": 189,
+        "spe": 106
+      },
+      "moves": [
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Perrserker",
+      "level": 89,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Tough Claws",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 247,
+        "def": 229,
+        "spa": 140,
+        "spd": 158,
+        "spe": 140
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Dialga",
+      "level": 73,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Assault Vest",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 218,
+        "def": 218,
+        "spa": 261,
+        "spd": 188,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Torterra",
+      "level": 78,
+      "types": [
+        "Grass",
+        "Ground"
+      ],
+      "ability": "Overgrow",
+      "item": "Loaded Dice",
+      "teraType": "Rock",
+      "maxhp": 276,
+      "stats": {
+        "atk": 215,
+        "def": 209,
+        "spa": 162,
+        "spd": 178,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Headlong Rush",
+          "type": "Ground",
+          "pp": 8
+        },
+        {
+          "name": "Rock Blast",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Tatsugiri",
+      "level": 87,
+      "types": [
+        "Dragon",
+        "Water"
+      ],
+      "ability": "Storm Drain",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 260,
+      "stats": {
+        "atk": 137,
+        "def": 154,
+        "spa": 259,
+        "spd": 215,
+        "spe": 192
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Samurott",
+      "level": 88,
+      "types": [
+        "Water"
+      ],
+      "ability": "Torrent",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 310,
+      "stats": {
+        "atk": 226,
+        "def": 200,
+        "spa": 240,
+        "spd": 173,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Sacred Sword",
+          "type": "Fighting",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Mudsdale||Leftovers|Stamina|heavyslam,stoneedge,stealthrock,earthquake||85,85,85,85,85,85|M|||83|,,,,,Steel]Perrserker||ChoiceBand|ToughClaws|uturn,closecombat,knockoff,ironhead||85,85,85,85,85,85|F|||89|,,,,,Fighting]Dialga||AssaultVest|Pressure|fireblast,dracometeor,dragontail,heavyslam||85,85,85,85,85,85|N|||73|,,,,,Steel]Torterra||LoadedDice|Overgrow|headlongrush,rockblast,bulletseed,shellsmash||85,85,85,85,85,85|M|||78|,,,,,Rock]Tatsugiri||HeavyDutyBoots|StormDrain|rapidspin,surf,dracometeor,nastyplot||85,85,85,85,85,85|M|||87|,,,,,Steel]Samurott||LifeOrb|Torrent|liquidation,swordsdance,sacredsword,knockoff||85,85,85,85,85,85|F|||88|,,,,,Water",
   "ai": "Eiscue||SitrusBerry|IceFace|terablast,icespinner,liquidation,bellydrum||81,85,85,85,85,85|M|||88|,,,,,Electric]Politoed||ChoiceSpecs|Drizzle|weatherball,hydropump,icebeam,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Water]Fezandipiti||Leftovers|ToxicChain|roost,moonblast,gunkshot,beatup||85,85,85,85,85,85|M|||82|,,,,,Steel]Meowscarada||ChoiceBand|Protean|uturn,flowertrick,knockoff,tripleaxel||85,85,85,85,85,85|F|||78|,,,,,Dark]Gyarados||HeavyDutyBoots|Moxie|temperflare,earthquake,waterfall,dragondance||85,85,85,85,85,85|F|||79|,,,,,Ground]Grimmsnarl||Leftovers|Prankster|suckerpunch,partingshot,taunt,spiritbreak||85,85,85,85,85,85|M|||83|,,,,,Steel",
   "curation": {

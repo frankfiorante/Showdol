@@ -19,6 +19,253 @@
     "Vaporeon",
     "Tentacruel"
   ],
+  "playerSets": [
+    {
+      "species": "Moltres-Galar",
+      "level": 79,
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "ability": "Berserk",
+      "item": "Weakness Policy",
+      "teraType": "Steel",
+      "maxhp": 271,
+      "stats": {
+        "atk": 139,
+        "def": 188,
+        "spa": 204,
+        "spd": 243,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Fiery Wrath",
+          "type": "Dark",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic",
+          "pp": 48
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ceruledge",
+      "level": 78,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "ability": "Weak Armor",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 245,
+      "stats": {
+        "atk": 240,
+        "def": 170,
+        "spa": 139,
+        "spd": 201,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Bitter Blade",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Probopass",
+      "level": 91,
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "ability": "Magnet Pull",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 257,
+      "stats": {
+        "atk": 105,
+        "def": 316,
+        "spa": 188,
+        "spd": 325,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Power Gem",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Frosmoth",
+      "level": 82,
+      "types": [
+        "Ice",
+        "Bug"
+      ],
+      "ability": "Ice Scales",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 146,
+        "spa": 252,
+        "spd": 195,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Vaporeon",
+      "level": 86,
+      "types": [
+        "Water"
+      ],
+      "ability": "Water Absorb",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 364,
+      "stats": {
+        "atk": 116,
+        "def": 152,
+        "spa": 238,
+        "spd": 213,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Tentacruel",
+      "level": 84,
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "ability": "Liquid Ooze",
+      "item": "Assault Vest",
+      "teraType": "Flying",
+      "maxhp": 272,
+      "stats": {
+        "atk": 166,
+        "def": 157,
+        "spa": 183,
+        "spd": 250,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    }
+  ],
   "player": "Moltres|MoltresGalar|WeaknessPolicy|Berserk|fierywrath,nastyplot,agility,hurricane||81,,85,85,85,85|N|,0,,,,||79|,,,,,Steel]Ceruledge||HeavyDutyBoots|WeakArmor|shadowsneak,swordsdance,poltergeist,bitterblade||85,85,85,85,85,85|M|||78|,,,,,Fire]Probopass||Leftovers|MagnetPull|thunderwave,bodypress,powergem,irondefense||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fighting]Frosmoth||HeavyDutyBoots|IceScales|bugbuzz,icebeam,quiverdance,terablast||85,,85,85,85,85|F|,0,,,,||82|,,,,,Ground]Vaporeon||Leftovers|WaterAbsorb|calmmind,scald,wish,protect||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Tentacruel||AssaultVest|LiquidOoze|sludgebomb,flipturn,surf,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Flying",
   "ai": "Crabominable||ChoiceBand|IronFist|icehammer,knockoff,gunkshot,closecombat||85,85,85,85,85,85|F|||90|,,,,,Fighting]Sandaconda||LoadedDice|ShedSkin|earthquake,rockblast,coil,scaleshot||85,85,85,85,85,85|M|||84|,,,,,Dragon]Luvdisc||HeavyDutyBoots|SwiftSwim|flipturn,surf,substitute,endeavor||81,85,85,85,85,85|F||||,,,,,Ghost]Venusaur||Leftovers|Overgrow|energyball,synthesis,earthpower,sludgebomb||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Regice||HeavyDutyBoots|ClearBody|thunderwave,thunderbolt,bodypress,icebeam||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Deoxys|DeoxysDefense|Leftovers|Pressure|spikes,psychicnoise,stealthrock,recover||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel",
   "curation": {

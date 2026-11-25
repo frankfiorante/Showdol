@@ -19,6 +19,251 @@
     "Porygon2",
     "Golduck"
   ],
+  "playerSets": [
+    {
+      "species": "Delphox",
+      "level": 84,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ability": "Blaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 263,
+      "stats": {
+        "atk": 120,
+        "def": 169,
+        "spa": 240,
+        "spd": 216,
+        "spe": 223
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Slither Wing",
+      "level": 81,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Booster Energy",
+      "teraType": "Electric",
+      "maxhp": 270,
+      "stats": {
+        "atk": 265,
+        "def": 175,
+        "spa": 184,
+        "spd": 217,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Torkoal",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Drought",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 297,
+        "spa": 200,
+        "spd": 173,
+        "spe": 85
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Lava Plume",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Solar Beam",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Scrafty",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 244,
+      "stats": {
+        "atk": 197,
+        "def": 239,
+        "spa": 122,
+        "spd": 239,
+        "spe": 144
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Porygon2",
+      "level": 81,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Download",
+      "item": "Eviolite",
+      "teraType": "Electric",
+      "maxhp": 270,
+      "stats": {
+        "atk": 134,
+        "def": 192,
+        "spa": 217,
+        "spd": 201,
+        "spe": 144
+      },
+      "moves": [
+        {
+          "name": "Tri Attack",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Golduck",
+      "level": 90,
+      "types": [
+        "Water"
+      ],
+      "ability": "Cloud Nine",
+      "item": "Choice Specs",
+      "teraType": "Grass",
+      "maxhp": 290,
+      "stats": {
+        "atk": 199,
+        "def": 192,
+        "spa": 222,
+        "spd": 195,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Delphox||HeavyDutyBoots|Blaze|psyshock,focusblast,nastyplot,fireblast||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fire]Slither Wing||BoosterEnergy|Protosynthesis|acrobatics,closecombat,wildcharge,bulkup||85,85,85,85,85,85|N|||81|,,,,,Electric]Torkoal||HeavyDutyBoots|Drought|earthquake,lavaplume,yawn,solarbeam||85,85,85,85,85,85|F|||88|,,,,,Grass]Scrafty||Leftovers|ShedSkin|knockoff,rest,drainpunch,bulkup||85,85,85,85,85,85|M|||83|,,,,,Poison]Porygon2||Eviolite|Download|triattack,icebeam,recover,discharge||85,,85,85,85,85|N|,0,,,,||81|,,,,,Electric]Golduck||ChoiceSpecs|CloudNine|flipturn,icebeam,hydropump,grassknot||85,85,85,85,85,85|M|||90|,,,,,Grass",
   "ai": "Tentacruel||Leftovers|LiquidOoze|rapidspin,haze,surf,sludgebomb||85,85,85,85,85,85|M|||84|,,,,,Grass]Delphox||ChoiceSpecs|Blaze|focusblast,grassknot,fireblast,psyshock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fighting]Iron Hands||Leftovers|QuarkDrive|drainpunch,icepunch,thunderpunch,swordsdance||85,85,85,85,85,85|N|||79|,,,,,Flying]Deoxys|DeoxysSpeed|LifeOrb|Pressure|darkpulse,psychoboost,focusblast,nastyplot||85,,85,85,85,85|N|,0,,,,||82|,,,,,Fighting]Regigigas||Leftovers|SlowStart|sleeptalk,bodyslam,knockoff,rest||85,85,85,85,85,85|N|||84|,,,,,Ghost]Umbreon||Leftovers|Synchronize|protect,wish,foulplay,toxic||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison",
   "curation": {

@@ -19,6 +19,252 @@
     "Ho-Oh",
     "Mewtwo"
   ],
+  "playerSets": [
+    {
+      "species": "Dialga-Origin",
+      "level": 73,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Adamant Crystal",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 151,
+        "def": 218,
+        "spa": 261,
+        "spd": 218,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Torkoal",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Drought",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 297,
+        "spa": 200,
+        "spd": 173,
+        "spe": 85
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Solar Beam",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Braviary-Hisui",
+      "level": 85,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 326,
+      "stats": {
+        "atk": 146,
+        "def": 168,
+        "spa": 239,
+        "spd": 168,
+        "spe": 159
+      },
+      "moves": [
+        {
+          "name": "Esper Wing",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Gastrodon",
+      "level": 86,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Storm Drain",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 331,
+      "stats": {
+        "atk": 192,
+        "def": 166,
+        "spa": 207,
+        "spd": 190,
+        "spe": 116
+      },
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ho-Oh",
+      "level": 71,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Regenerator",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 268,
+      "stats": {
+        "atk": 226,
+        "def": 169,
+        "spa": 198,
+        "spd": 260,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Sacred Fire",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Mewtwo",
+      "level": 72,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 272,
+      "stats": {
+        "atk": 163,
+        "def": 172,
+        "spa": 264,
+        "spd": 172,
+        "spe": 229
+      },
+      "moves": [
+        {
+          "name": "Psystrike",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Dialga|DialgaOrigin|AdamantCrystal|Pressure|stealthrock,flashcannon,fireblast,dracometeor||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Torkoal||HeavyDutyBoots|Drought|earthquake,yawn,fireblast,solarbeam||85,85,85,85,85,85|M|||88|,,,,,Grass]Braviary|BraviaryHisui|HeavyDutyBoots|TintedLens|esperwing,hurricane,defog,roost||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Gastrodon||Leftovers|StormDrain|surf,earthquake,recover,spikes||85,85,85,85,85,85|F|||86|,,,,,Steel]Ho-Oh||HeavyDutyBoots|Regenerator|sacredfire,earthquake,recover,bravebird||85,85,85,85,85,85|N|||71|,,,,,Ground]Mewtwo||LifeOrb|Pressure|psystrike,nastyplot,darkpulse,fireblast||85,,85,85,85,85|N|,0,,,,||72|,,,,,Fire",
   "ai": "Dodrio||HeavyDutyBoots|EarlyBird|doubleedge,drillrun,swordsdance,bravebird||85,85,85,85,85,85|M|||85|,,,,,Normal]Sinistcha||Leftovers|Heatproof|calmmind,matchagotcha,shadowball,strengthsap||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Honchkrow||HeavyDutyBoots|Moxie|bravebird,uturn,suckerpunch,heatwave||85,85,85,85,85,85|M|||86|,,,,,Flying]Mienshao||LifeOrb|Regenerator|knockoff,poisonjab,swordsdance,closecombat||85,85,85,85,85,85|F|||83|,,,,,Poison]Beartic||HeavyDutyBoots|SlushRush|closecombat,aquajet,iciclecrash,swordsdance||85,85,85,85,85,85|M|||91|,,,,,Fighting]Regigigas||Leftovers|SlowStart|rest,knockoff,sleeptalk,bodyslam||85,85,85,85,85,85|N|||84|,,,,,Ghost",
   "curation": {

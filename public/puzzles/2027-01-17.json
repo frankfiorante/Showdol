@@ -19,6 +19,252 @@
     "Zacian",
     "Iron Hands"
   ],
+  "playerSets": [
+    {
+      "species": "Gyarados",
+      "level": 79,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 280,
+      "stats": {
+        "atk": 243,
+        "def": 170,
+        "spa": 140,
+        "spd": 204,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Waterfall",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cacturne",
+      "level": 92,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Water Absorb",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 278,
+      "stats": {
+        "atk": 264,
+        "def": 163,
+        "spa": 264,
+        "spd": 163,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Seed Bomb",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Clefable",
+      "level": 83,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Unaware",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 293,
+      "stats": {
+        "atk": 121,
+        "def": 169,
+        "spa": 205,
+        "spd": 197,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Moonlight",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Poliwrath",
+      "level": 88,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Water Absorb",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 302,
+      "stats": {
+        "atk": 217,
+        "def": 217,
+        "spa": 173,
+        "spd": 209,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zacian",
+      "level": 64,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Intrepid Sword",
+      "item": "Rusted Sword",
+      "teraType": "Fighting",
+      "maxhp": 225,
+      "stats": {
+        "atk": 191,
+        "def": 185,
+        "spa": 140,
+        "spd": 185,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Behemoth Blade",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Iron Hands",
+      "level": 79,
+      "types": [
+        "Fighting",
+        "Electric"
+      ],
+      "ability": "Quark Drive",
+      "item": "Assault Vest",
+      "teraType": "Electric",
+      "maxhp": 373,
+      "stats": {
+        "atk": 267,
+        "def": 216,
+        "spa": 125,
+        "spd": 153,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Gyarados||HeavyDutyBoots|Intimidate|dragondance,terablast,waterfall,earthquake||85,85,85,85,85,85|F|||79|,,,,,Flying]Cacturne||LifeOrb|WaterAbsorb|suckerpunch,seedbomb,knockoff,swordsdance||85,85,85,85,85,85|M|||92|,,,,,Dark]Clefable||Leftovers|Unaware|thunderwave,fireblast,moonlight,moonblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Steel]Poliwrath||Leftovers|WaterAbsorb|bulkup,drainpunch,knockoff,liquidation||85,85,85,85,85,85|F|||88|,,,,,Water]Zacian||RustedSword|IntrepidSword|swordsdance,playrough,behemothblade,closecombat||85,85,85,85,85,85|N|||64|,,,,,Fighting]Iron Hands||AssaultVest|QuarkDrive|voltswitch,wildcharge,icepunch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Electric",
   "ai": "Persian||SilkScarf|Technician|doubleedge,knockoff,fakeout,uturn||85,85,85,85,85,85|F|||92|,,,,,Normal]Eiscue||SitrusBerry|IceFace|terablast,icespinner,bellydrum,liquidation||81,85,85,85,85,85|M|||88|,,,,,Electric]Wyrdeer||Leftovers|Intimidate|thunderwave,psychicnoise,earthquake,megahorn||85,85,85,85,85,85|M|||87|,,,,,Ground]Cloyster||WhiteHerb|SkillLink|drillrun,iciclespear,shellsmash,rockblast||85,85,85,85,85,85|M|||80|,,,,,Ground]Sandy Shocks||HeavyDutyBoots|Protosynthesis|earthpower,stealthrock,thunderbolt,voltswitch||85,,85,85,85,85|N|,0,,,,||80|,,,,,Ground]Seviper||LifeOrb|Infiltrator|glare,gunkshot,flamethrower,knockoff||85,85,85,85,85,85|F|||93|,,,,,Dark",
   "curation": {

@@ -19,6 +19,252 @@
     "Sylveon",
     "Dipplin"
   ],
+  "playerSets": [
+    {
+      "species": "Abomasnow",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "ability": "Snow Warning",
+      "item": "Light Clay",
+      "teraType": "Water",
+      "maxhp": 287,
+      "stats": {
+        "atk": 203,
+        "def": 174,
+        "spa": 203,
+        "spd": 191,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Aurora Veil",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Reshiram",
+      "level": 76,
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "ability": "Turboblaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 277,
+      "stats": {
+        "atk": 226,
+        "def": 196,
+        "spa": 272,
+        "spd": 226,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Cinderace",
+      "level": 77,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Libero",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 250,
+      "stats": {
+        "atk": 223,
+        "def": 160,
+        "spa": 145,
+        "spd": 160,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Pyro Ball",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Court Change",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Raichu-Alola",
+      "level": 87,
+      "types": [
+        "Electric",
+        "Psychic"
+      ],
+      "ability": "Surge Surfer",
+      "item": "Choice Specs",
+      "teraType": "Fighting",
+      "maxhp": 246,
+      "stats": {
+        "atk": 152,
+        "def": 137,
+        "spa": 215,
+        "spd": 198,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Sylveon",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Pixilate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 300,
+      "stats": {
+        "atk": 115,
+        "def": 159,
+        "spa": 236,
+        "spd": 270,
+        "spe": 151
+      },
+      "moves": [
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dipplin",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Sticky Hold",
+      "item": "Eviolite",
+      "teraType": "Steel",
+      "maxhp": 284,
+      "stats": {
+        "atk": 191,
+        "def": 244,
+        "spa": 217,
+        "spd": 191,
+        "spe": 121
+      },
+      "moves": [
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Abomasnow||LightClay|SnowWarning|earthquake,iceshard,auroraveil,blizzard||77,85,85,85,85,85|M|||84|,,,,,Water]Reshiram||HeavyDutyBoots|Turboblaze|outrage,flareblitz,stoneedge,dragondance||85,85,85,85,85,85|N|||76|,,,,,Fire]Cinderace||HeavyDutyBoots|Libero|uturn,willowisp,pyroball,courtchange||85,85,85,85,85,85|M|||77|,,,,,Grass]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|alluringvoice,focusblast,psyshock,thunderbolt||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Sylveon||Leftovers|Pixilate|hypervoice,calmmind,wish,protect||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Dipplin||Eviolite|StickyHold|dragontail,dragonpulse,recover,gigadrain||85,85,85,85,85,85|M|||88|,,,,,Steel",
   "ai": "Klefki||Leftovers|Prankster|spikes,thunderwave,dazzlinggleam,foulplay||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Crabominable||AssaultVest|IronFist|earthquake,knockoff,icehammer,drainpunch||85,85,85,85,85,85|M|||90|,,,,,Water]Honchkrow||HeavyDutyBoots|Moxie|bravebird,lashout,heatwave,suckerpunch||85,85,85,85,85,85|F|||86|,,,,,Dark]Gyarados||HeavyDutyBoots|Moxie|dragondance,earthquake,stoneedge,waterfall||85,85,85,85,85,85|M|||79|,,,,,Ground]Victreebel||LifeOrb|Chlorophyll|sunnyday,powerwhip,sludgewave,weatherball||85,85,85,85,85,85|M|||90|,,,,,Fire]Manaphy||Leftovers|Hydration|icebeam,energyball,hydropump,tailglow||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water",
   "curation": {

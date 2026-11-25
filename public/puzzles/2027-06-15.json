@@ -19,6 +19,251 @@
     "Exeggutor",
     "Eiscue"
   ],
+  "playerSets": [
+    {
+      "species": "Glaceon",
+      "level": 94,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Ice Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 275,
+      "stats": {
+        "atk": 117,
+        "def": 260,
+        "spa": 298,
+        "spd": 232,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Mud Shot",
+          "type": "Ground",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Hitmontop",
+      "level": 88,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Technician",
+      "item": "Leftovers",
+      "teraType": "Ice",
+      "maxhp": 231,
+      "stats": {
+        "atk": 217,
+        "def": 217,
+        "spa": 112,
+        "spd": 244,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    },
+    {
+      "species": "Okidogi",
+      "level": 77,
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Assault Vest",
+      "teraType": "Dark",
+      "maxhp": 262,
+      "stats": {
+        "atk": 242,
+        "def": 222,
+        "spa": 134,
+        "spd": 177,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bruxish",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Strong Jaw",
+      "item": "Life Orb",
+      "teraType": "Psychic",
+      "maxhp": 254,
+      "stats": {
+        "atk": 227,
+        "def": 168,
+        "spa": 168,
+        "spd": 168,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Exeggutor",
+      "level": 89,
+      "types": [
+        "Grass",
+        "Psychic"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Steel",
+      "maxhp": 312,
+      "stats": {
+        "atk": 174,
+        "def": 202,
+        "spa": 273,
+        "spd": 184,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Eiscue",
+      "level": 88,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Ice Face",
+      "item": "Sitrus Berry",
+      "teraType": "Ground",
+      "maxhp": 274,
+      "stats": {
+        "atk": 191,
+        "def": 244,
+        "spa": 165,
+        "spd": 209,
+        "spe": 138
+      },
+      "moves": [
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Belly Drum",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Glaceon||HeavyDutyBoots|IceBody|wish,protect,freezedry,mudshot||85,,85,85,85,85|M|,0,,,,||94|,,,,,Ground]Hitmontop||Leftovers|Technician|bulkup,closecombat,tripleaxel,rapidspin||85,85,85,85,85,85|M|||88|,,,,,Ice]Okidogi||AssaultVest|ToxicChain|drainpunch,gunkshot,knockoff,psychicfangs||85,85,85,85,85,85|M|||77|,,,,,Dark]Bruxish||LifeOrb|StrongJaw|wavecrash,psychicfangs,swordsdance,crunch||85,85,85,85,85,85|M|||85|,,,,,Psychic]Exeggutor||SitrusBerry|Harvest|sleeppowder,psychic,leechseed,substitute||77,,85,85,85,85|M|,0,,,,||89|,,,,,Steel]Eiscue||SitrusBerry|IceFace|icespinner,bellydrum,liquidation,terablast||81,85,85,85,85,85|M|||88|,,,,,Ground",
   "ai": "Farigiraf||Leftovers|SapSipper|psychicnoise,wish,bodyslam,protect||85,85,85,85,85,85|F|||89|,,,,,Water]Virizion||LifeOrb|Justified|stoneedge,closecombat,leafblade,swordsdance||85,85,85,85,85,85|N|||82|,,,,,Rock]Meganium||Leftovers|Overgrow|swordsdance,knockoff,earthquake,petalblizzard||85,85,85,85,85,85|F|||90|,,,,,Steel]Noctowl||HeavyDutyBoots|TintedLens|defog,hurricane,roost,hypervoice||85,,85,85,85,85|F|,0,,,,||95|,,,,,Normal]Sneasler||ChoiceBand|PoisonTouch|uturn,direclaw,closecombat,throatchop||85,85,85,85,85,85|M|||74|,,,,,Fighting]Chien-Pao||HeavyDutyBoots|SwordofRuin|swordsdance,iciclecrash,throatchop,suckerpunch||85,85,85,85,85,85|N|||72|,,,,,Dark",
   "curation": {

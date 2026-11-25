@@ -19,6 +19,249 @@
     "Minun",
     "Lilligant"
   ],
+  "playerSets": [
+    {
+      "species": "Mesprit",
+      "level": 85,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 275,
+      "stats": {
+        "atk": 227,
+        "def": 227,
+        "spa": 227,
+        "spd": 227,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Regidrago",
+      "level": 77,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Dragon's Maw",
+      "item": "Choice Scarf",
+      "teraType": "Dragon",
+      "maxhp": 435,
+      "stats": {
+        "atk": 199,
+        "def": 122,
+        "spa": 199,
+        "spd": 122,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Dragon Energy",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Bruxish",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Strong Jaw",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 254,
+      "stats": {
+        "atk": 227,
+        "def": 168,
+        "spa": 168,
+        "spd": 168,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zacian",
+      "level": 64,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Intrepid Sword",
+      "item": "Rusted Sword",
+      "teraType": "Fighting",
+      "maxhp": 225,
+      "stats": {
+        "atk": 191,
+        "def": 185,
+        "spa": 140,
+        "spd": 185,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Behemoth Blade",
+          "type": "Steel",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Minun",
+      "level": 95,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 268,
+      "stats": {
+        "atk": 81,
+        "def": 149,
+        "spa": 196,
+        "spd": 215,
+        "spe": 234
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lilligant",
+      "level": 86,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Own Tempo",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 261,
+      "stats": {
+        "atk": 108,
+        "def": 178,
+        "spa": 238,
+        "spd": 178,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Petal Dance",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Mesprit||Leftovers|Levitate|thunderwave,psychicnoise,knockoff,drainpunch||85,85,85,85,85,85|N|||85|,,,,,Dark]Regidrago||ChoiceScarf|DragonsMaw|dragonenergy,dracometeor,outrage,earthquake||85,85,85,85,85,85|N|||77|,,,,,Dragon]Bruxish||LifeOrb|StrongJaw|swordsdance,crunch,psychicfangs,wavecrash||85,85,85,85,85,85|F|||85|,,,,,Dark]Zacian||RustedSword|IntrepidSword|playrough,swordsdance,closecombat,behemothblade||85,85,85,85,85,85|N|||64|,,,,,Fighting]Minun||LifeOrb|VoltAbsorb|thunderbolt,nastyplot,alluringvoice,grassknot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Electric]Lilligant||LifeOrb|OwnTempo|petaldance,sleeppowder,quiverdance,alluringvoice||85,,85,85,85,85|F|,0,,,,||86|,,,,,Grass",
   "ai": "Alcremie|AlcremieCaramelSwirl|Leftovers|AromaVeil|alluringvoice,calmmind,terablast,recover||85,,85,85,85,85|F|,0,,,,||90|,,,,,Ground]Ribombee||HeavyDutyBoots|ShieldDust|uturn,stickyweb,moonblast,stunspore||85,85,85,85,85,85|M|||83|,,,,,Ghost]Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|powerwhip,synthesis,superpower,ivycudgel||85,85,85,85,85,85|F|||76|,,,,,Rock]Cinccino||LoadedDice|Technician|tailslap,tripleaxel,uturn,bulletseed||85,85,85,85,85,85|M|||83|,,,,,Grass]Hitmonchan||Leftovers|IronFist|drainpunch,encore,knockoff,rapidspin||85,85,85,85,85,85|M|||87|,,,,,Steel]Slither Wing||HeavyDutyBoots|Protosynthesis|willowisp,uturn,morningsun,closecombat||85,85,85,85,85,85|N|||81|,,,,,Steel",
   "curation": {

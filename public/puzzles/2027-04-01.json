@@ -19,6 +19,252 @@
     "Revavroom",
     "Dudunsparce-Three-Segment"
   ],
+  "playerSets": [
+    {
+      "species": "Bruxish",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Strong Jaw",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 254,
+      "stats": {
+        "atk": 227,
+        "def": 168,
+        "spa": 168,
+        "spd": 168,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Falinks",
+      "level": 84,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Defiant",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 246,
+      "stats": {
+        "atk": 216,
+        "def": 216,
+        "spa": 166,
+        "spd": 149,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "No Retreat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Delibird",
+      "level": 100,
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "ability": "Vital Spirit",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 252,
+      "stats": {
+        "atk": 167,
+        "def": 147,
+        "spa": 187,
+        "spd": 147,
+        "spe": 207
+      },
+      "moves": [
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Rayquaza",
+      "level": 72,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "ability": "Air Lock",
+      "item": "Loaded Dice",
+      "teraType": "Steel",
+      "maxhp": 270,
+      "stats": {
+        "atk": 258,
+        "def": 172,
+        "spa": 258,
+        "spd": 172,
+        "spe": 179
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Dragon Ascent",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Revavroom",
+      "level": 79,
+      "types": [
+        "Steel",
+        "Poison"
+      ],
+      "ability": "Filter",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 256,
+      "stats": {
+        "atk": 234,
+        "def": 188,
+        "spa": 131,
+        "spd": 151,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Shift Gear",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dudunsparce-Three-Segment",
+      "level": 83,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Rattled",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 343,
+      "stats": {
+        "atk": 214,
+        "def": 180,
+        "spa": 189,
+        "spd": 172,
+        "spe": 139
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Boomburst",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Bruxish||ChoiceBand|StrongJaw|crunch,wavecrash,flipturn,psychicfangs||85,85,85,85,85,85|F|||85|,,,,,Dark]Falinks||LifeOrb|Defiant|ironhead,knockoff,noretreat,closecombat||85,85,85,85,85,85|N|||84|,,,,,Dark]Delibird||HeavyDutyBoots|VitalSpirit|freezedry,rapidspin,spikes,bravebird||85,85,85,85,85,85|M||||,,,,,Ghost]Rayquaza||LoadedDice|AirLock|swordsdance,dragonascent,earthquake,scaleshot||85,85,85,85,85,85|N|||72|,,,,,Steel]Revavroom||LifeOrb|Filter|gunkshot,shiftgear,ironhead,highhorsepower||85,85,85,85,85,85|M|||79|,,,,,Ground]Dudunsparce|DudunsparceThreeSegment|Leftovers|Rattled|roost,toxic,earthquake,boomburst||85,85,85,85,85,85|F|||83|,,,,,Ground",
   "ai": "Ambipom||SilkScarf|Technician|lowkick,fakeout,knockoff,doubleedge||85,85,85,85,85,85|M|||84|,,,,,Normal]Meowstic|MeowsticF|LifeOrb|Competitive|thunderbolt,alluringvoice,psyshock,nastyplot||85,,85,85,85,85|F|,0,,,,||89|,,,,,Fairy]Sylveon||Leftovers|Pixilate|calmmind,wish,protect,hypervoice||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Gengar||LifeOrb|CursedBody|focusblast,encore,shadowball,sludgewave||85,,85,85,85,85|M|,0,,,,||81|,,,,,Ghost]Salazzle||HeavyDutyBoots|Corrosion|sludgewave,terablast,nastyplot,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Flareon||ToxicOrb|Guts|flareblitz,quickattack,trailblaze,facade||85,85,85,85,85,85|M|||90|,,,,,Normal",
   "curation": {

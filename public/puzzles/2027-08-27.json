@@ -19,6 +19,252 @@
     "Lugia",
     "Eelektross"
   ],
+  "playerSets": [
+    {
+      "species": "Cloyster",
+      "level": 80,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Skill Link",
+      "item": "White Herb",
+      "teraType": "Ground",
+      "maxhp": 211,
+      "stats": {
+        "atk": 198,
+        "def": 334,
+        "spa": 182,
+        "spd": 118,
+        "spe": 158
+      },
+      "moves": [
+        {
+          "name": "Rock Blast",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Drill Run",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Eternatus",
+      "level": 69,
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 308,
+      "stats": {
+        "atk": 122,
+        "def": 171,
+        "spa": 240,
+        "spd": 171,
+        "spe": 220
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Dynamax Cannon",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Cryogonal",
+      "level": 89,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 287,
+      "stats": {
+        "atk": 140,
+        "def": 140,
+        "spa": 220,
+        "spd": 291,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Raichu-Alola",
+      "level": 87,
+      "types": [
+        "Electric",
+        "Psychic"
+      ],
+      "ability": "Surge Surfer",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 246,
+      "stats": {
+        "atk": 152,
+        "def": 137,
+        "spa": 215,
+        "spd": 198,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Lugia",
+      "level": 73,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Multiscale",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 275,
+      "stats": {
+        "atk": 136,
+        "def": 232,
+        "spa": 174,
+        "spd": 267,
+        "spe": 203
+      },
+      "moves": [
+        {
+          "name": "Aeroblast",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Eelektross",
+      "level": 87,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 290,
+      "stats": {
+        "atk": 250,
+        "def": 189,
+        "spa": 232,
+        "spd": 189,
+        "spe": 137
+      },
+      "moves": [
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Cloyster||WhiteHerb|SkillLink|rockblast,drillrun,iciclespear,shellsmash||85,85,85,85,85,85|F|||80|,,,,,Ground]Eternatus||Leftovers|Pressure|fireblast,sludgebomb,dynamaxcannon,recover||85,,85,85,85,85|N|,0,,,,||69|,,,,,Dragon]Cryogonal||HeavyDutyBoots|Levitate|rapidspin,terablast,recover,icebeam||85,85,85,85,85,85|N|||89|,,,,,Electric]Raichu|RaichuAlola|LifeOrb|SurgeSurfer|psyshock,focusblast,nastyplot,thunderbolt||85,,85,85,85,85|F|,0,,,,||87|,,,,,Fighting]Lugia||HeavyDutyBoots|Multiscale|aeroblast,psychicnoise,calmmind,recover||85,,85,85,85,85|N|,0,,,,||73|,,,,,Steel]Eelektross||Leftovers|Levitate|supercellslam,drainpunch,firepunch,coil||85,85,85,85,85,85|F|||87|,,,,,Fighting",
   "ai": "Ambipom||ChoiceBand|Technician|knockoff,doubleedge,uturn,tripleaxel||85,85,85,85,85,85|M|||84|,,,,,Ice]Urshifu|UrshifuRapidStrike|ChoiceScarf|UnseenFist|closecombat,icespinner,uturn,surgingstrikes||85,85,85,85,85,85|M|||75|,,,,,Water]Bombirdier||HeavyDutyBoots|BigPecks|roost,knockoff,uturn,bravebird||85,85,85,85,85,85|M|||85|,,,,,Dark]Piloswine||Eviolite|ThickFat|stealthrock,earthquake,iciclecrash,roar||85,85,85,85,85,85|F|||85|,,,,,Poison]Smeargle||WideLens|Technician|shellsmash,powertrip,populationbomb,spore||85,85,85,85,85,85|M|||95|,,,,,Ghost]Flygon||ChoiceScarf|Levitate|outrage,earthquake,uturn,stoneedge||85,85,85,85,85,85|F|||82|,,,,,Rock",
   "curation": {

@@ -19,6 +19,251 @@
     "Urshifu",
     "Florges-White"
   ],
+  "playerSets": [
+    {
+      "species": "Zarude-Dada",
+      "level": 77,
+      "types": [
+        "Dark",
+        "Grass"
+      ],
+      "ability": "Leaf Guard",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 288,
+      "stats": {
+        "atk": 229,
+        "def": 206,
+        "spa": 152,
+        "spd": 191,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Arcanine-Hisui",
+      "level": 79,
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "ability": "Rock Head",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Rock",
+      "maxhp": 280,
+      "stats": {
+        "atk": 227,
+        "def": 172,
+        "spa": 196,
+        "spd": 172,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Head Smash",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Swalot",
+      "level": 90,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Liquid Ooze",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 326,
+      "stats": {
+        "atk": 183,
+        "def": 201,
+        "spa": 183,
+        "spd": 201,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Suicune",
+      "level": 82,
+      "types": [
+        "Water"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 298,
+      "stats": {
+        "atk": 128,
+        "def": 236,
+        "spa": 195,
+        "spd": 236,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Urshifu",
+      "level": 74,
+      "types": [
+        "Fighting",
+        "Dark"
+      ],
+      "ability": "Unseen Fist",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 270,
+      "stats": {
+        "atk": 235,
+        "def": 191,
+        "spa": 136,
+        "spd": 132,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Wicked Blow",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Florges-White",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Flower Veil",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 271,
+      "stats": {
+        "atk": 115,
+        "def": 164,
+        "spa": 239,
+        "spd": 311,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Zarude|ZarudeDada|Leftovers|LeafGuard|synthesis,swordsdance,powerwhip,knockoff||85,85,85,85,85,85|N|||77|,,,,,Grass]Arcanine|ArcanineHisui|HeavyDutyBoots|RockHead|headsmash,morningsun,extremespeed,flareblitz||85,85,85,85,85,85|M|||79|,,,,,Rock]Swalot||Leftovers|LiquidOoze|knockoff,swordsdance,earthquake,gunkshot||85,85,85,85,85,85|F|||90|,,,,,Ground]Suicune||Leftovers|Pressure|scald,substitute,calmmind,protect||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Urshifu||ChoiceBand|UnseenFist|wickedblow,closecombat,uturn,suckerpunch||85,85,85,85,85,85|M|||74|,,,,,Dark]Florges|FlorgesWhite|Leftovers|FlowerVeil|calmmind,moonblast,protect,wish||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
   "ai": "Muk|MukAlola|AssaultVest|PoisonTouch|shadowsneak,poisonjab,drainpunch,knockoff||85,85,85,85,85,85|M|||82|,,,,,Fighting]Basculegion|BasculegionF|AssaultVest|Adaptability|hydropump,shadowball,flipturn,wavecrash||85,85,85,85,85,85|F|||83|,,,,,Water]Klawf||ChoiceBand|Regenerator|stoneedge,knockoff,crabhammer,highhorsepower||85,85,85,85,85,85|F|||90|,,,,,Water]Beartic||HeavyDutyBoots|SlushRush|closecombat,swordsdance,iciclecrash,snowscape||85,85,85,85,85,85|M|||91|,,,,,Fighting]Sneasler||ChoiceBand|PoisonTouch|uturn,closecombat,direclaw,throatchop||85,85,85,85,85,85|F|||74|,,,,,Fighting]Delibird||HeavyDutyBoots|VitalSpirit|rapidspin,freezedry,spikes,bravebird||85,85,85,85,85,85|F||||,,,,,Ghost",
   "curation": {

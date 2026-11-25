@@ -19,6 +19,253 @@
     "Venusaur",
     "Veluza"
   ],
+  "playerSets": [
+    {
+      "species": "Alomomola",
+      "level": 87,
+      "types": [
+        "Water"
+      ],
+      "ability": "Regenerator",
+      "item": "Rocky Helmet",
+      "teraType": "Poison",
+      "maxhp": 429,
+      "stats": {
+        "atk": 180,
+        "def": 189,
+        "spa": 119,
+        "spd": 128,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Urshifu",
+      "level": 74,
+      "types": [
+        "Fighting",
+        "Dark"
+      ],
+      "ability": "Unseen Fist",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 270,
+      "stats": {
+        "atk": 235,
+        "def": 191,
+        "spa": 136,
+        "spd": 132,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Wicked Blow",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Skeledirge",
+      "level": 79,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "ability": "Unaware",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fairy",
+      "maxhp": 294,
+      "stats": {
+        "atk": 164,
+        "def": 204,
+        "spa": 219,
+        "spd": 164,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Torch Song",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Flame Charge",
+          "type": "Fire",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Moltres",
+      "level": 81,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 209,
+        "def": 192,
+        "spa": 249,
+        "spd": 184,
+        "spe": 192
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Scorching Sands",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Venusaur",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 272,
+      "stats": {
+        "atk": 142,
+        "def": 188,
+        "spa": 216,
+        "spd": 216,
+        "spe": 183
+      },
+      "moves": [
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Veluza",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Sharpness",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 292,
+      "stats": {
+        "atk": 222,
+        "def": 173,
+        "spa": 181,
+        "spd": 159,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Aqua Cutter",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Alomomola||RockyHelmet|Regenerator|scald,flipturn,wish,protect||85,85,85,85,85,85|F|||87|,,,,,Poison]Urshifu||ChoiceBand|UnseenFist|wickedblow,poisonjab,closecombat,uturn||85,85,85,85,85,85|F|||74|,,,,,Fighting]Skeledirge||HeavyDutyBoots|Unaware|shadowball,slackoff,torchsong,flamecharge||85,85,85,85,85,85|M|||79|,,,,,Fairy]Moltres||HeavyDutyBoots|FlameBody|fireblast,roost,bravebird,scorchingsands||85,85,85,85,85,85|N|||81|,,,,,Ground]Venusaur||Leftovers|Chlorophyll|leechseed,sludgebomb,substitute,sleeppowder||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Veluza||ChoiceBand|Sharpness|nightslash,psychocut,aquacutter,aquajet||85,85,85,85,85,85|M|||85|,,,,,Dark",
   "ai": "Krookodile||Leftovers|Intimidate|bulkup,earthquake,gunkshot,knockoff||85,85,85,85,85,85|M|||79|,,,,,Poison]Jirachi||Leftovers|SereneGrace|bodyslam,wish,ironhead,protect||85,85,85,85,85,85|N|||80|,,,,,Water]Pikachu|PikachuHoenn|LightBall|LightningRod|playrough,volttackle,knockoff,surf||85,85,85,85,85,85|M|||93|,,,,,Water]Ampharos||LifeOrb|Static|focusblast,agility,thunderbolt,dazzlinggleam||85,,85,85,85,85|M|,0,,,,||88|,,,,,Electric]Breloom||LifeOrb|Technician|rocktomb,spore,bulletseed,machpunch||85,85,85,85,85,85|M|||83|,,,,,Rock]Inteleon||ChoiceSpecs|Torrent|uturn,scald,icebeam,hydropump||85,85,85,85,85,85|F|||81|,,,,,Water",
   "curation": {

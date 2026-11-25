@@ -19,6 +19,251 @@
     "Misdreavus",
     "Yanmega"
   ],
+  "playerSets": [
+    {
+      "species": "Grumpig",
+      "level": 92,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Thick Fat",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 297,
+      "stats": {
+        "atk": 87,
+        "def": 172,
+        "spa": 218,
+        "spd": 255,
+        "spe": 200
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Regieleki",
+      "level": 79,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Transistor",
+      "item": "Magnet",
+      "teraType": "Electric",
+      "maxhp": 256,
+      "stats": {
+        "atk": 204,
+        "def": 125,
+        "spa": 204,
+        "spd": 125,
+        "spe": 362
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Noivern",
+      "level": 82,
+      "types": [
+        "Flying",
+        "Dragon"
+      ],
+      "ability": "Infiltrator",
+      "item": "Choice Specs",
+      "teraType": "Normal",
+      "maxhp": 274,
+      "stats": {
+        "atk": 119,
+        "def": 178,
+        "spa": 206,
+        "spd": 178,
+        "spe": 249
+      },
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Boomburst",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Virizion",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Rock",
+      "maxhp": 283,
+      "stats": {
+        "atk": 195,
+        "def": 165,
+        "spa": 195,
+        "spd": 259,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Misdreavus",
+      "level": 90,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Levitate",
+      "item": "Eviolite",
+      "teraType": "Fairy",
+      "maxhp": 254,
+      "stats": {
+        "atk": 113,
+        "def": 159,
+        "spa": 204,
+        "spd": 204,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Yanmega",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "ability": "Tinted Lens",
+      "item": "Choice Specs",
+      "teraType": "Bug",
+      "maxhp": 275,
+      "stats": {
+        "atk": 172,
+        "def": 188,
+        "spa": 237,
+        "spd": 139,
+        "spe": 203
+      },
+      "moves": [
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Grumpig||Leftovers|ThickFat|shadowball,nastyplot,psychic,focusblast||85,,85,85,85,85|M|,0,,,,||92|,,,,,Fighting]Regieleki||Magnet|Transistor|thunderbolt,rapidspin,explosion,voltswitch||85,85,85,85,85,85|N|||79|,,,,,Electric]Noivern||ChoiceSpecs|Infiltrator|flamethrower,hurricane,dracometeor,boomburst||85,,85,85,85,85|F|,0,,,,||82|,,,,,Normal]Virizion||LifeOrb|Justified|swordsdance,leafblade,closecombat,stoneedge||85,85,85,85,85,85|N|||82|,,,,,Rock]Misdreavus||Eviolite|Levitate|willowisp,calmmind,shadowball,drainingkiss||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Yanmega||ChoiceSpecs|TintedLens|airslash,gigadrain,bugbuzz,uturn||85,85,85,85,85,85|F|||82|,,,,,Bug",
   "ai": "Armarouge||PowerHerb|WeakArmor|armorcannon,psyshock,meteorbeam,energyball||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Moltres||HeavyDutyBoots|FlameBody|scorchingsands,fireblast,roost,bravebird||85,85,85,85,85,85|N|||81|,,,,,Ground]Salamence||HeavyDutyBoots|Intimidate|earthquake,outrage,dragondance,dualwingbeat||85,85,85,85,85,85|F|||77|,,,,,Ground]Solgaleo||Leftovers|FullMetalBody|earthquake,roar,sunsteelstrike,morningsun||85,85,85,85,85,85|N|||74|,,,,,Water]Inteleon||ChoiceSpecs|Torrent|uturn,hydropump,icebeam,scald||85,85,85,85,85,85|F|||81|,,,,,Water]Clefable||Leftovers|Unaware|calmmind,fireblast,moonlight,moonblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Steel",
   "curation": {

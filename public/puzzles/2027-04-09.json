@@ -19,6 +19,253 @@
     "Lapras",
     "Gliscor"
   ],
+  "playerSets": [
+    {
+      "species": "Solgaleo",
+      "level": 74,
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "ability": "Full Metal Body",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 325,
+      "stats": {
+        "atk": 246,
+        "def": 201,
+        "spa": 210,
+        "spd": 175,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Sunsteel Strike",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Teleport",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Rhyperior",
+      "level": 82,
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "ability": "Solid Rock",
+      "item": "Assault Vest",
+      "teraType": "Bug",
+      "maxhp": 323,
+      "stats": {
+        "atk": 277,
+        "def": 260,
+        "spa": 137,
+        "spd": 137,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Sneasler",
+      "level": 74,
+      "types": [
+        "Fighting",
+        "Poison"
+      ],
+      "ability": "Unburden",
+      "item": "White Herb",
+      "teraType": "Flying",
+      "maxhp": 240,
+      "stats": {
+        "atk": 235,
+        "def": 132,
+        "spa": 102,
+        "spd": 161,
+        "spe": 221
+      },
+      "moves": [
+        {
+          "name": "Dire Claw",
+          "type": "Poison",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Lumineon",
+      "level": 93,
+      "types": [
+        "Water"
+      ],
+      "ability": "Storm Drain",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 279,
+      "stats": {
+        "atk": 181,
+        "def": 194,
+        "spa": 181,
+        "spd": 213,
+        "spe": 222
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Lapras",
+      "level": 87,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Water Absorb",
+      "item": "Loaded Dice",
+      "teraType": "Ground",
+      "maxhp": 367,
+      "stats": {
+        "atk": 198,
+        "def": 189,
+        "spa": 198,
+        "spd": 215,
+        "spe": 154
+      },
+      "moves": [
+        {
+          "name": "Waterfall",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Gliscor",
+      "level": 76,
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "ability": "Poison Heal",
+      "item": "Toxic Orb",
+      "teraType": "Water",
+      "maxhp": 239,
+      "stats": {
+        "atk": 188,
+        "def": 234,
+        "spa": 112,
+        "spd": 158,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Solgaleo||Leftovers|FullMetalBody|knockoff,sunsteelstrike,teleport,morningsun||85,85,85,85,85,85|N|||74|,,,,,Water]Rhyperior||AssaultVest|SolidRock|stoneedge,megahorn,earthquake,dragontail||85,85,85,85,85,85|F|||82|,,,,,Bug]Sneasler||WhiteHerb|Unburden|direclaw,swordsdance,acrobatics,closecombat||85,85,85,85,85,85|F|||74|,,,,,Flying]Lumineon||HeavyDutyBoots|StormDrain|uturn,hydropump,encore,icebeam||85,85,85,85,85,85|M|||93|,,,,,Ground]Lapras||LoadedDice|WaterAbsorb|waterfall,dragondance,iciclespear,earthquake||81,85,85,85,85,85|F|||87|,,,,,Ground]Gliscor||ToxicOrb|PoisonHeal|toxic,earthquake,substitute,protect||85,85,85,85,85,85|M|||76|,,,,,Water",
   "ai": "Cinderace||HeavyDutyBoots|Libero|willowisp,courtchange,pyroball,uturn||85,85,85,85,85,85|F|||77|,,,,,Grass]Malamar||Leftovers|Contrary|rest,knockoff,superpower,sleeptalk||85,85,85,85,85,85|F|||82|,,,,,Fighting]Mew||LifeOrb|Synchronize|swordsdance,closecombat,psychicfangs,knockoff||85,85,85,85,85,85|N|||82|,,,,,Fighting]Oricorio|OricorioSensu|HeavyDutyBoots|Dancer|revelationdance,hurricane,roost,quiverdance||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fighting]Falinks||LifeOrb|Defiant|ironhead,closecombat,noretreat,knockoff||85,85,85,85,85,85|N|||84|,,,,,Dark]Sneasler||ChoiceBand|PoisonTouch|uturn,direclaw,throatchop,closecombat||85,85,85,85,85,85|F|||74|,,,,,Fighting",
   "curation": {

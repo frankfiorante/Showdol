@@ -19,6 +19,252 @@
     "Clodsire",
     "Florges-White"
   ],
+  "playerSets": [
+    {
+      "species": "Dodrio",
+      "level": 85,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Early Bird",
+      "item": "Choice Band",
+      "teraType": "Ground",
+      "maxhp": 241,
+      "stats": {
+        "atk": 236,
+        "def": 168,
+        "spa": 151,
+        "spd": 151,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Drill Run",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Golem",
+      "level": 87,
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "ability": "Sturdy",
+      "item": "Weakness Policy",
+      "teraType": "Steel",
+      "maxhp": 281,
+      "stats": {
+        "atk": 259,
+        "def": 276,
+        "spa": 145,
+        "spd": 163,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Rock Polish",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Scream Tail",
+      "level": 84,
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 330,
+      "stats": {
+        "atk": 157,
+        "def": 215,
+        "spa": 157,
+        "spd": 241,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Pachirisu",
+      "level": 96,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 271,
+      "stats": {
+        "atk": 141,
+        "def": 189,
+        "spa": 141,
+        "spd": 227,
+        "spe": 237
+      },
+      "moves": [
+        {
+          "name": "Super Fang",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Clodsire",
+      "level": 81,
+      "types": [
+        "Poison",
+        "Ground"
+      ],
+      "ability": "Unaware",
+      "item": "Leftovers",
+      "teraType": "Flying",
+      "maxhp": 343,
+      "stats": {
+        "atk": 168,
+        "def": 144,
+        "spa": 120,
+        "spd": 209,
+        "spe": 79
+      },
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Florges-White",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Flower Veil",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 271,
+      "stats": {
+        "atk": 115,
+        "def": 164,
+        "spa": 239,
+        "spd": 311,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Dodrio||ChoiceBand|EarlyBird|quickattack,doubleedge,bravebird,drillrun||85,85,85,85,85,85|M|||85|,,,,,Ground]Golem||WeaknessPolicy|Sturdy|earthquake,stoneedge,rockpolish,explosion||85,85,85,85,85,85|M|||87|,,,,,Steel]Scream Tail||Leftovers|Protosynthesis|wish,playrough,thunderwave,protect||85,85,85,85,85,85|N|||84|,,,,,Steel]Pachirisu||HeavyDutyBoots|VoltAbsorb|superfang,uturn,encore,discharge||85,85,85,85,85,85|F|||96|,,,,,Flying]Clodsire||Leftovers|Unaware|toxic,poisonjab,earthquake,recover||85,85,85,85,85,85|F|||81|,,,,,Flying]Florges|FlorgesWhite|Leftovers|FlowerVeil|wish,moonblast,protect,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
   "ai": "Latios||ChoiceSpecs|Levitate|aurasphere,flipturn,dracometeor,lusterpurge||85,85,85,85,85,85|M|||78|,,,,,Dragon]Morpeko||HeavyDutyBoots|HungerSwitch|aurawheel,rapidspin,partingshot,protect||85,85,85,85,85,85|M|||88|,,,,,Electric]Golem|GolemAlola|LifeOrb|Galvanize|stoneedge,doubleedge,rockpolish,earthquake||85,85,85,85,85,85|M|||93|,,,,,Flying]Torkoal||HeavyDutyBoots|Drought|lavaplume,stealthrock,solarbeam,yawn||85,,85,85,85,85|F|,0,,,,||88|,,,,,Grass]Clawitzer||ChoiceSpecs|MegaLauncher|uturn,aurasphere,waterpulse,icebeam||85,85,85,85,85,85|F|||87|,,,,,Fighting]Ogerpon|OgerponHearthflame|HearthflameMask|MoldBreaker|swordsdance,knockoff,ivycudgel,powerwhip||77,85,85,85,85,85|F|||74|,,,,,Fire",
   "curation": {

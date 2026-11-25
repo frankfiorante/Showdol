@@ -19,6 +19,252 @@
     "Basculin-Blue-Striped",
     "Ceruledge"
   ],
+  "playerSets": [
+    {
+      "species": "Dragonite",
+      "level": 74,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "ability": "Multiscale",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 257,
+      "stats": {
+        "atk": 241,
+        "def": 184,
+        "spa": 191,
+        "spd": 191,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dewgong",
+      "level": 94,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "ability": "Thick Fat",
+      "item": "Assault Vest",
+      "teraType": "Poison",
+      "maxhp": 322,
+      "stats": {
+        "atk": 185,
+        "def": 204,
+        "spa": 185,
+        "spd": 232,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Meloetta",
+      "level": 82,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 298,
+      "stats": {
+        "atk": 131,
+        "def": 173,
+        "spa": 257,
+        "spd": 257,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Plusle",
+      "level": 95,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Lightning Rod",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 268,
+      "stats": {
+        "atk": 100,
+        "def": 130,
+        "spa": 215,
+        "spd": 196,
+        "spe": 234
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Basculin-Blue-Striped",
+      "level": 86,
+      "types": [
+        "Water"
+      ],
+      "ability": "Adaptability",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 261,
+      "stats": {
+        "atk": 207,
+        "def": 161,
+        "spa": 187,
+        "spd": 144,
+        "spe": 218
+      },
+      "moves": [
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ceruledge",
+      "level": 78,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "ability": "Weak Armor",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 245,
+      "stats": {
+        "atk": 240,
+        "def": 170,
+        "spa": 139,
+        "spd": 201,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Bitter Blade",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Dragonite||HeavyDutyBoots|Multiscale|terablast,outrage,dragondance,earthquake||85,85,85,85,85,85|F|||74|,,,,,Flying]Dewgong||AssaultVest|ThickFat|knockoff,tripleaxel,flipturn,surf||85,85,85,85,85,85|F|||94|,,,,,Poison]Meloetta||Leftovers|SereneGrace|hypervoice,psyshock,focusblast,calmmind||85,,85,85,85,85|N|,0,,,,||82|,,,,,Fighting]Plusle||LifeOrb|LightningRod|encore,grassknot,thunderbolt,nastyplot||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass]Basculin|BasculinBlueStriped|ChoiceBand|Adaptability|flipturn,aquajet,doubleedge,wavecrash||85,85,85,85,85,85|F|||86|,,,,,Water]Ceruledge||HeavyDutyBoots|WeakArmor|swordsdance,closecombat,poltergeist,bitterblade||85,85,85,85,85,85|F|||78|,,,,,Ghost",
   "ai": "Rotom|RotomFrost|HeavyDutyBoots|Levitate|thunderbolt,willowisp,voltswitch,blizzard||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric]Comfey||Leftovers|Triage|calmmind,terablast,encore,drainingkiss||85,,85,85,85,85|M|,0,,,,||85|,,,,,Ground]Meowstic||LightClay|Prankster|reflect,lightscreen,psychicnoise,yawn||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Calyrex|CalyrexShadow|ChoiceSpecs|AsOneSpectrier|trick,psyshock,astralbarrage,pollenpuff||85,,85,85,85,85|N|,0,,,,||64|,,,,,Ghost]Keldeo|KeldeoResolute|ChoiceSpecs|Justified|vacuumwave,secretsword,hydropump,airslash||85,,85,85,85,85|N|,0,,,,||79|,,,,,Fighting]Cinccino||LoadedDice|Technician|bulletseed,uturn,tripleaxel,tailslap||85,85,85,85,85,85|F|||83|,,,,,Grass",
   "curation": {

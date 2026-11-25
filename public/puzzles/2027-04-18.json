@@ -19,6 +19,252 @@
     "Miraidon",
     "Glimmora"
   ],
+  "playerSets": [
+    {
+      "species": "Floatzel",
+      "level": 86,
+      "types": [
+        "Water"
+      ],
+      "ability": "Water Veil",
+      "item": "Choice Band",
+      "teraType": "Water",
+      "maxhp": 286,
+      "stats": {
+        "atk": 230,
+        "def": 144,
+        "spa": 195,
+        "spd": 135,
+        "spe": 247
+      },
+      "moves": [
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Chien-Pao",
+      "level": 72,
+      "types": [
+        "Dark",
+        "Ice"
+      ],
+      "ability": "Sword of Ruin",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 234,
+      "stats": {
+        "atk": 215,
+        "def": 157,
+        "spa": 172,
+        "spd": 136,
+        "spe": 236
+      },
+      "moves": [
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sacred Sword",
+          "type": "Fighting",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Vigoroth",
+      "level": 85,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Vital Spirit",
+      "item": "Eviolite",
+      "teraType": "Ghost",
+      "maxhp": 275,
+      "stats": {
+        "atk": 185,
+        "def": 185,
+        "spa": 142,
+        "spd": 142,
+        "spe": 202
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Archaludon",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Stamina",
+      "item": "Lum Berry",
+      "teraType": "Ground",
+      "maxhp": 265,
+      "stats": {
+        "atk": 206,
+        "def": 245,
+        "spa": 237,
+        "spd": 145,
+        "spe": 175
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Miraidon",
+      "level": 65,
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "ability": "Hadron Engine",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 238,
+      "stats": {
+        "atk": 115,
+        "def": 168,
+        "spa": 214,
+        "spd": 188,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Electro Drift",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Glimmora",
+      "level": 75,
+      "types": [
+        "Rock",
+        "Poison"
+      ],
+      "ability": "Toxic Debris",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 248,
+      "stats": {
+        "atk": 126,
+        "def": 179,
+        "spa": 239,
+        "spd": 165,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Mortal Spin",
+          "type": "Poison",
+          "pp": 24
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Floatzel||ChoiceBand|WaterVeil|icespinner,wavecrash,flipturn,crunch||85,85,85,85,85,85|F|||86|,,,,,Water]Chien-Pao||HeavyDutyBoots|SwordofRuin|iciclecrash,swordsdance,throatchop,sacredsword||85,85,85,85,85,85|N|||72|,,,,,Dark]Vigoroth||Eviolite|VitalSpirit|knockoff,slackoff,bodyslam,bulkup||85,85,85,85,85,85|F|||85|,,,,,Ghost]Archaludon||LumBerry|Stamina|ironhead,swordsdance,outrage,earthquake||85,85,85,85,85,85|F|||77|,,,,,Ground]Miraidon||LifeOrb|HadronEngine|calmmind,electrodrift,dracometeor,dragonpulse||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Glimmora||HeavyDutyBoots|ToxicDebris|mortalspin,spikes,sludgewave,earthpower||85,85,85,85,85,85|F|||75|,,,,,Ground",
   "ai": "Zoroark||LifeOrb|Illusion|focusblast,nastyplot,darkpulse,sludgebomb||85,,85,85,85,85|M|,0,,,,||83|,,,,,Poison]Comfey||Leftovers|Triage|drainingkiss,synthesis,terablast,calmmind||85,,85,85,85,85|M|,0,,,,||85|,,,,,Ground]Hitmontop||Leftovers|Technician|closecombat,rapidspin,bulkup,tripleaxel||85,85,85,85,85,85|M|||88|,,,,,Ice]Toedscruel||Leftovers|MyceliumMight|knockoff,toxic,gigadrain,earthpower||85,85,85,85,85,85|M|||87|,,,,,Water]Empoleon||Leftovers|Competitive|roost,surf,icebeam,stealthrock||85,,85,85,85,85|F|,0,,,,||84|,,,,,Flying]Excadrill||AssaultVest|MoldBreaker|rapidspin,rockslide,ironhead,earthquake||85,85,85,85,85,85|F|||79|,,,,,Water",
   "curation": {

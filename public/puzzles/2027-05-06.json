@@ -19,6 +19,253 @@
     "Flygon",
     "Keldeo-Resolute"
   ],
+  "playerSets": [
+    {
+      "species": "Houndoom",
+      "level": 87,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "ability": "Flash Fire",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 272,
+      "stats": {
+        "atk": 206,
+        "def": 137,
+        "spa": 241,
+        "spd": 189,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Sylveon",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Pixilate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 300,
+      "stats": {
+        "atk": 115,
+        "def": 159,
+        "spa": 236,
+        "spd": 270,
+        "spe": 151
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Armarouge",
+      "level": 80,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ability": "Weak Armor",
+      "item": "Choice Specs",
+      "teraType": "Grass",
+      "maxhp": 267,
+      "stats": {
+        "atk": 101,
+        "def": 206,
+        "spa": 246,
+        "spd": 174,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Armor Cannon",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sinistcha-Masterpiece",
+      "level": 83,
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "ability": "Heatproof",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 254,
+      "stats": {
+        "atk": 104,
+        "def": 224,
+        "spa": 249,
+        "spd": 180,
+        "spe": 164
+      },
+      "moves": [
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Matcha Gotcha",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Flygon",
+      "level": 82,
+      "types": [
+        "Ground",
+        "Dragon"
+      ],
+      "ability": "Levitate",
+      "item": "Lum Berry",
+      "teraType": "Rock",
+      "maxhp": 265,
+      "stats": {
+        "atk": 211,
+        "def": 178,
+        "spa": 178,
+        "spd": 178,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Keldeo-Resolute",
+      "level": 79,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 273,
+      "stats": {
+        "atk": 118,
+        "def": 188,
+        "spa": 249,
+        "spd": 188,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Secret Sword",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Houndoom||HeavyDutyBoots|FlashFire|darkpulse,suckerpunch,fireblast,nastyplot||85,85,85,85,85,85|M|||87|,,,,,Dark]Sylveon||Leftovers|Pixilate|wish,protect,hypervoice,calmmind||85,,85,85,85,85|M|,0,,,,||85|,,,,,Steel]Armarouge||ChoiceSpecs|WeakArmor|psyshock,aurasphere,energyball,armorcannon||85,,85,85,85,85|M|,0,,,,||80|,,,,,Grass]Sinistcha|SinistchaMasterpiece|Leftovers|Heatproof|strengthsap,matchagotcha,calmmind,shadowball||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Flygon||LumBerry|Levitate|outrage,earthquake,dragondance,stoneedge||85,85,85,85,85,85|F|||82|,,,,,Rock]Keldeo|KeldeoResolute|Leftovers|Justified|surf,substitute,calmmind,secretsword||85,,85,85,85,85|N|,0,,,,||79|,,,,,Steel",
   "ai": "Heatran||AirBalloon|FlashFire|lavaplume,earthpower,stealthrock,heavyslam||85,85,85,85,85,85|M|||79|,,,,,Flying]Cetitan||SitrusBerry|ThickFat|bellydrum,iceshard,earthquake,icespinner||81,85,85,85,85,85|F|||82|,,,,,Ice]Talonflame||HeavyDutyBoots|GaleWings|terablast,swordsdance,flareblitz,bravebird||85,85,85,85,85,85|M|||83|,,,,,Ground]Toucannon||HeavyDutyBoots|SkillLink|boomburst,roost,bulletseed,beakblast||85,85,85,85,85,85|M|||88|,,,,,Steel]Goodra||AssaultVest|SapSipper|powerwhip,dracometeor,sludgebomb,fireblast||85,85,85,85,85,85|M|||85|,,,,,Poison]Munkidori||AssaultVest|ToxicChain|uturn,sludgewave,fakeout,psychicnoise||85,85,85,85,85,85|M|||79|,,,,,Dark",
   "curation": {

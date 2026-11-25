@@ -19,6 +19,253 @@
     "Virizion",
     "Salazzle"
   ],
+  "playerSets": [
+    {
+      "species": "Ogerpon-Cornerstone",
+      "level": 76,
+      "types": [
+        "Grass",
+        "Rock"
+      ],
+      "ability": "Sturdy",
+      "item": "Cornerstone Mask",
+      "teraType": "Rock",
+      "maxhp": 247,
+      "stats": {
+        "atk": 226,
+        "def": 172,
+        "spa": 135,
+        "spd": 190,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Ivy Cudgel",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Tyranitar",
+      "level": 78,
+      "types": [
+        "Rock",
+        "Dark"
+      ],
+      "ability": "Sand Stream",
+      "item": "Weakness Policy",
+      "teraType": "Ghost",
+      "maxhp": 284,
+      "stats": {
+        "atk": 254,
+        "def": 217,
+        "spa": 193,
+        "spd": 201,
+        "spe": 140
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Reshiram",
+      "level": 76,
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "ability": "Turboblaze",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 277,
+      "stats": {
+        "atk": 187,
+        "def": 196,
+        "spa": 272,
+        "spd": 226,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Blue Flare",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Umbreon",
+      "level": 84,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Synchronize",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 297,
+      "stats": {
+        "atk": 114,
+        "def": 233,
+        "spa": 149,
+        "spd": 267,
+        "spe": 157
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Virizion",
+      "level": 82,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Justified",
+      "item": "Life Orb",
+      "teraType": "Rock",
+      "maxhp": 283,
+      "stats": {
+        "atk": 195,
+        "def": 165,
+        "spa": 195,
+        "spd": 259,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Salazzle",
+      "level": 83,
+      "types": [
+        "Poison",
+        "Fire"
+      ],
+      "ability": "Corrosion",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 249,
+      "stats": {
+        "atk": 111,
+        "def": 147,
+        "spa": 232,
+        "spd": 147,
+        "spe": 242
+      },
+      "moves": [
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Ogerpon|OgerponCornerstone|CornerstoneMask|Sturdy|swordsdance,hornleech,superpower,ivycudgel||85,85,85,85,85,85|F|||76|,,,,,Rock]Tyranitar||WeaknessPolicy|SandStream|stoneedge,dragondance,knockoff,earthquake||85,85,85,85,85,85|M|||78|,,,,,Ghost]Reshiram||HeavyDutyBoots|Turboblaze|dracometeor,blueflare,willowisp,earthpower||85,,85,85,85,85|N|,0,,,,||76|,,,,,Ground]Umbreon||Leftovers|Synchronize|protect,foulplay,toxic,wish||85,,85,85,85,85|F|,0,,,,||84|,,,,,Poison]Virizion||LifeOrb|Justified|closecombat,swordsdance,stoneedge,leafblade||85,85,85,85,85,85|N|||82|,,,,,Rock]Salazzle||HeavyDutyBoots|Corrosion|sludgewave,terablast,fireblast,nastyplot||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass",
   "ai": "Dewgong||HeavyDutyBoots|ThickFat|knockoff,hydropump,encore,icebeam||85,85,85,85,85,85|M|||94|,,,,,Grass]Moltres||HeavyDutyBoots|FlameBody|fireblast,uturn,roost,bravebird||85,85,85,85,85,85|N|||81|,,,,,Steel]Klawf||LifeOrb|Regenerator|knockoff,stealthrock,stoneedge,highhorsepower||85,85,85,85,85,85|F|||90|,,,,,Ground]Bisharp||Eviolite|Defiant|suckerpunch,ironhead,throatchop,swordsdance||85,85,85,85,85,85|F|||79|,,,,,Flying]Espeon||ChoiceSpecs|MagicBounce|shadowball,trick,psyshock,alluringvoice||85,,85,85,85,85|F|,0,,,,||84|,,,,,Psychic]Dipplin||Eviolite|StickyHold|dragontail,recover,gigadrain,dragonpulse||85,85,85,85,85,85|F|||88|,,,,,Steel",
   "curation": {

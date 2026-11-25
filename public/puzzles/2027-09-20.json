@@ -19,6 +19,252 @@
     "Ogerpon-Hearthflame",
     "Shiftry"
   ],
+  "playerSets": [
+    {
+      "species": "Palkia",
+      "level": 75,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Lustrous Orb",
+      "teraType": "Fire",
+      "maxhp": 259,
+      "stats": {
+        "atk": 185,
+        "def": 194,
+        "spa": 269,
+        "spd": 224,
+        "spe": 194
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Spacial Rend",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Landorus",
+      "level": 75,
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 257,
+      "stats": {
+        "atk": 192,
+        "def": 179,
+        "spa": 216,
+        "spd": 164,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Arcanine",
+      "level": 84,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Normal",
+      "maxhp": 288,
+      "stats": {
+        "atk": 233,
+        "def": 183,
+        "spa": 216,
+        "spd": 183,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Extreme Speed",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Glastrier",
+      "level": 86,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Chilling Neigh",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 312,
+      "stats": {
+        "atk": 299,
+        "def": 273,
+        "spa": 161,
+        "spd": 238,
+        "spe": 101
+      },
+      "moves": [
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ogerpon-Hearthflame",
+      "level": 74,
+      "types": [
+        "Grass",
+        "Fire"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Hearthflame Mask",
+      "teraType": "Fire",
+      "maxhp": 239,
+      "stats": {
+        "atk": 221,
+        "def": 167,
+        "spa": 132,
+        "spd": 185,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Ivy Cudgel",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Shiftry",
+      "level": 89,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Wind Rider",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 305,
+      "stats": {
+        "atk": 229,
+        "def": 158,
+        "spa": 211,
+        "spd": 158,
+        "spe": 193
+      },
+      "moves": [
+        {
+          "name": "Tailwind",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Low Kick",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    }
+  ],
   "player": "Palkia||LustrousOrb|Pressure|fireblast,spacialrend,hydropump,thunderwave||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fire]Landorus||LifeOrb|SheerForce|earthpower,nastyplot,sludgewave,focusblast||85,,85,85,85,85|M|,0,,,,||75|,,,,,Poison]Arcanine||HeavyDutyBoots|Intimidate|morningsun,closecombat,flareblitz,extremespeed||85,85,85,85,85,85|M|||84|,,,,,Normal]Glastrier||HeavyDutyBoots|ChillingNeigh|highhorsepower,swordsdance,closecombat,iciclecrash||85,85,85,85,85,85|N|||86|,,,,,Fighting]Ogerpon|OgerponHearthflame|HearthflameMask|MoldBreaker|hornleech,swordsdance,trailblaze,ivycudgel||77,85,85,85,85,85|F|||74|,,,,,Fire]Shiftry||LifeOrb|WindRider|tailwind,knockoff,lowkick,leafblade||85,85,85,85,85,85|M|||89|,,,,,Dark",
   "ai": "Gouging Fire||HeavyDutyBoots|Protosynthesis|heatcrash,dragondance,outrage,morningsun||85,85,85,85,85,85|N|||74|,,,,,Fairy]Urshifu|UrshifuRapidStrike|ChoiceBand|UnseenFist|icespinner,uturn,closecombat,surgingstrikes||85,85,85,85,85,85|F|||75|,,,,,Water]Lokix||SilverPowder|TintedLens|firstimpression,uturn,knockoff,suckerpunch||85,85,85,85,85,85|M|||82|,,,,,Bug]Lilligant||LifeOrb|OwnTempo|alluringvoice,quiverdance,sleeppowder,petaldance||85,,85,85,85,85|F|,0,,,,||86|,,,,,Grass]Phione||Leftovers|Hydration|grassknot,icebeam,takeheart,scald||85,,85,85,85,85|N|,0,,,,||91|,,,,,Steel]Altaria||HeavyDutyBoots|NaturalCure|bravebird,haze,roost,defog||85,85,85,85,85,85|F|||89|,,,,,Steel",
   "curation": {

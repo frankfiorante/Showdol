@@ -19,6 +19,254 @@
     "Kingdra",
     "Urshifu"
   ],
+  "playerSets": [
+    {
+      "species": "Tauros-Paldea-Aqua",
+      "level": 81,
+      "types": [
+        "Fighting",
+        "Water"
+      ],
+      "ability": "Intimidate",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 254,
+      "stats": {
+        "atk": 225,
+        "def": 217,
+        "spa": 95,
+        "spd": 160,
+        "spe": 209
+      },
+      "moves": [
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Iron Moth",
+      "level": 78,
+      "types": [
+        "Fire",
+        "Poison"
+      ],
+      "ability": "Quark Drive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 253,
+      "stats": {
+        "atk": 114,
+        "def": 139,
+        "spa": 263,
+        "spd": 217,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Fiery Dance",
+          "type": "Fire",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Volcarona",
+      "level": 77,
+      "types": [
+        "Bug",
+        "Fire"
+      ],
+      "ability": "Swarm",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 257,
+      "stats": {
+        "atk": 97,
+        "def": 145,
+        "spa": 252,
+        "spd": 206,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hoopa",
+      "level": 85,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "ability": "Magician",
+      "item": "Choice Scarf",
+      "teraType": "Psychic",
+      "maxhp": 275,
+      "stats": {
+        "atk": 192,
+        "def": 151,
+        "spa": 304,
+        "spd": 270,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Kingdra",
+      "level": 84,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Swift Swim",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 263,
+      "stats": {
+        "atk": 208,
+        "def": 208,
+        "spa": 208,
+        "spd": 208,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Rain Dance",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Urshifu",
+      "level": 74,
+      "types": [
+        "Fighting",
+        "Dark"
+      ],
+      "ability": "Unseen Fist",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 270,
+      "stats": {
+        "atk": 235,
+        "def": 191,
+        "spa": 136,
+        "spd": 132,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Wicked Blow",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Tauros|TaurosPaldeaAqua|LifeOrb|Intimidate|aquajet,closecombat,liquidation,bulkup||85,85,85,85,85,85|M|||81|,,,,,Water]Iron Moth||HeavyDutyBoots|QuarkDrive|morningsun,sludgewave,toxicspikes,fierydance||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fire]Volcarona||HeavyDutyBoots|Swarm|quiverdance,fireblast,gigadrain,bugbuzz||85,,85,85,85,85|M|,0,,,,||77|,,,,,Fire]Hoopa||ChoiceScarf|Magician|focusblast,trick,shadowball,psychic||85,,85,85,85,85|N|,0,,,,||85|,,,,,Psychic]Kingdra||LifeOrb|SwiftSwim|raindance,dracometeor,hurricane,wavecrash||85,85,85,85,85,85|F|||84|,,,,,Water]Urshifu||ChoiceBand|UnseenFist|suckerpunch,uturn,closecombat,wickedblow||85,85,85,85,85,85|F|||74|,,,,,Dark",
   "ai": "Dusknoir||ChoiceBand|Frisk|poltergeist,earthquake,trick,shadowsneak||85,85,85,85,85,85|F|||89|,,,,,Ground]Medicham||ChoiceScarf|PurePower|closecombat,zenheadbutt,poisonjab,trick||85,85,85,85,85,85|M|||86|,,,,,Fighting]Glalie||HeavyDutyBoots|InnerFocus|spikes,earthquake,freezedry,taunt||85,85,85,85,85,85|F|||96|,,,,,Ground]Emboar||AssaultVest|Reckless|wildcharge,knockoff,closecombat,flareblitz||85,85,85,85,85,85|F|||84|,,,,,Fire]Skarmory||RockyHelmet|Sturdy|stealthrock,bodypress,roost,bravebird||85,85,85,85,85,85|M|||80|,,,,,Dragon]Talonflame||HeavyDutyBoots|FlameBody|bravebird,flareblitz,terablast,swordsdance||85,85,85,85,85,85|F|||83|,,,,,Ground",
   "curation": {

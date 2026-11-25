@@ -19,6 +19,251 @@
     "Toxtricity",
     "Ariados"
   ],
+  "playerSets": [
+    {
+      "species": "Mesprit",
+      "level": 85,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Specs",
+      "teraType": "Electric",
+      "maxhp": 275,
+      "stats": {
+        "atk": 183,
+        "def": 227,
+        "spa": 227,
+        "spd": 227,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Blaziken",
+      "level": 76,
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "ability": "Speed Boost",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 247,
+      "stats": {
+        "atk": 226,
+        "def": 150,
+        "spa": 211,
+        "spd": 150,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Mabosstiff",
+      "level": 86,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Stakeout",
+      "item": "Choice Band",
+      "teraType": "Fairy",
+      "maxhp": 278,
+      "stats": {
+        "atk": 256,
+        "def": 204,
+        "spa": 152,
+        "spd": 170,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Psychic Fangs",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Komala",
+      "level": 87,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Comatose",
+      "item": "Assault Vest",
+      "teraType": "Ghost",
+      "maxhp": 255,
+      "stats": {
+        "atk": 250,
+        "def": 163,
+        "spa": 180,
+        "spd": 215,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Toxtricity",
+      "level": 82,
+      "types": [
+        "Electric",
+        "Poison"
+      ],
+      "ability": "Punk Rock",
+      "item": "Choice Specs",
+      "teraType": "Normal",
+      "maxhp": 257,
+      "stats": {
+        "atk": 165,
+        "def": 162,
+        "spa": 234,
+        "spd": 162,
+        "spe": 170
+      },
+      "moves": [
+        {
+          "name": "Sludge Wave",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Overdrive",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Boomburst",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Ariados",
+      "level": 95,
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "ability": "Insomnia",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 287,
+      "stats": {
+        "atk": 225,
+        "def": 187,
+        "spa": 168,
+        "spd": 187,
+        "spe": 130
+      },
+      "moves": [
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Mesprit||ChoiceSpecs|Levitate|thunderbolt,shadowball,dazzlinggleam,psychic||85,,85,85,85,85|N|,0,,,,||85|,,,,,Electric]Blaziken||LifeOrb|SpeedBoost|knockoff,swordsdance,flareblitz,closecombat||85,85,85,85,85,85|F|||76|,,,,,Dark]Mabosstiff||ChoiceBand|Stakeout|wildcharge,psychicfangs,crunch,playrough||85,85,85,85,85,85|M|||86|,,,,,Fairy]Komala||AssaultVest|Comatose|knockoff,bodyslam,rapidspin,uturn||85,85,85,85,85,85|M|||87|,,,,,Ghost]Toxtricity||ChoiceSpecs|PunkRock|sludgewave,overdrive,boomburst,voltswitch||85,,85,85,85,85|M|,0,,,,||82|,,,,,Normal]Ariados||HeavyDutyBoots|Insomnia|poisonjab,suckerpunch,stickyweb,megahorn||85,85,85,85,85,85|M|||95|,,,,,Ghost",
   "ai": "Serperior||Leftovers|Contrary|leechseed,dragonpulse,leafstorm,substitute||85,,85,85,85,85|F|,0,,,,||79|,,,,,Dragon]Spidops||HeavyDutyBoots|Stakeout|stickyweb,circlethrow,uturn,knockoff||85,85,85,85,85,85|F|||96|,,,,,Ghost]Rabsca||HeavyDutyBoots|Synchronize|bugbuzz,revivalblessing,recover,psychic||85,,85,85,85,85|M|,0,,,,||91|,,,,,Steel]Mightyena||ChoiceBand|Intimidate|crunch,playrough,poisonfang,suckerpunch||85,85,85,85,85,85|F|||96|,,,,,Poison]Golem||CustapBerry|Sturdy|earthquake,stealthrock,stoneedge,explosion||85,85,85,85,85,85|F|||87|,,,,,Steel]Phione||Leftovers|Hydration|grassknot,takeheart,scald,icebeam||85,,85,85,85,85|N|,0,,,,||91|,,,,,Grass",
   "curation": {

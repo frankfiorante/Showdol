@@ -19,6 +19,251 @@
     "Tauros",
     "Clefable"
   ],
+  "playerSets": [
+    {
+      "species": "Ludicolo",
+      "level": 90,
+      "types": [
+        "Water",
+        "Grass"
+      ],
+      "ability": "Swift Swim",
+      "item": "Life Orb",
+      "teraType": "Steel",
+      "maxhp": 290,
+      "stats": {
+        "atk": 131,
+        "def": 177,
+        "spa": 213,
+        "spd": 231,
+        "spe": 177
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Rain Dance",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cinderace",
+      "level": 77,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Libero",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 249,
+      "stats": {
+        "atk": 223,
+        "def": 160,
+        "spa": 145,
+        "spd": 160,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Court Change",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Pyro Ball",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "High Jump Kick",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Kleavor",
+      "level": 78,
+      "types": [
+        "Bug",
+        "Rock"
+      ],
+      "ability": "Sharpness",
+      "item": "Choice Scarf",
+      "teraType": "Rock",
+      "maxhp": 237,
+      "stats": {
+        "atk": 256,
+        "def": 193,
+        "spa": 115,
+        "spd": 154,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Stone Axe",
+          "type": "Rock",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "X-Scissor",
+          "type": "Bug",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Toedscruel",
+      "level": 87,
+      "types": [
+        "Ground",
+        "Grass"
+      ],
+      "ability": "Mycelium Might",
+      "item": "Assault Vest",
+      "teraType": "Water",
+      "maxhp": 281,
+      "stats": {
+        "atk": 172,
+        "def": 163,
+        "spa": 189,
+        "spd": 259,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Tauros",
+      "level": 82,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 257,
+      "stats": {
+        "atk": 211,
+        "def": 203,
+        "spa": 113,
+        "spd": 162,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Clefable",
+      "level": 83,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Magic Guard",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 293,
+      "stats": {
+        "atk": 121,
+        "def": 169,
+        "spa": 205,
+        "spd": 197,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Moonlight",
+          "type": "Fairy",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Ludicolo||LifeOrb|SwiftSwim|hydropump,raindance,icebeam,gigadrain||85,,85,85,85,85|F|,0,,,,||90|,,,,,Steel]Cinderace||HeavyDutyBoots|Libero|uturn,courtchange,pyroball,highjumpkick||81,85,85,85,85,85|F|||77|,,,,,Fighting]Kleavor||ChoiceScarf|Sharpness|closecombat,stoneaxe,uturn,xscissor||85,85,85,85,85,85|M|||78|,,,,,Rock]Toedscruel||AssaultVest|MyceliumMight|earthpower,rapidspin,knockoff,gigadrain||85,85,85,85,85,85|M|||87|,,,,,Water]Tauros||LifeOrb|SheerForce|throatchop,bodyslam,zenheadbutt,closecombat||85,85,85,85,85,85|M|||82|,,,,,Normal]Clefable||LifeOrb|MagicGuard|fireblast,calmmind,moonblast,moonlight||85,,85,85,85,85|M|,0,,,,||83|,,,,,Fire",
   "ai": "Vikavolt||HeavyDutyBoots|Levitate|bugbuzz,thunderbolt,voltswitch,stickyweb||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Pyroar||HeavyDutyBoots|Unnerve|fireblast,willowisp,hypervoice,workup||85,,85,85,85,85|F|,0,,,,||88|,,,,,Fire]Indeedee|IndeedeeF|ChoiceScarf|PsychicSurge|dazzlinggleam,psychic,hypervoice,healingwish||85,,85,85,85,85|F|,0,,,,||90|,,,,,Psychic]Vaporeon||Leftovers|WaterAbsorb|roar,protect,wish,scald||85,,85,85,85,85|M|,0,,,,||86|,,,,,Poison]Glastrier||HeavyDutyBoots|ChillingNeigh|highhorsepower,closecombat,iciclecrash,swordsdance||85,85,85,85,85,85|N|||86|,,,,,Ground]Umbreon||Leftovers|Synchronize|protect,toxic,foulplay,wish||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison",
   "curation": {

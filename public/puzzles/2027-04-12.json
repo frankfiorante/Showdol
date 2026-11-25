@@ -19,6 +19,252 @@
     "Kingdra",
     "Milotic"
   ],
+  "playerSets": [
+    {
+      "species": "Krookodile",
+      "level": 79,
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 280,
+      "stats": {
+        "atk": 230,
+        "def": 172,
+        "spa": 148,
+        "spd": 156,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zekrom",
+      "level": 71,
+      "types": [
+        "Dragon",
+        "Electric"
+      ],
+      "ability": "Teravolt",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 259,
+      "stats": {
+        "atk": 254,
+        "def": 212,
+        "spa": 212,
+        "spd": 183,
+        "spe": 169
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Bolt Strike",
+          "type": "Electric",
+          "pp": 8
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zamazenta",
+      "level": 68,
+      "types": [
+        "Fighting"
+      ],
+      "ability": "Dauntless Shield",
+      "item": "Rusted Shield",
+      "teraType": "Fighting",
+      "maxhp": 238,
+      "stats": {
+        "atk": 203,
+        "def": 196,
+        "spa": 149,
+        "spd": 196,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Iron Crown",
+      "level": 78,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Quark Drive",
+      "item": "Choice Specs",
+      "teraType": "Fighting",
+      "maxhp": 268,
+      "stats": {
+        "atk": 117,
+        "def": 201,
+        "spa": 235,
+        "spd": 214,
+        "spe": 198
+      },
+      "moves": [
+        {
+          "name": "Tachyon Cutter",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Kingdra",
+      "level": 84,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Swift Swim",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 263,
+      "stats": {
+        "atk": 208,
+        "def": 208,
+        "spa": 208,
+        "spd": 208,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Rain Dance",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Milotic",
+      "level": 83,
+      "types": [
+        "Water"
+      ],
+      "ability": "Competitive",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 293,
+      "stats": {
+        "atk": 147,
+        "def": 179,
+        "spa": 214,
+        "spd": 255,
+        "spe": 182
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Krookodile||Leftovers|Intimidate|knockoff,gunkshot,bulkup,earthquake||85,85,85,85,85,85|M|||79|,,,,,Poison]Zekrom||Leftovers|Teravolt|dragondance,outrage,boltstrike,substitute||85,85,85,85,85,85|N|||71|,,,,,Steel]Zamazenta||RustedShield|DauntlessShield|heavyslam,stoneedge,bodypress,irondefense||85,85,85,85,85,85|N|||68|,,,,,Fighting]Iron Crown||ChoiceSpecs|QuarkDrive|tachyoncutter,voltswitch,focusblast,psyshock||85,,85,85,85,85|N|,0,,,,||78|,,,,,Fighting]Kingdra||LifeOrb|SwiftSwim|wavecrash,raindance,hurricane,dracometeor||85,85,85,85,85,85|F|||84|,,,,,Water]Milotic||Leftovers|Competitive|recover,icebeam,scald,dragontail||85,85,85,85,85,85|M|||83|,,,,,Dragon",
   "ai": "Vigoroth||Eviolite|VitalSpirit|bulkup,bodyslam,knockoff,slackoff||85,85,85,85,85,85|F|||85|,,,,,Ghost]Lucario||LifeOrb|InnerFocus|focusblast,flashcannon,nastyplot,vacuumwave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Fighting]Hoopa|HoopaUnbound|AssaultVest|Magician|focusblast,gunkshot,psychic,hyperspacefury||85,85,85,85,85,85|N|||80|,,,,,Poison]Oranguru||Leftovers|InnerFocus|nastyplot,focusblast,thunderbolt,psychic||85,,85,85,85,85|M|,0,,,,||92|,,,,,Psychic]Donphan||Leftovers|Sturdy|rapidspin,earthquake,knockoff,stealthrock||85,85,85,85,85,85|M|||84|,,,,,Water]Koraidon||LoadedDice|OrichalcumPulse|collisioncourse,flareblitz,scaleshot,swordsdance||85,85,85,85,85,85|N|||64|,,,,,Fire",
   "curation": {

@@ -19,6 +19,249 @@
     "Oricorio",
     "Porygon2"
   ],
+  "playerSets": [
+    {
+      "species": "Lurantis",
+      "level": 87,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Contrary",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 264,
+      "stats": {
+        "atk": 232,
+        "def": 206,
+        "spa": 189,
+        "spd": 206,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Darkrai",
+      "level": 77,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Bad Dreams",
+      "item": "Life Orb",
+      "teraType": "Poison",
+      "maxhp": 234,
+      "stats": {
+        "atk": 143,
+        "def": 183,
+        "spa": 252,
+        "spd": 183,
+        "spe": 237
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Tsareena",
+      "level": 87,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Queenly Majesty",
+      "item": "Choice Band",
+      "teraType": "Steel",
+      "maxhp": 267,
+      "stats": {
+        "atk": 259,
+        "def": 220,
+        "spa": 137,
+        "spd": 220,
+        "spe": 175
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Power Whip",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "High Jump Kick",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Slaking",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Truant",
+      "item": "Choice Band",
+      "teraType": "Normal",
+      "maxhp": 389,
+      "stats": {
+        "atk": 317,
+        "def": 216,
+        "spa": 208,
+        "spd": 157,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Giga Impact",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Oricorio",
+      "level": 84,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Dancer",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 263,
+      "stats": {
+        "atk": 122,
+        "def": 166,
+        "spa": 213,
+        "spd": 166,
+        "spe": 204
+      },
+      "moves": [
+        {
+          "name": "Revelation Dance",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Porygon2",
+      "level": 81,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Download",
+      "item": "Eviolite",
+      "teraType": "Poison",
+      "maxhp": 270,
+      "stats": {
+        "atk": 134,
+        "def": 192,
+        "spa": 217,
+        "spd": 201,
+        "spe": 144
+      },
+      "moves": [
+        {
+          "name": "Tri Attack",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Lurantis||Leftovers|Contrary|superpower,knockoff,leafstorm,synthesis||85,85,85,85,85,85|M|||87|,,,,,Fighting]Darkrai||LifeOrb|BadDreams|nastyplot,sludgebomb,focusblast,darkpulse||85,,85,85,85,85|N|,0,,,,||77|,,,,,Poison]Tsareena||ChoiceBand|QueenlyMajesty|knockoff,powerwhip,highjumpkick,tripleaxel||85,85,85,85,85,85|F|||87|,,,,,Steel]Slaking||ChoiceBand|Truant|doubleedge,knockoff,gigaimpact,earthquake||85,85,85,85,85,85|F|||84|,,,,,Normal]Oricorio||HeavyDutyBoots|Dancer|revelationdance,quiverdance,roost,hurricane||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ground]Porygon2||Eviolite|Download|triattack,icebeam,discharge,recover||85,,85,85,85,85|N|,0,,,,||81|,,,,,Poison",
   "ai": "Shiftry||HeavyDutyBoots|WindRider|suckerpunch,leafstorm,knockoff,defog||85,85,85,85,85,85|F|||89|,,,,,Poison]Latios||SoulDew|Levitate|dracometeor,calmmind,recover,psyshock||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Suicune||Leftovers|Pressure|sleeptalk,calmmind,scald,rest||85,,85,85,85,85|N|,0,,,,||82|,,,,,Dragon]Latias||SoulDew|Levitate|calmmind,psyshock,recover,dracometeor||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Charizard||HeavyDutyBoots|Blaze|swordsdance,earthquake,flareblitz,outrage||85,85,85,85,85,85|F|||85|,,,,,Dragon]Iron Thorns||BoosterEnergy|QuarkDrive|stoneedge,dragondance,wildcharge,earthquake||85,85,85,85,85,85|N|||81|,,,,,Grass",
   "curation": {

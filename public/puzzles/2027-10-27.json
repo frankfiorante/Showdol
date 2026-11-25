@@ -19,6 +19,252 @@
     "Terapagos",
     "Latios"
   ],
+  "playerSets": [
+    {
+      "species": "Magnezone",
+      "level": 84,
+      "types": [
+        "Electric",
+        "Steel"
+      ],
+      "ability": "Analytic",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 255,
+      "stats": {
+        "atk": 122,
+        "def": 241,
+        "spa": 267,
+        "spd": 199,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Pikachu-World",
+      "level": 93,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Lightning Rod",
+      "item": "Light Ball",
+      "teraType": "Water",
+      "maxhp": 216,
+      "stats": {
+        "atk": 155,
+        "def": 127,
+        "spa": 146,
+        "spd": 146,
+        "spe": 220
+      },
+      "moves": [
+        {
+          "name": "Volt Tackle",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Fake Out",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Shiftry",
+      "level": 89,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Wind Rider",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 305,
+      "stats": {
+        "atk": 229,
+        "def": 158,
+        "spa": 211,
+        "spd": 158,
+        "spe": 193
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Jirachi",
+      "level": 80,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Assault Vest",
+      "teraType": "Fighting",
+      "maxhp": 291,
+      "stats": {
+        "atk": 206,
+        "def": 206,
+        "spa": 206,
+        "spd": 206,
+        "spe": 206
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Terapagos",
+      "level": 77,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Tera Shift",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Stellar",
+      "maxhp": 265,
+      "stats": {
+        "atk": 145,
+        "def": 175,
+        "spa": 145,
+        "spd": 175,
+        "spe": 137
+      },
+      "moves": [
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Tera Starstorm",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Latios",
+      "level": 78,
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Soul Dew",
+      "teraType": "Fighting",
+      "maxhp": 253,
+      "stats": {
+        "atk": 145,
+        "def": 170,
+        "spa": 248,
+        "spd": 217,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Luster Purge",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Aura Sphere",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Magnezone||Leftovers|Analytic|irondefense,bodypress,discharge,flashcannon||85,,85,85,85,85|N|,0,,,,||84|,,,,,Fighting]Pikachu|PikachuWorld|LightBall|LightningRod|volttackle,fakeout,surf,voltswitch||85,85,85,85,85,85|M|||93|,,,,,Water]Shiftry||LifeOrb|WindRider|swordsdance,knockoff,suckerpunch,leafblade||85,85,85,85,85,85|M|||89|,,,,,Dark]Jirachi||AssaultVest|SereneGrace|ironhead,bodyslam,uturn,drainpunch||85,85,85,85,85,85|N|||80|,,,,,Fighting]Terapagos||HeavyDutyBoots|TeraShift|darkpulse,terastarstorm,rapidspin,calmmind||85,85,85,85,85,85|F|||77|,,,,,Stellar]Latios||SoulDew|Levitate|dracometeor,lusterpurge,recover,aurasphere||85,,85,85,85,85|M|,0,,,,||78|,,,,,Fighting",
   "ai": "Virizion||LifeOrb|Justified|stoneedge,leafblade,swordsdance,closecombat||85,85,85,85,85,85|N|||82|,,,,,Rock]Iron Thorns||BoosterEnergy|QuarkDrive|wildcharge,dragondance,earthquake,stoneedge||85,85,85,85,85,85|N|||81|,,,,,Ground]Pecharunt||Leftovers|PoisonPuppeteer|malignantchain,nastyplot,recover,shadowball||85,,85,85,85,85|N|,0,,,,||77|,,,,,Dark]Houndstone||AssaultVest|Fluffy|shadowsneak,playrough,bodypress,poltergeist||85,85,85,85,85,85|F|||86|,,,,,Fairy]Vikavolt||HeavyDutyBoots|Levitate|bugbuzz,stickyweb,discharge,energyball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Electric]Meowstic||LightClay|Prankster|thunderwave,reflect,psychicnoise,lightscreen||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy",
   "curation": {

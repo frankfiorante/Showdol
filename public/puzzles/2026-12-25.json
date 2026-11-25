@@ -19,6 +19,252 @@
     "Wugtrio",
     "Mismagius"
   ],
+  "playerSets": [
+    {
+      "species": "Klefki",
+      "level": 84,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 233,
+      "stats": {
+        "atk": 183,
+        "def": 201,
+        "spa": 183,
+        "spd": 194,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Magnet Rise",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Walking Wake",
+      "level": 79,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Choice Specs",
+      "teraType": "Water",
+      "maxhp": 286,
+      "stats": {
+        "atk": 177,
+        "def": 189,
+        "spa": 243,
+        "spd": 177,
+        "spe": 218
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Latios",
+      "level": 78,
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Soul Dew",
+      "teraType": "Steel",
+      "maxhp": 253,
+      "stats": {
+        "atk": 145,
+        "def": 170,
+        "spa": 248,
+        "spd": 217,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Breloom",
+      "level": 83,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "ability": "Technician",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 235,
+      "stats": {
+        "atk": 263,
+        "def": 180,
+        "spa": 147,
+        "spd": 147,
+        "spe": 164
+      },
+      "moves": [
+        {
+          "name": "Rock Tomb",
+          "type": "Rock",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Mach Punch",
+          "type": "Fighting",
+          "pp": 48
+        },
+        {
+          "name": "Bullet Seed",
+          "type": "Grass",
+          "pp": 48
+        }
+      ]
+    },
+    {
+      "species": "Wugtrio",
+      "level": 91,
+      "types": [
+        "Water"
+      ],
+      "ability": "Gooey",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 212,
+      "stats": {
+        "atk": 234,
+        "def": 143,
+        "spa": 143,
+        "spd": 179,
+        "spe": 270
+      },
+      "moves": [
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Stomping Tantrum",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Liquidation",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mismagius",
+      "level": 86,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Levitate",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 243,
+      "stats": {
+        "atk": 108,
+        "def": 152,
+        "spa": 230,
+        "spd": 230,
+        "spe": 230
+      },
+      "moves": [
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Klefki||Leftovers|Prankster|magnetrise,playrough,spikes,thunderwave||85,85,85,85,85,85|F|||84|,,,,,Water]Walking Wake||ChoiceSpecs|Protosynthesis|hydropump,flamethrower,flipturn,dracometeor||85,85,85,85,85,85|N|||79|,,,,,Water]Latios||SoulDew|Levitate|psyshock,calmmind,dracometeor,recover||85,,85,85,85,85|M|,0,,,,||78|,,,,,Steel]Breloom||LifeOrb|Technician|rocktomb,swordsdance,machpunch,bulletseed||85,85,85,85,85,85|F|||83|,,,,,Fighting]Wugtrio||ChoiceBand|Gooey|throatchop,aquajet,stompingtantrum,liquidation||85,85,85,85,85,85|M|||91|,,,,,Dark]Mismagius||LifeOrb|Levitate|dazzlinggleam,thunderbolt,shadowball,nastyplot||85,,85,85,85,85|M|,0,,,,||86|,,,,,Electric",
   "ai": "Leavanny||LoadedDice|Chlorophyll|knockoff,tripleaxel,stickyweb,bulletseed||85,85,85,85,85,85|F|||86|,,,,,Ghost]Froslass||WideLens|CursedBody|poltergeist,tripleaxel,taunt,willowisp||81,85,85,85,85,85|F|||87|,,,,,Ice]Skeledirge||HeavyDutyBoots|Unaware|willowisp,slackoff,torchsong,hex||85,,85,85,85,85|F|,0,,,,||79|,,,,,Water]Exeggutor||SitrusBerry|Harvest|substitute,protect,psychicnoise,leechseed||77,,85,85,85,85|F|,0,,,,||89|,,,,,Steel]Comfey||Leftovers|Triage|drainingkiss,encore,terablast,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Ground]Gumshoos||ChoiceBand|Stakeout|earthquake,uturn,doubleedge,knockoff||85,85,85,85,85,85|F|||95|,,,,,Normal",
   "curation": {

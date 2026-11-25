@@ -19,6 +19,252 @@
     "Carbink",
     "Ursaring"
   ],
+  "playerSets": [
+    {
+      "species": "Sinistcha-Masterpiece",
+      "level": 83,
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "ability": "Heatproof",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 254,
+      "stats": {
+        "atk": 104,
+        "def": 224,
+        "spa": 249,
+        "spd": 180,
+        "spe": 164
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Matcha Gotcha",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Corviknight",
+      "level": 80,
+      "types": [
+        "Flying",
+        "Steel"
+      ],
+      "ability": "Mirror Armor",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 288,
+      "stats": {
+        "atk": 185,
+        "def": 214,
+        "spa": 131,
+        "spd": 182,
+        "spe": 153
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Veluza",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Sharpness",
+      "item": "Choice Band",
+      "teraType": "Dark",
+      "maxhp": 292,
+      "stats": {
+        "atk": 222,
+        "def": 173,
+        "spa": 181,
+        "spd": 159,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Aqua Cutter",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Psycho Cut",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Night Slash",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Lumineon",
+      "level": 93,
+      "types": [
+        "Water"
+      ],
+      "ability": "Storm Drain",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 279,
+      "stats": {
+        "atk": 133,
+        "def": 194,
+        "spa": 181,
+        "spd": 213,
+        "spe": 222
+      },
+      "moves": [
+        {
+          "name": "Alluring Voice",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Carbink",
+      "level": 90,
+      "types": [
+        "Rock",
+        "Fairy"
+      ],
+      "ability": "Sturdy",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 236,
+      "stats": {
+        "atk": 95,
+        "def": 321,
+        "spa": 141,
+        "spd": 321,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Ursaring",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Guts",
+      "item": "Eviolite",
+      "teraType": "Ghost",
+      "maxhp": 288,
+      "stats": {
+        "atk": 267,
+        "def": 174,
+        "spa": 174,
+        "spd": 174,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Sinistcha|SinistchaMasterpiece|Leftovers|Heatproof|calmmind,matchagotcha,strengthsap,shadowball||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel]Corviknight||Leftovers|MirrorArmor|roost,bravebird,bodypress,defog||85,85,85,85,85,85|M|||80|,,,,,Dragon]Veluza||ChoiceBand|Sharpness|aquacutter,psychocut,nightslash,aquajet||85,85,85,85,85,85|M|||85|,,,,,Dark]Lumineon||LifeOrb|StormDrain|alluringvoice,hydropump,encore,icebeam||85,,85,85,85,85|F|,0,,,,||93|,,,,,Water]Carbink||ChestoBerry|Sturdy|bodypress,rest,moonblast,irondefense||85,,85,85,85,85|N|,0,,,,||90|,,,,,Fighting]Ursaring||Eviolite|Guts|bodyslam,rest,throatchop,sleeptalk||85,85,85,85,85,85|F|||84|,,,,,Ghost",
   "ai": "Archaludon||LumBerry|Stamina|ironhead,swordsdance,outrage,earthquake||85,85,85,85,85,85|M|||77|,,,,,Ground]Lapras||ChoiceSpecs|WaterAbsorb|freezedry,hydropump,sparklingaria,icebeam||81,,85,85,85,85|F|,0,,,,||87|,,,,,Water]Clodsire||Leftovers|WaterAbsorb|curse,recover,poisonjab,earthquake||85,85,85,85,85,85|F|||81|,,,,,Steel]Raichu|RaichuAlola|ChoiceSpecs|SurgeSurfer|alluringvoice,psyshock,grassknot,thunderbolt||85,,85,85,85,85|F|,0,,,,||87|,,,,,Grass]Houndstone||Leftovers|Fluffy|rest,sleeptalk,poltergeist,bodypress||85,85,85,85,85,85|F|||86|,,,,,Fighting]Groudon||Leftovers|Drought|heatcrash,thunderwave,precipiceblades,swordsdance||85,85,85,85,85,85|N|||72|,,,,,Fire",
   "curation": {

@@ -19,6 +19,252 @@
     "Emboar",
     "Sandslash"
   ],
+  "playerSets": [
+    {
+      "species": "Manaphy",
+      "level": 78,
+      "types": [
+        "Water"
+      ],
+      "ability": "Hydration",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 284,
+      "stats": {
+        "atk": 161,
+        "def": 201,
+        "spa": 201,
+        "spd": 201,
+        "spe": 201
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Tail Glow",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Energy Ball",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Meloetta",
+      "level": 82,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 298,
+      "stats": {
+        "atk": 173,
+        "def": 173,
+        "spa": 257,
+        "spd": 257,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Relic Song",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Sneasler",
+      "level": 74,
+      "types": [
+        "Fighting",
+        "Poison"
+      ],
+      "ability": "Unburden",
+      "item": "White Herb",
+      "teraType": "Flying",
+      "maxhp": 240,
+      "stats": {
+        "atk": 235,
+        "def": 132,
+        "spa": 102,
+        "spd": 161,
+        "spe": 221
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Dire Claw",
+          "type": "Poison",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Drifblim",
+      "level": 86,
+      "types": [
+        "Ghost",
+        "Flying"
+      ],
+      "ability": "Unburden",
+      "item": "Sitrus Berry",
+      "teraType": "Fairy",
+      "maxhp": 396,
+      "stats": {
+        "atk": 142,
+        "def": 125,
+        "spa": 204,
+        "spd": 142,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Emboar",
+      "level": 84,
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Scarf",
+      "teraType": "Fire",
+      "maxhp": 322,
+      "stats": {
+        "atk": 255,
+        "def": 157,
+        "spa": 216,
+        "spd": 157,
+        "spe": 157
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Head Smash",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Sandslash",
+      "level": 89,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sand Rush",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 278,
+      "stats": {
+        "atk": 229,
+        "def": 247,
+        "spa": 131,
+        "spd": 149,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Manaphy||Leftovers|Hydration|icebeam,tailglow,surf,energyball||85,,85,85,85,85|N|,0,,,,||78|,,,,,Water]Meloetta||LifeOrb|SereneGrace|tripleaxel,relicsong,closecombat,knockoff||85,85,85,85,85,85|N|||82|,,,,,Dark]Sneasler||WhiteHerb|Unburden|swordsdance,closecombat,acrobatics,direclaw||85,85,85,85,85,85|M|||74|,,,,,Flying]Drifblim||SitrusBerry|Unburden|airslash,shadowball,strengthsap,calmmind||73,,85,85,85,85|M|,0,,,,||86|,,,,,Fairy]Emboar||ChoiceScarf|Reckless|closecombat,headsmash,flareblitz,wildcharge||85,85,85,85,85,85|F|||84|,,,,,Fire]Sandslash||Leftovers|SandRush|rapidspin,swordsdance,knockoff,earthquake||85,85,85,85,85,85|M|||89|,,,,,Steel",
   "ai": "Toxicroak||ChoiceBand|DrySkin|suckerpunch,closecombat,gunkshot,knockoff||85,85,85,85,85,85|M|||84|,,,,,Dark]Ting-Lu||Leftovers|VesselofRuin|throatchop,spikes,earthquake,stealthrock||85,85,85,85,85,85|N|||78|,,,,,Poison]Decidueye|DecidueyeHisui|Leftovers|Scrappy|suckerpunch,triplearrows,leafblade,roost||85,85,85,85,85,85|F|||87|,,,,,Water]Salazzle||HeavyDutyBoots|Corrosion|nastyplot,sludgewave,terablast,fireblast||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Mabosstiff||ChoiceBand|Stakeout|playrough,wildcharge,psychicfangs,crunch||85,85,85,85,85,85|M|||86|,,,,,Dark]Whiscash||Leftovers|Oblivious|hydropump,spikes,icebeam,earthquake||85,85,85,85,85,85|F|||88|,,,,,Steel",
   "curation": {

@@ -19,6 +19,250 @@
     "Meowscarada",
     "Slaking"
   ],
+  "playerSets": [
+    {
+      "species": "Hippowdon",
+      "level": 82,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sand Stream",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 311,
+      "stats": {
+        "atk": 231,
+        "def": 241,
+        "spa": 159,
+        "spd": 165,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Jumpluff",
+      "level": 87,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "ability": "Infiltrator",
+      "teraType": "Steel",
+      "maxhp": 271,
+      "stats": {
+        "atk": 145,
+        "def": 172,
+        "spa": 145,
+        "spd": 215,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Wigglytuff",
+      "level": 96,
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "ability": "Competitive",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 424,
+      "stats": {
+        "atk": 139,
+        "def": 141,
+        "spa": 218,
+        "spd": 150,
+        "spe": 141
+      },
+      "moves": [
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Rampardos",
+      "level": 90,
+      "types": [
+        "Rock"
+      ],
+      "ability": "Sheer Force",
+      "item": "Life Orb",
+      "teraType": "Psychic",
+      "maxhp": 321,
+      "stats": {
+        "atk": 348,
+        "def": 159,
+        "spa": 168,
+        "spd": 141,
+        "spe": 156
+      },
+      "moves": [
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Meowscarada",
+      "level": 78,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Protean",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 247,
+      "stats": {
+        "atk": 217,
+        "def": 154,
+        "spa": 171,
+        "spd": 154,
+        "spe": 237
+      },
+      "moves": [
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Flower Trick",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Slaking",
+      "level": 84,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Truant",
+      "item": "Choice Band",
+      "teraType": "Ghost",
+      "maxhp": 389,
+      "stats": {
+        "atk": 317,
+        "def": 216,
+        "spa": 208,
+        "spd": 157,
+        "spe": 216
+      },
+      "moves": [
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Giga Impact",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Hippowdon||Leftovers|SandStream|stoneedge,slackoff,curse,earthquake||85,85,85,85,85,85|M|||82|,,,,,Steel]Jumpluff|||Infiltrator|strengthsap,substitute,leechseed,acrobatics||81,85,85,85,85,85|M|||87|,,,,,Steel]Wigglytuff||Leftovers|Competitive|dazzlinggleam,wish,protect,fireblast||85,,85,85,85,85|F|,0,,,,||96|,,,,,Poison]Rampardos||LifeOrb|SheerForce|rockslide,zenheadbutt,firepunch,earthquake||85,85,85,85,85,85|F|||90|,,,,,Psychic]Meowscarada||HeavyDutyBoots|Protean|toxicspikes,knockoff,uturn,flowertrick||85,85,85,85,85,85|M|||78|,,,,,Grass]Slaking||ChoiceBand|Truant|doubleedge,earthquake,knockoff,gigaimpact||85,85,85,85,85,85|M|||84|,,,,,Ghost",
   "ai": "Ditto||ChoiceScarf|Imposter|transform||85,85,85,85,85,85|N|||87|,,,,,Ghost]Hitmontop||AssaultVest|Intimidate|rapidspin,stoneedge,closecombat,suckerpunch||85,85,85,85,85,85|M|||88|,,,,,Steel]Gallade||LifeOrb|Sharpness|nightslash,sacredsword,psychocut,agility||85,85,85,85,85,85|M|||80|,,,,,Dark]Lapras||LoadedDice|WaterAbsorb|dragondance,iciclespear,waterfall,earthquake||81,85,85,85,85,85|F|||87|,,,,,Ground]Greedent||SitrusBerry|CheekPouch|knockoff,earthquake,bodyslam,swordsdance||85,85,85,85,85,85|M|||86|,,,,,Ghost]Alomomola||HeavyDutyBoots|Regenerator|wish,flipturn,scald,protect||85,85,85,85,85,85|M|||87|,,,,,Steel",
   "curation": {

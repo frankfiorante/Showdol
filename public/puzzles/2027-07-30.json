@@ -19,6 +19,251 @@
     "Persian",
     "Mimikyu"
   ],
+  "playerSets": [
+    {
+      "species": "Cyclizar",
+      "level": 84,
+      "types": [
+        "Dragon",
+        "Normal"
+      ],
+      "ability": "Regenerator",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 255,
+      "stats": {
+        "atk": 208,
+        "def": 157,
+        "spa": 191,
+        "spd": 157,
+        "spe": 251
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Shed Tail",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Jumpluff",
+      "level": 87,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "ability": "Infiltrator",
+      "teraType": "Steel",
+      "maxhp": 271,
+      "stats": {
+        "atk": 145,
+        "def": 172,
+        "spa": 145,
+        "spd": 215,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Gogoat",
+      "level": 88,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 360,
+      "stats": {
+        "atk": 226,
+        "def": 159,
+        "spa": 221,
+        "spd": 193,
+        "spe": 170
+      },
+      "moves": [
+        {
+          "name": "Milk Drink",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Horn Leech",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Blaziken",
+      "level": 76,
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "ability": "Speed Boost",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 247,
+      "stats": {
+        "atk": 226,
+        "def": 150,
+        "spa": 211,
+        "spd": 150,
+        "spe": 166
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Persian",
+      "level": 92,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Technician",
+      "item": "Silk Scarf",
+      "teraType": "Normal",
+      "maxhp": 269,
+      "stats": {
+        "atk": 181,
+        "def": 163,
+        "spa": 172,
+        "spd": 172,
+        "spe": 264
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Fake Out",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mimikyu",
+      "level": 79,
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "ability": "Disguise",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 216,
+      "stats": {
+        "atk": 188,
+        "def": 172,
+        "spa": 125,
+        "spd": 211,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Cyclizar||HeavyDutyBoots|Regenerator|dracometeor,rapidspin,shedtail,taunt||85,85,85,85,85,85|M|||84|,,,,,Steel]Jumpluff|||Infiltrator|acrobatics,encore,strengthsap,sleeppowder||81,85,85,85,85,85|M|||87|,,,,,Steel]Gogoat||Leftovers|SapSipper|milkdrink,hornleech,bulkup,earthquake||85,85,85,85,85,85|F|||88|,,,,,Water]Blaziken||LifeOrb|SpeedBoost|closecombat,swordsdance,protect,flareblitz||85,85,85,85,85,85|M|||76|,,,,,Fighting]Persian||SilkScarf|Technician|uturn,doubleedge,knockoff,fakeout||85,85,85,85,85,85|F|||92|,,,,,Normal]Mimikyu||LifeOrb|Disguise|shadowsneak,playrough,drainpunch,swordsdance||85,85,85,85,85,85|M|||79|,,,,,Fairy",
   "ai": "Sneasler||WhiteHerb|Unburden|direclaw,closecombat,swordsdance,acrobatics||85,85,85,85,85,85|M|||74|,,,,,Flying]Zacian||RustedSword|IntrepidSword|swordsdance,behemothblade,closecombat,playrough||85,85,85,85,85,85|N|||64|,,,,,Fighting]Roaring Moon||LumBerry|Protosynthesis|dragondance,earthquake,knockoff,outrage||85,85,85,85,85,85|N|||72|,,,,,Ground]Venomoth||HeavyDutyBoots|TintedLens|bugbuzz,quiverdance,sleeppowder,sludgewave||85,,85,85,85,85|F|,0,,,,||84|,,,,,Bug]Golem|GolemAlola|LifeOrb|Galvanize|doubleedge,earthquake,stoneedge,rockpolish||85,85,85,85,85,85|M|||93|,,,,,Flying]Wigglytuff||Leftovers|Competitive|protect,thunderwave,wish,alluringvoice||85,,85,85,85,85|F|,0,,,,||96|,,,,,Poison",
   "curation": {

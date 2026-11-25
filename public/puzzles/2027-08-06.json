@@ -19,6 +19,250 @@
     "Cramorant",
     "Dondozo"
   ],
+  "playerSets": [
+    {
+      "species": "Chansey",
+      "level": 85,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Natural Cure",
+      "item": "Eviolite",
+      "teraType": "Poison",
+      "maxhp": 564,
+      "stats": {
+        "atk": 13,
+        "def": 57,
+        "spa": 108,
+        "spd": 227,
+        "spe": 134
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Seismic Toss",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Soft-Boiled",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Heal Bell",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Cryogonal",
+      "level": 89,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 287,
+      "stats": {
+        "atk": 140,
+        "def": 140,
+        "spa": 220,
+        "spd": 291,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Venusaur",
+      "level": 84,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 272,
+      "stats": {
+        "atk": 142,
+        "def": 188,
+        "spa": 216,
+        "spd": 216,
+        "spe": 183
+      },
+      "moves": [
+        {
+          "name": "Sleep Powder",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Electivire",
+      "level": 84,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Motor Drive",
+      "item": "Life Orb",
+      "teraType": "Flying",
+      "maxhp": 263,
+      "stats": {
+        "atk": 255,
+        "def": 161,
+        "spa": 208,
+        "spd": 191,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cramorant",
+      "level": 86,
+      "types": [
+        "Flying",
+        "Water"
+      ],
+      "ability": "Gulp Missile",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 261,
+      "stats": {
+        "atk": 195,
+        "def": 144,
+        "spa": 195,
+        "spd": 213,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Dondozo",
+      "level": 78,
+      "types": [
+        "Water"
+      ],
+      "ability": "Unaware",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 362,
+      "stats": {
+        "atk": 201,
+        "def": 224,
+        "spa": 146,
+        "spd": 146,
+        "spe": 100
+      },
+      "moves": [
+        {
+          "name": "Wave Crash",
+          "type": "Water",
+          "pp": 16
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Sleep Talk",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Chansey||Eviolite|NaturalCure|thunderwave,seismictoss,softboiled,healbell||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Cryogonal||HeavyDutyBoots|Levitate|rapidspin,recover,terablast,icebeam||85,85,85,85,85,85|N|||89|,,,,,Electric]Venusaur||Leftovers|Chlorophyll|sleeppowder,leechseed,sludgebomb,substitute||85,,85,85,85,85|M|,0,,,,||84|,,,,,Steel]Electivire||LifeOrb|MotorDrive|flamethrower,voltswitch,supercellslam,earthquake||85,85,85,85,85,85|M|||84|,,,,,Flying]Cramorant||HeavyDutyBoots|GulpMissile|defog,roost,surf,bravebird||85,85,85,85,85,85|F|||86|,,,,,Ground]Dondozo||Leftovers|Unaware|wavecrash,curse,sleeptalk,rest||85,85,85,85,85,85|M|||78|,,,,,Fairy",
   "ai": "Tauros|TaurosPaldeaCombat|LifeOrb|Intimidate|throatchop,bulkup,closecombat,stoneedge||85,85,85,85,85,85|M|||82|,,,,,Dark]Salazzle||Leftovers|Corrosion|protect,flamethrower,toxic,substitute||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Miraidon||LifeOrb|HadronEngine|electrodrift,calmmind,dracometeor,dragonpulse||85,,85,85,85,85|N|,0,,,,||65|,,,,,Electric]Scovillain||ChoiceSpecs|Chlorophyll|energyball,leafstorm,flamethrower,overheat||85,,85,85,85,85|F|,0,,,,||91|,,,,,Fire]Oinkologne|OinkologneF|Leftovers|ThickFat|rest,sleeptalk,bodyslam,curse||85,85,85,85,85,85|F|||91|,,,,,Fairy]Indeedee||ChoiceScarf|PsychicSurge|expandingforce,dazzlinggleam,shadowball,hypervoice||85,,85,85,85,85|M|,0,,,,||84|,,,,,Psychic",
   "curation": {

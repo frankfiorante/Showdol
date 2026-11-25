@@ -19,6 +19,253 @@
     "Iron Hands",
     "Spiritomb"
   ],
+  "playerSets": [
+    {
+      "species": "Chimecho",
+      "level": 93,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 290,
+      "stats": {
+        "atk": 98,
+        "def": 202,
+        "spa": 230,
+        "spd": 220,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Articuno-Galar",
+      "level": 84,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Competitive",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 288,
+      "stats": {
+        "atk": 147,
+        "def": 191,
+        "spa": 258,
+        "spd": 216,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Squawkabilly-White",
+      "level": 89,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Hustle",
+      "item": "Choice Band",
+      "teraType": "Flying",
+      "maxhp": 291,
+      "stats": {
+        "atk": 222,
+        "def": 142,
+        "spa": 131,
+        "spd": 142,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Grimmsnarl",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fairy"
+      ],
+      "ability": "Prankster",
+      "item": "Light Clay",
+      "teraType": "Steel",
+      "maxhp": 293,
+      "stats": {
+        "atk": 247,
+        "def": 156,
+        "spa": 205,
+        "spd": 172,
+        "spe": 147
+      },
+      "moves": [
+        {
+          "name": "Reflect",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Spirit Break",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Light Screen",
+          "type": "Psychic",
+          "pp": 48
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Iron Hands",
+      "level": 79,
+      "types": [
+        "Fighting",
+        "Electric"
+      ],
+      "ability": "Quark Drive",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 373,
+      "stats": {
+        "atk": 267,
+        "def": 216,
+        "spa": 125,
+        "spd": 153,
+        "spe": 125
+      },
+      "moves": [
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Thunder Punch",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Spiritomb",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Dark"
+      ],
+      "ability": "Infiltrator",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 234,
+      "stats": {
+        "atk": 215,
+        "def": 243,
+        "spa": 215,
+        "spd": 243,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Chimecho||Leftovers|Levitate|dazzlinggleam,psychicnoise,recover,calmmind||85,,85,85,85,85|M|,0,,,,||93|,,,,,Steel]Articuno|ArticunoGalar|HeavyDutyBoots|Competitive|recover,psyshock,calmmind,hurricane||85,,85,85,85,85|N|,0,,,,||84|,,,,,Steel]Squawkabilly|SquawkabillyWhite|ChoiceBand|Hustle|quickattack,foulplay,doubleedge,bravebird||85,85,85,85,85,85|M|||89|,,,,,Flying]Grimmsnarl||LightClay|Prankster|reflect,spiritbreak,lightscreen,thunderwave||85,85,85,85,85,85|M|||83|,,,,,Steel]Iron Hands||Leftovers|QuarkDrive|icepunch,swordsdance,thunderpunch,drainpunch||85,85,85,85,85,85|N|||79|,,,,,Fighting]Spiritomb||Leftovers|Infiltrator|foulplay,willowisp,suckerpunch,poltergeist||85,85,85,85,85,85|F|||89|,,,,,Steel",
   "ai": "Gallade||LifeOrb|Sharpness|sacredsword,nightslash,psychocut,agility||85,85,85,85,85,85|M|||80|,,,,,Fighting]Shiftry||LifeOrb|WindRider|lowkick,knockoff,leafblade,tailwind||85,85,85,85,85,85|F|||89|,,,,,Dark]Blissey||Leftovers|NaturalCure|softboiled,seismictoss,thunderwave,healbell||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Kyogre||Leftovers|Drizzle|thunder,icebeam,originpulse,calmmind||85,,85,85,85,85|N|,0,,,,||71|,,,,,Dragon]Houndstone||ChoiceBand|Fluffy|poltergeist,bodypress,shadowsneak,trick||85,85,85,85,85,85|M|||86|,,,,,Fighting]Ursaring||Eviolite|Guts|sleeptalk,rest,bodyslam,earthquake||85,85,85,85,85,85|M|||84|,,,,,Ground",
   "curation": {

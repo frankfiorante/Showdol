@@ -19,6 +19,252 @@
     "Dachsbun",
     "Rotom-Heat"
   ],
+  "playerSets": [
+    {
+      "species": "Annihilape",
+      "level": 76,
+      "types": [
+        "Fighting",
+        "Ghost"
+      ],
+      "ability": "Defiant",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 292,
+      "stats": {
+        "atk": 219,
+        "def": 166,
+        "spa": 120,
+        "spd": 181,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Rage Fist",
+          "type": "Ghost",
+          "pp": 16
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Zacian",
+      "level": 64,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Intrepid Sword",
+      "item": "Rusted Sword",
+      "teraType": "Fighting",
+      "maxhp": 225,
+      "stats": {
+        "atk": 191,
+        "def": 185,
+        "spa": 140,
+        "spd": 185,
+        "spe": 214
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Behemoth Blade",
+          "type": "Steel",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sneasler",
+      "level": 74,
+      "types": [
+        "Fighting",
+        "Poison"
+      ],
+      "ability": "Unburden",
+      "item": "White Herb",
+      "teraType": "Flying",
+      "maxhp": 240,
+      "stats": {
+        "atk": 235,
+        "def": 132,
+        "spa": 102,
+        "spd": 161,
+        "spe": 221
+      },
+      "moves": [
+        {
+          "name": "Dire Claw",
+          "type": "Poison",
+          "pp": 24
+        },
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Latias",
+      "level": 79,
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Soul Dew",
+      "teraType": "Steel",
+      "maxhp": 256,
+      "stats": {
+        "atk": 131,
+        "def": 188,
+        "spa": 219,
+        "spd": 251,
+        "spe": 219
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dachsbun",
+      "level": 92,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Well-Baked Body",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 254,
+      "stats": {
+        "atk": 200,
+        "def": 264,
+        "spa": 144,
+        "spd": 200,
+        "spe": 227
+      },
+      "moves": [
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Rotom-Heat",
+      "level": 83,
+      "types": [
+        "Electric",
+        "Fire"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 219,
+      "stats": {
+        "atk": 112,
+        "def": 225,
+        "spa": 222,
+        "spd": 225,
+        "spe": 190
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Annihilape||Leftovers|Defiant|drainpunch,bulkup,ragefist,taunt||85,85,85,85,85,85|F|||76|,,,,,Steel]Zacian||RustedSword|IntrepidSword|swordsdance,closecombat,playrough,behemothblade||85,85,85,85,85,85|N|||64|,,,,,Fighting]Sneasler||WhiteHerb|Unburden|direclaw,acrobatics,closecombat,swordsdance||85,85,85,85,85,85|M|||74|,,,,,Flying]Latias||SoulDew|Levitate|dracometeor,recover,calmmind,psyshock||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Dachsbun||Leftovers|WellBakedBody|bodypress,wish,protect,playrough||85,85,85,85,85,85|F|||92|,,,,,Steel]Rotom|RotomHeat|HeavyDutyBoots|Levitate|thunderbolt,willowisp,overheat,painsplit||85,,85,85,85,85|N|,0,,,,||83|,,,,,Steel",
   "ai": "Gouging Fire||HeavyDutyBoots|Protosynthesis|outrage,earthquake,dragondance,heatcrash||85,85,85,85,85,85|N|||74|,,,,,Ground]Cetitan||LifeOrb|SheerForce|liquidation,superpower,iceshard,iciclecrash||85,85,85,85,85,85|M|||82|,,,,,Water]Latias||SoulDew|Levitate|calmmind,recover,psyshock,dracometeor||85,,85,85,85,85|F|,0,,,,||79|,,,,,Steel]Groudon||Leftovers|Drought|roar,spikes,heatcrash,precipiceblades||85,85,85,85,85,85|N|||72|,,,,,Fire]Hatterene||AssaultVest|MagicBounce|mysticalfire,psychic,nuzzle,drainingkiss||85,85,85,85,85,85|F|||85|,,,,,Fairy]Florges|FlorgesBlue|Leftovers|FlowerVeil|calmmind,protect,moonblast,wish||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel",
   "curation": {

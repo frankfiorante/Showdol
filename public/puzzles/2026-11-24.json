@@ -19,6 +19,251 @@
     "Seviper",
     "Plusle"
   ],
+  "playerSets": [
+    {
+      "species": "Haxorus",
+      "level": 78,
+      "types": [
+        "Dragon"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Loaded Dice",
+      "teraType": "Steel",
+      "maxhp": 247,
+      "stats": {
+        "atk": 274,
+        "def": 185,
+        "spa": 139,
+        "spd": 154,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Scale Shot",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Scrafty",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 244,
+      "stats": {
+        "atk": 197,
+        "def": 239,
+        "spa": 122,
+        "spd": 239,
+        "spe": 144
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Arboliva",
+      "level": 91,
+      "types": [
+        "Grass",
+        "Normal"
+      ],
+      "ability": "Harvest",
+      "item": "Sitrus Berry",
+      "teraType": "Poison",
+      "maxhp": 288,
+      "stats": {
+        "atk": 130,
+        "def": 216,
+        "spa": 279,
+        "spd": 250,
+        "spe": 123
+      },
+      "moves": [
+        {
+          "name": "Hyper Voice",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Spiritomb",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Dark"
+      ],
+      "ability": "Infiltrator",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 234,
+      "stats": {
+        "atk": 215,
+        "def": 243,
+        "spa": 215,
+        "spd": 243,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Seviper",
+      "level": 93,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Infiltrator",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 287,
+      "stats": {
+        "atk": 239,
+        "def": 164,
+        "spa": 239,
+        "spd": 164,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Glare",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Plusle",
+      "level": 95,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Lightning Rod",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 268,
+      "stats": {
+        "atk": 100,
+        "def": 130,
+        "spa": 215,
+        "spd": 196,
+        "spe": 234
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Haxorus||LoadedDice|MoldBreaker|scaleshot,earthquake,ironhead,swordsdance||85,85,85,85,85,85|F|||78|,,,,,Steel]Scrafty||Leftovers|ShedSkin|knockoff,bulkup,drainpunch,rest||85,85,85,85,85,85|F|||83|,,,,,Poison]Arboliva||SitrusBerry|Harvest|hypervoice,protect,substitute,leechseed||77,,85,85,85,85|M|,0,,,,||91|,,,,,Poison]Spiritomb||Leftovers|Infiltrator|shadowsneak,poltergeist,toxic,foulplay||85,85,85,85,85,85|F|||89|,,,,,Steel]Seviper||LifeOrb|Infiltrator|earthquake,glare,gunkshot,gigadrain||85,85,85,85,85,85|M|||93|,,,,,Grass]Plusle||LifeOrb|LightningRod|encore,thunderbolt,nastyplot,grassknot||85,,85,85,85,85|M|,0,,,,||95|,,,,,Electric",
   "ai": "Torterra||LoadedDice|Overgrow|bulletseed,headlongrush,shellsmash,rockblast||85,85,85,85,85,85|F|||78|,,,,,Rock]Urshifu||LifeOrb|UnseenFist|swordsdance,closecombat,wickedblow,poisonjab||85,85,85,85,85,85|M|||74|,,,,,Fighting]Mamoswine||LifeOrb|ThickFat|iciclecrash,stealthrock,iceshard,earthquake||85,85,85,85,85,85|M|||81|,,,,,Ice]Bellibolt||Leftovers|Electromorphosis|muddywater,slackoff,toxic,thunderbolt||85,,85,85,85,85|F|,0,,,,||84|,,,,,Water]Necrozma|NecrozmaDawnWings|Leftovers|PrismArmor|moongeistbeam,calmmind,photongeyser,moonlight||85,,85,85,85,85|N|,0,,,,||76|,,,,,Fairy]Porygon-Z||LifeOrb|Adaptability|nastyplot,shadowball,terablast,agility||85,,85,85,85,85|N|,0,,,,||83|,,,,,Fighting",
   "curation": {

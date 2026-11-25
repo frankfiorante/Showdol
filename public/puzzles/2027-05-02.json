@@ -19,6 +19,252 @@
     "Tatsugiri",
     "Excadrill"
   ],
+  "playerSets": [
+    {
+      "species": "Necrozma-Dawn-Wings",
+      "level": 76,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "ability": "Prism Armor",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 272,
+      "stats": {
+        "atk": 216,
+        "def": 210,
+        "spa": 283,
+        "spd": 237,
+        "spe": 161
+      },
+      "moves": [
+        {
+          "name": "Photon Geyser",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Moongeist Beam",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Brick Break",
+          "type": "Fighting",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Slowbro",
+      "level": 85,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "ability": "Regenerator",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 300,
+      "stats": {
+        "atk": 132,
+        "def": 236,
+        "spa": 219,
+        "spd": 185,
+        "spe": 100
+      },
+      "moves": [
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Scald",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Rillaboom",
+      "level": 79,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Grassy Surge",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 288,
+      "stats": {
+        "atk": 243,
+        "def": 188,
+        "spa": 140,
+        "spd": 156,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Grassy Glide",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Spectrier",
+      "level": 75,
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Grim Neigh",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 274,
+      "stats": {
+        "atk": 102,
+        "def": 134,
+        "spa": 261,
+        "spd": 164,
+        "spe": 239
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Tatsugiri",
+      "level": 87,
+      "types": [
+        "Dragon",
+        "Water"
+      ],
+      "ability": "Storm Drain",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 260,
+      "stats": {
+        "atk": 137,
+        "def": 154,
+        "spa": 259,
+        "spd": 215,
+        "spe": 192
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Excadrill",
+      "level": 79,
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 303,
+      "stats": {
+        "atk": 259,
+        "def": 140,
+        "spa": 125,
+        "spd": 148,
+        "spe": 185
+      },
+      "moves": [
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    }
+  ],
   "player": "Necrozma|NecrozmaDawnWings|LifeOrb|PrismArmor|photongeyser,dragondance,moongeistbeam,brickbreak||85,85,85,85,85,85|N|||76|,,,,,Fighting]Slowbro||Leftovers|Regenerator|psychicnoise,calmmind,scald,slackoff||85,,85,85,85,85|M|,0,,,,||85|,,,,,Fairy]Rillaboom||LifeOrb|GrassySurge|highhorsepower,grassyglide,swordsdance,woodhammer||85,85,85,85,85,85|M|||79|,,,,,Grass]Spectrier||LifeOrb|GrimNeigh|nastyplot,shadowball,drainingkiss,darkpulse||85,,85,85,85,85|N|,0,,,,||75|,,,,,Fairy]Tatsugiri||HeavyDutyBoots|StormDrain|dracometeor,rapidspin,surf,nastyplot||85,85,85,85,85,85|M|||87|,,,,,Steel]Excadrill||Leftovers|MoldBreaker|ironhead,earthquake,swordsdance,rapidspin||85,85,85,85,85,85|M|||79|,,,,,Grass",
   "ai": "Yanmega||ChoiceSpecs|TintedLens|bugbuzz,uturn,airslash,gigadrain||85,85,85,85,85,85|M|||82|,,,,,Bug]Ceruledge||HeavyDutyBoots|WeakArmor|closecombat,bitterblade,swordsdance,poltergeist||85,85,85,85,85,85|F|||78|,,,,,Ghost]Wugtrio||ChoiceBand|Gooey|stompingtantrum,throatchop,liquidation,aquajet||85,85,85,85,85,85|F|||91|,,,,,Ground]Porygon2||Eviolite|Download|discharge,triattack,recover,icebeam||85,,85,85,85,85|N|,0,,,,||81|,,,,,Ghost]Glaceon||HeavyDutyBoots|IceBody|freezedry,protect,wish,calmmind||85,,85,85,85,85|F|,0,,,,||94|,,,,,Water]Appletun||Leftovers|ThickFat|recover,appleacid,dracometeor,leechseed||85,,85,85,85,85|M|,0,,,,||92|,,,,,Steel",
   "curation": {

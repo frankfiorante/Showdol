@@ -19,6 +19,252 @@
     "Kilowattrel",
     "Mudsdale"
   ],
+  "playerSets": [
+    {
+      "species": "Dedenne",
+      "level": 88,
+      "types": [
+        "Electric",
+        "Fairy"
+      ],
+      "ability": "Cheek Pouch",
+      "item": "Sitrus Berry",
+      "teraType": "Flying",
+      "maxhp": 261,
+      "stats": {
+        "atk": 152,
+        "def": 151,
+        "spa": 193,
+        "spd": 168,
+        "spe": 228
+      },
+      "moves": [
+        {
+          "name": "Super Fang",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Brute Bonnet",
+      "level": 79,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 305,
+      "stats": {
+        "atk": 246,
+        "def": 202,
+        "spa": 170,
+        "spd": 202,
+        "spe": 132
+      },
+      "moves": [
+        {
+          "name": "Spore",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Seed Bomb",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Orthworm",
+      "level": 88,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Earth Eater",
+      "item": "Chesto Berry",
+      "teraType": "Fighting",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 305,
+        "spa": 156,
+        "spd": 147,
+        "spe": 165
+      },
+      "moves": [
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Iron Tail",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Lunala",
+      "level": 70,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "ability": "Shadow Shield",
+      "item": "Leftovers",
+      "teraType": "Fairy",
+      "maxhp": 308,
+      "stats": {
+        "atk": 163,
+        "def": 166,
+        "spa": 233,
+        "spd": 191,
+        "spe": 177
+      },
+      "moves": [
+        {
+          "name": "Moonlight",
+          "type": "Fairy",
+          "pp": 8
+        },
+        {
+          "name": "Moongeist Beam",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Kilowattrel",
+      "level": 83,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Steel",
+      "maxhp": 252,
+      "stats": {
+        "atk": 164,
+        "def": 147,
+        "spa": 222,
+        "spd": 147,
+        "spe": 255
+      },
+      "moves": [
+        {
+          "name": "Discharge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Hurricane",
+          "type": "Flying",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Mudsdale",
+      "level": 83,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Stamina",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 302,
+      "stats": {
+        "atk": 255,
+        "def": 214,
+        "spa": 139,
+        "spd": 189,
+        "spe": 106
+      },
+      "moves": [
+        {
+          "name": "Roar",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Dedenne||SitrusBerry|CheekPouch|superfang,dazzlinggleam,thunderbolt,uturn||85,85,85,85,85,85|F|||88|,,,,,Flying]Brute Bonnet||Leftovers|Protosynthesis|spore,crunch,seedbomb,suckerpunch||85,85,85,85,85,85|N|||79|,,,,,Poison]Orthworm||ChestoBerry|EarthEater|rest,coil,irontail,bodypress||85,85,85,85,85,85|M|||88|,,,,,Fighting]Lunala||Leftovers|ShadowShield|moonlight,moongeistbeam,calmmind,psyshock||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fairy]Kilowattrel||HeavyDutyBoots|VoltAbsorb|discharge,roost,hurricane,uturn||85,85,85,85,85,85|F|||83|,,,,,Steel]Mudsdale||Leftovers|Stamina|roar,earthquake,heavyslam,stealthrock||85,85,85,85,85,85|F|||83|,,,,,Steel",
   "ai": "Hydreigon||ChoiceSpecs|Levitate|uturn,darkpulse,flashcannon,dracometeor||85,85,85,85,85,85|F|||79|,,,,,Dark]Jirachi||Leftovers|SereneGrace|ironhead,wish,protect,bodyslam||85,85,85,85,85,85|N|||80|,,,,,Water]Oranguru||Leftovers|InnerFocus|focusblast,nastyplot,psyshock,thunderbolt||85,,85,85,85,85|M|,0,,,,||92|,,,,,Fighting]Leavanny||LoadedDice|Chlorophyll|bulletseed,knockoff,stickyweb,tripleaxel||85,85,85,85,85,85|M|||86|,,,,,Ghost]Charizard||HeavyDutyBoots|Blaze|outrage,dragondance,earthquake,flareblitz||85,85,85,85,85,85|M|||85|,,,,,Ground]Haxorus||LoadedDice|MoldBreaker|earthquake,swordsdance,scaleshot,ironhead||85,85,85,85,85,85|M|||78|,,,,,Steel",
   "curation": {

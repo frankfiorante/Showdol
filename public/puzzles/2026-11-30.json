@@ -19,6 +19,252 @@
     "Jolteon",
     "Roaring Moon"
   ],
+  "playerSets": [
+    {
+      "species": "Duraludon",
+      "level": 82,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Light Metal",
+      "item": "Eviolite",
+      "teraType": "Fighting",
+      "maxhp": 249,
+      "stats": {
+        "atk": 160,
+        "def": 236,
+        "spa": 244,
+        "spd": 129,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Slither Wing",
+      "level": 81,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fire",
+      "maxhp": 270,
+      "stats": {
+        "atk": 265,
+        "def": 175,
+        "spa": 184,
+        "spd": 217,
+        "spe": 178
+      },
+      "moves": [
+        {
+          "name": "Morning Sun",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Lugia",
+      "level": 73,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Multiscale",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 275,
+      "stats": {
+        "atk": 136,
+        "def": 232,
+        "spa": 174,
+        "spd": 267,
+        "spe": 203
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Aeroblast",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Glalie",
+      "level": 96,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Inner Focus",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 309,
+      "stats": {
+        "atk": 208,
+        "def": 208,
+        "spa": 208,
+        "spd": 208,
+        "spe": 208
+      },
+      "moves": [
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Spikes",
+          "type": "Ground",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Jolteon",
+      "level": 84,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Volt Absorb",
+      "item": "Leftovers",
+      "teraType": "Ice",
+      "maxhp": 246,
+      "stats": {
+        "atk": 114,
+        "def": 149,
+        "spa": 233,
+        "spd": 208,
+        "spe": 267
+      },
+      "moves": [
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Roaring Moon",
+      "level": 72,
+      "types": [
+        "Dragon",
+        "Dark"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Lum Berry",
+      "teraType": "Ground",
+      "maxhp": 270,
+      "stats": {
+        "atk": 242,
+        "def": 144,
+        "spa": 121,
+        "spd": 187,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Duraludon||Eviolite|LightMetal|dracometeor,bodypress,thunderwave,flashcannon||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fighting]Slither Wing||HeavyDutyBoots|Protosynthesis|morningsun,closecombat,uturn,willowisp||85,85,85,85,85,85|N|||81|,,,,,Fire]Lugia||HeavyDutyBoots|Multiscale|recover,aeroblast,earthpower,calmmind||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Glalie||HeavyDutyBoots|InnerFocus|taunt,freezedry,spikes,earthquake||85,85,85,85,85,85|M|||96|,,,,,Ground]Jolteon||Leftovers|VoltAbsorb|substitute,terablast,thunderbolt,calmmind||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ice]Roaring Moon||LumBerry|Protosynthesis|dragondance,knockoff,earthquake,outrage||85,85,85,85,85,85|N|||72|,,,,,Ground",
   "ai": "Armarouge||ChoiceSpecs|WeakArmor|armorcannon,psyshock,energyball,aurasphere||85,,85,85,85,85|M|,0,,,,||80|,,,,,Fighting]Zangoose||ToxicOrb|ToxicBoost|quickattack,facade,knockoff,closecombat||85,85,85,85,85,85|M|||85|,,,,,Normal]Weavile||HeavyDutyBoots|Pickpocket|lowkick,knockoff,swordsdance,tripleaxel||85,85,85,85,85,85|M|||79|,,,,,Fighting]Hatterene||Leftovers|MagicBounce|drainingkiss,psychic,calmmind,mysticalfire||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Dedenne||SitrusBerry|CheekPouch|uturn,superfang,thunderbolt,dazzlinggleam||85,85,85,85,85,85|M|||88|,,,,,Flying]Revavroom||LifeOrb|Filter|gunkshot,highhorsepower,shiftgear,ironhead||85,85,85,85,85,85|M|||79|,,,,,Ground",
   "curation": {

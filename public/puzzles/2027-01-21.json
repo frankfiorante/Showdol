@@ -19,6 +19,250 @@
     "Sunflora",
     "Galvantula"
   ],
+  "playerSets": [
+    {
+      "species": "Shaymin",
+      "level": 82,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Natural Cure",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 298,
+      "stats": {
+        "atk": 169,
+        "def": 211,
+        "spa": 211,
+        "spd": 211,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Seed Flare",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Lugia",
+      "level": 73,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "ability": "Multiscale",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 275,
+      "stats": {
+        "atk": 136,
+        "def": 232,
+        "spa": 174,
+        "spd": 267,
+        "spe": 203
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Aeroblast",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Politoed",
+      "level": 88,
+      "types": [
+        "Water"
+      ],
+      "ability": "Drizzle",
+      "item": "Choice Specs",
+      "teraType": "Water",
+      "maxhp": 302,
+      "stats": {
+        "atk": 137,
+        "def": 182,
+        "spa": 209,
+        "spd": 226,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Weather Ball",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Magmortar",
+      "level": 88,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Flame Body",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 275,
+      "stats": {
+        "atk": 172,
+        "def": 168,
+        "spa": 270,
+        "spd": 217,
+        "spe": 196
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Sunflora",
+      "level": 100,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Life Orb",
+      "teraType": "Fire",
+      "maxhp": 312,
+      "stats": {
+        "atk": 155,
+        "def": 167,
+        "spa": 267,
+        "spd": 227,
+        "spe": 117
+      },
+      "moves": [
+        {
+          "name": "Solar Beam",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Sunny Day",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Weather Ball",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Galvantula",
+      "level": 82,
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "ability": "Compound Eyes",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 249,
+      "stats": {
+        "atk": 131,
+        "def": 146,
+        "spa": 206,
+        "spd": 146,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Thunder",
+          "type": "Electric",
+          "pp": 16
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Shaymin||Leftovers|NaturalCure|airslash,seedflare,synthesis,earthpower||85,,85,85,85,85|N|,0,,,,||82|,,,,,Steel]Lugia||HeavyDutyBoots|Multiscale|recover,aeroblast,calmmind,earthpower||85,,85,85,85,85|N|,0,,,,||73|,,,,,Ground]Politoed||ChoiceSpecs|Drizzle|icebeam,focusblast,weatherball,hydropump||85,,85,85,85,85|F|,0,,,,||88|,,,,,Water]Magmortar||HeavyDutyBoots|FlameBody|thunderbolt,focusblast,taunt,fireblast||85,,85,85,85,85|M|,0,,,,||88|,,,,,Electric]Sunflora||LifeOrb|Chlorophyll|solarbeam,earthpower,sunnyday,weatherball||85,,85,85,85,85|M|,0,,,,|||,,,,,Fire]Galvantula||HeavyDutyBoots|CompoundEyes|voltswitch,thunder,bugbuzz,stickyweb||85,,85,85,85,85|F|,0,,,,||82|,,,,,Electric",
   "ai": "Porygon2||Eviolite|Download|terablast,thunderwave,shadowball,recover||85,85,85,85,85,85|N|||81|,,,,,Fighting]Munkidori||LifeOrb|ToxicChain|nastyplot,focusblast,sludgewave,psyshock||85,,85,85,85,85|M|,0,,,,||79|,,,,,Poison]Meowstic||LightClay|Prankster|yawn,psychicnoise,reflect,lightscreen||85,,85,85,85,85|M|,0,,,,||89|,,,,,Fairy]Stantler||Eviolite|Intimidate|bodyslam,thunderwave,throatchop,earthquake||85,85,85,85,85,85|F|||90|,,,,,Ground]Archaludon||AssaultVest|Stamina|bodypress,flashcannon,thunderbolt,dracometeor||85,,85,85,85,85|F|,0,,,,||77|,,,,,Fighting]Tsareena||HeavyDutyBoots|QueenlyMajesty|synthesis,uturn,highjumpkick,powerwhip||85,85,85,85,85,85|F|||87|,,,,,Fighting",
   "curation": {

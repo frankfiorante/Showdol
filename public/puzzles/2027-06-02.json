@@ -19,6 +19,252 @@
     "Palossand",
     "Quaquaval"
   ],
+  "playerSets": [
+    {
+      "species": "Okidogi",
+      "level": 77,
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 262,
+      "stats": {
+        "atk": 242,
+        "def": 222,
+        "spa": 134,
+        "spd": 177,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Persian",
+      "level": 92,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Limber",
+      "item": "Choice Band",
+      "teraType": "Normal",
+      "maxhp": 269,
+      "stats": {
+        "atk": 181,
+        "def": 163,
+        "spa": 172,
+        "spd": 172,
+        "spe": 264
+      },
+      "moves": [
+        {
+          "name": "Switcheroo",
+          "type": "Dark",
+          "pp": 16
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Magnezone",
+      "level": 84,
+      "types": [
+        "Electric",
+        "Steel"
+      ],
+      "ability": "Analytic",
+      "item": "Choice Scarf",
+      "teraType": "Electric",
+      "maxhp": 255,
+      "stats": {
+        "atk": 122,
+        "def": 241,
+        "spa": 267,
+        "spd": 199,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Sceptile",
+      "level": 87,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Overgrow",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 264,
+      "stats": {
+        "atk": 152,
+        "def": 163,
+        "spa": 232,
+        "spd": 198,
+        "spe": 259
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Palossand",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Ground"
+      ],
+      "ability": "Water Compaction",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 296,
+      "stats": {
+        "atk": 138,
+        "def": 247,
+        "spa": 229,
+        "spd": 184,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Shore Up",
+          "type": "Ground",
+          "pp": 8
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Quaquaval",
+      "level": 79,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "ability": "Moxie",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 264,
+      "stats": {
+        "atk": 235,
+        "def": 172,
+        "spa": 180,
+        "spd": 164,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Aqua Step",
+          "type": "Water",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Okidogi||Leftovers|ToxicChain|gunkshot,drainpunch,knockoff,bulkup||85,85,85,85,85,85|M|||77|,,,,,Dark]Persian||ChoiceBand|Limber|switcheroo,doubleedge,uturn,knockoff||85,85,85,85,85,85|F|||92|,,,,,Normal]Magnezone||ChoiceScarf|Analytic|thunderbolt,voltswitch,flashcannon,bodypress||85,,85,85,85,85|N|,0,,,,||84|,,,,,Electric]Sceptile||Leftovers|Overgrow|gigadrain,focusblast,leechseed,substitute||85,,85,85,85,85|M|,0,,,,||87|,,,,,Steel]Palossand||Leftovers|WaterCompaction|earthpower,shoreup,shadowball,sludgebomb||85,,85,85,85,85|F|,0,,,,||89|,,,,,Poison]Quaquaval||LifeOrb|Moxie|knockoff,swordsdance,closecombat,aquastep||85,85,85,85,85,85|M|||79|,,,,,Water",
   "ai": "Ho-Oh||HeavyDutyBoots|Regenerator|recover,sacredfire,earthquake,bravebird||85,85,85,85,85,85|N|||71|,,,,,Ground]Vaporeon||Leftovers|WaterAbsorb|icebeam,scald,protect,wish||85,,85,85,85,85|F|,0,,,,||86|,,,,,Ghost]Chansey||Eviolite|NaturalCure|healbell,thunderwave,seismictoss,softboiled||85,,85,85,85,85|F|,0,,,,||85|,,,,,Poison]Tropius||SitrusBerry|Harvest|synthesis,dualwingbeat,earthquake,dragondance||85,85,85,85,85,85|M|||91|,,,,,Ground]Wo-Chien||Leftovers|TabletsofRuin|ruination,knockoff,stunspore,gigadrain||85,85,85,85,85,85|N|||83|,,,,,Poison]Cryogonal||HeavyDutyBoots|Levitate|recover,freezedry,rapidspin,flashcannon||85,85,85,85,85,85|N|||89|,,,,,Poison",
   "curation": {

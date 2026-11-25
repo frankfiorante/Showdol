@@ -19,6 +19,252 @@
     "Medicham",
     "Magcargo"
   ],
+  "playerSets": [
+    {
+      "species": "Hippowdon",
+      "level": 82,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Sand Stream",
+      "item": "Rocky Helmet",
+      "teraType": "Dragon",
+      "maxhp": 311,
+      "stats": {
+        "atk": 231,
+        "def": 241,
+        "spa": 159,
+        "spd": 165,
+        "spe": 124
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Thundurus",
+      "level": 80,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Electric",
+      "maxhp": 258,
+      "stats": {
+        "atk": 189,
+        "def": 158,
+        "spa": 246,
+        "spd": 174,
+        "spe": 224
+      },
+      "moves": [
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Plusle",
+      "level": 95,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Lightning Rod",
+      "item": "Life Orb",
+      "teraType": "Grass",
+      "maxhp": 268,
+      "stats": {
+        "atk": 100,
+        "def": 130,
+        "spa": 215,
+        "spd": 196,
+        "spe": 234
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Grass Knot",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Bombirdier",
+      "level": 85,
+      "types": [
+        "Flying",
+        "Dark"
+      ],
+      "ability": "Rocky Payload",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Rock",
+      "maxhp": 258,
+      "stats": {
+        "atk": 224,
+        "def": 193,
+        "spa": 151,
+        "spd": 193,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Medicham",
+      "level": 86,
+      "types": [
+        "Fighting",
+        "Psychic"
+      ],
+      "ability": "Pure Power",
+      "item": "Choice Scarf",
+      "teraType": "Fighting",
+      "maxhp": 243,
+      "stats": {
+        "atk": 152,
+        "def": 178,
+        "spa": 152,
+        "spd": 178,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Ice Punch",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Magcargo",
+      "level": 95,
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "ability": "Weak Armor",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 268,
+      "stats": {
+        "atk": 100,
+        "def": 282,
+        "spa": 225,
+        "spd": 206,
+        "spe": 111
+      },
+      "moves": [
+        {
+          "name": "Power Gem",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Shell Smash",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Hippowdon||RockyHelmet|SandStream|stoneedge,slackoff,stealthrock,earthquake||85,85,85,85,85,85|F|||82|,,,,,Dragon]Thundurus||HeavyDutyBoots|Prankster|thunderwave,thunderbolt,focusblast,taunt||85,,85,85,85,85|M|,0,,,,||80|,,,,,Electric]Plusle||LifeOrb|LightningRod|encore,grassknot,nastyplot,thunderbolt||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass]Bombirdier||HeavyDutyBoots|RockyPayload|roost,knockoff,bravebird,stoneedge||85,85,85,85,85,85|F|||85|,,,,,Rock]Medicham||ChoiceScarf|PurePower|icepunch,closecombat,zenheadbutt,poisonjab||85,85,85,85,85,85|M|||86|,,,,,Fighting]Magcargo||HeavyDutyBoots|WeakArmor|powergem,earthpower,shellsmash,fireblast||85,,85,85,85,85|M|,0,,,,||95|,,,,,Grass",
   "ai": "Whiscash||Leftovers|Oblivious|spikes,stealthrock,earthquake,icebeam||85,85,85,85,85,85|F|||88|,,,,,Steel]Gouging Fire||HeavyDutyBoots|Protosynthesis|earthquake,heatcrash,dragondance,outrage||85,85,85,85,85,85|N|||74|,,,,,Ground]Glaceon||HeavyDutyBoots|IceBody|freezedry,calmmind,protect,wish||85,,85,85,85,85|F|,0,,,,||94|,,,,,Water]Enamorus|EnamorusTherian|WeaknessPolicy|Overcoat|earthpower,moonblast,agility,superpower||85,85,85,85,85,85|F|||83|,,,,,Ground]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|closecombat,earthquake,ironhead,throatchop||85,85,85,85,85,85|M|||82|,,,,,Dark]Regidrago||ChoiceScarf|DragonsMaw|earthquake,dragonenergy,dracometeor,outrage||85,85,85,85,85,85|N|||77|,,,,,Dragon",
   "curation": {

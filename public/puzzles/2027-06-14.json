@@ -19,6 +19,251 @@
     "Mewtwo",
     "Sandaconda"
   ],
+  "playerSets": [
+    {
+      "species": "Eelektross",
+      "level": 87,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 290,
+      "stats": {
+        "atk": 250,
+        "def": 189,
+        "spa": 232,
+        "spd": 189,
+        "spe": 137
+      },
+      "moves": [
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Empoleon",
+      "level": 84,
+      "types": [
+        "Water",
+        "Steel"
+      ],
+      "ability": "Competitive",
+      "item": "Leftovers",
+      "teraType": "Grass",
+      "maxhp": 278,
+      "stats": {
+        "atk": 149,
+        "def": 196,
+        "spa": 235,
+        "spd": 218,
+        "spe": 149
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Yawn",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Dialga",
+      "level": 73,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 218,
+        "def": 218,
+        "spa": 261,
+        "spd": 188,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Spiritomb",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Dark"
+      ],
+      "ability": "Infiltrator",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 234,
+      "stats": {
+        "atk": 215,
+        "def": 243,
+        "spa": 215,
+        "spd": 243,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Mewtwo",
+      "level": 72,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Pressure",
+      "item": "Life Orb",
+      "teraType": "Psychic",
+      "maxhp": 272,
+      "stats": {
+        "atk": 163,
+        "def": 172,
+        "spa": 264,
+        "spd": 172,
+        "spe": 229
+      },
+      "moves": [
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Psystrike",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Sandaconda",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 258,
+      "stats": {
+        "atk": 228,
+        "def": 258,
+        "spa": 157,
+        "spd": 166,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Glare",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        }
+      ]
+    }
+  ],
   "player": "Eelektross||Leftovers|Levitate|supercellslam,drainpunch,knockoff,coil||85,85,85,85,85,85|M|||87|,,,,,Fighting]Empoleon||Leftovers|Competitive|roost,surf,yawn,stealthrock||85,,85,85,85,85|M|,0,,,,||84|,,,,,Grass]Dialga||Leftovers|Pressure|heavyslam,fireblast,thunderwave,dracometeor||85,85,85,85,85,85|N|||73|,,,,,Steel]Spiritomb||Leftovers|Infiltrator|foulplay,suckerpunch,poltergeist,toxic||85,85,85,85,85,85|F|||89|,,,,,Ghost]Mewtwo||LifeOrb|Pressure|nastyplot,fireblast,psystrike,darkpulse||85,,85,85,85,85|N|,0,,,,||72|,,,,,Psychic]Sandaconda||Leftovers|ShedSkin|stoneedge,glare,earthquake,rest||85,85,85,85,85,85|M|||84|,,,,,Water",
   "ai": "Braviary||HeavyDutyBoots|Defiant|bulkup,roost,bravebird,closecombat||85,85,85,85,85,85|M|||85|,,,,,Fighting]Tauros|TaurosPaldeaCombat|ChoiceBand|Intimidate|ironhead,stoneedge,closecombat,throatchop||85,85,85,85,85,85|M|||82|,,,,,Steel]Kricketune||HeavyDutyBoots|Technician|knockoff,pounce,stickyweb,taunt||85,85,85,85,85,85|M|||99|,,,,,Ghost]Duraludon||Eviolite|LightMetal|stealthrock,flashcannon,bodypress,dracometeor||85,,85,85,85,85|M|,0,,,,||82|,,,,,Fighting]Hariyama||AssaultVest|ThickFat|heavyslam,bulletpunch,knockoff,closecombat||85,85,85,85,85,85|M|||87|,,,,,Steel]Scizor||ChoiceBand|Technician|bulletpunch,knockoff,closecombat,uturn||85,85,85,85,85,85|F|||79|,,,,,Steel",
   "curation": {

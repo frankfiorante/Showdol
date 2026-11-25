@@ -19,6 +19,251 @@
     "Cryogonal",
     "Komala"
   ],
+  "playerSets": [
+    {
+      "species": "Tinkaton",
+      "level": 82,
+      "types": [
+        "Fairy",
+        "Steel"
+      ],
+      "ability": "Mold Breaker",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 274,
+      "stats": {
+        "atk": 170,
+        "def": 173,
+        "spa": 162,
+        "spd": 219,
+        "spe": 201
+      },
+      "moves": [
+        {
+          "name": "Gigaton Hammer",
+          "type": "Steel",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Spidops",
+      "level": 96,
+      "types": [
+        "Bug"
+      ],
+      "ability": "Stakeout",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ghost",
+      "maxhp": 271,
+      "stats": {
+        "atk": 206,
+        "def": 231,
+        "spa": 154,
+        "spd": 220,
+        "spe": 122
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Circle Throw",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Sticky Web",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Iron Valiant",
+      "level": 78,
+      "types": [
+        "Fairy",
+        "Fighting"
+      ],
+      "ability": "Quark Drive",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 244,
+      "stats": {
+        "atk": 248,
+        "def": 185,
+        "spa": 232,
+        "spd": 139,
+        "spe": 226
+      },
+      "moves": [
+        {
+          "name": "Psychic",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Dipplin",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Sticky Hold",
+      "item": "Eviolite",
+      "teraType": "Steel",
+      "maxhp": 284,
+      "stats": {
+        "atk": 191,
+        "def": 244,
+        "spa": 217,
+        "spd": 191,
+        "spe": 121
+      },
+      "moves": [
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Cryogonal",
+      "level": 89,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Levitate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Poison",
+      "maxhp": 287,
+      "stats": {
+        "atk": 140,
+        "def": 140,
+        "spa": 220,
+        "spd": 291,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Freeze-Dry",
+          "type": "Ice",
+          "pp": 32
+        },
+        {
+          "name": "Haze",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        }
+      ]
+    },
+    {
+      "species": "Komala",
+      "level": 87,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Comatose",
+      "item": "Choice Band",
+      "teraType": "Ghost",
+      "maxhp": 255,
+      "stats": {
+        "atk": 250,
+        "def": 163,
+        "spa": 180,
+        "spd": 215,
+        "spe": 163
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Tinkaton||Leftovers|MoldBreaker|gigatonhammer,swordsdance,protect,playrough||85,85,85,85,85,85|F|||82|,,,,,Steel]Spidops||HeavyDutyBoots|Stakeout|knockoff,toxicspikes,circlethrow,stickyweb||85,85,85,85,85,85|M|||96|,,,,,Ghost]Iron Valiant||LifeOrb|QuarkDrive|psychic,calmmind,moonblast,closecombat||85,85,85,85,85,85|N|||78|,,,,,Fighting]Dipplin||Eviolite|StickyHold|recover,gigadrain,dragonpulse,dragontail||85,85,85,85,85,85|F|||88|,,,,,Steel]Cryogonal||HeavyDutyBoots|Levitate|freezedry,haze,recover,rapidspin||85,85,85,85,85,85|N|||89|,,,,,Poison]Komala||ChoiceBand|Comatose|uturn,knockoff,bodyslam,earthquake||85,85,85,85,85,85|F|||87|,,,,,Ghost",
   "ai": "Lurantis||AssaultVest|Contrary|knockoff,superpower,leafstorm,leechlife||85,85,85,85,85,85|F|||87|,,,,,Water]Sceptile||Leftovers|Overgrow|gigadrain,leechseed,focusblast,substitute||85,,85,85,85,85|F|,0,,,,||87|,,,,,Steel]Wigglytuff||Leftovers|Competitive|wish,fireblast,protect,alluringvoice||85,,85,85,85,85|F|,0,,,,||96|,,,,,Steel]Spidops||HeavyDutyBoots|Stakeout|knockoff,stickyweb,circlethrow,spikes||85,85,85,85,85,85|F|||96|,,,,,Ghost]Arceus|ArceusPoison|ToxicPlate|Multitype|recover,gunkshot,dragondance,earthquake||85,85,85,85,85,85|N|||70|,,,,,Ground]Talonflame||HeavyDutyBoots|GaleWings|bravebird,flareblitz,swordsdance,terablast||85,85,85,85,85,85|M|||83|,,,,,Ground",
   "curation": {

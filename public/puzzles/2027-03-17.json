@@ -19,6 +19,252 @@
     "Florges",
     "Skeledirge"
   ],
+  "playerSets": [
+    {
+      "species": "Squawkabilly-Yellow",
+      "level": 89,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Hustle",
+      "item": "Choice Band",
+      "teraType": "Normal",
+      "maxhp": 291,
+      "stats": {
+        "atk": 222,
+        "def": 142,
+        "spa": 131,
+        "spd": 142,
+        "spe": 215
+      },
+      "moves": [
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Sceptile",
+      "level": 87,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Overgrow",
+      "item": "Life Orb",
+      "teraType": "Rock",
+      "maxhp": 264,
+      "stats": {
+        "atk": 198,
+        "def": 163,
+        "spa": 232,
+        "spd": 198,
+        "spe": 259
+      },
+      "moves": [
+        {
+          "name": "Rock Slide",
+          "type": "Rock",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Scream Tail",
+      "level": 84,
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "ability": "Protosynthesis",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 330,
+      "stats": {
+        "atk": 157,
+        "def": 215,
+        "spa": 157,
+        "spd": 241,
+        "spe": 235
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Flamigo",
+      "level": 82,
+      "types": [
+        "Flying",
+        "Fighting"
+      ],
+      "ability": "Scrappy",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 269,
+      "stats": {
+        "atk": 236,
+        "def": 169,
+        "spa": 170,
+        "spd": 152,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Florges",
+      "level": 85,
+      "types": [
+        "Fairy"
+      ],
+      "ability": "Flower Veil",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 271,
+      "stats": {
+        "atk": 115,
+        "def": 164,
+        "spa": 239,
+        "spd": 311,
+        "spe": 176
+      },
+      "moves": [
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Skeledirge",
+      "level": 79,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "ability": "Unaware",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fairy",
+      "maxhp": 294,
+      "stats": {
+        "atk": 123,
+        "def": 204,
+        "spa": 219,
+        "spd": 164,
+        "spe": 150
+      },
+      "moves": [
+        {
+          "name": "Torch Song",
+          "type": "Fire",
+          "pp": 16
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Slack Off",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Hex",
+          "type": "Ghost",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Squawkabilly|SquawkabillyYellow|ChoiceBand|Hustle|doubleedge,foulplay,quickattack,bravebird||85,85,85,85,85,85|M|||89|,,,,,Normal]Sceptile||LifeOrb|Overgrow|rockslide,swordsdance,earthquake,leafblade||85,85,85,85,85,85|F|||87|,,,,,Rock]Scream Tail||Leftovers|Protosynthesis|wish,playrough,thunderwave,protect||85,85,85,85,85,85|N|||84|,,,,,Poison]Flamigo||ChoiceBand|Scrappy|uturn,closecombat,throatchop,bravebird||85,85,85,85,85,85|M|||82|,,,,,Fighting]Florges||Leftovers|FlowerVeil|calmmind,protect,wish,moonblast||85,,85,85,85,85|F|,0,,,,||85|,,,,,Steel]Skeledirge||HeavyDutyBoots|Unaware|torchsong,willowisp,slackoff,hex||85,,85,85,85,85|M|,0,,,,||79|,,,,,Fairy",
   "ai": "Mightyena||AssaultVest|Intimidate|suckerpunch,playrough,poisonfang,throatchop||85,85,85,85,85,85|F|||96|,,,,,Poison]Slither Wing||BoosterEnergy|Protosynthesis|closecombat,earthquake,bulkup,acrobatics||85,85,85,85,85,85|N|||81|,,,,,Flying]Chandelure||ChoiceScarf|FlashFire|shadowball,energyball,trick,fireblast||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ghost]Misdreavus||Eviolite|Levitate|calmmind,drainingkiss,willowisp,shadowball||85,,85,85,85,85|F|,0,,,,||90|,,,,,Fairy]Magmortar||HeavyDutyBoots|FlameBody|focusblast,thunderbolt,fireblast,earthquake||85,85,85,85,85,85|F|||88|,,,,,Water]Cacturne||LifeOrb|WaterAbsorb|suckerpunch,leafstorm,spikes,knockoff||85,85,85,85,85,85|M|||92|,,,,,Dark",
   "curation": {

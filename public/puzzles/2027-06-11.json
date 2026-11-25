@@ -19,6 +19,252 @@
     "Sceptile",
     "Drifblim"
   ],
+  "playerSets": [
+    {
+      "species": "Orthworm",
+      "level": 88,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Earth Eater",
+      "item": "Chesto Berry",
+      "teraType": "Electric",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 305,
+        "spa": 156,
+        "spd": 147,
+        "spe": 165
+      },
+      "moves": [
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Iron Tail",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Archaludon",
+      "level": 77,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Stamina",
+      "item": "Lum Berry",
+      "teraType": "Ground",
+      "maxhp": 265,
+      "stats": {
+        "atk": 206,
+        "def": 245,
+        "spa": 237,
+        "spd": 145,
+        "spe": 175
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Iron Head",
+          "type": "Steel",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Grafaiai",
+      "level": 86,
+      "types": [
+        "Poison",
+        "Normal"
+      ],
+      "ability": "Prankster",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 249,
+      "stats": {
+        "atk": 213,
+        "def": 161,
+        "spa": 187,
+        "spd": 173,
+        "spe": 238
+      },
+      "moves": [
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Parting Shot",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Flygon",
+      "level": 82,
+      "types": [
+        "Ground",
+        "Dragon"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Band",
+      "teraType": "Steel",
+      "maxhp": 265,
+      "stats": {
+        "atk": 211,
+        "def": 178,
+        "spa": 178,
+        "spd": 178,
+        "spe": 211
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Sceptile",
+      "level": 87,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Overgrow",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 264,
+      "stats": {
+        "atk": 152,
+        "def": 163,
+        "spa": 232,
+        "spd": 198,
+        "spe": 259
+      },
+      "moves": [
+        {
+          "name": "Giga Drain",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Drifblim",
+      "level": 86,
+      "types": [
+        "Ghost",
+        "Flying"
+      ],
+      "ability": "Unburden",
+      "item": "Sitrus Berry",
+      "teraType": "Steel",
+      "maxhp": 396,
+      "stats": {
+        "atk": 142,
+        "def": 125,
+        "spa": 204,
+        "spd": 142,
+        "spe": 187
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Air Slash",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Orthworm||ChestoBerry|EarthEater|bodypress,irontail,rest,coil||85,85,85,85,85,85|M|||88|,,,,,Electric]Archaludon||LumBerry|Stamina|earthquake,swordsdance,outrage,ironhead||85,85,85,85,85,85|F|||77|,,,,,Ground]Grafaiai||HeavyDutyBoots|Prankster|encore,knockoff,gunkshot,partingshot||85,85,85,85,85,85|F|||86|,,,,,Dark]Flygon||ChoiceBand|Levitate|earthquake,stoneedge,uturn,outrage||85,85,85,85,85,85|M|||82|,,,,,Steel]Sceptile||Leftovers|Overgrow|gigadrain,leechseed,focusblast,substitute||85,,85,85,85,85|M|,0,,,,||87|,,,,,Steel]Drifblim||SitrusBerry|Unburden|shadowball,strengthsap,airslash,calmmind||73,,85,85,85,85|M|,0,,,,||86|,,,,,Steel",
   "ai": "Dedenne||SitrusBerry|CheekPouch|thunderbolt,superfang,uturn,dazzlinggleam||85,85,85,85,85,85|M|||88|,,,,,Flying]Krookodile||Leftovers|Intimidate|gunkshot,knockoff,bulkup,earthquake||85,85,85,85,85,85|F|||79|,,,,,Poison]Chesnaught||Leftovers|Bulletproof|bodypress,trailblaze,synthesis,irondefense||85,85,85,85,85,85|M|||84|,,,,,Steel]Gyarados||HeavyDutyBoots|Intimidate|dragondance,earthquake,terablast,waterfall||85,85,85,85,85,85|M|||79|,,,,,Flying]Hitmonlee||ChoiceBand|Reckless|machpunch,poisonjab,knockoff,highjumpkick||81,85,85,85,85,85|M|||85|,,,,,Fighting]Vivillon|VivillonModern|HeavyDutyBoots|CompoundEyes|hurricane,bugbuzz,sleeppowder,quiverdance||85,,85,85,85,85|M|,0,,,,||83|,,,,,Flying",
   "curation": {

@@ -11,6 +11,8 @@ export interface PuzzleFile {
   seeds: {player: string; ai: string};
   /** Player's species in team order, for the home screen (no sim needed). */
   playerSpecies: string[];
+  /** Player's full sets in team order, as the sim sees them, for home-screen tooltips. */
+  playerSets?: PlayerSetInfo[];
   /**
    * Result of the lopsided-day filter: heuristic AI vs heuristic AI on this
    * matchup, with the player's team as p1.
@@ -22,3 +24,17 @@ export interface PuzzleFile {
 }
 
 export const FORMAT = 'gen9randombattle';
+
+/** One of the player's Pokémon as it starts the battle (read from the sim at build time). */
+export interface PlayerSetInfo {
+  species: string;
+  level: number;
+  types: string[];
+  ability: string;
+  item?: string;
+  teraType: string;
+  maxhp: number;
+  /** atk, def, spa, spd, spe. */
+  stats: Record<string, number>;
+  moves: {name: string; type: string; pp: number}[];
+}

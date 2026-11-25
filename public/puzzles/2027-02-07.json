@@ -19,6 +19,251 @@
     "Uxie",
     "Cyclizar"
   ],
+  "playerSets": [
+    {
+      "species": "Zebstrika",
+      "level": 87,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 272,
+      "stats": {
+        "atk": 224,
+        "def": 159,
+        "spa": 189,
+        "spd": 159,
+        "spe": 252
+      },
+      "moves": [
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Wo-Chien",
+      "level": 83,
+      "types": [
+        "Dark",
+        "Grass"
+      ],
+      "ability": "Tablets of Ruin",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 277,
+      "stats": {
+        "atk": 189,
+        "def": 214,
+        "spa": 205,
+        "spd": 272,
+        "spe": 164
+      },
+      "moves": [
+        {
+          "name": "Ruination",
+          "type": "Dark",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Meganium",
+      "level": 90,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Overgrow",
+      "item": "Leftovers",
+      "teraType": "Water",
+      "maxhp": 290,
+      "stats": {
+        "atk": 199,
+        "def": 231,
+        "spa": 201,
+        "spd": 231,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Petal Blizzard",
+          "type": "Grass",
+          "pp": 24
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Mimikyu",
+      "level": 79,
+      "types": [
+        "Ghost",
+        "Fairy"
+      ],
+      "ability": "Disguise",
+      "item": "Life Orb",
+      "teraType": "Fairy",
+      "maxhp": 216,
+      "stats": {
+        "atk": 188,
+        "def": 172,
+        "spa": 125,
+        "spd": 211,
+        "spe": 197
+      },
+      "moves": [
+        {
+          "name": "Shadow Sneak",
+          "type": "Ghost",
+          "pp": 48
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Uxie",
+      "level": 83,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 260,
+      "stats": {
+        "atk": 129,
+        "def": 263,
+        "spa": 172,
+        "spd": 263,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Cyclizar",
+      "level": 84,
+      "types": [
+        "Dragon",
+        "Normal"
+      ],
+      "ability": "Regenerator",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dragon",
+      "maxhp": 255,
+      "stats": {
+        "atk": 208,
+        "def": 157,
+        "spa": 191,
+        "spd": 157,
+        "spe": 251
+      },
+      "moves": [
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal",
+          "pp": 64
+        },
+        {
+          "name": "Shed Tail",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Zebstrika||LifeOrb|SapSipper|highhorsepower,supercellslam,voltswitch,overheat||85,85,85,85,85,85|F|||87|,,,,,Ground]Wo-Chien||Leftovers|TabletsofRuin|ruination,knockoff,protect,leechseed||85,85,85,85,85,85|N|||83|,,,,,Poison]Meganium||Leftovers|Overgrow|knockoff,petalblizzard,earthquake,swordsdance||85,85,85,85,85,85|M|||90|,,,,,Water]Mimikyu||LifeOrb|Disguise|shadowsneak,swordsdance,playrough,drainpunch||85,85,85,85,85,85|M|||79|,,,,,Fairy]Uxie||Leftovers|Levitate|psychicnoise,stealthrock,thunderwave,encore||85,,85,85,85,85|N|,0,,,,||83|,,,,,Dark]Cyclizar||HeavyDutyBoots|Regenerator|dracometeor,knockoff,rapidspin,shedtail||85,85,85,85,85,85|M|||84|,,,,,Dragon",
   "ai": "Ludicolo||LifeOrb|SwiftSwim|icebeam,hydropump,raindance,gigadrain||85,,85,85,85,85|F|,0,,,,||90|,,,,,Grass]Swampert||Leftovers|Damp|stealthrock,knockoff,icebeam,earthquake||85,85,85,85,85,85|M|||82|,,,,,Steel]Lunala||Leftovers|ShadowShield|moongeistbeam,calmmind,psyshock,moonlight||85,,85,85,85,85|N|,0,,,,||70|,,,,,Fairy]Solgaleo||WeaknessPolicy|FullMetalBody|earthquake,sunsteelstrike,knockoff,flamecharge||85,85,85,85,85,85|N|||74|,,,,,Dark]Glaceon||HeavyDutyBoots|IceBody|protect,wish,freezedry,calmmind||85,,85,85,85,85|F|,0,,,,||94|,,,,,Water]Ambipom||ChoiceBand|Technician|tripleaxel,knockoff,doubleedge,lowkick||85,85,85,85,85,85|F|||84|,,,,,Ice",
   "curation": {

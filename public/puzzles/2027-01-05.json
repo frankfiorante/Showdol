@@ -19,6 +19,251 @@
     "Squawkabilly-Blue",
     "Baxcalibur"
   ],
+  "playerSets": [
+    {
+      "species": "Greninja-Bond",
+      "level": 80,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Battle Bond",
+      "item": "Life Orb",
+      "teraType": "Water",
+      "maxhp": 246,
+      "stats": {
+        "atk": 198,
+        "def": 153,
+        "spa": 211,
+        "spd": 160,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Dark Pulse",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Jumpluff",
+      "level": 87,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "ability": "Infiltrator",
+      "teraType": "Steel",
+      "maxhp": 271,
+      "stats": {
+        "atk": 145,
+        "def": 172,
+        "spa": 145,
+        "spd": 215,
+        "spe": 241
+      },
+      "moves": [
+        {
+          "name": "Strength Sap",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Acrobatics",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Orthworm",
+      "level": 88,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Earth Eater",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 305,
+        "spa": 156,
+        "spd": 147,
+        "spe": 165
+      },
+      "moves": [
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Shed Tail",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Rillaboom",
+      "level": 79,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Grassy Surge",
+      "item": "Choice Band",
+      "teraType": "Grass",
+      "maxhp": 288,
+      "stats": {
+        "atk": 243,
+        "def": 188,
+        "spa": 140,
+        "spd": 156,
+        "spe": 180
+      },
+      "moves": [
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Grassy Glide",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Wood Hammer",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Squawkabilly-Blue",
+      "level": 85,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "Guts",
+      "item": "Flame Orb",
+      "teraType": "Normal",
+      "maxhp": 278,
+      "stats": {
+        "atk": 212,
+        "def": 135,
+        "spa": 125,
+        "spd": 135,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "Quick Attack",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Baxcalibur",
+      "level": 75,
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "ability": "Thermal Exchange",
+      "item": "Choice Band",
+      "teraType": "Dragon",
+      "maxhp": 295,
+      "stats": {
+        "atk": 261,
+        "def": 182,
+        "spa": 156,
+        "spd": 173,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Glaive Rush",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Greninja|GreninjaBond|LifeOrb|BattleBond|hydropump,gunkshot,icebeam,darkpulse||85,85,85,85,85,85|M|||80|,,,,,Water]Jumpluff|||Infiltrator|strengthsap,uturn,acrobatics,encore||81,85,85,85,85,85|F|||87|,,,,,Steel]Orthworm||Leftovers|EarthEater|bodypress,stealthrock,heavyslam,shedtail||85,85,85,85,85,85|M|||88|,,,,,Poison]Rillaboom||ChoiceBand|GrassySurge|highhorsepower,grassyglide,uturn,woodhammer||85,85,85,85,85,85|F|||79|,,,,,Grass]Squawkabilly|SquawkabillyBlue|FlameOrb|Guts|quickattack,bravebird,facade,uturn||85,85,85,85,85,85|F|||85|,,,,,Normal]Baxcalibur||ChoiceBand|ThermalExchange|glaiverush,earthquake,iceshard,iciclecrash||81,85,85,85,85,85|M|||75|,,,,,Dragon",
   "ai": "Bronzong||Leftovers|Levitate|earthquake,hypnosis,psychicnoise,stealthrock||85,85,85,85,85,85|N|||88|,,,,,Water]Rayquaza||ChoiceBand|AirLock|dragonascent,extremespeed,earthquake,uturn||85,85,85,85,85,85|N|||72|,,,,,Normal]Ogerpon|OgerponWellspring|WellspringMask|WaterAbsorb|knockoff,swordsdance,hornleech,ivycudgel||85,85,85,85,85,85|F|||76|,,,,,Water]Minior|MiniorIndigo|WhiteHerb|ShieldsDown|acrobatics,shellsmash,powergem,earthquake||85,85,85,85,85,85|N|||79|,,,,,Ground]Cyclizar||HeavyDutyBoots|Regenerator|shedtail,dracometeor,knockoff,rapidspin||85,85,85,85,85,85|M|||84|,,,,,Fairy]Gumshoos||ChoiceBand|Stakeout|earthquake,uturn,knockoff,doubleedge||85,85,85,85,85,85|M|||95|,,,,,Normal",
   "curation": {

@@ -19,6 +19,252 @@
     "Swanna",
     "Fezandipiti"
   ],
+  "playerSets": [
+    {
+      "species": "Mudsdale",
+      "level": 83,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Stamina",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 302,
+      "stats": {
+        "atk": 255,
+        "def": 214,
+        "spa": 139,
+        "spd": 189,
+        "spe": 106
+      },
+      "moves": [
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Appletun",
+      "level": 92,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Thick Fat",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 352,
+      "stats": {
+        "atk": 209,
+        "def": 200,
+        "spa": 236,
+        "spd": 200,
+        "spe": 108
+      },
+      "moves": [
+        {
+          "name": "Apple Acid",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Recover",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Luvdisc",
+      "level": 100,
+      "types": [
+        "Water"
+      ],
+      "ability": "Swift Swim",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 247,
+      "stats": {
+        "atk": 117,
+        "def": 167,
+        "spa": 137,
+        "spd": 187,
+        "spe": 251
+      },
+      "moves": [
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Surf",
+          "type": "Water",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Endeavor",
+          "type": "Normal",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Meloetta",
+      "level": 82,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Fighting",
+      "maxhp": 298,
+      "stats": {
+        "atk": 173,
+        "def": 173,
+        "spa": 257,
+        "spd": 257,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Relic Song",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Swanna",
+      "level": 89,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "ability": "Hydration",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 206,
+        "def": 163,
+        "spa": 206,
+        "spd": 163,
+        "spe": 225
+      },
+      "moves": [
+        {
+          "name": "Roost",
+          "type": "Flying",
+          "pp": 8
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Defog",
+          "type": "Flying",
+          "pp": 24
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Fezandipiti",
+      "level": 82,
+      "types": [
+        "Poison",
+        "Fairy"
+      ],
+      "ability": "Toxic Chain",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 278,
+      "stats": {
+        "atk": 196,
+        "def": 182,
+        "spa": 162,
+        "spd": 252,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Mudsdale||Leftovers|Stamina|stoneedge,stealthrock,heavyslam,earthquake||85,85,85,85,85,85|M|||83|,,,,,Steel]Appletun||Leftovers|ThickFat|appleacid,dragontail,dragonpulse,recover||85,85,85,85,85,85|F|||92|,,,,,Steel]Luvdisc||HeavyDutyBoots|SwiftSwim|flipturn,surf,substitute,endeavor||81,85,85,85,85,85|M||||,,,,,Ground]Meloetta||LifeOrb|SereneGrace|closecombat,relicsong,knockoff,tripleaxel||85,85,85,85,85,85|N|||82|,,,,,Fighting]Swanna||HeavyDutyBoots|Hydration|roost,bravebird,defog,hydropump||85,85,85,85,85,85|M|||89|,,,,,Ground]Fezandipiti||Leftovers|ToxicChain|gunkshot,swordsdance,terablast,playrough||85,85,85,85,85,85|M|||82|,,,,,Ground",
   "ai": "Cinderace||ChoiceBand|Libero|highjumpkick,pyroball,uturn,gunkshot||81,85,85,85,85,85|F|||77|,,,,,Fire]Pachirisu||HeavyDutyBoots|VoltAbsorb|superfang,encore,discharge,uturn||85,85,85,85,85,85|F|||96|,,,,,Flying]Wyrdeer||AssaultVest|Intimidate|earthquake,bodyslam,psychicnoise,megahorn||85,85,85,85,85,85|F|||87|,,,,,Ground]Chandelure||ChoiceScarf|FlashFire|trick,shadowball,fireblast,energyball||85,,85,85,85,85|F|,0,,,,||83|,,,,,Grass]Articuno||HeavyDutyBoots|Pressure|bravebird,roost,freezedry,uturn||85,85,85,85,85,85|N|||86|,,,,,Steel]Crabominable||AssaultVest|IronFist|drainpunch,icehammer,knockoff,earthquake||85,85,85,85,85,85|M|||90|,,,,,Fighting",
   "curation": {

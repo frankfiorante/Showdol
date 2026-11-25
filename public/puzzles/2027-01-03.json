@@ -19,6 +19,251 @@
     "Scovillain",
     "Sandaconda"
   ],
+  "playerSets": [
+    {
+      "species": "Seviper",
+      "level": 93,
+      "types": [
+        "Poison"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Ground",
+      "maxhp": 287,
+      "stats": {
+        "atk": 239,
+        "def": 164,
+        "spa": 239,
+        "spd": 164,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Meowscarada",
+      "level": 78,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "ability": "Protean",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Grass",
+      "maxhp": 247,
+      "stats": {
+        "atk": 217,
+        "def": 154,
+        "spa": 171,
+        "spd": 154,
+        "spe": 237
+      },
+      "moves": [
+        {
+          "name": "Flower Trick",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Toxic Spikes",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Orthworm",
+      "level": 88,
+      "types": [
+        "Steel"
+      ],
+      "ability": "Earth Eater",
+      "item": "Chesto Berry",
+      "teraType": "Electric",
+      "maxhp": 266,
+      "stats": {
+        "atk": 200,
+        "def": 305,
+        "spa": 156,
+        "spd": 147,
+        "spe": 165
+      },
+      "moves": [
+        {
+          "name": "Iron Tail",
+          "type": "Steel",
+          "pp": 24
+        },
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic",
+          "pp": 8
+        },
+        {
+          "name": "Body Press",
+          "type": "Fighting",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Krookodile",
+      "level": 79,
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 280,
+      "stats": {
+        "atk": 230,
+        "def": 172,
+        "spa": 148,
+        "spd": 156,
+        "spe": 191
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Scovillain",
+      "level": 91,
+      "types": [
+        "Grass",
+        "Fire"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Leftovers",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 201,
+        "def": 170,
+        "spa": 248,
+        "spd": 170,
+        "spe": 188
+      },
+      "moves": [
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Substitute",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Sandaconda",
+      "level": 84,
+      "types": [
+        "Ground"
+      ],
+      "ability": "Shed Skin",
+      "item": "Leftovers",
+      "teraType": "Dragon",
+      "maxhp": 258,
+      "stats": {
+        "atk": 228,
+        "def": 258,
+        "spa": 157,
+        "spd": 166,
+        "spe": 167
+      },
+      "moves": [
+        {
+          "name": "Coil",
+          "type": "Poison",
+          "pp": 32
+        },
+        {
+          "name": "Glare",
+          "type": "Normal",
+          "pp": 48
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Seviper||Leftovers|ShedSkin|earthquake,swordsdance,trailblaze,gunkshot||85,85,85,85,85,85|F|||93|,,,,,Ground]Meowscarada||HeavyDutyBoots|Protean|flowertrick,knockoff,toxicspikes,uturn||85,85,85,85,85,85|F|||78|,,,,,Grass]Orthworm||ChestoBerry|EarthEater|irontail,coil,rest,bodypress||85,85,85,85,85,85|F|||88|,,,,,Electric]Krookodile||Leftovers|Intimidate|gunkshot,bulkup,knockoff,earthquake||85,85,85,85,85,85|F|||79|,,,,,Poison]Scovillain||Leftovers|Chlorophyll|protect,leechseed,flamethrower,substitute||85,,85,85,85,85|F|,0,,,,||91|,,,,,Steel]Sandaconda||Leftovers|ShedSkin|coil,glare,stoneedge,earthquake||85,85,85,85,85,85|M|||84|,,,,,Dragon",
   "ai": "Leafeon||LifeOrb|Chlorophyll|leafblade,doubleedge,synthesis,swordsdance||85,85,85,85,85,85|M|||88|,,,,,Normal]Hatterene||Leftovers|MagicBounce|drainingkiss,mysticalfire,psyshock,calmmind||85,,85,85,85,85|F|,0,,,,||85|,,,,,Fairy]Zebstrika||LifeOrb|SapSipper|supercellslam,overheat,voltswitch,highhorsepower||85,85,85,85,85,85|M|||87|,,,,,Ground]Tyranitar||AssaultVest|SandStream|icebeam,knockoff,stoneedge,earthquake||85,85,85,85,85,85|F|||78|,,,,,Ghost]Oricorio||HeavyDutyBoots|Dancer|hurricane,revelationdance,roost,quiverdance||85,,85,85,85,85|M|,0,,,,||84|,,,,,Ground]Oranguru||ChoiceSpecs|InnerFocus|thunderbolt,psyshock,hypervoice,focusblast||85,,85,85,85,85|F|,0,,,,||92|,,,,,Electric",
   "curation": {

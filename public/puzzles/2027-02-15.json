@@ -19,6 +19,252 @@
     "Crabominable",
     "Emboar"
   ],
+  "playerSets": [
+    {
+      "species": "Enamorus",
+      "level": 79,
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "ability": "Contrary",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 247,
+      "stats": {
+        "atk": 227,
+        "def": 156,
+        "spa": 259,
+        "spd": 172,
+        "spe": 213
+      },
+      "moves": [
+        {
+          "name": "Zen Headbutt",
+          "type": "Psychic",
+          "pp": 24
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Taunt",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Delibird",
+      "level": 100,
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "ability": "Hustle",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Flying",
+      "maxhp": 252,
+      "stats": {
+        "atk": 167,
+        "def": 147,
+        "spa": 187,
+        "spd": 147,
+        "spe": 207
+      },
+      "moves": [
+        {
+          "name": "Drill Run",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Ice Spinner",
+          "type": "Ice",
+          "pp": 24
+        },
+        {
+          "name": "Ice Shard",
+          "type": "Ice",
+          "pp": 48
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Umbreon",
+      "level": 84,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Synchronize",
+      "item": "Leftovers",
+      "teraType": "Poison",
+      "maxhp": 297,
+      "stats": {
+        "atk": 114,
+        "def": 233,
+        "spa": 149,
+        "spd": 267,
+        "spe": 157
+      },
+      "moves": [
+        {
+          "name": "Wish",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Protect",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Zebstrika",
+      "level": 87,
+      "types": [
+        "Electric"
+      ],
+      "ability": "Sap Sipper",
+      "item": "Life Orb",
+      "teraType": "Ground",
+      "maxhp": 272,
+      "stats": {
+        "atk": 224,
+        "def": 159,
+        "spa": 189,
+        "spd": 159,
+        "spe": 252
+      },
+      "moves": [
+        {
+          "name": "High Horsepower",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Overheat",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Supercell Slam",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Crabominable",
+      "level": 90,
+      "types": [
+        "Fighting",
+        "Ice"
+      ],
+      "ability": "Iron Fist",
+      "item": "Assault Vest",
+      "teraType": "Fighting",
+      "maxhp": 321,
+      "stats": {
+        "atk": 289,
+        "def": 190,
+        "spa": 163,
+        "spd": 172,
+        "spe": 129
+      },
+      "moves": [
+        {
+          "name": "Ice Hammer",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Drain Punch",
+          "type": "Fighting",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Emboar",
+      "level": 84,
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "ability": "Reckless",
+      "item": "Choice Band",
+      "teraType": "Fire",
+      "maxhp": 322,
+      "stats": {
+        "atk": 255,
+        "def": 157,
+        "spa": 216,
+        "spd": 157,
+        "spe": 157
+      },
+      "moves": [
+        {
+          "name": "Wild Charge",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Enamorus||HeavyDutyBoots|Contrary|zenheadbutt,superpower,playrough,taunt||85,85,85,85,85,85|F|||79|,,,,,Fighting]Delibird||HeavyDutyBoots|Hustle|drillrun,icespinner,iceshard,bravebird||85,85,85,85,85,85|M||||,,,,,Flying]Umbreon||Leftovers|Synchronize|wish,foulplay,protect,toxic||85,,85,85,85,85|M|,0,,,,||84|,,,,,Poison]Zebstrika||LifeOrb|SapSipper|highhorsepower,overheat,supercellslam,voltswitch||85,85,85,85,85,85|M|||87|,,,,,Ground]Crabominable||AssaultVest|IronFist|icehammer,knockoff,drainpunch,earthquake||85,85,85,85,85,85|F|||90|,,,,,Fighting]Emboar||ChoiceBand|Reckless|wildcharge,flareblitz,closecombat,knockoff||85,85,85,85,85,85|F|||84|,,,,,Fire",
   "ai": "Yanmega||HeavyDutyBoots|SpeedBoost|protect,terablast,bugbuzz,airslash||85,,85,85,85,85|M|,0,,,,||82|,,,,,Ground]Galvantula||HeavyDutyBoots|CompoundEyes|thunder,energyball,bugbuzz,stickyweb||85,,85,85,85,85|M|,0,,,,||82|,,,,,Electric]Scrafty||Leftovers|Intimidate|drainpunch,knockoff,poisonjab,dragondance||85,85,85,85,85,85|M|||83|,,,,,Poison]Rayquaza||LoadedDice|AirLock|scaleshot,earthquake,dragonascent,swordsdance||85,85,85,85,85,85|N|||72|,,,,,Dragon]Milotic||Leftovers|Competitive|icebeam,recover,scald,dragontail||85,85,85,85,85,85|M|||83|,,,,,Steel]Reuniclus||LifeOrb|MagicGuard|psychic,recover,calmmind,focusblast||85,,85,85,85,85|F|,0,,,,||88|,,,,,Steel",
   "curation": {

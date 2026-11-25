@@ -19,6 +19,250 @@
     "Mightyena",
     "Hypno"
   ],
+  "playerSets": [
+    {
+      "species": "Iron Crown",
+      "level": 78,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Quark Drive",
+      "item": "Choice Specs",
+      "teraType": "Steel",
+      "maxhp": 268,
+      "stats": {
+        "atk": 117,
+        "def": 201,
+        "spa": 235,
+        "spd": 214,
+        "spe": 198
+      },
+      "moves": [
+        {
+          "name": "Tachyon Cutter",
+          "type": "Steel",
+          "pp": 16
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Psyshock",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Beartic",
+      "level": 91,
+      "types": [
+        "Ice"
+      ],
+      "ability": "Slush Rush",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Fighting",
+      "maxhp": 321,
+      "stats": {
+        "atk": 288,
+        "def": 197,
+        "spa": 179,
+        "spd": 197,
+        "spe": 143
+      },
+      "moves": [
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Icicle Crash",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Spiritomb",
+      "level": 89,
+      "types": [
+        "Ghost",
+        "Dark"
+      ],
+      "ability": "Infiltrator",
+      "item": "Leftovers",
+      "teraType": "Ghost",
+      "maxhp": 234,
+      "stats": {
+        "atk": 215,
+        "def": 243,
+        "spa": 215,
+        "spd": 243,
+        "spe": 113
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Foul Play",
+          "type": "Dark",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Flareon",
+      "level": 90,
+      "types": [
+        "Fire"
+      ],
+      "ability": "Guts",
+      "item": "Toxic Orb",
+      "teraType": "Normal",
+      "maxhp": 263,
+      "stats": {
+        "atk": 285,
+        "def": 159,
+        "spa": 222,
+        "spd": 249,
+        "spe": 168
+      },
+      "moves": [
+        {
+          "name": "Trailblaze",
+          "type": "Grass",
+          "pp": 32
+        },
+        {
+          "name": "Facade",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Mightyena",
+      "level": 96,
+      "types": [
+        "Dark"
+      ],
+      "ability": "Intimidate",
+      "item": "Assault Vest",
+      "teraType": "Poison",
+      "maxhp": 290,
+      "stats": {
+        "atk": 227,
+        "def": 189,
+        "spa": 170,
+        "spd": 170,
+        "spe": 189
+      },
+      "moves": [
+        {
+          "name": "Throat Chop",
+          "type": "Dark",
+          "pp": 24
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy",
+          "pp": 16
+        },
+        {
+          "name": "Poison Fang",
+          "type": "Poison",
+          "pp": 24
+        },
+        {
+          "name": "Super Fang",
+          "type": "Normal",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Hypno",
+      "level": 95,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Insomnia",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 315,
+      "stats": {
+        "atk": 193,
+        "def": 187,
+        "spa": 193,
+        "spd": 272,
+        "spe": 181
+      },
+      "moves": [
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Iron Crown||ChoiceSpecs|QuarkDrive|tachyoncutter,voltswitch,psyshock,focusblast||85,,85,85,85,85|N|,0,,,,||78|,,,,,Steel]Beartic||HeavyDutyBoots|SlushRush|aquajet,iciclecrash,closecombat,swordsdance||85,85,85,85,85,85|F|||91|,,,,,Fighting]Spiritomb||Leftovers|Infiltrator|suckerpunch,poltergeist,painsplit,foulplay||85,85,85,85,85,85|F|||89|,,,,,Ghost]Flareon||ToxicOrb|Guts|trailblaze,facade,willowisp,flareblitz||85,85,85,85,85,85|F|||90|,,,,,Normal]Mightyena||AssaultVest|Intimidate|throatchop,playrough,poisonfang,superfang||85,85,85,85,85,85|F|||96|,,,,,Poison]Hypno||Leftovers|Insomnia|psychicnoise,knockoff,encore,thunderwave||85,85,85,85,85,85|M|||95|,,,,,Dark",
   "ai": "Scizor||Leftovers|Technician|knockoff,defog,closecombat,bulletpunch||85,85,85,85,85,85|F|||79|,,,,,Dragon]Vivillon|VivillonModern|HeavyDutyBoots|CompoundEyes|quiverdance,terablast,sleeppowder,hurricane||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ground]Misdreavus||Eviolite|Levitate|willowisp,calmmind,shadowball,drainingkiss||85,,85,85,85,85|M|,0,,,,||90|,,,,,Fairy]Jirachi||Leftovers|SereneGrace|bodyslam,wish,ironhead,protect||85,85,85,85,85,85|N|||80|,,,,,Water]Gallade||ChoiceBand|Sharpness|leafblade,psychocut,nightslash,sacredsword||85,85,85,85,85,85|M|||80|,,,,,Grass]Glimmora||PowerHerb|ToxicDebris|sludgewave,energyball,meteorbeam,earthpower||85,,85,85,85,85|M|,0,,,,||75|,,,,,Grass",
   "curation": {

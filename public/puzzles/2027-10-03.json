@@ -19,6 +19,253 @@
     "Leafeon",
     "Qwilfish"
   ],
+  "playerSets": [
+    {
+      "species": "Golurk",
+      "level": 87,
+      "types": [
+        "Ground",
+        "Ghost"
+      ],
+      "ability": "No Guard",
+      "item": "Choice Band",
+      "teraType": "Fighting",
+      "maxhp": 297,
+      "stats": {
+        "atk": 266,
+        "def": 189,
+        "spa": 145,
+        "spd": 189,
+        "spe": 145
+      },
+      "moves": [
+        {
+          "name": "Dynamic Punch",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        },
+        {
+          "name": "Poltergeist",
+          "type": "Ghost",
+          "pp": 8
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Flapple",
+      "level": 88,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Hustle",
+      "item": "Choice Band",
+      "teraType": "Dragon",
+      "maxhp": 266,
+      "stats": {
+        "atk": 244,
+        "def": 191,
+        "spa": 217,
+        "spd": 156,
+        "spe": 173
+      },
+      "moves": [
+        {
+          "name": "Sucker Punch",
+          "type": "Dark",
+          "pp": 8
+        },
+        {
+          "name": "Grav Apple",
+          "type": "Grass",
+          "pp": 16
+        },
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Rotom",
+      "level": 88,
+      "types": [
+        "Electric",
+        "Ghost"
+      ],
+      "ability": "Levitate",
+      "item": "Life Orb",
+      "teraType": "Electric",
+      "maxhp": 231,
+      "stats": {
+        "atk": 93,
+        "def": 186,
+        "spa": 217,
+        "spd": 186,
+        "spe": 210
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "pp": 24
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire",
+          "pp": 24
+        },
+        {
+          "name": "Nasty Plot",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Meloetta",
+      "level": 82,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "ability": "Serene Grace",
+      "item": "Life Orb",
+      "teraType": "Dark",
+      "maxhp": 298,
+      "stats": {
+        "atk": 173,
+        "def": 173,
+        "spa": 257,
+        "spd": 257,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Relic Song",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Triple Axel",
+          "type": "Ice",
+          "pp": 16
+        },
+        {
+          "name": "Close Combat",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Leafeon",
+      "level": 88,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Chlorophyll",
+      "item": "Life Orb",
+      "teraType": "Normal",
+      "maxhp": 258,
+      "stats": {
+        "atk": 244,
+        "def": 279,
+        "spa": 156,
+        "spd": 165,
+        "spe": 217
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal",
+          "pp": 24
+        },
+        {
+          "name": "Leaf Blade",
+          "type": "Grass",
+          "pp": 24
+        }
+      ]
+    },
+    {
+      "species": "Qwilfish",
+      "level": 86,
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "ability": "Intimidate",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Dark",
+      "maxhp": 252,
+      "stats": {
+        "atk": 213,
+        "def": 195,
+        "spa": 144,
+        "spd": 144,
+        "spe": 195
+      },
+      "moves": [
+        {
+          "name": "Gunk Shot",
+          "type": "Poison",
+          "pp": 8
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Flip Turn",
+          "type": "Water",
+          "pp": 32
+        },
+        {
+          "name": "Pain Split",
+          "type": "Normal",
+          "pp": 32
+        }
+      ]
+    }
+  ],
   "player": "Golurk||ChoiceBand|NoGuard|dynamicpunch,stoneedge,poltergeist,earthquake||85,85,85,85,85,85|N|||87|,,,,,Fighting]Flapple||ChoiceBand|Hustle|suckerpunch,gravapple,uturn,outrage||85,85,85,85,85,85|M|||88|,,,,,Dragon]Rotom||LifeOrb|Levitate|shadowball,willowisp,nastyplot,thunderbolt||85,,85,85,85,85|N|,0,,,,||88|,,,,,Electric]Meloetta||LifeOrb|SereneGrace|relicsong,tripleaxel,closecombat,knockoff||85,85,85,85,85,85|N|||82|,,,,,Dark]Leafeon||LifeOrb|Chlorophyll|swordsdance,knockoff,doubleedge,leafblade||85,85,85,85,85,85|M|||88|,,,,,Normal]Qwilfish||HeavyDutyBoots|Intimidate|gunkshot,thunderwave,flipturn,painsplit||85,85,85,85,85,85|F|||86|,,,,,Dark",
   "ai": "Volbeat||HeavyDutyBoots|Prankster|encore,uturn,thunderwave,roost||85,85,85,85,85,85|M|||90|,,,,,Steel]Exeggutor|ExeggutorAlola|SitrusBerry|Harvest|knockoff,dracometeor,flamethrower,woodhammer||85,85,85,85,85,85|M|||89|,,,,,Fire]Trevenant||SitrusBerry|Harvest|drainpunch,protect,poltergeist,toxic||85,85,85,85,85,85|F|||89|,,,,,Dark]Magcargo||HeavyDutyBoots|WeakArmor|earthpower,fireblast,shellsmash,powergem||85,,85,85,85,85|F|,0,,,,||95|,,,,,Grass]Delphox||HeavyDutyBoots|Blaze|grassknot,psyshock,fireblast,nastyplot||85,,85,85,85,85|F|,0,,,,||84|,,,,,Grass]Dugtrio||LifeOrb|ArenaTrap|stoneedge,earthquake,swordsdance,suckerpunch||85,85,85,85,85,85|F|||84|,,,,,Ghost",
   "curation": {

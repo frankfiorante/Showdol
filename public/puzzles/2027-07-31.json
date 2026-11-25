@@ -19,6 +19,252 @@
     "Uxie",
     "Dialga-Origin"
   ],
+  "playerSets": [
+    {
+      "species": "Lurantis",
+      "level": 87,
+      "types": [
+        "Grass"
+      ],
+      "ability": "Contrary",
+      "item": "Leftovers",
+      "teraType": "Fighting",
+      "maxhp": 264,
+      "stats": {
+        "atk": 232,
+        "def": 206,
+        "spa": 189,
+        "spd": 206,
+        "spe": 128
+      },
+      "moves": [
+        {
+          "name": "Synthesis",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting",
+          "pp": 8
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Knock Off",
+          "type": "Dark",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Rhydon",
+      "level": 85,
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "ability": "Lightning Rod",
+      "item": "Eviolite",
+      "teraType": "Dragon",
+      "maxhp": 317,
+      "stats": {
+        "atk": 270,
+        "def": 253,
+        "spa": 125,
+        "spd": 125,
+        "spe": 117
+      },
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal",
+          "pp": 32
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground",
+          "pp": 16
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock",
+          "pp": 8
+        }
+      ]
+    },
+    {
+      "species": "Rotom-Mow",
+      "level": 87,
+      "types": [
+        "Electric",
+        "Grass"
+      ],
+      "ability": "Levitate",
+      "item": "Choice Scarf",
+      "teraType": "Electric",
+      "maxhp": 229,
+      "stats": {
+        "atk": 118,
+        "def": 236,
+        "spa": 232,
+        "spd": 236,
+        "spe": 199
+      },
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "pp": 24
+        },
+        {
+          "name": "Leaf Storm",
+          "type": "Grass",
+          "pp": 8
+        },
+        {
+          "name": "Volt Switch",
+          "type": "Electric",
+          "pp": 32
+        },
+        {
+          "name": "Trick",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Ribombee",
+      "level": 83,
+      "types": [
+        "Bug",
+        "Fairy"
+      ],
+      "ability": "Shield Dust",
+      "item": "Heavy-Duty Boots",
+      "teraType": "Ground",
+      "maxhp": 235,
+      "stats": {
+        "atk": 96,
+        "def": 147,
+        "spa": 205,
+        "spd": 164,
+        "spe": 254
+      },
+      "moves": [
+        {
+          "name": "Bug Buzz",
+          "type": "Bug",
+          "pp": 16
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy",
+          "pp": 24
+        },
+        {
+          "name": "Tera Blast",
+          "type": "Normal",
+          "pp": 16
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug",
+          "pp": 32
+        }
+      ]
+    },
+    {
+      "species": "Uxie",
+      "level": 83,
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Levitate",
+      "item": "Leftovers",
+      "teraType": "Dark",
+      "maxhp": 260,
+      "stats": {
+        "atk": 172,
+        "def": 263,
+        "spa": 172,
+        "spd": 263,
+        "spe": 205
+      },
+      "moves": [
+        {
+          "name": "U-turn",
+          "type": "Bug",
+          "pp": 32
+        },
+        {
+          "name": "Encore",
+          "type": "Normal",
+          "pp": 8
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock",
+          "pp": 32
+        },
+        {
+          "name": "Psychic Noise",
+          "type": "Psychic",
+          "pp": 16
+        }
+      ]
+    },
+    {
+      "species": "Dialga-Origin",
+      "level": 73,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "ability": "Pressure",
+      "item": "Adamant Crystal",
+      "teraType": "Steel",
+      "maxhp": 266,
+      "stats": {
+        "atk": 188,
+        "def": 218,
+        "spa": 261,
+        "spd": 218,
+        "spe": 174
+      },
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire",
+          "pp": 8
+        },
+        {
+          "name": "Draco Meteor",
+          "type": "Dragon",
+          "pp": 8
+        },
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon",
+          "pp": 16
+        },
+        {
+          "name": "Heavy Slam",
+          "type": "Steel",
+          "pp": 16
+        }
+      ]
+    }
+  ],
   "player": "Lurantis||Leftovers|Contrary|synthesis,superpower,leafstorm,knockoff||85,85,85,85,85,85|F|||87|,,,,,Fighting]Rhydon||Eviolite|LightningRod|swordsdance,megahorn,earthquake,stoneedge||85,85,85,85,85,85|F|||85|,,,,,Dragon]Rotom|RotomMow|ChoiceScarf|Levitate|thunderbolt,leafstorm,voltswitch,trick||85,,85,85,85,85|N|,0,,,,||87|,,,,,Electric]Ribombee||HeavyDutyBoots|ShieldDust|bugbuzz,moonblast,terablast,quiverdance||85,,85,85,85,85|M|,0,,,,||83|,,,,,Ground]Uxie||Leftovers|Levitate|uturn,encore,stealthrock,psychicnoise||85,85,85,85,85,85|N|||83|,,,,,Dark]Dialga|DialgaOrigin|AdamantCrystal|Pressure|fireblast,dracometeor,dragontail,heavyslam||85,85,85,85,85,85|N|||73|,,,,,Steel",
   "ai": "Venusaur||Leftovers|Chlorophyll|sludgebomb,sleeppowder,knockoff,synthesis||85,85,85,85,85,85|F|||84|,,,,,Steel]Raichu||Leftovers|LightningRod|nastyplot,thunderbolt,encore,grassknot||85,,85,85,85,85|M|,0,,,,||88|,,,,,Grass]Espeon||ChoiceSpecs|MagicBounce|trick,psyshock,alluringvoice,shadowball||85,,85,85,85,85|M|,0,,,,||84|,,,,,Fairy]Forretress||Leftovers|Sturdy|bodypress,stealthrock,spikes,ironhead||85,85,85,85,85,85|M|||84|,,,,,Fighting]Golurk||ChoiceBand|NoGuard|earthquake,dynamicpunch,stoneedge,poltergeist||85,85,85,85,85,85|N|||87|,,,,,Fighting]Dachsbun||Leftovers|WellBakedBody|playrough,bodypress,wish,protect||85,85,85,85,85,85|M|||92|,,,,,Steel",
   "curation": {

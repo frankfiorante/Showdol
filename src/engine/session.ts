@@ -1,13 +1,14 @@
 import {Battle, Dex, PRNG, Teams, extractChannelMessages, type PRNGSeed} from '@pkmn/sim';
 import {Battle as ClientBattle, type Pokemon as ClientPokemon} from '@pkmn/client';
 import {gens} from './gens';
+import {boostMultiplier, hintFor, speedRange} from './hints';
 import {Protocol} from '@pkmn/protocol';
 import {LogFormatter} from '@pkmn/view';
 import {FORMAT} from './puzzle';
 import type {BotRequest} from './random-bot';
 import {decisionSeed, type Opponent} from './opponent';
 import {heuristicOpponent} from '@/ai/heuristic';
-import type {BattleResult, BattleView, MoveOption, PokemonView, Prompt, SideView, SwitchOption} from './view';
+import type {BattleResult, BattleView, MoveOption, PokemonView, Prompt, SideView, SpeedEstimate, SwitchOption} from './view';
 
 export type {Opponent} from './opponent';
 
@@ -197,6 +198,7 @@ export class BattleSession {
         item: p.item ? Dex.items.get(p.item).name : undefined,
         ability: Dex.abilities.get(p.ability).name,
         moves: p.baseMoveSlots.map(m => m.move),
+        moveDetails: p.moveSlots.map(m => ({name: m.move, type: Dex.moves.get(m.id).type, pp: m.pp, maxpp: m.maxpp})),
         teraType: p.teraType,
         terastallized: p.terastallized || undefined,
         stats: {...p.storedStats},
@@ -213,23 +215,32 @@ export class BattleSession {
 
   private foeSide(): SideView {
     const side = this.client.p2;
-    const toView = (p: ClientPokemon): PokemonView => ({
-      name: p.name,
-      species: p.speciesForme,
-      level: p.level,
-      types: p.terastallized ? [p.terastallized] : [...(this.client.gen.species.get(p.speciesForme)?.types ?? [])],
-      hp: p.hp,
-      maxhp: p.maxhp,
-      status: p.status,
-      fainted: p.fainted,
-      active: side.active.includes(p),
-      boosts: nonZero(p.boosts as Record<string, number>),
-      volatiles: volatiles(p),
-      item: itemName(p.item),
-      ability: abilityName(p.ability),
-      moves: p.moveSlots.map(m => m.name),
-      terastallized: p.terastallized,
-    });
+    const toView = (p: ClientPokemon): PokemonView => {
+      const ability = abilityName(p.ability);
+      const item = itemName(p.item);
+      const isActive = side.active.includes(p);
+      return {
+        name: p.name,
+        species: p.speciesForme,
+        level: p.level,
+        types: p.terastallized ? [p.terastallized] : [...(this.client.gen.species.get(p.speciesForme)?.types ?? [])],
+        hp: p.hp,
+        maxhp: p.maxhp,
+        status: p.status,
+        fainted: p.fainted,
+        active: isActive,
+        boosts: nonZero(p.boosts as Record<string, number>),
+        volatiles: volatiles(p),
+        item,
+        ability,
+        moves: p.moveSlots.map(m => m.name),
+        moveDetails: p.moveSlots.map(m => ({name: m.name, type: Dex.moves.get(m.id).type})),
+        terastallized: p.terastallized,
+        possibleAbilities: ability ? undefined : this.transformTarget(p) ? [this.transformTarget(p)!.getAbility().name] : hintFor(p.speciesForme)?.abilities,
+        transformed: !!p.volatiles.transform,
+        speed: foeSpeed(p, item, isActive && !!side.sideConditions.tailwind, this.transformedSpeed(p)),
+      };
+    };
     const active = side.active[0];
     return {
       active: active && !active.fainted ? toView(active) : null,
@@ -237,6 +248,21 @@ export class BattleSession {
       totalPokemon: side.totalPokemon || 6,
       conditions: sideConditions(side.sideConditions),
     };
+  }
+
+  /**
+   * Transform copies the target's stats and ability. In singles the target is
+   * the player's own Pokémon, which the player knows, so these are exact.
+   */
+  private transformedSpeed(p: ClientPokemon): number | undefined {
+    return this.transformTarget(p)?.storedStats.spe;
+  }
+
+  /** The player's Pokémon a transformed foe copied (its stats and ability are known exactly). */
+  private transformTarget(p: ClientPokemon) {
+    const target = p.volatiles.transform?.pokemon;
+    if (!target) return undefined;
+    return this.sim.sides[0].pokemon.find(mon => `p1: ${mon.name}` === target.originalIdent);
   }
 
   private prompt(): Prompt | null {
@@ -325,6 +351,39 @@ function abilityName(id: string) {
   if (plain.exists) return plain.name;
   const stripped = Dex.abilities.get(id.replace(/^ability/, ''));
   return stripped.exists ? stripped.name : undefined;
+}
+
+/**
+ * The foe's Speed from public information only: base stat, level and the
+ * Random Battle spreads, then whatever modifiers have been revealed.
+ */
+function foeSpeed(p: ClientPokemon, item: string | undefined, tailwind: boolean, copied?: number): SpeedEstimate {
+  const [min, max] = copied === undefined ? speedRange(p.speciesForme, p.level) : [copied, copied];
+  const modifiers: string[] = copied === undefined ? [] : ['Transformed'];
+  let mult = 1;
+  const stage = p.boosts.spe ?? 0;
+  if (stage) {
+    mult *= boostMultiplier(stage);
+    modifiers.push(`${stage > 0 ? '+' : ''}${stage}`);
+  }
+  if (p.status === 'par') {
+    mult *= 0.5;
+    modifiers.push('Paralysis');
+  }
+  if (item === 'Choice Scarf') {
+    mult *= 1.5;
+    modifiers.push('Choice Scarf');
+  } else if (item === 'Iron Ball') {
+    mult *= 0.5;
+    modifiers.push('Iron Ball');
+  }
+  if (tailwind) {
+    mult *= 2;
+    modifiers.push('Tailwind');
+  }
+  return mult !== 1
+    ? {min, max, modifiedMin: Math.floor(min * mult), modifiedMax: Math.floor(max * mult), modifiers}
+    : {min, max, modifiers};
 }
 
 /** Type-chart multiplier only: what the player could work out from the types shown. */
