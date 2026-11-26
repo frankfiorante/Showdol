@@ -220,11 +220,16 @@ export class BattleSession {
       const ability = abilityName(p.ability);
       const item = itemName(p.item);
       const isActive = side.active.includes(p);
+      // The client never clears Transform from a Pokémon that fainted transformed, so it would
+      // keep showing as what it copied. Once fainted, show it as itself.
+      const transformed = !!p.volatiles.transform && !p.fainted;
+      const species = transformed || !p.volatiles.transform ? p.speciesForme : p.baseSpeciesForme;
+      const target = transformed ? this.transformTarget(p) : undefined;
       return {
         name: p.name,
-        species: p.speciesForme,
+        species,
         level: p.level,
-        types: p.terastallized ? [p.terastallized] : [...(this.client.gen.species.get(p.speciesForme)?.types ?? [])],
+        types: p.terastallized ? [p.terastallized] : [...(this.client.gen.species.get(species)?.types ?? [])],
         hp: p.hp,
         maxhp: p.maxhp,
         status: p.status,
@@ -238,9 +243,9 @@ export class BattleSession {
         moves: p.moveSlots.map(m => m.name),
         moveDetails: p.moveSlots.map(m => ({name: m.name, type: Dex.moves.get(m.id).type})),
         terastallized: p.terastallized,
-        possibleAbilities: ability ? undefined : this.transformTarget(p) ? [this.transformTarget(p)!.getAbility().name] : hintFor(p.speciesForme)?.abilities,
-        transformed: !!p.volatiles.transform,
-        speed: foeSpeed(p, item, isActive && !!side.sideConditions.tailwind, this.transformedSpeed(p)),
+        possibleAbilities: ability ? undefined : target ? [target.getAbility().name] : hintFor(species)?.abilities,
+        transformed,
+        speed: foeSpeed(p, species, item, isActive && !!side.sideConditions.tailwind, target?.storedStats.spe),
       };
     };
     const active = side.active[0];
@@ -253,14 +258,9 @@ export class BattleSession {
   }
 
   /**
-   * Transform copies the target's stats and ability. In singles the target is
-   * the player's own Pokémon, which the player knows, so these are exact.
+   * The player's Pokémon a transformed foe copied. Transform copies its stats
+   * and ability, and the player knows their own Pokémon, so these are exact.
    */
-  private transformedSpeed(p: ClientPokemon): number | undefined {
-    return this.transformTarget(p)?.storedStats.spe;
-  }
-
-  /** The player's Pokémon a transformed foe copied (its stats and ability are known exactly). */
   private transformTarget(p: ClientPokemon) {
     const target = p.volatiles.transform?.pokemon;
     if (!target) return undefined;
@@ -318,8 +318,9 @@ export class BattleSession {
   private result(): BattleResult {
     const [me, ai] = this.sim.sides;
     // Match on base species so forme changes (Mimikyu-Busted, Ogerpon's Tera forms) still count as seen.
+    // baseSpeciesForme, not speciesForme: a Ditto that fainted transformed still reads as what it copied.
     const base = (name: string) => Dex.species.get(name).baseSpecies;
-    const seen = new Set(this.client.p2.team.map(p => base(p.speciesForme)));
+    const seen = new Set(this.client.p2.team.map(p => base(p.baseSpeciesForme || p.speciesForme)));
     return {
       winner: this.sim.winner === PLAYER ? 'player' : this.sim.winner === AI ? 'ai' : 'tie',
       turns: this.sim.turn,
@@ -373,8 +374,8 @@ function abilityName(id: string) {
  * The foe's Speed from public information only: base stat, level and the
  * Random Battle spreads, then whatever modifiers have been revealed.
  */
-function foeSpeed(p: ClientPokemon, item: string | undefined, tailwind: boolean, copied?: number): SpeedEstimate {
-  const [min, max] = copied === undefined ? speedRange(p.speciesForme, p.level) : [copied, copied];
+function foeSpeed(p: ClientPokemon, species: string, item: string | undefined, tailwind: boolean, copied?: number): SpeedEstimate {
+  const [min, max] = copied === undefined ? speedRange(species, p.level) : [copied, copied];
   const modifiers: string[] = copied === undefined ? [] : ['Transformed'];
   let mult = 1;
   const stage = p.boosts.spe ?? 0;
