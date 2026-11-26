@@ -4,6 +4,7 @@
  */
 import {createHash} from 'node:crypto';
 import {heuristicOpponent} from '@/ai/heuristic';
+import {parFromWins, type Par} from '@/game/par';
 import {runBattle} from '@/engine/run-battle';
 
 const seed = (label: string) => `sodium,${createHash('sha256').update(label).digest('hex').slice(0, 32)}`;
@@ -13,6 +14,8 @@ export interface MatchupStats {
   p1Wins: number;
   ties: number;
   avgTurns: number;
+  /** Median p1 win (Pokémon left, then turns); null if p1 never won. */
+  par: Par | null;
   msPerBattle: number;
 }
 
@@ -20,17 +23,21 @@ export interface MatchupStats {
 export function evaluateMatchup(p1Team: string, p2Team: string, n: number, label: string): MatchupStats {
   const ai = heuristicOpponent();
   let p1Wins = 0, ties = 0, turns = 0;
+  const wins: Par[] = [];
   const t0 = performance.now();
   for (let i = 0; i < n; i++) {
     const r = runBattle({
       p1Team, p2Team, p1: ai, p2: ai, keepLog: false,
       battleSeed: seed(`${label}:battle:${i}`), botSeed: seed(`${label}:bots:${i}`),
     });
-    if (r.winner === 'p1') p1Wins++;
+    if (r.winner === 'p1') {
+      p1Wins++;
+      wins.push({left: r.remaining.p1, turns: r.turns});
+    }
     if (r.winner === 'tie') ties++;
     turns += r.turns;
   }
-  return {battles: n, p1Wins, ties, avgTurns: turns / n, msPerBattle: (performance.now() - t0) / n};
+  return {battles: n, p1Wins, ties, avgTurns: turns / n, par: parFromWins(wins), msPerBattle: (performance.now() - t0) / n};
 }
 
 /** Runs `fn` over items in `shards` child processes of `script`, collecting JSON lines. */

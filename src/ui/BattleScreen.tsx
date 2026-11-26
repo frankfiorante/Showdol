@@ -8,9 +8,12 @@ import {WithPokemonTip} from './PokemonTip';
 import {WithMoveTip} from './MoveTip';
 import {ShareButton} from './ShareButton';
 import {shareText} from '@/game/share';
+import {formatPar, parVerdict, VERDICT_LABEL, type Par} from '@/game/par';
 
 interface Props {
   puzzleNumber: number;
+  /** The day's par, for the result panel. */
+  par?: Par;
   view: BattleView;
   log: string[];
   /** Log lines from the most recent step, shown as "what just happened". */
@@ -25,7 +28,7 @@ interface Props {
 }
 
 export function BattleScreen(props: Props) {
-  const {puzzleNumber, view, log, latest, pending, notice, logExpanded, onToggleLog, onChoose, onForfeit, onDone} = props;
+  const {puzzleNumber, par, view, log, latest, pending, notice, logExpanded, onToggleLog, onChoose, onForfeit, onDone} = props;
   return (
     <div className="battle">
       <header className="battle-head">
@@ -36,7 +39,7 @@ export function BattleScreen(props: Props) {
       <Stage view={view} />
       <LastTurn lines={latest} />
       {view.result ? (
-        <ResultPanel result={view.result} puzzleNumber={puzzleNumber} onDone={onDone} />
+        <ResultPanel result={view.result} puzzleNumber={puzzleNumber} par={par} onDone={onDone} />
       ) : (
         <Controls view={view} pending={pending} notice={notice} onChoose={onChoose} onForfeit={onForfeit} />
       )}
@@ -74,7 +77,7 @@ function TeamPips({side}: {side: SideView}) {
   const pips = side.team.map(p => (p.fainted ? 'fainted' : 'alive'));
   const left = side.team.filter(p => !p.fainted).length;
   return (
-    <div className="pips" role="img" aria-label={`You: ${left} of ${side.totalPokemon} left`}>
+    <div className="pips" role="img" aria-label={`You: ${left} of ${side.totalPokemon} Pokémon remaining`}>
       {pips.map((state, i) => <span key={i} className={`pip ${state}`} />)}
     </div>
   );
@@ -88,7 +91,7 @@ function FoeRoster({side}: {side: SideView}) {
   const unknown = Math.max(0, side.totalPokemon - side.team.length);
   const left = side.team.filter(p => !p.fainted).length + unknown;
   return (
-    <div className="foe-roster" role="list" aria-label={`Opponent: ${left} of ${side.totalPokemon} left`}>
+    <div className="foe-roster" role="list" aria-label={`Opponent: ${left} of ${side.totalPokemon} Pokémon remaining`}>
       {side.team.map(p => (
         <WithPokemonTip key={p.name} p={p} foe tapToggle tabIndex={0} role="listitem"
           className={`roster-slot ${p.active ? 'is-active' : ''} ${p.fainted ? 'is-fainted' : ''}`}
@@ -306,26 +309,42 @@ function MoveButton({move, disabled, onClick}: {move: MoveOption; disabled: bool
   );
 }
 
-export function ResultSummary({won, turns, myFainted, aiRemaining, forfeited, aiTeam}: {
+export function ResultSummary({won, turns, myFainted, aiRemaining, forfeited, aiTeam, par}: {
   won: boolean;
   turns?: number;
   myFainted?: boolean[];
   aiRemaining?: number;
   forfeited?: boolean;
   aiTeam?: string[];
+  par?: Par;
 }) {
   const left = myFainted ? myFainted.filter(f => !f).length : undefined;
+  const mine = left !== undefined && turns !== undefined ? {left, turns} : undefined;
+  const verdict = won && par && mine ? parVerdict(mine, par) : undefined;
   return (
     <>
       {myFainted && (
-        <p className="squares" aria-label={`${left} of 6 Pokémon left`}>
+        <p className="squares" aria-label={`${left} of 6 Pokémon remaining`}>
           {myFainted.map(f => (f ? '⬛' : '🟩')).join('')}
         </p>
       )}
-      <p className="muted">
-        {turns !== undefined && `${turns} turns`}
-        {!won && (forfeited ? ' · forfeit' : aiRemaining !== undefined ? ` · opponent had ${aiRemaining} left` : '')}
-      </p>
+      {verdict && mine && par ? (
+        <>
+          <p className={`par-verdict ${verdict}`}>{VERDICT_LABEL[verdict]}</p>
+          <dl className="par-compare">
+            <dt>You</dt><dd>{formatPar(mine)}</dd>
+            <dt>Par</dt><dd>{formatPar(par)}</dd>
+          </dl>
+        </>
+      ) : (
+        <>
+          <p className="muted">
+            {turns !== undefined && `${turns} turns`}
+            {!won && (forfeited ? ' · forfeit' : aiRemaining !== undefined ? ` · opponent had ${aiRemaining} Pokémon remaining` : '')}
+          </p>
+          {par && <p className="muted small">Par was {formatPar(par)}</p>}
+        </>
+      )}
       {aiTeam && (
         <div className="reveal-team">
           <p className="muted small">Opponent&apos;s team</p>
@@ -343,13 +362,13 @@ export function ResultSummary({won, turns, myFainted, aiRemaining, forfeited, ai
   );
 }
 
-function ResultPanel({result, puzzleNumber, onDone}: {result: BattleResult; puzzleNumber: number; onDone: () => void}) {
-  const text = shareText({...result, puzzleNumber, won: result.winner === 'player'}, window.location.host);
+function ResultPanel({result, puzzleNumber, par, onDone}: {result: BattleResult; puzzleNumber: number; par?: Par; onDone: () => void}) {
+  const text = shareText({...result, puzzleNumber, par, won: result.winner === 'player'}, window.location.host);
   const headline = result.winner === 'player' ? 'You won!' : result.winner === 'ai' ? 'You lost' : 'Tie';
   return (
     <section className="card result">
       <h2>{headline}</h2>
-      <ResultSummary won={result.winner === 'player'} {...result} />
+      <ResultSummary won={result.winner === 'player'} {...result} par={par} />
       <div className="row result-actions">
         <ShareButton text={text} />
         <button onClick={onDone}>Done</button>

@@ -48,11 +48,25 @@ export default function HowToPlay() {
       </section>
 
       <section className="card prose">
-        <h2 className="card-title">Sharing</h2>
-        <pre className="share-example">{'Showdol #12 · W in 23 turns\n🟩🟩⬛🟩⬛⬛'}</pre>
+        <h2 className="card-title">Par</h2>
         <p>
-          The squares are your six Pokémon in team order: 🟩 still standing at the end, ⬛ fainted. A loss shows how
-          many Pokémon the opponent had left. The share never names a Pokémon, so it doesn&apos;t spoil the puzzle.
+          Before each puzzle goes live, the AI plays your team against the opponent&apos;s 100 times. Par is its
+          typical win: the middle one when its wins are lined up best to worst.
+        </p>
+        <p>
+          A result is better when more of your Pokémon are remaining. If two results have the same number remaining,
+          the one with fewer turns is better. Beat par by doing better than the AI did, and keep a par streak going
+          on the stats page.
+        </p>
+      </section>
+
+      <section className="card prose">
+        <h2 className="card-title">Sharing</h2>
+        <pre className="share-example">{'Showdol #12 · W · Beat par ⭐\nYou: 5 Pokémon remaining, 22 turns\nPar: 3 Pokémon remaining, 30 turns\n🟩🟩⬛🟩🟩🟩'}</pre>
+        <p>
+          The squares are your six Pokémon in team order: 🟩 remaining at the end, ⬛ fainted. A loss shows how
+          many Pokémon the AI had remaining, plus the day&apos;s par. The share never names a Pokémon, so it doesn&apos;t
+          spoil the puzzle.
         </p>
         <p>Missing a day breaks your streak but doesn&apos;t count as a loss.</p>
       </section>

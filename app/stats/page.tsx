@@ -33,7 +33,7 @@ function StatsBody({save, today}: {save: SaveData; today: string}) {
   // Today's row is highlighted once today's game is finished.
   const todayRow = !todays || todays.status === 'in_progress' ? null : todays.status === 'won' ? Math.max(1, pokemonLeft(todays) ?? 1) : 0;
 
-  const rows = [6, 5, 4, 3, 2, 1].map(left => ({key: left, label: `${left} left`, count: s.winsByLeft[left]}));
+  const rows = [6, 5, 4, 3, 2, 1].map(left => ({key: left, label: `${left} remaining`, count: s.winsByLeft[left]}));
   rows.push({key: 0, label: 'Loss', count: s.losses});
   const max = Math.max(1, ...rows.map(r => r.count));
 
@@ -45,10 +45,16 @@ function StatsBody({save, today}: {save: SaveData; today: string}) {
         <Tile value={s.currentStreak} label="Current streak" />
         <Tile value={s.bestStreak} label="Best streak" />
       </section>
+      <section className="stat-tiles" aria-label="Par">
+        <Tile value={s.madePar} label="Par or better" />
+        <Tile value={`${s.parPct}%`} label="Par rate" />
+        <Tile value={s.currentParStreak} label="Par streak" />
+        <Tile value={s.bestParStreak} label="Best par streak" />
+      </section>
 
       <section className="card">
         <h2 className="card-title">Results</h2>
-        <p className="muted small">Wins by how many of your Pokémon were still standing, and losses.</p>
+        <p className="muted small">Wins by how many of your Pokémon remained, and losses.</p>
         {s.played === 0 ? (
           <p className="muted">No finished games yet.</p>
         ) : (

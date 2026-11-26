@@ -7,6 +7,7 @@ import {ShareButton} from '@/ui/ShareButton';
 import {useCallback, useEffect, useState} from 'react';
 import type {PuzzleFile} from '@/engine/puzzle';
 import type {BattleView} from '@/engine/view';
+import {formatPar} from '@/game/par';
 import {dateKey, formatCountdown, msUntilMidnight, puzzleNumber} from '@/game/daily';
 import {expireAbandoned, homeState, type HomeState} from '@/game/lock';
 import {finishRecord, loadSave, writeSave, type GameRecord, type SaveData} from '@/game/storage';
@@ -61,6 +62,13 @@ export default function Home() {
     else if (!save) setSave(current);
   }, [today, openDate, save, commit]);
 
+  const home: HomeState | null = save && today ? homeState(save, today) : null;
+  const puzzleDate = openDate ?? (home && home.kind !== 'before-launch' ? home.date : null);
+  const puzzle = usePuzzle(puzzleDate);
+  const loadedPuzzle = puzzle instanceof Error ? null : puzzle;
+  /** Par for a date, if its puzzle file is the one loaded. */
+  const parFor = (date: string) => (loadedPuzzle?.date === date ? loadedPuzzle.par : undefined);
+
   const onStep = useCallback(
     (view: BattleView, inputLog: string[]) => {
       if (!openDate) return;
@@ -68,17 +76,24 @@ export default function Home() {
       const latest = loadSave();
       const rec = latest.games[openDate] ?? save?.games[openDate];
       if (!rec) return;
-      const updated: GameRecord = view.result ? finishRecord(rec, view.result, inputLog, new Date())
+      // Games started before par existed pick it up when they finish.
+      const par = rec.par ?? (loadedPuzzle?.date === openDate ? loadedPuzzle.par : undefined);
+      const updated: GameRecord = view.result ? finishRecord({...rec, ...(par && {par})}, view.result, inputLog, new Date())
         : {...rec, inputLog, turns: view.turn};
       commit({...latest, games: {...latest.games, [openDate]: updated}});
     },
-    [openDate, save, commit],
+    [openDate, save, commit, loadedPuzzle],
   );
   const battle = useBattle(onStep);
 
-  const home: HomeState | null = save && today ? homeState(save, today) : null;
-  const puzzleDate = openDate ?? (home && home.kind !== 'before-launch' ? home.date : null);
-  const puzzle = usePuzzle(puzzleDate);
+  // A game finished before par existed gets it once the day's puzzle file is loaded, so it counts in stats.
+  const doneDate = home?.kind === 'done' && !home.record.par ? home.date : null;
+  useEffect(() => {
+    if (!doneDate || loadedPuzzle?.date !== doneDate || !loadedPuzzle.par) return;
+    const latest = loadSave();
+    const rec = latest.games[doneDate];
+    if (rec && !rec.par) commit({...latest, games: {...latest.games, [doneDate]: {...rec, par: loadedPuzzle.par}}});
+  }, [doneDate, loadedPuzzle, commit]);
 
   function play(p: PuzzleFile, date: string) {
     const latest = loadSave();
@@ -93,6 +108,7 @@ export default function Home() {
       battleSeed: randomSeed(),
       aiSeed: randomSeed(),
       inputLog: [],
+      ...(p.par && {par: p.par}),
       startedAt: new Date().toISOString(),
     };
     // The day counts from here, before the engine even loads.
@@ -154,6 +170,7 @@ export default function Home() {
       <main className="battle-main">
         <BattleScreen
           puzzleNumber={save.games[openDate]?.puzzleNumber ?? puzzleNumber(openDate)!}
+          par={save.games[openDate]?.par ?? parFor(openDate)}
           view={battle.view}
           log={battle.log}
           latest={battle.latest}
@@ -172,7 +189,6 @@ export default function Home() {
     );
   }
 
-  const loadedPuzzle = puzzle instanceof Error ? null : puzzle;
   const countdown = formatCountdown(msUntilMidnight(now));
 
   return (
@@ -204,7 +220,7 @@ function HomeCard({home, puzzle, puzzleError, loading, countdown, firstTime, onP
   }
 
   if (home.kind === 'done') {
-    const r = home.record;
+    const r = {...home.record, par: home.record.par ?? (puzzle?.date === home.date ? puzzle.par : undefined)};
     const won = r.status === 'won';
     return (
       <>
@@ -262,6 +278,13 @@ function HomeCard({home, puzzle, puzzleError, loading, countdown, firstTime, onP
           {puzzle?.playerSets && 'Tap or hover a Pokémon to see its set. '}
           The opponent&apos;s team stays hidden until each Pokémon appears.
         </p>
+        {puzzle?.par && (
+          <p className="par-line">
+            <strong>Par: {formatPar(puzzle.par)}</strong>
+            <span className="muted small"> · the AI&apos;s typical win with this team. Finish with more Pokémon
+              remaining, or as many in fewer turns, to beat it.</span>
+          </p>
+        )}
         <button
           className="primary wide"
           disabled={!puzzle || loading}

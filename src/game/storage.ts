@@ -4,6 +4,7 @@
  * private window or blocked storage degrades to "nothing saved".
  */
 import type {BattleResult} from '@/engine/view';
+import {readPar, type Par} from '@/game/par';
 
 export const STORAGE_KEY = 'showdol:v1';
 export const SCHEMA_VERSION = 1;
@@ -30,6 +31,8 @@ export interface GameRecord {
   forfeited?: boolean;
   /** Left unfinished past the next day's midnight; counted as a loss. */
   abandoned?: boolean;
+  /** The day's par, copied from the puzzle file so stats don't need to fetch it. */
+  par?: Par;
   startedAt: string;
   finishedAt?: string;
 }
@@ -84,7 +87,11 @@ export function parseSave(raw: string | null): SaveData {
   if (d.schemaVersion !== SCHEMA_VERSION) return emptySave();
   const games: Record<string, GameRecord> = {};
   for (const [key, rec] of Object.entries(d.games ?? {})) {
-    if (DATE_KEY.test(key) && isRecord(rec)) games[key] = rec;
+    if (!DATE_KEY.test(key) || !isRecord(rec)) continue;
+    // A malformed par is dropped rather than the whole game.
+    const {par, ...rest} = rec;
+    const valid = readPar(par);
+    games[key] = valid ? {...rest, par: valid} : rest;
   }
   return {
     schemaVersion: SCHEMA_VERSION,

@@ -173,6 +173,16 @@ button.switch.is-fainted .sprite { filter: grayscale(1); opacity: .5; }
 .sprite-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; justify-items: center; }
 .sprite-row figure { margin: 0; display: flex; flex-direction: column; align-items: center; }
 .result > button { margin-top: 12px; }
+.par-verdict { font-weight: 700; margin: 4px 0; }
+.par-verdict.beat { color: var(--accent); }
+.par-verdict.missed { color: var(--muted); }
+.par-compare {
+  display: grid; grid-template-columns: auto auto; justify-content: center; gap: 2px 12px; margin: 4px 0 8px;
+  font-variant-numeric: tabular-nums;
+}
+.par-compare dt { color: var(--muted); text-align: right; }
+.par-compare dd { margin: 0; text-align: left; }
+.par-line { margin: 8px 0 12px; }
 
 .log-toggle {
   display: flex; justify-content: space-between; width: 100%; border: none; background: none; padding: 0;

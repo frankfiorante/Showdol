@@ -270,5 +270,9 @@
   "curation": {
     "battles": 100,
     "playerWins": 71
+  },
+  "par": {
+    "left": 3,
+    "turns": 39
   }
 }

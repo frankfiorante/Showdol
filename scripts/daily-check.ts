@@ -10,6 +10,7 @@ import {expireAbandoned, homeState} from '@/game/lock';
 import {emptySave, finishRecord, parseSave, type GameRecord, type SaveData} from '@/game/storage';
 import {computeStats} from '@/game/stats';
 import {shareText} from '@/game/share';
+import {compareResults, parFromWins, parVerdict} from '@/game/par';
 import {decodeSave, encodeSave, mergeSaves, TransferError} from '@/game/transfer';
 
 let passed = 0;
@@ -154,11 +155,65 @@ await test('stats: streaks', () => {
   assert.equal(computeStats(save({'2026-11-20': won(1), '2026-11-22': won(1)}), '2026-11-22').bestStreak, 1);
 });
 
+await test('par: ranks by Pokémon left, then turns', () => {
+  assert.ok(compareResults({left: 3, turns: 40}, {left: 2, turns: 10}) < 0, 'more left beats fewer turns');
+  assert.ok(compareResults({left: 3, turns: 20}, {left: 3, turns: 25}) < 0, 'same left: fewer turns wins');
+  assert.equal(compareResults({left: 3, turns: 20}, {left: 3, turns: 20}), 0);
+  assert.equal(parVerdict({left: 4, turns: 50}, {left: 3, turns: 20}), 'beat');
+  assert.equal(parVerdict({left: 3, turns: 20}, {left: 3, turns: 20}), 'matched');
+  assert.equal(parVerdict({left: 3, turns: 21}, {left: 3, turns: 20}), 'missed');
+  assert.equal(parVerdict({left: 2, turns: 5}, {left: 3, turns: 20}), 'missed');
+});
+
+await test('par: median win, a result that actually happened', () => {
+  assert.equal(parFromWins([]), null);
+  const wins = [{left: 1, turns: 30}, {left: 4, turns: 20}, {left: 2, turns: 25}, {left: 2, turns: 18}, {left: 5, turns: 12}];
+  assert.deepEqual(parFromWins(wins), {left: 2, turns: 18});
+  // Even count: the better of the two middle wins.
+  assert.deepEqual(parFromWins(wins.slice(0, 4)), {left: 2, turns: 18});
+  assert.deepEqual(wins[0], {left: 1, turns: 30}, 'input is not reordered');
+});
+
+await test('stats: par count and streaks', () => {
+  const par = {left: 3, turns: 20};
+  const g = {
+    '2026-11-20': won(4, {par}), // beat
+    '2026-11-21': won(3, {par, turns: 20}), // matched
+    '2026-11-22': won(3, {par, turns: 21}), // missed
+    '2026-11-23': won(5, {par}), '2026-11-24': won(3, {par, turns: 15}),
+    '2026-11-25': lost({par}),
+    '2026-11-26': won(6), // no par known
+  };
+  const s = computeStats(save(g), '2026-11-27');
+  assert.equal(s.madePar, 4);
+  assert.equal(s.parPct, 57);
+  assert.equal(s.bestParStreak, 2);
+  assert.equal(s.currentParStreak, 0);
+  assert.equal(computeStats(save({...g, '2026-11-25': rec()}), '2026-11-25').currentParStreak, 2, "today's unfinished game doesn't break it");
+  assert.equal(s.currentStreak, 1, 'win streak is unaffected by par');
+});
+
+await test('parseSave keeps a valid par and drops a malformed one', () => {
+  const raw = (par: unknown) => JSON.stringify({...save({'2026-11-24': won(3, {par: par as never})})});
+  assert.deepEqual(parseSave(raw({left: 3, turns: 20})).games['2026-11-24'].par, {left: 3, turns: 20});
+  const bad = parseSave(raw({left: 'x', turns: 20})).games['2026-11-24'];
+  assert.ok(bad, 'the game itself survives');
+  assert.equal(bad.par, undefined);
+});
+
 await test('share text matches the PLAN format', () => {
+  const par = {left: 3, turns: 30};
+  assert.equal(shareText({...won(5), puzzleNumber: 12, turns: 22, par, won: true}, 'showdol.example'),
+    'Showdol #12 · W · Beat par ⭐\nYou: 5 Pokémon remaining, 22 turns\nPar: 3 Pokémon remaining, 30 turns\n🟩🟩🟩🟩🟩⬛\nshowdol.example');
+  assert.equal(shareText({...won(3), puzzleNumber: 12, turns: 30, par, won: true}).split('\n')[0], 'Showdol #12 · W · Matched par');
+  assert.equal(shareText({...won(3), puzzleNumber: 12, turns: 31, par, won: true}).split('\n')[0], 'Showdol #12 · W · Missed par');
+  assert.equal(shareText({...lost(), puzzleNumber: 12, turns: 31, par, won: false}),
+    'Showdol #12 · L in 31 turns (AI had 2 Pokémon remaining)\nPar: 3 Pokémon remaining, 30 turns\n⬛⬛⬛⬛⬛⬛');
+  // Without a par (older puzzle files) the old headline stays.
   assert.equal(shareText({...won(3), puzzleNumber: 12, turns: 23, won: true}, 'showdol.example'),
     'Showdol #12 · W in 23 turns\n🟩🟩🟩⬛⬛⬛\nshowdol.example');
   assert.equal(shareText({...lost(), puzzleNumber: 12, turns: 31, won: false}),
-    'Showdol #12 · L in 31 turns (2 left)\n⬛⬛⬛⬛⬛⬛');
+    'Showdol #12 · L in 31 turns (AI had 2 Pokémon remaining)\n⬛⬛⬛⬛⬛⬛');
   assert.equal(shareText({...lost({forfeited: true}), puzzleNumber: 3, won: false}).split('\n')[0], 'Showdol #3 · L (forfeit)');
   assert.equal(shareText({puzzleNumber: 4, won: false, abandoned: true}), 'Showdol #4 · L (unfinished)');
   assert.equal(shareText({...won(6), puzzleNumber: 1, turns: 1, won: true}).split('\n')[0], 'Showdol #1 · W in 1 turn');

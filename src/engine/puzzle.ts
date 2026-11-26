@@ -1,3 +1,5 @@
+import type {Par} from '@/game/par';
+
 /** Shape of a daily puzzle file at /puzzles/YYYY-MM-DD.json. */
 export interface PuzzleFile {
   schema: 1;
@@ -18,6 +20,8 @@ export interface PuzzleFile {
    * matchup, with the player's team as p1.
    */
   curation?: {battles: number; playerWins: number};
+  /** The median of the curation battles the player's side won: the result to beat. */
+  par?: Par;
   /** Packed teams (Teams.pack format). */
   player: string;
   ai: string;

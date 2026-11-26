@@ -110,10 +110,10 @@ The game has five screens. A day's visit runs Home, then Battle, then Result.
 
 | Screen | What it shows |
 | --- | --- |
-| Home | Today's puzzle number, with Play, Resume, or a countdown if already played |
+| Home | Today's puzzle number and par, with Play, Resume, or a countdown if already played |
 | Battle | Both active Pokémon, HP bars, move and switch buttons, Tera toggle, battle log, forfeit |
-| Result | Win or loss, turns, Pokémon left, the AI's full team revealed, share button, countdown |
-| Stats | Played, win %, current and best streak, distribution of results |
+| Result | Win or loss, turns, Pokémon left, how it compares with par, the AI's full team revealed, share button, countdown |
+| Stats | Played, win %, current and best streak, par or better count and rate, par streaks, distribution of results |
 | How to play | Short rules and what the share squares mean |
 
 - **Team view:** Random Battle has no team preview. You see your own six before the battle. The AI's team is hidden until each Pokémon appears.
@@ -132,6 +132,16 @@ Each date's game moves one way through three states: not started, in progress, f
 - **Missed days:** they break the streak but aren't recorded as losses.
 - **Clock changes:** honor system. Changing the device clock can unlock another day, and that's accepted.
 - **Streak:** consecutive puzzle numbers won. Current streak resets on a loss or a missed day.
+- **Par streak:** the same, but each day needs a win at par or better.
+
+## Par
+
+Par gives friends one way to compare results. Results rank by Pokémon left first (more is better), then by turns (fewer is better).
+
+- **Where it comes from:** the curation battles in `gen:puzzle`, where the heuristic AI pilots the player's team against the AI team 100 times. Par is the median of the wins under that ranking: sort them best to worst and take the middle one (the better middle one for an even count). That makes par a result that actually happened, not an average of two separate medians.
+- **Stored** as `par: {left, turns}` in each puzzle file, and copied into the game record when Play is pressed so stats never need to fetch old puzzle files.
+- **Verdict:** a win is *Beat par* (better than par), *Matched par* (the same) or *Missed par*. A loss never makes par, but the result screen and share still show it.
+- **Backfill:** puzzle files from before par existed get it by replaying their own curation seeds, so their teams don't change.
 
 ## Data model
 
@@ -151,6 +161,7 @@ All state lives under one localStorage key, `showdol:v1`, holding a schema versi
 | → `myFainted` | boolean[6] | In team order, for the share squares |
 | → `aiRemaining` | number | Opposing Pokémon left on a loss |
 | → `forfeited` | boolean | True if the loss came from a forfeit |
+| → `par` | `{left, turns}` | The day's par, copied from the puzzle file |
 | → `startedAt`, `finishedAt` | ISO string | Local timestamps |
 
 **Export/import:** a copyable code (the JSON, compressed and base64-encoded) so stats can move to another device without a backend.
@@ -160,13 +171,17 @@ All state lives under one localStorage key, `showdol:v1`, holding a schema versi
 The share text shows the puzzle, the result and your six Pokémon as squares, with no names, so it spoils nothing.
 
 ```text
-Showdol #12 · W in 23 turns
-🟩🟩⬛🟩⬛⬛
+Showdol #12 · W · Beat par ⭐
+You: 5 Pokémon remaining, 22 turns
+Par: 3 Pokémon remaining, 30 turns
+🟩🟩⬛🟩🟩🟩
 showdol.example
 ```
 
 - **Squares:** your six in team order. Green = still standing at the end, black = fainted.
-- **Loss line:** `Showdol #12 · L in 31 turns (2 left)`, where the number is the AI's Pokémon remaining. Forfeits read `L (forfeit)`.
+- **Verdict:** `Beat par ⭐`, `Matched par` or `Missed par`.
+- **Loss line:** `Showdol #12 · L in 31 turns (AI had 2 Pokémon remaining)`, followed by the par line. Forfeits read `L (forfeit)`.
+- **No par:** a puzzle without one shares the old `W in 23 turns` headline.
 - **Sharing:** the Web Share API on mobile (opens the phone's share sheet), clipboard copy on desktop, with a "Copied" toast.
 - **Link:** showdol.com.
 

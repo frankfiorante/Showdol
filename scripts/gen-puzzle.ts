@@ -11,8 +11,12 @@
  * the most balanced attempt is kept. All seeds derive from the date, so the
  * same code and package versions reproduce the same files.
  *
- * Existing files are never changed (a published day is fixed) unless --force
- * is given. Uses all CPU cores; --jobs K to limit.
+ * Par is the median of the curation battles the player's side won (see
+ * src/game/par.ts).
+ *
+ * Existing files keep their teams (a published day is fixed) unless --force
+ * is given. Files from before par existed get it backfilled by replaying
+ * their own curation battles. Uses all CPU cores; --jobs K to limit.
  */
 import {createHash} from 'node:crypto';
 import {existsSync, mkdirSync, readFileSync, writeFileSync} from 'node:fs';
@@ -70,7 +74,11 @@ export function curatePuzzle(date: string, opts: {battles: number; min: number; 
     const stats = evaluateMatchup(puzzle.player, puzzle.ai, opts.battles, `curate:${date}:${reroll}`);
     const rate = stats.p1Wins / stats.battles;
     attempts.push({reroll, rate});
-    const curated = {...puzzle, curation: {battles: stats.battles, playerWins: stats.p1Wins}};
+    const curated: PuzzleFile = {
+      ...puzzle,
+      curation: {battles: stats.battles, playerWins: stats.p1Wins},
+      ...(stats.par && {par: stats.par}),
+    };
     if (rate >= opts.min && rate <= opts.max) return {puzzle: curated, attempts, balanced: true};
     if (Math.abs(rate - 0.5) < bestDistance) {
       best = curated;
@@ -109,6 +117,7 @@ const opts = {
 };
 const shard = myShard();
 interface Row { date: string; attempts: Curated['attempts']; balanced: boolean; player: string; ai: string }
+interface ParRow { date: string; was: number | null; now: number; par: PuzzleFile['par'] | null }
 
 if (process.argv.includes('--check')) {
   // Existing files must still regenerate to the same teams (catches package upgrades).
@@ -123,6 +132,19 @@ if (process.argv.includes('--check')) {
   }
   console.log(`${checked} files checked, ${changed.length} would change${changed.length ? `: ${changed.join(', ')}` : ''}`);
   if (changed.length) process.exit(1);
+} else if (shard && process.argv.includes('--backfill-par')) {
+  // Child process: replay each kept file's own curation battles (same seeds) to find its par.
+  for (const date of dates.filter((_, i) => i % shard.k === shard.i)) {
+    const saved: PuzzleFile = JSON.parse(readFileSync(fileFor(date), 'utf8'));
+    const stats = evaluateMatchup(saved.player, saved.ai, saved.curation?.battles ?? opts.battles, `curate:${date}:${saved.reroll}`);
+    const updated: PuzzleFile = {...saved, curation: {battles: stats.battles, playerWins: stats.p1Wins}};
+    // Insert par right after curation, leaving every other field where it was.
+    const ordered = Object.fromEntries(
+      Object.entries(updated).flatMap(([k, v]) => (k === 'curation' && stats.par ? [[k, v], ['par', stats.par]] : [[k, v]])),
+    );
+    writeFileSync(fileFor(date), JSON.stringify(ordered, null, 2) + '\n');
+    console.log(JSON.stringify({date, was: saved.curation?.playerWins ?? null, now: stats.p1Wins, par: stats.par} satisfies ParRow));
+  }
 } else if (shard) {
   // Child process: curate this shard's dates and write their files.
   const todo = dates.filter((_, i) => i % shard.k === shard.i);
@@ -149,6 +171,18 @@ if (process.argv.includes('--check')) {
     backfilled++;
   }
   if (backfilled) console.log(`added playerSets to ${backfilled} existing file(s)`);
+  const needPar = dates.filter(d => !todo.includes(d) && !JSON.parse(readFileSync(fileFor(d), 'utf8')).par);
+  if (needPar.length) {
+    const jobs = Math.min(needPar.length, Number(arg('jobs') ?? Math.max(1, availableParallelism() - 1)));
+    const t0 = performance.now();
+    const args = ['--from', needPar[0], '--days', '0', ...process.argv.slice(2), '--backfill-par'];
+    const rows = await shardMap<ParRow>(fileURLToPath(import.meta.url), [...args, '--dates', needPar.join(',')], jobs);
+    // The replay uses the current AI; if it changed since a day was curated, its win count moves too.
+    const drifted = rows.filter(r => r.was !== null && r.was !== r.now).sort((a, b) => a.date.localeCompare(b.date));
+    for (const r of drifted) console.log(`${r.date}  curation win count ${r.was} → ${r.now} (AI changed since curation)`);
+    const missing = rows.filter(r => !r.par).length;
+    console.log(`added par to ${rows.length - missing} existing file(s)${missing ? `, ${missing} had no wins to take it from` : ''} in ${((performance.now() - t0) / 1000).toFixed(0)}s with ${jobs} jobs`);
+  }
   if (todo.length) {
     const jobs = Math.min(todo.length, Number(arg('jobs') ?? Math.max(1, availableParallelism() - 1)));
     const t0 = performance.now();
