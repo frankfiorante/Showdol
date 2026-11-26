@@ -1,4 +1,5 @@
 import type {Metadata, Viewport} from 'next';
+import Script from 'next/script';
 import './globals.css';
 
 const description = 'A daily Pokémon Random Battle. Same teams for everyone. One battle a day.';
@@ -18,6 +19,11 @@ export default function RootLayout({children}: {children: React.ReactNode}) {
   return (
     <html lang="en">
       <body>{children}</body>
+      {/* Cloudflare Web Analytics: counts real browser visits (bots that don't run JS aren't counted). */}
+      <Script
+        src="https://static.cloudflareinsights.com/beacon.min.js"
+        data-cf-beacon='{"token": "b5605814a9bb43ffb8ffe6edf0f69e42"}'
+      />
     </html>
   );
 }
