@@ -267,7 +267,7 @@ textarea.code { margin: 8px 0; }
 .category { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; padding: 1px 6px; border-radius: 4px; color: #fff; }
 .category.physical { background: #c92112; } .category.special { background: #4f5870; } .category.status { background: #8c888c; }
 .tooltip {
-  position: fixed; z-index: 20; width: max-content; max-width: min(320px, calc(100vw - 16px));
+  position: fixed; z-index: 20; width: min(320px, calc(100vw - 16px));
   background: var(--card); color: var(--fg); border: 1px solid var(--border); border-radius: 10px;
   padding: 10px 12px; box-shadow: 0 8px 24px rgba(0, 0, 0, .25); font-size: 13px; line-height: 1.4; pointer-events: none;
 }
