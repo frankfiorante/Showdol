@@ -4,6 +4,7 @@
  * every battle ends, the view never shows unrevealed foe info, and resuming
  * from any saved point (seeds + input log, as after a reload) and replaying the
  * player's remaining choices reproduces the battle exactly, AI choices included.
+ * Every fourth battle uses freshly generated practice teams instead of a puzzle.
  *
  *   pnpm session:check                 # 200 battles across this week's puzzles
  *   pnpm session:check --n 20 --print  # also prints one formatted log
@@ -12,6 +13,7 @@ import {readFileSync, readdirSync} from 'node:fs';
 import {join} from 'node:path';
 import {PRNG} from '@pkmn/sim';
 import {BattleSession, ChoiceError} from '@/engine/session';
+import {generateTeams} from '@/engine/practice-teams';
 import type {BattleView} from '@/engine/view';
 import type {PuzzleFile} from '@/engine/puzzle';
 
@@ -38,10 +40,15 @@ function fail(msg: string): never {
   process.exit(1);
 }
 
-let wins = 0, forfeits = 0, rejected = 0, turns = 0, hintChecks = 0;
+let wins = 0, forfeits = 0, rejected = 0, turns = 0, hintChecks = 0, practice = 0;
 const t0 = performance.now();
 for (let i = 0; i < n; i++) {
-  const pz = puzzles[i % puzzles.length];
+  let pz: Pick<PuzzleFile, 'date' | 'player' | 'ai'> = puzzles[i % puzzles.length];
+  if (i % 4 === 3) {
+    const seeds = {player: PRNG.generateSeed(), ai: PRNG.generateSeed()};
+    pz = {date: `practice ${seeds.player}/${seeds.ai}`, ...(await generateTeams(seeds))};
+    practice++;
+  }
   const init = {playerTeam: pz.player, aiTeam: pz.ai, battleSeed: PRNG.generateSeed(), aiSeed: PRNG.generateSeed()};
   const s = new BattleSession(init);
   const rng = new PRNG(PRNG.generateSeed());
@@ -114,6 +121,6 @@ for (let i = 0; i < n; i++) {
   if (print && i === 0) console.log(s.log.join('\n'), '\n');
 }
 const ms = performance.now() - t0;
-console.log(`${n} battles: player won ${wins}, forfeits ${forfeits}, avg turns ${(turns / n).toFixed(1)}, rejected choices ${rejected}`);
+console.log(`${n} battles (${practice} with practice teams): player won ${wins}, forfeits ${forfeits}, avg turns ${(turns / n).toFixed(1)}, rejected choices ${rejected}`);
 console.log(`foe speed/ability estimates contained the real values in ${hintChecks} checks`);
 console.log(`resumes identical; ${(ms / n).toFixed(1)} ms per battle incl. replay`);

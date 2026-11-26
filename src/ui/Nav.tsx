@@ -10,6 +10,7 @@ export function Nav() {
         Showdol
       </Link>
       <nav className="nav-links" aria-label="Main">
+        <Link href="/practice">Practice</Link>
         <Link href="/stats">Stats</Link>
         <Link href="/how-to-play">How to play</Link>
       </nav>

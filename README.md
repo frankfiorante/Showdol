@@ -30,7 +30,7 @@ pnpm start        # serves out/
 | `pnpm build` | Static export to `out/` |
 | `pnpm typecheck` | TypeScript check |
 | `pnpm gen:puzzle` | Generates and curates puzzle files (today by default). Takes `--from YYYY-MM-DD --days N`, plus `--battles`, `--min`, `--max` and `--rerolls` for curation. `--check` verifies existing files still regenerate to the same teams. Never changes an existing day's file unless given `--force` |
-| `pnpm session:check` | Plays battles through `BattleSession` with a random player, checking invariants (including that the opponent tooltip's Speed and ability estimates contain the real values) and resuming each one from a random save point. Takes `--n 300` and `--print` |
+| `pnpm session:check` | Plays battles through `BattleSession` with a random player, checking invariants (including that the opponent tooltip's Speed and ability estimates contain the real values) and resuming each one from a random save point. Every fourth battle uses freshly generated practice teams. Takes `--n 300` and `--print` |
 | `pnpm ai:check random\|mirror\|duel` | AI harness: AI vs random bot (both sides), AI vs AI on each day's matchup, or variant weights (`--weights '{"setup":60}'`) vs the defaults with paired seeds |
 | `pnpm ai:watch YYYY-MM-DD` | Prints a compact log of one AI-vs-AI battle on that day's matchup |
 | `pnpm sprites:fetch` | Downloads any missing sprites for species Gen 9 Random Battle can roll into `public/sprites/gen5/` and rewrites the index (`--dry-run` lists them) |
@@ -47,6 +47,7 @@ pnpm start        # serves out/
 - **The AI** (`src/ai/`) scores every legal option with `@smogon/calc` damage estimates, plus speed, status, setup, hazard, recovery and switching heuristics, and occasionally takes a close runner-up. It sees the player's full team.
 - **The battle** runs in a Web Worker (`src/worker/battle.worker.ts`) that loads only when the player presses Play. Inside it, `BattleSession` (`src/engine/session.ts`) drives the `@pkmn/sim` simulator and the opponent. It feeds only the player's side of the battle messages to an `@pkmn/client` battle, so the UI never sees information the player shouldn't have.
 - **The UI** (`src/ui/`) gets a plain, serializable `BattleView` (`src/engine/view.ts`) plus formatted log lines after each choice, and sends back choices like `move 2 terastallize` or `switch 4`.
+- **Practice** (`/practice`) gives both sides fresh random teams every game, with no curation. The battle worker generates them with `@pkmn/randoms`, which it imports on demand, so daily games never download the generator. The one practice game is saved under its own key, `showdol:practice:v1`, with its packed teams, seeds and input log, so it resumes like a daily game but never touches daily stats, streaks or export codes.
 - **Daily lock and resume** (`src/game/`): everything is saved in localStorage under `showdol:v1`. Pressing Play saves the day's record with a fresh battle seed and AI seed, and every choice is appended to its input log. On reload, the worker replays the log on the same seed to restore the exact battle. The AI's past choices come from the log, and each new decision gets its own seed, so resuming never changes what the AI does.
 
 ## Deploying
@@ -68,10 +69,10 @@ Before launch:
 ## Project layout
 
 ```text
-app/                 Next.js pages: home + battle (/), /stats, /how-to-play, /credits
+app/                 Next.js pages: home + battle (/), /practice, /stats, /how-to-play, /credits
 src/ai/              Heuristic AI and the sim-to-damage-calc bridge
 src/engine/          Battle session, battle runner, view types, random bot, puzzle types (runs in Node and the worker)
-src/game/            Dates and puzzle numbers, saved data, daily lock rules, stats, share text, export/import
+src/game/            Dates and puzzle numbers, saved data, daily lock rules, stats, share text, export/import, the practice save
 src/worker/          The battle Web Worker and its message types
 src/ui/              React battle screen, worker hook, formatting helpers
 scripts/             Puzzle generation and curation, test and AI harnesses, bundle measurement

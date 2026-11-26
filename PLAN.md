@@ -298,7 +298,7 @@ The build runs in six phases. Each ends with something playable, and the risky p
 ### Later
 
 - [ ] Hard mode with a search-based AI
-- [ ] Practice mode that doesn't count toward stats
+- [x] Practice mode that doesn't count toward stats (`/practice`: fresh random teams for both sides, one resumable game saved apart from the dailies)
 - [ ] Archive of past days
 - [ ] Optional backend for a "how everyone did today" chart
 
@@ -307,6 +307,6 @@ The build runs in six phases. Each ends with something playable, and the risky p
 None of these block Phase 0.
 
 - [x] Domain: `showdol.com`
-- [ ] Practice mode: allow unlimited games that don't count, or keep strictly one a day?
+- [x] Practice mode: unlimited games that don't count, with random teams instead of past puzzles
 - [ ] Turn timer: add a per-move timer, or let players think as long as they want?
 - [x] Launch date: 2026-11-25 is puzzle #1

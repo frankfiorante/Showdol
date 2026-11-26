@@ -114,12 +114,12 @@ export default function Home() {
     // The day counts from here, before the engine even loads.
     commit({...latest, games: {...latest.games, [date]: rec}});
     setOpenDate(date);
-    battle.start({puzzle: p, battleSeed: rec.battleSeed, aiSeed: rec.aiSeed});
+    battle.start({teams: p, battleSeed: rec.battleSeed, aiSeed: rec.aiSeed});
   }
 
   function resume(p: PuzzleFile, date: string, rec: GameRecord) {
     setOpenDate(date);
-    battle.start({puzzle: p, battleSeed: rec.battleSeed, aiSeed: rec.aiSeed, inputLog: rec.inputLog});
+    battle.start({teams: p, battleSeed: rec.battleSeed, aiSeed: rec.aiSeed, inputLog: rec.inputLog});
   }
 
   function closeBattle() {

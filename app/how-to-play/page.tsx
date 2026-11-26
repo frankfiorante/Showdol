@@ -1,4 +1,5 @@
 import type {Metadata} from 'next';
+import Link from 'next/link';
 import {Footer, Nav} from '@/ui/Nav';
 
 export const metadata: Metadata = {title: 'How to play · Showdol'};
@@ -57,6 +58,15 @@ export default function HowToPlay() {
           A result is better when more of your Pokémon are remaining. If two results have the same number remaining,
           the one with fewer turns is better. Beat par by doing better than the AI did, and keep a par streak going
           on the stats page.
+        </p>
+      </section>
+
+      <section className="card prose">
+        <h2 className="card-title">Practice</h2>
+        <p>
+          Want more battles? <Link href="/practice">Practice</Link> gives both sides brand-new random teams every
+          game, as many times as you like. Practice games don&apos;t count toward your stats or streaks, and one
+          unfinished practice game is saved so you can pick it back up later.
         </p>
       </section>
 

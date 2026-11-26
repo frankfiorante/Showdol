@@ -11,7 +11,8 @@ import {shareText} from '@/game/share';
 import {formatPar, parVerdict, VERDICT_LABEL, type Par} from '@/game/par';
 
 interface Props {
-  puzzleNumber: number;
+  /** Absent in practice: the header says Practice and there's nothing to share. */
+  puzzleNumber?: number;
   /** The day's par, for the result panel. */
   par?: Par;
   view: BattleView;
@@ -25,23 +26,26 @@ interface Props {
   onChoose: (choice: string) => void;
   onForfeit: () => void;
   onDone: () => void;
+  /** Practice only: start another game from the result panel. */
+  onNewGame?: () => void;
 }
 
 export function BattleScreen(props: Props) {
-  const {puzzleNumber, par, view, log, latest, pending, notice, logExpanded, onToggleLog, onChoose, onForfeit, onDone} = props;
+  const {puzzleNumber, par, view, log, latest, pending, notice, logExpanded, onToggleLog, onChoose, onForfeit, onDone, onNewGame} = props;
   return (
     <div className="battle">
       <header className="battle-head">
-        <span>Showdol #{puzzleNumber}</span>
+        <span>{puzzleNumber === undefined ? 'Practice' : `Showdol #${puzzleNumber}`}</span>
         <span className="muted">Turn {view.turn}</span>
       </header>
       <FieldChips view={view} />
       <Stage view={view} />
       <LastTurn lines={latest} />
       {view.result ? (
-        <ResultPanel result={view.result} puzzleNumber={puzzleNumber} par={par} onDone={onDone} />
+        <ResultPanel result={view.result} puzzleNumber={puzzleNumber} par={par} onDone={onDone} onNewGame={onNewGame} />
       ) : (
-        <Controls view={view} pending={pending} notice={notice} onChoose={onChoose} onForfeit={onForfeit} />
+        <Controls view={view} pending={pending} notice={notice} onChoose={onChoose} onForfeit={onForfeit}
+          forfeitNote={puzzleNumber === undefined ? 'Forfeit ends this practice game.' : 'Forfeit counts as a loss.'} />
       )}
       <BattleLog lines={log} open={logExpanded} onToggle={onToggleLog} />
     </div>
@@ -199,12 +203,13 @@ function LastTurn({lines}: {lines: string[]}) {
   );
 }
 
-function Controls({view, pending, notice, onChoose, onForfeit}: {
+function Controls({view, pending, notice, onChoose, onForfeit, forfeitNote}: {
   view: BattleView;
   pending: boolean;
   notice: string | null;
   onChoose: (c: string) => void;
   onForfeit: () => void;
+  forfeitNote: string;
 }) {
   const [tera, setTera] = useState(false);
   const [confirmForfeit, setConfirmForfeit] = useState(false);
@@ -271,7 +276,7 @@ function Controls({view, pending, notice, onChoose, onForfeit}: {
       <div className="forfeit-row">
         {confirmForfeit ? (
           <>
-            <span className="small">Forfeit counts as a loss.</span>
+            <span className="small">{forfeitNote}</span>
             <button className="danger" disabled={pending} onClick={() => { setConfirmForfeit(false); onForfeit(); }}>Forfeit</button>
             <button onClick={() => setConfirmForfeit(false)}>Cancel</button>
           </>
@@ -370,15 +375,25 @@ export function ResultSummary({won, turns, myFainted, aiRemaining, forfeited, ai
   );
 }
 
-function ResultPanel({result, puzzleNumber, par, onDone}: {result: BattleResult; puzzleNumber: number; par?: Par; onDone: () => void}) {
-  const text = shareText({...result, puzzleNumber, par, won: result.winner === 'player'}, window.location.host);
+function ResultPanel({result, puzzleNumber, par, onDone, onNewGame}: {
+  result: BattleResult;
+  puzzleNumber?: number;
+  par?: Par;
+  onDone: () => void;
+  onNewGame?: () => void;
+}) {
   const headline = result.winner === 'player' ? 'You won!' : result.winner === 'ai' ? 'You lost' : 'Tie';
   return (
     <section className="card result">
       <h2>{headline}</h2>
-      <ResultSummary won={result.winner === 'player'} {...result} par={par} />
+      {/* Practice teams are never played again, so even a loss reveals the whole opposing team. */}
+      <ResultSummary won={result.winner === 'player'} {...result} par={par}
+        aiSeen={puzzleNumber === undefined ? undefined : result.aiSeen} />
       <div className="row result-actions">
-        <ShareButton text={text} />
+        {puzzleNumber !== undefined && (
+          <ShareButton text={shareText({...result, puzzleNumber, par, won: result.winner === 'player'}, window.location.host)} />
+        )}
+        {onNewGame && <button className="primary" onClick={onNewGame}>New game</button>}
         <button onClick={onDone}>Done</button>
       </div>
     </section>

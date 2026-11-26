@@ -218,7 +218,7 @@ button.switch.is-fainted .sprite { filter: grayscale(1); opacity: .5; }
 a { color: var(--accent); }
 
 /* ---------- Nav, pages ---------- */
-.nav { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 4px; }
+.nav { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; column-gap: 12px; margin-bottom: 4px; }
 .nav-title { display: inline-flex; align-items: center; gap: 10px; font-size: 28px; font-weight: 700; color: var(--fg); text-decoration: none; }
 .nav-logo { flex: none; transform: rotate(-6deg); }
 @media (max-width: 359px) {

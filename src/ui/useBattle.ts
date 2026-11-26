@@ -1,7 +1,7 @@
 'use client';
 
 import {useCallback, useEffect, useRef, useState} from 'react';
-import type {PuzzleFile} from '@/engine/puzzle';
+import type {TeamSeeds} from '@/engine/practice-teams';
 import type {BattleView} from '@/engine/view';
 import type {FromWorker, ToWorker} from '@/worker/protocol';
 
@@ -17,8 +17,14 @@ export interface BattleState {
   error: {message: string; replayFailed: boolean} | null;
 }
 
+/** Packed teams. A puzzle file has these fields. */
+export interface PackedTeams {
+  player: string;
+  ai: string;
+}
+
 export interface StartArgs {
-  puzzle: PuzzleFile;
+  teams: PackedTeams;
   battleSeed: string;
   aiSeed: string;
   /** Saved choices to replay (resume). */
@@ -42,7 +48,7 @@ export function randomSeed() {
 }
 
 /**
- * Owns the battle worker. The sim only loads when `start` is first called.
+ * Owns the battle worker. The sim only loads when `start` or `generateTeams` is first called.
  * `onStep` fires after every step with the input log, so the caller can save it.
  */
 export function useBattle(onStep: (view: BattleView, inputLog: string[]) => void) {
@@ -50,6 +56,8 @@ export function useBattle(onStep: (view: BattleView, inputLog: string[]) => void
   const onStepRef = useRef(onStep);
   onStepRef.current = onStep;
   const [state, setState] = useState<BattleState>(IDLE);
+  /** The caller waiting on `generateTeams`, if any. */
+  const teamsRef = useRef<{resolve: (t: PackedTeams) => void; reject: (e: Error) => void} | null>(null);
 
   useEffect(() => () => workerRef.current?.terminate(), []);
 
@@ -59,9 +67,17 @@ export function useBattle(onStep: (view: BattleView, inputLog: string[]) => void
       w = new Worker(new URL('../worker/battle.worker.ts', import.meta.url), {type: 'module'});
       w.onmessage = (e: MessageEvent<FromWorker>) => {
         const data = e.data;
+        if (data.type === 'teams' || (data.type === 'error' && teamsRef.current)) {
+          const waiting = teamsRef.current;
+          teamsRef.current = null;
+          if (data.type === 'teams') waiting?.resolve({player: data.player, ai: data.ai});
+          else waiting?.reject(new Error(data.message));
+        }
         if (data.type === 'step') onStepRef.current(data.view, data.inputLog);
         setState(s => {
           switch (data.type) {
+            case 'teams':
+              return {...s, pending: false};
             case 'step':
               // A resumed game's first step carries the whole log; show only its last turn.
               const latest = s.log.length ? data.log : lastTurn(data.log);
@@ -73,8 +89,12 @@ export function useBattle(onStep: (view: BattleView, inputLog: string[]) => void
           }
         });
       };
-      w.onerror = e =>
-        setState(s => ({...s, pending: false, error: {message: e.message || 'The battle engine failed to load.', replayFailed: false}}));
+      w.onerror = e => {
+        const message = e.message || 'The battle engine failed to load.';
+        teamsRef.current?.reject(new Error(message));
+        teamsRef.current = null;
+        setState(s => ({...s, pending: false, error: {message, replayFailed: false}}));
+      };
       workerRef.current = w;
     }
     setState(s => ({...s, pending: true, notice: null}));
@@ -82,15 +102,25 @@ export function useBattle(onStep: (view: BattleView, inputLog: string[]) => void
   }, []);
 
   const start = useCallback(
-    ({puzzle, battleSeed, aiSeed, inputLog}: StartArgs) => {
+    ({teams, battleSeed, aiSeed, inputLog}: StartArgs) => {
       setState({...IDLE, pending: true});
-      send({type: 'start', playerTeam: puzzle.player, aiTeam: puzzle.ai, battleSeed, aiSeed, inputLog});
+      send({type: 'start', playerTeam: teams.player, aiTeam: teams.ai, battleSeed, aiSeed, inputLog});
     },
+    [send],
+  );
+  /** Random teams for practice, made in the worker (which loads the sim and generator if needed). */
+  const generateTeams = useCallback(
+    (seeds: TeamSeeds) =>
+      new Promise<PackedTeams>((resolve, reject) => {
+        teamsRef.current = {resolve, reject};
+        setState({...IDLE, pending: true});
+        send({type: 'generate', seeds});
+      }),
     [send],
   );
   const choose = useCallback((choice: string) => send({type: 'choose', choice}), [send]);
   const forfeit = useCallback(() => send({type: 'forfeit'}), [send]);
   const reset = useCallback(() => setState(IDLE), []);
 
-  return {...state, start, choose, forfeit, reset};
+  return {...state, start, generateTeams, choose, forfeit, reset};
 }

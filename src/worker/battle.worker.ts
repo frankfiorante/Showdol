@@ -1,4 +1,5 @@
 /// <reference lib="webworker" />
+import {generateTeams} from '@/engine/practice-teams';
 import {BattleSession, ChoiceError, ReplayError, type StepResult} from '@/engine/session';
 import type {FromWorker, ToWorker} from './protocol';
 
@@ -7,13 +8,16 @@ const post = (msg: FromWorker) => self.postMessage(msg);
 const sendStep = (step: StepResult) =>
   post({type: 'step', view: step.view, log: step.log, inputLog: session!.inputLog});
 
-self.onmessage = (e: MessageEvent<ToWorker>) => {
+self.onmessage = async (e: MessageEvent<ToWorker>) => {
   const msg = e.data;
   try {
     switch (msg.type) {
       case 'start':
         session = new BattleSession(msg);
         sendStep(session.start());
+        break;
+      case 'generate':
+        post({type: 'teams', ...(await generateTeams(msg.seeds))});
         break;
       case 'choose':
         if (!session) throw new Error('No battle in progress');

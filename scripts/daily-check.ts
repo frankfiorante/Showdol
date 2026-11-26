@@ -12,6 +12,7 @@ import {computeStats} from '@/game/stats';
 import {shareText} from '@/game/share';
 import {compareResults, parFromWins, parVerdict} from '@/game/par';
 import {decodeSave, encodeSave, mergeSaves, TransferError} from '@/game/transfer';
+import {parsePractice, stepPractice, type PracticeRecord} from '@/game/practice';
 
 let passed = 0;
 async function test(name: string, fn: () => void | Promise<void>) {
@@ -247,6 +248,29 @@ await test('merge: finished beats unfinished, earliest finish wins', () => {
   assert.equal(replaced, 1);
   assert.equal(merged.games['2026-11-24'].status, 'won');
   assert.equal(merged.games['2026-11-25'].status, 'won', 'kept the result that finished first');
+});
+
+await test('practice save: parses, drops garbage, finishes', () => {
+  const p: PracticeRecord = {
+    status: 'in_progress', teamSeeds: {player: 'sodium,aa', ai: 'sodium,bb'}, playerTeam: 'x', aiTeam: 'y',
+    battleSeed: 'sodium,cc', aiSeed: 'sodium,dd', inputLog: ['>p1 move 1'], startedAt: '2026-11-24T10:00:00.000Z',
+  };
+  assert.deepEqual(parsePractice(JSON.stringify(p)), p);
+  for (const bad of [null, '', 'not json', '[]', '5', JSON.stringify({...p, playerTeam: undefined}),
+    JSON.stringify({...p, inputLog: [1]}), JSON.stringify({...p, status: 'finished'})]) {
+    assert.equal(parsePractice(bad), null, String(bad));
+  }
+  const mid = stepPractice(p, null, 4, ['>p1 move 1', '>p2 move 2'], new Date());
+  assert.equal(mid.status, 'in_progress');
+  assert.equal(mid.turns, 4);
+  const result = {winner: 'ai' as const, turns: 9, myFainted: Array(6).fill(true), aiRemaining: 2, forfeited: false,
+    aiTeam: ['A', 'B', 'C', 'D', 'E', 'F'], aiSeen: [true, true, false, false, false, false]};
+  const done = stepPractice(mid, result, 9, mid.inputLog, new Date('2026-11-24T11:00:00Z'));
+  assert.equal(done.status, 'finished');
+  assert.equal(done.turns, 9);
+  assert.deepEqual(parsePractice(JSON.stringify(done)), done);
+  // Practice lives under its own key, so the daily save never sees it.
+  assert.deepEqual(parseSave(JSON.stringify(done)), emptySave());
 });
 
 console.log(`daily-check: ${passed} groups passed`);
