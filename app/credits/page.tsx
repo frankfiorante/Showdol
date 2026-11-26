@@ -48,6 +48,17 @@ export default function Credits() {
           <a href="/third-party-licenses.txt">third-party licenses</a>.
         </p>
       </section>
+
+      <section className="card" id="privacy">
+        <h2 className="card-title">Privacy</h2>
+        <p className="small">
+          Showdol has no accounts and sets no cookies. Your games and stats are saved only in your browser&apos;s
+          local storage and never leave your device. We use Cloudflare Web Analytics, which counts page views without
+          cookies or tracking you across sites. The site is hosted on Cloudflare, which processes basic request data
+          such as IP addresses to serve it. See{' '}
+          <a href="https://www.cloudflare.com/privacypolicy/" rel="noopener noreferrer">Cloudflare&apos;s privacy policy</a>.
+        </p>
+      </section>
       <Footer />
     </main>
   );
