@@ -196,6 +196,7 @@ export class BattleSession {
         boosts: p.isActive ? nonZero(p.boosts) : {},
         volatiles: p.isActive && known ? volatiles(known) : [],
         item: p.item ? Dex.items.get(p.item).name : undefined,
+        lostItem: p.item || !known ? undefined : lostItem(known),
         ability: Dex.abilities.get(p.ability).name,
         moves: p.baseMoveSlots.map(m => m.move),
         moveDetails: p.moveSlots.map(m => ({name: m.move, type: Dex.moves.get(m.id).type, pp: m.pp, maxpp: m.maxpp})),
@@ -232,6 +233,7 @@ export class BattleSession {
         boosts: nonZero(p.boosts as Record<string, number>),
         volatiles: volatiles(p),
         item,
+        lostItem: item ? undefined : lostItem(p),
         ability,
         moves: p.moveSlots.map(m => m.name),
         moveDetails: p.moveSlots.map(m => ({name: m.name, type: Dex.moves.get(m.id).type})),
@@ -350,6 +352,13 @@ function itemName(id: string) {
   if (plain.exists) return plain.name;
   const stripped = Dex.items.get(id.replace(/^item/, ''));
   return stripped.exists ? stripped.name : undefined;
+}
+
+/** "Life Orb (knocked off)" for an item the client saw it lose, if it holds nothing now. */
+function lostItem(p: ClientPokemon) {
+  if (p.item) return undefined;
+  const name = itemName(p.lastItem);
+  return name && `${name} (${p.lastItemEffect || 'lost'})`;
 }
 
 function abilityName(id: string) {

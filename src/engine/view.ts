@@ -19,7 +19,10 @@ export interface PokemonView {
   boosts: Record<string, number>;
   /** Volatile conditions worth showing (confusion, substitute, ...). */
   volatiles: string[];
+  /** The item it holds now. */
   item?: string;
+  /** An item it held and lost, with how: "Life Orb (knocked off)". Only when it holds nothing now. */
+  lostItem?: string;
   ability?: string;
   /** Known move names (all for the player, revealed ones for the foe). */
   moves: string[];

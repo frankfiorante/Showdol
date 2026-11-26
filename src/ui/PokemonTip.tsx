@@ -48,7 +48,7 @@ function OwnDetails({p}: {p: PokemonView}) {
   return (
     <>
       <Line label="Ability:">{p.ability ?? '—'}</Line>
-      <Line label="Item:">{p.item ?? 'None'}</Line>
+      <Line label="Item:">{p.item ?? p.lostItem ?? 'None'}</Line>
       {p.stats && (
         <div className="tip-stats">
           {STAT_LABELS.map(([key, label]) => {
@@ -78,7 +78,7 @@ function FoeDetails({p}: {p: PokemonView}) {
       ) : p.possibleAbilities?.length ? (
         <Line label={p.possibleAbilities.length === 1 ? 'Possible ability:' : 'Possible abilities:'}>{p.possibleAbilities.join(', ')}</Line>
       ) : null}
-      <Line label="Item:">{p.item ?? <span className="muted">unknown</span>}</Line>
+      <Line label="Item:">{p.item ?? p.lostItem ?? <span className="muted">unknown</span>}</Line>
       {s && (
         <Line label="Spe">
           {range(s.min, s.max)} <span className="muted small">(before items/abilities/modifiers)</span>
