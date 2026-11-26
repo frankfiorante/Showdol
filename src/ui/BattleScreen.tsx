@@ -5,6 +5,7 @@ import type {BattleResult, BattleView, MoveOption, PokemonView, SideView} from '
 import {STATUS_LABELS, TYPE_COLORS, boostLabel, hpColor, hpPercent, typeStyle} from './format';
 import {Sprite} from './Sprite';
 import {WithPokemonTip} from './PokemonTip';
+import {WithMoveTip} from './MoveTip';
 import {ShareButton} from './ShareButton';
 import {shareText} from '@/game/share';
 
@@ -224,8 +225,10 @@ function Controls({view, pending, notice, onChoose, onForfeit}: {
         <>
           <div className="moves">
             {prompt.moves.map(m => (
-              <MoveButton key={m.slot} move={m} disabled={disabled || m.disabled}
-                onClick={() => onChoose(`move ${m.slot}${tera ? ' terastallize' : ''}`)} />
+              <WithMoveTip key={m.slot} move={m}>
+                <MoveButton move={m} disabled={disabled || m.disabled}
+                  onClick={() => onChoose(`move ${m.slot}${tera ? ' terastallize' : ''}`)} />
+              </WithMoveTip>
             ))}
           </div>
           {prompt.canTera && (
@@ -289,8 +292,7 @@ function MoveButton({move, disabled, onClick}: {move: MoveOption; disabled: bool
   const meta = move.category === 'Status' ? 'Status' : `${move.category === 'Physical' ? 'Phys' : 'Spec'} ${move.basePower || '—'}`;
   const eff = move.effectiveness === undefined ? undefined : EFFECTIVENESS[move.effectiveness];
   return (
-    <button className="move" disabled={disabled} onClick={onClick} style={{borderColor: TYPE_COLORS[move.type]}}
-      title={`${move.name}: ${move.type}, ${move.category}${move.basePower ? `, ${move.basePower} power` : ''}, ${move.pp}/${move.maxpp} PP`}>
+    <button className="move" disabled={disabled} onClick={onClick} style={{borderColor: TYPE_COLORS[move.type]}}>
       <span className="move-top">
         <span className="move-name">{move.name}</span>
         <span className="muted small pp">{move.pp}/{move.maxpp}</span>

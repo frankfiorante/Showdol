@@ -260,6 +260,12 @@ textarea.code { margin: 8px 0; }
 .tip-trigger[role="button"]:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .switches > .tip-trigger { display: block; min-width: 0; }
 .switches > .tip-trigger > button { width: 100%; height: 100%; }
+.moves > .tip-trigger { display: block; min-width: 0; }
+.moves > .tip-trigger > button { width: 100%; height: 100%; }
+.tip-section { margin: 6px 0 0; border-top: 1px solid var(--border); padding-top: 6px; }
+.tip-flags { list-style: none; margin: 6px 0 0; padding: 0; color: var(--muted); font-size: 12px; }
+.category { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; padding: 1px 6px; border-radius: 4px; color: #fff; }
+.category.physical { background: #c92112; } .category.special { background: #4f5870; } .category.status { background: #8c888c; }
 .tooltip {
   position: fixed; z-index: 20; width: max-content; max-width: min(320px, calc(100vw - 16px));
   background: var(--card); color: var(--fg); border: 1px solid var(--border); border-radius: 10px;

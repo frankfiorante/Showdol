@@ -59,6 +59,12 @@ export interface MoveOption {
   pp: number;
   maxpp: number;
   disabled: boolean;
+  /** Move priority (0 for most moves). */
+  priority: number;
+  /** What the move does, from the sim's text data. */
+  desc: string;
+  /** Showdown-style flag notes, e.g. "Contact", "Sound", "Not blocked by Protect". */
+  flags: string[];
   /**
    * Type effectiveness against the foe's active Pokémon from its known types
    * (0, 0.25, 0.5, 1, 2, 4). Abilities aren't considered. Absent for status moves.

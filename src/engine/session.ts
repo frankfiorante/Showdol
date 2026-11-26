@@ -297,6 +297,9 @@ export class BattleSession {
         pp: m.pp ?? 0,
         maxpp: m.maxpp ?? 0,
         disabled: !!m.disabled,
+        priority: move.priority,
+        desc: move.shortDesc || move.desc,
+        flags: moveFlags(move),
         effectiveness: move.category === 'Status' || !foeTypes.length ? undefined : effectiveness(move.type, foeTypes),
       };
     });
@@ -384,6 +387,26 @@ function foeSpeed(p: ClientPokemon, item: string | undefined, tailwind: boolean,
   return mult !== 1
     ? {min, max, modifiedMin: Math.floor(min * mult), modifiedMax: Math.floor(max * mult), modifiers}
     : {min, max, modifiers};
+}
+
+/** The flag notes Showdown's move tooltip lists. */
+function moveFlags(move: ReturnType<typeof Dex.moves.get>): string[] {
+  const f = move.flags;
+  const notes: string[] = [];
+  if (f.contact) notes.push('Contact');
+  if (f.sound) notes.push('Sound');
+  if (f.powder) notes.push('Powder');
+  if (f.punch) notes.push('Punch');
+  if (f.slicing) notes.push('Slicing');
+  if (f.pulse) notes.push('Pulse');
+  if (f.bite) notes.push('Bite');
+  if (f.bullet) notes.push('Bullet');
+  if (f.wind) notes.push('Wind');
+  const hitsTarget = !['self', 'allySide', 'foeSide', 'all', 'allies', 'allyTeam'].includes(move.target);
+  if (hitsTarget && !f.protect) notes.push('Not blocked by Protect');
+  if (hitsTarget && f.bypasssub && !f.sound) notes.push('Bypasses Substitute');
+  if (f.reflectable) notes.push('Bounceable (Magic Bounce / Magic Coat)');
+  return notes;
 }
 
 /** Type-chart multiplier only: what the player could work out from the types shown. */
