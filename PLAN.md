@@ -308,5 +308,5 @@ None of these block Phase 0.
 
 - [x] Domain: `showdol.com`
 - [x] Practice mode: unlimited games that don't count, with random teams instead of past puzzles
-- [ ] Turn timer: add a per-move timer, or let players think as long as they want?
+- [x] Turn timer: none. Players face the AI, not each other, so taking as long as they want slows no one down
 - [x] Launch date: 2026-11-25 is puzzle #1
