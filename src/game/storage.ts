@@ -28,6 +28,8 @@ export interface GameRecord {
   aiRemaining?: number;
   /** The AI's full team, saved at the end for the result screen. */
   aiTeam?: string[];
+  /** Per aiTeam entry: seen during the battle. A loss only shows these. */
+  aiSeen?: boolean[];
   forfeited?: boolean;
   /** Left unfinished past the next day's midnight; counted as a loss. */
   abandoned?: boolean;
@@ -128,6 +130,7 @@ export function finishRecord(rec: GameRecord, result: BattleResult, inputLog: st
     myFainted: result.myFainted,
     aiRemaining: result.aiRemaining,
     aiTeam: result.aiTeam,
+    aiSeen: result.aiSeen,
     forfeited: result.forfeited,
     finishedAt: now.toISOString(),
   };

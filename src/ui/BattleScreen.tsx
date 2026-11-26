@@ -309,15 +309,18 @@ function MoveButton({move, disabled, onClick}: {move: MoveOption; disabled: bool
   );
 }
 
-export function ResultSummary({won, turns, myFainted, aiRemaining, forfeited, aiTeam, par}: {
+export function ResultSummary({won, turns, myFainted, aiRemaining, forfeited, aiTeam, aiSeen, par}: {
   won: boolean;
   turns?: number;
   myFainted?: boolean[];
   aiRemaining?: number;
   forfeited?: boolean;
   aiTeam?: string[];
+  aiSeen?: boolean[];
   par?: Par;
 }) {
+  // After a loss, Pokémon never sent out stay hidden. Older records without aiSeen show everything.
+  const hidden = (i: number) => !won && aiSeen !== undefined && !aiSeen[i];
   const left = myFainted ? myFainted.filter(f => !f).length : undefined;
   const mine = left !== undefined && turns !== undefined ? {left, turns} : undefined;
   const verdict = won && par && mine ? parVerdict(mine, par) : undefined;
@@ -339,7 +342,7 @@ export function ResultSummary({won, turns, myFainted, aiRemaining, forfeited, ai
       ) : (
         <>
           <p className="muted">
-            {turns !== undefined && `${turns} turns`}
+            {turns !== undefined && `${turns} ${turns === 1 ? 'turn' : 'turns'}`}
             {!won && (forfeited ? ' · forfeit' : aiRemaining !== undefined ? ` · opponent had ${aiRemaining} Pokémon remaining` : '')}
           </p>
           {par && <p className="muted small">Par was {formatPar(par)}</p>}
@@ -349,7 +352,12 @@ export function ResultSummary({won, turns, myFainted, aiRemaining, forfeited, ai
         <div className="reveal-team">
           <p className="muted small">Opponent&apos;s team</p>
           <div className="sprite-row">
-            {aiTeam.map(s => (
+            {aiTeam.map((s, i) => hidden(i) ? (
+              <figure key={s} aria-label="Not seen">
+                <span className="unseen" aria-hidden>?</span>
+                <figcaption className="tiny muted">Not seen</figcaption>
+              </figure>
+            ) : (
               <figure key={s}>
                 <Sprite species={s} size={64} />
                 <figcaption className="tiny">{s}</figcaption>

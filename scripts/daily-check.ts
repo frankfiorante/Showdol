@@ -116,8 +116,10 @@ await test('finishRecord', () => {
   const done = finishRecord(rec(), {
     winner: 'tie', turns: 1000, myFainted: [true, false, true, true, true, true],
     aiRemaining: 2, forfeited: false, aiTeam: ['A', 'B', 'C', 'D', 'E', 'F'],
+    aiSeen: [true, true, false, true, false, false],
   }, ['>p1 move 1'], new Date('2026-11-24T12:00:00Z'));
   assert.equal(done.status, 'lost');
+  assert.deepEqual(done.aiSeen, [true, true, false, true, false, false]);
   assert.equal(done.turns, 1000);
   assert.deepEqual(done.inputLog, ['>p1 move 1']);
   assert.equal(done.finishedAt, '2026-11-24T12:00:00.000Z');

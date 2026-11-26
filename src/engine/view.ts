@@ -98,6 +98,8 @@ export interface BattleResult {
   forfeited: boolean;
   /** The AI's full team, revealed at the end. */
   aiTeam: string[];
+  /** Per aiTeam entry: whether the player saw it during the battle. */
+  aiSeen: boolean[];
 }
 
 export interface SideView {

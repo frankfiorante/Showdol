@@ -315,6 +315,9 @@ export class BattleSession {
 
   private result(): BattleResult {
     const [me, ai] = this.sim.sides;
+    // Match on base species so forme changes (Mimikyu-Busted, Ogerpon's Tera forms) still count as seen.
+    const base = (name: string) => Dex.species.get(name).baseSpecies;
+    const seen = new Set(this.client.p2.team.map(p => base(p.speciesForme)));
     return {
       winner: this.sim.winner === PLAYER ? 'player' : this.sim.winner === AI ? 'ai' : 'tie',
       turns: this.sim.turn,
@@ -323,6 +326,7 @@ export class BattleSession {
       forfeited: this.forfeited,
       // Safe to reveal once the battle is over.
       aiTeam: ai.team.map(set => Dex.species.get(set.species).name),
+      aiSeen: ai.team.map(set => seen.has(base(set.species))),
     };
   }
 }

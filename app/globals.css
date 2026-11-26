@@ -172,6 +172,10 @@ button.switch.is-fainted .sprite { filter: grayscale(1); opacity: .5; }
 .reveal-team p { margin: 8px 0 4px; }
 .sprite-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; justify-items: center; }
 .sprite-row figure { margin: 0; display: flex; flex-direction: column; align-items: center; }
+.sprite-row .unseen {
+  display: grid; place-items: center; width: 48px; height: 48px; margin: 8px;
+  border: 1px dashed var(--border); border-radius: 12px; color: var(--muted); font-weight: 700; font-size: 18px;
+}
 .result > button { margin-top: 12px; }
 .par-verdict { font-weight: 700; margin: 4px 0; }
 .par-verdict.beat { color: var(--accent); }

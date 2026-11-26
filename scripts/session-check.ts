@@ -107,6 +107,9 @@ for (let i = 0; i < n; i++) {
   if (resumed.log.join("\n") !== s.log.join("\n")) { const k = s.log.findIndex((l, j) => l !== resumed.log[j]); fail(`resumed formatted log diverged in battle ${i} at ${k}: ${JSON.stringify(s.log.slice(k - 2, k + 2))} vs ${JSON.stringify(resumed.log.slice(k - 2, k + 2))}`); }
   if (JSON.stringify(rstep.view.result) !== JSON.stringify(r)) fail(`resumed result differs in battle ${i}`);
   if (r.aiTeam.length !== 6) fail('aiTeam not revealed at end');
+  if (r.aiSeen.length !== 6) fail('aiSeen not 6');
+  if (r.winner === 'player' && !r.aiSeen.every(Boolean)) fail(`won without seeing every foe: ${r.aiTeam.filter((_, j) => !r.aiSeen[j])}`);
+  if (r.winner === 'ai' && !r.forfeited && !r.aiSeen.some(Boolean)) fail('lost without seeing any foe');
 
   if (print && i === 0) console.log(s.log.join('\n'), '\n');
 }
