@@ -7,7 +7,7 @@
 import assert from 'node:assert/strict';
 import {addDays, dateKey, daysBetween, formatCountdown, LAUNCH_DATE, msUntilMidnight, puzzleNumber} from '@/game/daily';
 import {expireAbandoned, homeState} from '@/game/lock';
-import {emptySave, finishRecord, parseSave, type GameRecord, type SaveData} from '@/game/storage';
+import {BACKUP_KEY_PREFIX, classifySave, emptySave, finishRecord, parseSave, STORAGE_KEY, writeSave, type GameRecord, type SaveData} from '@/game/storage';
 import {computeStats} from '@/game/stats';
 import {shareText} from '@/game/share';
 import {compareResults, parFromWins, parVerdict} from '@/game/par';
@@ -79,6 +79,78 @@ await test('parseSave tolerates garbage and drops malformed records', () => {
   assert.deepEqual(Object.keys(parsed.games), ['2026-11-24']);
   assert.equal(parsed.settings.logExpanded, false);
   assert.equal(parsed.settings.animations, true);
+});
+
+await test('classifySave tells current, newer and unreadable saves apart', () => {
+  assert.equal(classifySave(null), 'empty');
+  assert.equal(classifySave(''), 'empty');
+  assert.equal(classifySave(JSON.stringify(emptySave())), 'current');
+  assert.equal(classifySave(JSON.stringify({games: {}, schemaVersion: 1})), 'current');
+  assert.equal(classifySave(JSON.stringify({schemaVersion: 2, games: {}})), 'newer');
+  assert.equal(classifySave(JSON.stringify({games: {}, schemaVersion: 7})), 'newer');
+  assert.equal(classifySave('not json'), 'unreadable');
+  assert.equal(classifySave('[]'), 'unreadable');
+  assert.equal(classifySave(JSON.stringify({schemaVersion: 0})), 'unreadable');
+  assert.equal(classifySave(JSON.stringify({schemaVersion: '2'})), 'unreadable');
+  assert.equal(classifySave(JSON.stringify({games: {}})), 'unreadable');
+});
+
+await test('writeSave never overwrites a save it cannot read', () => {
+  const store = new Map<string, string>();
+  let full = false;
+  const fake = {
+    getItem: (k: string) => store.get(k) ?? null,
+    setItem: (k: string, v: string) => {
+      if (full) throw new Error('QuotaExceededError');
+      store.set(k, v);
+    },
+  };
+  const g = globalThis as {localStorage?: unknown};
+  const had = 'localStorage' in g;
+  const original = g.localStorage;
+  g.localStorage = fake;
+  try {
+    const mine = save({'2026-11-25': rec()});
+    const backups = () => [...store.keys()].filter(k => k.startsWith(BACKUP_KEY_PREFIX));
+
+    // Nothing stored, or a current save: plain write.
+    assert.equal(writeSave(mine), 'ok');
+    assert.equal(writeSave(mine), 'ok');
+    assert.deepEqual(backups(), []);
+
+    // A newer version's save is left alone.
+    const newer = JSON.stringify({schemaVersion: 2, games: {'2026-11-25': {kept: true}}});
+    store.set(STORAGE_KEY, newer);
+    assert.equal(writeSave(mine), 'newer');
+    assert.equal(store.get(STORAGE_KEY), newer);
+
+    // Unreadable data is backed up before it's replaced.
+    store.set(STORAGE_KEY, '{"games": broken');
+    assert.equal(writeSave(mine), 'ok');
+    assert.equal(backups().length, 1);
+    assert.equal(store.get(backups()[0]), '{"games": broken');
+    assert.deepEqual(parseSave(store.get(STORAGE_KEY) ?? null), mine);
+
+    // If the backup can't be written, neither is the save.
+    store.clear();
+    store.set(STORAGE_KEY, 'garbage');
+    full = true;
+    assert.equal(writeSave(mine), 'blocked');
+    assert.equal(store.get(STORAGE_KEY), 'garbage');
+  } finally {
+    if (had) g.localStorage = original;
+    else delete g.localStorage;
+  }
+});
+
+await test('decodeSave refuses a code from a newer version', async () => {
+  const code = await encodeSave(save({'2026-11-25': rec({status: 'won', finishedAt: '2026-11-25T11:00:00.000Z'})}));
+  assert.equal((await decodeSave(code)).schemaVersion, 1);
+  // Rebuild the same code with a newer schemaVersion.
+  const json = JSON.stringify({schemaVersion: 2, games: {}});
+  const deflated = await new Response(new Blob([json]).stream().pipeThrough(new CompressionStream('deflate-raw'))).arrayBuffer();
+  const b64 = Buffer.from(deflated).toString('base64url');
+  await assert.rejects(decodeSave(code.slice(0, code.indexOf('-') + 1) + b64), (e: unknown) => e instanceof TransferError && /newer version/.test(e.message));
 });
 
 await test('home: play, resume, done, before launch', () => {

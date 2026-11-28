@@ -2,7 +2,7 @@
  * Moving stats between devices without a backend: the save JSON, compressed
  * (deflate) and base64url-encoded behind a short prefix.
  */
-import {parseSave, type GameRecord, type SaveData} from './storage';
+import {classifySave, parseSave, type GameRecord, type SaveData} from '@/game/storage';
 
 const PREFIX = 'SHOWDOL1-';
 
@@ -46,6 +46,7 @@ export async function decodeSave(code: string): Promise<SaveData> {
   } catch {
     throw new TransferError('That code is incomplete or damaged.');
   }
+  if (classifySave(json) === 'newer') throw new TransferError('That code is from a newer version of Showdol. Reload the page and try again.');
   const save = parseSave(json);
   if (!Object.keys(save.games).length) throw new TransferError('That code has no games in it.');
   return save;

@@ -7,6 +7,8 @@ import type {BattleResult} from '@/engine/view';
 import {readPar, type Par} from '@/game/par';
 
 export const STORAGE_KEY = 'showdol:v1';
+/** Unreadable saves are copied here (plus a timestamp) before anything overwrites them. */
+export const BACKUP_KEY_PREFIX = 'showdol:v1:backup:';
 export const SCHEMA_VERSION = 1;
 
 export type GameStatus = 'in_progress' | 'won' | 'lost';
@@ -86,6 +88,7 @@ export function parseSave(raw: string | null): SaveData {
   if (!data || typeof data !== 'object') return emptySave();
   const d = data as Partial<SaveData>;
   // Future schema versions add migrations here, keyed on d.schemaVersion.
+  // Anything else reads as empty, and writeSave keeps it from being overwritten.
   if (d.schemaVersion !== SCHEMA_VERSION) return emptySave();
   const games: Record<string, GameRecord> = {};
   for (const [key, rec] of Object.entries(d.games ?? {})) {
@@ -110,13 +113,61 @@ export function loadSave(): SaveData {
   }
 }
 
-/** Returns false if the browser refused the write. */
-export function writeSave(data: SaveData): boolean {
+/**
+ * What a stored save (or an export code's JSON) holds: nothing, a save this
+ * code reads, a save from a newer version of Showdol, or something unreadable.
+ */
+export type SaveKind = 'empty' | 'current' | 'newer' | 'unreadable';
+
+export function classifySave(raw: string | null): SaveKind {
+  if (!raw) return 'empty';
+  const v = schemaVersionOf(raw);
+  if (v === SCHEMA_VERSION) return 'current';
+  return Number.isInteger(v) && (v as number) > SCHEMA_VERSION ? 'newer' : 'unreadable';
+}
+
+function schemaVersionOf(raw: string): unknown {
+  // Saves are written with schemaVersion as the first key, so most checks skip a full parse.
+  const m = /^\{"schemaVersion":(\d+)[,}]/.exec(raw);
+  if (m) return Number(m[1]);
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
-    return true;
+    const d: unknown = JSON.parse(raw);
+    return d && typeof d === 'object' && !Array.isArray(d) ? (d as {schemaVersion?: unknown}).schemaVersion : undefined;
+  } catch {
+    return undefined;
+  }
+}
+
+/** True if a newer version of Showdol (another tab, or before a rollback) saved here. */
+export function newerSaveStored(): boolean {
+  try {
+    return classifySave(localStorage.getItem(STORAGE_KEY)) === 'newer';
   } catch {
     return false;
+  }
+}
+
+/**
+ * `ok`, `blocked` (the browser refused the write) or `newer` (refused so a
+ * newer version's save isn't lost).
+ */
+export type SaveWrite = 'ok' | 'blocked' | 'newer';
+
+/**
+ * Never destroys a save it can't read. A newer version's save is left alone
+ * and the write is refused. Anything else unreadable is copied to a backup key
+ * first, and if that copy fails, the write is refused too.
+ */
+export function writeSave(data: SaveData): SaveWrite {
+  try {
+    const stored = localStorage.getItem(STORAGE_KEY);
+    const kind = classifySave(stored);
+    if (kind === 'newer') return 'newer';
+    if (kind === 'unreadable') localStorage.setItem(`${BACKUP_KEY_PREFIX}${new Date().toISOString()}`, stored!);
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+    return 'ok';
+  } catch {
+    return 'blocked';
   }
 }
 

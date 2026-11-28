@@ -10,7 +10,7 @@ import type {BattleView} from '@/engine/view';
 import {formatPar} from '@/game/par';
 import {dateKey, formatCountdown, msUntilMidnight, puzzleNumber} from '@/game/daily';
 import {expireAbandoned, homeState, type HomeState} from '@/game/lock';
-import {finishRecord, loadSave, writeSave, type GameRecord, type SaveData} from '@/game/storage';
+import {finishRecord, loadSave, newerSaveStored, writeSave, type GameRecord, type SaveData, type SaveWrite} from '@/game/storage';
 import {BattleScreen, ResultSummary} from '@/ui/BattleScreen';
 import {Sprite} from '@/ui/Sprite';
 import {viewFromSet, WithPokemonTip} from '@/ui/PokemonTip';
@@ -45,17 +45,18 @@ export default function Home() {
   const [save, setSave] = useState<SaveData | null>(null);
   /** Date of the game open in the battle screen, if any. */
   const [openDate, setOpenDate] = useState<string | null>(null);
-  const [storageOk, setStorageOk] = useState(true);
+  const [storage, setStorage] = useState<SaveWrite>('ok');
   const today = now ? dateKey(now) : null;
 
   const commit = useCallback((next: SaveData) => {
     setSave(next);
-    setStorageOk(writeSave(next));
+    setStorage(writeSave(next));
   }, []);
 
   // Load once, then expire abandoned games whenever the day changes (not mid-battle).
   useEffect(() => {
     if (!today || openDate) return;
+    if (!save && newerSaveStored()) setStorage('newer');
     const current = save ?? loadSave();
     const expired = expireAbandoned(current, today, new Date());
     if (expired) commit(expired);
@@ -194,8 +195,11 @@ export default function Home() {
   return (
     <main>
       <Nav />
-      {!storageOk && (
+      {storage === 'blocked' && (
         <p className="notice small">This browser isn&apos;t saving progress (private mode or storage blocked).</p>
+      )}
+      {storage === 'newer' && (
+        <p className="notice small">A newer version of Showdol saved your games. Reload the page to see them and keep saving.</p>
       )}
       <HomeCard home={home} puzzle={loadedPuzzle} puzzleError={puzzle instanceof Error ? puzzle.message : null}
         loading={!!openDate || battle.pending} countdown={countdown} firstTime={!Object.keys(save.games).length}

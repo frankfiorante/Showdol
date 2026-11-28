@@ -51,7 +51,7 @@ Players everywhere share the same puzzle each day, and games resume by replaying
 - **Published puzzle files.** Don't edit, regenerate or reformat anything in `public/puzzles/`. `gen:puzzle` refuses to rewrite an existing day without `--force`. Don't use `--force` in a pull request.
 - **`@pkmn/sim` and `@pkmn/randoms` versions.** They're pinned on purpose. Upgrading either one changes the teams a seed generates and can break replaying games in progress. Please don't open upgrade PRs for them; I upgrade them by hand between batches of generated days.
 - **Seeds and dates.** The seed derivation in `scripts/gen-puzzle.ts` and `LAUNCH_DATE` in `src/game/daily.ts` decide every day's teams and puzzle number.
-- **The save format.** Everything lives in localStorage under `showdol:v1` (`src/game/storage.ts`). An unrecognized schema version currently loads as an empty save, so changing the format without a migration would wipe everyone's stats. Old `SHOWDOL1-` export codes must keep importing.
+- **The save format.** Everything lives in localStorage under `showdol:v1` (`src/game/storage.ts`). Changing the format means bumping `SCHEMA_VERSION` and adding a migration in `parseSave`. Older code refuses to overwrite a newer save, and backs up anything it can't read before writing, so a mistake shows up as missing stats rather than lost ones. Still, a bad migration is the easiest way to lose players' history. Old `SHOWDOL1-` export codes must keep importing.
 - **What the player can see.** The UI only gets the player's side of the battle. Don't show the opponent's hidden sets, items or HP numbers.
 
 ## Changing the AI

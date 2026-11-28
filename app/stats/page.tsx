@@ -3,15 +3,17 @@
 import {useEffect, useState} from 'react';
 import {dateKey} from '@/game/daily';
 import {computeStats, pokemonLeft} from '@/game/stats';
-import {loadSave, writeSave, type SaveData} from '@/game/storage';
+import {loadSave, newerSaveStored, writeSave, type SaveData} from '@/game/storage';
 import {decodeSave, encodeSave, mergeSaves, TransferError} from '@/game/transfer';
 import {Footer, Nav} from '@/ui/Nav';
 
 export default function StatsPage() {
   const [save, setSave] = useState<SaveData | null>(null);
   const [today, setToday] = useState<string | null>(null);
+  const [newer, setNewer] = useState(false);
 
   useEffect(() => {
+    setNewer(newerSaveStored());
     setSave(loadSave());
     setToday(dateKey(new Date()));
   }, []);
@@ -20,6 +22,7 @@ export default function StatsPage() {
     <main>
       <Nav />
       <h1 className="page-title">Stats</h1>
+      {newer && <p className="notice small">A newer version of Showdol saved your games. Reload the page to see them.</p>}
       {save && today ? <StatsBody save={save} today={today} /> : <p className="muted">Loading…</p>}
       {save && <Transfer save={save} onImported={setSave} />}
       <Footer />
@@ -114,7 +117,9 @@ function Transfer({save, onImported}: {save: SaveData; onImported: (s: SaveData)
       const incoming = await decodeSave(input);
       // Merge into the freshest copy in case another tab saved meanwhile.
       const {save: merged, added, replaced} = mergeSaves(loadSave(), incoming);
-      if (!writeSave(merged)) throw new TransferError("This browser isn't saving data (private mode?).");
+      const written = writeSave(merged);
+      if (written === 'newer') throw new TransferError('A newer version of Showdol saved your games. Reload the page and try again.');
+      if (written === 'blocked') throw new TransferError("This browser isn't saving data (private mode?).");
       onImported(merged);
       setInput('');
       setMessage({text: added || replaced ? `Imported ${added} new day${added === 1 ? '' : 's'}${replaced ? `, updated ${replaced}` : ''}.` : 'Nothing new: this device already has those games.'});
