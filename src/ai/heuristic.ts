@@ -64,6 +64,8 @@ const REMOVAL = new Set(['defog', 'rapidspin', 'mortalspin', 'tidyup', 'courtcha
 const PIVOTS = new Set(['uturn', 'voltswitch', 'flipturn', 'partingshot', 'teleport', 'chillyreception', 'shedtail']);
 const SCREENS = new Set(['reflect', 'lightscreen', 'auroraveil']);
 const SELF_DESTRUCT = new Set(['explosion', 'selfdestruct', 'mistyexplosion', 'finalgambit', 'memento', 'healingwish', 'lunardance']);
+/** Move targets that aim at the foe's Pokémon (not its side of the field). */
+const AT_FOE = new Set(['normal', 'any', 'adjacentFoe', 'allAdjacentFoes', 'allAdjacent', 'randomNormal']);
 
 export function heuristicOpponent(w: AIWeights = DEFAULT_WEIGHTS): Opponent {
   return {
@@ -234,6 +236,8 @@ class Evaluator {
     const hp = this.hpFrac(self);
     const doomed = likelyKOd ? 0.4 : 1;
 
+    if (this.statusFails(move)) return -50;
+
     // Inflicting a major status.
     if (move.status && move.target !== 'self') {
       if (target.status || target.volatiles.substitute || !this.canStatus(target, move.status, move)) return -20;
@@ -291,6 +295,18 @@ class Evaluator {
     if (['taunt', 'encore', 'trick', 'switcheroo', 'destinybond', 'painsplit', 'leechseed'].includes(move.id)) return 20 * doomed;
     if (PIVOTS.has(move.id)) return 20;
     return 10 * doomed;
+  }
+
+  /**
+   * True if a status move aimed at the foe fails outright: Prankster-boosted
+   * into a Dark type, into Good as Gold, or bounced back by Magic Bounce.
+   */
+  private statusFails(move: {target: string; flags: {reflectable?: 1}}) {
+    if (!AT_FOE.has(move.target)) return false;
+    const target = this.target!;
+    if (this.self.hasAbility('prankster') && !this.battle.dex.getImmunity('prankster', target)) return true;
+    const ability = target.getAbility().id;
+    return ability === 'goodasgold' || (ability === 'magicbounce' && !!move.flags.reflectable);
   }
 
   private canStatus(target: Pokemon, status: string, move: {flags: {powder?: 1}; type: string}) {
