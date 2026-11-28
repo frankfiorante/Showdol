@@ -237,7 +237,7 @@ export class BattleSession {
         lostItem: item ? undefined : lostItem(p),
         ability,
         moves: p.moveSlots.map(m => m.name),
-        moveDetails: p.moveSlots.map(m => ({name: m.name, type: Dex.moves.get(m.id).type})),
+        moveDetails: p.moveSlots.map(m => ({name: m.name, type: Dex.moves.get(m.id).type, ...foePP(m)})),
         terastallized: p.terastallized,
         possibleAbilities: ability ? undefined : target ? [target.getAbility().name] : hintFor(species)?.abilities,
         transformed,
@@ -337,6 +337,18 @@ export class BattleSession {
  */
 function withoutIllusionGhosts(team: ClientPokemon[]): ClientPokemon[] {
   return team.filter((p, i) => !team.slice(i + 1).some(q => q.name === p.name));
+}
+
+/**
+ * A foe move's PP from what the player has seen it use. Random Battle sets
+ * have max PP Ups; moves copied by Transform have 5 PP. (The client only
+ * tracks a range of PP used in Gen 3, where Pressure can go unannounced.)
+ */
+function foePP(m: ClientPokemon['moveSlots'][number]): {pp: number; maxpp: number} {
+  const move = Dex.moves.get(m.id);
+  const maxpp = m.virtual ? 5 : move.pp === 1 || move.noPPBoosts ? move.pp : move.pp * 8 / 5;
+  const used = typeof m.ppUsed === 'number' ? m.ppUsed : m.ppUsed[0];
+  return {pp: Math.max(0, maxpp - used), maxpp};
 }
 
 /**

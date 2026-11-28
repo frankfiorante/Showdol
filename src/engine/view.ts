@@ -29,7 +29,7 @@ export interface PokemonView {
   teraType?: string;
   terastallized?: string;
   stats?: Record<string, number>;
-  /** The player's moves with remaining PP; the foe's revealed moves (no PP). */
+  /** The player's moves with remaining PP; the foe's revealed moves with PP left from what the player has seen. */
   moveDetails?: {name: string; type: string; pp?: number; maxpp?: number}[];
   /** Foe only, while its ability is unrevealed: what its Random Battle sets can have. */
   possibleAbilities?: string[];

@@ -181,13 +181,16 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+patchedDependencies:
+  '@pkmn/client@0.7.4': 47a19a1d133926696c72ea9293efee28adf64208cee2746b6d69a1cefd4f29bd
+
 importers:
 
   .:
     dependencies:
       '@pkmn/client':
         specifier: 0.7.4
-        version: 0.7.4
+        version: 0.7.4(patch_hash=47a19a1d133926696c72ea9293efee28adf64208cee2746b6d69a1cefd4f29bd)
       '@pkmn/data':
         specifier: 0.10.15
         version: 0.10.15
@@ -1128,7 +1131,7 @@ snapshots:
   '@next/swc-win32-x64-msvc@16.4.6':
     optional: true
 
-  '@pkmn/client@0.7.4':
+  '@pkmn/client@0.7.4(patch_hash=47a19a1d133926696c72ea9293efee28adf64208cee2746b6d69a1cefd4f29bd)':
     dependencies:
       '@pkmn/data': 0.10.15
       '@pkmn/protocol': 0.7.4

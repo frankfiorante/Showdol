@@ -1,0 +1,26 @@
+diff --git a/build/index.js b/build/index.js
+index f1e821d29aa9a2c3bde4250374019f8e348c6c29..956e77bd949e613e888f214086ea1eeddd037760 100644
+--- a/build/index.js
++++ b/build/index.js
+@@ -1350,7 +1350,7 @@ var Pokemon = class _Pokemon {
+     for (const foe of foes) {
+       const abilities = Object.values(this.side.battle.gen.species.get(foe.speciesForme).abilities);
+       const canHavePressure = this.side.battle.gen.num === 3 && abilities.includes("Pressure");
+-      if (foe.effectiveAbility() === "Pressure" || canHavePressure && abilities.length === 1) {
++      if (foe.effectiveAbility() === "pressure" || canHavePressure && abilities.length === 1) {
+         if (typeof pp === "number") {
+           pp += 1;
+         } else {
+diff --git a/build/index.mjs b/build/index.mjs
+index 32ea6ba2e523ab0e1de923548ed221c712324519..39bc8020f78bf80475cff5b5d1866c93f4e481fc 100644
+--- a/build/index.mjs
++++ b/build/index.mjs
+@@ -1350,7 +1350,7 @@ var Pokemon = class _Pokemon {
+     for (const foe of foes) {
+       const abilities = Object.values(this.side.battle.gen.species.get(foe.speciesForme).abilities);
+       const canHavePressure = this.side.battle.gen.num === 3 && abilities.includes("Pressure");
+-      if (foe.effectiveAbility() === "Pressure" || canHavePressure && abilities.length === 1) {
++      if (foe.effectiveAbility() === "pressure" || canHavePressure && abilities.length === 1) {
+         if (typeof pp === "number") {
+           pp += 1;
+         } else {
