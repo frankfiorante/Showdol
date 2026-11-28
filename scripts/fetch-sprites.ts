@@ -1,6 +1,6 @@
 /**
  * Downloads the Gen 5-style sprites for every Pokémon Gen 9 Random Battle can
- * roll (plus battle-only formes they can change into) and writes an index so
+ * roll (plus the other forms they can appear in or change into) and writes an index so
  * the UI can find a sprite by species name. Files are committed; this only
  * needs rerunning when the randoms package adds species.
  *
@@ -28,17 +28,18 @@ const index = new Map<string, string>();
 const add = (s: Species) => {
   if (!s.exists) return;
   index.set(toID(s.name), s.spriteid);
-  // Cosmetic formes (Vivillon patterns, Florges colors, ...) share the base sprite.
+  // Cosmetic forms (Vivillon patterns, Florges colors, ...) share the base sprite.
   for (const name of s.cosmeticFormes ?? []) index.set(toID(name), s.spriteid);
 };
 for (const id of Object.keys(generator.randomSets)) {
   const species = Dex.species.get(id);
   add(species);
-  // Formes it can change into mid-battle (Palafin-Hero, Mimikyu-Busted, Terapagos-Stellar, ...).
+  // Forms it can change into mid-battle (Palafin-Hero, Mimikyu-Busted, Terapagos-Stellar, ...), and
+  // ones the generator picks at random for a set (Maushold-Four, Pikachu-Alola, Sinistcha-Masterpiece, ...).
   for (const name of species.otherFormes ?? []) {
-    const forme = Dex.species.get(name);
-    // Skip formes Gen 9 can't use (Megas, Primals, ...).
-    if (forme.battleOnly && !forme.isNonstandard) add(forme);
+    const form = Dex.species.get(name);
+    // Skip forms Gen 9 can't use (Megas, Primals, Pikachu-Cosplay, ...).
+    if (!form.isNonstandard) add(form);
   }
 }
 
@@ -77,15 +78,15 @@ await Promise.all(Array.from({length: 4}, async () => {
 }));
 
 const available = new Set(spriteIds.filter(id => existsSync(join(outDir, `${id}.png`))));
-// A forme without its own sprite (e.g. Greninja-Bond) uses its base species' sprite.
+// A form without its own sprite (e.g. Greninja-Bond) uses its base species' sprite.
 const resolve = (name: string, sprite: string) =>
   available.has(sprite) ? sprite : [Dex.species.get(Dex.species.get(name).baseSpecies).spriteid].find(id => available.has(id));
 const out = Object.fromEntries(
   [...index].map(([name, sprite]) => [name, resolve(name, sprite)] as const).filter(([, s]) => s).sort(),
 );
-writeFileSync(join(outDir, 'index.json'), JSON.stringify(out) + '\n');
+writeFileSync(join(outDir, 'index.json'), JSON.stringify(out, null, 2) + '\n');
 
 console.log(`fetched ${fetched} (${(bytes / 1024).toFixed(0)} KB), ${available.size}/${spriteIds.length} available`);
 const noSprite = [...index.keys()].filter(name => !(name in out));
 if (missing.length) console.log(`not on the server: ${missing.join(', ')}`);
-console.log(noSprite.length ? `no sprite at all (UI shows a placeholder): ${noSprite.join(', ')}` : 'every species has a sprite (some formes use their base species)');
+console.log(noSprite.length ? `no sprite at all (UI shows a placeholder): ${noSprite.join(', ')}` : 'every species has a sprite (some forms use their base species)');
