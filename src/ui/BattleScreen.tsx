@@ -1,12 +1,13 @@
 'use client';
 
-import {useEffect, useRef, useState, type ReactNode} from 'react';
-import type {BattleResult, BattleView, MoveOption, PokemonView, SideView} from '@/engine/view';
+import {useEffect, useRef, useState, type CSSProperties, type ReactNode} from 'react';
+import type {BattleResult, BattleView, ConditionView, MoveOption, PokemonView, SideView} from '@/engine/view';
 import {STATUS_LABELS, TYPE_COLORS, boostLabel, hpColor, hpPercent, typeStyle} from './format';
 import {Sprite} from './Sprite';
 import {WithPokemonTip} from './PokemonTip';
 import {WithMoveTip} from './MoveTip';
 import {ShareButton} from './ShareButton';
+import {ConditionBadge, conditionColors, conditionInfo} from './Conditions';
 import {shareText} from '@/game/share';
 import {formatPar, parVerdict, VERDICT_LABEL, type Par} from '@/game/par';
 
@@ -38,7 +39,7 @@ export function BattleScreen(props: Props) {
         <span>{puzzleNumber === undefined ? 'Practice' : `Showdol #${puzzleNumber}`}</span>
         <span className="muted">Turn {view.turn}</span>
       </header>
-      <FieldChips view={view} />
+      <FieldBar view={view} />
       <Stage view={view} />
       <LastTurn lines={latest} />
       {view.result ? (
@@ -52,11 +53,99 @@ export function BattleScreen(props: Props) {
   );
 }
 
-function FieldChips({view}: {view: BattleView}) {
-  const parts = [view.field.weather, view.field.terrain && `${view.field.terrain} Terrain`, ...view.field.pseudoWeather];
-  const items = parts.filter(Boolean) as string[];
-  if (!items.length) return null;
-  return <div className="field-chips">{items.map(t => <span key={t} className="chip">{t}</span>)}</div>;
+/** Weather, terrain and field effects such as Trick Room: they apply to both sides. */
+function FieldBar({view}: {view: BattleView}) {
+  const {weather, terrain, pseudoWeather} = view.field;
+  if (!weather && !terrain && !pseudoWeather.length) return null;
+  return (
+    <div className="field-bar" role="group" aria-label="Field conditions">
+      {weather && <ConditionBadge c={weather} kind="weather" />}
+      {terrain && <ConditionBadge c={terrain} kind="terrain" />}
+      {pseudoWeather.map(c => <ConditionBadge key={c.id} c={c} kind="field" />)}
+    </div>
+  );
+}
+
+/** Field effects with a look of their own on the stage. */
+const ROOM_FX = new Set(['trickroom', 'magicroom', 'wonderroom', 'gravity']);
+
+/** Weather, terrain and rooms painted behind everything on the stage. */
+function StageEffects({field}: {field: BattleView['field']}) {
+  const rooms = field.pseudoWeather.filter(c => ROOM_FX.has(c.id));
+  return (
+    <div className="fx" aria-hidden>
+      {field.terrain && <div className={`fx-layer fx-${field.terrain.id}`} />}
+      {rooms.map(c => <div key={c.id} className={`fx-layer fx-${c.id}`} />)}
+      {field.weather && <div className={`fx-layer fx-${field.weather.id}`} />}
+    </div>
+  );
+}
+
+/** Hazards on the ground, screens in front, and Leech Seed sprouts on the Pokémon. */
+function PlatformEffects({side}: {side: SideView}) {
+  const has = (id: string) => side.conditions.find(c => c.id === id);
+  const layers = (id: string) => {
+    const c = has(id);
+    return c ? c.layers ?? 1 : 0;
+  };
+  const screens = side.conditions.filter(c => conditionInfo(c, 'side').kind === 'screen');
+  const seeded = side.active?.volatiles.some(v => v.id === 'leechseed');
+  const rocks = has('stealthrock') || has('gmaxsteelsurge');
+  return (
+    <>
+      {has('stickyweb') && <StickyWeb />}
+      {(rocks || layers('spikes') > 0 || layers('toxicspikes') > 0) && (
+        <span className="ground-hazards" aria-hidden>
+          {rocks && <Rocks steel={!has('stealthrock')} />}
+          {Array.from({length: layers('spikes')}, (_, i) => <Spike key={`s${i}`} />)}
+          {Array.from({length: layers('toxicspikes')}, (_, i) => <Spike key={`t${i}`} toxic />)}
+          {rocks && <Rocks steel={!has('stealthrock')} flip />}
+        </span>
+      )}
+      {screens.map((c, i) => (
+        <span key={c.id} className="screen-wall" aria-hidden
+          style={{...conditionColors(conditionInfo(c, 'screen').color), '--i': i} as CSSProperties} />
+      ))}
+      {seeded && (
+        <span className="seeded" aria-hidden>
+          <Sprout /><Sprout />
+        </span>
+      )}
+    </>
+  );
+}
+
+function Rocks({steel, flip}: {steel?: boolean; flip?: boolean}) {
+  return (
+    <svg className={`hz-rocks ${steel ? 'steel' : ''} ${flip ? 'flip' : ''}`} width="29" height="20" viewBox="0 0 22 15">
+      <path d="M1 14L4 6.5l3 2.5L10.5 1 14 8.5l2-2L21 14z" />
+      <path d="M10.5 1L9 14M4 6.5L6 14M16 6.5l-1.5 7.5" className="facet" />
+    </svg>
+  );
+}
+
+function Spike({toxic}: {toxic?: boolean}) {
+  return (
+    <svg className={`hz-spike ${toxic ? 'toxic' : ''}`} width="12" height="17" viewBox="0 0 9 13">
+      <path d="M.75 12.25L4.5 1l3.75 11.25z" />
+    </svg>
+  );
+}
+
+function StickyWeb() {
+  return (
+    <svg className="hz-web" width="74" height="24" viewBox="0 0 60 21" aria-hidden>
+      <path d="M30 20.5L10 20.5M30 20.5L15.9 6.4M30 20.5V.5M30 20.5L44.1 6.4M30 20.5H50M16 20.5a14 14 0 0 1 28 0M23 20.5a7 7 0 0 1 14 0" />
+    </svg>
+  );
+}
+
+function Sprout() {
+  return (
+    <svg className="sprout" width="20" height="20" viewBox="0 0 16 16">
+      <path d="M8 15V8.5M8 8.5C8 5.5 6 4 3 4c0 3 2 4.5 5 4.5zM8 10.5c0-2.5 2-4 5-4 0 2.5-2 4-5 4z" />
+    </svg>
+  );
 }
 
 export function TypeBadge({type}: {type: string}) {
@@ -115,11 +204,13 @@ function Stage({view}: {view: BattleView}) {
   const foe = view.foe.active;
   const me = view.me.active;
   return (
-    <section className="stage" aria-label="Battlefield">
+    <section className="stage" aria-label="Battlefield" data-terrain={view.field.terrain?.id}>
+      <StageEffects field={view.field} />
       <FoeRoster side={view.foe} />
       <div className="stage-row foe-row">
         <InfoBox side={view.foe} foe />
         <div className="platform">
+          <PlatformEffects side={view.foe} />
           {foe && (
             <WithPokemonTip p={foe} foe tapToggle tabIndex={0} role="button" aria-label={`Details: opposing ${foe.species}`}>
               <Sprite key={`foe-${foe.name}-${foe.species}`} species={foe.species} size={96} type={foe.types[0]}
@@ -130,6 +221,7 @@ function Stage({view}: {view: BattleView}) {
       </div>
       <div className="stage-row me-row">
         <div className="platform">
+          <PlatformEffects side={view.me} />
           {me && (
             <WithPokemonTip p={me} tapToggle tabIndex={0} role="button" aria-label={`Details: your ${me.species}`}>
               <Sprite key={`me-${me.name}-${me.species}`} species={me.species} size={112} back type={me.types[0]}
@@ -153,9 +245,19 @@ function InfoBox({side, foe}: {side: SideView; foe?: boolean}) {
         </div>
       )}
       {p ? <ActiveDetails p={p} foe={foe} /> : <p className="muted small">{foe ? 'Choosing…' : 'No Pokémon active'}</p>}
-      {side.conditions.length > 0 && (
-        <div className="chips">{side.conditions.map(c => <span key={c} className="chip hazard">{c}</span>)}</div>
-      )}
+      <SideConditions conditions={side.conditions} owner={foe ? 'the opponent’s side' : 'your side'} />
+    </div>
+  );
+}
+
+/** Hazards first (what hurts on switching in), then screens and the rest. */
+function SideConditions({conditions, owner}: {conditions: ConditionView[]; owner: string}) {
+  if (!conditions.length) return null;
+  const hazard = (c: ConditionView) => conditionInfo(c, 'side').kind === 'hazard';
+  const sorted = [...conditions.filter(hazard), ...conditions.filter(c => !hazard(c))];
+  return (
+    <div className="chips side-conds">
+      {sorted.map(c => <ConditionBadge key={c.id} c={c} kind={hazard(c) ? 'hazard' : 'side'} owner={owner} />)}
     </div>
   );
 }
@@ -180,7 +282,9 @@ function ActiveDetails({p, foe}: {p: PokemonView; foe?: boolean}) {
         {Object.entries(p.boosts).map(([k, v]) => (
           <span key={k} className={`chip ${v > 0 ? 'up' : 'down'}`}>{boostLabel(k, v)}</span>
         ))}
-        {p.volatiles.map(v => <span key={v} className="chip">{v}</span>)}
+        {p.volatiles.map(v => (
+          <ConditionBadge key={v.id} c={v} kind="volatile" compact owner={foe ? `the opposing ${p.species}` : `your ${p.species}`} />
+        ))}
       </div>
       {known && <p className="muted tiny known">{known}</p>}
       {foe && p.moves.length > 0 && <p className="muted tiny known">{p.moves.join(', ')}</p>}

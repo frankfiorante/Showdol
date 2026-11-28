@@ -17,8 +17,8 @@ export interface PokemonView {
   fainted: boolean;
   active: boolean;
   boosts: Record<string, number>;
-  /** Volatile conditions worth showing (confusion, substitute, ...). */
-  volatiles: string[];
+  /** Volatile conditions worth showing (confusion, substitute, leech seed, ...). */
+  volatiles: ConditionView[];
   /** The item it holds now. */
   item?: string;
   /** An item it held and lost, with how: "Life Orb (knocked off)". Only when it holds nothing now. */
@@ -105,19 +105,34 @@ export interface BattleResult {
   aiSeen: boolean[];
 }
 
+/** A weather, terrain, field effect, side condition or volatile, as the player can know it. */
+export interface ConditionView {
+  /** Showdown id: 'raindance' → 'rain' for weather, 'stealthrock', 'trickroom', 'leechseed', ... */
+  id: string;
+  name: string;
+  /** Spikes and Toxic Spikes layers. */
+  layers?: number;
+  /**
+   * Turns left counting this one, from public info: min and max differ when
+   * an unseen item (Light Clay, Damp Rock, ...) could extend it. Absent when
+   * it lasts until removed.
+   */
+  turns?: {min: number; max: number};
+}
+
 export interface SideView {
   active: PokemonView | null;
   /** Player: full team in original order. Foe: only revealed Pokémon. */
   team: PokemonView[];
   totalPokemon: number;
-  conditions: string[];
+  conditions: ConditionView[];
 }
 
 export interface BattleView {
   turn: number;
   me: SideView;
   foe: SideView;
-  field: {weather?: string; terrain?: string; pseudoWeather: string[]};
+  field: {weather?: ConditionView; terrain?: ConditionView; pseudoWeather: ConditionView[]};
   /** What the player must answer now, or null while waiting / after the end. */
   prompt: Prompt | null;
   result: BattleResult | null;

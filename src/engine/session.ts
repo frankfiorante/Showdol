@@ -1,4 +1,4 @@
-import {Battle, Dex, PRNG, Teams, extractChannelMessages, type PRNGSeed} from '@pkmn/sim';
+import {Battle, Dex, PRNG, Teams, extractChannelMessages, toID, type PRNGSeed} from '@pkmn/sim';
 import {Battle as ClientBattle, type Pokemon as ClientPokemon} from '@pkmn/client';
 import {gens} from './gens';
 import {boostMultiplier, hintFor, speedRange} from './hints';
@@ -8,7 +8,7 @@ import {FORMAT} from './puzzle';
 import type {BotRequest} from './random-bot';
 import {decisionSeed, type Opponent} from './opponent';
 import {heuristicOpponent} from '@/ai/heuristic';
-import type {BattleResult, BattleView, MoveOption, PokemonView, Prompt, SideView, SpeedEstimate, SwitchOption} from './view';
+import type {BattleResult, BattleView, ConditionView, MoveOption, PokemonView, Prompt, SideView, SpeedEstimate, SwitchOption} from './view';
 
 export type {Opponent} from './opponent';
 
@@ -165,11 +165,7 @@ export class BattleSession {
       turn: this.sim.turn,
       me: this.mySide(),
       foe: this.foeSide(),
-      field: {
-        weather: this.client.field.weather,
-        terrain: this.client.field.terrain,
-        pseudoWeather: Object.keys(this.client.field.pseudoWeather).map(id => Dex.conditions.get(id).name),
-      },
+      field: fieldView(this.client.field),
       prompt: this.sim.ended ? null : this.prompt(),
       result: this.sim.ended ? this.result() : null,
     };
@@ -439,12 +435,42 @@ const SHOWN_VOLATILES = new Set([
   'magnetrise', 'aquaring', 'ingrain', 'destinybond', 'partiallytrapped', 'trapped', 'charge',
 ]);
 
-function volatiles(p: ClientPokemon) {
+function volatiles(p: ClientPokemon): ConditionView[] {
   return Object.keys(p.volatiles)
     .filter(id => SHOWN_VOLATILES.has(id))
-    .map(id => Dex.conditions.get(id).name || id);
+    .map(id => {
+      // Perish Song's count is the only volatile duration the client tracks.
+      const d = id === 'perishsong' ? p.volatiles.perishsong.duration : undefined;
+      const count = typeof d === 'number' ? d : undefined;
+      return {id, name: Dex.conditions.get(id).name || id, turns: count ? {min: count, max: count} : undefined};
+    });
 }
 
-function sideConditions(conds: Record<string, {name: string; level: number}>) {
-  return Object.values(conds).map(c => (c.level > 1 ? `${c.name} ×${c.level}` : c.name));
+interface Timed {minDuration: number; maxDuration: number}
+
+/**
+ * The client counts both ends down each turn, as Showdown's does: "5 or 8
+ * turns" until the longer one is the only one left. Both 0: until removed.
+ */
+function turnsLeft({minDuration: min, maxDuration: max}: Timed): ConditionView['turns'] {
+  if (min && max && min !== max) return {min, max};
+  const n = min || max;
+  return n ? {min: n, max: n} : undefined;
+}
+
+function fieldView(field: ClientBattle['field']): BattleView['field'] {
+  const {weather, terrain} = field;
+  return {
+    weather: weather && {id: toID(weather), name: weather, turns: turnsLeft(field.weatherState)},
+    terrain: terrain && {id: `${toID(terrain)}terrain`, name: `${terrain} Terrain`, turns: turnsLeft(field.terrainState)},
+    pseudoWeather: Object.entries(field.pseudoWeather).map(([id, state]) => ({
+      id, name: Dex.conditions.get(id).name || id, turns: turnsLeft(state),
+    })),
+  };
+}
+
+function sideConditions(conds: Record<string, {name: string; level: number} & Timed>): ConditionView[] {
+  return Object.entries(conds).map(([id, c]) => ({
+    id, name: c.name, layers: c.level > 1 ? c.level : undefined, turns: turnsLeft(c),
+  }));
 }

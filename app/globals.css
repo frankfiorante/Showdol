@@ -59,7 +59,6 @@ button.link { background: none; border: none; color: var(--muted); padding: 0; m
 .chip.up { color: #15803d; } .chip.down { color: #b91c1c; }
 @media (prefers-color-scheme: dark) { .chip.up { color: #4ade80; } .chip.down { color: #f87171; } }
 .chip.tera { background: #40b5a5; color: #fff; }
-.chip.hazard { border: 1px solid var(--border); }
 .chips { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
 
 /* ---------- Sprites ---------- */
@@ -87,13 +86,15 @@ button.link { background: none; border: none; color: var(--muted); padding: 0; m
 .battle-main { padding-top: 12px; }
 .battle .card { margin-top: 10px; padding: 12px; }
 .battle-head { display: flex; justify-content: space-between; gap: 8px; font-weight: 600; font-size: 14px; }
-.field-chips { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+.field-bar { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 6px; }
 
 .stage {
   margin-top: 8px; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;
   background: linear-gradient(var(--stage-top), var(--stage-bottom));
   display: grid; grid-template-rows: auto auto; gap: 2px; padding: 8px;
+  position: relative; isolation: isolate;
 }
+.stage > :not(.fx) { position: relative; z-index: 1; }
 .stage-row { display: grid; align-items: end; gap: 8px; }
 .foe-row { grid-template-columns: minmax(0, 1fr) auto; }
 .me-row { grid-template-columns: auto minmax(0, 1fr); }
@@ -102,7 +103,7 @@ button.link { background: none; border: none; color: var(--muted); padding: 0; m
 .platform::before {
   content: ''; position: absolute; left: 8%; right: 8%; bottom: 4px; height: 22px; border-radius: 50%; background: var(--platform);
 }
-.platform .sprite { position: relative; }
+.platform .sprite { position: relative; z-index: 1; }
 .infobox { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 8px 10px; min-width: 0; }
 .infobox.foe { border-left: 3px solid var(--foe-accent); align-self: start; }
 .infobox.mine { border-left: 3px solid var(--accent); }
@@ -298,3 +299,161 @@ textarea.code { margin: 8px 0; }
 .tip-moves .pp { margin-left: auto; padding-left: 10px; font-variant-numeric: tabular-nums; }
 .team-member { display: flex; flex-direction: column; align-items: center; padding: 2px 6px; }
 .team-grid li .team-member[role="button"] { cursor: help; }
+
+/* ---------- Battle conditions ---------- */
+/* Badges: --c is the condition's color, --c-bg / --c-line translucent versions of it. */
+.cond {
+  display: inline-flex; align-items: center; gap: 4px; padding: 2px 7px 2px 5px; border-radius: 999px;
+  font-size: 12px; font-weight: 600; line-height: 16px; white-space: nowrap;
+  background: var(--c-bg); border: 1px solid var(--c-line); color: var(--fg); cursor: help;
+}
+.cond .cond-icon { color: var(--c); flex: none; }
+.cond-layers { font-variant-numeric: tabular-nums; }
+.cond-turns {
+  font-size: 11px; font-variant-numeric: tabular-nums; padding: 0 5px; border-radius: 999px; margin-right: -3px;
+  background: var(--c); color: #fff; text-shadow: 0 1px 1px rgba(0, 0, 0, .35);
+}
+.cond.bad { border-style: dashed; }
+.cond.compact { padding: 0 6px 0 4px; font-size: 11px; font-weight: 500; }
+.cond:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.field-bar .cond { font-size: 13px; padding: 3px 8px 3px 6px; }
+.side-conds { margin-top: 6px; }
+.cond-tip { border-top: 3px solid var(--c); margin: -10px -12px; padding: 8px 12px 10px; border-radius: 10px; }
+.cond-tip-head { display: flex; align-items: center; gap: 6px; }
+.cond-tip-head .cond-icon { color: var(--c); }
+
+/* Stage effects: weather, terrain and rooms behind the Pokémon and info boxes. */
+.fx { position: absolute; inset: 0; z-index: 0; pointer-events: none; overflow: hidden; border-radius: inherit; }
+.fx-layer { position: absolute; inset: 0; }
+.fx-layer::before, .fx-layer::after { content: ''; position: absolute; }
+@keyframes fx-fall-48 { to { transform: translateY(48px); } }
+@keyframes fx-fall-60 { to { transform: translateY(60px); } }
+@keyframes fx-drift-64 { to { transform: translateX(64px); } }
+@keyframes fx-pulse { 0%, 100% { opacity: 1; } 50% { opacity: .6; } }
+@keyframes fx-flicker { 0%, 100% { opacity: 1; } 46% { opacity: 1; } 48% { opacity: .45; } 50% { opacity: 1; } 53% { opacity: .6; } 56% { opacity: 1; } }
+
+:root { --rain: rgba(37, 99, 235, .55); --snow-halo: rgba(71, 85, 105, .45); --sand: rgba(146, 100, 40, .55); --web: #52525b; }
+@media (prefers-color-scheme: dark) {
+  :root { --rain: rgba(147, 197, 253, .7); --snow-halo: rgba(255, 255, 255, .15); --sand: rgba(232, 196, 140, .5); --web: #e4e4e7; }
+}
+
+.fx-sun, .fx-harshsunshine {
+  background: radial-gradient(circle at 92% -8%, rgba(253, 186, 116, .8), rgba(251, 191, 36, .28) 30%, transparent 62%), rgba(251, 191, 36, .1);
+}
+.fx-sun::before, .fx-harshsunshine::before {
+  inset: 0; background: repeating-conic-gradient(from 200deg at 92% -8%, rgba(255, 236, 150, .32) 0 5deg, transparent 5deg 16deg);
+  animation: fx-pulse 4s ease-in-out infinite;
+}
+.fx-harshsunshine { background-color: rgba(234, 88, 12, .18); }
+
+.fx-rain, .fx-heavyrain { background: linear-gradient(rgba(30, 64, 175, .18), rgba(30, 64, 175, .06)); }
+.fx-rain::before, .fx-heavyrain::before {
+  left: 0; right: 0; top: -48px; bottom: 0; background-size: 40px 48px;
+  background-image:
+    radial-gradient(1px 7px at 6px 8px, var(--rain), transparent),
+    radial-gradient(1px 6px at 22px 32px, var(--rain), transparent),
+    radial-gradient(1px 8px at 33px 18px, var(--rain), transparent);
+  animation: fx-fall-48 .45s linear infinite;
+}
+.fx-heavyrain { background-color: rgba(30, 58, 138, .2); }
+.fx-heavyrain::after {
+  left: 0; right: 0; top: -48px; bottom: 0; background-size: 28px 48px;
+  background-image: radial-gradient(1px 9px at 14px 20px, var(--rain), transparent);
+  animation: fx-fall-48 .3s linear infinite;
+}
+
+.fx-sand { background: rgba(180, 138, 74, .24); }
+.fx-sand::before, .fx-strongwinds::before {
+  top: 0; bottom: 0; left: -64px; right: 0; background-size: 64px 22px;
+  background-image:
+    radial-gradient(10px 1px at 12px 5px, var(--sand), transparent),
+    radial-gradient(7px 1px at 44px 15px, var(--sand), transparent),
+    radial-gradient(1.5px 1.5px at 30px 9px, var(--sand), transparent);
+  animation: fx-drift-64 .7s linear infinite;
+}
+.fx-strongwinds { background: rgba(100, 116, 139, .12); }
+.fx-strongwinds::before {
+  --sand: rgba(148, 163, 184, .6);
+  animation-duration: .45s;
+}
+
+.fx-snow, .fx-hail { background: linear-gradient(rgba(186, 230, 253, .3), rgba(224, 242, 254, .12)); }
+.fx-snow::before, .fx-hail::before {
+  left: 0; right: 0; top: -60px; bottom: 0; background-size: 60px 60px;
+  background-image:
+    radial-gradient(circle 2.4px at 10px 12px, #fff 55%, var(--snow-halo) 70%, transparent),
+    radial-gradient(circle 1.8px at 38px 30px, #fff 55%, var(--snow-halo) 70%, transparent),
+    radial-gradient(circle 2px at 24px 50px, #fff 55%, var(--snow-halo) 70%, transparent),
+    radial-gradient(circle 1.5px at 52px 6px, #fff 55%, var(--snow-halo) 70%, transparent);
+  animation: fx-fall-60 3.2s linear infinite;
+}
+.fx-hail::before { animation-duration: .9s; }
+
+/* Terrain tints the ground and the platforms the Pokémon stand on. */
+.fx-electricterrain { background: linear-gradient(transparent 35%, rgba(234, 179, 8, .3)); animation: fx-flicker 3s linear infinite; }
+.fx-grassyterrain { background: linear-gradient(transparent 35%, rgba(34, 197, 94, .32)); }
+.fx-psychicterrain { background: linear-gradient(transparent 35%, rgba(217, 70, 239, .26)); animation: fx-pulse 3.5s ease-in-out infinite; }
+.fx-mistyterrain {
+  background: radial-gradient(ellipse at 25% 85%, rgba(244, 114, 182, .3), transparent 55%),
+    radial-gradient(ellipse at 75% 55%, rgba(244, 114, 182, .26), transparent 55%), rgba(251, 207, 232, .12);
+  animation: fx-pulse 5s ease-in-out infinite;
+}
+.stage[data-terrain="electricterrain"] .platform::before { background: rgba(234, 179, 8, .5); box-shadow: 0 0 10px rgba(234, 179, 8, .6); }
+.stage[data-terrain="grassyterrain"] .platform::before { background: rgba(34, 197, 94, .5); }
+.stage[data-terrain="psychicterrain"] .platform::before { background: rgba(217, 70, 239, .42); }
+.stage[data-terrain="mistyterrain"] .platform::before { background: rgba(244, 114, 182, .42); }
+
+/* Rooms: Trick Room is a purple grid with a glowing edge. */
+.fx-trickroom {
+  background:
+    repeating-linear-gradient(0deg, rgba(139, 92, 246, .28) 0 1px, transparent 1px 26px),
+    repeating-linear-gradient(90deg, rgba(139, 92, 246, .28) 0 1px, transparent 1px 26px), rgba(139, 92, 246, .1);
+  box-shadow: inset 0 0 0 2px rgba(139, 92, 246, .75), inset 0 0 22px rgba(139, 92, 246, .45);
+  border-radius: inherit; animation: fx-pulse 3s ease-in-out infinite;
+}
+.fx-magicroom {
+  background: radial-gradient(circle 1.5px, rgba(168, 85, 247, .45) 99%, transparent) 0 0 / 18px 18px, rgba(168, 85, 247, .08);
+  box-shadow: inset 0 0 0 2px rgba(168, 85, 247, .5);
+}
+.fx-wonderroom {
+  background: repeating-linear-gradient(45deg, rgba(99, 102, 241, .16) 0 8px, transparent 8px 20px);
+  box-shadow: inset 0 0 0 2px rgba(99, 102, 241, .5);
+}
+.fx-gravity { background: linear-gradient(rgba(49, 46, 129, .32), transparent 55%); }
+
+/* On each platform: hazards on the ground, screens in front of the Pokémon. */
+.ground-hazards {
+  position: absolute; left: 4%; right: 4%; bottom: 3px; z-index: 2; pointer-events: none;
+  display: flex; justify-content: center; align-items: flex-end; gap: 3px;
+}
+.ground-hazards > svg { flex: none; animation: hz-drop .35s ease-out; filter: drop-shadow(0 1px 1px rgba(0, 0, 0, .35)); }
+.ground-hazards > .hz-rocks:first-child { margin-right: auto; }
+.ground-hazards > .hz-rocks.flip { margin-left: auto; transform: scaleX(-1); }
+.hz-rocks path { fill: #a8a29e; stroke: #57534e; stroke-width: 1; stroke-linejoin: round; }
+.hz-rocks .facet { fill: none; stroke: #78716c; stroke-width: .8; }
+.hz-rocks.steel path { fill: #94c4d6; stroke: #3b6b7d; }
+.hz-spike path { fill: #d6d3d1; stroke: #44403c; stroke-width: 1; stroke-linejoin: round; }
+.hz-spike.toxic path { fill: #c084fc; stroke: #6b21a8; }
+.hz-web { position: absolute; left: 50%; bottom: 2px; translate: -50% 0; z-index: 0; pointer-events: none; animation: hz-web-in .35s ease-out; }
+.hz-web path { fill: none; stroke: var(--web); stroke-width: 1; stroke-linecap: round; opacity: .85; }
+@keyframes hz-drop { from { opacity: 0; translate: 0 -8px; } to { opacity: 1; translate: 0 0; } }
+@keyframes hz-web-in { from { opacity: 0; } to { opacity: 1; } }
+
+.screen-wall {
+  position: absolute; z-index: 3; pointer-events: none;
+  inset: calc(2px + var(--i) * 5px) calc(2% + var(--i) * 5px) calc(22px + var(--i) * 5px);
+  border-radius: 14px; border: 2px solid var(--c-line); background: linear-gradient(135deg, var(--c-bg), transparent 55%, var(--c-bg));
+  box-shadow: inset 0 0 14px var(--c-line), 0 0 8px var(--c-bg);
+  animation: screen-up .4s ease-out;
+}
+@keyframes screen-up { from { opacity: 0; transform: scale(.9); } to { opacity: 1; transform: none; } }
+
+.seeded { position: absolute; left: 16%; right: 16%; bottom: 38%; z-index: 4; display: flex; justify-content: space-between; pointer-events: none; }
+.sprout { animation: sprout 1.6s ease-in-out infinite; transform-origin: 50% 100%; filter: drop-shadow(0 0 1.5px #fff) drop-shadow(0 1px 1px rgba(0, 0, 0, .45)); }
+.sprout:last-child { animation-delay: -.8s; }
+.sprout path { fill: #4ade80; stroke: #15803d; stroke-width: 1.2; stroke-linecap: round; stroke-linejoin: round; }
+@keyframes sprout { 0%, 100% { transform: rotate(-8deg); } 50% { transform: rotate(8deg) scale(1.08); } }
+
+@media (prefers-reduced-motion: reduce) {
+  .fx-layer, .fx-layer::before, .fx-layer::after, .ground-hazards > svg, .hz-web, .screen-wall, .sprout { animation: none !important; }
+}
