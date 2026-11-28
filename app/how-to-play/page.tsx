@@ -2,7 +2,11 @@ import type {Metadata} from 'next';
 import Link from 'next/link';
 import {Footer, Nav} from '@/ui/Nav';
 
-export const metadata: Metadata = {title: 'How to play · Showdol'};
+export const metadata: Metadata = {
+  title: 'How to play',
+  description: 'How Showdol works: one Gen 9 Random Battle a day, the same teams for everyone, par, streaks and sharing.',
+  alternates: {canonical: '/how-to-play'},
+};
 
 export default function HowToPlay() {
   return (

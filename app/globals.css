@@ -229,6 +229,7 @@ a { color: var(--accent); }
 .nav-links { display: flex; gap: 14px; font-size: 15px; }
 .nav-links a { padding: 8px 0; white-space: nowrap; }
 .page-title { font-size: 22px; margin: 8px 0 0; }
+.intro p { margin: 4px 0 0; }
 .prose p, .prose ul { margin: 0 0 8px; }
 .prose ul { padding-left: 20px; }
 .share-example { background: var(--chip); padding: 8px 10px; border-radius: 8px; font-size: 14px; }

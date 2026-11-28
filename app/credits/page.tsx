@@ -1,7 +1,11 @@
 import type {Metadata} from 'next';
 import {Footer, Nav} from '@/ui/Nav';
 
-export const metadata: Metadata = {title: 'Credits · Showdol'};
+export const metadata: Metadata = {
+  title: 'Credits',
+  description: 'The open-source projects, sprites and licenses behind Showdol, a free, non-commercial Pokémon fan project.',
+  alternates: {canonical: '/credits'},
+};
 
 export default function Credits() {
   return (

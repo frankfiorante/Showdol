@@ -81,7 +81,7 @@ export function Practice() {
   }
 
   if (rec === undefined || !settings) {
-    return <main><Nav /><p className="muted">Loading…</p></main>;
+    return <main><Nav /><h1 className="page-title">Practice</h1><p className="muted">Loading…</p></main>;
   }
 
   if (battle.error) {
