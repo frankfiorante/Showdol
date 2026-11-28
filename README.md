@@ -1,4 +1,4 @@
-# Showdol
+<a href="https://showdol.com"><img src="app/opengraph-image.png" alt="Showdol: a cartoon kid in a backwards cap faces off against a grumpy robot. You vs. the AI. One Pokémon battle a day." width="600"></a>
 
 A daily Pokémon battle. Each day, everyone gets the same Gen 9 Random Battle team and faces the same AI team. Damage rolls, crits and misses are rolled separately for each player. It runs entirely in the browser: no accounts, no backend, and no connection to Pokémon Showdown's servers.
 
