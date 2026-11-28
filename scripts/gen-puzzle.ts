@@ -3,7 +3,7 @@
  *
  *   pnpm gen:puzzle                       # today (local date)
  *   pnpm gen:puzzle --from 2026-12-01 --days 7
- *   pnpm gen:puzzle --check               # existing files still regenerate identically
+ *   pnpm gen:puzzle --check               # every existing file still regenerates identically
  *
  * Curation: each matchup is played --battles times AI vs AI (default 100).
  * If the player's side wins outside --min..--max (default 0.2..0.8), the day
@@ -19,7 +19,7 @@
  * their own curation battles. Uses all CPU cores; --jobs K to limit.
  */
 import {createHash} from 'node:crypto';
-import {existsSync, mkdirSync, readFileSync, writeFileSync} from 'node:fs';
+import {existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync} from 'node:fs';
 import {availableParallelism} from 'node:os';
 import {dirname, join} from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -121,9 +121,14 @@ interface ParRow { date: string; was: number | null; now: number; par: PuzzleFil
 
 if (process.argv.includes('--check')) {
   // Existing files must still regenerate to the same teams (catches package upgrades).
+  // With no date arguments, checks every file in public/puzzles/.
+  const pickedDates = ['from', 'days', 'dates'].some(name => arg(name) !== undefined);
+  const toCheck = pickedDates
+    ? dates
+    : readdirSync(outDir).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).map(f => f.slice(0, 10)).sort();
   let checked = 0;
   const changed: string[] = [];
-  for (const date of dates) {
+  for (const date of toCheck) {
     if (!existsSync(fileFor(date))) continue;
     const saved: PuzzleFile = JSON.parse(readFileSync(fileFor(date), 'utf8'));
     const again = generatePuzzle(date, saved.reroll);

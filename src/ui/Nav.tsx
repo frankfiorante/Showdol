@@ -22,6 +22,8 @@ export function Footer() {
   return (
     <footer className="site-footer small muted">
       <Link href="/credits">Credits</Link>
+      <span aria-hidden="true"> · </span>
+      <a href="https://github.com/frankfiorante/Showdol" target="_blank" rel="noopener noreferrer">GitHub</a>
     </footer>
   );
 }

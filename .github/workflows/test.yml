@@ -21,6 +21,8 @@ jobs:
           cache: pnpm
       - run: pnpm install --frozen-lockfile
       - run: pnpm typecheck
+      # Published days must never change: every puzzle file has to regenerate identically.
+      - run: pnpm gen:puzzle --check
       - run: pnpm daily:check
       - run: pnpm session:check
       - run: pnpm build

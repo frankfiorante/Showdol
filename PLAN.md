@@ -1,6 +1,8 @@
 # Showdol — Build Plan
 
-_Last updated: Nov 24, 2026_
+_Last updated: Nov 27, 2026_
+
+> This is the original build plan, kept as a design record. The phase notes record what was actually built. For how the code works today, see the [README](README.md).
 
 ## Concept
 
@@ -23,7 +25,7 @@ Showdol is a daily Pokémon battle: one Gen 9 Random Battle (S/V singles) a day 
 | Stats | Browser only (localStorage) |
 | Sign-in | None |
 | Daily reset | Local midnight, device clock, honor system |
-| Hosting | Static site (Vercel or any static host) |
+| Hosting | Static site on Cloudflare Workers (planned as Vercel or any static host) |
 
 ## Architecture
 
@@ -38,7 +40,7 @@ Showdol is a fully static Next.js site. The battle engine and the AI run in a We
 | AI damage math | `@smogon/calc` | Expected damage and KO odds for the heuristic AI |
 | UI | Custom React components | No code from Showdown's AGPL client |
 | Storage | localStorage | One versioned key per player |
-| Hosting | Vercel or any static host | No long-running process needed |
+| Hosting | Cloudflare Workers static assets | No long-running process needed (planned as Vercel) |
 
 **Licensing:** the simulator and the pkmn libraries are MIT. Building our own battle UI avoids the AGPLv3 license on Showdown's official client.
 
@@ -175,7 +177,7 @@ Showdol #12 · W · Beat par ⭐
 You: 5 Pokémon remaining, 22 turns
 Par: 3 Pokémon remaining, 30 turns
 🟩🟩⬛🟩🟩🟩
-showdol.example
+showdol.com
 ```
 
 - **Squares:** your six in team order. Green = still standing at the end, black = fainted.
@@ -304,7 +306,7 @@ The build runs in six phases. Each ends with something playable, and the risky p
 
 ## Open questions
 
-None of these block Phase 0.
+All settled.
 
 - [x] Domain: `showdol.com`
 - [x] Practice mode: unlimited games that don't count, with random teams instead of past puzzles

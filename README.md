@@ -2,9 +2,9 @@
 
 A daily Pokémon battle. Each day, everyone gets the same Gen 9 Random Battle team and faces the same AI team. Damage rolls, crits and misses are rolled separately for each player. It runs entirely in the browser: no accounts, no backend, and no connection to Pokémon Showdown's servers.
 
-See [PLAN.md](PLAN.md) for the full design and build phases.
+See [PLAN.md](PLAN.md) for the original design and build phases, and [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue or pull request.
 
-> **Status:** Phase 5 (stats and sharing). Feature-complete for launch: one game a day against a heuristic AI on a mobile-first battle screen, with stats, share text, export/import and a How to play page. Live at [showdol.com](https://showdol.com). Still to do: pick the launch date.
+> **Status:** Launched. Puzzle #1 was November 25, 2026. One game a day against a heuristic AI on a mobile-first battle screen, with stats, share text, export/import, a How to play page and a practice mode. Live at [showdol.com](https://showdol.com).
 
 ## Getting started
 
@@ -29,7 +29,7 @@ pnpm start        # serves out/
 | `pnpm dev` | Next.js dev server |
 | `pnpm build` | Static export to `out/` |
 | `pnpm typecheck` | TypeScript check |
-| `pnpm gen:puzzle` | Generates and curates puzzle files (today by default). Takes `--from YYYY-MM-DD --days N`, plus `--battles`, `--min`, `--max` and `--rerolls` for curation. `--check` verifies existing files still regenerate to the same teams. Never changes an existing day's file unless given `--force` |
+| `pnpm gen:puzzle` | Generates and curates puzzle files (today by default). Takes `--from YYYY-MM-DD --days N`, plus `--battles`, `--min`, `--max` and `--rerolls` for curation. `--check` verifies every existing file still regenerates to the same teams (or only the given dates). Never changes an existing day's file unless given `--force` |
 | `pnpm session:check` | Plays battles through `BattleSession` with a random player, checking invariants (including that the opponent tooltip's Speed and ability estimates contain the real values) and resuming each one from a random save point. Every fourth battle uses freshly generated practice teams. Takes `--n 300` and `--print` |
 | `pnpm ai:check random\|mirror\|duel` | AI harness: AI vs random bot (both sides), AI vs AI on each day's matchup, or variant weights (`--weights '{"setup":60}'`) vs the defaults with paired seeds |
 | `pnpm ai:watch YYYY-MM-DD` | Prints a compact log of one AI-vs-AI battle on that day's matchup |
@@ -54,17 +54,14 @@ pnpm start        # serves out/
 
 The site is a static export: `pnpm build` writes everything to `out/`, and Cloudflare Workers serves those files as static assets (`wrangler.jsonc`). There's no Worker code, so requests are free and unlimited.
 
-GitHub Actions does the deploying. **Test Project** (`.github/workflows/test.yml`) runs typecheck, `daily:check`, `session:check` and a build on every push and PR to main. When it passes on a push to main, **Deploy Project** (`.github/workflows/deploy.yml`) builds that same commit and runs `wrangler deploy`. Deploy can also be started by hand from the Actions tab. It needs two repo secrets:
+GitHub Actions does the deploying. **Test Project** (`.github/workflows/test.yml`) runs typecheck, `gen:puzzle --check`, `daily:check`, `session:check` and a build on every push and PR to main. When it passes on a push to main, **Deploy Project** (`.github/workflows/deploy.yml`) builds that same commit and runs `wrangler deploy`. Deploy can also be started by hand from the Actions tab. It needs two repo secrets:
 
 - `CLOUDFLARE_API_TOKEN`: a token made from the "Edit Cloudflare Workers" template
 - `CLOUDFLARE_ACCOUNT_ID`: from the Cloudflare dashboard
 
 To check the config locally without deploying, run `pnpm build && npx wrangler@4.168.0 deploy --dry-run`.
 
-Before launch:
-
-1. Set `LAUNCH_DATE` in `src/game/daily.ts` to puzzle #1's date.
-2. Make sure `public/puzzles/` covers that date and the year after (`pnpm gen:puzzle --from <launch date> --days 365`). Existing days are kept, and new ones are curated.
+Puzzle files run through 2027-11-24. Before then, generate the next batch (`pnpm gen:puzzle --from 2027-11-25 --days 365`). Existing days are kept, and new ones are curated. `LAUNCH_DATE` in `src/game/daily.ts` (2026-11-25) sets puzzle #1 and must never change.
 
 ## Project layout
 
