@@ -169,6 +169,9 @@ export default function Home() {
   if (openDate && battle.view) {
     return (
       <main className="battle-main">
+        {storage === 'newer' && (
+          <p className="notice small">A newer version of Showdol is open in another tab. This game is no longer being saved. Reload to continue there.</p>
+        )}
         <BattleScreen
           puzzleNumber={save.games[openDate]?.puzzleNumber ?? puzzleNumber(openDate)!}
           par={save.games[openDate]?.par ?? parFor(openDate)}
@@ -203,15 +206,17 @@ export default function Home() {
       )}
       <HomeCard home={home} puzzle={loadedPuzzle} puzzleError={puzzle instanceof Error ? puzzle.message : null}
         loading={!!openDate || battle.pending} countdown={countdown} firstTime={!Object.keys(save.games).length}
-        onPlay={(p, d) => play(p, d)} onResume={(p, d, r) => resume(p, d, r)} />
+        newerSave={storage === 'newer'} onPlay={(p, d) => play(p, d)} onResume={(p, d, r) => resume(p, d, r)} />
       <Footer />
     </main>
   );
 }
 
-function HomeCard({home, puzzle, puzzleError, loading, countdown, firstTime, onPlay, onResume}: {
+function HomeCard({home, puzzle, puzzleError, loading, countdown, firstTime, newerSave, onPlay, onResume}: {
   home: HomeState;
   firstTime: boolean;
+  /** A newer version's save is stored. Nothing here could be saved, so starting a game is blocked. */
+  newerSave: boolean;
   puzzle: PuzzleFile | null | undefined;
   puzzleError: string | null;
   loading: boolean;
@@ -289,18 +294,22 @@ function HomeCard({home, puzzle, puzzleError, loading, countdown, firstTime, onP
               remaining, or as many in fewer turns, to beat it.</span>
           </p>
         )}
-        <button
-          className="primary wide"
-          disabled={!puzzle || loading}
-          onClick={() => {
-            if (!puzzle) return;
-            if (home.kind === 'resume') onResume(puzzle, home.date, home.record);
-            else onPlay(puzzle, home.date);
-          }}
-        >
-          {loading ? 'Loading battle…' : home.kind === 'resume' ? `Resume (turn ${home.record.turns ?? 1})` : 'Play'}
-        </button>
-        {home.kind === 'play' && <p className="muted small">One game a day. Once you press Play, today counts.</p>}
+        {newerSave ? (
+          <button className="primary wide" onClick={() => window.location.reload()}>Reload to play</button>
+        ) : (
+          <button
+            className="primary wide"
+            disabled={!puzzle || loading}
+            onClick={() => {
+              if (!puzzle) return;
+              if (home.kind === 'resume') onResume(puzzle, home.date, home.record);
+              else onPlay(puzzle, home.date);
+            }}
+          >
+            {loading ? 'Loading battle…' : home.kind === 'resume' ? `Resume (turn ${home.record.turns ?? 1})` : 'Play'}
+          </button>
+        )}
+        {home.kind === 'play' && !newerSave && <p className="muted small">One game a day. Once you press Play, today counts.</p>}
         {home.kind === 'play' && firstTime && (
           <p className="small">New here? <Link href="/how-to-play">How to play</Link></p>
         )}
