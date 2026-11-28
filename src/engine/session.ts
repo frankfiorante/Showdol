@@ -313,7 +313,7 @@ export class BattleSession {
 
   private result(): BattleResult {
     const [me, ai] = this.sim.sides;
-    // Match on base species so forme changes (Mimikyu-Busted, Ogerpon's Tera forms) still count as seen.
+    // Match on base species so form changes (Mimikyu-Busted, Ogerpon's Tera forms) still count as seen.
     // baseSpeciesForme, not speciesForme: a Ditto that fainted transformed still reads as what it copied.
     const base = (name: string) => Dex.species.get(name).baseSpecies;
     const seen = new Set(this.client.p2.team.map(p => base(p.baseSpeciesForme || p.speciesForme)));

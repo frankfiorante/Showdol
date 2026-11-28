@@ -10,7 +10,7 @@ type SpeedSpread = 'normal' | 'slow' | 'both';
 interface Hint { abilities: string[]; spe: SpeedSpread }
 const table = hints as Record<string, Hint>;
 
-/** Looks up a species, falling back from battle-only and cosmetic formes to the set's species. */
+/** Looks up a species, falling back from battle-only and cosmetic forms to the set's species. */
 export function hintFor(speciesName: string): Hint | undefined {
   const species = Dex.species.get(speciesName);
   const battleOnly = Array.isArray(species.battleOnly) ? species.battleOnly[0] : species.battleOnly;
