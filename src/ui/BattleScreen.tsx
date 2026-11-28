@@ -213,8 +213,8 @@ function Stage({view}: {view: BattleView}) {
           <PlatformEffects side={view.foe} />
           {foe && (
             <WithPokemonTip p={foe} foe tapToggle tabIndex={0} role="button" aria-label={`Details: opposing ${foe.species}`}>
-              <Sprite key={`foe-${foe.name}-${foe.species}`} species={foe.species} size={96} type={foe.types[0]}
-                hp={foe.hp} className="enter-foe" />
+              <Sprite key={`foe-${foe.name}`} species={foe.species} size={96} type={foe.types[0]}
+                hp={foe.hp} enter="foe" />
             </WithPokemonTip>
           )}
         </div>
@@ -224,8 +224,8 @@ function Stage({view}: {view: BattleView}) {
           <PlatformEffects side={view.me} />
           {me && (
             <WithPokemonTip p={me} tapToggle tabIndex={0} role="button" aria-label={`Details: your ${me.species}`}>
-              <Sprite key={`me-${me.name}-${me.species}`} species={me.species} size={112} back type={me.types[0]}
-                hp={me.hp} className="enter-me" />
+              <Sprite key={`me-${me.name}`} species={me.species} size={112} back type={me.types[0]}
+                hp={me.hp} enter="me" />
             </WithPokemonTip>
           )}
         </div>
